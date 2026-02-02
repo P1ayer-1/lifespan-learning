@@ -21,14 +21,5 @@ ARCS = [
         "min_tier": 0,
         "max_tier": 1
     },
-    {
-        "arc_id": "verbs_and_nouns",
-        "goal": "learn the difference between actions and things",
-        "skill": "verbs_nouns",
-        "story_beats": ["observe", "confusion", "example", "understanding"],
-        "objects": ["ball", "dog", "cup"],
-        "verbs": ["run", "jump", "hold", "throw"],
-        "locations": ["yard", "room"]
-    }
 
 ]

@@ -1,20 +1,31 @@
 SKILLS = {
-    "counting": { # should do multiplication, divison, subtraction
-        "allow_numbers": [1, 2, 3, 4, 5], # should do random numbers. or atleast random starting number. should do addition w more than just one number at a time (ex. 10, 20, 30)
-        "require_numbers": True
+    "counting": {
+        "description": "learning to count objects",
+        "requires_capabilities": {
+            "counting": True,
+            "multi_step_reasoning": False,
+            "abstract_reasoning": False
+        },
+        "surface_constraints": {
+            "numbers": {
+                "range": [1, 5],
+                "operations": ["count"]
+            }
+        }
     },
-    
-    "verbs_nouns": {
-        "allow_numbers": False,
-        "grammar_focus": ["verbs", "nouns"], 
-        "ban_numbers": True
-    },
+
     "social_interaction": {
-        "allow_numbers": False,
-        "emotion_words_allowed": True,
-        "ban_numbers": True
+        "description": "learning to interact with others",
+        "requires_capabilities": {
+            "perspective_taking": True,
+            "abstract_reasoning": False
+        },
+        "surface_constraints": {
+            "ban_numbers": True
+        }
     }
 }
+
 
 
 
@@ -37,3 +48,5 @@ def build_skill_constraints(skill_spec, arc):
             lines.append(f"- Emotion words allowed: {emotions}")
 
     return "\n".join(lines)
+
+

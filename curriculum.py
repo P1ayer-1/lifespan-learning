@@ -7,48 +7,92 @@
 #     "perspective_taking": True = Whether inner thoughts of others are allowed
 # },
 
+TIER_PROFILES = {
+    0: [
+        {
+            "profile_id": "object_focus",
+            "description": "Simple object perception and naming",
 
-
-
-TIERS = [
-    {
-        "id": 0,
-        "name": "Objects and Naming",
-        "max_sentences": 4,
-        "max_sentence_length": 8,
-        "numbers_allowed": [1, 2, 3],
-        "forbidden_words": ["because", "think", "plan", "before", "after"],
-        "description": "simple observation and labeling"
-    },
-    {
-        "id": 1,
-        "name": "Counting and Categories",
-        "max_sentences": 5,
-        "max_sentence_length": 10,
-        "numbers_allowed": [1, 2, 3, 4, 5],
-        "forbidden_words": ["because", "decide", "remember"],
-        "description": "basic counting with mistakes and correction"
-    },
-    {
-        "id": 2,
-        "name": "Cause and Effect",
-        "max_sentences": 6,
-        "max_sentence_length": 12,
-        "numbers_allowed": [1, 2, 3, 4, 5],
-        "forbidden_words": ["abstract", "theory", "strategy"],
-        "description": "simple cause and effect with feedback"
-    }
-    ,
-    {
-        "id": 3,
-        "name": "Early Social Understanding", # seems like this should be in lower teir
-        "max_sentences": 6,
-        "max_sentence_length": 14,
-        "capabilities": {
-            "abstract_reasoning": False,
-            "planning": False,
-            "perspective_taking": True
+            "surface_constraints": {
+                "ban_numbers": True,
+                "emotion_vocab": ["happy", "sad"],
+                "allowed_verbs": ["see", "hold", "touch", "look"],
+                "allowed_nouns": ["ball", "toy", "cup", "block"]
+            }
         },
-        "forbidden_words": ["theory", "strategy", "always", "never"]
+
+        {
+            "profile_id": "action_focus",
+            "description": "Single immediate actions with objects",
+
+            "surface_constraints": {
+                "ban_numbers": True,
+                "emotion_vocab": ["happy"],
+                "allowed_verbs": ["pick", "drop", "open", "close"],
+                "allowed_nouns": ["door", "box", "toy"]
+            }
+        },
+
+        {
+            "profile_id": "social_presence",
+            "description": "Other people exist, but their minds do not",
+
+            "surface_constraints": {
+                "ban_numbers": True,
+                "emotion_vocab": ["happy", "sad"],
+                "allowed_verbs": ["see", "hold", "sit"],
+                "allowed_nouns": ["mom", "dad", "child", "toy"],
+
+                # Critical: people are objects, not minds
+                "forbid_internal_states_of_others": True
+            }
+        }
+    ]
+}
+
+
+TIERS = {
+    0: {
+        "id": 0,
+        "name": "Perception and Naming",
+        "approx_age": 3,
+        "description": "Immediate perception, naming, and simple actions with no learning or reasoning",
+
+        # What mental operations are possible at all
+        "capabilities": {
+            "learning": False,              # no improvement across attempts
+            "counting": False,
+            "cause_effect": False,
+            "multi_step_reasoning": False,
+            "perspective_taking": False,
+            "planning": False,
+            "abstract_reasoning": False,
+            "metacognition": False
+        },
+
+        # Hard cognitive / structural limits
+        "limits": {
+            "max_sentences": 4,
+            "max_sentence_length": 8,
+            "max_entities": 2,
+            "max_actions_per_sentence": 1,
+            "memory_horizon": 0              # cannot refer back meaningfully
+        },
+
+        # Language-level constraints
+        "language": {
+            "tense": "present_only",
+            "allow_dialogue": False,
+            "allow_questions": False
+        },
+
+        # Strong leakage prevention
+        "forbidden_words": [
+            "because", "why",
+            "think", "know", "realize",
+            "plan", "decide",
+            "before", "after", "later",
+            "lesson", "means"
+        ]
     }
-]
+}
