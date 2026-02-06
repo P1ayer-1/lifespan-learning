@@ -8,9 +8,9 @@ TONES = [
 ]
 
 PARAGRAPH_DISTRIBUTION = [
-    ("two", 0.55),
-    ("three", 0.35),
-    ("four", 0.10),
+    (4, 0.55),
+    (5, 0.35),
+    (6, 0.10),
 ]
 
 def sample_paragraph_count():
@@ -31,21 +31,17 @@ def build_prompt(name, gender, location, exposure):
     nouns = ", ".join(lexicon["nouns"])
     adjectives = ", ".join(lexicon["adjectives"])
 
-    goal_text = f"GOAL:\nExpose {name} to {exposure_goal}.\n"     
+    goal_text = f"exposes {name} to {exposure_goal}."     
 
     prompt = f"""
-You are generating a short, simple story about a 3-year-old {gender} named {name}. The story is set at {location}.
 
-{goal_text}
+You are a children’s short story writer. Your stories are coherent and engaging while exposing 3 year old children to new topics.
+Write a short story (3-{max_paragraphs} paragraphs) about a 3-year-old {gender} named {name}.
+The story is set at {location} and {goal_text}
 
+In the story, try to use the verb "{verbs}", the noun "{nouns}" and the adjective "{adjectives}" at some point. The story should include dialogue.
 
-CONSTRAINTS: 
-- One to {max_paragraphs} paragraphs total 
-- Present tense only 
-- Use at least one verb: {verbs}
-- Use at least one noun: {nouns}
-- Use at least one adjective: {adjectives}
-
+Only use plain text, no markdown formatting. The story should be appropriate for a 3-year-old child.
 """.strip()
 
     print(prompt)
