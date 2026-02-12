@@ -93,7 +93,10 @@ EXPOSURES = {
         "description": "rote number words", 
         "exposure_goal": "rote number words",
         "banned_tones": ["imaginative"],
-        "locations": ["home", "school", "car ride"]
+        "locations": [
+            "at home", "at school", "during a car ride", "at the library",
+            "in a playroom", "at mealtime", "at the playground", "at daycare"
+        ]
     },
 
     "object_categories": {
@@ -102,7 +105,10 @@ EXPOSURES = {
         "description": "animals, toys, foods",
         "exposure_goal": "simple object categories such as: animals, toys and foods",
         "banned_tones": [],
-        "locations": ["home", "school", "park", "car ride", "library"]
+        "locations": [
+            "at home", "at school", "at the park", "during a car ride", "at the library",
+            "at the store", "in a playroom", "at mealtime", "at daycare", "outdoors"
+        ]
     },
 
     "time_words": {
@@ -111,7 +117,10 @@ EXPOSURES = {
         "description": "yesterday, today, tomorrow",
         "exposure_goal": "basic time concepts such as yesterday, today, tomorrow, now, and later",
         "banned_tones": ["excited", "playful", "imaginative"],
-        "locations": ["home", "school", "bedtime", "mealtime"]
+        "locations": [
+            "at home", "at school", "at bedtime", "at mealtime",
+            "at daycare", "during a car ride", "at the bedroom"
+        ]
     },
 
     "social_rules": {
@@ -120,7 +129,10 @@ EXPOSURES = {
         "description": "turn-taking, fairness",
         "exposure_goal": "basic social rules such as turn-taking, sharing, fairness, and following simple group rules",
         "banned_tones": ["excited", "playful"],
-        "locations": ["school", "playground", "home", "daycare"]
+        "locations": [
+            "at school", "at the playground", "at home", "at daycare",
+            "in a playroom", "at the park", "at the library"
+        ]
     },
 
     "colors": {
@@ -129,7 +141,10 @@ EXPOSURES = {
         "description": "basic colors",
         "exposure_goal": "basic color words such as red, blue, yellow, and green",
         "banned_tones": [],
-        "locations": ["home", "school", "park", "art table"]
+        "locations": [
+            "at home", "at school", "at the park", "at the art table",
+            "in a playroom", "at the store", "outdoors"
+        ]
     },
 
     "shapes": {
@@ -138,7 +153,10 @@ EXPOSURES = {
         "description": "basic shapes",
         "exposure_goal": "basic shape concepts such as circle, square, triangle, and rectangle",
         "banned_tones": ["imaginative"],
-        "locations": ["home", "school", "playroom", "block area"]
+        "locations": [
+            "at home", "at school", "in a playroom",
+            "at the art table", "at the library", "at daycare"
+        ]
     },
 
     "emotions": {
@@ -147,7 +165,10 @@ EXPOSURES = {
         "description": "emotional states",
         "exposure_goal": "basic emotions such as happy, sad, angry, scared, and excited",
         "banned_tones": ["excited", "playful"],
-        "locations": ["home", "school", "bedtime", "playground"]
+        "locations": [
+            "at home", "at school", "at bedtime", "at the playground",
+            "at daycare", "at the park", "at mealtime", "at the bedroom"
+        ]
     },
 
     "daily_routines": {
@@ -156,7 +177,10 @@ EXPOSURES = {
         "description": "everyday activities",
         "exposure_goal": "common daily routines such as eating, sleeping, bathing, and getting dressed",
         "banned_tones": ["imaginative"],
-        "locations": ["home", "bathroom", "bedroom", "kitchen"]
+        "locations": [
+            "at home", "at the bathroom", "at the bedroom", "at the kitchen",
+            "at mealtime", "at bedtime", "at daycare"
+        ]
     },
 
     "polite_language": {
@@ -165,7 +189,10 @@ EXPOSURES = {
         "description": "social language",
         "exposure_goal": "polite and functional phrases such as please, thank you, sorry, and asking for help",
         "banned_tones": ["playful", "excited"],
-        "locations": ["home", "school", "playground", "store"]
+        "locations": [
+            "at home", "at school", "at the playground", "at the store",
+            "at the library", "at daycare", "at the park", "at mealtime"
+        ]
     },
 
     "pretend_play": {
@@ -174,7 +201,10 @@ EXPOSURES = {
         "description": "imaginative play",
         "exposure_goal": "pretend play scenarios such as playing house, caring for toys, and role-playing simple situations",
         "banned_tones": ["calm", "patient"],
-        "locations": ["playroom", "school", "home", "outdoors"]
+        "locations": [
+            "in a playroom", "at school", "at home", "outdoors",
+            "at the park", "at daycare", "at the playground"
+        ]
     },
 
     "safety_concepts": {
@@ -183,6 +213,9 @@ EXPOSURES = {
         "description": "basic safety awareness",
         "exposure_goal": "simple safety concepts such as hot vs cold, staying close to caregivers, and not touching dangerous objects",
         "banned_tones": ["playful", "excited", "imaginative"],
-        "locations": ["home", "kitchen", "bathroom", "outdoors"]
+        "locations": [
+            "at home", "at the kitchen", "at the bathroom", "outdoors",
+            "at the playground", "at the park", "during a car ride", "at the store"
+        ]
     },
 }
