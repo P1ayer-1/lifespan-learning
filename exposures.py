@@ -95,7 +95,8 @@ EXPOSURES = {
         "banned_tones": ["imaginative"],
         "locations": [
             "at home", "at school", "during a car ride", "at the library",
-            "in a playroom", "at mealtime", "at the playground", "at daycare"
+            "in a playroom", "at mealtime", "at the playground", "at daycare",
+            "at the store", "at grandparent's house"
         ]
     },
 
@@ -119,7 +120,8 @@ EXPOSURES = {
         "banned_tones": ["excited", "playful", "imaginative"],
         "locations": [
             "at home", "at school", "at bedtime", "at mealtime",
-            "at daycare", "during a car ride", "at the bedroom"
+            "at daycare", "during a car ride", "at the bedroom",
+            "at the park", "at the library", "at the store"
         ]
     },
 
@@ -131,7 +133,8 @@ EXPOSURES = {
         "banned_tones": ["excited", "playful"],
         "locations": [
             "at school", "at the playground", "at home", "at daycare",
-            "in a playroom", "at the park", "at the library"
+            "in a playroom", "at the park", "at the library", "at the store",
+            "at mealtime", "at grandparent's house"
         ]
     },
 
@@ -143,7 +146,8 @@ EXPOSURES = {
         "banned_tones": [],
         "locations": [
             "at home", "at school", "at the park", "at the art table",
-            "in a playroom", "at the store", "outdoors"
+            "in a playroom", "at the store", "outdoors", "at daycare",
+            "at grandparent's house", "at art class"
         ]
     },
 
@@ -155,7 +159,8 @@ EXPOSURES = {
         "banned_tones": ["imaginative"],
         "locations": [
             "at home", "at school", "in a playroom",
-            "at the art table", "at the library", "at daycare"
+            "at the art table", "at the library", "at daycare",
+            "at art class"
         ]
     },
 
@@ -167,7 +172,8 @@ EXPOSURES = {
         "banned_tones": ["excited", "playful"],
         "locations": [
             "at home", "at school", "at bedtime", "at the playground",
-            "at daycare", "at the park", "at mealtime", "at the bedroom"
+            "at daycare", "at the park", "at mealtime", "at the bedroom",
+            "at the library", "at the store"
         ]
     },
 
@@ -179,7 +185,8 @@ EXPOSURES = {
         "banned_tones": ["imaginative"],
         "locations": [
             "at home", "at the bathroom", "at the bedroom", "at the kitchen",
-            "at mealtime", "at bedtime", "at daycare"
+            "at mealtime", "at bedtime", "at daycare", "at grandparent's house",
+            "at school", "at school pickup"
         ]
     },
 
@@ -191,7 +198,8 @@ EXPOSURES = {
         "banned_tones": ["playful", "excited"],
         "locations": [
             "at home", "at school", "at the playground", "at the store",
-            "at the library", "at daycare", "at the park", "at mealtime"
+            "at the library", "at daycare", "at the park", "at mealtime",
+            "at grandparent's house", "during a car ride"
         ]
     },
 
@@ -203,7 +211,8 @@ EXPOSURES = {
         "banned_tones": ["calm", "patient"],
         "locations": [
             "in a playroom", "at school", "at home", "outdoors",
-            "at the park", "at daycare", "at the playground"
+            "at the park", "at daycare", "at the playground",
+            "at grandparent's house", "at a friend's house", "in a forest"
         ]
     },
 
