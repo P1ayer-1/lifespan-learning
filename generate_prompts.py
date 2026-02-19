@@ -1,11 +1,15 @@
 # generate_prompts.py
 
 from prompt_builder import build_prompt
-from names import get_name
+from names import get_name, GENDERS
 from exposures import EXPOSURES
 from tones import TONES
+from tiers import TIERS
 import random
 import json
+
+CONTENT_TYPES = ["exposures", "experiences", "conditioning", "skill_learning"]
+
 
 
 def load_lexicon():
@@ -24,7 +28,6 @@ FEATURES = {
     "twist_or_surprise": "include a twist or surprise",
     "positive_message": "include a positive message",
 }
-GENDERS = ['girl', 'boy']
 
 def sample_features(features: dict) -> dict:
     k = random.randint(0, min(3, len(features)))
@@ -36,7 +39,7 @@ def save_prompts(prompts, output_path):
         json.dump(prompts, f, indent=2)
 
 def generate_prompts(
-        num_prompts=10000
+        prompts_per_tier=10000
 ):
     prompts = []
 
@@ -45,19 +48,20 @@ def generate_prompts(
     nouns = lexicon["nouns"]
     verbs = lexicon["verbs"]
 
-    for _ in range(num_prompts):
-        exposure_key = random.choice(list(EXPOSURES.keys()))
-        exposure = EXPOSURES[exposure_key]
-        location = random.choice(exposure["locations"])
-        gender = random.choice(GENDERS)
-        verb = random.choice(verbs)
-        noun = random.choice(nouns)
-        adjective = random.choice(adjectives)
-        name = get_name(gender)
-        features = sample_features(FEATURES)
-        tone_key = random.choice([k for k in TONES.keys() if k not in exposure["banned_tones"]])     
-        result = build_prompt(name, gender, location, exposure, exposure_key, features, verb, noun, adjective, tone_key)
-        prompts.append(result)
+    for tier, tier_info in TIERS.items():
+        for _ in range(prompts_per_tier):
+            exposure_key = random.choice(list(EXPOSURES.keys()))
+            exposure = EXPOSURES[exposure_key]
+            location = random.choice(exposure["locations"])
+            gender = random.choice(GENDERS)
+            verb = random.choice(verbs)
+            noun = random.choice(nouns)
+            adjective = random.choice(adjectives)
+            name = get_name(gender)
+            features = sample_features(FEATURES)
+            tone_key = random.choice([k for k in TONES.keys() if k not in exposure["banned_tones"]])     
+            result = build_prompt(name, gender, location, exposure, exposure_key, features, verb, noun, adjective, tone_key)
+            prompts.append(result)
     return prompts
 
 

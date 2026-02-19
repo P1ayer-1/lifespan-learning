@@ -1,6 +1,10 @@
 import csv
 import random
 
+GENDERS = ['girl', 'boy']
+
+
+# can make this into class
 def load_names():
     names = {"boys": [], "girls": []}
     with open(r'process-names\top_names_unique_2021_2024.csv', newline='', encoding='utf-8') as csvfile:
@@ -22,3 +26,5 @@ def get_name(gender):
         return random.choice(NAMES["girls"])
     else:
         return random.choice(NAMES["boys"])
+    
+
