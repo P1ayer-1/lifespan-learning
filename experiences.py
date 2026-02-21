@@ -69,5 +69,16 @@ EXPERIENCES = {
             "at the store", "at grandparent's house"
             ],
     },
-
+    "religious_or_cultural_events": {
+        "min_tier": 0,
+        "max_tier": 6,
+        "description": "attending religious or cultural events",
+        "experience_goal": "attending religious or cultural events",
+        "banned_tones": ["imaginative"],
+        "locations": [
+            "at a church", "at a mosque", "at a temple", "at a synagogue",
+            "at a cultural center", "at a community event", "at a festival",
+            "at a parade", "at a ceremony", "at a religious gathering"
+        ]
+    },
 }
