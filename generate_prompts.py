@@ -48,7 +48,7 @@ def generate_prompts(
     nouns = lexicon["nouns"]
     verbs = lexicon["verbs"]
 
-    for tier, tier_info in TIERS.items():
+    for tier in TIERS:
         for _ in range(prompts_per_tier):
             exposure_key = random.choice(list(EXPOSURES.keys()))
             exposure = EXPOSURES[exposure_key]
@@ -60,7 +60,7 @@ def generate_prompts(
             name = get_name(gender)
             features = sample_features(FEATURES)
             tone_key = random.choice([k for k in TONES.keys() if k not in exposure["banned_tones"]])     
-            result = build_prompt(name, gender, location, exposure, exposure_key, features, verb, noun, adjective, tone_key)
+            result = build_exposure_prompt(name, gender, location, exposure, exposure_key, features, verb, noun, adjective, tone_key)
             prompts.append(result)
     return prompts
 
