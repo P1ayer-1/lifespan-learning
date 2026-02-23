@@ -1,0 +1,67 @@
+arcs:
+  - key: learning_music
+    description: learning music
+
+    arcs:
+      conditioning:
+        min_tier: 0
+        max_tier: 3
+
+      skill_learning:
+        min_tier: 3
+        max_tier: 13
+
+    shared_locations:
+      - at home
+      - at school
+      - at grandparent's house
+      - at a friend's house
+      - at a community center
+      - at a music studio
+      - at a concert hall
+      - at a music store
+      - at a band practice room
+
+  - key: learning_sports
+    description: learning sports
+
+    arcs:
+      conditioning:
+        min_tier: 0
+        max_tier: 3
+
+      skill_learning:
+        min_tier: 1
+        max_tier: 6
+
+    shared_locations:
+      - at home
+      - at school
+      - at grandparent's house
+      - at a friend's house
+      - at a community center
+      - at a sports field
+      - at a gym
+      - at a sports club
+      - during a sports practice
+
+  - key: learning_religious_or_cultural_practices
+    description: learning religious or cultural practices
+
+    arcs:
+      conditioning:
+        min_tier: 0
+        max_tier: 3
+
+      skill_learning:
+        min_tier: 1
+        max_tier: 6
+
+    shared_locations:
+      - at home
+      - at school
+      - at grandparent's house
+      - at a friend's house
+      - at a community center
+      - at a religious or cultural center
+      - during a religious or cultural ceremony

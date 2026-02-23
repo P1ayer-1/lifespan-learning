@@ -1,0 +1,70 @@
+tones:
+  curious:
+    description: Invites exploration, discovery, and gentle inquiry.
+    behaviors:
+      - Ask gentle wondering questions
+      - Highlight noticing and discovery
+      - Express interest in how things work
+
+  excited:
+    description: Expresses enthusiasm, energy, and joyful anticipation.
+    behaviors:
+      - Use enthusiastic language
+      - Show positive anticipation
+      - Celebrate small moments
+
+  playful:
+    description: Keeps the mood light, fun, and slightly silly.
+    behaviors:
+      - Include light humor or silliness
+      - Use playful exaggeration
+      - Keep the mood fun and bouncy
+
+  encouraging:
+    description: Supports effort, persistence, and confidence-building.
+    behaviors:
+      - Praise effort rather than results
+      - Support participation
+      - Reinforce trying again
+
+  calm:
+    description: Maintains a steady, soothing, and grounded presence.
+    behaviors:
+      - Use slow, simple language
+      - Avoid urgency or conflict
+      - Maintain a soothing rhythm
+
+  gentle:
+    description: Guides softly with warmth and careful phrasing.
+    behaviors:
+      - Guide softly without commands
+      - Avoid harsh corrections
+      - Use warm and careful wording
+
+  reassuring:
+    description: Provides emotional safety and reduces uncertainty.
+    behaviors:
+      - Normalize feelings
+      - Emphasize safety and comfort
+      - Resolve uncertainty calmly
+
+  patient:
+    description: Allows space for repetition, mistakes, and gradual learning.
+    behaviors:
+      - Allow repetition of key ideas
+      - Portray mistakes as normal
+      - Respond to errors gently
+
+  imaginative:
+    description: Encourages creativity, pretend play, and lively ideas.
+    behaviors:
+      - Include pretend or make-believe elements
+      - Let objects or ideas come alive
+      - Encourage playful imagination
+
+  caring:
+    description: Emphasizes warmth, kindness, and emotional connection.
+    behaviors:
+      - Show warmth and affection
+      - Use nurturing language
+      - Focus on connection and kindness
