@@ -1,0 +1,19 @@
+features:
+  dialogue:
+    instruction: include dialogue
+  problem_and_solution:
+    instruction: include a problem and solution
+  moral_or_lesson:
+    instruction: include a moral or lesson
+  clear_structure:
+    instruction: include a clear beginning, middle, and end
+  repetition_for_emphasis:
+    instruction: include repetition for emphasis
+  sensory_details:
+    instruction: include sensory details
+  humor:
+    instruction: include humor
+  twist_or_surprise:
+    instruction: include a twist or surprise
+  positive_message:
+    instruction: include a positive message
