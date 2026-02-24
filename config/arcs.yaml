@@ -3,11 +3,11 @@ arcs:
     description: learning music
 
     arcs:
-      conditioning:
+      basic_learning:
         min_tier: 0
         max_tier: 3
 
-      skill_learning:
+      advanced_learning:
         min_tier: 3
         max_tier: 13
 
@@ -26,11 +26,11 @@ arcs:
     description: learning sports
 
     arcs:
-      conditioning:
+      basic_learning:
         min_tier: 0
         max_tier: 3
 
-      skill_learning:
+      advanced_learning:
         min_tier: 1
         max_tier: 6
 
@@ -49,11 +49,11 @@ arcs:
     description: learning religious or cultural practices
 
     arcs:
-      conditioning:
+      basic_learning:
         min_tier: 0
         max_tier: 3
 
-      skill_learning:
+      advanced_learning:
         min_tier: 1
         max_tier: 6
 

@@ -4,7 +4,7 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
+      - basic_learning
     description: >
       Play-based learning focused on socialization, emotional regulation,
       language exposure, and foundational motor development.
@@ -23,7 +23,7 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
+      - basic_learning
     description: >
       Structured play and guided discovery emphasizing early literacy
       and numeracy awareness, cooperative learning, and growing independence.
@@ -42,8 +42,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Introduction to formal literacy and numeracy instruction,
       classroom routines, and foundational academic skill development.
@@ -62,8 +62,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Development of reading fluency, structured writing,
       arithmetic mastery, and increasing academic independence.
@@ -82,8 +82,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Expansion of comprehension skills, multiplication and division foundations,
       research introduction, and collaborative projects.
@@ -102,8 +102,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Strengthening analytical reading, multi-step math problem solving,
       and independent study habits.
@@ -122,8 +122,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Critical thinking application across subjects, scientific inquiry skills,
       and personal responsibility for learning.
@@ -142,8 +142,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Increased academic rigor, abstract reasoning in mathematics,
       structured research projects, and leadership development.
@@ -162,8 +162,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Subject-specific instruction with deeper analytical thinking,
       introductory algebra, formal lab work, and self-directed learning strategies.
@@ -182,8 +182,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Consolidation of intermediate skills, critical analysis across disciplines,
       career awareness exploration, and secondary school preparation.
@@ -202,8 +202,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Entry into secondary education with credit-based courses,
       abstract reasoning, scientific methodology, and academic planning.
@@ -222,8 +222,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Expanded discipline-specific competencies, applied research,
       and increasing autonomy in academic and extracurricular commitments.
@@ -242,8 +242,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Pathway specialization, advanced analytical skill development,
       experiential learning, and post-secondary preparation.
@@ -262,8 +262,8 @@ tiers:
     content_types:
       - exposures
       - experiences
-      - conditioning
-      - skill_learning
+      - basic_learning
+      - advanced_learning
     description: >
       Advanced coursework, independent projects or capstone experiences,
       and transition planning for post-secondary education or workforce entry.
