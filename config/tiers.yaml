@@ -2,9 +2,12 @@ tiers:
   - tier: 0
     grade: junior kindergarten
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
+      - content_type: exposures
+        weight: 0.5
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.2
     description: >
       Play-based learning focused on socialization, emotional regulation,
       language exposure, and foundational motor development.
@@ -21,9 +24,12 @@ tiers:
   - tier: 1
     grade: senior kindergarten
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
+      - content_type: exposures
+        weight: 0.4
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
     description: >
       Structured play and guided discovery emphasizing early literacy
       and numeracy awareness, cooperative learning, and growing independence.
@@ -40,10 +46,14 @@ tiers:
   - tier: 2
     grade: 1st grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Introduction to formal literacy and numeracy instruction,
       classroom routines, and foundational academic skill development.
@@ -60,10 +70,14 @@ tiers:
   - tier: 3
     grade: 2nd grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Development of reading fluency, structured writing,
       arithmetic mastery, and increasing academic independence.
@@ -80,10 +94,14 @@ tiers:
   - tier: 4
     grade: 3rd grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Expansion of comprehension skills, multiplication and division foundations,
       research introduction, and collaborative projects.
@@ -100,10 +118,14 @@ tiers:
   - tier: 5
     grade: 4th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Strengthening analytical reading, multi-step math problem solving,
       and independent study habits.
@@ -120,10 +142,14 @@ tiers:
   - tier: 6
     grade: 5th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Critical thinking application across subjects, scientific inquiry skills,
       and personal responsibility for learning.
@@ -140,10 +166,14 @@ tiers:
   - tier: 7
     grade: 6th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Increased academic rigor, abstract reasoning in mathematics,
       structured research projects, and leadership development.
@@ -160,10 +190,14 @@ tiers:
   - tier: 8
     grade: 7th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Subject-specific instruction with deeper analytical thinking,
       introductory algebra, formal lab work, and self-directed learning strategies.
@@ -180,10 +214,14 @@ tiers:
   - tier: 9
     grade: 8th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Consolidation of intermediate skills, critical analysis across disciplines,
       career awareness exploration, and secondary school preparation.
@@ -200,10 +238,14 @@ tiers:
   - tier: 10
     grade: 9th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Entry into secondary education with credit-based courses,
       abstract reasoning, scientific methodology, and academic planning.
@@ -220,10 +262,14 @@ tiers:
   - tier: 11
     grade: 10th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Expanded discipline-specific competencies, applied research,
       and increasing autonomy in academic and extracurricular commitments.
@@ -240,10 +286,14 @@ tiers:
   - tier: 12
     grade: 11th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Pathway specialization, advanced analytical skill development,
       experiential learning, and post-secondary preparation.
@@ -260,10 +310,14 @@ tiers:
   - tier: 13
     grade: 12th grade
     content_types:
-      - exposures
-      - experiences
-      - basic_learning
-      - advanced_learning
+      - content_type: exposures
+        weight: 0.3
+      - content_type: experiences
+        weight: 0.3
+      - content_type: basic_learning
+        weight: 0.3
+      - content_type: advanced_learning
+        weight: 0.1
     description: >
       Advanced coursework, independent projects or capstone experiences,
       and transition planning for post-secondary education or workforce entry.
