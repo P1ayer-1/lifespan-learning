@@ -1,29 +1,6 @@
 # prompt_builder.py
-import random
-from exposures import TONES
-
-PARAGRAPH_DISTRIBUTION = [
-    (4, 0.55),
-    (5, 0.35),
-    (6, 0.10),
-]
-
-def sample_paragraph_count():
-    values, weights = zip(*PARAGRAPH_DISTRIBUTION)
-    return random.choices(values, weights, k=1)[0]
 
 
-def format_features(features: dict) -> str:
-    items = list(features.values())
-    
-    if not items:
-        return ""
-    if len(items) == 1:
-        return items[0]
-    if len(items) == 2:
-        return f"{items[0]} and {items[1]}"
-    
-    return ", ".join(items[:-1]) + ", and " + items[-1]
 
 
 def build_prompt(
