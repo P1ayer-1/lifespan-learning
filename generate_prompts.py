@@ -1,15 +1,19 @@
 # generate_prompts.py
 
+import sys
+
 from prompt_builder import build_prompt
 # from names import get_name, GENDERS
 # from exposures import EXPOSURES
 # from tones import TONES
 from engine.tiers import Tier
+
+from config_loader import load_tiers
 import random
 import json
 import yaml
 
-CONTENT_TYPES = ["exposures", "experiences", "basic_learning", "advanced_learning"]
+CONTENT_TYPES = ["exposures", "experiences", "basic_learning", "advanced_learning"] # need to add sampling
 
 
 
@@ -27,17 +31,25 @@ def generate_prompts(
 ):
     prompts = []
 
-    # lexicon = read_yaml("config/lexicons/tier_0.yaml")
+    # lexicon = read_yaml("config/config/lexicons/tier_0.yaml")
     # print(f"Loaded lexicon with {len(lexicon['adjectives'])} adjectives, {len(lexicon['nouns'])} nouns, and {len(lexicon['verbs'])} verbs.")
     # adjectives = lexicon["adjectives"]
     # nouns = lexicon["nouns"]
     # verbs = lexicon["verbs"]
 
-    tiers = read_yaml(f"config/tiers.yaml")
+    tiers = load_tiers("config/tiers.yaml")
 
 
-    for tier in tiers:
+    for tier_config in tiers:
+        print(tier_config)
+        tier = Tier(tier_config)
         for _ in range(prompts_per_tier):
+            # weighted sampling of content type based on tier configuration
+            content_type = tier.sample_content_type()
+
+            print(f"Sampled content type: {content_type}")
+            sys.exit(0)
+            
             exposure_key = random.choice(list(EXPOSURES.keys()))
             exposure = EXPOSURES[exposure_key]
             location = random.choice(exposure["locations"])
