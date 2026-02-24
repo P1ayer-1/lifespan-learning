@@ -1,54 +1,42 @@
 # generate_prompts.py
 
 from prompt_builder import build_prompt
-from names import get_name, GENDERS
-from exposures import EXPOSURES
-from tones import TONES
-from tiers import TIERS
+# from names import get_name, GENDERS
+# from exposures import EXPOSURES
+# from tones import TONES
+from engine.tiers import Tier
 import random
 import json
+import yaml
 
-CONTENT_TYPES = ["exposures", "experiences", "conditioning", "skill_learning"]
+CONTENT_TYPES = ["exposures", "experiences", "basic_learning", "advanced_learning"]
 
 
-
-def load_lexicon():
-    with open('lexicon.json') as f:
-        lexicon = json.load(f)
-    return lexicon
-
-FEATURES = {
-    "dialogue": "include dialogue",
-    "problem_and_solution": "include a problem and solution",
-    "moral_or_lesson": "include a moral or lesson",
-    "clear_structure": "include a clear beginning, middle, and end",
-    "repetition_for_emphasis": "include repetition for emphasis",
-    "sensory_details": "include sensory details",
-    "humor": "include humor",
-    "twist_or_surprise": "include a twist or surprise",
-    "positive_message": "include a positive message",
-}
-
-def sample_features(features: dict) -> dict:
-    k = random.randint(0, min(3, len(features)))
-    selected_keys = random.sample(list(features.keys()), k)
-    return {key: features[key] for key in selected_keys}
 
 def save_prompts(prompts, output_path):
     with open(output_path, 'w') as f:
         json.dump(prompts, f, indent=2)
+
+def read_yaml(path):
+    with open(path, 'r') as f:
+        data = yaml.safe_load(f)
+    return data
 
 def generate_prompts(
         prompts_per_tier=10000
 ):
     prompts = []
 
-    lexicon = load_lexicon()
-    adjectives = lexicon["adjectives"]
-    nouns = lexicon["nouns"]
-    verbs = lexicon["verbs"]
+    # lexicon = read_yaml("config/lexicons/tier_0.yaml")
+    # print(f"Loaded lexicon with {len(lexicon['adjectives'])} adjectives, {len(lexicon['nouns'])} nouns, and {len(lexicon['verbs'])} verbs.")
+    # adjectives = lexicon["adjectives"]
+    # nouns = lexicon["nouns"]
+    # verbs = lexicon["verbs"]
 
-    for tier in TIERS:
+    tiers = read_yaml(f"config/tiers.yaml")
+
+
+    for tier in tiers:
         for _ in range(prompts_per_tier):
             exposure_key = random.choice(list(EXPOSURES.keys()))
             exposure = EXPOSURES[exposure_key]
