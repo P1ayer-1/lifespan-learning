@@ -1,0 +1,65 @@
+version: 1
+phases:
+  - id: 0
+    name: "Emergent Symbolic Thought"
+    dominant_grades: "JK–SK"
+    description: >
+      Symbol use is emerging but unstable. Thinking is perception-bound,
+      focused on surface features, and limited to single-step causal chains.
+      Rules are followed procedurally rather than conceptually. No reliable
+      coordination of multiple constraints.
+
+  - id: 1
+    name: "Stable Rule-Based Reasoning"
+    dominant_grades: "1–2"
+    description: >
+      Symbols become stable and manipulable under a single rule. Learners
+      can perform short reversible operations and maintain simple
+      multi-step sequences within one constraint. Reasoning remains
+      concrete and breaks under multi-rule coordination.
+
+  - id: 2
+    name: "Relational System Coordination"
+    dominant_grades: "3–5"
+    description: >
+      Multiple relationships can be coordinated within a structured system.
+      Learners track interacting constraints, understand nested categories,
+      and engage in early proportional reasoning. Reasoning is relational
+      but still grounded in concrete referents.
+
+  - id: 3
+    name: "Abstract Variable Reasoning"
+    dominant_grades: "6–8"
+    description: >
+      Variables detach from concrete grounding and become manipulable
+      entities. Learners reason about unseen mechanisms, symbolic
+      structures, and formal relationships. Hypothetical reasoning
+      emerges but is not yet fully systematic.
+
+  - id: 4
+    name: "Systematic Hypothetical Construction"
+    dominant_grades: "9–10"
+    description: >
+      Reasoning becomes combinatorial and possibility-space oriented.
+      Learners deliberately vary variables, construct formal proofs,
+      explore counterfactuals, and build structured abstract models.
+      Assumptions within frameworks are typically unexamined.
+
+  - id: 5
+    name: "Meta-System Integration"
+    dominant_grades: "11"
+    description: >
+      Reasoning systems become objects of analysis. Learners compare
+      competing frameworks, evaluate assumptions, analyze limits of
+      evidence, and reconcile contradictions. Epistemic reflection
+      becomes more stable but may remain domain-specific.
+
+  - id: 6
+    name: "Epistemic Synthesis"
+    dominant_grades: "12"
+    description: >
+      Multiple abstract systems can be integrated into coherent
+      higher-order structures. Learners synthesize perspectives,
+      reason about knowledge boundaries, and construct principled
+      positions that account for competing models and uncertainties.
+      Meta-cognitive monitoring becomes intentional and generalized.
