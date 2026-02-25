@@ -8,10 +8,11 @@ from prompt_builder import build_prompt
 # from tones import TONES
 from engine.tiers import Tier
 
-from config_loader import load_tiers
+from config_loader import load_content_types, load_tiers
 import random
 import json
 import yaml
+from engine.content_types import ContentTypeRegistry
 
 CONTENT_TYPES = ["exposures", "experiences", "basic_learning", "advanced_learning"] # need to add sampling
 
@@ -43,6 +44,18 @@ def generate_prompts(
     for tier_config in tiers:
         print(tier_config)
         tier = Tier(tier_config)
+
+        # load allowed content types for this tier
+        allowed_content_types = tier.content_types
+
+        content_type_registry = load_content_types([f"config/content_types/{ct}.yaml" for ct in ["exposures", "experiences", "arcs"]])
+
+        print(type(allowed_content_types))
+        print(allowed_content_types)
+
+
+
+
         for _ in range(prompts_per_tier):
             # weighted sampling of content type based on tier configuration
             content_type = tier.sample_content_type()
