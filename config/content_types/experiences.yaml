@@ -134,3 +134,13 @@ experiences:
       - at a parade
       - at a ceremony
       - at a religious gathering
+
+  first_day_of_school:
+    min_tier: 0
+    max_tier: 13
+    description: experiencing the first day of school
+    experience_goal: experiencing the first day of school
+    banned_tones:
+      - imaginative
+    locations:
+      - at school
