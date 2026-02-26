@@ -1,16 +1,110 @@
 from datasets import load_dataset
 import json
-from config_loader import load_list
+from lifespan_learning.dataset_generation.prompt import load_list
+from collections import defaultdict
 
 # load phases and tiers
 phase_configs = load_list(r'config\phases.yaml', key='phases')
 tier_configs = load_list(r'config\tiers.yaml')
 
 
-csv_path = r'process-names\input\17100147.csv'
+# Build lookup: tier_id -> age_range
+tier_age_lookup = {
+    tier["tier"]: tier["age_range"]
+    for tier in tier_configs
+}
+
+# Build lookup: tier_id -> age_range
+tier_age_lookup = {
+    tier["tier"]: tier["age_range"]
+    for tier in tier_configs
+}
+
+
+current_year = 2026
+
+phase_mappings = {}
+
+for phase in phase_configs:
+    phase_id = phase["id"]  # or phase["name"]
+    tier_ids = phase.get("tiers", [])
+
+    ages = []
+    for tier_id in tier_ids:
+        age_range = tier_age_lookup.get(tier_id)
+        if age_range:
+            ages.extend(age_range)
+
+    if ages:
+        min_age = min(ages)
+        max_age = max(ages)
+
+        birth_year_range = [
+            current_year - max_age,  # oldest
+            current_year - min_age   # youngest
+        ]
+
+        phase_mappings[phase_id] = {
+            "age_range": [min_age, max_age],
+            "birth_year_range": birth_year_range
+        }
+
+print(phase_mappings)
+
+
+
+csv_path = r'process_names\input\17100147.csv'
 output_path = r'config\names\top_names_unique_2021_2024.json'
 
+print(csv_path)
+
+
 dataset = load_dataset('csv', data_files=csv_path, split='train')
+
+print(f"Total rows in dataset: {len(dataset)}")
+
+# print dataset column names
+print(f"Dataset columns: {dataset.column_names}")
+
+
+
+# Keep only rank rows
+rank_dataset = dataset.filter(lambda x: x["Indicator"] == "Rank")
+
+# Convert VALUE to int safely
+rank_dataset = rank_dataset.map(
+    lambda x: {"RankValue": int(x["VALUE"])}
+)
+
+year_top_names = defaultdict(set)
+
+for row in rank_dataset:
+    year = int(row["REF_DATE"])
+    rank = row["RankValue"]
+
+    if rank <= 100:
+        name = row["First name at birth"].strip().title()
+        year_top_names[year].add(name)
+
+
+phase_name_filters = {}
+
+for phase_id, data in phase_mappings.items():
+    start_year, end_year = data["birth_year_range"]
+
+    excluded_names = set()
+
+    for year in range(start_year, end_year + 1):
+        if year in year_top_names:
+            excluded_names.update(year_top_names[year])
+
+    phase_name_filters[phase_id] = {
+        "age_range": data["age_range"],
+        "birth_year_range": data["birth_year_range"],
+        "excluded_names": sorted(excluded_names)
+    }
+
+print(phase_name_filters)
 
 # YEARS = {2021, 2022, 2023, 2024}
 # GENDERS = {'Boy', 'Girl'}
