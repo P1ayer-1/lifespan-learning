@@ -1,8 +1,8 @@
 from datasets import load_dataset
-import csv
+import json
 
-csv_path = r'D:\Tiny Models\curriculum-learning\process-names\baby-names-frequency_2024.csv'
-output_path = r'D:\Tiny Models\curriculum-learning\process-names\top_names_unique_2021_2024.csv'
+csv_path = r'process-names\input\baby-names-frequency_2024.csv'
+output_path = r'config\names\top_names_unique_2021_2024.json'
 
 dataset = load_dataset('csv', data_files=csv_path, split='train')
 
@@ -47,12 +47,18 @@ gender_counts = {'Boy': 0, 'Girl': 0}
 for entry in best_name_entry.values():
     gender_counts[entry['gender']] += 1
 
-# Write CSV
-with open(output_path, 'w', newline='', encoding='utf-8') as f:
-    writer = csv.writer(f)
-    writer.writerow(['name', 'gender'])
-    for name, entry in sorted(best_name_entry.items()):
-        writer.writerow([name, entry['gender']])
+# change json output to dict with gender as key and list of names as value
+final_output = {}
+for name, entry in best_name_entry.items():
+    gender = entry['gender']
+    if gender not in final_output:
+        final_output[gender] = []
+    final_output[gender].append(name)
+
+# Write json output
+with open(output_path, 'w', newline='', encoding='utf-8') as jsonfile:
+    json.dump(final_output, jsonfile, indent=4)
+
 
 print(f"Total unique names: {len(best_name_entry)}")
 print(f"Boys: {gender_counts['Boy']}")
