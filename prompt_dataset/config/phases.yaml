@@ -3,6 +3,7 @@ phases:
   - id: 0
     name: "Emergent Symbolic Thought"
     dominant_grades: "JK–SK"
+    tiers: [0, 1]
     description: >
       Symbol use is emerging but unstable. Thinking is perception-bound,
       focused on surface features, and limited to single-step causal chains.
@@ -12,6 +13,7 @@ phases:
   - id: 1
     name: "Stable Rule-Based Reasoning"
     dominant_grades: "1–2"
+    tiers: [2, 3]
     description: >
       Symbols become stable and manipulable under a single rule. Learners
       can perform short reversible operations and maintain simple
@@ -21,6 +23,7 @@ phases:
   - id: 2
     name: "Relational System Coordination"
     dominant_grades: "3–5"
+    tiers: [4, 5, 6]
     description: >
       Multiple relationships can be coordinated within a structured system.
       Learners track interacting constraints, understand nested categories,
@@ -30,6 +33,7 @@ phases:
   - id: 3
     name: "Abstract Variable Reasoning"
     dominant_grades: "6–8"
+    tiers: [7, 8, 9]
     description: >
       Variables detach from concrete grounding and become manipulable
       entities. Learners reason about unseen mechanisms, symbolic
@@ -39,6 +43,7 @@ phases:
   - id: 4
     name: "Systematic Hypothetical Construction"
     dominant_grades: "9–10"
+    tiers: [10, 11]
     description: >
       Reasoning becomes combinatorial and possibility-space oriented.
       Learners deliberately vary variables, construct formal proofs,
@@ -48,6 +53,7 @@ phases:
   - id: 5
     name: "Meta-System Integration"
     dominant_grades: "11"
+    tiers: [12]
     description: >
       Reasoning systems become objects of analysis. Learners compare
       competing frameworks, evaluate assumptions, analyze limits of
@@ -57,6 +63,7 @@ phases:
   - id: 6
     name: "Epistemic Synthesis"
     dominant_grades: "12"
+    tiers: [13]
     description: >
       Multiple abstract systems can be integrated into coherent
       higher-order structures. Learners synthesize perspectives,
