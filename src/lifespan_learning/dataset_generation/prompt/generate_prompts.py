@@ -6,4 +6,4 @@ from lifespan_learning.dataset_generation.prompt.engine import PromptDatasetGene
 
 
 if __name__ == "__main__":
-    ds_generator = PromptDatasetGenerator(prompts_per_phase=1000)
+    ds_generator = PromptDatasetGenerator()

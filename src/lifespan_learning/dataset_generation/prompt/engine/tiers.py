@@ -1,10 +1,12 @@
 # tiers.py
 import json
 import random
-from config_loader import load_content_types
+from ..config_loader import load_content_types
 
 class Tier:
-    def __init__(self, config: dict):
+    def __init__(self, config: dict, rng: random.Random):
+        self.rng = rng
+
         self.tier = config["tier"]
         self.grade = config["grade"]
         self.content_types = config["content_types"]
@@ -22,8 +24,7 @@ class Tier:
     def _weighted_sample(self, items, value_key, weight_key="weight"):
         values = [item[value_key] for item in items]
         weights = [item[weight_key] for item in items]
-        print(random.choices(values, weights=weights, k=1)[0])
-        return random.choices(values, weights=weights, k=1)[0]
+        return self.rng.choices(values, weights=weights, k=1)[0]
 
     def sample_paragraph_count(self):
         return self._weighted_sample(
