@@ -1,6 +1,6 @@
 import yaml
-from engine.features import FeatureRegistry
-from engine.content_types import ContentTypeRegistry
+import json
+from lifespan_learning.dataset_generation.prompt.engine.content_types import ContentTypeRegistry
 
 def load_yaml(path: str) -> dict:
     with open(path, "r") as f:
@@ -17,7 +17,7 @@ def load_content_types(paths: list[str]) -> ContentTypeRegistry:
         content_type_data.update(data)
     return ContentTypeRegistry(content_type_data)
 
+def load_json(path: str) -> dict:
+    with open(path, "r") as f:
+        return json.load(f)
 
-# features = load_yaml("config/content_types/arcs.yaml")
-
-# print(features)
