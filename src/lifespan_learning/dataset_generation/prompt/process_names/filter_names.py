@@ -3,16 +3,12 @@ import json
 from lifespan_learning.dataset_generation.prompt import load_list
 from collections import defaultdict
 
+
+### !!! Need to add gender !!!
+
 # load phases and tiers
 phase_configs = load_list(r'config\phases.yaml', key='phases')
 tier_configs = load_list(r'config\tiers.yaml')
-
-
-# Build lookup: tier_id -> age_range
-tier_age_lookup = {
-    tier["tier"]: tier["age_range"]
-    for tier in tier_configs
-}
 
 # Build lookup: tier_id -> age_range
 tier_age_lookup = {
@@ -68,23 +64,33 @@ print(f"Dataset columns: {dataset.column_names}")
 
 
 
-# Keep only rank rows
+# Keep only Rank rows
 rank_dataset = dataset.filter(lambda x: x["Indicator"] == "Rank")
 
-# Convert VALUE to int safely
+# Normalize types
 rank_dataset = rank_dataset.map(
-    lambda x: {"RankValue": int(x["VALUE"])}
+    lambda x: {
+        "Year": int(x["REF_DATE"]),
+        "RankValue": int(x["VALUE"]),
+        "Name": x["First name at birth"].strip().title()
+    }
 )
 
-year_top_names = defaultdict(set)
+year_top_names = defaultdict(dict)
 
 for row in rank_dataset:
-    year = int(row["REF_DATE"])
+    year = row["Year"]
     rank = row["RankValue"]
+    name = row["Name"]
 
     if rank <= 100:
-        name = row["First name at birth"].strip().title()
-        year_top_names[year].add(name)
+        if name not in year_top_names[year]:
+            year_top_names[year][name] = rank
+        else:
+            year_top_names[year][name] = min(
+                year_top_names[year][name],
+                rank
+            )
 
 
 phase_name_filters = {}
@@ -92,75 +98,62 @@ phase_name_filters = {}
 for phase_id, data in phase_mappings.items():
     start_year, end_year = data["birth_year_range"]
 
-    excluded_names = set()
+    excluded_names = {}
 
     for year in range(start_year, end_year + 1):
         if year in year_top_names:
-            excluded_names.update(year_top_names[year])
+            for name, rank in year_top_names[year].items():
+                if name not in excluded_names:
+                    excluded_names[name] = rank
+                else:
+                    excluded_names[name] = min(
+                        excluded_names[name],
+                        rank
+                    )
 
     phase_name_filters[phase_id] = {
         "age_range": data["age_range"],
         "birth_year_range": data["birth_year_range"],
-        "excluded_names": sorted(excluded_names)
+        "excluded_names": dict(
+            sorted(excluded_names.items(), key=lambda x: x[1])
+        )
     }
 
 print(phase_name_filters)
 
-# YEARS = {2021, 2022, 2023, 2024}
-# GENDERS = {'Boy', 'Girl'}
-
-# # name -> { gender, rank }
-# best_name_entry = {}
-
-# for year in YEARS:
-#     for gender in GENDERS:
-#         # Filter rows for this year & gender
-#         filtered = [
-#             row for row in dataset
-#             if row['Year'] == year and row['Gender'] == gender
-#         ]
-
-#         # Sort by ranking (lower = better)
-#         filtered.sort(key=lambda x: x['Ranking by Gender & Year'])
-
-#         # Take top 100 entries
-#         for row in filtered[:100]:
-#             name = row['First Name'].strip()
-#             rank = row['Ranking by Gender & Year']
-
-#             # If name not seen yet, store it
-#             if name not in best_name_entry:
-#                 best_name_entry[name] = {
-#                     'gender': gender,
-#                     'rank': rank
-#                 }
-#             else:
-#                 # If seen, keep the better-ranked one
-#                 if rank < best_name_entry[name]['rank']:
-#                     best_name_entry[name] = {
-#                         'gender': gender,
-#                         'rank': rank
-#                     }
-
-# # Count by gender
-# gender_counts = {'Boy': 0, 'Girl': 0}
-# for entry in best_name_entry.values():
-#     gender_counts[entry['gender']] += 1
-
-# # change json output to dict with gender as key and list of names as value
-# final_output = {}
-# for name, entry in best_name_entry.items():
-#     gender = entry['gender']
-#     if gender not in final_output:
-#         final_output[gender] = []
-#     final_output[gender].append(name)
-
-# # Write json output
-# with open(output_path, 'w', newline='', encoding='utf-8') as jsonfile:
-#     json.dump(final_output, jsonfile, indent=4)
+# print length of excluded names for each phase
+for phase_id, data in phase_name_filters.items():
+    print(f"Phase {phase_id} - Excluded names: {len(data['excluded_names'])}")
 
 
-# print(f"Total unique names: {len(best_name_entry)}")
-# print(f"Boys: {gender_counts['Boy']}")
-# print(f"Girls: {gender_counts['Girl']}")
-# print(f"Output written to: {output_path}")
+def calculate_overlap(phase_ids: list[str]) -> None:
+
+    for i in range(len(phase_ids)):
+        for j in range(i + 1, len(phase_ids)):
+            phase_a = phase_ids[i]
+            phase_b = phase_ids[j]
+
+            names_a = set(phase_name_filters[phase_a]["excluded_names"].keys())
+            names_b = set(phase_name_filters[phase_b]["excluded_names"].keys())
+
+            overlap = names_a.intersection(names_b)
+
+            overlap_a_to_b = (len(overlap) / len(names_a) * 100) if names_a else 0.0
+            overlap_b_to_a = (len(overlap) / len(names_b) * 100) if names_b else 0.0
+
+            print(
+                f"{phase_a} → {phase_b}: "
+                f"{overlap_a_to_b:.2f}% of {phase_a} names appear in {phase_b} "
+                f"({len(overlap)} names)"
+            )
+
+            print(
+                f"{phase_b} → {phase_a}: "
+                f"{overlap_b_to_a:.2f}% of {phase_b} names appear in {phase_a}"
+            )
+
+            print("-" * 50)
+
+phase_ids = list(phase_name_filters.keys())
+
+calculate_overlap(phase_ids)
