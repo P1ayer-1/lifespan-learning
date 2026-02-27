@@ -1,5 +1,5 @@
-from config_loader import load_list
-from engine.phases import Phase
+from lifespan_learning.dataset_generation.prompt import load_list, load_json 
+from lifespan_learning.dataset_generation.prompt.engine import Phase 
 
 class PromptDatasetGenerator:
     def __init__(self, prompts_per_phase):
@@ -8,13 +8,16 @@ class PromptDatasetGenerator:
         phase_configs = load_list("config/phases.yaml", key="phases")
         # get tier configs for each phase
         tier_configs = load_list("config/tiers.yaml", key="tiers")
-        phased_tier_configs = {}
-        for phase in phase_configs:
-            tier_ids = phase.get("tiers", [])
-            phased_tier_configs[phase["id"]] = tier_configs[tier_ids[0]:tier_ids[-1]+1]
+
+        names_configs = load_json("config/names/names_gendered.json")
+
+        self.phases = []
+        for phase_config, name_config in zip(phase_configs, names_configs):
+            tier_ids = phase_config.get("tiers", [])
+            tier_config = tier_configs[tier_ids[0]:tier_ids[-1]+1]
+            self.phases.append(Phase(phase_config, tier_config, name_config))
         
-        
-        self.phases = [Phase(config, phased_tier_configs[config["id"]]) for config in phase_configs]
+
 
 
     def generate_prompts(self):
