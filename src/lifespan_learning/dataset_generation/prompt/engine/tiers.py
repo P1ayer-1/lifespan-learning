@@ -2,6 +2,7 @@
 import json
 import random
 from ..config_loader import load_content_types
+from .lexicon import Lexicon
 
 class Tier:
     def __init__(self, config: dict, rng: random.Random):
@@ -15,7 +16,7 @@ class Tier:
         self.paragraph_distribution = config["paragraph_distribution"]
        
         self.lexicon_path = config["lexicon_path"]
-        self.lexicon = self.load_lexicon()
+        self.lexicon = Lexicon(self.lexicon_path, rng=self.rng)
 
         self.content_type_registry = self.load_content_types()
 
@@ -38,11 +39,6 @@ class Tier:
             value_key="content_type"
         )
     
-    def load_lexicon(self):
-        with open(self.lexicon_path) as f:
-            lexicon = json.load(f)
-        return lexicon
-    
     def get_content_type_paths(self):
         paths = []
         for ct in self.content_types:
@@ -56,4 +52,15 @@ class Tier:
     def load_content_types(self):
         paths = self.get_content_type_paths()
         
-        return load_content_types(paths)
+        return load_content_types(paths, allowed_content_types=[ct["content_type"] for ct in self.content_types])
+
+    def generate_prompt(self):
+        # placeholder for now
+        content_type_key = self.sample_content_type()
+        content_type = self.content_type_registry.get(content_type_key)
+
+        paragraph_count = self.sample_paragraph_count()
+
+        verb, noun, adjective = self.lexicon.sample_lexicon()
+
+        return content_type.generate_content(verb, noun, adjective, paragraph_count)
