@@ -1,9 +1,9 @@
 exposures:
-  number_words:
+  - key: number_words
     min_tier: 0
     max_tier: 0
     description: rote number words
-    exposure_goal: rote number words
+    goal: rote number words
     banned_tones:
       - imaginative
     locations:
@@ -18,11 +18,11 @@ exposures:
       - at the store
       - at grandparent's house
 
-  object_categories:
+  - key: object_categories
     min_tier: 0
     max_tier: 1
     description: animals, toys, foods
-    exposure_goal: "simple object categories such as: animals, toys and foods"
+    goal: "simple object categories such as: animals, toys and foods"
     banned_tones: []
     locations:
       - at home
@@ -36,11 +36,11 @@ exposures:
       - at daycare
       - outdoors
 
-  time_words:
+  - key: time_words
     min_tier: 0
     max_tier: 1
     description: yesterday, today, tomorrow
-    exposure_goal: basic time concepts such as yesterday, today, tomorrow, now, and later
+    goal: basic time concepts such as yesterday, today, tomorrow, now, and later
     banned_tones:
       - excited
       - playful
@@ -57,11 +57,11 @@ exposures:
       - at the library
       - at the store
 
-  social_rules:
+  - key: social_rules
     min_tier: 0
     max_tier: 3
     description: turn-taking, fairness
-    exposure_goal: basic social rules such as turn-taking, sharing, fairness, and following simple group rules
+    goal: basic social rules such as turn-taking, sharing, fairness, and following simple group rules
     banned_tones:
       - excited
       - playful
@@ -77,11 +77,11 @@ exposures:
       - at mealtime
       - at grandparent's house
 
-  colors:
+  - key: colors
     min_tier: 0
     max_tier: 1
     description: basic colors
-    exposure_goal: basic color words such as red, blue, yellow, and green
+    goal: basic color words such as red, blue, yellow, and green
     banned_tones: []
     locations:
       - at home
@@ -95,11 +95,11 @@ exposures:
       - at grandparent's house
       - at art class
 
-  shapes:
+  - key: shapes
     min_tier: 0
     max_tier: 1
     description: basic shapes
-    exposure_goal: basic shape concepts such as circle, square, triangle, and rectangle
+    goal: basic shape concepts such as circle, square, triangle, and rectangle
     banned_tones:
       - imaginative
     locations:
@@ -111,11 +111,11 @@ exposures:
       - at daycare
       - at art class
 
-  emotions:
+  - key: emotions
     min_tier: 0
     max_tier: 2
     description: emotional states
-    exposure_goal: basic emotions such as happy, sad, angry, scared, and excited
+    goal: basic emotions such as happy, sad, angry, scared, and excited
     banned_tones:
       - excited
       - playful
@@ -131,11 +131,11 @@ exposures:
       - at the library
       - at the store
 
-  daily_routines:
+  - key: daily_routines
     min_tier: 0
     max_tier: 2
     description: everyday activities
-    exposure_goal: common daily routines such as eating, sleeping, bathing, and getting dressed
+    goal: common daily routines such as eating, sleeping, bathing, and getting dressed
     banned_tones:
       - imaginative
     locations:
@@ -150,11 +150,11 @@ exposures:
       - at school
       - at school pickup
 
-  polite_language:
+  - key: polite_language
     min_tier: 0
     max_tier: 2
     description: social language
-    exposure_goal: polite and functional phrases such as please, thank you, sorry, and asking for help
+    goal: polite and functional phrases such as please, thank you, sorry, and asking for help
     banned_tones:
       - playful
       - excited
@@ -170,11 +170,11 @@ exposures:
       - at grandparent's house
       - during a car ride
 
-  pretend_play:
+  - key: pretend_play
     min_tier: 0
     max_tier: 3
     description: imaginative play
-    exposure_goal: pretend play scenarios such as playing house, caring for toys, and role-playing simple situations
+    goal: pretend play scenarios such as playing house, caring for toys, and role-playing simple situations
     banned_tones:
       - calm
       - patient
@@ -190,11 +190,11 @@ exposures:
       - at a friend's house
       - in a forest
 
-  safety_concepts:
+  - key: safety_concepts
     min_tier: 0
     max_tier: 2
     description: basic safety awareness
-    exposure_goal: simple safety concepts such as hot vs cold, staying close to caregivers, and not touching dangerous objects
+    goal: simple safety concepts such as hot vs cold, staying close to caregivers, and not touching dangerous objects
     banned_tones:
       - playful
       - excited

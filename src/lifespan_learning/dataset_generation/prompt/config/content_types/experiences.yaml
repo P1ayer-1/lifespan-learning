@@ -1,9 +1,9 @@
 experiences:
-  playing_sports:
+  - key: playing_sports
     min_tier: 1
     max_tier: 6
     description: playing sports
-    experience_goal: playing sports
+    goal: playing sports
     banned_tones:
       - imaginative
     locations:
@@ -39,11 +39,11 @@ experiences:
       - at a backyard
       - at a schoolyard
 
-  playing_music:
+  - key: playing_music
     min_tier: 1
     max_tier: 6
     description: playing music
-    experience_goal: playing music
+    goal: playing music
     banned_tones:
       - imaginative
     locations:
@@ -61,11 +61,11 @@ experiences:
       - in the backyard
       - in the living room
 
-  watching_sports:
+  - key: watching_sports
     min_tier: 0
     max_tier: 6
     description: watching sports
-    experience_goal: watching sports
+    goal: watching sports
     banned_tones:
       - imaginative
     locations:
@@ -79,11 +79,11 @@ experiences:
       - at a gymnasium
       - at a sports complex
 
-  drawing_or_crafting:
+  - key: drawing_or_crafting
     min_tier: 1
     max_tier: 6
     description: drawing or crafting
-    experience_goal: drawing or crafting
+    goal: drawing or crafting
     banned_tones:
       - imaginative
     locations:
@@ -97,11 +97,11 @@ experiences:
       - at the store
       - at grandparent's house
 
-  cooking_or_baking:
+  - key: cooking_or_baking
     min_tier: 1
     max_tier: 6
     description: cooking or baking
-    experience_goal: cooking or baking
+    goal: cooking or baking
     banned_tones:
       - imaginative
     locations:
@@ -116,11 +116,11 @@ experiences:
       - at the store
       - at grandparent's house
 
-  religious_or_cultural_events:
+  - key: religious_or_cultural_events
     min_tier: 0
     max_tier: 6
     description: attending religious or cultural events
-    experience_goal: attending religious or cultural events
+    goal: attending religious or cultural events
     banned_tones:
       - imaginative
     locations:
@@ -135,11 +135,11 @@ experiences:
       - at a ceremony
       - at a religious gathering
 
-  first_day_of_school:
+  - key: first_day_of_school
     min_tier: 0
     max_tier: 13
     description: experiencing the first day of school
-    experience_goal: experiencing the first day of school
+    goal: experiencing the first day of school
     banned_tones:
       - imaginative
     locations:
