@@ -1,8 +1,7 @@
-import sys
-
+import random
 import yaml
 import json
-from lifespan_learning.dataset_generation.prompt.engine.content_types import ContentTypeRegistry
+from lifespan_learning.dataset_generation.prompt.engine.content_type_registry import ContentTypeRegistry
 
 def load_yaml(path: str) -> dict:
     with open(path, "r") as f:
@@ -42,7 +41,7 @@ def build_arc_configs(content_type_data: dict):
     )
 
 
-def load_content_types(paths: list[str], allowed_content_types: list[str], tier: int) -> ContentTypeRegistry:
+def load_content_types(paths: list[str], allowed_content_types: list[str], tier: int, rng: random.Random) -> ContentTypeRegistry:
     allowed_content_type_data = {}
 
     for path in paths:
@@ -69,7 +68,7 @@ def load_content_types(paths: list[str], allowed_content_types: list[str], tier:
                     if ct["min_tier"] <= tier <= ct["max_tier"]:
                         allowed_content_type_data.setdefault(content_type, []).append(ct)
 
-    return ContentTypeRegistry(allowed_content_type_data, allowed_content_types)
+    return ContentTypeRegistry(allowed_content_type_data, allowed_content_types, rng)
 
 def load_json(path: str) -> dict:
     with open(path, "r") as f:
