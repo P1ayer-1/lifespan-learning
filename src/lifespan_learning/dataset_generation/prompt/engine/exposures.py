@@ -1,19 +1,15 @@
 
+from .generation_configs import PromptConfig, ContentTypeConfig
+from .content_type import ContentType
 
-class Exposure:
-    def __init__(self, content_type, tier):
-        self.content_type = content_type
-        self.tier = tier
 
-    def build_prompt(self, context):
-        raise NotImplementedError
-    
-class Phase0Exposure(Exposure):
-    def __init__(self, content_type, tier):
-        super().__init__(content_type, tier)
+class Exposure(ContentType):
+    def __init__(self, config):
+        super().__init__(config)
 
-    def build_prompt(self, context):
-        exposure_goal = exposure["exposure_goal"]
+    def build_prompt(self, prompt_config: PromptConfig):
+        name = prompt_config.name
+        goal = prompt_config.goal
 
         max_paragraphs = sample_paragraph_count()
 
@@ -63,3 +59,4 @@ class Phase0Exposure(Exposure):
             },
             "prompt": prompt
         }
+    
