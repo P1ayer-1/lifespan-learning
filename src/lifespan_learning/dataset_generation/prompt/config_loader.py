@@ -15,22 +15,31 @@ def load_list(path: str, key: str = "tiers") -> list[dict]:
 def build_arc_configs(content_type_data: dict):
     key = content_type_data["key"]
     description = content_type_data["description"]
-    shared_config = {"key": key, "description": description}
+
     shared_locations = content_type_data.get("shared_locations", [])
-    shared_config["locations"] = shared_locations
-    shared_config["banned_tones"] = content_type_data.get("shared_banned_tones", [])
+    shared_banned_tones = content_type_data.get("shared_banned_tones", [])
 
-    basic_config = shared_config.copy()
-    basic_config.update(content_type_data["arcs"]["basic_learning"])
-    advanced_config = shared_config.copy()
-    advanced_config.update(content_type_data["arcs"]["advanced_learning"])
+    def build_config(arc_name: str):
+        arc_data = content_type_data["arcs"][arc_name]
 
-    basic_config["locations"] = shared_locations + basic_config.get("locations", [])
-    basic_config["banned_tones"] = shared_config["banned_tones"] + basic_config.get("banned_tones", [])
-    advanced_config["locations"] = shared_locations + advanced_config.get("locations", [])
-    advanced_config["banned_tones"] = shared_config["banned_tones"] + advanced_config.get("banned_tones", [])
+        return {
+            "key": key,
+            "description": description,
+            **arc_data,
+            "locations": [
+                *shared_locations,
+                *arc_data.get("locations", []),
+            ],
+            "banned_tones": [
+                *shared_banned_tones,
+                *arc_data.get("banned_tones", []),
+            ],
+        }
 
-    return basic_config, advanced_config
+    return (
+        build_config("basic_learning"),
+        build_config("advanced_learning"),
+    )
 
 
 def load_content_types(paths: list[str], allowed_content_types: list[str], tier: int) -> ContentTypeRegistry:
