@@ -40,19 +40,19 @@ class Tier:
         )
     
     def get_content_type_paths(self):
-        paths = []
+        paths = set()
         for ct in self.content_types:
             content_type = ct["content_type"]
             if content_type in ["basic_learning", "advanced_learning"]:
-                paths.append(f"config/content_types/arcs.yaml")
+                paths.add(f"config/content_types/arcs.yaml")
             else:
-                paths.append(f"config/content_types/{content_type}.yaml")
-        return paths
+                paths.add(f"config/content_types/{content_type}.yaml")
+        return list(paths)
 
     def load_content_types(self):
         paths = self.get_content_type_paths()
         
-        return load_content_types(paths, allowed_content_types=[ct["content_type"] for ct in self.content_types])
+        return load_content_types(paths, allowed_content_types=[ct["content_type"] for ct in self.content_types], tier=self.tier)
 
     def generate_prompt(self):
         # placeholder for now
