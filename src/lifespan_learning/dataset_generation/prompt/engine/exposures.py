@@ -1,37 +1,27 @@
 
+from .generation_configs import PromptConfig, ContentTypeConfig
+from .content_type import ContentType
+import random
 
-class Exposure:
-    def __init__(self, content_type, tier):
-        self.content_type = content_type
-        self.tier = tier
 
-    def build_prompt(self, context):
-        raise NotImplementedError
-    
-class Phase0Exposure(Exposure):
-    def __init__(self, content_type, tier):
-        super().__init__(content_type, tier)
+class Exposure(ContentType):
+    def __init__(self, config: ContentTypeConfig, rng: random.Random):
+        super().__init__(config, rng=rng)
 
-    def build_prompt(self, context):
-        exposure_goal = exposure["exposure_goal"]
+    def build_prompt(self, prompt_config: PromptConfig):
 
-        max_paragraphs = sample_paragraph_count()
+        name = prompt_config.name
+        goal = prompt_config.goal
+        min_paragraphs = prompt_config.min_paragraphs
+        max_paragraphs = prompt_config.max_paragraphs
+        gender = prompt_config.gender
+        location = prompt_config.location
 
-        min_paragraphs = 3
-        if max_paragraphs == 6:
-            min_paragraphs = 4
+        goal_text = f"exposes {name} to {goal}."
 
-        if features:
-            formatted_features = format_features(features)
-            features_text = f"The story should {formatted_features}."
-        else:
-            features_text = ""
-
-        goal_text = f"exposes {name} to {exposure_goal}."
-
-        tone = TONES[tone_key]
-        tone_label = tone["label"]
-        tone_behaviors = "\n".join(f"- {b}" for b in tone["behaviors"])
+        tone = prompt_config.tone
+        tone_label = tone.key
+        tone_behaviors = "\n".join(f"- {b}" for b in tone.behaviors)
 
         prompt = f"""
     You are a children’s short story writer. Your stories are coherent and engaging while introducing new topics to 3-year-old children.
@@ -43,23 +33,10 @@ class Phase0Exposure(Exposure):
     Tone behaviors:
     {tone_behaviors}
 
-    In the story, try to use the verb "{verb}", the noun "{noun}" and the adjective "{adjective}" at some point.
-    {features_text}
+    In the story, try to use the verb "{prompt_config.verb}", the noun "{prompt_config.noun}" and the adjective "{prompt_config.adjective}" at some point.
+    {prompt_config.features}
 
     Only use plain text, no markdown formatting. The story should be appropriate for a 3-year-old child.
     """.strip()
 
-        return {
-            "metadata": {
-                "name": name,
-                "gender": gender,
-                "location": location,
-                "exposure": exposure_key,
-                "features": list(features.keys()),
-                "verb": verb,
-                "noun": noun,
-                "adjective": adjective,
-                "tone": tone_key,
-            },
-            "prompt": prompt
-        }
+        return prompt

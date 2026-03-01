@@ -1,11 +1,19 @@
 import random
 
 from ..config_loader import load_list, load_json 
+from .tones import ToneRegistry
+from .features import FeatureRegistry
 from lifespan_learning.dataset_generation.prompt.engine import Phase 
 
 class PromptDatasetGenerator:
     def __init__(self, seed: int = 42):
         self.rng = random.Random(seed)
+
+        tones_config = load_list("config/tones.yaml", key="tones")
+        self.tone_registry = ToneRegistry(tones_config, rng=self.rng)
+
+        features_config = load_list("config/features.yaml", key="features")
+        self.feature_registry = FeatureRegistry(features_config, rng=self.rng)
 
         phase_configs = load_list("config/phases.yaml", key="phases")
         # get tier configs for each phase
@@ -17,7 +25,7 @@ class PromptDatasetGenerator:
         for phase_config, (_, name_config) in zip(phase_configs, names_configs.items()):
             tier_ids = phase_config.get("tiers", [])
             tier_config = tier_configs[tier_ids[0]:tier_ids[-1]+1]
-            self.phases.append(Phase(phase_config, tier_config, name_config, rng=self.rng))
+            self.phases.append(Phase(phase_config, tier_config, name_config, tone_registry=self.tone_registry, feature_registry=self.feature_registry, rng=self.rng))
         
 
 

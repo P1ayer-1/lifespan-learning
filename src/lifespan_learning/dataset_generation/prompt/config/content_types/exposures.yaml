@@ -1,9 +1,9 @@
 exposures:
-  number_words:
+  - key: number_words
     min_tier: 0
     max_tier: 0
     description: rote number words
-    exposure_goal: rote number words
+    goal: rote number words
     banned_tones:
       - imaginative
     locations:
@@ -18,11 +18,11 @@ exposures:
       - at the store
       - at grandparent's house
 
-  object_categories:
+  - key: object_categories
     min_tier: 0
     max_tier: 1
     description: animals, toys, foods
-    exposure_goal: "simple object categories such as: animals, toys and foods"
+    goal: "simple object categories such as: animals, toys and foods"
     banned_tones: []
     locations:
       - at home
@@ -36,11 +36,11 @@ exposures:
       - at daycare
       - outdoors
 
-  time_words:
+  - key: time_words
     min_tier: 0
     max_tier: 1
     description: yesterday, today, tomorrow
-    exposure_goal: basic time concepts such as yesterday, today, tomorrow, now, and later
+    goal: basic time concepts such as yesterday, today, tomorrow, now, and later
     banned_tones:
       - excited
       - playful
@@ -57,11 +57,11 @@ exposures:
       - at the library
       - at the store
 
-  social_rules:
+  - key: social_rules
     min_tier: 0
     max_tier: 3
     description: turn-taking, fairness
-    exposure_goal: basic social rules such as turn-taking, sharing, fairness, and following simple group rules
+    goal: basic social rules such as turn-taking, sharing, fairness, and following simple group rules
     banned_tones:
       - excited
       - playful
@@ -77,11 +77,11 @@ exposures:
       - at mealtime
       - at grandparent's house
 
-  colors:
+  - key: colors
     min_tier: 0
     max_tier: 1
     description: basic colors
-    exposure_goal: basic color words such as red, blue, yellow, and green
+    goal: basic color words such as red, blue, yellow, and green
     banned_tones: []
     locations:
       - at home
@@ -95,11 +95,11 @@ exposures:
       - at grandparent's house
       - at art class
 
-  shapes:
+  - key: shapes
     min_tier: 0
     max_tier: 1
     description: basic shapes
-    exposure_goal: basic shape concepts such as circle, square, triangle, and rectangle
+    goal: basic shape concepts such as circle, square, triangle, and rectangle
     banned_tones:
       - imaginative
     locations:
@@ -111,11 +111,11 @@ exposures:
       - at daycare
       - at art class
 
-  emotions:
+  - key: emotions
     min_tier: 0
     max_tier: 2
     description: emotional states
-    exposure_goal: basic emotions such as happy, sad, angry, scared, and excited
+    goal: basic emotions such as happy, sad, angry, scared, and excited
     banned_tones:
       - excited
       - playful
@@ -131,11 +131,11 @@ exposures:
       - at the library
       - at the store
 
-  daily_routines:
+  - key: daily_routines
     min_tier: 0
     max_tier: 2
     description: everyday activities
-    exposure_goal: common daily routines such as eating, sleeping, bathing, and getting dressed
+    goal: common daily routines such as eating, sleeping, bathing, and getting dressed
     banned_tones:
       - imaginative
     locations:
@@ -150,11 +150,11 @@ exposures:
       - at school
       - at school pickup
 
-  polite_language:
+  - key: polite_language
     min_tier: 0
     max_tier: 2
     description: social language
-    exposure_goal: polite and functional phrases such as please, thank you, sorry, and asking for help
+    goal: polite and functional phrases such as please, thank you, sorry, and asking for help
     banned_tones:
       - playful
       - excited
@@ -170,11 +170,11 @@ exposures:
       - at grandparent's house
       - during a car ride
 
-  pretend_play:
+  - key: pretend_play
     min_tier: 0
     max_tier: 3
     description: imaginative play
-    exposure_goal: pretend play scenarios such as playing house, caring for toys, and role-playing simple situations
+    goal: pretend play scenarios such as playing house, caring for toys, and role-playing simple situations
     banned_tones:
       - calm
       - patient
@@ -190,11 +190,11 @@ exposures:
       - at a friend's house
       - in a forest
 
-  safety_concepts:
+  - key: safety_concepts
     min_tier: 0
     max_tier: 2
     description: basic safety awareness
-    exposure_goal: simple safety concepts such as hot vs cold, staying close to caregivers, and not touching dangerous objects
+    goal: simple safety concepts such as hot vs cold, staying close to caregivers, and not touching dangerous objects
     banned_tones:
       - playful
       - excited
@@ -208,3 +208,222 @@ exposures:
       - at the park
       - during a car ride
       - at the store
+
+  - key: classroom_language_patterns
+    min_tier: 2
+    max_tier: 3
+    description: exposure to structured classroom language
+    goal: familiarity with instructional phrasing, sequencing words, and simple explanatory patterns used in classrooms
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at the library
+
+  - key: community_roles
+    min_tier: 2
+    max_tier: 3
+    description: awareness of community roles and responsibilities
+    goal: passive familiarity with different roles people have in a community and how they contribute
+    banned_tones:
+      - playful
+      - imaginative
+    locations:
+      - at school
+      - at the library
+      - at the store
+      - in the neighborhood
+
+  - key: simple_cause_effect
+    min_tier: 2
+    max_tier: 3
+    description: everyday cause and effect patterns
+    goal: noticing that actions and events lead to predictable outcomes in daily situations
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at home
+      - at school
+      - at the playground
+      - during a car ride
+      - at the park
+
+  - key: academic_vocabulary_exposure
+    min_tier: 4
+    max_tier: 6
+    description: exposure to subject-specific vocabulary in context
+    goal: familiarity with academic terms encountered naturally during lessons and reading
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at the library
+      - during homework time
+
+  - key: group_norms
+    min_tier: 4
+    max_tier: 6
+    description: exposure to peer collaboration patterns
+    goal: noticing leadership, cooperation, fairness, and shared responsibility within groups
+    banned_tones:
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at the playground
+      - during group projects
+      - at extracurricular activities
+
+  - key: media_literacy_awareness
+    min_tier: 4
+    max_tier: 6
+    description: noticing differences in types of media messages
+    goal: passive recognition that stories, advertisements, and factual reports serve different purposes
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at home
+      - at school
+      - online
+      - at the library
+
+  - key: perspective_exposure
+    min_tier: 7
+    max_tier: 9
+    description: encountering multiple viewpoints in discussion
+    goal: becoming accustomed to the idea that people interpret events and ideas differently
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during group discussions
+      - at extracurricular activities
+      - online
+
+  - key: digital_environment_patterns
+    min_tier: 7
+    max_tier: 9
+    description: exposure to norms of online communication
+    goal: familiarity with tone differences, public versus private spaces, and common digital conventions
+    banned_tones:
+      - imaginative
+      - excited
+    locations:
+      - online
+      - at home
+      - at school
+
+  - key: identity_language
+    min_tier: 7
+    max_tier: 9
+    description: hearing language related to identity and belonging
+    goal: passive awareness of how individuals and groups describe themselves and their experiences
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during group discussions
+      - online
+      - at extracurricular activities
+
+  - key: abstract_discourse_patterns
+    min_tier: 10
+    max_tier: 11
+    description: exposure to abstract and hypothetical discussion
+    goal: familiarity with argument structures, nuanced reasoning, and conditional thinking
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during seminars
+      - at the library
+      - during debates
+
+  - key: civic_process_awareness
+    min_tier: 10
+    max_tier: 11
+    description: observing references to civic systems and institutions
+    goal: general familiarity with how civic structures and processes function in society
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at home
+      - online
+      - in the community
+
+  - key: long_term_consequence_patterns
+    min_tier: 10
+    max_tier: 11
+    description: exposure to discussions about long-term outcomes
+    goal: internalizing that present decisions can connect to future consequences
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at home
+      - during mentorship programs
+      - at extracurricular activities
+
+  - key: professional_communication_norms
+    min_tier: 12
+    max_tier: 13
+    description: exposure to formal communication structures
+    goal: familiarity with professional tone, structured writing, and respectful disagreement
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during internships
+      - at part-time jobs
+      - online
+
+  - key: ethical_framework_language
+    min_tier: 12
+    max_tier: 13
+    description: hearing structured ethical reasoning language
+    goal: passive exposure to terms related to responsibility, trade-offs, and unintended consequences
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during seminars
+      - at the library
+      - during debates
+
+  - key: systems_thinking_patterns
+    min_tier: 12
+    max_tier: 13
+    description: exposure to interconnected systems concepts
+    goal: familiarity with how social, economic, and environmental systems influence one another
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during seminars
+      - at the library
+      - during internships

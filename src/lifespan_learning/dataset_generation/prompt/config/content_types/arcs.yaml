@@ -6,10 +6,12 @@ arcs:
       basic_learning:
         min_tier: 0
         max_tier: 3
+        goal: simple music concepts such as learning to sing a song, learning to play a simple instrument, or learning to dance to music
 
       advanced_learning:
         min_tier: 3
         max_tier: 13
+        goal: more complex music concepts such as learning to read music, learning to play a more complex instrument, or learning to dance to more complex music
 
     shared_locations:
       - at home
@@ -20,6 +22,9 @@ arcs:
       - at a music store
       - at a band practice room
 
+    shared_banned_tones:
+      - imaginative
+
   - key: learning_sports
     description: learning sports
 
@@ -27,11 +32,12 @@ arcs:
       basic_learning:
         min_tier: 0
         max_tier: 3
+        goal: learning to play sports such as learning to throw and catch a ball, learning to kick a ball, or learning to swim
 
       advanced_learning:
         min_tier: 1
         max_tier: 6
-
+        goal: learning to do more complex sports activities such as learning to play a team sport, learning to do a sport competitively, or learning to do a sport at a high level
     shared_locations:
       - at home
       - at school
@@ -42,6 +48,10 @@ arcs:
       - at a gym
       - at a sports club
       - during a sports practice
+    
+    shared_banned_tones:
+      - imaginative
+
 
   - key: learning_religious_or_cultural_practices
     description: learning religious or cultural practices
@@ -50,10 +60,11 @@ arcs:
       basic_learning:
         min_tier: 0
         max_tier: 3
-
+        goal: basic religious or cultural practices such as learning to say a prayer, learning to do a cultural dance, or learning to celebrate a religious holiday
       advanced_learning:
         min_tier: 1
         max_tier: 6
+        goal: more complex religious or cultural practices such as learning to do a religious ceremony, learning to do a cultural ritual, or learning to celebrate a religious or cultural holiday
 
     shared_locations:
       - at home
@@ -63,3 +74,6 @@ arcs:
       - at a community center
       - at a religious or cultural center
       - during a religious or cultural ceremony
+
+    shared_banned_tones:
+      - imaginative

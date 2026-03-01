@@ -1,13 +1,18 @@
 # arcs.py
+from .generation_configs import PromptConfig, ContentTypeConfig
+from .content_type import ContentType
+import random
 
 
-class Arc:
-    def __init__(self, config: dict):
-        self.key = config["key"]
-        self.description = config["description"]
-        self.arcs = config["arcs"]
-        self.shared_locations = config["shared_locations"]
+class Arc(ContentType):
+    def __init__(self, config: ContentTypeConfig, rng: random.Random):
+        super().__init__(config, rng=rng)
 
-    def is_valid_for_tier(self, arc_type: str, tier: int) -> bool:
-        bounds = self.arcs[arc_type]
-        return bounds["min_tier"] <= tier <= bounds["max_tier"]
+
+class BasicLearningArc(Arc):
+    def __init__(self, config: ContentTypeConfig, rng: random.Random):
+        super().__init__(config, rng=rng)
+
+class AdvancedLearningArc(Arc):
+    def __init__(self, config: ContentTypeConfig, rng: random.Random):
+        super().__init__(config, rng=rng)

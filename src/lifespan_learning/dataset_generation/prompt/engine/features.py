@@ -1,8 +1,8 @@
 import random
 
 class Feature:
-    def __init__(self, key: str, config: dict):
-        self.key = key
+    def __init__(self,config: dict):
+        self.feature = config["key"]
         self.instruction = config.get("instruction", "")
         self.min_tier = config.get("min_tier")
         self.max_tier = config.get("max_tier")
@@ -22,10 +22,12 @@ class Feature:
 
 
 class FeatureRegistry:
-    def __init__(self, config: dict):
+    def __init__(self, config: list[dict], rng: random.Random):
+        self.rng = rng
         self.features = {
-            key: Feature(key, value)
-            for key, value in config.items()
+            key: Feature(config)
+            for config in config
+            for key in [config["key"]]
         }
 
     def available_for_tier(self, tier_number: int):
@@ -41,7 +43,7 @@ class FeatureRegistry:
         if not available:
             return []
 
-        k = random.randint(0, min(max_features, len(available)))
+        k = self.rng.randint(0, min(max_features, len(available)))
 
         if k == 0:
             return []
@@ -52,7 +54,7 @@ class FeatureRegistry:
 
         for _ in range(k):
             weights = [f.weight for f in pool]
-            chosen = random.choices(pool, weights=weights, k=1)[0]
+            chosen = self.rng.choices(pool, weights=weights, k=1)[0]
             selected.append(chosen)
             pool.remove(chosen)
 
