@@ -3,10 +3,11 @@
 import random
 
 
-class Tone:
+class Tone: # should this be a dataclass?
     def __init__(self, config: dict):
         self.key = config["key"]
         self.description = config["description"]
+        self.behaviors = config["behaviors"]
 
 
 class ToneRegistry:

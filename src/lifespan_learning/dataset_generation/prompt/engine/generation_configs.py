@@ -2,6 +2,7 @@
 
 # dataclass for prompt configuration
 from dataclasses import dataclass
+from .tones import Tone
 
 @dataclass
 class PromptConfig:
@@ -13,7 +14,7 @@ class PromptConfig:
     adjective: str
     goal: str
     features: str
-    tone: str
+    tone: Tone
     grade: int
     age: int
     min_paragraphs: int

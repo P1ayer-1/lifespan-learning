@@ -208,3 +208,222 @@ exposures:
       - at the park
       - during a car ride
       - at the store
+
+  - key: classroom_language_patterns
+    min_tier: 2
+    max_tier: 3
+    description: exposure to structured classroom language
+    goal: familiarity with instructional phrasing, sequencing words, and simple explanatory patterns used in classrooms
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at the library
+
+  - key: community_roles
+    min_tier: 2
+    max_tier: 3
+    description: awareness of community roles and responsibilities
+    goal: passive familiarity with different roles people have in a community and how they contribute
+    banned_tones:
+      - playful
+      - imaginative
+    locations:
+      - at school
+      - at the library
+      - at the store
+      - in the neighborhood
+
+  - key: simple_cause_effect
+    min_tier: 2
+    max_tier: 3
+    description: everyday cause and effect patterns
+    goal: noticing that actions and events lead to predictable outcomes in daily situations
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at home
+      - at school
+      - at the playground
+      - during a car ride
+      - at the park
+
+  - key: academic_vocabulary_exposure
+    min_tier: 4
+    max_tier: 6
+    description: exposure to subject-specific vocabulary in context
+    goal: familiarity with academic terms encountered naturally during lessons and reading
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at the library
+      - during homework time
+
+  - key: group_norms
+    min_tier: 4
+    max_tier: 6
+    description: exposure to peer collaboration patterns
+    goal: noticing leadership, cooperation, fairness, and shared responsibility within groups
+    banned_tones:
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at the playground
+      - during group projects
+      - at extracurricular activities
+
+  - key: media_literacy_awareness
+    min_tier: 4
+    max_tier: 6
+    description: noticing differences in types of media messages
+    goal: passive recognition that stories, advertisements, and factual reports serve different purposes
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at home
+      - at school
+      - online
+      - at the library
+
+  - key: perspective_exposure
+    min_tier: 7
+    max_tier: 9
+    description: encountering multiple viewpoints in discussion
+    goal: becoming accustomed to the idea that people interpret events and ideas differently
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during group discussions
+      - at extracurricular activities
+      - online
+
+  - key: digital_environment_patterns
+    min_tier: 7
+    max_tier: 9
+    description: exposure to norms of online communication
+    goal: familiarity with tone differences, public versus private spaces, and common digital conventions
+    banned_tones:
+      - imaginative
+      - excited
+    locations:
+      - online
+      - at home
+      - at school
+
+  - key: identity_language
+    min_tier: 7
+    max_tier: 9
+    description: hearing language related to identity and belonging
+    goal: passive awareness of how individuals and groups describe themselves and their experiences
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during group discussions
+      - online
+      - at extracurricular activities
+
+  - key: abstract_discourse_patterns
+    min_tier: 10
+    max_tier: 11
+    description: exposure to abstract and hypothetical discussion
+    goal: familiarity with argument structures, nuanced reasoning, and conditional thinking
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during seminars
+      - at the library
+      - during debates
+
+  - key: civic_process_awareness
+    min_tier: 10
+    max_tier: 11
+    description: observing references to civic systems and institutions
+    goal: general familiarity with how civic structures and processes function in society
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at home
+      - online
+      - in the community
+
+  - key: long_term_consequence_patterns
+    min_tier: 10
+    max_tier: 11
+    description: exposure to discussions about long-term outcomes
+    goal: internalizing that present decisions can connect to future consequences
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at home
+      - during mentorship programs
+      - at extracurricular activities
+
+  - key: professional_communication_norms
+    min_tier: 12
+    max_tier: 13
+    description: exposure to formal communication structures
+    goal: familiarity with professional tone, structured writing, and respectful disagreement
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during internships
+      - at part-time jobs
+      - online
+
+  - key: ethical_framework_language
+    min_tier: 12
+    max_tier: 13
+    description: hearing structured ethical reasoning language
+    goal: passive exposure to terms related to responsibility, trade-offs, and unintended consequences
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during seminars
+      - at the library
+      - during debates
+
+  - key: systems_thinking_patterns
+    min_tier: 12
+    max_tier: 13
+    description: exposure to interconnected systems concepts
+    goal: familiarity with how social, economic, and environmental systems influence one another
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - during seminars
+      - at the library
+      - during internships
