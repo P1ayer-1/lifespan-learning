@@ -1,19 +1,54 @@
 features:
-  dialogue:
+  - key: dialogue
     instruction: include dialogue
-  problem_and_solution:
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
+
+  - key: problem_and_solution
     instruction: include a problem and solution
-  moral_or_lesson:
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
+
+  - key: moral_or_lesson
     instruction: include a moral or lesson
-  clear_structure:
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
+
+  - key: clear_structure
     instruction: include a clear beginning, middle, and end
-  repetition_for_emphasis:
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
+
+  - key: repetition_for_emphasis
     instruction: include repetition for emphasis
-  sensory_details:
-    instruction: include sensory details
-  humor:
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
+
+  - key: sensory_details
+    instruction: include sensory details # wth does this even mean
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
+
+  - key: humor
     instruction: include humor
-  twist_or_surprise:
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
+
+  - key: twist_or_surprise
     instruction: include a twist or surprise
-  positive_message:
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
+
+  - key: positive_message
     instruction: include a positive message
+    min_tier: 0
+    max_tier: 13
+    weight: 1.0
