@@ -20,19 +20,19 @@ class ContentTypeRegistry:
             for config_json in configs:
                 if content_type == "basic_learning":
                     config = ContentTypeConfig(**config_json)
-                    instances.append(BasicLearningArc(config))
+                    instances.append(BasicLearningArc(config, rng=self.rng))
 
                 elif content_type == "advanced_learning":
                     config = ContentTypeConfig(**config_json)
-                    instances.append(AdvancedLearningArc(config))
+                    instances.append(AdvancedLearningArc(config, rng=self.rng))
 
                 elif content_type == "exposures":
                     config = ContentTypeConfig(**config_json)
-                    instances.append(Exposure(config))
+                    instances.append(Exposure(config, rng=self.rng))
 
                 elif content_type == "experiences":
                     config = ContentTypeConfig(**config_json)
-                    instances.append(Experience(config))
+                    instances.append(Experience(config, rng=self.rng))
 
                 else:
                     raise ValueError(f"Unknown content type: {content_type}")
