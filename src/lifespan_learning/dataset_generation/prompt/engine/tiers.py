@@ -19,9 +19,6 @@ class Tier:
         self.description = config["description"]
         self.age_range = config["age_range"]
         self.paragraph_distribution = config["paragraph_distribution"]
-       
-        self.lexicon_path = config["lexicon_path"]
-        self.lexicon = Lexicon(self.lexicon_path, rng=self.rng)
 
         self.content_type_registry = self.load_content_types() # should be moved to phase level when we have multiple tiers per phase, but for now it's simpler to load it here since we only have one tier per phase
 
@@ -66,7 +63,7 @@ class Tier:
         
         return load_content_types(paths, allowed_content_types=[ct["content_type"] for ct in self.content_types], tier=self.tier, rng=self.rng)
 
-    def generate_prompt(self, name: str, gender: str):
+    def generate_prompt(self, name: str, gender: str, verb: str, noun: str, adjective: str):
         # placeholder for now
         content_type_key = self.sample_content_type()
         content_type = self.content_type_registry.get(content_type_key)
@@ -74,8 +71,6 @@ class Tier:
         tone = self.tone_registry.get(banned_tones)
 
         min_paragraphs, max_paragraphs = self.get_paragraph_counts()
-
-        verb, noun, adjective = self.lexicon.sample_lexicon()
 
         features = self.feature_registry.sample_features(self.tier)
         formatted_features = self.feature_registry.format_features(features)
