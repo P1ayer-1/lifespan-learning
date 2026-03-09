@@ -1,7 +1,7 @@
 
 
 # dataclass for prompt configuration
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 from .tones import Tone
 
 @dataclass
@@ -20,6 +20,12 @@ class PromptConfig:
     min_paragraphs: int
     max_paragraphs: int
 
+    def get_metadata(self) -> dict:
+        # get tone key from tone object
+        tone_key = self.tone.key
+        metadata = asdict(self)
+        metadata["tone"] = tone_key
+        return metadata
 
 # do we need min and max tier? since we already check that when loading the content types, maybe not? it could be useful for validation though
 @dataclass
