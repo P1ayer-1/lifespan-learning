@@ -14,3 +14,7 @@ if __name__ == "__main__":
     # Print a few sample prompts
     for i in range(5):
         print(prompts[i])
+
+
+    # Save prompts to a jsonl file
+    ds_generator.save_prompts(prompts, "generated_prompts.jsonl")
