@@ -107,13 +107,6 @@ experiences:
     locations:
       - at home
       - at school
-      - during a car ride
-      - at the library
-      - in a playroom
-      - at mealtime
-      - at the playground
-      - at daycare
-      - at the store
       - at grandparent's house
 
   - key: religious_or_cultural_events
@@ -144,6 +137,19 @@ experiences:
       - imaginative
     locations:
       - at school
+
+  - key: puberty
+    min_tier: 5
+    max_tier: 10
+    description: experiencing puberty
+    goal: experiencing puberty
+    banned_tones:
+      - imaginative
+    locations:
+      - at school
+      - at home
+      - at a friend's house
+      - at grandparent's house
 
   - key: first_date 
     min_tier: 7
