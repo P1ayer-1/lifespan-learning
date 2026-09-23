@@ -67,6 +67,27 @@ def test_killed_mid_batch_resumes_only_the_missing(tmp_path):
     assert got == {"h1": "done already", "h2": "fresh"}
 
 
+def test_resubmission_reissues_retryable_cached_error(tmp_path):
+    cache = tmp_path / "stories.jsonl.openrouter_cache.jsonl"
+    cache.write_text(
+        json.dumps({
+            "custom_id": "h1",
+            "outcome": "errored",
+            "retryable": True,
+            "error": "gave up: 429: Provider returned error",
+        }) + "\n",
+        encoding="utf-8",
+    )
+
+    provider, calls = make_provider(tmp_path, lambda payload: ok_body("retried successfully"))
+    batch_id = provider.submit_batch([BatchRequestItem("h1", "one")], 2500)
+
+    assert len(calls) == 1
+    result = next(provider.batch_results(batch_id))
+    assert result.outcome == "succeeded"
+    assert result.text == "retried successfully"
+
+
 def test_wrong_upstream_truncation_and_empty_are_retryable(tmp_path):
     def responder(payload):
         text = payload["messages"][0]["content"]

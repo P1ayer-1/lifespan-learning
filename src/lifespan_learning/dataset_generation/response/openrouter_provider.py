@@ -159,7 +159,19 @@ class OpenRouterProvider:
         return {"custom_id": custom_id, "outcome": "errored", "retryable": True, "error": f"gave up: {last_error}"}
 
     def _run(self, items: list[BatchRequestItem], max_tokens: int) -> None:
-        todo = [it for it in items if it.custom_id not in self._results]
+        # Successful and terminal-error results are final. Retryable errors are
+        # deliberately re-issued when a later pipeline run resubmits their ids;
+        # otherwise loading the cache makes a queued retry look complete and no
+        # HTTP request is ever made.
+        todo = [
+            it
+            for it in items
+            if it.custom_id not in self._results
+            or (
+                self._results[it.custom_id].get("outcome") == "errored"
+                and self._results[it.custom_id].get("retryable", False)
+            )
+        ]
         if not todo:
             return
         with ThreadPoolExecutor(max_workers=self._workers) as ex:
