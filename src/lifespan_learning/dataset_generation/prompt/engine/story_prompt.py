@@ -91,7 +91,8 @@ def _knowledge_block(cfg: PromptConfig) -> str:
             f'Knowledge in the plot: the events turn on this real fact: "{cfg.fact}"{hook}. '
             f"{name} uses it, discovers it, or gets it wrong and finds out. Requirements:\n"
             "- Keep the fact accurate as stated: every number, direction and comparison in it stays exactly as given. "
-            "Do not add other technical claims unless you are certain they are true."
+            "Do not explain why it is true, and do not add mechanisms, numbers, dates or causes beyond it; "
+            "the story shows the fact in action, nothing more."
         )
     else:
         head = (
@@ -131,7 +132,7 @@ The story needs a real problem or want that drives it, and something concrete ha
 Thinking the story shows: {THINKING_BY_PHASE[ph].format(name=cfg.name)}
 {_knowledge_block(cfg)}
 
-Vocabulary: use the verb "{cfg.verb}", the noun "{cfg.noun}" and the adjective "{cfg.adjective}", each at least once, in sentences that make its meaning clear from context. Use each word correctly, in its ordinary meaning and as that part of speech; weave it in naturally and never draw attention to it. If a word cannot be used correctly and naturally in this story, leave it out rather than misuse it.
+Vocabulary: where they fit naturally, use the verb "{cfg.verb}", the noun "{cfg.noun}" and the adjective "{cfg.adjective}", in sentences that make each meaning clear from context. Each must be used correctly, in its ordinary meaning and as that part of speech, without drawing attention to it. A word that does not fit this story is left out; a misused word is worse than a missing one.
 
 Tone: {cfg.tone.key}: {behaviors}.
 {features}
