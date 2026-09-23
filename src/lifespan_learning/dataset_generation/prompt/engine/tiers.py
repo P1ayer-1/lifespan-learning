@@ -78,7 +78,7 @@ class Tier:
         age = self.rng.randint(self.age_range[0], self.age_range[1])
 
         if self.fact_bank is not None:
-            domain, fact, fact_hook = self.fact_bank.sample(content_type.key)
+            domain, fact, fact_hook = self.fact_bank.sample(content_type.key, content_type.goal)
         else:
             domain, fact, fact_hook = "", "", ""
 

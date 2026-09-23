@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import os
 import random
+import re
 
 from ..config_loader import load_json
 
@@ -129,6 +130,47 @@ KEYWORD_DOMAINS = [
 ]
 
 
+_WORD_RE = re.compile(r"[a-z]+")
+_STOP_WORDS = {
+    "about", "after", "again", "against", "along", "also", "another", "around",
+    "because", "before", "being", "between", "both", "called", "child", "children",
+    "could", "does", "every", "first", "from", "gets", "give", "have", "having",
+    "idea", "into", "learn", "make", "named", "other", "people", "person", "right",
+    "same", "simple", "some", "something", "that", "their", "them", "then", "there",
+    "these", "thing", "things", "think", "this", "through", "tries", "using", "versus",
+    "what", "when", "where", "which", "while", "with", "without", "would", "your",
+}
+
+
+def _stem(word: str) -> str:
+    """Small, dependency-free normalizer for relevance matching, not linguistics."""
+    word = word.replace("colour", "color")
+    if len(word) > 5 and word.endswith("ies"):
+        return word[:-3] + "y"
+    if len(word) > 5 and word.endswith("ing"):
+        word = word[:-3]
+        # running -> run, but printing -> print
+        if len(word) > 2 and word[-1] == word[-2]:
+            word = word[:-1]
+        return word
+    if len(word) > 4 and word.endswith("ed"):
+        return word[:-2]
+    if len(word) > 4 and word.endswith("es"):
+        return word[:-2]
+    if len(word) > 3 and word.endswith("s"):
+        return word[:-1]
+    return word
+
+
+def _terms(text: str) -> set[str]:
+    return {
+        stemmed
+        for word in _WORD_RE.findall(text.lower().replace("_", " "))
+        if word not in _STOP_WORDS and len(word) >= 3
+        if (stemmed := _stem(word)) not in _STOP_WORDS and len(stemmed) >= 3
+    }
+
+
 def keyword_domains(content_key: str) -> list[str]:
     key = content_key.lower()
     out: list[str] = []
@@ -164,14 +206,38 @@ class FactBank:
             prefs = keyword_domains(content_key)
         return [d for d in prefs if d in available]
 
-    def sample(self, content_key: str) -> tuple[str, str, str]:
-        """Return (domain_description, fact, hook). fact and hook are "" when no bank exists."""
+    def sample(self, content_key: str, activity: str = "") -> tuple[str, str, str]:
+        """Return (domain_description, fact, hook).
+
+        When an activity is supplied, a verified fact is used only when at
+        least two meaningful terms overlap the activity. This deliberately
+        favours no injected fact over stitching an unrelated mini-lesson onto
+        the requested story. The activity itself remains the knowledge domain
+        in that case. Calls without an activity retain the legacy domain-based
+        behaviour for compatibility with direct FactBank users.
+        """
+        if self.facts and activity:
+            query_terms = _terms(f"{content_key} {activity}")
+            scored = []
+            for fact in self.facts:
+                candidate_terms = _terms(f'{fact["fact"]} {fact.get("hook", "")}')
+                overlap = query_terms & candidate_terms
+                if len(overlap) >= 2:
+                    scored.append((len(overlap), fact))
+            if scored:
+                best_score = max(score for score, _ in scored)
+                pool = [fact for score, fact in scored if score == best_score]
+                chosen = self.rng.choice(pool)
+                return self.domains[chosen["domain"]], chosen["fact"], chosen.get("hook", "")
+            return activity, "", ""
         if self.facts:
             prefs = self._preferred(content_key, self._with_facts)
             domain = prefs[0] if prefs else self.rng.choice(sorted(self._with_facts))
             pool = [f for f in self.facts if f["domain"] == domain]
             f = self.rng.choice(pool)
             return self.domains[domain], f["fact"], f.get("hook", "")
+        if activity:
+            return activity, "", ""
         prefs = self._preferred(content_key, set(self.domains))
         domain = prefs[0] if prefs else self.rng.choice(sorted(self.domains))
         return self.domains[domain], "", ""

@@ -226,6 +226,35 @@ def test_fact_bank_without_file_names_a_domain_only(tmp_path):
     assert domain in facts_mod.DOMAINS[5].values()
 
 
+def test_fact_bank_uses_activity_to_choose_a_directly_related_fact(tmp_path):
+    import random
+    bank_path = tmp_path / "phase_0.json"
+    bank_path.write_text(json.dumps({"phase": 0, "facts": [
+        {"domain": "math", "fact": "A square has four equal sides.", "hook": "sorting square and round crackers"},
+        {"domain": "math", "fact": "The last number counted tells how many objects there are.", "hook": "counting blocks twice"},
+    ]}), encoding="utf-8")
+    bank = facts_mod.FactBank(0, rng=random.Random(0), facts_path=str(bank_path))
+
+    _, fact, _ = bank.sample("learning_math", "to count a group of objects and explain how many there are")
+
+    assert fact.startswith("The last number counted")
+
+
+def test_fact_bank_omits_unrelated_fact_instead_of_forcing_domain_match(tmp_path):
+    import random
+    bank_path = tmp_path / "phase_0.json"
+    bank_path.write_text(json.dumps({"phase": 0, "facts": [
+        {"domain": "tools", "fact": "Bread dough rises because yeast makes gas.", "hook": "watching dough grow"},
+        {"domain": "math", "fact": "A triangle has three straight sides.", "hook": "sorting crackers"},
+    ]}), encoding="utf-8")
+    bank = facts_mod.FactBank(0, rng=random.Random(0), facts_path=str(bank_path))
+    activity = "the idea that printed words carry meaning and books are read front to back"
+
+    domain, fact, hook = bank.sample("print_concepts", activity)
+
+    assert (domain, fact, hook) == (activity, "", "")
+
+
 def test_render_with_and_without_fact():
     from lifespan_learning.dataset_generation.prompt.engine.tones import Tone
     from lifespan_learning.dataset_generation.prompt.engine.generation_configs import PromptConfig
