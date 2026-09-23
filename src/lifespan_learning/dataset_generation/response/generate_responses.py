@@ -1,6 +1,7 @@
 """Batch response generator: reads a prompt jsonl, calls the generation
-model through the Claude Message Batches API, and writes one story per
-line in a frozen shape:
+model (GLM 5.3 through OpenRouter pinned to Baidu by default, or Claude
+through the Message Batches API with --provider anthropic), and writes one
+story per line in a frozen shape:
 
     {"prompt_hash": ..., "phase": ..., "tier": ..., "story": ...,
      "model": ..., "timestamp": ...}
@@ -47,22 +48,35 @@ from lifespan_learning.dataset_generation.response.providers import (
     StoryProvider,
     poll_until_ended,
 )
+from lifespan_learning.dataset_generation.response.openrouter_provider import OpenRouterProvider
 
 try:
     import anthropic
 except ImportError:  # pragma: no cover - exercised only when the SDK isn't installed
     anthropic = None
 
-DEFAULT_MODEL = "claude-haiku-4-5"
+# 2026-09-23 (Lifespan docs/DECISIONS.md): the corpus generator is GLM 5.3 through
+# OpenRouter, upstream pinned to Baidu (fp8), reasoning low. Chosen over Haiku 4.5
+# in a blind 84-story head-to-head. The model string written to every story line
+# carries upstream and quantization so a routing change cannot pass unnoticed.
+DEFAULT_PROVIDER = "openrouter"
+DEFAULT_MODEL = "z-ai/glm-5.3"
+DEFAULT_UPSTREAM = "Baidu"
+DEFAULT_QUANTIZATION = "fp8"
+DEFAULT_REASONING_EFFORT = "low"
+ANTHROPIC_MODEL = "claude-haiku-4-5"  # the --provider anthropic default
 # 2026-09-22 20-story smoke batch: max_tokens=900 truncated 4/20, including BOTH
 # phase-6 stories (the longest, densest phase) -- a truncated story is a wasted
 # request AND a forced retry, so 900 was actively more expensive than a higher
 # cap, not cheaper. Raised to 2500; max_tokens is a ceiling, not a bill -- actual
 # cost is metered on tokens generated, so this does not raise the cost estimate.
 DEFAULT_MAX_TOKENS = 2500
-INPUT_PRICE_PER_MTOK_STANDARD = 1.00
-OUTPUT_PRICE_PER_MTOK_STANDARD = 5.00
-BATCH_DISCOUNT = 0.5  # Message Batches API is half the standard price
+# (input $/MTok, output $/MTok, batch discount) per provider; dry-run estimates only
+PRICES = {
+    "openrouter": (0.56, 1.76, 1.0),   # z-ai/glm-5.3 via Baidu on 2026-09-23; no batch discount exists
+    "anthropic": (1.00, 5.00, 0.5),    # claude-haiku-4-5; the Message Batches API is half price
+}
+INPUT_PRICE_PER_MTOK_STANDARD, OUTPUT_PRICE_PER_MTOK_STANDARD, BATCH_DISCOUNT = PRICES["anthropic"]
 # Re-derived 2026-09-23 for the story_prompt.py template (the "v2" A/B winner):
 # measured mean output tokens per story on Haiku 4.5, 3 prompts per phase,
 # seed 2 -- 525 across the 7 phases (the 2026-09-22 template measured 669 on
@@ -315,15 +329,23 @@ def clear_batch_state(state_path: Path) -> None:
 # --------------------------------------------------------------------------
 # Cost estimate (dry run: no API call)
 # --------------------------------------------------------------------------
-def estimate_cost(prompts: list[PromptRecord], assumed_output_tokens: int = ASSUMED_OUTPUT_TOKENS_PER_STORY) -> dict:
+# GLM 5.3 measured 690-720 output tokens a story on the same prompts (rounds
+# r6/r7, ~80 of them reasoning), against Haiku's ~550.
+ASSUMED_OUTPUT_TOKENS_BY_PROVIDER = {"openrouter": 700, "anthropic": ASSUMED_OUTPUT_TOKENS_PER_STORY}
+
+
+def estimate_cost(prompts: list[PromptRecord], assumed_output_tokens: int | None = None, provider: str = "anthropic") -> dict:
     n = len(prompts)
+    if assumed_output_tokens is None:
+        assumed_output_tokens = ASSUMED_OUTPUT_TOKENS_BY_PROVIDER[provider]
     input_tokens = sum(max(1, len(p.prompt) // CHARS_PER_TOKEN_ESTIMATE) for p in prompts)
     output_tokens = n * assumed_output_tokens
+    price_in, price_out, discount = PRICES[provider]
 
-    input_cost_standard = input_tokens / 1_000_000 * INPUT_PRICE_PER_MTOK_STANDARD
-    output_cost_standard = output_tokens / 1_000_000 * OUTPUT_PRICE_PER_MTOK_STANDARD
-    input_cost_batch = input_cost_standard * BATCH_DISCOUNT
-    output_cost_batch = output_cost_standard * BATCH_DISCOUNT
+    input_cost_standard = input_tokens / 1_000_000 * price_in
+    output_cost_standard = output_tokens / 1_000_000 * price_out
+    input_cost_batch = input_cost_standard * discount
+    output_cost_batch = output_cost_standard * discount
 
     return {
         "requests": n,
@@ -337,10 +359,30 @@ def estimate_cost(prompts: list[PromptRecord], assumed_output_tokens: int = ASSU
 # --------------------------------------------------------------------------
 # Main pipeline
 # --------------------------------------------------------------------------
-def build_provider(model: str, fake_provider: StoryProvider | None) -> StoryProvider:
+def build_provider(
+    model: str,
+    fake_provider: StoryProvider | None,
+    provider: str = DEFAULT_PROVIDER,
+    out_path: Path | None = None,
+    upstream: str = DEFAULT_UPSTREAM,
+    quantization: str = DEFAULT_QUANTIZATION,
+    reasoning_effort: str = DEFAULT_REASONING_EFFORT,
+) -> StoryProvider:
     if fake_provider is not None:
         return fake_provider
-    return AnthropicBatchProvider(model=model)
+    if provider == "anthropic":
+        return AnthropicBatchProvider(model=model)
+    if provider == "openrouter":
+        if out_path is None:
+            raise ValueError("the openrouter provider needs out_path for its resume cache")
+        return OpenRouterProvider(
+            cache_path=out_path.with_suffix(out_path.suffix + ".openrouter_cache.jsonl"),
+            model=model,
+            upstream=upstream,
+            quantization=quantization,
+            reasoning_effort=reasoning_effort,
+        )
+    raise ValueError(f"unknown provider {provider!r}")
 
 
 def collect_batch(
@@ -406,8 +448,12 @@ def run(
     poll_timeout: float = 3600.0,
     fake_provider: StoryProvider | None = None,
     registry_path: Path | None = None,
+    provider_name: str = DEFAULT_PROVIDER,
+    upstream: str = DEFAULT_UPSTREAM,
+    quantization: str = DEFAULT_QUANTIZATION,
+    reasoning_effort: str = DEFAULT_REASONING_EFFORT,
 ) -> dict:
-    provider = build_provider(model, fake_provider)
+    provider = build_provider(model, fake_provider, provider_name, out_path, upstream, quantization, reasoning_effort)
     check_model_consistency(out_path, provider.model_id, registry_path)
 
     state_path = out_path.with_suffix(out_path.suffix + ".batch_state.json")
@@ -428,6 +474,12 @@ def run(
     state = load_batch_state(state_path)
     if state is not None and state.get("batch_id"):
         print(f"Resuming in-flight batch {state['batch_id']} ({len(state['custom_ids'])} requests)...")
+        if hasattr(provider, "resume_items"):
+            # a synchronous provider (OpenRouter) needs the prompts again to finish a batch a killed run left behind
+            provider.resume_items(
+                [BatchRequestItem(custom_id=h, prompt=prompt_by_hash[h].prompt) for h in state["custom_ids"] if h in prompt_by_hash],
+                max_tokens,
+            )
         status = retry_call(lambda: poll_until_ended(provider, state["batch_id"], poll_seconds, poll_timeout))
         if status.processing_status == "ended":
             written, retryable_hashes = collect_batch(provider, state["batch_id"], prompt_by_hash, out_path, failed_path)
@@ -518,7 +570,11 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Generate story responses for a prompt jsonl via the Claude Batch API.")
     parser.add_argument("--prompts", type=Path, required=True, help="Input prompt jsonl (from generate_prompts.py).")
     parser.add_argument("--out", type=Path, required=True, help="Output story jsonl (resumable: existing prompt_hashes are skipped).")
-    parser.add_argument("--model", type=str, default=DEFAULT_MODEL, help=f"Model id (default: {DEFAULT_MODEL}).")
+    parser.add_argument("--model", type=str, default=None, help=f"Model id (default: {DEFAULT_MODEL} for openrouter, {ANTHROPIC_MODEL} for anthropic).")
+    parser.add_argument("--provider", type=str, default=DEFAULT_PROVIDER, choices=sorted(PRICES), help="openrouter (GLM 5.3, default) or anthropic (Claude Message Batches API).")
+    parser.add_argument("--upstream", type=str, default=DEFAULT_UPSTREAM, help="OpenRouter upstream to pin (default Baidu); fallbacks are disabled.")
+    parser.add_argument("--quantization", type=str, default=DEFAULT_QUANTIZATION, help="Recorded in the model string for provenance (default fp8).")
+    parser.add_argument("--reasoning-effort", type=str, default=DEFAULT_REASONING_EFFORT, dest="reasoning_effort", help="OpenRouter reasoning effort (default low; GLM 5.3 cannot run with reasoning off).")
     parser.add_argument("--max-tokens", type=int, default=DEFAULT_MAX_TOKENS, dest="max_tokens")
     parser.add_argument("--limit", type=int, default=None, help="Cap on new requests this run (use <=20 for a smoke batch).")
     parser.add_argument("--max-batch-retries", type=int, default=3, dest="max_batch_retries")
@@ -549,6 +605,7 @@ def main(argv: list[str] | None = None) -> None:
     # can tell it failed. Every path below either returns normally or calls
     # sys.exit(1) -- never lets an exception escape with the interpreter's
     # default (and here, apparently unreliable) exit-code behaviour.
+    model = args.model or (DEFAULT_MODEL if args.provider == "openrouter" else ANTHROPIC_MODEL)
     try:
         if args.dry_run:
             existing_hashes, _ = existing_hashes_and_model(args.out)
@@ -556,24 +613,28 @@ def main(argv: list[str] | None = None) -> None:
             missing = [p for p in prompts if p.prompt_hash not in existing_hashes]
             if args.limit is not None:
                 missing = missing[: args.limit]
-            estimate = estimate_cost(missing)
-            print(f"Dry run: {estimate['requests']} requests would be submitted (model={args.model}).")
+            estimate = estimate_cost(missing, provider=args.provider)
+            print(f"Dry run: {estimate['requests']} requests would be submitted (model={model}, provider={args.provider}).")
             print(f"  estimated input tokens:  {estimate['estimated_input_tokens']:,}")
-            print(f"  estimated output tokens: {estimate['estimated_output_tokens']:,} (at {ASSUMED_OUTPUT_TOKENS_PER_STORY}/story)")
+            print(f"  estimated output tokens: {estimate['estimated_output_tokens']:,} (at {ASSUMED_OUTPUT_TOKENS_BY_PROVIDER[args.provider]}/story)")
             print(f"  estimated cost, standard API: ${estimate['standard_cost_usd']:.2f}")
-            print(f"  estimated cost, Batch API:    ${estimate['batch_cost_usd']:.2f}")
+            print(f"  estimated cost, Batch API:    ${estimate['batch_cost_usd']:.2f}" + ("" if args.provider == "anthropic" else " (no batch discount on openrouter; same as standard)"))
             return
 
         summary = run(
             prompts_path=args.prompts,
             out_path=args.out,
-            model=args.model,
+            model=model,
             max_tokens=args.max_tokens,
             limit=args.limit,
             max_batch_retries=args.max_batch_retries,
             poll_seconds=args.poll_seconds,
             poll_timeout=args.poll_timeout,
             registry_path=args.corpus_registry,
+            provider_name=args.provider,
+            upstream=args.upstream,
+            quantization=args.quantization,
+            reasoning_effort=args.reasoning_effort,
         )
         print(f"written={summary['written']} skipped={summary['skipped']} failed={summary['failed']}")
         if summary.get("pending_batch"):
