@@ -220,7 +220,11 @@ def existing_hashes_and_model(out_path: Path) -> tuple[set[str], str | None]:
 # Corpus files carry stories; these suffixes are OUR OWN sidecars living next
 # to them and must never be mistaken for a phase file when scanning a
 # directory for model ids.
-NON_CORPUS_SUFFIXES = (".failed.jsonl", ".regen_queue.jsonl")
+NON_CORPUS_SUFFIXES = (
+    ".failed.jsonl",
+    ".regen_queue.jsonl",
+    ".openrouter_cache.jsonl",
+)
 CORPUS_REGISTRY_NAME = "_generation_model.json"
 
 

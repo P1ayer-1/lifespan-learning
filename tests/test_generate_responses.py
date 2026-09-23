@@ -253,6 +253,32 @@ def test_resume_with_pending_retries_and_no_batch_id_submits_fresh_batch(tmp_pat
     assert not state_path.exists()  # fully resolved -> state cleared, not left dangling
 
 
+def test_model_scan_ignores_openrouter_cache_sidecar(tmp_path):
+    """A resumed OpenRouter run scans sibling JSONL files for model ids.
+    Its own cache contains batch/result records rather than corpus records and
+    must not be parsed as stories (which would raise KeyError: prompt_hash).
+    """
+    out_path = tmp_path / "stories.jsonl"
+    out_path.write_text(
+        json.dumps({
+            "prompt_hash": "hash-000",
+            "phase": 0,
+            "tier": 0,
+            "story": "A story.",
+            "model": "model-a",
+            "timestamp": "t",
+        }) + "\n",
+        encoding="utf-8",
+    )
+    cache_path = tmp_path / "stories.jsonl.openrouter_cache.jsonl"
+    cache_path.write_text(
+        json.dumps({"batch_id": "batch-1", "custom_ids": ["hash-000"]}) + "\n",
+        encoding="utf-8",
+    )
+
+    assert gr.model_ids_in_directory(tmp_path) == {"stories.jsonl": "model-a"}
+
+
 def test_pending_retry_that_still_fails_updates_state_without_crashing(tmp_path):
     prompts_path = tmp_path / "prompts.jsonl"
     out_path = tmp_path / "stories.jsonl"
