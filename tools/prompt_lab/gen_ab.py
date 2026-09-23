@@ -121,14 +121,54 @@ def render(variant: str, row: dict) -> str:
 # ---------------------------------------------------------------------------
 # Generation
 # ---------------------------------------------------------------------------
-def generate_one(client, prompt: str) -> dict:
+OR_PROVIDER_ORDER: list[str] = []   # e.g. ["Baidu"]; set from --or-provider
+OR_NO_REASONING = False              # set from --no-reasoning
+
+
+def generate_one(client, prompt: str, model: str = MODEL, provider: str = "anthropic") -> dict:
+    """One story. provider 'anthropic' uses the Messages API (thinking off on
+    models that default to adaptive); 'openrouter' uses OpenRouter's
+    OpenAI-compatible chat endpoint with OPEN_ROUTER_API_KEY."""
+    if provider == "openrouter":
+        import httpx2 as httpx
+        for attempt in range(5):
+            r = httpx.post(
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers={"Authorization": f"Bearer {os.environ['OPEN_ROUTER_API_KEY']}", "Content-Type": "application/json"},
+                json={"model": model, "max_tokens": MAX_TOKENS if OR_NO_REASONING else 4 * MAX_TOKENS,
+                      "messages": [{"role": "user", "content": prompt}],
+                      # some endpoints refuse to disable reasoning; then keep it low and excluded, with room
+                      "reasoning": {"enabled": False} if OR_NO_REASONING else {"effort": "low", "exclude": True},
+                      **({"provider": {"order": OR_PROVIDER_ORDER, "allow_fallbacks": False}} if OR_PROVIDER_ORDER else {})},
+                timeout=300,
+            )
+            if r.status_code in (429, 500, 502, 503, 529):
+                time.sleep(2 ** attempt)
+                continue
+            if r.status_code != 200:
+                raise RuntimeError(f"openrouter {r.status_code}: {r.text[:300]}")
+            d = r.json()
+            choice = d["choices"][0]
+            text = choice["message"].get("content") or ""
+            usage = d.get("usage", {})
+            details = usage.get("completion_tokens_details") or {}
+            if "provider" in d:
+                usage["_provider"] = d["provider"]
+            return {"story": text, "stop_reason": "max_tokens" if choice.get("finish_reason") == "length" else "end_turn",
+                    "in_tokens": usage.get("prompt_tokens", 0), "out_tokens": usage.get("completion_tokens", 0),
+                    "reasoning_tokens": details.get("reasoning_tokens", 0), "upstream": d.get("provider", "")}
+        raise RuntimeError("gave up (openrouter)")
+
     import anthropic
+    kwargs = {}
+    if not model.startswith("claude-haiku"):
+        kwargs["thinking"] = {"type": "disabled"}  # stories do not need thinking; keeps output tokens comparable
     for attempt in range(5):
         try:
-            r = client.messages.create(model=MODEL, max_tokens=MAX_TOKENS, messages=[{"role": "user", "content": prompt}])
+            r = client.messages.create(model=model, max_tokens=MAX_TOKENS, messages=[{"role": "user", "content": prompt}], **kwargs)
             text = "".join(b.text for b in r.content if b.type == "text")
             return {"story": text, "stop_reason": r.stop_reason, "in_tokens": r.usage.input_tokens, "out_tokens": r.usage.output_tokens}
-        except (anthropic.RateLimitError, anthropic.InternalServerError, anthropic.APIConnectionError) as e:
+        except (anthropic.RateLimitError, anthropic.InternalServerError, anthropic.APIConnectionError):
             time.sleep(2 ** attempt)
     raise RuntimeError("gave up")
 
@@ -141,10 +181,17 @@ def main() -> None:
     ap.add_argument("--seed", type=int, default=1)
     ap.add_argument("--out", type=Path, required=True)
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--model", default=MODEL, help="generator model id (default: the production Haiku)")
+    ap.add_argument("--provider", default="anthropic", choices=["anthropic", "openrouter"])
+    ap.add_argument("--or-provider", default="", help="OpenRouter upstream provider(s) to pin, comma-separated, e.g. Baidu")
+    ap.add_argument("--no-reasoning", action="store_true", help="OpenRouter: ask for reasoning disabled (400 on endpoints that require it)")
     ap.add_argument("--dry-run", action="store_true", help="write prompts only, no API calls")
     args = ap.parse_args()
 
     load_env()
+    global OR_PROVIDER_ORDER, OR_NO_REASONING
+    OR_PROVIDER_ORDER = [s.strip() for s in args.or_provider.split(",") if s.strip()]
+    OR_NO_REASONING = args.no_reasoning
     out_dir = args.out if args.out.is_absolute() else Path(__file__).resolve().parent / args.out
     out_dir.mkdir(parents=True, exist_ok=True)
     phases = [int(p) for p in args.phases.split(",")]
@@ -166,19 +213,22 @@ def main() -> None:
         print("dry run: prompts written to", out_dir / "prompts.jsonl")
         return
 
-    import anthropic
-    client = anthropic.Anthropic()
+    client = None
+    if args.provider == "anthropic":
+        import anthropic
+        client = anthropic.Anthropic()
+    print(f"generator: {args.model} via {args.provider}")
     results: dict[str, list[dict]] = {v: [] for v in variants}
     t0 = time.time()
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
-        futs = {ex.submit(generate_one, client, p): (v, i, row, p) for v, i, row, p in jobs}
+        futs = {ex.submit(generate_one, client, p, args.model, args.provider): (v, i, row, p) for v, i, row, p in jobs}
         for n, fut in enumerate(as_completed(futs), 1):
             v, i, row, p = futs[fut]
             res = fut.result()
             results[v].append({"variant": v, "idx": i, "phase": row["phase"], "tier": row["tier"], "kind": row["kind"],
                                "content_key": row["content_key"], "age": row["meta"]["age"], "grade": row["meta"]["grade"],
                                "verb": row["meta"]["verb"], "noun": row["meta"]["noun"], "adjective": row["meta"]["adjective"],
-                               "prompt": p, **res})
+                               "prompt": p, "model": args.model, **res})
             if n % 10 == 0:
                 print(f"  {n}/{len(jobs)} done ({time.time() - t0:.0f}s)")
     tot_in = tot_out = 0
@@ -189,7 +239,7 @@ def main() -> None:
         tot_in += v_in; tot_out += v_out
         trunc = sum(r["stop_reason"] == "max_tokens" for r in rows_v)
         print(f"{v}: {len(rows_v)} stories, truncated={trunc}, mean in={v_in / max(1, len(rows_v)):.0f} mean out tokens={v_out / max(1, len(rows_v)):.0f}")
-    print(f"cost ~${tot_in / 1e6 * 1.0 + tot_out / 1e6 * 5.0:.3f} (standard rates)")
+    print(f"tokens in={tot_in} out={tot_out}; at Haiku standard rates ~${tot_in / 1e6 * 1.0 + tot_out / 1e6 * 5.0:.3f}")
 
 
 if __name__ == "__main__":
