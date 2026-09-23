@@ -1,0 +1,338 @@
+{
+ "s000": {
+  "run": "runs/r7_haiku",
+  "idx": 1
+ },
+ "s001": {
+  "run": "runs/r7b_haiku",
+  "idx": 14
+ },
+ "s002": {
+  "run": "runs/r7_glm",
+  "idx": 20
+ },
+ "s003": {
+  "run": "runs/r7_glm",
+  "idx": 3
+ },
+ "s004": {
+  "run": "runs/r7b_haiku",
+  "idx": 4
+ },
+ "s005": {
+  "run": "runs/r7_glm",
+  "idx": 16
+ },
+ "s006": {
+  "run": "runs/r7b_haiku",
+  "idx": 10
+ },
+ "s007": {
+  "run": "runs/r7_haiku",
+  "idx": 7
+ },
+ "s008": {
+  "run": "runs/r7_glm",
+  "idx": 8
+ },
+ "s009": {
+  "run": "runs/r7_haiku",
+  "idx": 11
+ },
+ "s010": {
+  "run": "runs/r7_glm",
+  "idx": 5
+ },
+ "s011": {
+  "run": "runs/r7b_glm",
+  "idx": 3
+ },
+ "s012": {
+  "run": "runs/r7b_haiku",
+  "idx": 13
+ },
+ "s013": {
+  "run": "runs/r7_haiku",
+  "idx": 8
+ },
+ "s014": {
+  "run": "runs/r7b_haiku",
+  "idx": 8
+ },
+ "s015": {
+  "run": "runs/r7_glm",
+  "idx": 2
+ },
+ "s016": {
+  "run": "runs/r7b_haiku",
+  "idx": 18
+ },
+ "s017": {
+  "run": "runs/r7_haiku",
+  "idx": 19
+ },
+ "s018": {
+  "run": "runs/r7b_glm",
+  "idx": 12
+ },
+ "s019": {
+  "run": "runs/r7b_glm",
+  "idx": 0
+ },
+ "s020": {
+  "run": "runs/r7b_haiku",
+  "idx": 2
+ },
+ "s021": {
+  "run": "runs/r7b_glm",
+  "idx": 13
+ },
+ "s022": {
+  "run": "runs/r7b_glm",
+  "idx": 11
+ },
+ "s023": {
+  "run": "runs/r7_haiku",
+  "idx": 10
+ },
+ "s024": {
+  "run": "runs/r7b_haiku",
+  "idx": 5
+ },
+ "s025": {
+  "run": "runs/r7_haiku",
+  "idx": 2
+ },
+ "s026": {
+  "run": "runs/r7b_glm",
+  "idx": 4
+ },
+ "s027": {
+  "run": "runs/r7b_glm",
+  "idx": 6
+ },
+ "s028": {
+  "run": "runs/r7b_haiku",
+  "idx": 6
+ },
+ "s029": {
+  "run": "runs/r7_glm",
+  "idx": 13
+ },
+ "s030": {
+  "run": "runs/r7b_glm",
+  "idx": 14
+ },
+ "s031": {
+  "run": "runs/r7b_glm",
+  "idx": 7
+ },
+ "s032": {
+  "run": "runs/r7_haiku",
+  "idx": 14
+ },
+ "s033": {
+  "run": "runs/r7b_glm",
+  "idx": 9
+ },
+ "s034": {
+  "run": "runs/r7_haiku",
+  "idx": 4
+ },
+ "s035": {
+  "run": "runs/r7b_glm",
+  "idx": 19
+ },
+ "s036": {
+  "run": "runs/r7_haiku",
+  "idx": 15
+ },
+ "s037": {
+  "run": "runs/r7b_haiku",
+  "idx": 17
+ },
+ "s038": {
+  "run": "runs/r7_glm",
+  "idx": 10
+ },
+ "s039": {
+  "run": "runs/r7b_haiku",
+  "idx": 0
+ },
+ "s040": {
+  "run": "runs/r7_glm",
+  "idx": 4
+ },
+ "s041": {
+  "run": "runs/r7b_glm",
+  "idx": 18
+ },
+ "s042": {
+  "run": "runs/r7_haiku",
+  "idx": 0
+ },
+ "s043": {
+  "run": "runs/r7b_glm",
+  "idx": 20
+ },
+ "s044": {
+  "run": "runs/r7_haiku",
+  "idx": 3
+ },
+ "s045": {
+  "run": "runs/r7_haiku",
+  "idx": 16
+ },
+ "s046": {
+  "run": "runs/r7b_glm",
+  "idx": 17
+ },
+ "s047": {
+  "run": "runs/r7_glm",
+  "idx": 7
+ },
+ "s048": {
+  "run": "runs/r7b_haiku",
+  "idx": 16
+ },
+ "s049": {
+  "run": "runs/r7b_glm",
+  "idx": 15
+ },
+ "s050": {
+  "run": "runs/r7_haiku",
+  "idx": 13
+ },
+ "s051": {
+  "run": "runs/r7_glm",
+  "idx": 19
+ },
+ "s052": {
+  "run": "runs/r7b_glm",
+  "idx": 16
+ },
+ "s053": {
+  "run": "runs/r7_haiku",
+  "idx": 20
+ },
+ "s054": {
+  "run": "runs/r7b_glm",
+  "idx": 10
+ },
+ "s055": {
+  "run": "runs/r7_glm",
+  "idx": 1
+ },
+ "s056": {
+  "run": "runs/r7_haiku",
+  "idx": 6
+ },
+ "s057": {
+  "run": "runs/r7_glm",
+  "idx": 14
+ },
+ "s058": {
+  "run": "runs/r7_glm",
+  "idx": 9
+ },
+ "s059": {
+  "run": "runs/r7_glm",
+  "idx": 0
+ },
+ "s060": {
+  "run": "runs/r7b_haiku",
+  "idx": 1
+ },
+ "s061": {
+  "run": "runs/r7b_haiku",
+  "idx": 12
+ },
+ "s062": {
+  "run": "runs/r7b_haiku",
+  "idx": 15
+ },
+ "s063": {
+  "run": "runs/r7_haiku",
+  "idx": 9
+ },
+ "s064": {
+  "run": "runs/r7b_glm",
+  "idx": 5
+ },
+ "s065": {
+  "run": "runs/r7_glm",
+  "idx": 18
+ },
+ "s066": {
+  "run": "runs/r7_haiku",
+  "idx": 18
+ },
+ "s067": {
+  "run": "runs/r7_glm",
+  "idx": 11
+ },
+ "s068": {
+  "run": "runs/r7_haiku",
+  "idx": 12
+ },
+ "s069": {
+  "run": "runs/r7b_glm",
+  "idx": 8
+ },
+ "s070": {
+  "run": "runs/r7_glm",
+  "idx": 15
+ },
+ "s071": {
+  "run": "runs/r7_haiku",
+  "idx": 17
+ },
+ "s072": {
+  "run": "runs/r7b_glm",
+  "idx": 1
+ },
+ "s073": {
+  "run": "runs/r7_glm",
+  "idx": 6
+ },
+ "s074": {
+  "run": "runs/r7b_haiku",
+  "idx": 3
+ },
+ "s075": {
+  "run": "runs/r7b_haiku",
+  "idx": 19
+ },
+ "s076": {
+  "run": "runs/r7_glm",
+  "idx": 17
+ },
+ "s077": {
+  "run": "runs/r7b_haiku",
+  "idx": 9
+ },
+ "s078": {
+  "run": "runs/r7b_haiku",
+  "idx": 20
+ },
+ "s079": {
+  "run": "runs/r7b_glm",
+  "idx": 2
+ },
+ "s080": {
+  "run": "runs/r7_glm",
+  "idx": 12
+ },
+ "s081": {
+  "run": "runs/r7_haiku",
+  "idx": 5
+ },
+ "s082": {
+  "run": "runs/r7b_haiku",
+  "idx": 11
+ },
+ "s083": {
+  "run": "runs/r7b_haiku",
+  "idx": 7
+ }
+}

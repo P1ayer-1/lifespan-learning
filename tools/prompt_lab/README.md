@@ -10,12 +10,16 @@ spends money; nothing in the package imports it.
 | `judge.py` | Text metrics plus a blind judge: guesses the grade band from the text alone, then rates level fit, educational value, coherence, naturalness, lecture-likeness. `--export` hands the blind stories to a subagent judge (preferred, free); the API judge is the fallback | subagent, or Opus 5 low effort |
 | `lexicon_audit.py` | Audits `config/lexicons/*.json`: part of speech, fitness, earliest grade band per word | Haiku 4.5 |
 | `lexicon_build.py` | API fallback for the graded lexicons. Preferred path: one subagent per phase writes `lex_build/_gen/phase_{i}.json`, then `merge_builds.py lexicons` sanitizes and deduplicates (a word belongs to its earliest phase) | subagents (fallback Sonnet 5) |
+| `mix_blind.py` | Shuffles several runs' stories under opaque ids into blind parts so a judge cannot favour a generator; `unmix` writes each run's `baseline.judged.jsonl` back | subagents |
+| `fact_check_export.py` | Fact-consistency gate for a generated corpus: pairs each story with its injected fact, exports review parts, and `apply` turns failing verdicts into `<stories>.regen_queue.jsonl` plus a per-phase report | subagents |
 | `factbank.py` | API fallback for the fact bank. Preferred path: one subagent per phase writes `facts/_gen/phase_{i}.json` (15 facts per domain), an independent subagent writes verdicts to `facts/_verify/phase_{i}.json`, then `merge_builds.py facts` keeps only verdict `true` and writes `facts/phase_{i}.json` in the format `engine/facts.py` reads | subagents (fallback Sonnet 5 + Opus 5) |
 
 Rule (owner, 2026-09-23): LLM labor such as judging, fact writing and lexicon
 building runs as Claude Code subagents on the Max plan; API credit is spent only
-on `gen_ab.py`, which must use the production generator. Run from this directory
-with the `lifespan` env, e.g.
+on `gen_ab.py`, which must use the production generator. Generator choice (2026-09-23): `gen_ab.py --model/--provider` compares generators on
+identical prompts; OpenRouter models are pinned with `--or-provider` (GLM 5.3 cannot
+run with reasoning off on any OpenRouter provider; low effort costs ~80 tokens a
+story). Run from this directory with the `lifespan` env, e.g.
 
     micromamba run -n lifespan python gen_ab.py --variants baseline,v2 --n-per-phase 3 --seed 3 --out runs/r3
     micromamba run -n lifespan python judge.py runs/r3 --variants baseline,v2
