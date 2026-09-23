@@ -21,12 +21,20 @@ class PromptDatasetGenerator:
         tier_configs = load_list("config/tiers.yaml", key="tiers")
 
         names_configs = load_json("config/names/names_gendered.json")
+        tiers_by_id = {tier_config["tier"]: tier_config for tier_config in tier_configs}
 
         self.phases: list[Phase] = []
-        for phase_config, (_, name_config) in zip(phase_configs, names_configs.items()):
+        for phase_config in phase_configs:
+            phase_id = phase_config["id"]
             tier_ids = phase_config.get("tiers", [])
-            tier_config = tier_configs[tier_ids[0]:tier_ids[-1]+1]
-            self.phases.append(Phase(phase_config, tier_config, name_config, tone_registry=self.tone_registry, feature_registry=self.feature_registry, rng=self.rng))
+            missing_tiers = [tier_id for tier_id in tier_ids if tier_id not in tiers_by_id]
+            if missing_tiers:
+                raise ValueError(f"phase {phase_id} references unknown tier ids: {missing_tiers}")
+            name_config = names_configs.get(str(phase_id))
+            if name_config is None:
+                raise ValueError(f"missing names config for phase {phase_id}")
+            phase_tiers = [tiers_by_id[tier_id] for tier_id in tier_ids]
+            self.phases.append(Phase(phase_config, phase_tiers, name_config, tone_registry=self.tone_registry, feature_registry=self.feature_registry, rng=self.rng))
         
 
 

@@ -20,13 +20,25 @@ class Phase:
         self.lexicon_path = "config/lexicons/phase_{id}.json".format(id=id)
         self.lexicon = Lexicon(self.lexicon_path, rng=self.rng)
 
-    def generate_prompts(self, prompts_per_phase):
-        # Placeholder implementation - replace with actual prompt generation logic
+    def generate_prompts(self, prompts_per_phase, tier_ids=None):
+        """Generate exactly ``prompts_per_phase`` prompts across selected tiers.
+
+        Counts are balanced deterministically: each tier receives the quotient,
+        and the first ``remainder`` tiers receive one additional prompt.
+        """
         prompts = []
 
-        prompts_per_tier = prompts_per_phase // len(self.tiers)
-        for tier in self.tiers:
-            for _ in range(prompts_per_tier):
+        selected_tiers = self.tiers
+        if tier_ids is not None:
+            wanted = set(tier_ids)
+            selected_tiers = [tier for tier in self.tiers if tier.tier in wanted]
+        if not selected_tiers:
+            return prompts
+
+        prompts_per_tier, remainder = divmod(prompts_per_phase, len(selected_tiers))
+        for index, tier in enumerate(selected_tiers):
+            tier_count = prompts_per_tier + (1 if index < remainder else 0)
+            for _ in range(tier_count):
                 name, gender = self.name_loader.get_bio()
                 verb, noun, adjective = self.lexicon.sample_lexicon()
                 prompt = tier.generate_prompt(name=name, gender=gender, verb=verb, noun=noun, adjective=adjective)

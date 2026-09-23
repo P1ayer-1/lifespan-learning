@@ -24,16 +24,18 @@ def _cwd_in_prompt_dir(monkeypatch):
     monkeypatch.chdir(PROMPT_DIR)
 
 
-def _generate(split, seed, phases, per_phase):
-    args = gp.build_arg_parser().parse_args(
-        [
-            "--split", split,
-            "--seed", str(seed),
-            "--phases", phases,
-            "--per-phase", str(per_phase),
-            "--out", "unused.jsonl",
-        ]
-    )
+def _generate(split, seed, phases, per_phase, tiers=None):
+    argv = [
+        "--split", split,
+        "--seed", str(seed),
+        "--per-phase", str(per_phase),
+        "--out", "unused.jsonl",
+    ]
+    if phases is not None:
+        argv.extend(["--phases", phases])
+    if tiers is not None:
+        argv.extend(["--tiers", tiers])
+    args = gp.build_arg_parser().parse_args(argv)
     return gp.generate(args)
 
 
@@ -69,6 +71,36 @@ def test_every_record_carries_split_phase_tier_and_hash():
 def test_unknown_phase_id_rejected():
     with pytest.raises(SystemExit):
         _generate("train", seed=1, phases="999", per_phase=1)
+
+
+def test_non_divisible_per_phase_count_is_exact_and_balanced():
+    records = _generate("train", seed=1, phases="2", per_phase=5)
+    assert len(records) == 5
+    counts = {tier: sum(r["metadata"]["tier"] == tier for r in records) for tier in (4, 5, 6)}
+    assert counts == {4: 2, 5: 2, 6: 1}
+
+
+def test_tier_filter_generates_only_requested_tiers_with_exact_phase_counts():
+    records = _generate("train", seed=1, phases=None, tiers="5,7,9", per_phase=5)
+    assert len(records) == 10
+    assert {r["metadata"]["tier"] for r in records} == {5, 7, 9}
+    assert sum(r["metadata"]["phase"] == 2 for r in records) == 5
+    assert sum(r["metadata"]["phase"] == 3 for r in records) == 5
+    phase_3_counts = {
+        tier: sum(r["metadata"]["tier"] == tier for r in records)
+        for tier in (7, 9)
+    }
+    assert phase_3_counts == {7: 3, 9: 2}
+
+
+def test_unknown_tier_id_rejected():
+    with pytest.raises(SystemExit, match="Unknown tier"):
+        _generate("train", seed=1, phases="0", tiers="999", per_phase=1)
+
+
+def test_tier_outside_requested_phases_rejected():
+    with pytest.raises(SystemExit, match="outside the requested phases"):
+        _generate("train", seed=1, phases="0", tiers="4", per_phase=1)
 
 
 def test_split_refusal_is_a_hard_exit(tmp_path, capsys):
@@ -126,6 +158,7 @@ def test_sidecar_written_next_to_output(tmp_path):
     assert sidecar["split"] == "train"
     assert sidecar["seed"] == 1
     assert sidecar["total_prompts"] > 0
+    assert sidecar["counts_per_tier"] == {"0": 2, "1": 2}
 
 
 # --------------------------------------------------------------------------

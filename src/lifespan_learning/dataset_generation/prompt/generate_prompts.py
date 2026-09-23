@@ -11,6 +11,7 @@ Examples:
     python generate_prompts.py --split train --seed 42   --per-phase 5000 --out data/train_prompts.jsonl
     python generate_prompts.py --split exam  --seed 4242 --per-phase 500  --out data/exam_prompts.jsonl
     python generate_prompts.py --split train --seed 42 --phases 0,1,2 --per-phase 100 --out /tmp/smoke.jsonl
+    python generate_prompts.py --split train --seed 42 --tiers 7,8,9 --per-phase 100 --out /tmp/middle-school.jsonl
 
 `split` ("train" or "exam") is written into every prompt's metadata, and is
 also the first line of defence against exam/train contamination: this
@@ -56,6 +57,18 @@ def parse_phase_ids(phases_arg: str | None, available_ids: list[int]) -> list[in
     unknown = sorted(set(requested) - set(available_ids))
     if unknown:
         raise SystemExit(f"Unknown phase id(s) {unknown}; available phase ids: {available_ids}")
+    return requested
+
+
+def parse_tier_ids(tiers_arg: str | None, available_ids: list[int]) -> list[int] | None:
+    """Parse --tiers into unique ordered ids, or None when all tiers are wanted."""
+    if not tiers_arg:
+        return None
+    requested = [int(t.strip()) for t in tiers_arg.split(",") if t.strip() != ""]
+    requested = list(dict.fromkeys(requested))
+    unknown = sorted(set(requested) - set(available_ids))
+    if unknown:
+        raise SystemExit(f"Unknown tier id(s) {unknown}; available tier ids: {available_ids}")
     return requested
 
 
@@ -136,6 +149,15 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Comma-separated phase ids to generate, e.g. '0,1,2'. Default: all phases in phases.yaml.",
     )
     parser.add_argument(
+        "--tiers",
+        type=str,
+        default=None,
+        help=(
+            "Comma-separated tier ids to generate, e.g. '7,8,9'. Only those tiers are included; "
+            "--per-phase is divided exactly and as evenly as possible among selected tiers in each phase."
+        ),
+    )
+    parser.add_argument(
         "--out",
         type=Path,
         required=True,
@@ -148,14 +170,34 @@ def generate(args: argparse.Namespace) -> list[dict]:
     generator = PromptDatasetGenerator(seed=args.seed)
     available_ids = [phase.config["id"] for phase in generator.phases]
     wanted_ids = parse_phase_ids(args.phases, available_ids)
+    available_tier_ids = [tier.tier for phase in generator.phases for tier in phase.tiers]
+    wanted_tier_ids = parse_tier_ids(args.tiers, available_tier_ids)
+
+    tier_phase = {
+        tier.tier: phase.config["id"]
+        for phase in generator.phases
+        for tier in phase.tiers
+    }
+    if wanted_tier_ids is not None:
+        excluded = [tier_id for tier_id in wanted_tier_ids if tier_phase[tier_id] not in wanted_ids]
+        if excluded:
+            raise SystemExit(
+                f"Tier id(s) {excluded} are outside the requested phases {wanted_ids}; "
+                "include their phases or omit --phases."
+            )
 
     records: list[dict] = []
     for phase in generator.phases:
         phase_id = phase.config["id"]
         if phase_id not in wanted_ids:
             continue
+        selected_tiers = None
+        if wanted_tier_ids is not None:
+            selected_tiers = [tier_id for tier_id in wanted_tier_ids if tier_phase[tier_id] == phase_id]
+            if not selected_tiers:
+                continue
         print(f"Generating {args.per_phase} prompts for phase {phase_id}: {phase.config['name']}")
-        phase_prompts = phase.generate_prompts(args.per_phase)
+        phase_prompts = phase.generate_prompts(args.per_phase, tier_ids=selected_tiers)
         for prompt in phase_prompts:
             prompt["metadata"]["split"] = args.split
             prompt_hash = compute_prompt_hash(prompt["prompt"], prompt["metadata"])
@@ -175,9 +217,12 @@ def save_records(records: list[dict], out_path: Path) -> None:
 
 def save_sidecar(records: list[dict], out_path: Path, args: argparse.Namespace) -> None:
     counts_per_phase: dict[str, int] = {}
+    counts_per_tier: dict[str, int] = {}
     for record in records:
         phase_id = str(record["metadata"]["phase"])
+        tier_id = str(record["metadata"]["tier"])
         counts_per_phase[phase_id] = counts_per_phase.get(phase_id, 0) + 1
+        counts_per_tier[tier_id] = counts_per_tier.get(tier_id, 0) + 1
 
     sidecar = {
         "generator_commit": _generator_commit(),
@@ -185,8 +230,10 @@ def save_sidecar(records: list[dict], out_path: Path, args: argparse.Namespace) 
         "seed": args.seed,
         "per_phase": args.per_phase,
         "phases_requested": args.phases,
+        "tiers_requested": args.tiers,
         "total_prompts": len(records),
         "counts_per_phase": counts_per_phase,
+        "counts_per_tier": counts_per_tier,
     }
     sidecar_path = out_path.with_suffix(out_path.suffix + ".sidecar.json")
     with sidecar_path.open("w", encoding="utf-8", newline="\n") as f:
