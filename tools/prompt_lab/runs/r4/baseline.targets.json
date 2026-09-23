@@ -1,0 +1,58 @@
+{
+ "0": {
+  "age": 3,
+  "grade": "junior kindergarten"
+ },
+ "1": {
+  "age": 6,
+  "grade": "senior kindergarten"
+ },
+ "2": {
+  "age": 5,
+  "grade": "1st grade"
+ },
+ "3": {
+  "age": 6,
+  "grade": "2nd grade"
+ },
+ "4": {
+  "age": 8,
+  "grade": "3rd grade"
+ },
+ "5": {
+  "age": 9,
+  "grade": "4th grade"
+ },
+ "6": {
+  "age": 10,
+  "grade": "6th grade"
+ },
+ "7": {
+  "age": 12,
+  "grade": "7th grade"
+ },
+ "8": {
+  "age": 15,
+  "grade": "9th grade"
+ },
+ "9": {
+  "age": 16,
+  "grade": "10th grade"
+ },
+ "10": {
+  "age": 15,
+  "grade": "11th grade"
+ },
+ "11": {
+  "age": 17,
+  "grade": "11th grade"
+ },
+ "12": {
+  "age": 17,
+  "grade": "12th grade"
+ },
+ "13": {
+  "age": 16,
+  "grade": "12th grade"
+ }
+}

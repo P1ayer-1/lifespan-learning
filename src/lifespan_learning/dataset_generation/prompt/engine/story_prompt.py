@@ -90,7 +90,8 @@ def _knowledge_block(cfg: PromptConfig) -> str:
         head = (
             f'Knowledge in the plot: the events turn on this real fact: "{cfg.fact}"{hook}. '
             f"{name} uses it, discovers it, or gets it wrong and finds out. Requirements:\n"
-            "- Keep the fact accurate as stated. Do not add other technical claims unless you are certain they are true."
+            "- Keep the fact accurate as stated: every number, direction and comparison in it stays exactly as given. "
+            "Do not add other technical claims unless you are certain they are true."
         )
     else:
         head = (
@@ -130,7 +131,7 @@ The story needs a real problem or want that drives it, and something concrete ha
 Thinking the story shows: {THINKING_BY_PHASE[ph].format(name=cfg.name)}
 {_knowledge_block(cfg)}
 
-Vocabulary: use the verb "{cfg.verb}", the noun "{cfg.noun}" and the adjective "{cfg.adjective}", each at least once, in sentences that make its meaning clear from context. Weave them in naturally; never draw attention to them.
+Vocabulary: use the verb "{cfg.verb}", the noun "{cfg.noun}" and the adjective "{cfg.adjective}", each at least once, in sentences that make its meaning clear from context. Use each word correctly, in its ordinary meaning and as that part of speech; weave it in naturally and never draw attention to it. If a word cannot be used correctly and naturally in this story, leave it out rather than misuse it.
 
 Tone: {cfg.tone.key}: {behaviors}.
 {features}

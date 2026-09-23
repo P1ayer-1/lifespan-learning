@@ -49,10 +49,16 @@ def build_configs(seed: int, n_per_phase: int, phases: list[int]) -> list[dict]:
     from lifespan_learning.dataset_generation.prompt.engine.prompt_dataset_generator import PromptDatasetGenerator
 
     captured: list[dict] = []
+    # Hook the Arc base class so BOTH basic_learning and advanced_learning are
+    # captured. Rounds r1-r3 hooked only BasicLearningArc, so every prompt
+    # after an advanced_learning draw within a phase had its metadata (age,
+    # grade, target words) shifted by one row; phase ids were unaffected, so
+    # the band-guess numbers stand, but per-story age targets for those rows
+    # were off by a row.
     originals = {
         "exposure": exposures.Exposure.build_prompt,
         "experience": experiences.Experience.build_prompt,
-        "arc": arcs.BasicLearningArc.build_prompt,
+        "arc": arcs.Arc.build_prompt,
     }
 
     def make_hook(kind, original):
@@ -64,7 +70,7 @@ def build_configs(seed: int, n_per_phase: int, phases: list[int]) -> list[dict]:
 
     exposures.Exposure.build_prompt = make_hook("exposure", originals["exposure"])
     experiences.Experience.build_prompt = make_hook("experience", originals["experience"])
-    arcs.BasicLearningArc.build_prompt = make_hook("arc", originals["arc"])
+    arcs.Arc.build_prompt = make_hook("arc", originals["arc"])
 
     gen = PromptDatasetGenerator(seed=seed)
     out = []

@@ -139,9 +139,8 @@ def main() -> None:
         for r in rows:
             r["m"] = text_metrics(r)
         if args.export:
-            (run_dir / f"{v}.blind.jsonl").write_text("
-".join(json.dumps({"idx": r["idx"], "story": r["story"]}, ensure_ascii=False) for r in sorted(rows, key=lambda r: r["idx"])) + "
-", encoding="utf-8")
+            blind_lines = [json.dumps({"idx": r["idx"], "story": r["story"]}, ensure_ascii=False) for r in sorted(rows, key=lambda r: r["idx"])]
+            (run_dir / f"{v}.blind.jsonl").write_text("\n".join(blind_lines) + "\n", encoding="utf-8")
             (run_dir / f"{v}.targets.json").write_text(json.dumps({str(r["idx"]): {"age": r["age"], "grade": r["grade"]} for r in rows}, indent=1), encoding="utf-8")
             print(f"exported {v}: {len(rows)} stories -> {v}.blind.jsonl, {v}.targets.json")
             continue
