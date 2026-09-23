@@ -1,0 +1,513 @@
+{
+ "phase": 4,
+ "band": "grades 9-10 (age 14-16)",
+ "generated_by": "subagent",
+ "verified_by": "independent subagent",
+ "facts": [
+  {
+   "domain": "science",
+   "fact": "Water is one of the few substances that expands when it freezes, growing about 9 percent in volume. That expansion is why ice floats and why a sealed bottle of water or a water pipe can crack in a freezer or a cold snap.",
+   "hook": "a character puts a full glass bottle in the freezer to chill it fast"
+  },
+  {
+   "domain": "science",
+   "fact": "Sound travels through air at about 343 meters per second, while light arrives almost instantly. Counting the seconds between a lightning flash and its thunder and dividing by three gives the storm's distance in kilometers.",
+   "hook": "two hikers argue over whether a storm is coming closer"
+  },
+  {
+   "domain": "science",
+   "fact": "An object loses heat faster the bigger the gap between its temperature and the room's. So if you must leave coffee sitting for ten minutes, adding cold milk right away keeps it hotter at the end than adding the milk just before you drink it.",
+   "hook": "a barista bets a customer about when to add the milk"
+  },
+  {
+   "domain": "science",
+   "fact": "Baking soda reacting with vinegar releases carbon dioxide, a gas denser than air. The invisible gas can be tipped out of a jug like a liquid and will snuff a candle flame it is poured over.",
+   "hook": "a science-fair volunteer seems to put out a candle with an empty jug"
+  },
+  {
+   "domain": "science",
+   "fact": "Water's boiling point depends on air pressure: a pressure cooker at twice normal pressure boils water at about 120 degrees Celsius, cooking food faster, while on a high mountain water boils well below 100 degrees, so rice and pasta take longer to soften.",
+   "hook": "a camper on a mountain cannot understand why the rice stays hard"
+  },
+  {
+   "domain": "science",
+   "fact": "Reusable hand warmers hold a supersaturated solution of sodium acetate that stays liquid below its freezing point. Clicking the metal disc inside gives the crystals a starting point, and the whole pouch solidifies and releases heat in seconds; boiling it dissolves the crystals so it can be used again.",
+   "hook": "a stranded character rescues a night with a forgotten hand warmer"
+  },
+  {
+   "domain": "science",
+   "fact": "A metal railing and a wooden bench in the same shade are at the same temperature, but the metal feels colder because it conducts heat away from your skin far faster than wood does.",
+   "hook": "a child insists the metal slide is colder than the wooden bench"
+  },
+  {
+   "domain": "science",
+   "fact": "A falling object stops speeding up when air resistance equals its weight. A skydiver falling belly-down reaches a terminal velocity of roughly 200 kilometers per hour, and a crumpled sheet of paper falls much faster than a flat one because of drag, not weight.",
+   "hook": "a student drops a flat and a crumpled sheet from a balcony to settle a bet"
+  },
+  {
+   "domain": "science",
+   "fact": "Iron rusts only when both oxygen and water are present. Galvanized steel is coated in zinc, which corrodes first and protects the iron underneath even where the coating is scratched.",
+   "hook": "a scratched galvanized fence surprisingly refuses to rust"
+  },
+  {
+   "domain": "science",
+   "fact": "Rubbing a balloon on hair moves electrons onto the balloon, giving it a negative charge. Held near a thin stream of water from a tap, the charged balloon pulls the stream sideways without touching it.",
+   "hook": "a babysitter appears to bend water for a skeptical kid"
+  },
+  {
+   "domain": "science",
+   "fact": "A microwave oven uses waves at 2.45 gigahertz with a wavelength of about 12 centimeters, which make water molecules rotate and heat up. With the turntable removed, a chocolate bar melts in spots about 6 centimeters apart, and multiplying that spacing by two and by the frequency gives the speed of light.",
+   "hook": "a student measures the speed of light with a chocolate bar"
+  },
+  {
+   "domain": "science",
+   "fact": "Turning force, or torque, equals the force times the distance from the pivot. A wrench twice as long loosens a stuck bolt with half the push, which is why slipping a pipe over a wrench handle works.",
+   "hook": "a small character out-muscles a big one with a longer handle"
+  },
+  {
+   "domain": "science",
+   "fact": "Salt lowers the freezing point of water. A mix of crushed ice and salt can drop to about minus 21 degrees Celsius, cold enough to freeze a bag of cream and sugar into ice cream in a few minutes.",
+   "hook": "cousins make ice cream without a freezer during a power outage"
+  },
+  {
+   "domain": "science",
+   "fact": "A sealed can of regular soda sinks in water while a can of diet soda floats. The regular can holds around 40 grams of dissolved sugar, making it slightly denser than water, while the tiny amount of sweetener in diet soda leaves it less dense.",
+   "hook": "a lifeguard sorts a cooler of unlabeled cans by dropping them in the pool"
+  },
+  {
+   "domain": "science",
+   "fact": "One food Calorie is about 4,200 joules, the energy needed to heat a liter of water by one degree Celsius. Used perfectly, that single Calorie could lift a 60-kilogram person about 7 meters straight up.",
+   "hook": "a character calculates how many stairs a cookie is really worth"
+  },
+  {
+   "domain": "biology",
+   "fact": "Red blood cells have no nucleus and survive only about 120 days, so bone marrow makes roughly two million new ones every second. Almost none of the red cells in your body today were there four months ago.",
+   "hook": "a character claims to be literally the same person as a year ago"
+  },
+  {
+   "domain": "biology",
+   "fact": "Mitochondria carry their own small loop of DNA, separate from the DNA in the nucleus, and it is inherited only from the mother because the egg supplies the mitochondria. It can be used to trace a maternal line back for many generations.",
+   "hook": "a DNA test traces a family secret through the mother's side only"
+  },
+  {
+   "domain": "biology",
+   "fact": "Antibiotics attack structures that bacteria have and human cells lack, such as bacterial cell walls. Viruses have none of those structures, so antibiotics do nothing against a cold or the flu.",
+   "hook": "a parent demands antibiotics for a child's cold"
+  },
+  {
+   "domain": "biology",
+   "fact": "People who carry one copy of the sickle-cell gene are mostly healthy and are partly protected against malaria, while two copies cause sickle-cell disease. That is why the gene remains common in regions where malaria is widespread.",
+   "hook": "a student discovers why a harmful gene never disappeared"
+  },
+  {
+   "domain": "biology",
+   "fact": "Most mammals stop making the enzyme lactase after infancy and cannot digest milk sugar as adults. Most adult humans worldwide are the same; the ability to keep drinking milk evolved in the last several thousand years in a few populations that herded dairy animals.",
+   "hook": "a dinner guest quietly avoids milk and a friend takes it personally"
+  },
+  {
+   "domain": "biology",
+   "fact": "A dominant trait is not necessarily a common one. Having extra fingers or toes is caused by a dominant gene variant, yet it is rare, because how common a trait is depends on how many people carry the gene, not on whether it is dominant.",
+   "hook": "a student wrongly predicts a dominant trait must spread through a town"
+  },
+  {
+   "domain": "biology",
+   "fact": "Almost all of a tree's dry mass comes from carbon dioxide pulled out of the air, not from the soil. In the 1600s Jan van Helmont grew a willow in a weighed pot for five years, and the tree gained 74 kilograms while the soil lost only about 57 grams.",
+   "hook": "a kid who thinks trees eat dirt repeats a 400-year-old experiment"
+  },
+  {
+   "domain": "biology",
+   "fact": "The center of the retina is packed with color-sensing cones but has no rods, the cells that work in dim light. A faint star vanishes when you stare straight at it and reappears when you look slightly to one side.",
+   "hook": "a stargazer teaches a friend to see a star by not looking at it"
+  },
+  {
+   "domain": "biology",
+   "fact": "The human body holds roughly as many bacterial cells as human cells, on the order of 38 trillion bacteria to 30 trillion human cells, most of them in the large intestine. By weight, though, these microbes total only a few hundred grams.",
+   "hook": "a germ-phobic character learns what half their cells actually are"
+  },
+  {
+   "domain": "biology",
+   "fact": "A fever is the body deliberately raising its own thermostat. A temperature a couple of degrees above the normal 37 degrees Celsius slows many bacteria and viruses and speeds up parts of the immune response.",
+   "hook": "a character rushes to bring down a mild fever and a nurse explains why not"
+  },
+  {
+   "domain": "biology",
+   "fact": "Identical twins share almost all of their DNA but have different fingerprints. The ridge patterns are shaped by pressures and growth in the womb, so even genetically identical people leave distinct prints.",
+   "hook": "a detective clears a twin suspect with a fingerprint"
+  },
+  {
+   "domain": "biology",
+   "fact": "Blood type O negative lacks the A, B and Rh markers that a recipient's immune system could attack, so it can be given to almost anyone in an emergency. Type AB positive has all three markers and can receive red cells from any type.",
+   "hook": "an emergency-room volunteer learns why one donor is called universal"
+  },
+  {
+   "domain": "biology",
+   "fact": "A plant bends toward a window because the growth hormone auxin builds up on the shaded side of the stem, making those cells grow longer. The dark side grows faster, pushing the tip toward the light.",
+   "hook": "a character rotates a plant each day to keep it straight"
+  },
+  {
+   "domain": "biology",
+   "fact": "Fresh pineapple contains bromelain, an enzyme that breaks down proteins. Added to gelatin dessert it digests the gelatin so the dessert never sets, but canned pineapple works fine because heat during canning destroys the enzyme.",
+   "hook": "a fruit dessert refuses to set before a party"
+  },
+  {
+   "domain": "biology",
+   "fact": "Under warm, well-fed conditions some bacteria divide about every 20 minutes. At that rate a single cell becomes over a billion in ten hours, which is why food left out overnight can be unsafe even if it looks fine.",
+   "hook": "a character does the doubling math on last night's forgotten rice"
+  },
+  {
+   "domain": "math",
+   "fact": "In a group of just 23 people, there is better than a 50 percent chance that two share a birthday, because there are 253 different pairs of people who could match. With 57 people the chance passes 99 percent.",
+   "hook": "a student bets the class that two of them share a birthday"
+  },
+  {
+   "domain": "math",
+   "fact": "Extreme results tend to be followed by more ordinary ones, an effect called regression to the mean. The student with the best score on one test usually scores lower on the next, and the worst usually improves, even if nothing about them changes.",
+   "hook": "a coach concludes that yelling works because scolded players improve"
+  },
+  {
+   "domain": "math",
+   "fact": "If a disease affects 1 person in 10,000 and a test wrongly flags 1 healthy person in 100, then among 10,000 people tested about 100 healthy people test positive alongside the single sick one. A positive result in that case is over 99 percent likely to be a false alarm.",
+   "hook": "a character panics over a positive screening test"
+  },
+  {
+   "domain": "math",
+   "fact": "A treatment can have a better success rate than another in every subgroup and yet a worse rate overall, if the groups differ in size and difficulty. This is called Simpson's paradox and it appears in real hospital and admissions data.",
+   "hook": "two students reach opposite conclusions from the same table"
+  },
+  {
+   "domain": "math",
+   "fact": "The mean is pulled toward a few extreme values while the median is not. If one billionaire joins a bus full of ordinary riders, the mean wealth on the bus rises to tens of millions while the median barely moves.",
+   "hook": "a town's average income looks rich because of one resident"
+  },
+  {
+   "domain": "math",
+   "fact": "In 100 fair coin flips, a run of five or more identical results in a row appears more than 90 percent of the time. People asked to invent random flip sequences almost never include such long runs, which makes faked data easy to spot.",
+   "hook": "a teacher catches a faked homework sequence by its missing streaks"
+  },
+  {
+   "domain": "math",
+   "fact": "Among school-age children, shoe size and reading ability are strongly correlated, but bigger feet do not cause better reading. Both rise with age, a hidden third variable, which is why correlation alone cannot prove cause.",
+   "hook": "a student proposes buying bigger shoes to improve reading scores"
+  },
+  {
+   "domain": "math",
+   "fact": "Percentage changes are not symmetric. A stock or a savings balance that falls 50 percent must then rise 100 percent just to get back to where it started.",
+   "hook": "a character celebrates a 50 percent gain after a 50 percent loss"
+  },
+  {
+   "domain": "math",
+   "fact": "In the Second World War, analysts studying bullet holes on returning bombers were asked where to add armor. Statistician Abraham Wald pointed out the planes hit in the unmarked areas never came back, so those were the places to armor.",
+   "hook": "a character studies only the survivors and draws the wrong lesson"
+  },
+  {
+   "domain": "math",
+   "fact": "A properly random sample of about 1,000 people gives a margin of error of about plus or minus 3 percentage points, whether the population is a city or a nation of hundreds of millions. What matters is the sample size and how randomly it was chosen, not the population size.",
+   "hook": "a character refuses to believe 1,000 people can represent a whole country"
+  },
+  {
+   "domain": "math",
+   "fact": "In many real-life sets of numbers, such as populations, river lengths or invoice amounts, about 30 percent start with the digit 1 and fewer than 5 percent start with 9. Known as Benford's law, this pattern helps auditors flag invented figures, which tend to use leading digits evenly.",
+   "hook": "an intern spots cooked books by counting leading digits"
+  },
+  {
+   "domain": "math",
+   "fact": "In the Monty Hall game, a prize hides behind one of three doors; you pick one, the host, who knows where the prize is, opens a different empty door, and offers a switch. Switching wins two times out of three, because your first pick was wrong two-thirds of the time.",
+   "hook": "a game-show contestant stubbornly refuses to switch"
+  },
+  {
+   "domain": "math",
+   "fact": "A bar chart whose vertical axis starts well above zero magnifies small differences. Bars for 51 and 52 percent look nearly equal on an axis from 0 but one looks twice as tall as the other on an axis that starts at 50.",
+   "hook": "a student exposes a misleading chart in a campaign flyer"
+  },
+  {
+   "domain": "economics",
+   "fact": "Money growing at a fixed rate doubles in roughly 72 divided by the rate in years, so 7 percent a year doubles savings about every 10 years. Money invested at 16 doubles about five times by 66, a 32-fold increase.",
+   "hook": "a teen decides whether a summer job's pay is worth saving"
+  },
+  {
+   "domain": "economics",
+   "fact": "Credit cards typically charge around 20 percent interest a year. Paying only 25 dollars a month on a 1,000-dollar balance takes about five and a half years to clear and costs over 600 dollars in interest.",
+   "hook": "a character gets a first credit card and only pays the minimum"
+  },
+  {
+   "domain": "economics",
+   "fact": "The true cost of any choice includes the best alternative given up, called the opportunity cost. A free concert on a Saturday still costs a student the wages from the shift they turned down to attend.",
+   "hook": "a character keeps calling things free that clearly are not"
+  },
+  {
+   "domain": "economics",
+   "fact": "Money already spent and unrecoverable is a sunk cost and should not affect a decision. Staying at a bad movie because the ticket was expensive does not get the money back; it only adds two wasted hours.",
+   "hook": "a family suffers through a terrible show to get their money's worth"
+  },
+  {
+   "domain": "economics",
+   "fact": "Inflation of 3 percent a year roughly halves what cash can buy in about 24 years. Bills hidden in a mattress lose value every year even though the number printed on them never changes.",
+   "hook": "a grandparent's hidden savings turn out to buy far less than expected"
+  },
+  {
+   "domain": "economics",
+   "fact": "Raising a price does not always raise revenue. If shoppers respond strongly to price, a 20 percent increase can cut sales by more than 20 percent, leaving the seller with less money than before.",
+   "hook": "a lemonade stand doubles its price and earns less"
+  },
+  {
+   "domain": "economics",
+   "fact": "Even if one person is faster at every job, two people finish more together when each takes the job they are relatively best at, because time spent on one task is time lost on the other. Economists call this comparative advantage.",
+   "hook": "siblings split chores and the slower one still ends up needed"
+  },
+  {
+   "domain": "economics",
+   "fact": "A tag reading 'was 100, now 60' makes 60 seem cheap even if the item never sold for 100. The first number acts as an anchor that shifts what people judge as a fair price.",
+   "hook": "a shopper fixates on a crossed-out price the store invented"
+  },
+  {
+   "domain": "economics",
+   "fact": "Stores sometimes sell staples like milk or a hit video game below cost as loss leaders, because customers who come in for the bargain usually buy other items at full price.",
+   "hook": "a character tries to profit by only ever buying the loss leaders"
+  },
+  {
+   "domain": "economics",
+   "fact": "Each additional unit of something usually brings less satisfaction than the one before, called diminishing marginal utility. The first slice of pizza is worth a lot to a hungry person; the sixth is worth almost nothing.",
+   "hook": "an all-you-can-eat buffet turns out to be a bad deal for a small eater"
+  },
+  {
+   "domain": "economics",
+   "fact": "When a country's currency weakens, foreign goods and trips abroad become more expensive for its residents, but its own exports become cheaper for foreign buyers, which can boost sales overseas.",
+   "hook": "a family trip abroad suddenly costs more, but a relative's exports boom"
+  },
+  {
+   "domain": "economics",
+   "fact": "Barter requires a double coincidence of wants: the baker who needs shoes must find a cobbler who wants bread. Money removes that problem by being something everyone accepts, which is why even prison economies invent currencies.",
+   "hook": "a class trading game collapses until someone invents money"
+  },
+  {
+   "domain": "economics",
+   "fact": "Paying off a debt that charges 20 percent interest is a guaranteed 20 percent return, better than almost any savings account or investment can promise. Paying down high-interest debt before saving usually leaves a person richer.",
+   "hook": "a character proudly saves at 2 percent while owing at 20"
+  },
+  {
+   "domain": "economics",
+   "fact": "An externality is a cost or benefit that falls on people outside a transaction. A factory's pollution or a neighbor's loud party imposes costs on others that are not reflected in the price paid by the buyer or the host.",
+   "hook": "a neighborhood dispute over who really pays for a late-night party"
+  },
+  {
+   "domain": "history",
+   "fact": "The Black Death of 1347 to 1351 killed between a third and a half of Europe's population. With workers suddenly scarce, surviving peasants could demand higher wages and better terms, weakening the old feudal system.",
+   "hook": "a survivor discovers a lord must now pay for labor"
+  },
+  {
+   "domain": "history",
+   "fact": "Johannes Gutenberg's movable-type printing press, developed around 1450, made books dramatically cheaper. By 1500 an estimated 20 million volumes had been printed in Europe, more than all the hand-copied books of the previous thousand years.",
+   "hook": "a scribe realizes a machine has made a lifetime skill worthless"
+  },
+  {
+   "domain": "history",
+   "fact": "The 1815 eruption of Mount Tambora in Indonesia threw so much ash and sulfur into the atmosphere that 1816 became the 'year without a summer,' with snow in June in New England and failed harvests across Europe.",
+   "hook": "a diary records summer frost and nobody knows a volcano caused it"
+  },
+  {
+   "domain": "history",
+   "fact": "The potato, domesticated in the Andes, became the main food of Ireland's poor. When a fungus-like blight destroyed the crop from 1845 to 1849, about one million people died and another million emigrated.",
+   "hook": "a family's dependence on a single crop turns to catastrophe"
+  },
+  {
+   "domain": "history",
+   "fact": "The 1918 influenza pandemic killed tens of millions of people worldwide, more than the First World War that had just ended, and it struck healthy young adults unusually hard rather than mainly the old.",
+   "hook": "a soldier survives the trenches only to lose a healthy sister to flu"
+  },
+  {
+   "domain": "history",
+   "fact": "In 1747 naval surgeon James Lind gave twelve scurvy-stricken sailors six different treatments; only the two given citrus fruit recovered quickly. It took the Royal Navy until 1795 to make lemon juice a standard ration.",
+   "hook": "a ship's doctor runs one of the first controlled experiments at sea"
+  },
+  {
+   "domain": "history",
+   "fact": "The Panama Canal opened in 1914 after the United States took over a failed French project. It cut the sea voyage from New York to San Francisco by about 8,000 miles, or roughly 13,000 kilometers, by removing the trip around South America.",
+   "hook": "a cargo captain's old route becomes obsolete overnight"
+  },
+  {
+   "domain": "history",
+   "fact": "Before the telegraph, news could travel no faster than a horse or a ship. The first transatlantic cable in 1858 failed after a few weeks, but the 1866 cable worked, cutting message time between Europe and North America from about ten days to minutes.",
+   "hook": "a merchant's fortune depends on news that used to arrive by ship"
+  },
+  {
+   "domain": "history",
+   "fact": "The Rosetta Stone, found by French soldiers in Egypt in 1799, carries the same decree in Greek, in everyday Egyptian script and in hieroglyphs. Because scholars could read Greek, Jean-Francois Champollion used it to decipher hieroglyphs in 1822.",
+   "hook": "a character cracks a lost code using a text written three ways"
+  },
+  {
+   "domain": "history",
+   "fact": "The Roman Empire built more than 80,000 kilometers of paved roads, laid straight with layered stone foundations. Many modern European highways still follow their routes, and some Roman roads remain in use.",
+   "hook": "a road trip follows a route surveyed two thousand years ago"
+  },
+  {
+   "domain": "history",
+   "fact": "China kept the making of silk a secret for centuries. Around 552 CE, monks are recorded as smuggling silkworm eggs to the Byzantine Empire hidden in hollow walking sticks, breaking the monopoly.",
+   "hook": "a smuggling plot hinges on a hollow cane"
+  },
+  {
+   "domain": "history",
+   "fact": "In 1893 New Zealand became the first self-governing country to give all adult women the right to vote in national elections, decades before the United Kingdom in 1918 and the United States in 1920.",
+   "hook": "a character assumes the largest countries changed first"
+  },
+  {
+   "domain": "history",
+   "fact": "When Britain and its colonies switched from the Julian to the Gregorian calendar in 1752, eleven days were dropped: Wednesday September 2 was followed directly by Thursday September 14.",
+   "hook": "a puzzle about a birthday that never happened in 1752"
+  },
+  {
+   "domain": "history",
+   "fact": "During the 1854 cholera outbreak in London, physician John Snow mapped the deaths and found them clustered around one water pump on Broad Street. Removing the pump handle helped end the outbreak, decades before germs were proven to cause cholera.",
+   "hook": "a character solves an outbreak with a map instead of a microscope"
+  },
+  {
+   "domain": "history",
+   "fact": "In Germany's 1923 hyperinflation, prices doubled every few days. By November a loaf of bread cost around 200 billion marks, workers were paid twice a day, and people carried wages in wheelbarrows.",
+   "hook": "a family's life savings buy a single loaf of bread"
+  },
+  {
+   "domain": "places",
+   "fact": "Earthquake magnitude is a logarithmic scale. Each whole step, say from 5 to 6, means about 10 times more ground shaking and about 32 times more energy released, so a magnitude 7 releases about 1,000 times the energy of a magnitude 5.",
+   "hook": "a character dismisses a 'two-point' difference between two quakes"
+  },
+  {
+   "domain": "places",
+   "fact": "The Moon's gravity produces two high tides a day at most coasts. In the Bay of Fundy in Canada the funnel-shaped bay amplifies them to a range of up to 16 meters, so boats that float at noon sit on mud by evening.",
+   "hook": "a visitor parks a car on a beach that will be under 15 meters of water"
+  },
+  {
+   "domain": "places",
+   "fact": "The Amazon River carries about one-fifth of all the fresh water that flows from rivers into the world's oceans. Its plume of fresh water can be detected more than 100 kilometers out to sea.",
+   "hook": "a sailor finds drinkable water far from any shore"
+  },
+  {
+   "domain": "places",
+   "fact": "Air cools by about 6.5 degrees Celsius for every 1,000 meters of altitude. That is why Mount Kilimanjaro, almost on the equator, has had glaciers near its 5,895-meter summit.",
+   "hook": "a hiker packs shorts for a mountain near the equator"
+  },
+  {
+   "domain": "places",
+   "fact": "The International Date Line runs roughly along the 180-degree meridian in the Pacific. Crossing it eastward, a traveler repeats a calendar day; crossing westward, a day is skipped entirely.",
+   "hook": "a character celebrates the same birthday twice on a flight"
+  },
+  {
+   "domain": "places",
+   "fact": "The Atlantic Ocean widens by about 2.5 centimeters a year, roughly the rate fingernails grow, as new sea floor forms along the mid-ocean ridge and pushes the Americas away from Europe and Africa.",
+   "hook": "a character calculates how much farther a pen pal is than a decade ago"
+  },
+  {
+   "domain": "places",
+   "fact": "A desert is defined by low precipitation, not heat, so Antarctica is the world's largest desert. Parts of Chile's Atacama Desert have gone years without measurable rain.",
+   "hook": "a quiz question about the largest desert stumps a whole class"
+  },
+  {
+   "domain": "places",
+   "fact": "The shore of the Dead Sea lies about 430 meters below sea level, the lowest land on Earth. Its water is roughly ten times saltier than the ocean, so dense that swimmers float without effort.",
+   "hook": "a nonswimmer floats easily and cannot understand why"
+  },
+  {
+   "domain": "places",
+   "fact": "When moist wind hits a mountain range, the air rises, cools and drops its rain on the windward side. The far side sits in a rain shadow and is often desert, which is why Nevada is dry while California's coast is wet.",
+   "hook": "two towns a few kilometers apart get wildly different rainfall"
+  },
+  {
+   "domain": "places",
+   "fact": "Only about 2.5 percent of Earth's water is fresh, and roughly two-thirds of that is locked in glaciers and ice sheets. Less than 1 percent of all water is fresh water that is easily reachable in rivers, lakes and shallow groundwater.",
+   "hook": "a character maps where a drought-stricken town could actually find water"
+  },
+  {
+   "domain": "places",
+   "fact": "Winds carry millions of tons of dust from the Sahara across the Atlantic every year. The dust contains phosphorus that fertilizes the Amazon rainforest, whose own soils are poor in that nutrient.",
+   "hook": "a rainforest scientist traces missing nutrients to a desert an ocean away"
+  },
+  {
+   "domain": "places",
+   "fact": "Lake Baikal in Siberia is the world's deepest lake at about 1,642 meters and holds around one-fifth of all the unfrozen fresh surface water on Earth, more than all the North American Great Lakes combined.",
+   "hook": "a trivia team loses a bet about which lake holds the most water"
+  },
+  {
+   "domain": "places",
+   "fact": "About three-quarters of the world's active volcanoes lie along the Ring of Fire, a horseshoe of plate boundaries around the Pacific Ocean, which also produces most of the planet's largest earthquakes.",
+   "hook": "a family moving to the Pacific coast studies the map before buying"
+  },
+  {
+   "domain": "places",
+   "fact": "Rock near the summit of Mount Everest is limestone that formed on an ancient sea floor and contains fossils of marine creatures. The collision of India with Asia lifted it more than 8,000 meters.",
+   "hook": "a climber finds a seashell fossil at the roof of the world"
+  },
+  {
+   "domain": "places",
+   "fact": "Because of Earth's rotation, hurricanes spin counterclockwise in the Northern Hemisphere and clockwise in the Southern. The effect is far too weak to control the swirl of a draining sink, which depends on the basin's shape and how the water was poured.",
+   "hook": "a tourist pays for an equator 'demonstration' and a student calls it out"
+  },
+  {
+   "domain": "tech",
+   "fact": "In a suspension bridge the roadway hangs from cables in tension while the towers carry the load down in compression. Each of the Golden Gate Bridge's two main cables is 92 centimeters thick and bundles 27,572 individual steel wires.",
+   "hook": "a model bridge fails because a student made the cables rigid"
+  },
+  {
+   "domain": "tech",
+   "fact": "A stone arch carries weight by squeezing each block against its neighbors, turning a downward load into compression along the curve. Once the central keystone is set, the arch stands without mortar, which is why Roman arches survive two thousand years later.",
+   "hook": "a character removes the wrong block and the arch stays up anyway"
+  },
+  {
+   "domain": "tech",
+   "fact": "A lithium-ion battery stores charge by shuttling lithium ions between a graphite layer and a metal-oxide layer. The chemistry wears fastest when the battery sits at 100 percent or gets hot, so a device stored at about 50 percent charge in a cool place keeps its capacity longest.",
+   "hook": "a character stores a spare phone fully charged in a hot car"
+  },
+  {
+   "domain": "tech",
+   "fact": "Well-built websites never store your actual password; they store a scrambled version called a hash that cannot be reversed. That is why 'forgot password' links reset it instead of emailing it, and why a site that can send you your old password is storing it unsafely.",
+   "hook": "a character receives their old password by email and a friend is alarmed"
+  },
+  {
+   "domain": "tech",
+   "fact": "A GPS receiver locates itself by timing signals from at least four satellites. The satellite clocks run about 38 microseconds a day fast relative to clocks on the ground because of relativity, and without correcting for this, positions would drift by about 10 kilometers per day.",
+   "hook": "a student claims relativity has no effect on daily life"
+  },
+  {
+   "domain": "tech",
+   "fact": "QR codes include error-correction data using Reed-Solomon codes. At the highest level, a code can still be read with up to 30 percent of its surface scratched, stained or covered by a logo.",
+   "hook": "a torn concert ticket still scans and a character wants to know why"
+  },
+  {
+   "domain": "tech",
+   "fact": "Airliner cabins are pressurized, but only to the air pressure found at about 2,400 meters altitude, not sea level. That is why a sealed chip bag puffs up in flight and why ears pop during descent.",
+   "hook": "a character brings a balloon on a plane"
+  },
+  {
+   "domain": "tech",
+   "fact": "Concrete is strong when squeezed but weak when stretched, so builders embed steel bars, which resist stretching. The pairing works because steel and concrete expand almost identically when heated, so temperature changes do not crack them apart.",
+   "hook": "a home-built concrete step snaps until someone adds rebar"
+  },
+  {
+   "domain": "tech",
+   "fact": "A fiber-optic cable carries data as pulses of light trapped inside a glass strand by total internal reflection. Light moves through glass at about 200,000 kilometers per second, so a signal crosses the Atlantic in under 40 milliseconds.",
+   "hook": "an online gamer discovers why an ocean adds lag"
+  },
+  {
+   "domain": "tech",
+   "fact": "A car airbag inflates in about 30 milliseconds, faster than a blink. A sensor detects the sudden deceleration and triggers a small chemical charge that generates nitrogen gas to fill the bag, which then deflates through vents to cushion the impact.",
+   "hook": "a driver is baffled that the airbag had already deflated after the crash"
+  },
+  {
+   "domain": "tech",
+   "fact": "JPEG images are compressed by permanently discarding fine detail the eye rarely notices, so every time a JPEG is edited and saved again, a little more quality is lost. Formats like PNG store the exact pixels and can be resaved endlessly without change.",
+   "hook": "a photo passed through many group chats becomes a blurry mess"
+  },
+  {
+   "domain": "tech",
+   "fact": "A refrigerator does not create cold; it pumps heat from inside to the coils on the back by compressing and expanding a refrigerant. Leaving the door open in a closed room makes the room warmer overall, because the motor adds heat.",
+   "hook": "a character tries to cool an apartment with the fridge door open"
+  },
+  {
+   "domain": "tech",
+   "fact": "Water towers work by height: every 10 meters of elevation adds about one atmosphere of pressure. Water stored 40 meters up can push through pipes to the upper floors of nearby buildings even during a power failure.",
+   "hook": "the top floor loses water pressure and a kid figures out why"
+  },
+  {
+   "domain": "tech",
+   "fact": "Many computer systems count time as the number of seconds since January 1, 1970. Systems that store this count in a 32-bit signed number run out of room on January 19, 2038, when the value overflows and the date can flip back to 1901.",
+   "hook": "a programmer finds a countdown hidden in old software"
+  }
+ ]
+}

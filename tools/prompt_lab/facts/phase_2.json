@@ -1,0 +1,513 @@
+{
+ "phase": 2,
+ "band": "grades 3-5 (age 8-11)",
+ "generated_by": "subagent",
+ "verified_by": "independent subagent",
+ "facts": [
+  {
+   "domain": "animals",
+   "fact": "An octopus has three hearts and blue blood. Two hearts pump blood through the gills and the third pumps it to the rest of the body.",
+   "hook": "a kid's aquarium report says two hearts and a classmate proves it wrong"
+  },
+  {
+   "domain": "animals",
+   "fact": "Honeybees tell their hive-mates where flowers are with a waggle dance. The angle of the dance shows the direction compared to the sun, and how long it lasts shows the distance.",
+   "hook": "a beekeeper's kid decodes the dance to find the hidden flower patch"
+  },
+  {
+   "domain": "animals",
+   "fact": "Owls fly almost silently because the front edges of their wing feathers are fringed like a comb, which breaks up the whoosh of air.",
+   "hook": "a nighttime camping mystery about a bird nobody heard"
+  },
+  {
+   "domain": "animals",
+   "fact": "Arctic terns fly from the Arctic to Antarctica and back every year, a round trip of roughly 70,000 kilometers, the longest migration of any animal.",
+   "hook": "a tagged bird returns to the same beach the following summer"
+  },
+  {
+   "domain": "animals",
+   "fact": "Bats find insects in the dark by echolocation: they send out high-pitched squeaks and listen for the echoes bouncing back from objects.",
+   "hook": "a kid bets that bats will crash into a clothesline at dusk"
+  },
+  {
+   "domain": "animals",
+   "fact": "Elephants talk to each other with rumbles so low that humans cannot hear them, and these rumbles can travel several kilometers through the ground.",
+   "hook": "a zoo volunteer notices the elephants all turning toward nothing"
+  },
+  {
+   "domain": "animals",
+   "fact": "A hummingbird's heart can beat more than 1,000 times a minute, and it must eat about half its body weight in sugar every day to survive.",
+   "hook": "a nectar feeder that runs dry over a long weekend"
+  },
+  {
+   "domain": "animals",
+   "fact": "Sea otters wrap themselves in kelp and sometimes hold paws while they sleep so they do not drift apart on the water.",
+   "hook": "kids on a boat trip count sleeping otters tied up in seaweed"
+  },
+  {
+   "domain": "animals",
+   "fact": "Only about 10 percent of the energy in plants ends up in the animals that eat them, and only 10 percent of that reaches the next animal up the food chain. That is why a forest has far more rabbits than foxes.",
+   "hook": "a class counts why the meadow has hundreds of mice but one owl"
+  },
+  {
+   "domain": "animals",
+   "fact": "Snakes smell with their tongues. The flicking tongue collects scent particles from the air and presses them against a special organ in the roof of the mouth.",
+   "hook": "a pet snake keeps flicking its tongue toward a hidden snack"
+  },
+  {
+   "domain": "animals",
+   "fact": "Beavers build dams out of sticks and mud, and the pond behind a dam becomes a home for fish, frogs, ducks and insects that were not there before.",
+   "hook": "a flooded hiking trail is traced back to a brand-new beaver dam"
+  },
+  {
+   "domain": "animals",
+   "fact": "Salmon hatch in freshwater streams, swim out to the ocean, and years later use their sense of smell to find the exact stream where they were born.",
+   "hook": "a field trip to a salmon run turns into a homing experiment"
+  },
+  {
+   "domain": "animals",
+   "fact": "A monarch butterfly's bright orange color warns birds that it tastes terrible, because as a caterpillar it ate poisonous milkweed leaves.",
+   "hook": "a kid watches a bird spit out a butterfly and wants to know why"
+  },
+  {
+   "domain": "animals",
+   "fact": "Emperor penguins survive the Antarctic winter by huddling in tight groups and slowly rotating, so every bird takes a turn on the cold outside edge.",
+   "hook": "a recess game of penguin huddle on a freezing day"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Warm air can hold more water vapor than cold air. When the air cools at night, the extra water comes out as dew on the grass, even though no rain fell.",
+   "hook": "a tent is soaked in the morning after a perfectly clear night"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Earth has had roughly the same water for billions of years. It evaporates, forms clouds, falls as rain and flows back to the sea over and over, so the water in a glass has been recycled countless times.",
+   "hook": "a kid realizes a dinosaur might have drunk the water in her cup"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Hail forms when strong updrafts in a thunderstorm carry raindrops up into freezing air again and again, adding a new layer of ice each time. Cut a hailstone in half and you can see the rings like an onion.",
+   "hook": "kids slice open hailstones after a storm to count the layers"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Earth is tilted about 23.5 degrees on its axis, and that tilt causes the seasons. When it is summer in the Northern Hemisphere, it is winter in the Southern Hemisphere.",
+   "hook": "a video call with a cousin in Australia who is at the beach in December"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "A lightning bolt heats the air around it to about 30,000 degrees Celsius, roughly five times hotter than the surface of the Sun. The air expands so fast that it makes the boom we call thunder.",
+   "hook": "a kid explains thunder to a frightened younger sibling during a storm"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "You can only see a rainbow when the sun is behind you and rain is in front of you, and the arc is always centered on the point exactly opposite the sun.",
+   "hook": "two friends chase a rainbow's end and it keeps moving"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Air pressure usually drops before a storm arrives, which is why the needle on a barometer falls hours before the rain starts.",
+   "hook": "a grandparent taps the barometer and cancels the picnic"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "A tree adds one ring of wood each year. Wide rings mean wet years with lots of growth and thin rings mean dry years, so a stump is a record of past weather.",
+   "hook": "a stump in the backyard reveals a drought from before the kids were born"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "A desert is defined by how little rain or snow falls, not by heat. By that rule Antarctica is the largest desert on Earth, bigger than the Sahara.",
+   "hook": "a trivia bet about the world's biggest desert"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "A single fluffy cumulus cloud can weigh around 500,000 kilograms, as much as about 100 elephants, but it floats because its water is spread out in billions of tiny droplets.",
+   "hook": "a kid tries to figure out why a cloud does not fall on the house"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Fresh snow is mostly trapped air, sometimes 90 percent, which makes it a good insulator. The inside of a snow shelter can stay near freezing even when the air outside is far colder.",
+   "hook": "a snow-fort sleepover test with two thermometers"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Land heats up faster than water, so on a sunny day the air over the beach rises and cooler air from the sea blows in to replace it. That is why sea breezes are strongest in the afternoon.",
+   "hook": "kites at the beach that only fly after lunch"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Plants make their own food from sunlight, water and carbon dioxide, and they give off oxygen as they do it. Most of the oxygen we breathe comes from plants on land and tiny algae in the ocean.",
+   "hook": "a class experiment with one plant in a closet and one in the window"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Earth's outer shell is broken into huge plates that move a few centimeters a year, about as fast as fingernails grow. Earthquakes happen where the plates grind past or push against each other.",
+   "hook": "a family visit to a crack in the ground that is slowly getting wider"
+  },
+  {
+   "domain": "plants_weather",
+   "fact": "Some pine trees, such as the lodgepole pine, have cones sealed with resin that only open in the heat of a wildfire, so the seeds are released onto freshly cleared ground.",
+   "hook": "a burned forest surprises hikers with thousands of new seedlings"
+  },
+  {
+   "domain": "body",
+   "fact": "An adult has 206 bones, but a baby is born with about 300. Many of them fuse together as the child grows.",
+   "hook": "a kid claims the new baby has more bones than anyone in the family"
+  },
+  {
+   "domain": "body",
+   "fact": "The femur, or thigh bone, is the longest and strongest bone in the body and is about one quarter of a person's height.",
+   "hook": "kids measure a thigh bone in a museum to guess how tall its owner was"
+  },
+  {
+   "domain": "body",
+   "fact": "Your heart beats about 100,000 times a day. You can measure your pulse by counting beats at your wrist for 15 seconds and multiplying by four.",
+   "hook": "a pulse-counting contest before and after running laps"
+  },
+  {
+   "domain": "body",
+   "fact": "Your tongue detects only sweet, salty, sour, bitter and umami. Most of what we call flavor actually comes from smell, which is why food tastes bland when you have a stuffy nose.",
+   "hook": "a blindfolded taste test with pinched noses goes wrong"
+  },
+  {
+   "domain": "body",
+   "fact": "The small intestine is about six meters long, coiled up inside the belly, and that is where most of the nutrients from food are absorbed.",
+   "hook": "a six-meter rope stretched across the classroom"
+  },
+  {
+   "domain": "body",
+   "fact": "Fingernails grow about three millimeters a month, faster than toenails, and hair grows roughly one centimeter a month.",
+   "hook": "a dot of nail polish used to track weeks until a trip"
+  },
+  {
+   "domain": "body",
+   "fact": "Sweat cools you only when it evaporates from your skin. On a humid day the air is already full of water, so sweat evaporates slowly and you feel much hotter.",
+   "hook": "soccer practice on a muggy day feels worse than a hotter dry one"
+  },
+  {
+   "domain": "body",
+   "fact": "Red blood cells need iron to carry oxygen around the body. Beans, spinach, lentils and red meat are rich in iron, and too little of it makes a person tired and pale.",
+   "hook": "a tired teammate whose doctor sends her home with a food list"
+  },
+  {
+   "domain": "body",
+   "fact": "When a doctor taps below your kneecap and your leg kicks, the signal goes only to your spinal cord and back, not to your brain. That is why you cannot stop the reflex.",
+   "hook": "a kid tries and fails to hold his leg still at a checkup"
+  },
+  {
+   "domain": "body",
+   "fact": "The brain uses about 20 percent of the body's energy even though it is only about 2 percent of its weight.",
+   "hook": "being starving after a long test is not just an excuse"
+  },
+  {
+   "domain": "body",
+   "fact": "People blink about 15 to 20 times a minute. Each blink spreads a thin layer of tears that keeps the surface of the eye clean and moist.",
+   "hook": "a staring contest where eyes start to sting"
+  },
+  {
+   "domain": "body",
+   "fact": "Humans cannot make their own vitamin C and must get it from foods like oranges, peppers and strawberries. Sailors on long voyages without fresh fruit got a disease called scurvy.",
+   "hook": "a pretend pirate crew finds out why the ship carried limes"
+  },
+  {
+   "domain": "body",
+   "fact": "Sound makes your eardrum vibrate, and three tiny bones pass the vibration into the inner ear. The smallest of them, the stirrup, is about the size of a grain of rice.",
+   "hook": "a kid learns why the concert left her ears ringing"
+  },
+  {
+   "domain": "body",
+   "fact": "Muscles can only pull, never push, so they work in pairs. The biceps pulls to bend your arm and the triceps pulls to straighten it again.",
+   "hook": "an arm-wrestling strategy built on which muscle is stronger"
+  },
+  {
+   "domain": "body",
+   "fact": "About 60 percent of the human body is water, and by the time you feel thirsty you have already lost some of it. Urine that is dark yellow is a sign you need to drink more.",
+   "hook": "a hike where the water bottles run out before the summit"
+  },
+  {
+   "domain": "math",
+   "fact": "The bigger the bottom number of a fraction, the smaller each piece is. One eighth of a pizza is smaller than one quarter, even though 8 is a bigger number than 4.",
+   "hook": "two siblings argue over who got the bigger share of pizza"
+  },
+  {
+   "domain": "math",
+   "fact": "The digits of every multiple of 9 up to 90 add up to 9: 18, 27, 36, 45 and so on. It is a quick way to check a nine-times answer.",
+   "hook": "a kid catches a mistake on a shop receipt"
+  },
+  {
+   "domain": "math",
+   "fact": "The area of a rectangle is length times width. A 3-by-4 garden and a 2-by-6 garden both cover 12 square meters, but the 2-by-6 one needs 16 meters of fence and the 3-by-4 one needs only 14.",
+   "hook": "two friends plan gardens and discover the same soil needs different fences"
+  },
+  {
+   "domain": "math",
+   "fact": "One liter of water weighs one kilogram, so a bucket holding 10 liters weighs about 10 kilograms plus the weight of the bucket.",
+   "hook": "a kid works out why the full paddling pool cannot be lifted"
+  },
+  {
+   "domain": "math",
+   "fact": "There are 86,400 seconds in a day, because 60 seconds times 60 minutes times 24 hours equals 86,400.",
+   "hook": "a countdown clock to a birthday needs the right number"
+  },
+  {
+   "domain": "math",
+   "fact": "The mean, or average, of a group of numbers is the total divided by how many numbers there are. One very large number can drag the mean far above what most of the group actually has.",
+   "hook": "the class average allowance is skewed by one kid's huge amount"
+  },
+  {
+   "domain": "math",
+   "fact": "If you start with one penny and double it every day, you have more than five million dollars after 30 days, because 2 multiplied by itself 29 times is 536,870,912.",
+   "hook": "a kid bargains for an allowance that doubles every day"
+  },
+  {
+   "domain": "math",
+   "fact": "You can estimate a big number by counting a small part and multiplying. Count the jellybeans in one layer of a jar and multiply by the number of layers to get close to the total.",
+   "hook": "winning a guess-the-jellybeans contest without guessing"
+  },
+  {
+   "domain": "math",
+   "fact": "A fair coin has a one-in-two chance of landing heads on every flip, no matter how many tails came before. Past flips do not change the next one.",
+   "hook": "a kid is sure heads is finally due after five tails"
+  },
+  {
+   "domain": "math",
+   "fact": "If a number's digits add up to a multiple of 3, the number can be divided evenly by 3. So 123 divides evenly by 3 because 1 plus 2 plus 3 is 6, but 124 does not.",
+   "hook": "splitting a bag of marbles fairly among three friends"
+  },
+  {
+   "domain": "math",
+   "fact": "A kilometer is 1,000 meters, and an average child's walking step is about 60 centimeters, so it takes roughly 1,600 to 1,700 steps to walk a kilometer.",
+   "hook": "counting steps to find out how far it is to school"
+  },
+  {
+   "domain": "math",
+   "fact": "To change a Celsius temperature to Fahrenheit roughly in your head, double it and add 30. So 20 degrees Celsius is about 70 degrees Fahrenheit (the exact answer is 68).",
+   "hook": "a weather report from another country sounds alarmingly hot"
+  },
+  {
+   "domain": "math",
+   "fact": "A full turn is 360 degrees and a right angle is 90 degrees, and the three angles inside any triangle always add up to exactly 180 degrees.",
+   "hook": "a kite with a broken corner is fixed by measuring the other two"
+  },
+  {
+   "domain": "math",
+   "fact": "In a pictograph, each symbol stands for a set number of items given in the key. If one apple symbol means 10 apples, half an apple symbol means 5.",
+   "hook": "a class survey chart gets read wrong until someone checks the key"
+  },
+  {
+   "domain": "math",
+   "fact": "Doubling the width of a pizza makes it four times as big, not twice, because area grows with the square. A 12-inch pizza has more pizza than two 8-inch pizzas put together.",
+   "hook": "a pizza deal that sounds worse but is actually better"
+  },
+  {
+   "domain": "tools",
+   "fact": "A lever lets a small push lift a heavy load. Put a long board over a rock and push down on the far end: the farther your hands are from the rock, the less force you need.",
+   "hook": "moving a boulder that blocks the trail with nothing but a fence post"
+  },
+  {
+   "domain": "tools",
+   "fact": "A zipper works because the slider bends two rows of teeth toward each other at an angle so they hook together one by one. A single bent tooth can stop the whole zipper.",
+   "hook": "a jacket stuck halfway on the coldest morning of the year"
+  },
+  {
+   "domain": "tools",
+   "fact": "Velcro was invented by a Swiss engineer, George de Mestral, after he looked at burrs stuck to his dog's fur under a microscope and saw tiny hooks catching on loops.",
+   "hook": "a walk through burrs turns into an invention idea"
+  },
+  {
+   "domain": "tools",
+   "fact": "A microwave oven heats food by making the water molecules inside it vibrate very fast. A dry plate has almost no water, so it stays cool while the food on it gets hot.",
+   "hook": "a kid discovers the plate is cold but the soup is boiling"
+  },
+  {
+   "domain": "tools",
+   "fact": "A refrigerator does not make cold; it moves heat. A fluid in the pipes soaks up heat from inside and releases it through coils on the back, which is why the back of a fridge feels warm.",
+   "hook": "a hamster cage placed behind the fridge is mysteriously toasty"
+  },
+  {
+   "domain": "tools",
+   "fact": "An airplane wing is curved on top and tilted slightly upward, so it pushes air downward as it moves and the air pushes the wing up. That upward push is called lift.",
+   "hook": "a paper airplane contest won by bending the back edges of the wings"
+  },
+  {
+   "domain": "tools",
+   "fact": "On a bicycle, shifting to a small gear on the back wheel makes each turn of the pedals move you farther, while a big gear makes pedaling easier for climbing hills.",
+   "hook": "a hill race between a kid who shifts and one who does not"
+  },
+  {
+   "domain": "tools",
+   "fact": "A thermos keeps drinks hot or cold with a vacuum between its two walls. Heat cannot easily cross empty space, so it is trapped inside or kept out.",
+   "hook": "hot chocolate that is still steaming at the top of the ski hill"
+  },
+  {
+   "domain": "tools",
+   "fact": "Electricity only flows around a complete loop called a circuit. A light switch works by opening a gap in the loop, and a flashlight with a loose battery does the same thing by accident.",
+   "hook": "a flashlight that only works when you squeeze it"
+  },
+  {
+   "domain": "tools",
+   "fact": "A compass needle is a small magnet that lines up with Earth's magnetic field. It points to magnetic north, which is hundreds of kilometers away from the actual North Pole.",
+   "hook": "lost hikers argue about whether the compass can be trusted"
+  },
+  {
+   "domain": "tools",
+   "fact": "When two gears mesh, a gear with 10 teeth turns twice for every one turn of a gear with 20 teeth, and the two gears always spin in opposite directions.",
+   "hook": "fixing a wind-up toy that turns the wrong way"
+  },
+  {
+   "domain": "tools",
+   "fact": "Because light travels in straight lines, a tiny hole in one side of a dark box projects an upside-down picture of the outside world onto the far wall inside. This is a pinhole camera.",
+   "hook": "a shoebox camera built to watch a solar eclipse safely"
+  },
+  {
+   "domain": "tools",
+   "fact": "A GPS receiver figures out where it is by timing radio signals from at least four satellites at once. Tall buildings or canyon walls that block the signals make it lose its position.",
+   "hook": "the hiking app goes blank at the bottom of a canyon"
+  },
+  {
+   "domain": "places",
+   "fact": "Russia is so wide that it spans 11 time zones. When people in its western cities are eating breakfast, people on its eastern coast are sitting down to dinner.",
+   "hook": "a pen pal video call scheduled at the wrong hour"
+  },
+  {
+   "domain": "places",
+   "fact": "Mount Everest, on the border of Nepal and China, is about 8,849 meters tall. The air at the top has only about one third as much oxygen as at sea level, so most climbers carry oxygen tanks.",
+   "hook": "a class tries to picture a mountain taller than 20 skyscrapers stacked up"
+  },
+  {
+   "domain": "places",
+   "fact": "The Amazon River in South America carries more water than any other river, about one fifth of all the river water that flows into the world's oceans.",
+   "hook": "a boat trip where the far bank of the river cannot be seen"
+  },
+  {
+   "domain": "places",
+   "fact": "Antarctica has no permanent residents. Only scientists and support crews live there at research stations, and in the middle of winter the sun does not rise for months.",
+   "hook": "a parent posted to a research station misses a whole winter of daylight"
+  },
+  {
+   "domain": "places",
+   "fact": "Iceland sits on volcanic ground, and most of its homes are heated with hot water piped from underground. People swim in warm outdoor pools even when snow is falling.",
+   "hook": "a family swim in a hot pool surrounded by snow"
+  },
+  {
+   "domain": "places",
+   "fact": "Venice, in Italy, is built on more than 100 small islands joined by bridges. There are no cars in the old city, so mail, groceries and even ambulances travel by boat.",
+   "hook": "a delivery kid who rows instead of pedals"
+  },
+  {
+   "domain": "places",
+   "fact": "In Japan, students in most schools spend part of each day cleaning their own classrooms, hallways and bathrooms instead of leaving it to janitors.",
+   "hook": "an exchange student is surprised to be handed a mop"
+  },
+  {
+   "domain": "places",
+   "fact": "About a quarter of the Netherlands lies below sea level. The land is kept dry by dikes, canals and pumps, and much of it was once the bottom of the sea.",
+   "hook": "a classroom model of a dike springs a leak"
+  },
+  {
+   "domain": "places",
+   "fact": "The Dead Sea, between Israel and Jordan, is so salty that people float on top of it without trying. Its shore is the lowest point on land, about 430 meters below sea level.",
+   "hook": "a kid who cannot swim floats like a cork"
+  },
+  {
+   "domain": "places",
+   "fact": "The Nile River flows north, starting in the mountains of East Africa and ending at the Mediterranean Sea in Egypt.",
+   "hook": "a map argument about which way is downstream"
+  },
+  {
+   "domain": "places",
+   "fact": "The Pacific Ocean is so big that all the land on Earth could fit inside it with room to spare.",
+   "hook": "a globe versus a flat map that cuts the Pacific in half"
+  },
+  {
+   "domain": "places",
+   "fact": "The equator runs through Ecuador, whose name is the Spanish word for equator. There is a monument near the capital where visitors stand with one foot in each hemisphere.",
+   "hook": "a photo with a foot in the north and a foot in the south"
+  },
+  {
+   "domain": "places",
+   "fact": "In Mongolia, many herding families live in round felt tents called gers that can be taken down and packed onto a truck or camel when they move with their animals.",
+   "hook": "moving day for a family whose whole house fits in a cart"
+  },
+  {
+   "domain": "places",
+   "fact": "Canada has the longest coastline of any country, more than 200,000 kilometers, because of its thousands of islands and deep bays.",
+   "hook": "a kid calculates how many years it would take to walk the coast"
+  },
+  {
+   "domain": "history",
+   "fact": "Chess began in India about 1,500 years ago. The queen was originally one of the weakest pieces and only became the most powerful about 500 years ago in Europe.",
+   "hook": "a grandfather's old chess set comes with different rules"
+  },
+  {
+   "domain": "history",
+   "fact": "Pencil lead has never contained the metal lead. It is graphite, a soft form of carbon, first mined for pencils in England in the 1500s.",
+   "hook": "a kid panics about lead poisoning after chewing a pencil"
+  },
+  {
+   "domain": "history",
+   "fact": "Before electric refrigerators, people cut blocks of ice from frozen lakes in winter and stored them in icehouses packed with sawdust, where the ice lasted through summer.",
+   "hook": "an old icehouse discovered behind a lake cabin"
+  },
+  {
+   "domain": "history",
+   "fact": "The first modern Olympic Games were held in Athens, Greece, in 1896. The ancient Olympics were held in Olympia, Greece, every four years for more than 1,000 years.",
+   "hook": "a class Olympics with events borrowed from ancient Greece"
+  },
+  {
+   "domain": "history",
+   "fact": "The Wright brothers' first airplane flight in 1903 lasted 12 seconds and covered 37 meters, which is shorter than the length of a modern jumbo jet.",
+   "hook": "pacing out 37 meters on the playground"
+  },
+  {
+   "domain": "history",
+   "fact": "Ancient Romans built stone aqueducts that carried water for many kilometers using only a gentle downhill slope. Some of them still carry water today.",
+   "hook": "a garden hose experiment shows why the slope had to be so gentle"
+  },
+  {
+   "domain": "history",
+   "fact": "Johannes Gutenberg built a printing press with movable metal type in Germany around 1450. Before that, every book in Europe had to be copied by hand, which could take months.",
+   "hook": "a class tries to hand-copy one page and gives up"
+  },
+  {
+   "domain": "history",
+   "fact": "The Titanic sank in 1912 on its very first voyage after hitting an iceberg. It carried lifeboats for only about half of the people on board.",
+   "hook": "a museum visit ends with kids counting lifeboats on a ferry"
+  },
+  {
+   "domain": "history",
+   "fact": "The first postage stamp, the Penny Black, was issued in Britain in 1840. Before stamps, the person receiving a letter usually had to pay for it.",
+   "hook": "a stamp collection with a stamp older than the mailbox"
+  },
+  {
+   "domain": "history",
+   "fact": "Astronauts first walked on the Moon on July 20, 1969. Their footprints are still there, because the Moon has no wind or rain to wear them away.",
+   "hook": "a grandparent remembers watching the landing on a black-and-white TV"
+  },
+  {
+   "domain": "history",
+   "fact": "Potatoes, tomatoes, corn and chili peppers all come from the Americas. Nobody in Europe, Asia or Africa had ever tasted them before 1492.",
+   "hook": "a time-travel story where the Italian pizza has no tomato sauce"
+  },
+  {
+   "domain": "history",
+   "fact": "Blue jeans were invented in 1873 by Levi Strauss and Jacob Davis, who added copper rivets to the stress points of work pants so miners would not tear them.",
+   "hook": "a kid wonders what the little metal buttons on jeans are for"
+  },
+  {
+   "domain": "history",
+   "fact": "The Great Wall of China was built and rebuilt over many centuries and is thousands of kilometers long, but despite the legend it cannot be seen with the naked eye from space.",
+   "hook": "a kid sets out to prove or bust the space myth"
+  },
+  {
+   "domain": "history",
+   "fact": "Vikings reached North America around the year 1000, about 500 years before Columbus. The remains of their settlement were found at L'Anse aux Meadows in Newfoundland, Canada.",
+   "hook": "a class debate about who really got to North America first"
+  },
+  {
+   "domain": "history",
+   "fact": "The Maya and Aztecs drank chocolate as a bitter, spicy drink, sometimes mixed with chili. The solid, sweet chocolate bar was not invented until the 1800s.",
+   "hook": "a dare to try chocolate the way the Aztecs drank it"
+  }
+ ]
+}

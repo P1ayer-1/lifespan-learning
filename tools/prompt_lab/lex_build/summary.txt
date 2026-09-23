@@ -1,0 +1,7 @@
+phase 0: verbs=200, nouns=260, adjectives=160 | dropped {} | e.g. air, animal, answer, ant, apple, arm
+phase 1: verbs=161, nouns=221, adjectives=117 | dropped {'earlier_phase': 121} | e.g. acorn, adventure, advice, airplane, airport, alphabet
+phase 2: verbs=156, nouns=228, adjectives=126 | dropped {'earlier_phase': 110} | e.g. ability, advantage, allowance, amphibian, ancestor, announcement
+phase 3: verbs=186, nouns=209, adjectives=137 | dropped {'earlier_phase': 88} | e.g. adaptation, adversary, agriculture, algorithm, allergy, alliance
+phase 4: verbs=140, nouns=175, adjectives=100 | dropped {'earlier_phase': 205} | e.g. accomplice, activist, adolescence, adrenaline, ailment, ally
+phase 5: verbs=107, nouns=179, adjectives=90 | dropped {'earlier_phase': 244} | e.g. abstraction, advocate, affinity, allegory, ambivalence, anthology
+phase 6: verbs=130, nouns=227, adjectives=132 | dropped {'earlier_phase': 131} | e.g. acolyte, acquittal, acumen, adage, aesthete, affectation

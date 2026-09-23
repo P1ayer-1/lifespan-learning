@@ -1,0 +1,518 @@
+{
+ "phase": 5,
+ "band": "grade 11 (age 16-17)",
+ "generated_by": "subagent",
+ "verified_by": "independent subagent",
+ "facts": [
+  {
+   "domain": "science_method",
+   "fact": "In a placebo-controlled trial one group receives a treatment with no active ingredient, so researchers can separate the drug's effect from the effect of expecting to get better. For conditions like pain, a sizable share of the placebo group typically reports improvement.",
+   "hook": "a student's remedy that only works when she knows she has taken it"
+  },
+  {
+   "domain": "science_method",
+   "fact": "In a double-blind experiment neither the participants nor the people recording the results know who received the real treatment, which stops anyone's expectations from nudging the measurements.",
+   "hook": "a science-fair judge who can tell from the labels which plants got the special fertilizer"
+  },
+  {
+   "domain": "science_method",
+   "fact": "A p-value of 0.05 means that if there were truly no effect, a result at least this extreme would appear about one time in twenty by chance alone. It does not mean there is a 95 percent chance the effect is real.",
+   "hook": "a team celebrating a significant result it found only on the twentieth try"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Regression to the mean: an unusually extreme measurement tends to be followed by one closer to average purely by chance, so the lowest-scoring students given extra tutoring would often improve even without it.",
+   "hook": "a tutor taking credit for improvement that would have happened anyway"
+  },
+  {
+   "domain": "science_method",
+   "fact": "A scientific claim is testable only if some possible observation could show it to be false. A prediction that fits every outcome, such as 'the crystal will help unless the timing was wrong', cannot be tested at all.",
+   "hook": "a friend whose theory explains every result, including the ones that contradict it"
+  },
+  {
+   "domain": "science_method",
+   "fact": "During the Second World War the statistician Abraham Wald reasoned that bullet holes on returning bombers showed where a plane could survive damage, so extra armor belonged where the returning planes had no holes.",
+   "hook": "a student studying only successful companies to learn what makes companies succeed"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Studies that find an effect are more likely to be published than studies that find nothing, so a summary of the published papers can overstate how strong an effect is. Registering a study's plan before collecting data is one remedy.",
+   "hook": "a researcher whose drawer holds nine failed versions of one published success"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Random measurement error shrinks with the square root of the number of measurements, so cutting the uncertainty of an average in half requires about four times as many samples.",
+   "hook": "a student surprised that doubling her survey barely tightens the result"
+  },
+  {
+   "domain": "science_method",
+   "fact": "When a 2015 project re-ran 100 published psychology experiments, only about a third to a half produced the same statistically significant result, which is why a single study is treated as provisional until it is replicated.",
+   "hook": "a debater citing one exciting study as if it settled the question"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Before measuring something like 'stress' or 'aggression', researchers must state exactly what observable behavior or number will count as it, and two different operational definitions of the same word can lead to opposite conclusions.",
+   "hook": "two students measuring screen time differently and getting opposite answers"
+  },
+  {
+   "domain": "science_method",
+   "fact": "In 1847 Ignaz Semmelweis showed that doctors washing their hands in chlorinated lime cut deaths from childbed fever in his Vienna clinic from roughly one mother in ten to under two in a hundred, decades before germ theory explained why it worked.",
+   "hook": "a character with a working fix nobody accepts because she cannot explain it"
+  },
+  {
+   "domain": "science_method",
+   "fact": "A systematic error, like a scale that always reads half a kilogram heavy, cannot be detected by repeating the measurement; it shows up only when the instrument is checked against a known standard.",
+   "hook": "a lab team whose beautifully consistent readings are all wrong the same way"
+  },
+  {
+   "domain": "science_method",
+   "fact": "When a rule applies on one side of a border and not the other, researchers can compare otherwise similar people on each side as a natural experiment, a stand-in for a randomized trial that would be impossible or unethical to run.",
+   "hook": "a student comparing two neighboring towns to test what a curfew does"
+  },
+  {
+   "domain": "science_method",
+   "fact": "In 1936 the Literary Digest predicted Alf Landon would beat Franklin Roosevelt on the basis of over two million mailed-in ballots, but its mailing lists came from telephone and car owners, who were wealthier than typical voters, and Roosevelt won in a landslide.",
+   "hook": "a class poll run only in the honors lounge"
+  },
+  {
+   "domain": "economics",
+   "fact": "The opportunity cost of a choice is the best alternative given up, so a free concert ticket still costs the evening's wages or study time that could have been spent instead.",
+   "hook": "a teenager who cannot see why his free evening was expensive"
+  },
+  {
+   "domain": "economics",
+   "fact": "Cash loses purchasing power every year there is inflation. At 3 percent inflation, 100 dollars buys only what about 74 dollars bought ten years earlier.",
+   "hook": "a grandmother's savings in a shoebox that quietly shrank"
+  },
+  {
+   "domain": "economics",
+   "fact": "Money earning 7 percent a year doubles in about ten years, so a sum invested at age 18 is worth roughly eight times as much at 48 without adding another cent.",
+   "hook": "two siblings who start saving ten years apart and end up far apart"
+  },
+  {
+   "domain": "economics",
+   "fact": "When a law caps rent below the price at which supply and demand would balance, more people want apartments than are available at that price, so shortages, waiting lists and under-the-table payments tend to appear.",
+   "hook": "a family with a cheap lease but no way to find a second one"
+  },
+  {
+   "domain": "economics",
+   "fact": "Comparative advantage: even if one country can make everything more cheaply than another, both gain from trade when each specializes in what it produces at the lowest relative cost and trades for the rest.",
+   "hook": "a star student who should still let her slower partner do the formatting"
+  },
+  {
+   "domain": "economics",
+   "fact": "Water is essential yet cheap while diamonds are useless for survival yet expensive because prices reflect the value of one additional unit, and in most places one more liter of water is worth very little.",
+   "hook": "a stranded hiker who would trade a ring for a bottle of water"
+  },
+  {
+   "domain": "economics",
+   "fact": "If demand for a product is inelastic, meaning buyers cut back only a little when the price rises, raising the price increases the seller's total revenue; short-term demand for gasoline behaves this way.",
+   "hook": "a school store that raises the price of the only lunch option"
+  },
+  {
+   "domain": "economics",
+   "fact": "A lighthouse benefits every passing ship whether or not its owner paid for it, so private companies have little incentive to build one; goods that cannot exclude non-payers tend to be under-provided unless a government or club funds them.",
+   "hook": "a neighborhood that wants a streetlight but nobody wants to pay"
+  },
+  {
+   "domain": "economics",
+   "fact": "Bond prices and interest rates move in opposite directions: when new bonds pay higher interest, existing bonds with lower fixed payments become worth less to buyers.",
+   "hook": "a student whose safe investment loses value the day rates rise"
+  },
+  {
+   "domain": "economics",
+   "fact": "Insurance can change behavior because the insured person no longer bears the full cost of a loss, an effect called moral hazard; deductibles exist so that the policyholder still pays part of any claim.",
+   "hook": "a driver who gets careless the week after buying full coverage"
+  },
+  {
+   "domain": "economics",
+   "fact": "George Akerlof showed in 1970 that when sellers know more about used-car quality than buyers, buyers will only offer average prices, owners of good cars withdraw, and the market can shrink to the worst cars; he shared a Nobel Prize for this in 2001.",
+   "hook": "a teen selling a well-kept car who cannot get anyone to believe it"
+  },
+  {
+   "domain": "economics",
+   "fact": "Central banks raise interest rates to slow inflation because higher rates make borrowing more expensive, so households and businesses spend and invest less, easing pressure on prices.",
+   "hook": "a family whose mortgage payment jumps for reasons made in a distant boardroom"
+  },
+  {
+   "domain": "economics",
+   "fact": "GDP counts only final goods and services, so flour sold to a bakery is not counted separately from the bread it becomes, and unpaid work such as caring for one's own children is not counted at all.",
+   "hook": "a stay-at-home parent whose work does not exist in the national statistics"
+  },
+  {
+   "domain": "economics",
+   "fact": "A bank keeps only a fraction of its deposits on hand and lends out the rest, so a healthy bank can still collapse if all its depositors demand cash at once; government deposit insurance exists mainly to stop such runs from starting.",
+   "hook": "a rumor at a small-town bank that becomes true because people believe it"
+  },
+  {
+   "domain": "economics",
+   "fact": "A 5 percent raise during a year of 6 percent inflation is a cut in real terms, since what matters for purchasing power is the nominal change minus inflation.",
+   "hook": "a worker celebrating a raise that leaves him poorer"
+  },
+  {
+   "domain": "civics",
+   "fact": "The idea that law-making, law-enforcing and law-judging powers should sit in separate bodies that check each other was set out by Montesquieu in 1748 and shapes many modern constitutions.",
+   "hook": "a student council whose president also counts the votes and judges disputes"
+  },
+  {
+   "domain": "civics",
+   "fact": "In the United States, the power of courts to strike down laws that conflict with the Constitution was established by the Supreme Court itself in Marbury v. Madison in 1803; the Constitution never states it directly.",
+   "hook": "a referee who ruled that referees may overrule the rulebook"
+  },
+  {
+   "domain": "civics",
+   "fact": "In common-law countries a criminal conviction requires proof beyond a reasonable doubt, while a civil lawsuit is decided on the balance of probabilities, so a person can be acquitted of a crime and still lose a civil case over the same act.",
+   "hook": "a family that wins a lawsuit against someone a jury already acquitted"
+  },
+  {
+   "domain": "civics",
+   "fact": "A writ of habeas corpus is a court order requiring whoever is holding a person to bring them before a judge and justify the detention; England's Habeas Corpus Act of 1679 formalized the protection.",
+   "hook": "a detained character whose only hope is a piece of paper"
+  },
+  {
+   "domain": "civics",
+   "fact": "In common-law systems courts generally follow the earlier decisions of higher courts, a principle called precedent, so the outcome of one unusual case can bind judges in similar cases for decades.",
+   "hook": "a small dispute whose ruling everyone realizes will govern thousands of others"
+  },
+  {
+   "domain": "civics",
+   "fact": "Many legal systems forbid trying a person a second time for the same offence after an acquittal, a protection known as double jeopardy, even if convincing new evidence later appears.",
+   "hook": "a detective who finds the proof one day too late"
+  },
+  {
+   "domain": "civics",
+   "fact": "Gerrymandering takes its name from Massachusetts governor Elbridge Gerry, who in 1812 approved a district shaped like a salamander; drawing boundaries carefully can let a party win most seats with a minority of votes.",
+   "hook": "a class redrawing its homeroom lines so one group always wins"
+  },
+  {
+   "domain": "civics",
+   "fact": "Under first-past-the-post voting a candidate wins with the most votes even if far below half, so in the 2005 United Kingdom election the Labour party won a majority of seats with about 35 percent of the national vote.",
+   "hook": "a student election where two friends splitting the vote hand victory to a third"
+  },
+  {
+   "domain": "civics",
+   "fact": "Many countries set a time limit, a statute of limitations, after which most crimes cannot be prosecuted, but murder is typically exempt and can be charged decades later.",
+   "hook": "an old theft that can never be charged and an old crime that still can"
+  },
+  {
+   "domain": "civics",
+   "fact": "In a parliamentary system the government must keep the support of a majority in the legislature, and losing a vote of no confidence forces it to resign or call an election, unlike a presidential system where the executive serves a fixed term.",
+   "hook": "a prime minister toppled by a single defection at midnight"
+  },
+  {
+   "domain": "civics",
+   "fact": "Amending the United States Constitution requires two-thirds of both houses of Congress and ratification by three-quarters of the states, which is why only 27 amendments have passed since 1788.",
+   "hook": "a student petition that needs nearly everyone, not just a majority"
+  },
+  {
+   "domain": "civics",
+   "fact": "Sweden created the first parliamentary ombudsman in 1809, an independent official who investigates citizens' complaints about government officials, and the office has since been copied in many countries.",
+   "hook": "a teenager who discovers there is someone whose job is to hear her complaint"
+  },
+  {
+   "domain": "civics",
+   "fact": "Clause 39 of Magna Carta, sealed by King John of England in 1215, promised that no free man would be imprisoned or dispossessed except by the lawful judgment of his peers or the law of the land.",
+   "hook": "a principal who learns that even the king had to follow rules"
+  },
+  {
+   "domain": "civics",
+   "fact": "In 1893 New Zealand became the first self-governing country to give all adult women the right to vote in national elections.",
+   "hook": "a grandmother recalling the first election she was allowed to vote in"
+  },
+  {
+   "domain": "civics",
+   "fact": "In Switzerland citizens can force a national referendum on a new federal law by collecting 50,000 signatures within 100 days of its publication.",
+   "hook": "a town where a clipboard of signatures can undo a law"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Anchoring: an arbitrary number seen just before making an estimate pulls the estimate toward it. In a 1974 study people who spun a wheel that landed on 65 guessed a higher share of African countries in the United Nations than people whose wheel landed on 10.",
+   "hook": "a seller who names an absurd price first and still comes out ahead"
+  },
+  {
+   "domain": "psychology",
+   "fact": "The testing effect: trying to recall material from memory, such as self-quizzing, produces better long-term retention than spending the same time re-reading it, a result replicated many times since a 2006 study.",
+   "hook": "a student who feels less prepared after quizzing herself but scores higher"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Spacing study sessions over days produces better long-term memory than the same total time crammed into one session, an effect first documented by Hermann Ebbinghaus in 1885 and one of the most reliable findings in learning research.",
+   "hook": "a crammer and a plodder who studied the same hours with different results"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Loss aversion: most people weigh a loss more heavily than a gain of the same size, and typically will not accept a coin-flip bet unless the possible win is roughly twice the possible loss. This describes an average tendency, not a fixed law for every person.",
+   "hook": "a friend who turns down a bet that is clearly in his favor"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Confirmation bias: given the number sequence 2-4-6 and asked to discover the rule, most people in Peter Wason's 1960 study tested only sequences that fit their own guess and never tried one designed to break it, so they announced wrong rules with confidence.",
+   "hook": "a student investigator who only checks clues that support her first suspect"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Newly learned material is remembered better after a night's sleep than after the same number of hours awake, because sleep helps consolidate memories; staying up all night to study tends to undo part of the studying.",
+   "hook": "a teen who sacrifices sleep for an exam and forgets what she learned"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Framing: people choose differently between identical options depending on the wording. In a 1981 study a program described as saving 200 of 600 lives was preferred, while the same program described as letting 400 of 600 die was rejected.",
+   "hook": "a debater who wins by describing the same plan in different words"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Change blindness: in a 1998 experiment an experimenter asking for directions was swapped for a different person while workers carried a door between them, and about half of the people being asked did not notice they were now talking to someone else.",
+   "hook": "a witness who is certain the stranger never changed"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Inattentional blindness: when viewers were told to count passes in a basketball video, about half failed to notice a person in a gorilla suit walking through the scene, showing that attention on one task can make obvious things invisible.",
+   "hook": "a security guard who missed the obvious while watching for the subtle"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Elizabeth Loftus showed in 1974 that people who were asked how fast cars were going when they 'smashed' into each other gave higher speed estimates than those asked about cars that 'hit', and a week later were more likely to remember broken glass that was not in the film.",
+   "hook": "a lawyer whose question quietly rewrites a witness's memory"
+  },
+  {
+   "domain": "psychology",
+   "fact": "The availability heuristic: people judge how common an event is by how easily examples come to mind, so vivid and widely reported dangers such as plane crashes are overestimated relative to ordinary ones such as car crashes.",
+   "hook": "a parent terrified of the rare risk and casual about the common one"
+  },
+  {
+   "domain": "psychology",
+   "fact": "The bystander effect: in experiments since 1968, the more people who witness an emergency, the less likely and slower any one of them is to help. This does not mean crowds never help; most real emergencies with witnesses do get help, just with more hesitation.",
+   "hook": "a crowd on a platform where each person waits for someone else"
+  },
+  {
+   "domain": "psychology",
+   "fact": "The mere exposure effect: simply seeing something repeatedly, such as an unfamiliar word or face, tends to make people like it more, an effect first shown by Robert Zajonc in 1968 and replicated widely.",
+   "hook": "a song everyone hated in September that the whole school loves by June"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Hindsight bias: once people know how something turned out, they overestimate how predictable it was, which is why past decisions look more obviously foolish than they seemed at the time.",
+   "hook": "a student blaming a coach for a call that looked fine before the whistle"
+  },
+  {
+   "domain": "psychology",
+   "fact": "Working memory holds only about four to seven separate items at once, but grouping items into meaningful chunks, such as remembering a phone number as three groups rather than ten digits, lets people hold far more.",
+   "hook": "a runner memorizing a message by turning it into three chunks"
+  },
+  {
+   "domain": "history",
+   "fact": "The Rosetta Stone, found in Egypt in 1799, carries the same decree in Greek, demotic and hieroglyphic script, which is what let Jean-Francois Champollion begin decoding Egyptian hieroglyphs in 1822.",
+   "hook": "a coded note that becomes readable because one line is in plain language"
+  },
+  {
+   "domain": "history",
+   "fact": "Radiocarbon dating works on once-living material such as bone, wood or cloth and is useful back to roughly 50,000 years, because carbon-14 has a half-life of about 5,730 years and too little remains beyond that.",
+   "hook": "a family heirloom that turns out to be older than the family"
+  },
+  {
+   "domain": "history",
+   "fact": "Tree-ring dating matches the pattern of wide and narrow rings across overlapping wood samples, so a beam in an old building can often be dated to the exact year its tree was felled.",
+   "hook": "a barn whose age the owner has exaggerated, betrayed by its own timbers"
+  },
+  {
+   "domain": "history",
+   "fact": "Because Russia still used the Julian calendar in 1917, the Bolshevik 'October Revolution' took place on 7 November by the Gregorian calendar used elsewhere; Britain had switched in 1752 by skipping eleven days.",
+   "hook": "two diaries that disagree about the date of the same event"
+  },
+  {
+   "domain": "history",
+   "fact": "Nearly everything written about ancient Carthage comes from its enemies, Greek and Roman authors, because Carthaginian writing barely survives; historians must always ask who wrote a source, for whom and why.",
+   "hook": "a school feud known only from one side's group chat"
+  },
+  {
+   "domain": "history",
+   "fact": "In 1931 the historian Herbert Butterfield coined the term 'Whig history' for the habit of telling the past as a steady march toward the present, which makes the winners look inevitable and the losers look foolish.",
+   "hook": "a graduation speech that treats every past choice as a step toward today"
+  },
+  {
+   "domain": "history",
+   "fact": "The people of the so-called Byzantine Empire called themselves Romans; the name 'Byzantine' was popularized by scholars only after the empire fell in 1453.",
+   "hook": "a club whose members discover their nickname was invented by outsiders"
+  },
+  {
+   "domain": "history",
+   "fact": "The Black Death of 1347 to 1351 killed somewhere between a third and half of Europe's population; the estimate is so wide because there were no censuses, so historians reconstruct it from tax rolls, manor records and wills.",
+   "hook": "a student who learns that a famous number is really a range of guesses"
+  },
+  {
+   "domain": "history",
+   "fact": "Tomatoes, potatoes, chili peppers and cacao are all native to the Americas and reached Europe, Asia and Africa only after 1492, so there were no tomato sauces in Italy or chilies in India before then.",
+   "hook": "a period film ruined for a student who spots a tomato"
+  },
+  {
+   "domain": "history",
+   "fact": "The earliest surviving full accounts of Alexander the Great were written roughly three centuries or more after his death in 323 BC, so historians must weigh how those authors used earlier sources that are now lost.",
+   "hook": "a legend about a school founder that nobody alive actually witnessed"
+  },
+  {
+   "domain": "history",
+   "fact": "Thomas Carlyle argued in 1840 that history is essentially the biography of great men, while the French Annales school in the twentieth century emphasized slow forces such as climate, geography and everyday economic life.",
+   "hook": "two students arguing whether one person or the harvest changed the town"
+  },
+  {
+   "domain": "history",
+   "fact": "Papyrus survives in the dry sands of Egypt but rots in damp climates, so historians know far more about everyday shopping lists and letters in Roman Egypt than in Roman Britain.",
+   "hook": "a researcher realizing the record is fullest where the weather was kindest"
+  },
+  {
+   "domain": "history",
+   "fact": "The same events of 1857 are called the 'Indian Mutiny' in older British accounts and the 'First War of Independence' in India, and the name chosen signals which side's view a writer takes.",
+   "hook": "a class that cannot agree on what to call last year's walkout"
+  },
+  {
+   "domain": "history",
+   "fact": "The 1815 eruption of Mount Tambora in Indonesia threw so much ash into the upper atmosphere that 1816 became the 'Year Without a Summer', with crop failures in Europe and North America whose cause was not understood at the time.",
+   "hook": "a village blaming its ruined harvest on a neighbor when the cause was a volcano"
+  },
+  {
+   "domain": "history",
+   "fact": "Soviet censors physically removed the secret police chief Nikolai Yezhov from a published 1937 photograph of him walking beside Stalin after he fell from favor, an example of how images as well as texts can be edited to reshape the record.",
+   "hook": "a yearbook photo from which someone has quietly vanished"
+  },
+  {
+   "domain": "environment",
+   "fact": "Without any greenhouse effect Earth's average surface temperature would be about minus 18 degrees Celsius instead of roughly 15 degrees; the current problem is the strengthening of a natural effect, not its existence.",
+   "hook": "a student who wins an argument by admitting the other side is half right"
+  },
+  {
+   "domain": "environment",
+   "fact": "Atmospheric carbon dioxide has risen from about 280 parts per million before industrialization to over 420 parts per million today, a rise tracked continuously at Mauna Loa in Hawaii since 1958.",
+   "hook": "a decades-long record that a character's grandfather helped begin"
+  },
+  {
+   "domain": "environment",
+   "fact": "The oceans absorb roughly a quarter of the carbon dioxide humans emit, and dissolving that gas has made surface seawater about 30 percent more acidic since preindustrial times, which makes it harder for shell-building animals to form shells.",
+   "hook": "an oyster farmer whose young oysters stop forming shells"
+  },
+  {
+   "domain": "environment",
+   "fact": "Bright sea ice reflects most of the sunlight that hits it while dark open water absorbs most, so when ice melts the exposed water warms and melts more ice, a positive feedback loop.",
+   "hook": "a science project showing why a small melt speeds up a bigger one"
+  },
+  {
+   "domain": "environment",
+   "fact": "Sea otters eat sea urchins, and where otters were hunted out along the North Pacific coast, urchin populations exploded and grazed kelp forests down to bare rock; species with outsized effects like this are called keystone species.",
+   "hook": "a cove that changes completely after one animal is removed"
+  },
+  {
+   "domain": "environment",
+   "fact": "About 78 percent of the air is nitrogen, but plants cannot use it in that form; the Haber-Bosch process, developed around 1909 to 1913, turns it into ammonia for fertilizer and is estimated to feed roughly half the world's population.",
+   "hook": "a farm kid learning that her harvest depends on a century-old chemical trick"
+  },
+  {
+   "domain": "environment",
+   "fact": "The Montreal Protocol of 1987 phased out the chlorofluorocarbons that were destroying the ozone layer, and the Antarctic ozone hole is now slowly healing, with recovery to 1980 levels expected around the 2060s.",
+   "hook": "a global fix that actually worked, invoked by a discouraged activist"
+  },
+  {
+   "domain": "environment",
+   "fact": "Warmer air can hold about 7 percent more water vapor for every degree Celsius of warming, which is why a warming climate brings heavier downpours even in places where total rainfall barely changes.",
+   "hook": "a town whose old storm drains suddenly cannot keep up"
+  },
+  {
+   "domain": "environment",
+   "fact": "Roughly half of the sea-level rise since the 1970s came not from melting ice but from seawater expanding as it warms, so the sea would keep rising for a while even if all ice melt stopped.",
+   "hook": "a student who assumes the sea rises only because ice melts"
+  },
+  {
+   "domain": "environment",
+   "fact": "Fertilizer washing into rivers feeds algal blooms, and when the algae die their decomposition uses up dissolved oxygen, creating dead zones where fish cannot live; one forms in the Gulf of Mexico most summers.",
+   "hook": "a fishing family whose catch vanishes because of farms hundreds of miles upstream"
+  },
+  {
+   "domain": "environment",
+   "fact": "Methane traps about 80 times as much heat as the same mass of carbon dioxide over 20 years, but it breaks down in the atmosphere in roughly a decade, while carbon dioxide persists for centuries.",
+   "hook": "two friends arguing which leak matters more, the fast one or the long one"
+  },
+  {
+   "domain": "environment",
+   "fact": "The pesticide DDT became more concentrated at each step up the food chain and thinned the eggshells of birds of prey; after its ban in the United States in 1972, bald eagle and peregrine falcon numbers recovered.",
+   "hook": "a birdwatcher tracing a poison from a field to a cliff nest"
+  },
+  {
+   "domain": "environment",
+   "fact": "Peatlands cover about 3 percent of Earth's land surface yet store roughly twice as much carbon as all the world's forests, and draining or burning them releases it.",
+   "hook": "a swamp that turns out to matter more than the forest beside it"
+  },
+  {
+   "domain": "environment",
+   "fact": "Ice ages have been paced by slow, regular changes in the shape of Earth's orbit and the tilt of its axis over tens of thousands of years, cycles named after the Serbian scientist Milutin Milankovitch who calculated them.",
+   "hook": "a student who learns that the planet has a clock far slower than seasons"
+  },
+  {
+   "domain": "math",
+   "fact": "A bacterium dividing every 20 minutes produces, if nothing limits it, more than eight billion descendants in about eleven hours, because doubling 33 times multiplies a single cell by roughly 8.6 billion.",
+   "hook": "a forgotten lunch that becomes a lesson in doubling"
+  },
+  {
+   "domain": "math",
+   "fact": "The rule of 70: anything growing at a steady percentage rate doubles in roughly 70 divided by that rate in years, so a city growing 2 percent a year doubles in about 35 years.",
+   "hook": "a mayor who cannot believe the town will double in her lifetime"
+  },
+  {
+   "domain": "math",
+   "fact": "Proof by contradiction assumes a claim is false and derives an impossibility; the ancient Greeks used it to show that the square root of 2 cannot be written as a fraction of whole numbers.",
+   "hook": "a student who proves a rumor false by showing what it would require"
+  },
+  {
+   "domain": "math",
+   "fact": "Euclid proved there is no largest prime number: multiply any finite list of primes together and add 1, and the result is divisible by none of them, so some prime is missing from the list.",
+   "hook": "a puzzle that ends every attempt to name the final prime"
+  },
+  {
+   "domain": "math",
+   "fact": "In a group of just 23 people the chance that two share a birthday is slightly over 50 percent, because there are 253 different pairs of people, each with a small chance of matching.",
+   "hook": "a class bet that a birthday match is impossible"
+  },
+  {
+   "domain": "math",
+   "fact": "A single counterexample disproves a general claim: Fermat conjectured that 2 raised to the power 2 to the n, plus 1, is always prime, and it is for n from 0 to 4, but Euler showed the n equals 5 case is divisible by 641.",
+   "hook": "a pattern that holds five times and then breaks"
+  },
+  {
+   "domain": "math",
+   "fact": "If a disease affects 1 person in 10,000 and a test is 99 percent accurate both for the sick and the healthy, a positive result still means only about a 1 percent chance of actually having the disease, because the healthy false positives vastly outnumber the true cases.",
+   "hook": "a positive test result that a math-minded friend refuses to panic over"
+  },
+  {
+   "domain": "math",
+   "fact": "Each coin flip is independent, so after five heads in a row the chance of heads is still exactly one half; at the same time, a sequence of 100 fair flips is very likely to contain a run of five or more identical results somewhere.",
+   "hook": "a gambler who thinks a streak is proof the coin is due"
+  },
+  {
+   "domain": "math",
+   "fact": "Simpson's paradox: in 1973 the University of California, Berkeley appeared to admit men at a higher rate than women overall, yet within most individual departments women were admitted at similar or higher rates; women had applied more to the departments that rejected almost everyone.",
+   "hook": "a school-wide statistic that reverses when someone sorts it by class"
+  },
+  {
+   "domain": "math",
+   "fact": "An infinite series can have a finite sum: one half plus one quarter plus one eighth and so on forever adds up to exactly 1, which resolves the old puzzle of how a runner can finish a race made of infinitely many halves.",
+   "hook": "a student who wins an argument about infinity with a folded sheet of paper"
+  },
+  {
+   "domain": "math",
+   "fact": "The four-color theorem, that any map can be colored with four colors so no neighboring regions match, was proved in 1976 by Kenneth Appel and Wolfgang Haken with the help of a computer that checked nearly 2,000 special cases, the first major proof to rely on one.",
+   "hook": "a student challenged to draw a map that needs five colors"
+  },
+  {
+   "domain": "math",
+   "fact": "Benford's law: in many real-world collections of numbers, such as populations or financial accounts, about 30 percent of entries begin with the digit 1 and fewer than 5 percent begin with 9, so invented figures that spread the digits evenly can be spotted.",
+   "hook": "a treasurer whose faked ledger has too many sevens and nines"
+  },
+  {
+   "domain": "math",
+   "fact": "In the Monty Hall problem a contestant picks one of three doors, the host, who knows where the prize is, opens a different door showing nothing, and switching to the remaining door wins two times out of three.",
+   "hook": "a game-show fan who cannot accept that switching helps"
+  },
+  {
+   "domain": "math",
+   "fact": "Doubling an animal's length multiplies its surface area by four but its volume and weight by eight, which is why giant insects cannot exist and why elephants need thick legs compared to their size.",
+   "hook": "a movie monster a student dismantles with a calculator"
+  }
+ ]
+}

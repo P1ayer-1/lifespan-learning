@@ -1,0 +1,513 @@
+{
+ "phase": 6,
+ "band": "grade 12 (age 17-18)",
+ "generated_by": "subagent",
+ "verified_by": "independent subagent",
+ "facts": [
+  {
+   "domain": "philosophy",
+   "fact": "Edmund Gettier's 1963 paper gave short examples in which a person has a belief that is true and well supported by evidence, yet only true by luck; it argued that 'justified true belief' is therefore not enough to count as knowledge.",
+   "hook": "a student whose correct answer turns out to have been right for the wrong reason"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Philippa Foot's trolley problem asks whether it is permissible to divert a runaway trolley so that it kills one person instead of five; a later variant asks whether it is permissible to push a large person off a bridge to stop it. Most people who answer say yes to the first and no to the second.",
+   "hook": "two friends who agree on the switch but split over the bridge"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Karl Popper argued that a theory counts as scientific only if some possible observation could show it false, and that a theory compatible with every possible outcome tells us nothing.",
+   "hook": "a club member whose prediction is worded so it can never be wrong"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Utilitarianism, as stated by Jeremy Bentham and John Stuart Mill, holds that the right action is the one producing the greatest total happiness, counting each person's happiness equally regardless of who they are.",
+   "hook": "a class treasurer who must decide whom the last of the budget should help"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Immanuel Kant's categorical imperative says to act only on a rule you could will everyone to follow; on this view lying is wrong even to a would-be murderer asking where a friend is hiding, because a universal rule of lying would defeat itself.",
+   "hook": "a teenager who refuses to tell a protective lie and must live with the result"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "David Hume observed that no set of statements about what is the case can by itself entail a statement about what ought to be the case; this gap is called the is-ought problem.",
+   "hook": "a debater who lists facts and expects the moral conclusion to follow"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Hume's problem of induction points out that our expectation that the future will resemble the past cannot be justified by past experience without circularity, because that expectation is exactly what is in question.",
+   "hook": "a student who trusts that the bus is always late because it always has been"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "John Rawls proposed the 'veil of ignorance': to test whether a social arrangement is fair, imagine choosing it without knowing which position in society you would occupy.",
+   "hook": "a committee designing prize rules before anyone knows who will compete"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "John Searle's Chinese Room argument imagines a person who follows a rulebook to answer questions written in Chinese without understanding any of it; Searle used this to argue that manipulating symbols correctly is not the same as understanding them.",
+   "hook": "a student who aces a test by pattern-matching and is asked to explain one answer"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "The Ship of Theseus puzzle asks whether a ship whose planks are replaced one by one over the years is still the same ship, and what happens if the old planks are reassembled into a second ship.",
+   "hook": "a family arguing whether a fully rebuilt cabin is still grandfather's cabin"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Descartes argued in his Meditations that even if all his senses deceived him, the act of doubting proved that he existed as a thinking thing, summarized as 'I think, therefore I am'.",
+   "hook": "someone testing what they could still be sure of after a vivid, convincing dream"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Robert Nozick's 'experience machine' thought experiment asks whether you would plug into a machine that gives a lifetime of perfectly pleasant experiences that feel real; he used the common refusal to argue that people value more than pleasant experience.",
+   "hook": "a gamer offered a flawless simulated life and a reason to say no"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Plato's Euthyphro dilemma asks whether something is good because the gods approve it, or whether the gods approve it because it is good; each answer raises a problem for grounding morality in divine command.",
+   "hook": "a student asking a mentor whether a rule is right only because the mentor said so"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "Frank Jackson's 'Mary's room' thought experiment describes a scientist who knows every physical fact about color while living in a black-and-white room; it asks whether she learns something new when she first sees red.",
+   "hook": "a colorblind character who has memorized every fact about a color they cannot see"
+  },
+  {
+   "domain": "philosophy",
+   "fact": "The 'moral luck' problem, discussed by Bernard Williams and Thomas Nagel, notes that two drivers who are equally careless are judged very differently if a child happens to step in front of only one of them, even though the difference was outside their control.",
+   "hook": "two friends who made the same reckless choice but only one got caught by chance"
+  },
+  {
+   "domain": "economics",
+   "fact": "Opportunity cost is the value of the best alternative given up when a choice is made; a free concert still costs an evening that could have been spent otherwise.",
+   "hook": "a student who takes every free offer and wonders where the time went"
+  },
+  {
+   "domain": "economics",
+   "fact": "A 'sunk cost' is money or effort already spent that cannot be recovered; economists hold that it should not affect a decision about what to do next, yet people routinely keep going because of what they have already put in.",
+   "hook": "a team that keeps a failing project alive because of the months already spent"
+  },
+  {
+   "domain": "economics",
+   "fact": "Inflation compounds: at 3 percent a year, prices roughly double in about 24 years, so a fixed sum of money buys about half as much over that span.",
+   "hook": "a grandparent's frozen allowance that once bought far more"
+  },
+  {
+   "domain": "economics",
+   "fact": "The 'tragedy of the commons', described by Garrett Hardin in 1968, is the pattern in which each user of a shared resource gains by taking more while the cost of overuse is spread across everyone, so the resource is depleted.",
+   "hook": "roommates sharing a fridge that is always empty"
+  },
+  {
+   "domain": "economics",
+   "fact": "A price ceiling set below the market price, such as a strict rent cap, tends to produce shortages because demand rises while the quantity offered falls.",
+   "hook": "a town where the cheap regulated apartments are all mysteriously full"
+  },
+  {
+   "domain": "economics",
+   "fact": "Comparative advantage, described by David Ricardo, shows that two parties both gain from trade even when one of them is better at producing everything, as long as each specializes in what it gives up least to make.",
+   "hook": "a star student who does all the group's work and finishes last"
+  },
+  {
+   "domain": "economics",
+   "fact": "The Consumer Price Index measures inflation by tracking the cost of a fixed basket of goods and services over time, and countries periodically update the basket as spending habits change.",
+   "hook": "a class project that finds grandma's price memories are all in a different basket"
+  },
+  {
+   "domain": "economics",
+   "fact": "A negative externality is a cost imposed on people outside a transaction, such as noise or pollution; a Pigouvian tax, named after Arthur Pigou, is a tax set equal to that outside cost so the price reflects it.",
+   "hook": "a lemonade stand whose music annoys the whole street"
+  },
+  {
+   "domain": "economics",
+   "fact": "In a bank run, depositors withdraw money because they fear the bank will fail, and because banks hold only a fraction of deposits as cash, the fear itself can cause the failure. Deposit insurance was introduced in many countries to stop this cycle.",
+   "hook": "a rumor at school that the snack fund is empty makes it empty"
+  },
+  {
+   "domain": "economics",
+   "fact": "Compound interest means interest earns interest; a rule of thumb called the Rule of 72 says money roughly doubles in 72 divided by the annual percentage rate years, so 6 percent doubles in about 12 years.",
+   "hook": "two siblings who start saving ten years apart"
+  },
+  {
+   "domain": "economics",
+   "fact": "Moral hazard is the tendency to take more risk when someone else bears the cost, such as driving less carefully after buying full insurance coverage.",
+   "hook": "a borrowed car and a friend who suddenly drives faster"
+  },
+  {
+   "domain": "economics",
+   "fact": "Central banks raise interest rates to slow inflation by making borrowing more expensive, which reduces spending; the effect on prices typically takes a year or more to fully appear.",
+   "hook": "a student who expects a rate hike to fix prices by next month"
+  },
+  {
+   "domain": "economics",
+   "fact": "Adverse selection occurs when one side of a deal knows more than the other; George Akerlof's 1970 'market for lemons' paper showed that if buyers cannot tell good used cars from bad, good cars tend to be driven out of the market.",
+   "hook": "a teenager trying to sell a genuinely good used bike and being disbelieved"
+  },
+  {
+   "domain": "economics",
+   "fact": "GDP counts the market value of goods and services produced in a country in a year, but it leaves out unpaid work such as caring for family members and cooking at home.",
+   "hook": "a student who calculates how much their parent's unpaid work would cost to replace"
+  },
+  {
+   "domain": "economics",
+   "fact": "A progressive income tax with brackets applies the higher rate only to the income above each threshold, so earning one extra dollar over a bracket line never reduces total take-home pay.",
+   "hook": "a worker who refuses a raise for fear of a higher bracket"
+  },
+  {
+   "domain": "science_method",
+   "fact": "A randomized controlled trial assigns participants to treatment or control by chance so that unknown differences between people are spread evenly, which is what lets the result be read as cause rather than mere association.",
+   "hook": "a student whose study lets volunteers choose their own group"
+  },
+  {
+   "domain": "science_method",
+   "fact": "In a double-blind trial neither participants nor the researchers assessing them know who received the real treatment, which prevents expectations from shaping the reported results.",
+   "hook": "a science fair judge who knows which plant got the fertilizer"
+  },
+  {
+   "domain": "science_method",
+   "fact": "The placebo effect is measurable: in many pain trials, a large share of people given an inert pill report real improvement, which is why new drugs must beat placebo, not just do better than nothing.",
+   "hook": "a sugar pill that seems to cure a friend's headache"
+  },
+  {
+   "domain": "science_method",
+   "fact": "The 'replication crisis' refers to the finding that many published psychology results failed to reproduce; a 2015 project that repeated 100 studies found only about a third to a half of the effects held up.",
+   "hook": "a teacher who cites a famous experiment that has since failed to replicate"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Regression to the mean means that an extreme measurement tends to be followed by a more ordinary one by chance alone, so a treatment given after a very bad day can look effective when nothing was done.",
+   "hook": "a coach who yells after a bad game and credits the yelling for the next win"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Ignaz Semmelweis showed in the 1840s that handwashing with chlorinated lime sharply cut deaths from childbed fever in a Vienna maternity clinic, but his finding was rejected for decades partly because he could not explain the mechanism.",
+   "hook": "someone whose method clearly works but who cannot say why"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Newton's law of gravity predicted the orbits of the planets almost perfectly but could not account for a tiny drift in Mercury's orbit of about 43 arcseconds per century, which Einstein's general relativity explained in 1915.",
+   "hook": "a small stubborn error in the data that turns out to matter most"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Peer review means that other experts check a paper before it is published, but reviewers usually do not repeat the experiments or inspect raw data, so peer review catches reasoning errors more reliably than fraud.",
+   "hook": "a student who believes 'peer-reviewed' means 'proven'"
+  },
+  {
+   "domain": "science_method",
+   "fact": "A confounding variable is a hidden factor that affects both things being compared; ice cream sales and drowning rise together each year because both increase in hot weather, not because one causes the other.",
+   "hook": "a data project that 'proves' something silly"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Alfred Wegener proposed continental drift in 1912 based on matching coastlines and fossils, but the idea was widely rejected until the 1960s when seafloor spreading supplied a mechanism.",
+   "hook": "an idea that is right but arrives fifty years before its proof"
+  },
+  {
+   "domain": "science_method",
+   "fact": "The Hawthorne effect is the tendency of people to change their behavior simply because they know they are being observed, named after studies at a factory in the 1920s and 1930s.",
+   "hook": "a survey of classroom behavior that changes the behavior it measures"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Survivorship bias is the error of studying only the cases that made it through some filter; during the Second World War, statistician Abraham Wald argued that returning bombers should be armored where they had no bullet holes, since planes hit there did not return.",
+   "hook": "a student who studies only successful dropouts to prove school is unnecessary"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Thomas Kuhn's 1962 book The Structure of Scientific Revolutions argued that science normally works within an accepted framework, or paradigm, and that major changes happen when accumulating anomalies force a shift to a new one.",
+   "hook": "a lab where everyone explains away the same odd result"
+  },
+  {
+   "domain": "science_method",
+   "fact": "The link between smoking and lung cancer was established without a randomized trial, through large cohort studies such as the British Doctors Study begun in 1951, which followed about 40,000 doctors for decades.",
+   "hook": "a skeptic who says nothing counts without a controlled experiment"
+  },
+  {
+   "domain": "science_method",
+   "fact": "Cold fusion was announced at a press conference in 1989 before peer review; laboratories around the world tried and failed to reproduce it within months, and the claim collapsed.",
+   "hook": "a classmate who announces a discovery before anyone can check it"
+  },
+  {
+   "domain": "history",
+   "fact": "The Black Death of 1347 to 1351 killed roughly a third or more of Europe's population, and the resulting labor shortage raised wages for surviving peasants and weakened the feudal system.",
+   "hook": "a character who realizes a catastrophe changed who held the bargaining power"
+  },
+  {
+   "domain": "history",
+   "fact": "The Rosetta Stone, found in 1799, carries the same decree in Greek and two Egyptian scripts, and comparing them let Jean-Francois Champollion decipher hieroglyphs in 1822.",
+   "hook": "someone cracking a code because the same message exists in a known language"
+  },
+  {
+   "domain": "history",
+   "fact": "Radiocarbon dating works because living things absorb carbon-14 that decays at a known rate after death, with a half-life of about 5,730 years; it is useful for objects up to roughly 50,000 years old.",
+   "hook": "a family heirloom whose claimed age can actually be tested"
+  },
+  {
+   "domain": "history",
+   "fact": "Dendrochronology dates wood by matching its pattern of wide and narrow annual rings to master sequences built from overlapping samples, which can give an exact year for when a tree was felled.",
+   "hook": "a beam in an old barn that reveals the true construction date"
+  },
+  {
+   "domain": "history",
+   "fact": "The Roman numeral system had no zero, and the concept of zero as a number in its own right developed in India, appearing in Brahmagupta's work in the seventh century.",
+   "hook": "a student who assumes counting has always worked the same way"
+  },
+  {
+   "domain": "history",
+   "fact": "The 1918 influenza pandemic killed an estimated 50 million people worldwide, more than the First World War, yet it received far less attention in most histories of the period for decades.",
+   "hook": "someone discovering an ancestor's death was part of a forgotten catastrophe"
+  },
+  {
+   "domain": "history",
+   "fact": "The 'Great Man' theory, associated with Thomas Carlyle, explains history mainly through the actions of exceptional individuals; later historians such as those of the Annales school instead emphasized long-term economic, geographic and social structures.",
+   "hook": "two students arguing whether one leader or the weather decided a war"
+  },
+  {
+   "domain": "history",
+   "fact": "Herodotus, writing in the fifth century BCE, is often called the first historian because he collected accounts from many informants and sometimes reported versions he doubted, telling readers he did not believe them.",
+   "hook": "a reporter who prints a rumor while stating openly that it may be false"
+  },
+  {
+   "domain": "history",
+   "fact": "The printing press with movable metal type, developed by Johannes Gutenberg around 1450, dropped the cost of books so much that Europe had an estimated 20 million printed volumes by 1500.",
+   "hook": "a character imagining a world where every copy of a book is made by hand"
+  },
+  {
+   "domain": "history",
+   "fact": "The Columbian Exchange after 1492 moved crops between hemispheres: potatoes, tomatoes, maize and chili peppers came from the Americas, so Italian cooking had no tomatoes and Irish farming no potatoes before then.",
+   "hook": "a student trying to cook a 'traditional' meal without New World ingredients"
+  },
+  {
+   "domain": "history",
+   "fact": "Oral history projects record interviews with living witnesses, and historians treat them carefully because memory changes over time and people tend to reshape past events in light of what happened later.",
+   "hook": "two relatives who remember the same family event differently"
+  },
+  {
+   "domain": "history",
+   "fact": "In 1582 the Gregorian calendar reform skipped ten days, so in the countries that adopted it first, October 4 was followed directly by October 15; Britain did not switch until 1752, when it dropped eleven days.",
+   "hook": "a diary date that seems impossible until the calendar change is known"
+  },
+  {
+   "domain": "history",
+   "fact": "The Hittites, who ruled a major empire in Anatolia around 1600 to 1200 BCE, were almost entirely forgotten until their capital and archives of clay tablets were excavated in the early twentieth century.",
+   "hook": "a character who realizes whole empires can vanish from memory"
+  },
+  {
+   "domain": "history",
+   "fact": "Ancient Roman concrete, made with volcanic ash, has survived two thousand years in seawater, and researchers have found that it slowly forms new crystals that seal cracks, which is why some harbor structures still stand.",
+   "hook": "an engineer studying why the old pier outlasted the new one"
+  },
+  {
+   "domain": "statistics",
+   "fact": "In a room of just 23 people there is a better than even chance that two share a birthday, because there are 253 different pairs of people that could match.",
+   "hook": "a student who bets against a birthday match in a small class"
+  },
+  {
+   "domain": "statistics",
+   "fact": "The gambler's fallacy is the belief that after a run of one outcome the opposite becomes more likely; a fair coin that has landed heads five times in a row still has exactly a 50 percent chance of heads on the next flip.",
+   "hook": "a player who is sure the losing streak must end now"
+  },
+  {
+   "domain": "statistics",
+   "fact": "Simpson's paradox is when a trend that appears in every subgroup reverses when the groups are combined; a treatment can have a better success rate for both mild and severe cases yet a worse overall rate if it was given mostly to severe cases.",
+   "hook": "a coach whose player is better in every category but worse overall"
+  },
+  {
+   "domain": "statistics",
+   "fact": "A margin of error of plus or minus 3 percentage points in a poll typically describes a 95 percent confidence interval, meaning that about one poll in twenty would be expected to miss the true value by more than that even with perfect sampling.",
+   "hook": "a class election poll that is 'wrong' though nothing went wrong"
+  },
+  {
+   "domain": "statistics",
+   "fact": "The median is the middle value when data are sorted, and it is unaffected by extreme values; a single billionaire moving into a small town raises the mean income dramatically while barely changing the median.",
+   "hook": "a report on 'average' pay that hides what most workers earn"
+  },
+  {
+   "domain": "statistics",
+   "fact": "Relative risk and absolute risk say different things: a treatment that halves a risk from 2 in 1,000 to 1 in 1,000 is a 50 percent reduction, but only one person in a thousand actually benefits.",
+   "hook": "a headline about a '50 percent' effect that turns out to be tiny"
+  },
+  {
+   "domain": "statistics",
+   "fact": "The law of large numbers says that the average of many independent trials gets closer to the expected value as the number of trials grows, which is why casinos and insurers profit reliably despite individual losses.",
+   "hook": "a student who wins early at a game and assumes the odds favor them"
+  },
+  {
+   "domain": "statistics",
+   "fact": "Bayes' theorem gives a way to update a probability when new evidence arrives, combining how likely the evidence would be if a hypothesis were true with how likely the hypothesis was beforehand.",
+   "hook": "a detective who revises a suspicion as each clue arrives"
+  },
+  {
+   "domain": "statistics",
+   "fact": "The prosecutor's fallacy confuses the chance of the evidence given innocence with the chance of innocence given the evidence; a DNA match that would occur in 1 in a million people could still fit several people in a city of many millions.",
+   "hook": "a mock trial where one-in-a-million is treated as certainty"
+  },
+  {
+   "domain": "statistics",
+   "fact": "Statistical significance at the 5 percent level means that a result this strong would arise by chance about one time in twenty if there were no real effect; it does not mean the effect is large or important.",
+   "hook": "a science fair project with a significant but useless result"
+  },
+  {
+   "domain": "statistics",
+   "fact": "If a researcher tests twenty unrelated hypotheses at the 5 percent significance level, the chance that at least one gives a false positive is about 64 percent, which is why searching many comparisons and reporting the best is misleading.",
+   "hook": "a student who checks fifty foods against test scores and finds one that 'works'"
+  },
+  {
+   "domain": "statistics",
+   "fact": "The expected value of a bet is the average result over many repetitions; a lottery ticket that costs 2 dollars with a one-in-a-million chance at 1 million dollars has an expected value of about 1 dollar, so the buyer loses about half the cost on average.",
+   "hook": "a student who calculates the school raffle's true payout"
+  },
+  {
+   "domain": "statistics",
+   "fact": "Base rates matter for risk: because far more people drive than fly, driving produces many more deaths per year, and per kilometer traveled commercial flying is among the safest ways to travel.",
+   "hook": "a nervous flyer who drives eight hours to avoid a one-hour flight"
+  },
+  {
+   "domain": "statistics",
+   "fact": "Correlation coefficients run from -1 to 1 and measure how closely two variables move together in a straight line; a coefficient of zero can still hide a strong curved relationship.",
+   "hook": "a data project that reports 'no relationship' for a perfect U-shaped one"
+  },
+  {
+   "domain": "tech",
+   "fact": "The first web page went online in 1991 at CERN, and the World Wide Web's inventor, Tim Berners-Lee, persuaded the lab to release the underlying technology royalty-free in 1993.",
+   "hook": "a student who learns the web could have been a paid product"
+  },
+  {
+   "domain": "tech",
+   "fact": "Public-key encryption uses a pair of keys: anyone can lock a message with the public key, but only the matching private key can unlock it, which is how a browser can talk securely to a site it has never contacted before.",
+   "hook": "a class trying to send secret notes without ever meeting to share a password"
+  },
+  {
+   "domain": "tech",
+   "fact": "Recommendation systems on video and social platforms typically optimize for measurable engagement such as watch time and clicks, and content that provokes strong reactions often scores highly on those measures.",
+   "hook": "a teen who notices their feed gets angrier the more they scroll"
+  },
+  {
+   "domain": "tech",
+   "fact": "A 2018 study in Science that traced about 126,000 stories on Twitter found that false news spread farther and faster than true news, and that humans rather than bots were mainly responsible.",
+   "hook": "a rumor that beats the correction to every phone in school"
+  },
+  {
+   "domain": "tech",
+   "fact": "GPS receivers calculate position by timing signals from at least four satellites, and the satellite clocks must be corrected for relativity, which makes them run about 38 microseconds a day fast relative to clocks on the ground; without the correction, position errors would grow by kilometers each day.",
+   "hook": "a hiker who trusts a map app without knowing Einstein is in the loop"
+  },
+  {
+   "domain": "tech",
+   "fact": "Deleting a file usually just marks its storage space as available; the data remains on the disk until overwritten, which is why recovery tools can often retrieve 'deleted' files.",
+   "hook": "a secret that is deleted but not gone"
+  },
+  {
+   "domain": "tech",
+   "fact": "The Luddites were English textile workers in the 1810s who broke knitting and weaving machines that threatened their skilled jobs; the term is now used, often unfairly, for anyone who resists new technology.",
+   "hook": "a worker whose objection to a machine is about wages, not fear"
+  },
+  {
+   "domain": "tech",
+   "fact": "Machine-learning systems trained on past data reproduce patterns in that data, so a hiring tool trained on a decade of mostly male hires was found to downgrade resumes containing the word 'women's'.",
+   "hook": "a school app that ranks students by patterns nobody chose"
+  },
+  {
+   "domain": "tech",
+   "fact": "The first mobile phone call was made in 1973 on a Motorola prototype that weighed about 1.1 kilograms, and consumer models a decade later sold for nearly 4,000 dollars.",
+   "hook": "a teen amazed that a phone was once a luxury brick"
+  },
+  {
+   "domain": "tech",
+   "fact": "Websites can identify a returning browser without cookies by 'fingerprinting': combining details such as screen size, fonts, time zone and installed plugins, which together are often unique.",
+   "hook": "a student who clears cookies and is still recognized"
+  },
+  {
+   "domain": "tech",
+   "fact": "Undersea fiber-optic cables carry the vast majority of intercontinental internet traffic, not satellites; a single modern cable can carry hundreds of terabits per second, and cables are occasionally cut by ship anchors.",
+   "hook": "a character who assumes an overseas message goes through space"
+  },
+  {
+   "domain": "tech",
+   "fact": "Two-factor authentication requires something you know, like a password, plus something you have, like a phone; it protects against stolen passwords but not against someone who is tricked into approving a login request.",
+   "hook": "a student who approves a login prompt they did not start"
+  },
+  {
+   "domain": "tech",
+   "fact": "The Dunbar number, proposed by anthropologist Robin Dunbar, suggests humans can maintain roughly 150 stable social relationships, a figure often cited when discussing why huge online friend lists do not feel like friendships.",
+   "hook": "someone with a thousand followers and no one to call"
+  },
+  {
+   "domain": "tech",
+   "fact": "Automated teller machines were widely predicted to eliminate bank teller jobs, but in the United States the number of tellers actually rose for decades after their introduction, because cheaper branches led banks to open more of them.",
+   "hook": "a student sure a new machine means their part-time job is doomed"
+  },
+  {
+   "domain": "language",
+   "fact": "The Sapir-Whorf hypothesis in its strong form claims that language determines thought; most linguists reject that version but accept weaker effects, such as speakers of languages that use compass directions instead of 'left' and 'right' being better at keeping track of orientation.",
+   "hook": "a friend who never gets lost and speaks a language with no word for 'left'"
+  },
+  {
+   "domain": "language",
+   "fact": "Paul Grice described conversational implicature: hearers assume speakers are being relevant and informative, so 'some of the students passed' is usually taken to mean not all did, even though it is literally true if all passed.",
+   "hook": "a reference letter that damns by saying only that the student was punctual"
+  },
+  {
+   "domain": "language",
+   "fact": "Noam Chomsky's poverty-of-the-stimulus argument holds that children acquire grammar rules they were never explicitly taught and rarely hear violated, which he took as evidence for an inborn language capacity.",
+   "hook": "a toddler who says 'goed' though no adult ever did"
+  },
+  {
+   "domain": "language",
+   "fact": "Deaf children in Nicaragua in the 1980s, brought together in schools for the first time, created a new sign language with its own grammar within a generation, and it was the younger children who added the most systematic structure.",
+   "hook": "a group of kids who invent a language their teachers cannot follow"
+  },
+  {
+   "domain": "language",
+   "fact": "The McGurk effect shows that seeing a mouth make one sound while hearing another can make listeners perceive a third sound, which demonstrates that speech perception combines vision and hearing.",
+   "hook": "a video call where the lips and the audio disagree"
+  },
+  {
+   "domain": "language",
+   "fact": "In Ludwig Wittgenstein's later view, the meaning of a word is its use in a shared practice, and he argued that a purely private language, referring to sensations only its user could check, would be impossible.",
+   "hook": "a diary code that stops meaning anything even to its author"
+  },
+  {
+   "domain": "language",
+   "fact": "Ferdinand de Saussure argued that the link between a word's sound and its meaning is arbitrary, which is why 'dog', 'chien' and 'perro' all name the same animal, and only a few words like 'buzz' imitate what they mean.",
+   "hook": "a student inventing a language and discovering words need not resemble things"
+  },
+  {
+   "domain": "language",
+   "fact": "The 'Bouba/Kiki' effect is the finding that people across many languages match the nonsense word 'bouba' to a rounded shape and 'kiki' to a spiky one, which suggests some sound-meaning links are not entirely arbitrary.",
+   "hook": "a class naming products and finding everyone agrees on the spiky one"
+  },
+  {
+   "domain": "language",
+   "fact": "J. L. Austin's speech-act theory notes that some utterances perform actions rather than describe things: saying 'I promise' or 'I now pronounce you married' under the right conditions makes the promise or the marriage.",
+   "hook": "a student who says 'I bet you' as a joke and is held to it"
+  },
+  {
+   "domain": "language",
+   "fact": "The Stroop effect shows that naming the ink color of a word is much slower when the word spells a different color, such as 'red' printed in blue, because reading happens automatically.",
+   "hook": "a party game that reveals how hard it is not to read"
+  },
+  {
+   "domain": "language",
+   "fact": "Loftus and Palmer's 1974 experiment found that people who watched a car crash and were asked how fast the cars 'smashed' gave higher speed estimates than those asked how fast the cars 'hit', and were more likely to later recall broken glass that was not there.",
+   "hook": "a witness whose memory is quietly rewritten by the question"
+  },
+  {
+   "domain": "language",
+   "fact": "Every language studied so far has a way to express negation, ask questions and refer to past or future events, but there is wide variation elsewhere; some languages have no grammatical tense at all and mark time with separate words.",
+   "hook": "a student who assumes every language must have verb tenses"
+  },
+  {
+   "domain": "language",
+   "fact": "Metaphor structures ordinary speech: as George Lakoff and Mark Johnson showed, English routinely treats argument as war ('attack a claim', 'defend a position') and time as money ('spend', 'waste', 'save' time).",
+   "hook": "a student who tries to argue for a day without any war words"
+  },
+  {
+   "domain": "language",
+   "fact": "Semantic satiation is the effect in which a word repeated many times seems to lose its meaning and become a mere sound, and it can be produced reliably in about half a minute of repetition.",
+   "hook": "a chant at a game that turns a word into noise"
+  }
+ ]
+}

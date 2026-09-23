@@ -208,3 +208,5 @@ __marimo__/
 
 # project-specific ignores
 generated_prompts.jsonl
+# prompt_lab API caches (resumable builds)
+_cache/

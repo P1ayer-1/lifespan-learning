@@ -1,0 +1,119 @@
+
+=== phase 0 (target band JK-SK) ===
+verbs       n= 394 not_pos=  1 unfit=  0 band_dist={0: 44, 1: 206, 2: 136, 3: 7} far_above=143 far_below=0 keep=250
+   not_pos e.g.: ['sharp(adjective)']
+   unfit   e.g.: []
+   far_above e.g.: ['measure2', 'quarrel2', 'sack2', 'include2', 'bury2', 'question2', 'receive2', 'surprise2', 'spoil2', 'appear2', 'rot2', 'resist2']
+   far_below e.g.: []
+nouns       n=1066 not_pos=106 unfit=  3 band_dist={0: 217, 1: 475, 2: 250, 3: 15} far_above=265 far_below=0 keep=692
+   not_pos e.g.: ['prince(proper noun)', 'Sunday(proper noun)', 'today(not a noun)', 'teach(not a noun)', 'iron(also verb)', 'stream(also verb)', 'crane(also verb)', 'fly(also verb)', 'shade(also verb)', 'train(also verb)', 'sock(also verb)', 'alarm(also verb)']
+   unfit   e.g.: ['jeep(proper noun)', 'pistol(violent weapon)', 'wine(alcohol/mature)']
+   far_above e.g.: ['stitch2', 'nation2', 'billboard2', 'judge2', 'result2', 'port2', 'weapon2', 'mill2', 'poppy2', 'microscope2', 'missile3', 'soldier2']
+   far_below e.g.: []
+adjectives  n= 245 not_pos=  5 unfit=  0 band_dist={0: 38, 1: 89, 2: 101, 3: 12} far_above=113 far_below=0 keep=127
+   not_pos e.g.: ['orange(primarily noun)', 'gray(primarily noun)', 'yellow(primarily noun)', 'green(primarily noun)', 'brown(primarily noun)']
+   unfit   e.g.: []
+   far_above e.g.: ['generous2', 'wealthy2', 'guilty2', 'loyal2', 'dizzy2', 'fragile2', 'impressive2', 'powerful2', 'clumsy2', 'lonely2', 'grateful2', 'gloomy2']
+   far_below e.g.: []
+
+=== phase 1 (target band grade 1-2) ===
+verbs       n= 240 not_pos=  0 unfit=  0 band_dist={0: 48, 1: 120, 2: 69, 3: 3} far_above=3 far_below=0 keep=237
+   not_pos e.g.: []
+   unfit   e.g.: []
+   far_above e.g.: ['exit3', 'harvest3', 'apologize3']
+   far_below e.g.: []
+nouns       n= 250 not_pos=  1 unfit=  0 band_dist={0: 111, 1: 123, 2: 15} far_above=0 far_below=0 keep=249
+   not_pos e.g.: ['police(not a noun)']
+   unfit   e.g.: []
+   far_above e.g.: []
+   far_below e.g.: []
+adjectives  n= 240 not_pos=  1 unfit=  0 band_dist={0: 132, 1: 100, 2: 7} far_above=0 far_below=0 keep=239
+   not_pos e.g.: ['found(not an adjective)']
+   unfit   e.g.: []
+   far_above e.g.: []
+   far_below e.g.: []
+
+=== phase 2 (target band grade 3-5) ===
+verbs       n= 480 not_pos=  1 unfit=  0 band_dist={0: 91, 1: 252, 2: 121, 3: 14, 4: 1} far_above=1 far_below=91 keep=387
+   not_pos e.g.: ['slow(not a verb)']
+   unfit   e.g.: []
+   far_above e.g.: ['update4']
+   far_below e.g.: ['answer0', 'ask0', 'be0', 'bring0', 'call0', 'care0', 'catch0', 'change0', 'clean0', 'close0', 'come0', 'cook0']
+nouns       n= 570 not_pos=  0 unfit=  0 band_dist={0: 218, 1: 260, 2: 84, 3: 8} far_above=0 far_below=218 keep=352
+   not_pos e.g.: []
+   unfit   e.g.: []
+   far_above e.g.: []
+   far_below e.g.: ['air0', 'animal0', 'answer0', 'ant0', 'apple0', 'arm0', 'art0', 'aunt0', 'baby0', 'back0', 'bag0', 'ball0']
+adjectives  n= 280 not_pos=  1 unfit=  1 band_dist={0: 38, 1: 132, 2: 101, 3: 7} far_above=0 far_below=38 keep=240
+   not_pos e.g.: ['sound(not typically an adj)']
+   unfit   e.g.: ['stupid(slur)']
+   far_above e.g.: []
+   far_below e.g.: ['bad0', 'big0', 'black0', 'blue0', 'clean0', 'cold0', 'easy0', 'few0', 'free0', 'good0', 'green0', 'happy0']
+
+=== phase 3 (target band grade 6-8) ===
+verbs       n= 400 not_pos= 15 unfit=  5 band_dist={0: 60, 1: 182, 2: 109, 3: 28, 4: 1} far_above=0 far_below=242 keep=138
+   not_pos e.g.: ['fell(not a verb)', 'saw(not a verb)', 'felt(not a verb)', 'star(not a verb)', 'hat(not a verb)', 'till(not a verb)', 'bed(not a verb)', 'boys(not a verb)', 'afraid(not a verb)', 'em(not a verb)', 'right(not a verb)', 'hain(archaic/dialect)']
+   unfit   e.g.: ['die(violent)', 'kill(violent)', 'murder(violent)', 'rob(crime verb)', 'torment(violent)']
+   far_above e.g.: []
+   far_below e.g.: ['say0', 'go0', 'get0', 'come0', 'know0', 'take0', 'make0', 'see0', 'find0', 'tell0', 'begin1', 'think0']
+nouns       n= 400 not_pos= 30 unfit=  5 band_dist={0: 101, 1: 156, 2: 92, 3: 16} far_above=0 far_below=257 keep=108
+   not_pos e.g.: ['em(not a noun)', 'till(not a noun)', 'tell(not a noun)', 'dark(not a noun)', 'ha(interjection)', 'use(not a noun)', 'come(not a noun)', 'half(not a noun)', 'none(not a noun)', 'turn(not a noun)', 'mighty(not a noun)', 'thousand(not a noun)']
+   unfit   e.g.: ['murder(violent term)', 'revenge(violent context)', 'suffering(violent context)', 'fight(violent term)', 'horror(violent context)']
+   far_above e.g.: []
+   far_below e.g.: ['boy0', 'time0', 'way0', 'thing0', 'day0', 'hand0', 'night0', 'eye0', 'head0', 'heart0', 'moment0', 'place0']
+adjectives  n= 400 not_pos= 51 unfit=  2 band_dist={0: 54, 1: 98, 2: 112, 3: 67, 4: 16} far_above=0 far_below=152 keep=195
+   not_pos e.g.: ['worth(not an adjective)', 'funeral(not an adjective)', 'half(not an adjective)', 'hundred(not an adjective)', 'instant(not an adjective)', 'outside(not an adjective)', 'back(not an adjective)', 'rid(not an adjective)', 'spanish(proper noun)', 'twenty(not an adjective)', 'whispered(not an adjective)', 'boy(not an adjective)']
+   unfit   e.g.: ['drunk(slur)', 'thy(archaic)']
+   far_above e.g.: []
+   far_below e.g.: ['little0', 'good0', 'old0', 'last1', 'great0', 'dead1', 'long0', 'new0', 'poor1', 'much0', 'next0', 'small0']
+
+=== phase 4 (target band grade 9-10) ===
+verbs       n= 400 not_pos= 11 unfit=  1 band_dist={0: 82, 1: 105, 2: 131, 3: 60, 4: 10} far_above=0 far_below=318 keep=70
+   not_pos e.g.: ['felt(not a verb)', 'saw(not a verb)', 'till(not a verb)', 'part(not a verb)', 'ashamed(not a verb)', 'pain(not a verb)', 'colour(not a verb)', 'dinner(not a verb)', 'ill(not a verb)', 'hat(not a verb)', 'indebted(not a verb)']
+   unfit   e.g.: ['abuse(violent term)']
+   far_above e.g.: []
+   far_below e.g.: ['say0', 'know0', 'make0', 'think0', 'see0', 'go0', 'give0', 'come0', 'take0', 'hear0', 'look0', 'speak1']
+nouns       n= 400 not_pos=  8 unfit=  1 band_dist={0: 40, 1: 164, 2: 134, 3: 49, 4: 4} far_above=0 far_below=338 keep=53
+   not_pos e.g.: ['till(not a noun)', 'towards(not a noun)', 'afterwards(not a noun)', 'particular(not typically noun)', 'evil(not a noun)', 'vain(not a noun)', 'fond(not a noun)', 'ill(not a noun)']
+   unfit   e.g.: ['sir(proper noun use)']
+   far_above e.g.: []
+   far_below e.g.: ['sister1', 'time0', 'nothing0', 'friend0', 'day0', 'family1', 'man0', 'manner1', 'father0', 'daughter1', 'lady1', 'mother0']
+adjectives  n= 400 not_pos= 24 unfit=  1 band_dist={0: 36, 1: 123, 2: 117, 3: 73, 4: 25, 5: 1} far_above=0 far_below=276 keep=99
+   not_pos e.g.: ['lady(not an adjective)', 'ten(not an adjective)', 'sister(not an adjective)', 'future(not adjective here)', 'l(not a word)', 'wish(not adjective)', 'cried(past tense verb)', 'quite(adverb not adjective)', 'thousand(noun/number)', 'subject(not adjective)', 'upstairs(not adjective)', 'fifty(not adjective)']
+   unfit   e.g.: ['violent(violent content)']
+   far_above e.g.: []
+   far_below e.g.: ['good0', 'much0', 'great0', 'little0', 'young0', 'dear0', 'many0', 'first0', 'last0', 'sure0', 'happy0', 'least0']
+
+=== phase 5 (target band grade 11) ===
+verbs       n= 400 not_pos= 14 unfit=  4 band_dist={0: 93, 1: 136, 2: 108, 3: 42, 4: 3} far_above=0 far_below=379 keep=3
+   not_pos e.g.: ['saw(past tense only)', 'ye(archaic pronoun)', 'fell(past tense only)', 'felt(past tense only)', 'thou(archaic pronoun)', 'sir(not a verb)', 'straight(not a verb)', 'fro(archaic)', 'ten(not a verb)', 'thee(archaic)', 'sea(not a verb)', 'hundred(not a verb)']
+   unfit   e.g.: ['kill(violent term)', 'die(violent term)', 'hang(violent term)', 'behold(archaic)']
+   far_above e.g.: []
+   far_below e.g.: ['say0', 'go0', 'seem1', 'see0', 'make0', 'come0', 'take0', 'know0', 'think0', 'stand0', 'look0', 'give0']
+nouns       n= 400 not_pos= 28 unfit=  2 band_dist={0: 126, 1: 149, 2: 78, 3: 15, 4: 2} far_above=0 far_below=368 keep=2
+   not_pos e.g.: ['ye(archaic pronoun)', 'round(not a noun)', 'thou(archaic pronoun)', 'thee(archaic pronoun)', 'look(not a noun)', 'savage(not standard noun)', 'living(gerund/adjective)', 'towards(preposition)', 'god(proper noun)', 'mean(adjective)', 'king(proper noun)', 'till(preposition)']
+   unfit   e.g.: ['specie(archaic)', 'lord(archaic)']
+   far_above e.g.: []
+   far_below e.g.: ['ship1', 'man0', 'sea1', 'time0', 'boat1', 'hand0', 'thing0', 'head0', 'chapter1', 'way0', 'day0', 'eye0']
+adjectives  n= 400 not_pos= 25 unfit=  5 band_dist={0: 63, 1: 137, 2: 118, 3: 38, 4: 12, 5: 2} far_above=0 far_below=356 keep=14
+   not_pos e.g.: ['indian(proper noun)', 'fifty(not an adjective)', 'fish(not an adjective)', 'french(proper noun)', 'cried(not an adjective)', 'german(proper noun)', 'ocean(not an adjective)', 'english(proper noun)', 'like(not an adjective)', 'christian(proper noun)', 'spanish(nationality)', 'thee(pronoun archaic)']
+   unfit   e.g.: ['thy(archaic)', 'thou(archaic)', 'ye(archaic)', 'queer(dated slur)', 'yonder(archaic)']
+   far_above e.g.: []
+   far_below e.g.: ['old0', 'great0', 'last0', 'little0', 'good0', 'long0', 'first0', 'many0', 'white0', 'small0', 'much0', 'high0']
+
+=== phase 6 (target band grade 12) ===
+verbs       n= 400 not_pos=  9 unfit=  0 band_dist={0: 57, 1: 88, 2: 128, 3: 86, 4: 29, 5: 3} far_above=0 far_below=388 keep=3
+   not_pos e.g.: ['society(not a verb)', 'felt(past tense only)', 'mankind(not a verb)', 'hitherto(not a verb)', 'therefore(not a verb)', 'truth(not a verb)', 'chiefly(not a verb)', 'commonplace(not a verb)', 'except(not a verb)']
+   unfit   e.g.: []
+   far_above e.g.: []
+   far_below e.g.: ['make0', 'say0', 'think0', 'know0', 'take0', 'give0', 'require1', 'hold1', 'become0', 'believe1', 'do0', 'call0']
+nouns       n= 400 not_pos= 13 unfit=  0 band_dist={0: 51, 1: 102, 2: 135, 3: 78, 4: 20, 5: 1} far_above=0 far_below=386 keep=1
+   not_pos e.g.: ['mean(not a noun)', 'public(not a noun)', 'towards(not a noun)', 'everything(pronoun)', 'good(pronoun/adjective)', 'moral(adjective form)', 'chiefly(not a noun)', 'fit(adjective/verb, not noun)', 'forth(adverb, not noun)', 'mental(adjective, not noun)', 'whatever(pronoun, not noun)', 'wise(adjective, not noun)']
+   unfit   e.g.: []
+   far_above e.g.: []
+   far_below e.g.: ['opinion2', 'person0', 'others0', 'truth1', 'thing0', 'case1', 'people0', 'society2', 'conduct2', 'life0', 'liberty2', 'power1']
+adjectives  n= 400 not_pos= 22 unfit=  1 band_dist={0: 29, 1: 58, 2: 142, 3: 109, 4: 36, 5: 3} far_above=0 far_below=374 keep=3
+   not_pos e.g.: ['christian(proper noun)', 'interested(not an adjective)', 'european(proper noun)', 'liberty(not an adjective)', 'british(proper noun)', 'chinese(proper noun)', 'inasmuch(not an adjective)', 'professed(verb form)', 'purpose(not adjective)', 'recognised(verb form)', 'seldom(not adjective)', 'understood(verb form)']
+   unfit   e.g.: ['thou(archaic)']
+   far_above e.g.: []
+   far_below e.g.: ['human0', 'good0', 'great0', 'general1', 'moral2', 'many0', 'much0', 'public1', 'social2', 'free0', 'true1', 'strong1']

@@ -1,0 +1,7 @@
+phase 0: 90 generated, kept 82; verdicts {'true': 82, 'misleading': 7, 'false': 1}; per domain {'animals': 11, 'plants_weather': 15, 'body': 15, 'math': 14, 'tools': 15, 'people': 12}
+phase 1: 105 generated, kept 94; verdicts {'true': 94, 'misleading': 7, 'false': 4}; per domain {'animals': 14, 'plants_weather': 12, 'body': 13, 'math': 13, 'tools': 14, 'places': 14, 'history': 14}
+phase 2: 105 generated, kept 101; verdicts {'true': 101, 'misleading': 2, 'false': 2}; per domain {'animals': 14, 'plants_weather': 15, 'body': 15, 'math': 15, 'tools': 13, 'places': 14, 'history': 15}
+phase 3: 105 generated, kept 101; verdicts {'true': 101, 'misleading': 4}; per domain {'science': 15, 'biology': 13, 'body': 14, 'math': 15, 'places': 15, 'history': 15, 'tech': 14}
+phase 4: 105 generated, kept 101; verdicts {'true': 101, 'false': 2, 'misleading': 2}; per domain {'science': 15, 'biology': 15, 'math': 13, 'economics': 14, 'history': 15, 'places': 15, 'tech': 14}
+phase 5: 105 generated, kept 102; verdicts {'true': 102, 'misleading': 2, 'false': 1}; per domain {'science_method': 14, 'economics': 15, 'civics': 15, 'psychology': 15, 'history': 15, 'environment': 14, 'math': 14}
+phase 6: 105 generated, kept 101; verdicts {'true': 101, 'too_easy': 1, 'misleading': 2, 'false': 1}; per domain {'philosophy': 15, 'economics': 15, 'science_method': 15, 'history': 14, 'statistics': 14, 'tech': 14, 'language': 14}
