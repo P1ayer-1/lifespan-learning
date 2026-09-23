@@ -75,6 +75,14 @@ DOMAINS = {
 # content-type key -> domains that fit that activity, best first. Keys not
 # listed (or with no match in the phase) fall back to a uniform draw.
 CONTENT_DOMAIN_PREFS = {
+    # learning arcs (arcs.yaml, 2026-09-23 curriculum map)
+    "learning_math": ["math", "statistics", "economics"], "learning_reading": ["language", "history", "people"],
+    "learning_writing": ["language", "people", "history"], "learning_science_nature": ["animals", "plants_weather", "body", "science"],
+    "learning_earth_space": ["plants_weather", "places", "science", "environment"], "learning_geography": ["places", "environment", "plants_weather"],
+    "learning_civics": ["civics", "people", "history"], "learning_economics_money": ["economics", "math", "people"],
+    "learning_second_language": ["language", "places", "people"], "learning_drama_speaking": ["language", "psychology", "people"],
+    "learning_technology_tools": ["tech", "tools", "statistics"], "learning_practical_life": ["tools", "math", "body", "people"],
+    "learning_social_skills": ["psychology", "people", "civics"],
     "learning_physics": ["science", "tools", "tech"], "learning_chemistry": ["science", "tools"],
     "learning_biology": ["biology", "animals", "plants_weather", "body"], "learning_history": ["history"],
     "learning_cooking": ["science", "math", "body", "tools"], "learning_to_code": ["tech", "math", "statistics"],
@@ -102,6 +110,34 @@ CONTENT_DOMAIN_PREFS = {
 }
 
 
+# Fallback for content keys not listed above (the 2026-09-23 config rewrite
+# added ~90 keys): words in the key pick domains, best first.
+KEYWORD_DOMAINS = [
+    (("money", "budget", "allowance", "price", "shop", "job", "work", "interest", "debt", "tax", "rent", "market", "business", "union", "labour", "labor"), ["economics", "math", "people"]),
+    (("vote", "election", "law", "rule", "civic", "government", "court", "rights", "contract", "community", "leader"), ["civics", "people", "history"]),
+    (("map", "trip", "travel", "move", "country", "culture", "geograph", "camp", "hike", "weather", "season", "climate", "recycl", "waste", "environment", "garden", "farm", "food_chain"), ["places", "environment", "plants_weather"]),
+    (("science", "experiment", "hypothesis", "lab", "physics", "chemistry", "machine", "invention", "measure", "unit"), ["science", "tools", "math"]),
+    (("animal", "pet", "zoo", "bird", "insect", "nature", "plant", "tree"), ["animals", "plants_weather", "biology"]),
+    (("sick", "doctor", "dentist", "tooth", "hospital", "puberty", "health", "sleep", "body", "injur", "allerg", "mental", "feeling", "emotion"), ["body", "biology", "psychology"]),
+    (("computer", "phone", "online", "chat", "digital", "internet", "privacy", "media", "news", "advertis", "technology", "screen", "game"), ["tech", "psychology", "statistics"]),
+    (("history", "museum", "ancestor", "tradition", "holiday", "religio", "cultural", "ceremony"), ["history", "places", "philosophy"]),
+    (("math", "count", "number", "shape", "time", "clock", "statistic", "poll", "probab", "data", "chance", "score"), ["math", "statistics"]),
+    (("friend", "sibling", "family", "argument", "share", "team", "club", "party", "sleepover", "social", "kind", "apolog", "bully", "identity", "belong"), ["psychology", "people", "civics"]),
+    (("read", "book", "library", "story", "write", "letter", "language", "word", "speak", "debate", "drama", "perform", "music", "song", "art", "draw", "craft"), ["language", "history", "people"]),
+    (("cook", "bake", "recipe", "kitchen"), ["science", "math", "body"]),
+    (("sport", "race", "swim", "bike", "ball", "run", "tryout", "competition"), ["body", "science", "psychology"]),
+]
+
+
+def keyword_domains(content_key: str) -> list[str]:
+    key = content_key.lower()
+    out: list[str] = []
+    for words, domains in KEYWORD_DOMAINS:
+        if any(w in key for w in words):
+            out.extend(d for d in domains if d not in out)
+    return out
+
+
 class FactBank:
     """Domain and (optional) fact sampling for one phase. All draws use the
     generator's seeded rng, so prompts stay byte-identical for a seed."""
@@ -123,7 +159,10 @@ class FactBank:
         return bool(self.facts)
 
     def _preferred(self, content_key: str, available: set[str]) -> list[str]:
-        return [d for d in CONTENT_DOMAIN_PREFS.get(content_key, []) if d in available]
+        prefs = CONTENT_DOMAIN_PREFS.get(content_key)
+        if prefs is None:
+            prefs = keyword_domains(content_key)
+        return [d for d in prefs if d in available]
 
     def sample(self, content_key: str) -> tuple[str, str, str]:
         """Return (domain_description, fact, hook). fact and hook are "" when no bank exists."""

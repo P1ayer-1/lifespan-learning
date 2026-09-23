@@ -1,264 +1,711 @@
+# Learning arcs: one subject per arc, graded by tier (0 = junior kindergarten ... 13 = grade 12).
+# Each goal completes the sentence "What <Name> is learning: ..." in a story prompt.
+
 arcs:
-
-  - key: learning_hygiene
-    description: learning hygiene
-
-    arcs:
-      basic_learning:
-        min_tier: 0
-        max_tier: 5
-        goal: basic hygiene concepts such as learning to brush teeth, learning to wash hands, or learning to take a bath
-
-      advanced_learning:
-        min_tier: 6
-        max_tier: 13
-        goal: more complex hygiene concepts such as learning to maintain good personal hygiene, learning to use hygiene products effectively, or learning to follow proper hygiene practices
-
-    shared_locations:
+  - key: learning_math
+    description: mathematics
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to count a group of up to ten objects and say which of two groups has more"}
+      - {min_tier: 2, max_tier: 3, goal: "to add and subtract within twenty using a number line"}
+      - {min_tier: 4, max_tier: 5, goal: "to multiply and divide within one hundred using the times tables up to ten"}
+      - {min_tier: 6, max_tier: 7, goal: "to add and subtract fractions with unlike denominators by finding a common denominator"}
+      - {min_tier: 8, max_tier: 9, goal: "to solve linear equations with one variable by doing the same operation to both sides"}
+      - {min_tier: 10, max_tier: 11, goal: "to factor quadratic expressions and find where a parabola crosses the x-axis"}
+      - {min_tier: 12, max_tier: 13, goal: "to find the derivative of a polynomial function and use it to locate a maximum"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to multiply small numbers by making equal groups"}
+      - {min_tier: 4, max_tier: 5, goal: "to compare and order fractions with different denominators using fraction strips"}
+      - {min_tier: 6, max_tier: 7, goal: "to solve two-step equations and plot the line they describe on a coordinate grid"}
+      - {min_tier: 8, max_tier: 9, goal: "to prove two triangles congruent using the side-angle-side rule"}
+      - {min_tier: 10, max_tier: 11, goal: "to evaluate the limit of a function as x approaches a number by simplifying the expression"}
+      - {min_tier: 12, max_tier: 13, goal: "to compute the integral of a function to find the area under a curve"}
+    locations:
       - at home
       - at school
-      - at grandparent's house
-      - at a friend's house
-      - at a community center
-      - at a music store
-      - at a band practice room
-
-    shared_banned_tones:
-      - imaginative
-  - key: learning_music
-    description: learning music
-
-    arcs:
-      basic_learning:
-        min_tier: 0
-        max_tier: 3
-        goal: simple music concepts such as learning to sing a song, learning to play a simple instrument, or learning to dance to music
-
-      advanced_learning:
-        min_tier: 3
-        max_tier: 13
-        goal: more complex music concepts such as learning to read music, learning to play a more complex instrument, or learning to dance to more complex music
-
-    shared_locations:
-      - at home
-      - at school
-      - at grandparent's house
-      - at a friend's house
-      - at a community center
-      - at a music store
-      - at a band practice room
-
-    shared_banned_tones:
+      - at the kitchen table
+      - in the school library
+      - at a grandparent's house
+      - at a tutoring centre
+      - at a math club meeting
+      - in a corner store
+      - at the community centre
+    banned_tones:
       - imaginative
 
-  - key: learning_sports
-    description: learning sports
-
-    arcs:
-      basic_learning:
-        min_tier: 0
-        max_tier: 3
-        goal: learning to play sports such as learning to throw and catch a ball, learning to kick a ball, or learning to swim
-
-      advanced_learning:
-        min_tier: 1
-        max_tier: 6
-        goal: learning to do more complex sports activities such as learning to play a team sport, learning to do a sport competitively, or learning to do a sport at a high level
-    shared_locations:
+  - key: learning_reading
+    description: reading
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to recognise the letters of the alphabet and the sound each letter makes"}
+      - {min_tier: 2, max_tier: 3, goal: "to blend letter sounds to read short words and read a picture book aloud with expression"}
+      - {min_tier: 4, max_tier: 5, goal: "to retell the main events of a chapter book in order and describe the main character"}
+      - {min_tier: 6, max_tier: 7, goal: "to find the theme of a novel and back it up with a quotation from the text"}
+      - {min_tier: 8, max_tier: 9, goal: "to spot foreshadowing and symbolism in a short story and explain what they suggest"}
+      - {min_tier: 10, max_tier: 11, goal: "to compare how two poems use imagery and metaphor to convey the same feeling"}
+      - {min_tier: 12, max_tier: 13, goal: "to analyse an unreliable narrator in a novel and how the point of view shapes the reader's trust"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to read a chapter book independently and summarise what happened in each chapter"}
+      - {min_tier: 4, max_tier: 5, goal: "to infer a character's motives from clues the author gives rather than direct statements"}
+      - {min_tier: 6, max_tier: 7, goal: "to track how a symbol changes meaning across the chapters of a novel"}
+      - {min_tier: 8, max_tier: 9, goal: "to read a Shakespeare scene and paraphrase the speeches into modern English"}
+      - {min_tier: 10, max_tier: 11, goal: "to compare the narrator's perspective in two novels written in different centuries"}
+      - {min_tier: 12, max_tier: 13, goal: "to apply a feminist or Marxist critical lens to a passage from a classic novel"}
+    locations:
       - at home
       - at school
-      - at grandparent's house
-      - at a friend's house
-      - at a community center
-      - at a sports field
-      - at a gym
-      - at a sports club
-      - during a sports practice
-    
-    shared_banned_tones:
+      - in the school library
+      - at the public library
+      - in a bookshop
+      - at a grandparent's house
+      - on the school bus
+      - in a reading nook at home
+      - at a book club meeting
+    banned_tones:
       - imaginative
 
-
-  - key: learning_to_code
-    description: learning to code
-
-    arcs:
-      basic_learning:
-        min_tier: 10
-        max_tier: 13
-        goal: basic coding concepts such as learning to write simple programs, learning to use basic programming syntax, or learning to debug simple code
-      advanced_learning:
-        min_tier: 10
-        max_tier: 13
-        goal: more complex coding concepts such as learning to write more complex programs, learning to use more advanced programming syntax, or learning to debug more complex code
-
-    shared_locations:
+  - key: learning_writing
+    description: writing
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to hold a pencil correctly and write the letters of their own first name"}
+      - {min_tier: 2, max_tier: 3, goal: "to write a complete sentence with a capital letter at the start and a period at the end"}
+      - {min_tier: 4, max_tier: 5, goal: "to write a paragraph with a topic sentence and three supporting details"}
+      - {min_tier: 6, max_tier: 7, goal: "to write a five-paragraph persuasive essay with an introduction and a conclusion"}
+      - {min_tier: 8, max_tier: 9, goal: "to write a short story with correctly punctuated dialogue and a clear climax"}
+      - {min_tier: 10, max_tier: 11, goal: "to write a literary analysis essay with a thesis statement and cited quotations"}
+      - {min_tier: 12, max_tier: 13, goal: "to write a research paper with an argument, footnotes and a bibliography in a standard citation style"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to write a story with a beginning, a middle and an end using time-order words"}
+      - {min_tier: 4, max_tier: 5, goal: "to write an opinion letter to the school principal with reasons and a polite closing"}
+      - {min_tier: 6, max_tier: 7, goal: "to revise a draft by cutting weak adjectives and varying sentence length"}
+      - {min_tier: 8, max_tier: 9, goal: "to write a thesis statement and outline a three-point argument before drafting"}
+      - {min_tier: 10, max_tier: 11, goal: "to write a personal essay for a university application that shows rather than tells"}
+      - {min_tier: 12, max_tier: 13, goal: "to write a critical review comparing two scholarly articles on the same question"}
+    locations:
       - at home
       - at school
-      - at grandparent's house
-      - at a friend's house
-      - at a community center
-      - at a coding bootcamp
-      
-
-    shared_banned_tones:
-      - imaginative
-    
-  - key: learning_cooking
-    description: learning to cook
-
-    arcs:
-      basic_learning:
-        min_tier: 4
-        max_tier: 8
-        goal: basic cooking skills such as learning to follow a simple recipe, learning to use basic kitchen tools, or learning to cook simple meals
-      advanced_learning:
-        min_tier: 6
-        max_tier: 13
-        goal: more complex cooking skills such as learning to create more complex recipes, learning to use more advanced kitchen tools, or learning to cook more complex meals
-
-    shared_locations:
-      - at home
-      - at school
-      - at grandparent's house
-      - at a friend's house
-      - at a community center
-      - at a cooking class
-
-    shared_banned_tones:
+      - in the school library
+      - at the public library
+      - at the kitchen table
+      - in a cafe
+      - at a grandparent's house
+      - at a writing club meeting
+    banned_tones:
       - imaginative
 
-  - key: learning_religious_or_cultural_practices
-    description: learning religious or cultural practices
-
-    arcs:
-      basic_learning:
-        min_tier: 0
-        max_tier: 3
-        goal: basic religious or cultural practices such as learning to say a prayer, learning to do a cultural dance, or learning to celebrate a religious holiday
-      advanced_learning:
-        min_tier: 2
-        max_tier: 13
-        goal: more complex religious or cultural practices such as learning to do a religious ceremony, learning to do a cultural ritual, or learning to celebrate a religious or cultural holiday
-
-    shared_locations:
+  - key: learning_science_nature
+    description: early science and nature
+    basic_learning:
+      - {min_tier: 0, max_tier: 0, goal: "to name the five senses and say which body part is used for each"}
+      - {min_tier: 1, max_tier: 1, goal: "to sort objects by whether they sink or float in a tub of water"}
+      - {min_tier: 2, max_tier: 2, goal: "to plant a bean seed and record how it sprouts a root, a stem and leaves"}
+      - {min_tier: 3, max_tier: 3, goal: "to describe the life cycle of a butterfly from egg to caterpillar to chrysalis to adult"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 2, goal: "to sort materials into solids, liquids and gases and describe how each one behaves"}
+      - {min_tier: 3, max_tier: 3, goal: "to explain how water evaporates, condenses and falls as rain in the water cycle"}
+    locations:
       - at home
       - at school
-      - at grandparent's house
-      - at a friend's house
-      - at a community center
-      - at a religious or cultural center
-      - during a religious or cultural ceremony
-
-    shared_banned_tones:
+      - in the backyard
+      - at the park
+      - on a nature trail
+      - at a farm
+      - in the kitchen
+      - at the beach
+      - at a grandparent's house
+    banned_tones:
       - imaginative
-
-  - key: learning_art
-    description: learning art
-
-    arcs:
-      basic_learning:
-        min_tier: 0
-        max_tier: 3
-        goal: basic art concepts such as learning to draw simple shapes, learning to use basic art materials, or learning to create simple art projects
-      advanced_learning:
-        min_tier: 1
-        max_tier: 13
-        goal: more complex art concepts such as learning to draw more complex shapes, learning to use more advanced art materials, or learning to create more complex art projects
-
-    shared_locations:
-      - at home
-      - at school
-      - at grandparent's house
-      - at a friend's house
-      - at a community center
-      - at an art class
+      - suspenseful
 
   - key: learning_physics
-    description: learning physics
-
-    arcs:
-      basic_learning:
-        min_tier: 4
-        max_tier: 9
-        goal: basic physics concepts such as learning about gravity, learning about motion, or learning about energy
-      advanced_learning:
-        min_tier: 10
-        max_tier: 13
-        goal: more complex physics concepts such as learning about quantum mechanics, learning about relativity, or learning about astrophysics
-
-    shared_locations:
-      - at home
+    description: physics
+    basic_learning:
+      - {min_tier: 4, max_tier: 5, goal: "to test which objects a magnet attracts and describe a push or pull as a force"}
+      - {min_tier: 6, max_tier: 7, goal: "to build a simple circuit with a battery, a switch and a bulb and explain why it lights"}
+      - {min_tier: 8, max_tier: 9, goal: "to measure the speed of a rolling ball from distance and time and draw a distance-time graph"}
+      - {min_tier: 10, max_tier: 11, goal: "to apply Newton's second law to calculate the acceleration of a cart pulled by a known force"}
+      - {min_tier: 12, max_tier: 13, goal: "to solve projectile motion problems by separating horizontal and vertical velocity components"}
+    advanced_learning:
+      - {min_tier: 4, max_tier: 5, goal: "to compare how far a toy car rolls on carpet and on tile and explain the difference using friction"}
+      - {min_tier: 6, max_tier: 7, goal: "to explain how sound travels as vibrations and why it moves faster through water than air"}
+      - {min_tier: 8, max_tier: 9, goal: "to calculate the resistance of a wire from measured voltage and current using Ohm's law"}
+      - {min_tier: 10, max_tier: 11, goal: "to calculate the momentum of two carts before and after a collision to show it is conserved"}
+      - {min_tier: 12, max_tier: 13, goal: "to compute the electric field strength at a point between two charged plates"}
+    locations:
       - at school
-      - at a friend's house
+      - at home
+      - in a school science lab
+      - at a science fair
+      - in a garage
       - at a science museum
-
-    shared_banned_tones:
+      - at the playground
+      - in the backyard
+      - at a skate park
+    banned_tones:
       - imaginative
 
   - key: learning_chemistry
-    description: learning chemistry
-
-    arcs:
-      basic_learning:
-        min_tier: 4
-        max_tier: 9
-        goal: basic chemistry concepts such as learning about atoms, learning about molecules, or learning about chemical reactions
-      advanced_learning:
-        min_tier: 10
-        max_tier: 13
-        goal: more complex chemistry concepts such as learning about organic chemistry, learning about biochemistry, or learning about physical chemistry
-
-    shared_locations:
-      - at home
+    description: chemistry
+    basic_learning:
+      - {min_tier: 4, max_tier: 5, goal: "to separate a mixture of sand, salt and water by filtering and evaporating"}
+      - {min_tier: 6, max_tier: 7, goal: "to tell a physical change like melting from a chemical change like rusting or burning"}
+      - {min_tier: 8, max_tier: 9, goal: "to read the periodic table and find the number of protons in an element from its atomic number"}
+      - {min_tier: 10, max_tier: 11, goal: "to balance a chemical equation so the atoms on each side of the arrow match"}
+      - {min_tier: 12, max_tier: 13, goal: "to calculate the moles of a product formed from a given mass of reactant using molar mass"}
+    advanced_learning:
+      - {min_tier: 4, max_tier: 5, goal: "to mix baking soda and vinegar and explain that a new gas has been made"}
+      - {min_tier: 6, max_tier: 7, goal: "to build a model of an atom with protons, neutrons and electrons in the right places"}
+      - {min_tier: 8, max_tier: 9, goal: "to test whether a solution is an acid or a base using litmus paper and the pH scale"}
+      - {min_tier: 10, max_tier: 11, goal: "to work out how many grams of carbon dioxide come from burning a measured mass of methane"}
+      - {min_tier: 12, max_tier: 13, goal: "to predict how a change in temperature shifts a reaction at equilibrium using Le Chatelier's principle"}
+    locations:
       - at school
-      - at a friend's house
+      - at home
+      - in a school science lab
+      - in the kitchen
+      - at a science fair
       - at a science museum
-
-    shared_banned_tones:
+      - in a garage
+      - at a grandparent's house
+    banned_tones:
       - imaginative
-    
 
   - key: learning_biology
-    description: learning biology
-
-    arcs:
-      basic_learning:
-        min_tier: 4
-        max_tier: 9
-        goal: basic biology concepts such as learning about cells, learning about organisms, or learning about ecosystems
-      advanced_learning:
-        min_tier: 10
-        max_tier: 13
-        goal: more complex biology concepts such as learning about genetics, learning about evolution, or learning about ecology
-
-    shared_locations:
-      - at home
+    description: biology
+    basic_learning:
+      - {min_tier: 4, max_tier: 5, goal: "to label the roots, stem, leaves and flower of a plant and say what each part does"}
+      - {min_tier: 6, max_tier: 7, goal: "to draw a food chain from the sun to a top predator and explain what happens when one link disappears"}
+      - {min_tier: 8, max_tier: 9, goal: "to look at onion skin cells under a microscope and label the cell wall, membrane and nucleus"}
+      - {min_tier: 10, max_tier: 11, goal: "to use a Punnett square to predict the chance a child inherits brown or blue eyes"}
+      - {min_tier: 12, max_tier: 13, goal: "to explain how DNA is copied and turned into protein through transcription and translation"}
+    advanced_learning:
+      - {min_tier: 4, max_tier: 5, goal: "to explain how the heart pumps blood through the lungs and around the body"}
+      - {min_tier: 6, max_tier: 7, goal: "to compare a plant cell and an animal cell and name the parts only plants have"}
+      - {min_tier: 8, max_tier: 9, goal: "to describe how natural selection changed the beak shapes of finches on different islands"}
+      - {min_tier: 10, max_tier: 11, goal: "to compare the stages of mitosis and meiosis and explain why sex cells have half the chromosomes"}
+      - {min_tier: 12, max_tier: 13, goal: "to trace the steps of cellular respiration from glucose to ATP in the mitochondria"}
+    locations:
       - at school
-      - at a friend's house
+      - at home
+      - in a school science lab
+      - in the backyard
+      - at a farm
+      - on a nature trail
       - at a science museum
+      - at a pond
+      - at a veterinary clinic
+      - at a community garden
+    banned_tones:
+      - imaginative
 
-    shared_banned_tones:
+  - key: learning_earth_space
+    description: earth and space science
+    basic_learning:
+      - {min_tier: 4, max_tier: 5, goal: "to explain why the Sun seems to rise and set by modelling Earth spinning on its axis"}
+      - {min_tier: 6, max_tier: 7, goal: "to sort rocks as igneous, sedimentary or metamorphic by how they were formed"}
+      - {min_tier: 8, max_tier: 9, goal: "to explain how the tilt of Earth's axis causes the seasons"}
+      - {min_tier: 10, max_tier: 11, goal: "to explain how tectonic plates move and cause earthquakes and volcanoes along their edges"}
+      - {min_tier: 12, max_tier: 13, goal: "to explain how greenhouse gases trap heat and read a graph of carbon dioxide over the last century"}
+    advanced_learning:
+      - {min_tier: 4, max_tier: 5, goal: "to name the eight planets in order from the Sun and say why the outer ones are cold"}
+      - {min_tier: 6, max_tier: 7, goal: "to explain the phases of the Moon by modelling it circling Earth with a lamp and a ball"}
+      - {min_tier: 8, max_tier: 9, goal: "to explain how a river carves a canyon over millions of years through erosion and deposition"}
+      - {min_tier: 10, max_tier: 11, goal: "to explain how a star is born from a cloud of gas and ends as a white dwarf or supernova"}
+      - {min_tier: 12, max_tier: 13, goal: "to read an ocean current map and explain how the Gulf Stream warms northern Europe"}
+    locations:
+      - at school
+      - at home
+      - in the backyard
+      - at a planetarium
+      - at a science museum
+      - on a camping trip
+      - at the beach
+      - on a hiking trail
+      - at a rock quarry
+      - at a grandparent's house
+    banned_tones:
       - imaginative
 
   - key: learning_history
-    description: learning history
+    description: history
+    basic_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to make a timeline of their own life from birth to now with a picture for each year"}
+      - {min_tier: 4, max_tier: 5, goal: "to describe how the first peoples of their region lived before European settlers arrived"}
+      - {min_tier: 6, max_tier: 7, goal: "to explain why ancient Egyptians built the pyramids and how the Nile shaped their farming"}
+      - {min_tier: 8, max_tier: 9, goal: "to use a primary source like a settler's diary to explain why people moved west in the 1800s"}
+      - {min_tier: 10, max_tier: 11, goal: "to explain the chain of events that started the First World War and the role of alliances"}
+      - {min_tier: 12, max_tier: 13, goal: "to weigh two historians' differing explanations of the Cold War against the evidence"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to compare how children went to school a hundred years ago with school today using old photographs"}
+      - {min_tier: 4, max_tier: 5, goal: "to explain how the Silk Road connected China and Rome and what goods travelled along it"}
+      - {min_tier: 6, max_tier: 7, goal: "to explain why the Roman Empire split and fell using a map of its borders"}
+      - {min_tier: 8, max_tier: 9, goal: "to explain how the Treaty of Versailles helped lead to the Second World War"}
+      - {min_tier: 10, max_tier: 11, goal: "to compare newspaper coverage of the civil rights movement from two different cities"}
+      - {min_tier: 12, max_tier: 13, goal: "to write a historiographical essay on how views of the French Revolution have changed since 1800"}
+    locations:
+      - at school
+      - at home
+      - at a history museum
+      - in the school library
+      - at a grandparent's house
+      - at a historic site
+      - at the public library
+      - at a war memorial
+      - in a city archive
+    banned_tones:
+      - imaginative
 
-    arcs:
-      basic_learning:
-        min_tier: 3
-        max_tier: 6
-        goal: basic history concepts such as learning about historical events, learning about historical figures, or learning about historical time periods
-      advanced_learning:
-        min_tier: 7
-        max_tier: 13
-        goal: more complex history concepts such as learning about historical causes and effects, learning about historical interpretations, or learning about historical debates
+  - key: learning_geography
+    description: geography
+    basic_learning:
+      - {min_tier: 1, max_tier: 3, goal: "to draw a map of their bedroom or classroom with a key showing where each thing is"}
+      - {min_tier: 4, max_tier: 5, goal: "to find their home country on a globe and name the continents and oceans around it"}
+      - {min_tier: 6, max_tier: 7, goal: "to read latitude and longitude on a map to give the location of a city"}
+      - {min_tier: 8, max_tier: 9, goal: "to compare the climate of a desert and a rainforest using rainfall and temperature graphs"}
+      - {min_tier: 10, max_tier: 11, goal: "to explain why cities grow where rivers meet or harbours shelter ships using a settlement map"}
+      - {min_tier: 12, max_tier: 13, goal: "to analyse a population pyramid to predict whether a country will need more schools or nursing homes"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to use a compass rose to give directions from the school to the park on a neighbourhood map"}
+      - {min_tier: 4, max_tier: 5, goal: "to use the scale bar on a map to work out the real distance between two towns"}
+      - {min_tier: 6, max_tier: 7, goal: "to read contour lines on a topographic map to find the steepest slope of a hill"}
+      - {min_tier: 8, max_tier: 9, goal: "to explain how a monsoon forms and why it matters for rice farming in South Asia"}
+      - {min_tier: 10, max_tier: 11, goal: "to map the supply chain of a smartphone from mines to factories to stores"}
+      - {min_tier: 12, max_tier: 13, goal: "to use a geographic information system to overlay flood risk and housing on a city map"}
+    locations:
+      - at school
+      - at home
+      - on a road trip
+      - at the public library
+      - on a hiking trail
+      - at a grandparent's house
+      - at an airport
+      - at a travel agency
+      - on a camping trip
+    banned_tones:
+      - imaginative
 
-    shared_locations:
+  - key: learning_civics
+    description: civics and government
+    basic_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to explain why the class has rules and help vote on one new rule for the classroom"}
+      - {min_tier: 4, max_tier: 5, goal: "to name the jobs of a mayor and a city council and what services the city provides"}
+      - {min_tier: 6, max_tier: 7, goal: "to explain how a bill becomes a law by passing through the legislature"}
+      - {min_tier: 8, max_tier: 9, goal: "to read the rights listed in their country's constitution or charter and explain one in their own words"}
+      - {min_tier: 10, max_tier: 11, goal: "to explain how a federal election works from nominating candidates to counting votes"}
+      - {min_tier: 12, max_tier: 13, goal: "to argue both sides of a Supreme Court case about free speech before a mock court"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to run a classroom election with candidates, speeches and a secret ballot"}
+      - {min_tier: 4, max_tier: 5, goal: "to explain the difference between the three branches of government and what each does"}
+      - {min_tier: 6, max_tier: 7, goal: "to explain how a citizen can petition a councillor to change a local bylaw"}
+      - {min_tier: 8, max_tier: 9, goal: "to compare a first-past-the-post election with proportional representation using a sample vote count"}
+      - {min_tier: 10, max_tier: 11, goal: "to write a legal brief arguing one side of a case about student privacy at school"}
+      - {min_tier: 12, max_tier: 13, goal: "to compare how a parliamentary and a presidential system choose and remove a head of government"}
+    locations:
+      - at school
+      - at home
+      - at city hall
+      - at a town hall meeting
+      - at a polling station
+      - at the public library
+      - at a courthouse
+      - at a grandparent's house
+      - at a community centre
+    banned_tones:
+      - imaginative
+
+  - key: learning_economics_money
+    description: economics and money
+    basic_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to tell the difference between a need and a want and sort pictures into each group"}
+      - {min_tier: 4, max_tier: 5, goal: "to plan a budget for a class party by adding up prices and staying under a total"}
+      - {min_tier: 6, max_tier: 7, goal: "to explain supply and demand using the price of strawberries in summer and winter"}
+      - {min_tier: 8, max_tier: 9, goal: "to compare simple and compound interest on a savings account over five years"}
+      - {min_tier: 10, max_tier: 11, goal: "to read a pay stub and explain where the income tax and other deductions go"}
+      - {min_tier: 12, max_tier: 13, goal: "to explain how a central bank raising interest rates slows inflation"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to run a classroom lemonade stand and work out whether it made a profit"}
+      - {min_tier: 4, max_tier: 5, goal: "to explain why a rare trading card costs more than a common one using scarcity"}
+      - {min_tier: 6, max_tier: 7, goal: "to compare the cost of borrowing money on a credit card with saving up first"}
+      - {min_tier: 8, max_tier: 9, goal: "to compare a stock and a bond and explain which is riskier and why"}
+      - {min_tier: 10, max_tier: 11, goal: "to explain what gross domestic product measures and why it can rise while people feel poorer"}
+      - {min_tier: 12, max_tier: 13, goal: "to explain comparative advantage and why two countries both gain from trading"}
+    locations:
       - at home
       - at school
-      - at a friend's house
-      - at a museum
-
-    shared_banned_tones:
+      - at the grocery store
+      - at a bank
+      - at a farmers' market
+      - at a lemonade stand
+      - at a grandparent's house
+      - at a shopping mall
+      - at a part-time job
+    banned_tones:
       - imaginative
+
+  - key: learning_second_language
+    description: a second language
+    basic_learning:
+      - {min_tier: 5, max_tier: 6, goal: "to greet someone, say their name and count to twenty in a new language"}
+      - {min_tier: 7, max_tier: 8, goal: "to describe their family and pets in a new language using full sentences"}
+      - {min_tier: 9, max_tier: 10, goal: "to order a meal in a restaurant in a new language and ask how much it costs"}
+      - {min_tier: 11, max_tier: 12, goal: "to talk about what they did last weekend using the past tense in a new language"}
+      - {min_tier: 13, max_tier: 13, goal: "to read a short news article in a new language and summarise it aloud"}
+    advanced_learning:
+      - {min_tier: 5, max_tier: 6, goal: "to write a short letter to a pen pal in a new language about their hobbies"}
+      - {min_tier: 7, max_tier: 8, goal: "to ask for directions in a new language and understand the answer"}
+      - {min_tier: 9, max_tier: 10, goal: "to write a paragraph in a new language about plans for next year using the future tense"}
+      - {min_tier: 11, max_tier: 12, goal: "to watch a short film in a new language without subtitles and discuss it"}
+      - {min_tier: 13, max_tier: 13, goal: "to debate a current issue entirely in a new language for five minutes"}
+    locations:
+      - at school
+      - at home
+      - at a language class
+      - at a grandparent's house
+      - in a restaurant
+      - on a family trip abroad
+      - at a cultural festival
+      - at a friend's house
+      - in the school library
+    banned_tones:
+      - imaginative
+
+  - key: learning_music
+    description: music
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to clap along to the steady beat of a song and sing a nursery rhyme from memory"}
+      - {min_tier: 2, max_tier: 3, goal: "to play a simple rhythm on a drum or xylophone by reading quarter notes and rests"}
+      - {min_tier: 4, max_tier: 5, goal: "to play a short tune on the recorder by reading notes on the treble clef"}
+      - {min_tier: 6, max_tier: 7, goal: "to sing in two-part harmony with a choir and hold their part against the other"}
+      - {min_tier: 8, max_tier: 9, goal: "to play a piece with dynamics and tempo changes in a band or on the piano"}
+      - {min_tier: 10, max_tier: 11, goal: "to identify the chords in a pop song by ear and play them on guitar or keyboard"}
+      - {min_tier: 12, max_tier: 13, goal: "to compose a sixteen-bar melody with chord changes and write it in standard notation"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to find the notes of C major on a keyboard and play a scale with the right fingering"}
+      - {min_tier: 4, max_tier: 5, goal: "to read a two-line piano piece with both hands playing at once"}
+      - {min_tier: 6, max_tier: 7, goal: "to tune a violin or guitar by ear using a reference note"}
+      - {min_tier: 8, max_tier: 9, goal: "to improvise a blues solo over a twelve-bar chord progression"}
+      - {min_tier: 10, max_tier: 11, goal: "to write four-part harmony that follows the rules of voice leading"}
+      - {min_tier: 12, max_tier: 13, goal: "to analyse the sonata form of a Mozart movement by marking its exposition, development and recapitulation"}
+    locations:
+      - at home
+      - at school
+      - in the music room at school
+      - at a music teacher's studio
+      - at a grandparent's house
+      - in a garage
+      - at a concert hall
+      - at a community centre
+      - at a place of worship
+      - at a friend's house
+    banned_tones:
+      - imaginative
+
+  - key: learning_art
+    description: visual art
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to name the primary colours and mix two of them to make a new colour"}
+      - {min_tier: 2, max_tier: 3, goal: "to draw a self-portrait showing the eyes, nose, mouth and ears in the right places"}
+      - {min_tier: 4, max_tier: 5, goal: "to draw a landscape with a horizon line and make far objects smaller than near ones"}
+      - {min_tier: 6, max_tier: 7, goal: "to shade a sphere with a light source to show highlight, shadow and cast shadow"}
+      - {min_tier: 8, max_tier: 9, goal: "to draw a street using one-point perspective with lines meeting at a vanishing point"}
+      - {min_tier: 10, max_tier: 11, goal: "to paint a still life in acrylic, mixing tints and shades to match what they see"}
+      - {min_tier: 12, max_tier: 13, goal: "to build a portfolio of ten artworks around a single theme with an artist's statement"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to draw a person in proportion using the head as a unit of measure"}
+      - {min_tier: 4, max_tier: 5, goal: "to carve a printing block from a foam sheet and pull a clean print"}
+      - {min_tier: 6, max_tier: 7, goal: "to draw a room in two-point perspective with two vanishing points"}
+      - {min_tier: 8, max_tier: 9, goal: "to paint a portrait in watercolour by layering washes from light to dark"}
+      - {min_tier: 10, max_tier: 11, goal: "to sculpt a figure in clay with an armature so it stands on its own"}
+      - {min_tier: 12, max_tier: 13, goal: "to critique a painting by Frida Kahlo using formal analysis of colour, composition and symbolism"}
+    locations:
+      - at home
+      - at school
+      - in the art room at school
+      - at an art gallery
+      - at a community art studio
+      - at the kitchen table
+      - at a grandparent's house
+      - in the backyard
+      - at a summer camp
+    banned_tones:
+      - suspenseful
+      - tense
+
+  - key: learning_drama_speaking
+    description: drama, public speaking and debate
+    basic_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to show and tell about a favourite toy in three clear sentences while looking at the audience"}
+      - {min_tier: 4, max_tier: 5, goal: "to memorise lines for a class play and say them loudly enough for the back row"}
+      - {min_tier: 6, max_tier: 7, goal: "to give a two-minute speech with an opening hook, three points and a closing"}
+      - {min_tier: 8, max_tier: 9, goal: "to improvise a scene with a partner by accepting each offer with yes, and"}
+      - {min_tier: 10, max_tier: 11, goal: "to argue one side of a debate resolution and rebut the other team's strongest point"}
+      - {min_tier: 12, max_tier: 13, goal: "to direct a one-act play by blocking the actors' movements and running rehearsals"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to act out a fairy tale with classmates using different voices for each character"}
+      - {min_tier: 4, max_tier: 5, goal: "to give a one-minute speech about a hobby without reading from notes"}
+      - {min_tier: 6, max_tier: 7, goal: "to perform a monologue from a play using pauses and gestures to show emotion"}
+      - {min_tier: 8, max_tier: 9, goal: "to build a debate case with a claim, evidence and a warrant for each point"}
+      - {min_tier: 10, max_tier: 11, goal: "to deliver a persuasive speech at an assembly using rhetorical questions and repetition"}
+      - {min_tier: 12, max_tier: 13, goal: "to write and stage a ten-minute play about a moment from their own life"}
+    locations:
+      - at school
+      - at home
+      - in the school gym
+      - at a community theatre
+      - in the school auditorium
+      - at a debate tournament
+      - at a drama camp
+      - in the living room
+      - at a grandparent's house
+    banned_tones:
+      - suspenseful
+      - tense
+
+  - key: learning_sports
+    description: sports and physical education
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to throw a beanbag into a hoop and catch a large ball with both hands"}
+      - {min_tier: 2, max_tier: 3, goal: "to skip with a rope ten times in a row and kick a ball to a partner"}
+      - {min_tier: 4, max_tier: 5, goal: "to dribble a soccer ball around cones and pass to a teammate on the move"}
+      - {min_tier: 6, max_tier: 7, goal: "to swim twenty-five metres front crawl with side breathing"}
+      - {min_tier: 8, max_tier: 9, goal: "to run an eight-hundred-metre race pacing the first lap so there is energy for the second"}
+      - {min_tier: 10, max_tier: 11, goal: "to serve a volleyball overhand into the far court and set up a spike"}
+      - {min_tier: 12, max_tier: 13, goal: "to plan a weekly training program for a sport with rest days and warm-ups"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to hit a ball off a tee and run to first base"}
+      - {min_tier: 4, max_tier: 5, goal: "to shoot a basketball layup with the correct footwork off the right foot"}
+      - {min_tier: 6, max_tier: 7, goal: "to hurdle a row of low hurdles with a three-step rhythm between them"}
+      - {min_tier: 8, max_tier: 9, goal: "to call plays as a point guard and run a pick and roll"}
+      - {min_tier: 10, max_tier: 11, goal: "to referee a junior soccer game and apply the offside rule correctly"}
+      - {min_tier: 12, max_tier: 13, goal: "to coach a younger team by planning drills that fix a specific weakness in their passing"}
+    locations:
+      - at school
+      - in the school gym
+      - at the community pool
+      - at the park
+      - on a soccer field
+      - at a basketball court
+      - at a running track
+      - in the backyard
+      - at a hockey rink
+      - at a baseball diamond
+    banned_tones:
+      - imaginative
+
+  - key: learning_health_hygiene
+    description: health and hygiene
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to wash their hands with soap for twenty seconds before eating and after the toilet"}
+      - {min_tier: 2, max_tier: 3, goal: "to brush their teeth twice a day for two minutes and floss with help"}
+      - {min_tier: 4, max_tier: 5, goal: "to sort foods into the food groups and plan a balanced lunch"}
+      - {min_tier: 6, max_tier: 7, goal: "to understand the changes of puberty and why daily showers and deodorant matter"}
+      - {min_tier: 8, max_tier: 9, goal: "to recognise signs of stress and use deep breathing and sleep routines to manage it"}
+      - {min_tier: 10, max_tier: 11, goal: "to explain how vaping and alcohol affect the developing brain and how to refuse them"}
+      - {min_tier: 12, max_tier: 13, goal: "to explain consent, contraception and how to get tested for infections at a clinic"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to read a food label to find the sugar in a cereal box"}
+      - {min_tier: 4, max_tier: 5, goal: "to explain why the body needs eight hours of sleep and set up a bedtime routine"}
+      - {min_tier: 6, max_tier: 7, goal: "to recognise the warning signs of anxiety in a friend and know who to tell"}
+      - {min_tier: 8, max_tier: 9, goal: "to explain how nicotine causes addiction in the brain's reward pathway"}
+      - {min_tier: 10, max_tier: 11, goal: "to check a mole using the ABCDE rule and explain why sunscreen matters"}
+      - {min_tier: 12, max_tier: 13, goal: "to interpret a blood pressure reading and explain how diet and exercise change it"}
+    locations:
+      - at home
+      - at school
+      - in the bathroom
+      - at a doctor's office
+      - at a dentist's office
+      - in the kitchen
+      - at a grandparent's house
+      - at a pharmacy
+      - at a summer camp
+    banned_tones:
+      - imaginative
+      - wry
+      - tense
+
+  - key: learning_cooking
+    description: cooking
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to spread butter on toast and pour milk into a cup without spilling"}
+      - {min_tier: 2, max_tier: 3, goal: "to measure a cup of flour and a teaspoon of salt for a batch of pancakes"}
+      - {min_tier: 4, max_tier: 5, goal: "to crack an egg cleanly and scramble it in a pan with an adult nearby"}
+      - {min_tier: 6, max_tier: 7, goal: "to follow a recipe to bake muffins from start to finish including preheating the oven"}
+      - {min_tier: 8, max_tier: 9, goal: "to chop an onion safely with the claw grip and make a pasta sauce from scratch"}
+      - {min_tier: 10, max_tier: 11, goal: "to cook a three-course dinner for the family on a set budget"}
+      - {min_tier: 12, max_tier: 13, goal: "to plan a week of meals, shop for the ingredients and cook them in batches"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to make a grilled cheese sandwich on the stove with an adult watching"}
+      - {min_tier: 4, max_tier: 5, goal: "to knead bread dough and tell when it has risen enough"}
+      - {min_tier: 6, max_tier: 7, goal: "to make a roux and turn it into a smooth cheese sauce without lumps"}
+      - {min_tier: 8, max_tier: 9, goal: "to cook rice, a curry and flatbread so they are all ready at the same time"}
+      - {min_tier: 10, max_tier: 11, goal: "to fillet a fish and pan-fry it with crisp skin"}
+      - {min_tier: 12, max_tier: 13, goal: "to temper chocolate so it sets shiny and snaps cleanly"}
+    locations:
+      - in the kitchen
+      - at home
+      - at a grandparent's house
+      - in a school cooking class
+      - at a farmers' market
+      - at a campsite
+      - at a friend's house
+      - in a restaurant kitchen
+      - at a community kitchen
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - tense
+
+  - key: learning_to_code
+    description: coding
+    basic_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to program a floor robot to follow a taped path using forward, left and right commands"}
+      - {min_tier: 4, max_tier: 5, goal: "to build a Scratch animation where a sprite moves and speaks when a key is pressed"}
+      - {min_tier: 6, max_tier: 7, goal: "to use loops and if-then blocks in Scratch to make a game that keeps score"}
+      - {min_tier: 8, max_tier: 9, goal: "to write a Python program that asks for a number and prints whether it is prime"}
+      - {min_tier: 10, max_tier: 11, goal: "to write a Python program with functions and lists that saves a to-do list to a file"}
+      - {min_tier: 12, max_tier: 13, goal: "to implement a binary search and explain why it beats a linear search on sorted data"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to make a Scratch cat move across the screen when the green flag is clicked"}
+      - {min_tier: 4, max_tier: 5, goal: "to use a variable in Scratch to count how many times a sprite is clicked"}
+      - {min_tier: 6, max_tier: 7, goal: "to write a Python loop that prints the times table for any number the user types"}
+      - {min_tier: 8, max_tier: 9, goal: "to build a web page with HTML and style it with CSS so the heading is centred"}
+      - {min_tier: 10, max_tier: 11, goal: "to write a recursive function that computes factorial and trace its calls on paper"}
+      - {min_tier: 12, max_tier: 13, goal: "to build a class in Java with private fields and getter methods and test it"}
+    locations:
+      - at home
+      - at school
+      - in the school computer lab
+      - at a coding club meeting
+      - at the public library
+      - at a robotics competition
+      - at a grandparent's house
+      - at a summer camp
+      - in a friend's basement
+    banned_tones:
+      - imaginative
+
+  - key: learning_technology_tools
+    description: technology tools and online safety
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to turn on a tablet, open a drawing app and put it away when done"}
+      - {min_tier: 2, max_tier: 3, goal: "to log in to a class computer with their own password and open a program from the desktop"}
+      - {min_tier: 4, max_tier: 5, goal: "to type with both hands on the home row keys without looking at the keyboard"}
+      - {min_tier: 6, max_tier: 7, goal: "to search the web with specific keywords and tell an ad from a real result"}
+      - {min_tier: 8, max_tier: 9, goal: "to build a spreadsheet with a formula that adds a column and makes a bar chart"}
+      - {min_tier: 10, max_tier: 11, goal: "to spot a phishing email and set up two-factor authentication on an account"}
+      - {min_tier: 12, max_tier: 13, goal: "to check a viral video's source and date with a reverse image search before sharing it"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to type their full name and a sentence using the shift key for capitals"}
+      - {min_tier: 4, max_tier: 5, goal: "to save a document to a shared folder and find it again by its name"}
+      - {min_tier: 6, max_tier: 7, goal: "to create a strong password and explain why the same one should not be reused"}
+      - {min_tier: 8, max_tier: 9, goal: "to use pivot tables in a spreadsheet to summarise survey answers by grade"}
+      - {min_tier: 10, max_tier: 11, goal: "to set up a home router with a new admin password and a guest network"}
+      - {min_tier: 12, max_tier: 13, goal: "to write a database query that joins two tables to find which customers ordered nothing"}
+    locations:
+      - at home
+      - at school
+      - in the school computer lab
+      - at the public library
+      - at a grandparent's house
+      - at a parent's office
+      - at a friend's house
+      - in the living room
+      - at a phone repair shop
+    banned_tones:
+      - imaginative
+
+  - key: learning_practical_life
+    description: practical life skills
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to put on a coat and zip it up by themselves"}
+      - {min_tier: 2, max_tier: 3, goal: "to tie their shoelaces with a double knot"}
+      - {min_tier: 4, max_tier: 5, goal: "to tell the time on an analogue clock to the nearest five minutes"}
+      - {min_tier: 6, max_tier: 7, goal: "to walk to the corner store alone, buy milk and count the change"}
+      - {min_tier: 8, max_tier: 9, goal: "to do a load of laundry from sorting colours to folding"}
+      - {min_tier: 10, max_tier: 11, goal: "to open a bank account and deposit their first paycheque"}
+      - {min_tier: 12, max_tier: 13, goal: "to pass a driving test by practising parallel parking and merging on the highway"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to pack their own school bag and lunch the night before using a checklist"}
+      - {min_tier: 4, max_tier: 5, goal: "to use a bus map to plan which route goes from home to the library"}
+      - {min_tier: 6, max_tier: 7, goal: "to put a bandage on a cut and know when a wound needs a doctor"}
+      - {min_tier: 8, max_tier: 9, goal: "to change a flat bicycle tyre using tyre levers and a pump"}
+      - {min_tier: 10, max_tier: 11, goal: "to file a simple income tax return using their pay slips"}
+      - {min_tier: 12, max_tier: 13, goal: "to compare two apartment leases and work out the total monthly cost including utilities"}
+    locations:
+      - at home
+      - at school
+      - in the kitchen
+      - at a grandparent's house
+      - at the grocery store
+      - at a bus stop
+      - at a driving school
+      - in a garage
+      - at a laundromat
+      - at a bank
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - tense
+
+  - key: learning_religious_or_cultural_practices
+    description: religious or cultural practices
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to say a family blessing or greeting before a shared meal"}
+      - {min_tier: 2, max_tier: 3, goal: "to help light candles or set out decorations for a family holiday and say what they mean"}
+      - {min_tier: 4, max_tier: 5, goal: "to tell the story behind a holiday their family celebrates and why it is held on that date"}
+      - {min_tier: 6, max_tier: 7, goal: "to fast, pray or keep a day of rest for part of a day as their family does and explain why"}
+      - {min_tier: 8, max_tier: 9, goal: "to prepare for a coming-of-age ceremony by learning a reading or prayer by heart"}
+      - {min_tier: 10, max_tier: 11, goal: "to explain the meaning of a sacred text passage to a younger cousin in their own words"}
+      - {min_tier: 12, max_tier: 13, goal: "to lead a holiday meal ceremony from start to finish for the whole family"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to read a short prayer or blessing aloud in the language it is traditionally spoken in"}
+      - {min_tier: 4, max_tier: 5, goal: "to explain the difference between two festivals their community celebrates in the same season"}
+      - {min_tier: 6, max_tier: 7, goal: "to learn a traditional dance or song well enough to perform it at a community gathering"}
+      - {min_tier: 8, max_tier: 9, goal: "to compare how two faiths explain what happens after death"}
+      - {min_tier: 10, max_tier: 11, goal: "to volunteer at a place of worship's food drive and explain how charity fits the faith"}
+      - {min_tier: 12, max_tier: 13, goal: "to debate whether an ancient religious rule still applies in modern life using the text itself"}
+    locations:
+      - at home
+      - at a place of worship
+      - at a grandparent's house
+      - at a cultural festival
+      - in the kitchen
+      - at a community hall
+      - at a family gathering
+      - at a cemetery
+      - at a relative's house
+    banned_tones:
+      - imaginative
+      - wry
+      - suspenseful
+
+  - key: learning_social_skills
+    description: social skills
+    basic_learning:
+      - {min_tier: 0, max_tier: 1, goal: "to share a toy with a classmate and wait for a turn without grabbing"}
+      - {min_tier: 2, max_tier: 3, goal: "to say sorry when they hurt someone's feelings and ask how to make it right"}
+      - {min_tier: 4, max_tier: 5, goal: "to listen to a friend without interrupting and repeat back what they said"}
+      - {min_tier: 6, max_tier: 7, goal: "to settle a disagreement over a game by naming the problem and agreeing on a fair rule"}
+      - {min_tier: 8, max_tier: 9, goal: "to stand up for a classmate being teased without making the situation worse"}
+      - {min_tier: 10, max_tier: 11, goal: "to lead a group project by splitting the tasks and checking in without bossing anyone"}
+      - {min_tier: 12, max_tier: 13, goal: "to give honest feedback to a teammate in a way that is specific and kind"}
+    advanced_learning:
+      - {min_tier: 2, max_tier: 3, goal: "to notice when a friend is sad from their face and ask if they want to talk"}
+      - {min_tier: 4, max_tier: 5, goal: "to include a new student at recess by inviting them into a game"}
+      - {min_tier: 6, max_tier: 7, goal: "to mediate an argument between two friends without taking a side"}
+      - {min_tier: 8, max_tier: 9, goal: "to run a club meeting with an agenda so everyone gets a chance to speak"}
+      - {min_tier: 10, max_tier: 11, goal: "to negotiate a compromise with a parent about curfew by listening to their worries first"}
+      - {min_tier: 12, max_tier: 13, goal: "to interview for a part-time job with confident eye contact and clear answers"}
+    locations:
+      - at home
+      - at school
+      - at the playground
+      - at a friend's house
+      - at a birthday party
+      - at a grandparent's house
+      - at a summer camp
+      - on the school bus
+      - at a team practice
+      - at a family dinner
+    banned_tones:
+      - imaginative
+      - suspenseful

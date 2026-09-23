@@ -1,70 +1,166 @@
+# Story tones. Rendered in the prompt as:
+#   "Tone: <key>: <behavior 1>; <behavior 2>; <behavior 3>."
+# Tiers: 0 = junior kindergarten ... 13 = grade 12.
+
 tones:
   - key: curious
     description: Invites exploration, discovery, and gentle inquiry.
+    min_tier: 0
+    max_tier: 13
     behaviors:
       - Ask gentle wondering questions
       - Highlight noticing and discovery
       - Express interest in how things work
 
   - key: excited
-    description: Expresses enthusiasm, energy, and joyful anticipation.
+    description: Carries eager energy and anticipation about what is happening.
+    min_tier: 0
+    max_tier: 9
     behaviors:
-      - Use enthusiastic language
-      - Show positive anticipation
-      - Celebrate small moments
+      - Keep the pace brisk and eager
+      - Show characters looking forward to things
+      - Let small events feel like big news
 
   - key: playful
-    description: Keeps the mood light, fun, and slightly silly.
+    description: Delights in fun, silliness, and lighthearted invention.
+    min_tier: 0
+    max_tier: 13
     behaviors:
-      - Include light humor or silliness
-      - Use playful exaggeration
-      - Keep the mood fun and bouncy
+      - Enjoy small jokes and silly turns
+      - Let characters tease each other kindly
+      - Treat problems with a light touch
 
   - key: encouraging
-    description: Supports effort, persistence, and confidence-building.
+    description: Cheers characters on through effort and setbacks.
+    min_tier: 0
+    max_tier: 9
     behaviors:
-      - Praise effort rather than results
-      - Support participation
-      - Reinforce trying again
+      - Show effort paying off over time
+      - Let characters support each other's tries
+      - Treat mistakes as part of learning
 
   - key: calm
-    description: Maintains a steady, soothing, and grounded presence.
+    description: Moves at an unhurried, settled, steady pace.
+    min_tier: 0
+    max_tier: 13
     behaviors:
-      - Use slow, simple language
-      - Avoid urgency or conflict
-      - Maintain a soothing rhythm
+      - Keep sentences steady and unhurried
+      - Notice quiet details in the setting
+      - Resolve worries without alarm
 
   - key: gentle
-    description: Guides softly with warmth and careful phrasing.
+    description: Speaks softly and treats every character with tenderness.
+    min_tier: 0
+    max_tier: 6
     behaviors:
-      - Guide softly without commands
-      - Avoid harsh corrections
-      - Use warm and careful wording
+      - Use soft, kind words throughout
+      - Handle feelings with tenderness
+      - Avoid sudden frights or loud moments
 
   - key: reassuring
-    description: Provides emotional safety and reduces uncertainty.
+    description: Makes clear that things will be all right.
+    min_tier: 0
+    max_tier: 6
     behaviors:
-      - Normalize feelings
-      - Emphasize safety and comfort
-      - Resolve uncertainty calmly
+      - Show a trusted grown-up nearby
+      - Name the worry, then ease it
+      - End with safety and comfort
 
   - key: patient
-    description: Allows space for repetition, mistakes, and gradual learning.
+    description: Gives characters time to try, wait, and try again.
+    min_tier: 0
+    max_tier: 6
     behaviors:
-      - Allow repetition of key ideas
-      - Portray mistakes as normal
-      - Respond to errors gently
+      - Let characters take their time
+      - Show waiting as something worthwhile
+      - Repeat attempts without frustration
 
   - key: imaginative
-    description: Encourages creativity, pretend play, and lively ideas.
+    description: Opens the door to pretend, wonder, and invented worlds.
+    min_tier: 0
+    max_tier: 9
     behaviors:
-      - Include pretend or make-believe elements
-      - Let objects or ideas come alive
-      - Encourage playful imagination
+      - Let ordinary things become magical
+      - Follow a character's pretend play
+      - Invent vivid, surprising details
 
   - key: caring
-    description: Emphasizes warmth, kindness, and emotional connection.
+    description: Centers kindness, empathy, and looking after others.
+    min_tier: 0
+    max_tier: 13
     behaviors:
-      - Show warmth and affection
-      - Use nurturing language
-      - Focus on connection and kindness
+      - Show characters noticing others' needs
+      - Let small acts of help matter
+      - Give warmth without announcing it
+
+  - key: wry
+    description: Uses dry, understated humor that trusts the reader to catch it.
+    min_tier: 7
+    max_tier: 13
+    behaviors:
+      - Understate rather than exaggerate
+      - Let the narrator observe without commenting
+      - Place the joke in what goes unsaid
+
+  - key: suspenseful
+    description: Builds tension by withholding information and delaying release.
+    min_tier: 4
+    max_tier: 13
+    behaviors:
+      - Withhold one key fact until late
+      - Slow the pace at the tense moment
+      - Let the reader sense what characters miss
+
+  - key: reflective
+    description: Follows a character thinking back and weighing what happened.
+    min_tier: 7
+    max_tier: 13
+    behaviors:
+      - Let a character weigh a past choice
+      - Move between memory and the present
+      - Leave some judgments unresolved
+
+  - key: tense
+    description: Holds conflict and pressure tightly, without melodrama.
+    min_tier: 9
+    max_tier: 13
+    behaviors:
+      - Keep conflict in short, clipped exchanges
+      - Show pressure through action, not speeches
+      - Restrain emotion so it presses harder
+
+  - key: bittersweet
+    description: Holds gain and loss together in the same moment.
+    min_tier: 9
+    max_tier: 13
+    behaviors:
+      - Pair every gain with a cost
+      - Let the ending be mixed, not tidy
+      - Trust the scene to carry the feeling
+
+  - key: matter-of-fact
+    description: Reports events plainly, precisely, and without sentiment.
+    min_tier: 4
+    max_tier: 13
+    behaviors:
+      - State events plainly, without embellishment
+      - Choose precise, concrete nouns and verbs
+      - Let facts stand without emotional framing
+
+  - key: earnest
+    description: Is sincere and unironic about what genuinely matters.
+    min_tier: 7
+    max_tier: 13
+    behaviors:
+      - Take the characters' concerns seriously
+      - Avoid irony or a knowing wink
+      - Let sincerity risk a little awkwardness
+
+  - key: hopeful
+    description: Looks forward despite real difficulty.
+    min_tier: 2
+    max_tier: 13
+    behaviors:
+      - Acknowledge the difficulty honestly
+      - Point toward a possible better outcome
+      - Let a small step forward count

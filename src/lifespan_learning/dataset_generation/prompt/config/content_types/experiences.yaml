@@ -1,180 +1,886 @@
-experiences:
-  - key: playing_sports
-    min_tier: 1
-    max_tier: 6
-    description: playing sports
-    goal: playing sports
-    banned_tones:
-      - imaginative
-    locations:
-      - at a soccer field
-      - at a basketball court
-      - at a baseball field
-      - at a tennis court
-      - at a swimming pool
-      - at a playground
-      - at a park
-      - at a gymnasium
-      - at a sports complex
-      - on a track
-      - at a skate park
-      - at a dance studio
-      - at a martial arts dojo
-      - at a gymnastics center
-      - at a bowling alley
-      - at a golf course
-      - at a volleyball court
-      - at a hockey rink
-      - at a football field
-      - at a rugby pitch
-      - at a cricket ground
-      - at a lacrosse field
-      - at a rowing club
-      - at a sailing club
-      - at a climbing gym
-      - at a crossfit box
-      - at a yoga studio
-      - at a ski resort
-      - on a street
-      - at a backyard
-      - at a schoolyard
+# Experiences: life events the main character lives through in the story.
+# The prompt reads "<Name> is <goal>." and "The story is set <location>."
 
-  - key: playing_music
-    min_tier: 1
-    max_tier: 13
-    description: playing music
-    goal: playing music
+experiences:
+  - key: first_dentist_visit
+    min_tier: 0
+    max_tier: 3
+    description: a first visit to the dentist
+    goal: "going to the dentist for the first time"
     banned_tones:
       - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at a dental clinic
+      - at home
+      - in a waiting room
+      - in the family car
+      - on a city bus
+      - at a pharmacy
+
+  - key: first_day_of_school
+    min_tier: 0
+    max_tier: 4
+    description: the first day of school
+    goal: "starting the first day of school"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - in a classroom
+      - at home
+      - on a school bus
+      - in a school playground
+      - at a school gate
+      - in a school hallway
+      - in a school cafeteria
+
+  - key: losing_first_tooth
+    min_tier: 1
+    max_tier: 3
+    description: losing a first tooth
+    goal: "losing a first wobbly tooth"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
     locations:
       - at home
-      - at school
-      - at a music studio
-      - at a concert hall
-      - at a recording studio
-      - at a music store
-      - at a band practice room
-      - at a karaoke bar
-      - at a music festival
-      - on a street corner
-      - in a car
-      - in the backyard
-      - in the living room
+      - in a classroom
+      - at a family dinner table
+      - in a school playground
+      - at a grandparent's house
+      - at a dental clinic
+
+  - key: birthday_party
+    min_tier: 0
+    max_tier: 6
+    description: a birthday celebration
+    goal: "celebrating a birthday with family and friends"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - in a backyard
+      - at a community hall
+      - at a public park
+      - at a bowling alley
+      - at a swimming pool
+      - at a grandparent's house
+      - in a classroom
+
+  - key: new_sibling
+    min_tier: 0
+    max_tier: 5
+    description: the arrival of a new sibling
+    goal: "welcoming a new baby brother or sister into the family"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - at a hospital
+      - in a nursery room
+      - at a grandparent's house
+      - in the family car
+      - at a baby supply store
+      - in a backyard
+
+  - key: getting_a_pet
+    min_tier: 0
+    max_tier: 8
+    description: bringing home a first pet
+    goal: "bringing home a first pet and learning to care for it"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - at an animal shelter
+      - at a pet store
+      - at a veterinary clinic
+      - in a backyard
+      - at a public park
+      - on a neighborhood street
+
+  - key: family_trip
+    min_tier: 0
+    max_tier: 10
+    description: a family trip away from home
+    goal: "going on a family trip away from home"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - in a hotel room
+      - at a campsite
+      - in the family car
+      - at an airport
+      - on a train
+      - at a beach
+      - at a roadside diner
+      - at a national park
+      - at a relative's house
+      - on a ferry
+
+  - key: snow_day
+    min_tier: 0
+    max_tier: 7
+    description: a surprise snow day
+    goal: "spending a surprise snow day at home"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - in a backyard
+      - on a snowy neighborhood street
+      - at a sledding hill
+      - at a public park
+      - at a neighbor's house
+      - in a family kitchen
+
+  - key: power_cut
+    min_tier: 0
+    max_tier: 9
+    description: an evening without electricity
+    goal: "getting through an evening power cut at home"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - in a living room lit by candles
+      - at a grandparent's house
+      - in an apartment building
+      - at a neighbor's house
+      - in a backyard
+      - at a farmhouse
+
+  - key: being_sick
+    min_tier: 0
+    max_tier: 9
+    description: recovering from an illness at home
+    goal: "recovering from a cold or flu at home"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+      - playful
+      - excited
+    locations:
+      - at home
+      - in a bedroom
+      - at a doctor's office
+      - at a pharmacy
+      - on a living room couch
+      - at a grandparent's house
+      - in a family kitchen
+
+  - key: school_trip
+    min_tier: 2
+    max_tier: 9
+    description: a school field trip
+    goal: "going on a school field trip with the class"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - on a school bus
+      - at a museum
+      - at a zoo
+      - at a science center
+      - at a farm
+      - at a historic site
+      - at an aquarium
+      - at a nature reserve
+      - at a fire station
+
+  - key: moving_to_new_town
+    min_tier: 1
+    max_tier: 13
+    description: moving to a new town
+    goal: "moving to a new town and leaving old friends behind"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - in a moving truck
+      - in an empty new house
+      - on a new neighborhood street
+      - in a new classroom
+      - at a farewell party
+      - in the family car
+      - at a new school
+      - in an apartment building
+
+  - key: grandparent_visit
+    min_tier: 0
+    max_tier: 8
+    description: a grandparent's visit
+    goal: "hosting a grandparent who comes to stay for a week"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - at an airport
+      - at a train station
+      - in a family kitchen
+      - at a public park
+      - in a backyard
+      - at a local market
+      - in a guest bedroom
+
+  - key: lost_item
+    min_tier: 0
+    max_tier: 5
+    description: searching for a lost favorite toy
+    goal: "searching for a lost favorite toy"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - in a school playground
+      - at a public park
+      - at a grocery store
+      - in the family car
+      - at a grandparent's house
+      - at a daycare center
+      - on a city bus
+
+  - key: first_bike_ride
+    min_tier: 1
+    max_tier: 5
+    description: learning to ride a bike
+    goal: "learning to ride a bike without training wheels"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - on a quiet neighborhood street
+      - at a public park
+      - in a driveway
+      - on a bike path
+      - in an empty parking lot
+      - in a backyard
+      - at a schoolyard on the weekend
+
+  - key: first_performance
+    min_tier: 1
+    max_tier: 7
+    description: a first stage performance
+    goal: "performing on stage for the first time in a school concert"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - in a school auditorium
+      - backstage at a school concert
+      - at home
+      - in a music classroom
+      - at a community theater
+      - in a school gymnasium
+      - in a dressing room
+
+  - key: team_tryout
+    min_tier: 5
+    max_tier: 11
+    description: trying out for a team
+    goal: "trying out for a school sports team"
+    banned_tones:
+      - imaginative
+    locations:
+      - in a school gymnasium
+      - on a sports field
+      - at a running track
+      - at a swimming pool
+      - in a locker room
+      - at home
+      - at an ice rink
+      - on a basketball court
+
+  - key: competition
+    min_tier: 3
+    max_tier: 10
+    description: competing in a spelling bee
+    goal: "competing in a spelling bee"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - in a school auditorium
+      - in a classroom
+      - at home
+      - at a public library
+      - in a school gymnasium
+      - at a community center
+      - on a school bus
+
+  - key: volunteering
+    min_tier: 6
+    max_tier: 13
+    description: volunteering in the community
+    goal: "volunteering at a community food bank for the first time"
+    banned_tones:
+      - imaginative
+    locations:
+      - at a community food bank
+      - at a soup kitchen
+      - at an animal shelter
+      - at a seniors' residence
+      - at a community garden
+      - at a public library
+      - at a neighborhood cleanup
+      - at home
+
+  - key: first_date
+    min_tier: 9
+    max_tier: 13
+    description: a first date
+    goal: "going on a first date"
+    banned_tones:
+      - imaginative
+    locations:
+      - at a coffee shop
+      - at a movie theater
+      - at a public park
+      - at a bowling alley
+      - at an ice cream shop
+      - at a school football game
+      - at a mall
+      - at a skating rink
+      - at home
+
+  - key: argument_with_friend
+    min_tier: 2
+    max_tier: 12
+    description: falling out with a friend
+    goal: "falling out with a best friend and making up"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - in a school playground
+      - in a classroom
+      - at home
+      - on a school bus
+      - at a public park
+      - in a school cafeteria
+      - at a friend's house
+      - in a family group chat
+      - on a neighborhood street
+
+  - key: bereavement
+    min_tier: 3
+    max_tier: 13
+    description: the loss of a grandparent
+    goal: "saying goodbye to a grandparent who has died"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+      - playful
+      - excited
+    locations:
+      - at home
+      - at a grandparent's house
+      - at a family gathering
+      - in a place of worship
+      - at a cemetery
+      - in the family car
+      - at a hospital
+      - in a family kitchen
+
+  - key: first_vote
+    min_tier: 13
+    max_tier: 13
+    description: voting for the first time
+    goal: "voting in an election for the first time at eighteen"
+    banned_tones:
+      - imaginative
+    locations:
+      - at a polling station
+      - at home
+      - at a community hall
+      - in a high school classroom
+      - at a coffee shop
+      - at a dinner table with family
+      - at a computer at home
+
+  - key: graduation
+    min_tier: 13
+    max_tier: 13
+    description: graduating from high school
+    goal: "graduating from high school"
+    banned_tones:
+      - imaginative
+    locations:
+      - in a high school gymnasium
+      - at an outdoor graduation ceremony
+      - at home
+      - in a school parking lot
+      - at a family celebration dinner
+      - in a school hallway
+      - at a graduation party
+      - at a restaurant
+
+  - key: playing_sports
+    min_tier: 0
+    max_tier: 13
+    description: playing a sport
+    goal: "playing on a sports team for the season"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - on a soccer field
+      - in a school gymnasium
+      - at an ice rink
+      - at a swimming pool
+      - on a baseball diamond
+      - on a basketball court
+      - at a community center
+      - in a backyard
+      - at a public park
+
+  - key: playing_music
+    min_tier: 0
+    max_tier: 13
+    description: learning a musical instrument
+    goal: "learning to play a musical instrument"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - in a music classroom
+      - at a music teacher's studio
+      - in a school band room
+      - at a community center
+      - in a garage
+      - at a grandparent's house
+      - in a school auditorium
 
   - key: watching_sports
     min_tier: 0
     max_tier: 13
-    description: watching sports
-    goal: watching sports
+    description: watching a big game
+    goal: "watching a big game with family and friends"
     banned_tones:
       - imaginative
+      - suspenseful
+      - wry
     locations:
       - at home
-      - at school
-      - at a stadium
-      - at a sports arena
-      - at grandparent's house
-      - at a friend's house
-      - at a community center
-      - at a gymnasium
-      - at a sports complex
+      - in a sports stadium
+      - at an ice rink
+      - at a grandparent's house
+      - at a neighbor's house
+      - in a living room
+      - at a community sports field
+      - at a restaurant with a big screen
 
-  - key: drawing_or_crafting
-    min_tier: 1
-    max_tier: 13
-    description: drawing or crafting
-    goal: drawing or crafting
-    banned_tones:
-      - imaginative
-    locations:
-      - at home
-      - at school
-      - at the library
-      - in a playroom
-      - at mealtime
-      - at the playground
-      - at daycare
-      - at the store
-      - at grandparent's house
-
-  - key: cooking_or_baking
-    min_tier: 1
-    max_tier: 13
-    description: cooking or baking
-    goal: cooking or baking
-    banned_tones:
-      - imaginative
-    locations:
-      - at home
-      - at school
-      - at grandparent's house
-
-  - key: religious_or_cultural_events
+  - key: drawing_crafting
     min_tier: 0
     max_tier: 13
-    description: attending religious or cultural events
-    goal: attending religious or cultural events
+    description: making an art project
+    goal: "making an art or craft project"
     banned_tones:
       - imaginative
+      - suspenseful
+      - wry
     locations:
-      - at a church
-      - at a mosque
-      - at a temple
-      - at a synagogue
+      - at home
+      - in an art classroom
+      - at a kitchen table
+      - at a community art studio
+      - at a public library
+      - at a grandparent's house
+      - in a backyard
+      - at a summer camp
+
+  - key: cooking_baking
+    min_tier: 0
+    max_tier: 13
+    description: cooking or baking for the family
+    goal: "cooking or baking a meal for the family"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - in a family kitchen
+      - at a grandparent's house
+      - at a grocery store
+      - at a farmers' market
+      - in a school cooking classroom
+      - at a community kitchen
+      - in a backyard
+      - at a campsite
+
+  - key: religious_cultural_event
+    min_tier: 0
+    max_tier: 13
+    description: a religious or cultural celebration
+    goal: "attending a religious or cultural celebration with family"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - in a place of worship
+      - at a community hall
+      - at home
+      - at a grandparent's house
+      - at a street festival
       - at a cultural center
-      - at a community event
-      - at a festival
-      - at a parade
-      - at a ceremony
-      - at a religious gathering
-
-  - key: first_day_of_school
-    min_tier: 0
-    max_tier: 13
-    description: experiencing the first day of school
-    goal: experiencing the first day of school
-    banned_tones:
-      - imaginative
-    locations:
-      - at school
+      - at a family gathering
+      - at a public park
 
   - key: puberty
     min_tier: 5
-    max_tier: 10
-    description: experiencing puberty
-    goal: experiencing puberty
+    max_tier: 9
+    description: the changes of puberty
+    goal: "noticing the changes of growing up and puberty"
     banned_tones:
       - imaginative
+      - suspenseful
+      - playful
+      - wry
     locations:
-      - at school
       - at home
+      - in a bedroom
+      - at a doctor's office
+      - in a school health classroom
       - at a friend's house
-      - at grandparent's house
+      - in a school locker room
+      - at a pharmacy
+      - in the family car
 
-  - key: first_date 
-    min_tier: 7
-    max_tier: 13
-    description: experiencing the first date
-    goal: going on a first date
+  - key: sleepover
+    min_tier: 2
+    max_tier: 7
+    description: a first sleepover
+    goal: "going to a first sleepover at a friend's house"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at a friend's house
+      - in a friend's bedroom
+      - in a basement rec room
+      - in a backyard tent
+      - at home
+      - at a cousin's house
+      - in a living room full of sleeping bags
+
+  - key: science_fair
+    min_tier: 4
+    max_tier: 9
+    description: a school science fair
+    goal: "building a project for the school science fair"
     banned_tones:
       - imaginative
     locations:
-      - at the movies
-      - at a restaurant
-      - at a park
-      - at a carnival
-      - at a beach
-      - at a zoo
-      - at a museum
-      - at a concert
-      - at a sports game
+      - in a school gymnasium
+      - at home
+      - in a science classroom
+      - at a kitchen table
+      - in a garage
+      - at a public library
+      - in a backyard
+      - at a hardware store
+
+  - key: first_job
+    min_tier: 11
+    max_tier: 13
+    description: a first part-time job
+    goal: "getting a first part-time job"
+    banned_tones:
+      - imaginative
+    locations:
+      - at a grocery store
+      - at a fast food restaurant
       - at a coffee shop
-      - at a bowling alley
-      - at a mini golf course
-      - at an arcade
-      - at a fair
-      - at a festival
-      - at a picnic
-      - at a hiking trail
-      - at a rooftop
-      - at a rock climbing gym
+      - at a movie theater
+      - at a summer day camp
+      - at a local hardware store
+      - at a swimming pool as a lifeguard
+      - at home
+      - at a restaurant
+
+  - key: driving_lesson
+    min_tier: 12
+    max_tier: 13
+    description: a first driving lesson
+    goal: "taking a first driving lesson"
+    banned_tones:
+      - imaginative
+    locations:
+      - in an empty parking lot
+      - on a quiet suburban street
+      - in the family car
+      - at a driving school
+      - on a country road
+      - at a licensing office
+      - in a driveway
+      - at home
+
+  - key: college_application
+    min_tier: 13
+    max_tier: 13
+    description: applying to college
+    goal: "applying to college and waiting for the answer"
+    banned_tones:
+      - imaginative
+    locations:
+      - at a computer at home
+      - in a guidance counselor's office
+      - at a college campus tour
+      - at a public library
+      - in a high school classroom
+      - at a kitchen table
+      - at a coffee shop
+      - at a mailbox at home
+
+  - key: learning_to_swim
+    min_tier: 0
+    max_tier: 5
+    description: learning to swim
+    goal: "learning to swim at the local pool"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at a swimming pool
+      - at a community center pool
+      - at a lake
+      - at a beach
+      - in a backyard pool
+      - at a hotel pool
+      - in a pool changing room
+
+  - key: first_haircut
+    min_tier: 0
+    max_tier: 2
+    description: a first haircut
+    goal: "getting a first haircut at a salon"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at a hair salon
+      - at a barbershop
+      - at home
+      - in a waiting room
+      - in the family car
+      - at a mall
+      - at a grandparent's house
+
+  - key: doctor_checkup
+    min_tier: 0
+    max_tier: 4
+    description: a vaccination at the doctor's office
+    goal: "getting a vaccination shot at the doctor's office"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+      - playful
+    locations:
+      - at a doctor's office
+      - in a waiting room
+      - at a health clinic
+      - at home
+      - in the family car
+      - at a pharmacy
+      - at an ice cream shop afterward
+
+  - key: library_card
+    min_tier: 0
+    max_tier: 4
+    description: a first library card
+    goal: "getting a first library card and borrowing a book"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at a public library
+      - at home
+      - in a children's reading corner
+      - on a city bus
+      - in a library storytime room
+      - at a bookmobile
+      - in a bedroom
+
+  - key: planting_garden
+    min_tier: 0
+    max_tier: 8
+    description: planting a vegetable garden
+    goal: "planting a vegetable garden and watching it grow"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - in a backyard
+      - at a community garden
+      - at a garden center
+      - at a grandparent's house
+      - on an apartment balcony
+      - at a school garden
+      - at a farm
+      - at a farmers' market
+
+  - key: summer_camp
+    min_tier: 4
+    max_tier: 10
+    description: going away to summer camp
+    goal: "going away to summer camp for the first time"
+    banned_tones:
+      - imaginative
+    locations:
+      - at a summer camp
+      - in a camp cabin
+      - at a lakeside dock
+      - around a campfire
+      - on a hiking trail
+      - in a camp dining hall
+      - on a camp bus
+      - at home
+      - at a canoe launch
+
+  - key: getting_glasses
+    min_tier: 2
+    max_tier: 9
+    description: a first pair of glasses
+    goal: "getting a first pair of glasses"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at an optometrist's office
+      - at an eyeglasses store
+      - in a classroom
+      - at home
+      - in a school playground
+      - in the family car
+      - at a mall
+      - at a school nurse's office
+
+  - key: broken_arm
+    min_tier: 3
+    max_tier: 11
+    description: a broken arm and a cast
+    goal: "breaking an arm and wearing a cast"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+      - playful
+      - excited
+    locations:
+      - at a hospital emergency room
+      - at home
+      - in a classroom
+      - at a skate park
+      - in a school playground
+      - at a doctor's office
+      - on a sports field
+      - in the family car
+
+  - key: babysitting
+    min_tier: 8
+    max_tier: 12
+    description: a first babysitting job
+    goal: "babysitting a neighbor's child for the first time"
+    banned_tones:
+      - imaginative
+    locations:
+      - at a neighbor's house
+      - in a living room
+      - in a backyard
+      - at a public park
+      - in a family kitchen
+      - at home
+      - at a cousin's house
+      - in a family group chat
+
+  - key: learning_to_read
+    min_tier: 1
+    max_tier: 3
+    description: reading a book alone for the first time
+    goal: "reading a whole book alone for the first time"
+    banned_tones:
+      - imaginative
+      - suspenseful
+      - wry
+    locations:
+      - at home
+      - in a classroom
+      - at a public library
+      - in a bedroom
+      - at a grandparent's house
+      - in a school reading corner
+      - on a living room couch
+
+  - key: first_phone
+    min_tier: 7
+    max_tier: 11
+    description: getting a first phone
+    goal: "getting a first phone and learning to use it responsibly"
+    banned_tones:
+      - imaginative
+    locations:
+      - at home
+      - at a phone store
+      - in a family group chat
+      - in a classroom
+      - on a school bus
+      - at a friend's house
+      - at a kitchen table
+      - at a mall
+
+  - key: school_dance
+    min_tier: 8
+    max_tier: 12
+    description: a first school dance
+    goal: "going to a first school dance"
+    banned_tones:
+      - imaginative
+    locations:
+      - in a school gymnasium
+      - at home
+      - at a clothing store
+      - in a school hallway
+      - at a friend's house
+      - in the family car
+      - in a school parking lot
+      - in a family group chat

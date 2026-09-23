@@ -1,7 +1,8 @@
+from __future__ import annotations
+
 import random
 import yaml
 import json
-from lifespan_learning.dataset_generation.prompt.engine.content_type_registry import ContentTypeRegistry
 
 def load_yaml(path: str) -> dict:
     with open(path, "r", encoding="utf-8") as f:
@@ -11,34 +12,49 @@ def load_list(path: str, key: str = "tiers") -> list[dict]:
     data = load_yaml(path)
     return data[key]
 
-def build_arc_configs(content_type_data: dict):
+ARC_KINDS = ("basic_learning", "advanced_learning")
+
+
+def build_arc_configs(content_type_data: dict) -> dict[str, list[dict]]:
+    """One arc -> {kind: [config, ...]}.
+
+    Two shapes are accepted. The 2026-09-23 shape puts the levels at the top
+    level, each kind a LIST of grade-band levels so one subject (say
+    mathematics) can carry a different concrete goal for every band:
+
+        - key: learning_math
+          description: mathematics
+          basic_learning:
+            - {min_tier: 0, max_tier: 1, goal: "learning to count ..."}
+            - {min_tier: 2, max_tier: 3, goal: "learning to add ..."}
+          advanced_learning:
+            - {min_tier: 4, max_tier: 6, goal: "..."}
+          locations: [...]
+          banned_tones: [...]
+
+    The original shape (levels nested under `arcs:` with one dict per kind,
+    `shared_locations`, `shared_banned_tones`) still loads.
+    """
     key = content_type_data["key"]
     description = content_type_data["description"]
+    levels = content_type_data.get("arcs", content_type_data)
+    shared_locations = content_type_data.get("shared_locations", content_type_data.get("locations", []))
+    shared_banned_tones = content_type_data.get("shared_banned_tones", content_type_data.get("banned_tones", []))
 
-    shared_locations = content_type_data.get("shared_locations", [])
-    shared_banned_tones = content_type_data.get("shared_banned_tones", [])
-
-    def build_config(arc_name: str):
-        arc_data = content_type_data["arcs"][arc_name]
-
-        return {
-            "key": key,
-            "description": description,
-            **arc_data,
-            "locations": [
-                *shared_locations,
-                *arc_data.get("locations", []),
-            ],
-            "banned_tones": [
-                *shared_banned_tones,
-                *arc_data.get("banned_tones", []),
-            ],
-        }
-
-    return (
-        build_config("basic_learning"),
-        build_config("advanced_learning"),
-    )
+    out: dict[str, list[dict]] = {kind: [] for kind in ARC_KINDS}
+    for kind in ARC_KINDS:
+        spec = levels.get(kind)
+        if spec is None:
+            continue
+        for level in (spec if isinstance(spec, list) else [spec]):
+            out[kind].append({
+                "key": key,
+                "description": description,
+                **level,
+                "locations": [*shared_locations, *level.get("locations", [])],
+                "banned_tones": [*shared_banned_tones, *level.get("banned_tones", [])],
+            })
+    return out
 
 
 def load_content_types(paths: list[str], allowed_content_types: list[str], tier: int, rng: random.Random) -> ContentTypeRegistry:
@@ -52,21 +68,22 @@ def load_content_types(paths: list[str], allowed_content_types: list[str], tier:
             # Handle arcs -> basic_learning + advanced_learning
             if content_type == "arcs":
                 for ct in content_type_info:
-                    basic_config, advanced_config = build_arc_configs(ct)
-
-                    if "basic_learning" in allowed_content_types:
-                        if basic_config["min_tier"] <= tier <= basic_config["max_tier"]:
-                            allowed_content_type_data.setdefault("basic_learning", []).append(basic_config)
-
-                    if "advanced_learning" in allowed_content_types:
-                        if advanced_config["min_tier"] <= tier <= advanced_config["max_tier"]:
-                            allowed_content_type_data.setdefault("advanced_learning", []).append(advanced_config)
+                    for kind, configs in build_arc_configs(ct).items():
+                        if kind not in allowed_content_types:
+                            continue
+                        for config in configs:
+                            if config["min_tier"] <= tier <= config["max_tier"]:
+                                allowed_content_type_data.setdefault(kind, []).append(config)
 
             # Handle normal content types
             elif content_type in allowed_content_types:
                 for ct in content_type_info:
                     if ct["min_tier"] <= tier <= ct["max_tier"]:
                         allowed_content_type_data.setdefault(content_type, []).append(ct)
+
+    # imported here, not at module top: engine/__init__ -> phases -> tiers imports this
+    # module, so a top-level import is circular when config_loader is imported first
+    from lifespan_learning.dataset_generation.prompt.engine.content_type_registry import ContentTypeRegistry
 
     return ContentTypeRegistry(allowed_content_type_data, allowed_content_types, rng)
 

@@ -1,8 +1,6 @@
 # tiers.py
-import json
 import random
 from ..config_loader import load_content_types
-from .lexicon import Lexicon
 from .tones import ToneRegistry
 from .features import FeatureRegistry
 from .generation_configs import PromptConfig
@@ -70,7 +68,7 @@ class Tier:
         content_type_key = self.sample_content_type()
         content_type = self.content_type_registry.get(content_type_key)
         banned_tones = content_type.banned_tones
-        tone = self.tone_registry.get(banned_tones)
+        tone = self.tone_registry.get(banned_tones, tier=self.tier)
 
         min_paragraphs, max_paragraphs = self.get_paragraph_counts()
 

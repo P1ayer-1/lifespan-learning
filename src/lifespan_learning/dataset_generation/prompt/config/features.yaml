@@ -1,54 +1,134 @@
+# Optional craft features. A prompt draws zero to three and appends them as:
+#   "Also: include dialogue, include a twist and include sensory details."
+# Each instruction is an imperative craft device, never content or a stated moral.
+# Tiers: 0 = junior kindergarten ... 13 = grade 12.
+
 features:
+  # Young tiers (0-3) and up
   - key: dialogue
     instruction: include dialogue
     min_tier: 0
     max_tier: 13
-    weight: 1.0
+    weight: 1.5
 
-  - key: problem_and_solution
-    instruction: include a problem and solution
+  - key: problem_solution
+    instruction: include a problem and its solution
     min_tier: 0
     max_tier: 13
+    weight: 1.4
+
+  - key: beginning_middle_end
+    instruction: give the story a clear beginning, middle and end
+    min_tier: 0
+    max_tier: 5
     weight: 1.0
 
-  - key: moral_or_lesson
-    instruction: include a moral or lesson
+  - key: repeated_phrase
+    instruction: repeat a phrase for emphasis
     min_tier: 0
-    max_tier: 13
-    weight: 1.0
-
-  - key: clear_structure
-    instruction: include a clear beginning, middle, and end
-    min_tier: 0
-    max_tier: 13
-    weight: 1.0
-
-  - key: repetition_for_emphasis
-    instruction: include repetition for emphasis
-    min_tier: 0
-    max_tier: 13
+    max_tier: 3
     weight: 1.0
 
   - key: sensory_details
-    instruction: include sensory details # wth does this even mean
+    instruction: include sensory details
     min_tier: 0
     max_tier: 13
-    weight: 1.0
+    weight: 1.2
 
+  - key: small_surprise
+    instruction: include a small surprise
+    min_tier: 0
+    max_tier: 5
+    weight: 0.9
+
+  - key: counting_refrain
+    instruction: use a counting or naming refrain
+    min_tier: 0
+    max_tier: 2
+    weight: 0.8
+
+  - key: question_answered
+    instruction: have the character ask a question and answer it
+    min_tier: 0
+    max_tier: 3
+    weight: 0.8
+
+  # Middle tiers (4-9) and up
   - key: humor
     instruction: include humor
-    min_tier: 0
+    min_tier: 4
     max_tier: 13
     weight: 1.0
 
-  - key: twist_or_surprise
-    instruction: include a twist or surprise
-    min_tier: 0
+  - key: twist
+    instruction: include a twist
+    min_tier: 4
+    max_tier: 13
+    weight: 0.9
+
+  - key: flashback
+    instruction: include a flashback
+    min_tier: 5
+    max_tier: 13
+    weight: 0.7
+
+  - key: secondary_want
+    instruction: give a secondary character their own want
+    min_tier: 4
     max_tier: 13
     weight: 1.0
 
-  - key: positive_message
-    instruction: include a positive message
-    min_tier: 0
+  - key: letter_or_message
+    instruction: tell one scene through a letter or message
+    min_tier: 5
     max_tier: 13
-    weight: 1.0
+    weight: 0.6
+
+  - key: change_of_mind
+    instruction: show a character changing their mind
+    min_tier: 4
+    max_tier: 13
+    weight: 0.9
+
+  - key: deadline
+    instruction: put the characters under a deadline
+    min_tier: 4
+    max_tier: 13
+    weight: 0.8
+
+  # Older tiers (9-13)
+  - key: unreliable_narrator
+    instruction: use an unreliable narrator
+    min_tier: 10
+    max_tier: 13
+    weight: 0.5
+
+  - key: open_ending
+    instruction: leave the ending open
+    min_tier: 9
+    max_tier: 13
+    weight: 0.7
+
+  - key: subtext_scene
+    instruction: build a scene that turns on subtext
+    min_tier: 9
+    max_tier: 13
+    weight: 0.9
+
+  - key: pov_shift
+    instruction: shift the point of view partway through
+    min_tier: 10
+    max_tier: 13
+    weight: 0.5
+
+  - key: single_scene
+    instruction: tell the story in one continuous scene
+    min_tier: 9
+    max_tier: 13
+    weight: 0.6
+
+  - key: ironic_reversal
+    instruction: end on an ironic reversal
+    min_tier: 9
+    max_tier: 13
+    weight: 0.6

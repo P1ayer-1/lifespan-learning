@@ -1,318 +1,239 @@
+# One tier per grade, JK through 12. Each tier belongs to a phase (phases.yaml).
+#
+# content_types: what a story is about, drawn by weight.
+#   exposures        the child meets a concept incidentally (config/content_types/exposures.yaml)
+#   experiences      the child lives through an event (experiences.yaml)
+#   basic_learning   the child learns a grade-level curriculum topic (arcs.yaml)
+#   advanced_learning the child learns something a band or two ahead of grade (arcs.yaml)
+# Weights were set per band on 2026-09-23 (before that ten tiers shared one
+# placeholder row): exposure-heavy in kindergarten, learning-heavy from grade
+# 3, with the advanced share rising through high school.
+#
+# age_range: sampled uniformly; two years around the North American norm for
+# the grade (K = 5, grade n = n + 5).
+#
+# paragraph_distribution: the story's maximum paragraph count; the template
+# also states a word range derived from it (engine/story_prompt.py).
 tiers:
   - tier: 0
     grade: junior kindergarten
     content_types:
-      - content_type: exposures
-        weight: 0.5
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.2
+      - {content_type: exposures, weight: 0.45}
+      - {content_type: experiences, weight: 0.35}
+      - {content_type: basic_learning, weight: 0.20}
     description: >
-      Play-based learning focused on socialization, emotional regulation,
-      language exposure, and foundational motor development.
-    age_range: [3, 5]
-    paragraph_distribution: # should I move to phases?
-      - paragraphs: 3
-        weight: 0.55
-      - paragraphs: 4
-        weight: 0.35
-      - paragraphs: 5
-        weight: 0.10
+      Play-based learning: socialization, feelings, language exposure, motor
+      skills, first numbers, colors and shapes.
+    age_range: [3, 4]
+    paragraph_distribution:
+      - {paragraphs: 3, weight: 0.55}
+      - {paragraphs: 4, weight: 0.35}
+      - {paragraphs: 5, weight: 0.10}
 
   - tier: 1
     grade: senior kindergarten
     content_types:
-      - content_type: exposures
-        weight: 0.4
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
+      - {content_type: exposures, weight: 0.40}
+      - {content_type: experiences, weight: 0.35}
+      - {content_type: basic_learning, weight: 0.25}
     description: >
-      Structured play and guided discovery emphasizing early literacy
-      and numeracy awareness, cooperative learning, and growing independence.
-    age_range: [4, 6]
+      Guided discovery: letters and sounds, counting and comparing, cooperative
+      play, routines and growing independence.
+    age_range: [4, 5]
     paragraph_distribution:
-      - paragraphs: 3
-        weight: 0.55
-      - paragraphs: 4
-        weight: 0.35
-      - paragraphs: 5
-        weight: 0.10
+      - {paragraphs: 3, weight: 0.55}
+      - {paragraphs: 4, weight: 0.35}
+      - {paragraphs: 5, weight: 0.10}
 
   - tier: 2
     grade: 1st grade
     content_types:
-      - content_type: exposures
-        weight: 0.2
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.4
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.30}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.30}
+      - {content_type: advanced_learning, weight: 0.10}
     description: >
-      Introduction to formal literacy and numeracy instruction,
-      classroom routines, and foundational academic skill development.
+      Formal literacy and numeracy begin: reading simple sentences, writing
+      words, adding and subtracting within 20, classroom routines.
     age_range: [5, 7]
     paragraph_distribution:
-      - paragraphs: 4
-        weight: 0.55
-      - paragraphs: 5
-        weight: 0.35
-      - paragraphs: 6
-        weight: 0.10
+      - {paragraphs: 4, weight: 0.55}
+      - {paragraphs: 5, weight: 0.35}
+      - {paragraphs: 6, weight: 0.10}
 
   - tier: 3
     grade: 2nd grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.30}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.30}
+      - {content_type: advanced_learning, weight: 0.10}
     description: >
-      Development of reading fluency, structured writing,
-      arithmetic mastery, and increasing academic independence.
+      Reading fluency, short structured writing, place value and two-digit
+      arithmetic, telling time, first science observations.
     age_range: [6, 8]
     paragraph_distribution:
-      - paragraphs: 4
-        weight: 0.55
-      - paragraphs: 5
-        weight: 0.35
-      - paragraphs: 6
-        weight: 0.10
+      - {paragraphs: 4, weight: 0.55}
+      - {paragraphs: 5, weight: 0.35}
+      - {paragraphs: 6, weight: 0.10}
 
   - tier: 4
     grade: 3rd grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.25}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.35}
+      - {content_type: advanced_learning, weight: 0.10}
     description: >
-      Expansion of comprehension skills, multiplication and division foundations,
-      research introduction, and collaborative projects.
+      Reading to learn: chapter books, paragraphs, multiplication and division,
+      fractions, maps, life cycles and habitats, first research.
     age_range: [7, 9]
     paragraph_distribution:
-      - paragraphs: 4
-        weight: 0.55
-      - paragraphs: 5
-        weight: 0.35
-      - paragraphs: 6
-        weight: 0.10
+      - {paragraphs: 4, weight: 0.55}
+      - {paragraphs: 5, weight: 0.35}
+      - {paragraphs: 6, weight: 0.10}
 
   - tier: 5
     grade: 4th grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.25}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.35}
+      - {content_type: advanced_learning, weight: 0.10}
     description: >
-      Strengthening analytical reading, multi-step math problem solving,
-      and independent study habits.
+      Multi-step problems, fractions and decimals, longer writing with
+      structure, regional geography and history, simple experiments.
     age_range: [8, 10]
     paragraph_distribution:
-      - paragraphs: 5
-        weight: 0.55
-      - paragraphs: 6
-        weight: 0.35
-      - paragraphs: 7
-        weight: 0.10
+      - {paragraphs: 5, weight: 0.55}
+      - {paragraphs: 6, weight: 0.35}
+      - {paragraphs: 7, weight: 0.10}
 
   - tier: 6
     grade: 5th grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.25}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.35}
+      - {content_type: advanced_learning, weight: 0.10}
     description: >
-      Critical thinking application across subjects, scientific inquiry skills,
-      and personal responsibility for learning.
+      Critical reading across subjects, essays with evidence, decimals and
+      percentages, the scientific method, national history and government.
     age_range: [9, 11]
     paragraph_distribution:
-      - paragraphs: 5
-        weight: 0.55
-      - paragraphs: 6
-        weight: 0.35
-      - paragraphs: 7
-        weight: 0.10
+      - {paragraphs: 5, weight: 0.55}
+      - {paragraphs: 6, weight: 0.35}
+      - {paragraphs: 7, weight: 0.10}
 
   - tier: 7
     grade: 6th grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.20}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.35}
+      - {content_type: advanced_learning, weight: 0.15}
     description: >
-      Increased academic rigor, abstract reasoning in mathematics,
-      structured research projects, and leadership development.
+      Middle school begins: ratios and negative numbers, expository writing,
+      ancient civilizations, earth and space science, independent projects.
     age_range: [10, 12]
     paragraph_distribution:
-      - paragraphs: 5
-        weight: 0.55
-      - paragraphs: 6
-        weight: 0.35
-      - paragraphs: 7
-        weight: 0.10
+      - {paragraphs: 5, weight: 0.55}
+      - {paragraphs: 6, weight: 0.35}
+      - {paragraphs: 7, weight: 0.10}
 
   - tier: 8
     grade: 7th grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.20}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.35}
+      - {content_type: advanced_learning, weight: 0.15}
     description: >
-      Subject-specific instruction with deeper analytical thinking,
-      introductory algebra, formal lab work, and self-directed learning strategies.
+      Pre-algebra and proportional reasoning, argument writing, life science
+      and cells, world history, formal lab work.
     age_range: [11, 13]
     paragraph_distribution:
-      - paragraphs: 6
-        weight: 0.55
-      - paragraphs: 7
-        weight: 0.35
-      - paragraphs: 8
-        weight: 0.10
+      - {paragraphs: 6, weight: 0.55}
+      - {paragraphs: 7, weight: 0.35}
+      - {paragraphs: 8, weight: 0.10}
 
   - tier: 9
     grade: 8th grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.20}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.35}
+      - {content_type: advanced_learning, weight: 0.15}
     description: >
-      Consolidation of intermediate skills, critical analysis across disciplines,
-      career awareness exploration, and secondary school preparation.
+      Linear equations and functions, physical science, analysis of texts,
+      national history and civics, preparation for secondary school.
     age_range: [12, 14]
     paragraph_distribution:
-      - paragraphs: 6
-        weight: 0.55
-      - paragraphs: 7
-        weight: 0.35
-      - paragraphs: 8
-        weight: 0.10
+      - {paragraphs: 6, weight: 0.55}
+      - {paragraphs: 7, weight: 0.35}
+      - {paragraphs: 8, weight: 0.10}
 
   - tier: 10
     grade: 9th grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.20}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.30}
+      - {content_type: advanced_learning, weight: 0.20}
     description: >
-      Entry into secondary education with credit-based courses,
-      abstract reasoning, scientific methodology, and academic planning.
+      Credit courses begin: algebra, biology, literary analysis, world
+      geography and history, a second language, scientific method in practice.
     age_range: [13, 15]
     paragraph_distribution:
-      - paragraphs: 7
-        weight: 0.55
-      - paragraphs: 8
-        weight: 0.35
-      - paragraphs: 9
-        weight: 0.10
+      - {paragraphs: 7, weight: 0.55}
+      - {paragraphs: 8, weight: 0.35}
+      - {paragraphs: 9, weight: 0.10}
 
   - tier: 11
     grade: 10th grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.20}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.30}
+      - {content_type: advanced_learning, weight: 0.20}
     description: >
-      Expanded discipline-specific competencies, applied research,
-      and increasing autonomy in academic and extracurricular commitments.
+      Geometry and proof, chemistry, rhetoric and research writing, modern
+      history, applied projects, growing autonomy outside school.
     age_range: [14, 16]
     paragraph_distribution:
-      - paragraphs: 7
-        weight: 0.55
-      - paragraphs: 8
-        weight: 0.35
-      - paragraphs: 9
-        weight: 0.10
+      - {paragraphs: 7, weight: 0.55}
+      - {paragraphs: 8, weight: 0.35}
+      - {paragraphs: 9, weight: 0.10}
 
   - tier: 12
     grade: 11th grade
     content_types:
-      - content_type: exposures
-        weight: 0.3
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.3
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.15}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.30}
+      - {content_type: advanced_learning, weight: 0.25}
     description: >
-      Pathway specialization, advanced analytical skill development,
-      experiential learning, and post-secondary preparation.
+      Specialization: functions and trigonometry, physics, economics and
+      government, analytical essays, work and volunteering, planning after
+      school.
     age_range: [15, 17]
     paragraph_distribution:
-      - paragraphs: 8
-        weight: 0.55
-      - paragraphs: 9
-        weight: 0.35
-      - paragraphs: 10
-        weight: 0.10
+      - {paragraphs: 8, weight: 0.55}
+      - {paragraphs: 9, weight: 0.35}
+      - {paragraphs: 10, weight: 0.10}
 
   - tier: 13
     grade: 12th grade
     content_types:
-      - content_type: exposures
-        weight: 0.1
-      - content_type: experiences
-        weight: 0.3
-      - content_type: basic_learning
-        weight: 0.5
-      - content_type: advanced_learning
-        weight: 0.1
+      - {content_type: exposures, weight: 0.15}
+      - {content_type: experiences, weight: 0.30}
+      - {content_type: basic_learning, weight: 0.30}
+      - {content_type: advanced_learning, weight: 0.25}
     description: >
-      Advanced coursework, independent projects or capstone experiences,
-      and transition planning for post-secondary education or workforce entry.
+      Capstones and transition: calculus or statistics, advanced science,
+      philosophy and ethics, independent research, applications, leaving home.
     age_range: [16, 18]
     paragraph_distribution:
-      - paragraphs: 9
-        weight: 0.55
-      - paragraphs: 10
-        weight: 0.35
-      - paragraphs: 11
-        weight: 0.10
+      - {paragraphs: 9, weight: 0.55}
+      - {paragraphs: 10, weight: 0.35}
+      - {paragraphs: 11, weight: 0.10}

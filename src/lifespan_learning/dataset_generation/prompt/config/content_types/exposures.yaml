@@ -1,29 +1,39 @@
 exposures:
+  # ---------------------------------------------------------------
+  # Early years (tiers 0-3): junior kindergarten to grade 2
+  # ---------------------------------------------------------------
+
   - key: number_words
     min_tier: 0
-    max_tier: 0
+    max_tier: 1
     description: rote number words
-    goal: rote number words
+    goal: "the rote number words from one to ten heard in counting songs and everyday counting"
     banned_tones:
       - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
       - at school
       - during a car ride
       - at the library
       - in a playroom
-      - at mealtime
+      - at the dinner table
       - at the playground
       - at daycare
       - at the store
-      - at grandparent's house
+      - at a grandparent's house
 
   - key: object_categories
     min_tier: 0
     max_tier: 1
     description: animals, toys, foods
-    goal: "simple object categories such as: animals, toys and foods"
-    banned_tones: []
+    goal: "simple object categories such as animals, toys and foods"
+    banned_tones:
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
       - at school
@@ -32,27 +42,30 @@ exposures:
       - at the library
       - at the store
       - in a playroom
-      - at mealtime
+      - at the dinner table
       - at daycare
-      - outdoors
+      - in the backyard
 
   - key: time_words
     min_tier: 0
-    max_tier: 1
+    max_tier: 2
     description: yesterday, today, tomorrow
-    goal: basic time concepts such as yesterday, today, tomorrow, now, and later
+    goal: "basic time concepts such as yesterday, today, tomorrow, now and later"
     banned_tones:
       - excited
       - playful
       - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
       - at school
       - at bedtime
-      - at mealtime
+      - at the dinner table
       - at daycare
       - during a car ride
-      - at the bedroom
+      - in the bedroom
       - at the park
       - at the library
       - at the store
@@ -61,10 +74,13 @@ exposures:
     min_tier: 0
     max_tier: 3
     description: turn-taking, fairness
-    goal: basic social rules such as turn-taking, sharing, fairness, and following simple group rules
+    goal: "basic social rules such as turn-taking, sharing, fairness and following simple group rules"
     banned_tones:
       - excited
       - playful
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at school
       - at the playground
@@ -74,51 +90,61 @@ exposures:
       - at the park
       - at the library
       - at the store
-      - at mealtime
-      - at grandparent's house
+      - at the dinner table
+      - at a grandparent's house
 
   - key: colors
     min_tier: 0
     max_tier: 1
     description: basic colors
-    goal: basic color words such as red, blue, yellow, and green
-    banned_tones: []
+    goal: "basic color words such as red, blue, yellow and green"
+    banned_tones:
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
       - at school
       - at the park
-      - at the art table
+      - at the art table in a classroom
       - in a playroom
       - at the store
-      - outdoors
+      - in the backyard
       - at daycare
-      - at grandparent's house
-      - at art class
+      - at a grandparent's house
+      - in art class
 
   - key: shapes
     min_tier: 0
-    max_tier: 1
+    max_tier: 2
     description: basic shapes
-    goal: basic shape concepts such as circle, square, triangle, and rectangle
+    goal: "basic shape concepts such as circle, square, triangle and rectangle"
     banned_tones:
       - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
       - at school
       - in a playroom
-      - at the art table
+      - at the art table in a classroom
       - at the library
       - at daycare
-      - at art class
+      - in art class
+      - in the kitchen
 
   - key: emotions
     min_tier: 0
     max_tier: 2
     description: emotional states
-    goal: basic emotions such as happy, sad, angry, scared, and excited
+    goal: "basic emotions such as happy, sad, angry, scared and excited"
     banned_tones:
       - excited
       - playful
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
       - at school
@@ -126,8 +152,8 @@ exposures:
       - at the playground
       - at daycare
       - at the park
-      - at mealtime
-      - at the bedroom
+      - at the dinner table
+      - in the bedroom
       - at the library
       - at the store
 
@@ -135,18 +161,21 @@ exposures:
     min_tier: 0
     max_tier: 2
     description: everyday activities
-    goal: common daily routines such as eating, sleeping, bathing, and getting dressed
+    goal: "common daily routines such as eating, sleeping, bathing and getting dressed"
     banned_tones:
       - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
-      - at the bathroom
-      - at the bedroom
-      - at the kitchen
-      - at mealtime
+      - in the bathroom
+      - in the bedroom
+      - in the kitchen
+      - at the dinner table
       - at bedtime
       - at daycare
-      - at grandparent's house
+      - at a grandparent's house
       - at school
       - at school pickup
 
@@ -154,10 +183,13 @@ exposures:
     min_tier: 0
     max_tier: 2
     description: social language
-    goal: polite and functional phrases such as please, thank you, sorry, and asking for help
+    goal: "polite and functional phrases such as please, thank you, sorry and asking for help"
     banned_tones:
       - playful
       - excited
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
       - at school
@@ -166,27 +198,30 @@ exposures:
       - at the library
       - at daycare
       - at the park
-      - at mealtime
-      - at grandparent's house
+      - at the dinner table
+      - at a grandparent's house
       - during a car ride
 
   - key: pretend_play
     min_tier: 0
     max_tier: 3
     description: imaginative play
-    goal: pretend play scenarios such as playing house, caring for toys, and role-playing simple situations
+    goal: "pretend play scenarios such as playing house, caring for toys and role-playing simple situations"
     banned_tones:
       - calm
       - patient
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - in a playroom
       - at school
       - at home
-      - outdoors
+      - in the backyard
       - at the park
       - at daycare
       - at the playground
-      - at grandparent's house
+      - at a grandparent's house
       - at a friend's house
       - in a forest
 
@@ -194,69 +229,346 @@ exposures:
     min_tier: 0
     max_tier: 2
     description: basic safety awareness
-    goal: simple safety concepts such as hot vs cold, staying close to caregivers, and not touching dangerous objects
+    goal: "simple safety concepts such as hot versus cold, staying close to caregivers and not touching dangerous objects"
     banned_tones:
       - playful
       - excited
       - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
-      - at the kitchen
-      - at the bathroom
-      - outdoors
+      - in the kitchen
+      - in the bathroom
+      - in the backyard
       - at the playground
       - at the park
       - during a car ride
       - at the store
+
+  - key: print_concepts
+    min_tier: 0
+    max_tier: 1
+    description: how books and print work
+    goal: "the idea that printed words carry meaning and that books are read front to back"
+    banned_tones:
+      - excited
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at home
+      - at the library
+      - at bedtime
+      - at school
+      - at daycare
+      - in the bedroom
+      - at a grandparent's house
+      - at the store
+
+  - key: body_and_senses
+    min_tier: 0
+    max_tier: 2
+    description: body parts and the five senses
+    goal: "the five senses and the body parts used for seeing, hearing, smelling, tasting and touching"
+    banned_tones:
+      - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at home
+      - in the kitchen
+      - in the bathroom
+      - at the park
+      - in the backyard
+      - at school
+      - at daycare
+      - at the dinner table
+      - at the doctor's office
+
+  - key: opposites
+    min_tier: 0
+    max_tier: 2
+    description: opposite word pairs
+    goal: "opposite pairs such as big and small, hot and cold, fast and slow"
+    banned_tones:
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at home
+      - at school
+      - at the playground
+      - in the kitchen
+      - during a car ride
+      - at the park
+      - in a playroom
+      - at daycare
+      - at the store
+
+  - key: weather_words
+    min_tier: 0
+    max_tier: 3
+    description: weather and dressing for it
+    goal: "weather words such as sunny, rainy, windy and snowy and the clothes that go with them"
+    banned_tones:
+      - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at home
+      - at the front door
+      - in the backyard
+      - at the playground
+      - at school
+      - at daycare
+      - during a car ride
+      - at the park
+      - at the bus stop
+
+  - key: living_things_needs
+    min_tier: 1
+    max_tier: 3
+    description: what plants and animals need
+    goal: "the idea that plants and animals need food, water and a place to live"
+    banned_tones:
+      - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - in the backyard
+      - at the park
+      - at home
+      - at school
+      - at a farm
+      - at a pet store
+      - in a garden
+      - at a grandparent's house
+      - in a forest
+
+  - key: calendar_words
+    min_tier: 1
+    max_tier: 3
+    description: days, months and calendars
+    goal: "the days of the week, the months and the idea that a calendar shows when things happen"
+    banned_tones:
+      - imaginative
+      - excited
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at home
+      - at school
+      - in the kitchen
+      - at the dinner table
+      - at daycare
+      - at a grandparent's house
+      - at bedtime
+      - at the library
 
   - key: classroom_language_patterns
     min_tier: 2
     max_tier: 3
     description: exposure to structured classroom language
-    goal: familiarity with instructional phrasing, sequencing words, and simple explanatory patterns used in classrooms
+    goal: "instructional phrasing, sequencing words such as first, next and last, and simple explanatory patterns used in classrooms"
     banned_tones:
       - playful
       - imaginative
       - excited
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at school
       - at the library
+      - in a classroom
+      - in the school gym
+      - in art class
+      - in music class
+      - at an after-school program
 
   - key: community_roles
     min_tier: 2
     max_tier: 3
     description: awareness of community roles and responsibilities
-    goal: passive familiarity with different roles people have in a community and how they contribute
+    goal: "the different roles people have in a community and how each one helps others"
     banned_tones:
       - playful
       - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at school
       - at the library
       - at the store
       - in the neighborhood
+      - at the fire station
+      - at the post office
+      - at the doctor's office
+      - at a community centre
 
   - key: simple_cause_effect
     min_tier: 2
     max_tier: 3
     description: everyday cause and effect patterns
-    goal: noticing that actions and events lead to predictable outcomes in daily situations
+    goal: "the idea that actions and events lead to predictable outcomes in daily situations"
     banned_tones:
       - playful
       - imaginative
       - excited
+      - wry
+      - suspenseful
+      - bittersweet
     locations:
       - at home
       - at school
       - at the playground
       - during a car ride
       - at the park
+      - in the kitchen
+      - in the backyard
+      - in a garden
+
+  - key: map_basics
+    min_tier: 2
+    max_tier: 4
+    description: maps as pictures of places
+    goal: "the idea that a map is a picture of a place seen from above"
+    banned_tones:
+      - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at school
+      - at home
+      - during a car ride
+      - at the park
+      - at the library
+      - at a zoo
+      - at a shopping mall
+      - on a hiking trail
+      - at a bus station
+
+  - key: money_basics
+    min_tier: 2
+    max_tier: 4
+    description: coins, bills and buying things
+    goal: "the idea that coins and bills have different values and are exchanged for things at a store"
+    banned_tones:
+      - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at the store
+      - at a bake sale
+      - at a farmers' market
+      - at home
+      - at school
+      - at a lemonade stand
+      - at a corner store
+      - at a grandparent's house
+
+  - key: measurement_comparison
+    min_tier: 2
+    max_tier: 4
+    description: comparing sizes and amounts
+    goal: "comparing words such as longer, heavier, taller and fuller used when measuring everyday things"
+    banned_tones:
+      - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - in the kitchen
+      - at school
+      - in the backyard
+      - at the store
+      - at the doctor's office
+      - in a garden
+      - at home
+      - at the park
+
+  # ---------------------------------------------------------------
+  # Middle grades (tiers 3-6): grades 2 to 5
+  # ---------------------------------------------------------------
+
+  - key: family_structures
+    min_tier: 3
+    max_tier: 6
+    description: different shapes of families
+    goal: "the many shapes families take, including single parents, stepfamilies, adoptive families and grandparents as caregivers"
+    banned_tones:
+      - imaginative
+      - excited
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at school
+      - at a friend's house
+      - at home
+      - at the dinner table
+      - at school pickup
+      - at a family gathering
+      - at a birthday party
+      - at a community centre
+      - at a grandparent's house
+
+  - key: disability_accessibility
+    min_tier: 3
+    max_tier: 6
+    description: disability and accessible design
+    goal: "the idea that ramps, captions, braille and other supports let people with disabilities take part fully"
+    banned_tones:
+      - imaginative
+      - excited
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - at school
+      - at the library
+      - at a community centre
+      - at a swimming pool
+      - at the store
+      - on a city bus
+      - at a movie theatre
+      - at a friend's house
+      - at the park
+
+  - key: recycling_waste
+    min_tier: 3
+    max_tier: 6
+    description: recycling and where waste goes
+    goal: "where garbage goes and how sorting recycling, compost and trash keeps materials in use"
+    banned_tones:
+      - imaginative
+      - wry
+      - suspenseful
+      - bittersweet
+    locations:
+      - in the kitchen
+      - at school
+      - in the backyard
+      - at the curb on collection day
+      - at a recycling depot
+      - at a community cleanup
+      - at the park
+      - at a grandparent's house
 
   - key: academic_vocabulary_exposure
     min_tier: 4
     max_tier: 6
     description: exposure to subject-specific vocabulary in context
-    goal: familiarity with academic terms encountered naturally during lessons and reading
+    goal: "subject words such as habitat, fraction, paragraph and experiment heard in lessons and reading"
     banned_tones:
       - playful
       - imaginative
@@ -265,26 +577,34 @@ exposures:
       - at school
       - at the library
       - during homework time
+      - in a classroom
+      - at the kitchen table
+      - at a science fair
+      - at a museum
 
   - key: group_norms
     min_tier: 4
     max_tier: 6
     description: exposure to peer collaboration patterns
-    goal: noticing leadership, cooperation, fairness, and shared responsibility within groups
+    goal: "leadership, cooperation, fairness and shared responsibility within groups"
     banned_tones:
       - imaginative
       - excited
     locations:
       - at school
       - at the playground
-      - during group projects
-      - at extracurricular activities
+      - during a group project
+      - at an after-school club
+      - at soccer practice
+      - at a scout meeting
+      - at a birthday party
+      - in the school gym
 
   - key: media_literacy_awareness
     min_tier: 4
     max_tier: 6
     description: noticing differences in types of media messages
-    goal: passive recognition that stories, advertisements, and factual reports serve different purposes
+    goal: "the idea that stories, advertisements and factual reports serve different purposes"
     banned_tones:
       - playful
       - imaginative
@@ -292,72 +612,380 @@ exposures:
     locations:
       - at home
       - at school
-      - online
+      - at a computer at home
       - at the library
+      - in the living room
+      - on a tablet in the car
+      - at a grandparent's house
+
+  - key: units_of_measurement
+    min_tier: 4
+    max_tier: 6
+    description: units of measurement in daily life
+    goal: "everyday units of measurement such as centimetres, cups, kilograms and degrees on labels and tools"
+    banned_tones:
+      - playful
+      - imaginative
+    locations:
+      - in the kitchen
+      - at the store
+      - at the doctor's office
+      - at school
+      - in a garage workshop
+      - at a hardware store
+      - during a car ride
+      - at a swimming pool
+      - in the backyard
+
+  - key: news_vs_advertising
+    min_tier: 4
+    max_tier: 6
+    description: telling news apart from advertising
+    goal: "the clues that show a message is trying to sell something rather than report what happened"
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at home
+      - at a computer at home
+      - in the living room
+      - at school
+      - at the store
+      - during a car ride
+      - at the library
+      - at a shopping mall
+
+  - key: seasons_cause
+    min_tier: 4
+    max_tier: 6
+    description: why seasons change
+    goal: "the idea that seasons change because the tilted Earth travels around the sun"
+    banned_tones:
+      - playful
+      - imaginative
+    locations:
+      - at school
+      - in the backyard
+      - at the park
+      - at a science centre
+      - at a cottage
+      - on a hiking trail
+      - at home
+      - at a grandparent's house
+
+  - key: allowance_budgeting
+    min_tier: 4
+    max_tier: 6
+    description: budgeting an allowance
+    goal: "the idea of budgeting an allowance by choosing between spending now and saving for later"
+    banned_tones:
+      - imaginative
+      - excited
+    locations:
+      - at home
+      - at the store
+      - at a toy store
+      - at the dinner table
+      - at a bank
+      - at a bookstore
+      - at a fair
+      - at a corner store
+
+  - key: class_elections
+    min_tier: 4
+    max_tier: 6
+    description: how class elections work
+    goal: "how a class election works, with nominations, short speeches, secret ballots and counting votes"
+    banned_tones:
+      - imaginative
+      - wry
+    locations:
+      - at school
+      - in a classroom
+      - in the school gym
+      - at a student council meeting
+      - at an after-school club
+      - at home
+      - at the dinner table
+
+  - key: farm_to_table
+    min_tier: 4
+    max_tier: 6
+    description: how food gets from farm to table
+    goal: "how food travels from farms through trucks, warehouses and stores before reaching the table"
+    banned_tones:
+      - playful
+      - imaginative
+    locations:
+      - at a farm
+      - at a farmers' market
+      - at the grocery store
+      - in the kitchen
+      - at the dinner table
+      - at school
+      - at an orchard
+      - at a food bank
+      - at a restaurant
+
+  - key: opinion_vs_checkable_claim
+    min_tier: 6
+    max_tier: 9
+    description: opinions versus checkable claims
+    goal: "the difference between an opinion and a claim that can be checked"
+    banned_tones:
+      - playful
+      - imaginative
+      - excited
+    locations:
+      - at school
+      - at the dinner table
+      - in a group chat
+      - at the library
+      - at a computer at home
+      - at a friend's house
+      - in a science classroom
+      - on the school bus
+
+  # ---------------------------------------------------------------
+  # Upper middle grades (tiers 7-9): grades 6 to 8
+  # ---------------------------------------------------------------
 
   - key: perspective_exposure
     min_tier: 7
     max_tier: 9
     description: encountering multiple viewpoints in discussion
-    goal: becoming accustomed to the idea that people interpret events and ideas differently
+    goal: "the idea that people interpret the same events and ideas differently"
     banned_tones:
       - playful
       - imaginative
       - excited
     locations:
       - at school
-      - during group discussions
-      - at extracurricular activities
-      - online
+      - during a class discussion
+      - at an after-school club
+      - in a group chat
+      - at the dinner table
+      - at a friend's house
+      - at a community centre
+      - at a family gathering
 
   - key: digital_environment_patterns
     min_tier: 7
     max_tier: 9
     description: exposure to norms of online communication
-    goal: familiarity with tone differences, public versus private spaces, and common digital conventions
+    goal: "tone differences, public versus private spaces and common conventions of online communication"
     banned_tones:
       - imaginative
       - excited
     locations:
-      - online
+      - in a group chat
+      - at a computer at home
       - at home
       - at school
+      - in a school computer lab
+      - on a phone at a friend's house
+      - in an online game lobby
+      - on the school bus
 
   - key: identity_language
     min_tier: 7
     max_tier: 9
     description: hearing language related to identity and belonging
-    goal: passive awareness of how individuals and groups describe themselves and their experiences
+    goal: "the ways individuals and groups describe themselves, their heritage and their experiences of belonging"
     banned_tones:
       - playful
       - imaginative
       - excited
     locations:
       - at school
-      - during group discussions
-      - online
-      - at extracurricular activities
+      - during a class discussion
+      - in a group chat
+      - at an after-school club
+      - at a cultural festival
+      - at a family gathering
+      - at a community centre
+      - at a friend's house
+
+  - key: sports_statistics
+    min_tier: 7
+    max_tier: 9
+    description: statistics in sports and news
+    goal: "the way averages, percentages and rankings in sports and news compress many events into one number"
+    banned_tones:
+      - imaginative
+      - playful
+    locations:
+      - at a hockey rink
+      - at a basketball game
+      - in the living room
+      - at school
+      - in a group chat
+      - at a computer at home
+      - on the school bus
+      - at a sports bar with family
+      - at the dinner table
+
+  - key: propaganda_persuasion
+    min_tier: 7
+    max_tier: 9
+    description: propaganda and persuasion techniques
+    goal: "persuasion techniques such as bandwagon appeals, loaded words and celebrity testimonials used in ads and propaganda"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - at school
+      - at a computer at home
+      - in the living room
+      - at a shopping mall
+      - in a history classroom
+      - in a group chat
+      - on a city bus
+      - at the library
+
+  - key: supply_demand_prices
+    min_tier: 7
+    max_tier: 9
+    description: supply and demand in prices
+    goal: "the idea that prices rise when many people want something scarce and fall when it is plentiful"
+    banned_tones:
+      - imaginative
+      - playful
+    locations:
+      - at the grocery store
+      - at a farmers' market
+      - at a concert ticket line
+      - at a garage sale
+      - at a shopping mall
+      - at the dinner table
+      - at a gas station
+      - at school
+      - in an online marketplace
+
+  - key: claims_vs_anecdotes
+    min_tier: 7
+    max_tier: 9
+    description: scientific claims versus anecdotes
+    goal: "the difference between a scientific claim backed by tested evidence and a story about one person's experience"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - in a science classroom
+      - at the dinner table
+      - at a doctor's office
+      - in a group chat
+      - at a pharmacy
+      - at a computer at home
+      - at a family gathering
+      - at the library
+
+  - key: digital_privacy
+    min_tier: 7
+    max_tier: 9
+    description: digital privacy
+    goal: "the idea that posts, photos and location data can be stored, shared and seen by strangers"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - in a group chat
+      - at a computer at home
+      - at school
+      - in a school computer lab
+      - on a phone at a friend's house
+      - at the dinner table
+      - in an online game lobby
+      - at a shopping mall
+
+  - key: cultural_etiquette
+    min_tier: 7
+    max_tier: 9
+    description: cultural etiquette
+    goal: "customs such as greetings, gift-giving and table manners that differ between cultures and households"
+    banned_tones:
+      - imaginative
+      - playful
+    locations:
+      - at a friend's house
+      - at a family gathering
+      - at a cultural festival
+      - at a restaurant
+      - at school
+      - at a place of worship
+      - at a wedding
+      - at a neighbour's house
+      - at a potluck dinner
+
+  - key: mental_health_vocabulary
+    min_tier: 7
+    max_tier: 9
+    description: mental health vocabulary
+    goal: "words such as anxiety, stress, coping and boundaries used to talk about mental health"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - at school
+      - at home
+      - in a guidance counsellor's office
+      - at the dinner table
+      - in a group chat
+      - at a friend's house
+      - in the bedroom
+      - at a doctor's office
+
+  - key: hypothesis_idea
+    min_tier: 7
+    max_tier: 9
+    description: the idea of a hypothesis
+    goal: "the idea of a hypothesis as a testable guess that an experiment can support or overturn"
+    banned_tones:
+      - imaginative
+      - playful
+    locations:
+      - in a science classroom
+      - at a science fair
+      - in the kitchen
+      - in the backyard
+      - in a garage workshop
+      - at a science centre
+      - in a garden
+      - at home
+
+  # ---------------------------------------------------------------
+  # High school (tiers 10-13): grades 9 to 12
+  # ---------------------------------------------------------------
 
   - key: abstract_discourse_patterns
     min_tier: 10
-    max_tier: 11
+    max_tier: 13
     description: exposure to abstract and hypothetical discussion
-    goal: familiarity with argument structures, nuanced reasoning, and conditional thinking
+    goal: "argument structures, nuanced reasoning and conditional thinking in abstract and hypothetical discussion"
     banned_tones:
       - playful
       - imaginative
       - excited
     locations:
       - at school
-      - during seminars
+      - during a seminar
       - at the library
-      - during debates
+      - during a debate
+      - in a philosophy classroom
+      - at a coffee shop
+      - at the dinner table
+      - in a group chat
 
   - key: civic_process_awareness
     min_tier: 10
     max_tier: 11
     description: observing references to civic systems and institutions
-    goal: general familiarity with how civic structures and processes function in society
+    goal: "the idea that governments are built from institutions with separate jobs, such as councils, courts and legislatures"
     banned_tones:
       - playful
       - imaginative
@@ -365,14 +993,18 @@ exposures:
     locations:
       - at school
       - at home
-      - online
-      - in the community
+      - at a computer at home
+      - at a city council meeting
+      - at a courthouse
+      - in a civics classroom
+      - at a community centre
+      - at a polling station
 
   - key: long_term_consequence_patterns
     min_tier: 10
-    max_tier: 11
+    max_tier: 13
     description: exposure to discussions about long-term outcomes
-    goal: internalizing that present decisions can connect to future consequences
+    goal: "the idea that present decisions can connect to consequences years in the future"
     banned_tones:
       - playful
       - imaginative
@@ -380,50 +1012,291 @@ exposures:
     locations:
       - at school
       - at home
-      - during mentorship programs
-      - at extracurricular activities
+      - during a mentorship meeting
+      - at an after-school job
+      - in a guidance counsellor's office
+      - at the dinner table
+      - at a university open house
+      - at a grandparent's house
+
+  - key: opportunity_cost
+    min_tier: 10
+    max_tier: 13
+    description: opportunity cost
+    goal: "the idea of opportunity cost, that choosing one thing means giving up the next best alternative"
+    banned_tones:
+      - imaginative
+      - playful
+    locations:
+      - at a part-time job
+      - at school
+      - at the dinner table
+      - at a shopping mall
+      - in a guidance counsellor's office
+      - at a car dealership
+      - at a coffee shop
+      - in the bedroom
+
+  - key: interest_and_debt
+    min_tier: 10
+    max_tier: 13
+    description: interest and debt
+    goal: "how interest makes borrowed money cost more over time and makes savings grow"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - at a bank
+      - at the kitchen table
+      - at a car dealership
+      - at a phone store
+      - at school
+      - at a computer at home
+      - at a part-time job
+      - at a credit union
+
+  - key: how_laws_get_made
+    min_tier: 10
+    max_tier: 13
+    description: how laws get made
+    goal: "how a bill becomes a law through drafting, committee review, debate, votes and assent"
+    banned_tones:
+      - imaginative
+      - playful
+    locations:
+      - in a civics classroom
+      - at a legislature on a field trip
+      - at a city council meeting
+      - at a computer at home
+      - at a town hall meeting
+      - at the dinner table
+      - at a model parliament
+      - at the library
+
+  - key: scientific_consensus
+    min_tier: 10
+    max_tier: 13
+    description: how scientific consensus forms
+    goal: "the idea that scientific consensus forms through repeated studies, peer review and replication rather than one result"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - in a science classroom
+      - at a university lab on a field trip
+      - at a computer at home
+      - at a doctor's office
+      - at the library
+      - at a science fair
+      - at the dinner table
+      - at a museum
+
+  - key: media_ownership
+    min_tier: 10
+    max_tier: 13
+    description: media ownership
+    goal: "the idea that news outlets are owned by companies or people whose interests can shape coverage"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - in a media studies classroom
+      - at a computer at home
+      - in the living room
+      - at a student newspaper office
+      - at the library
+      - in a group chat
+      - at a coffee shop
+      - at the dinner table
+
+  - key: polls_uncertainty
+    min_tier: 10
+    max_tier: 13
+    description: statistical uncertainty and polls
+    goal: "how a poll's margin of error and sample size limit what its numbers can say"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - in a math classroom
+      - at a computer at home
+      - in the living room
+      - at a student newspaper office
+      - at a polling station
+      - at the dinner table
+      - in a group chat
+      - at a campaign office
+
+  - key: ethics_in_technology
+    min_tier: 10
+    max_tier: 13
+    description: ethics in technology
+    goal: "ethical questions raised by technology such as algorithmic bias, surveillance and automation"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - in a computer science classroom
+      - at a computer at home
+      - at a part-time job
+      - in a group chat
+      - at a tech company on a field trip
+      - at the dinner table
+      - at a coffee shop
+      - at the library
+
+  - key: labour_and_unions
+    min_tier: 10
+    max_tier: 13
+    description: labour and unions
+    goal: "how unions, collective bargaining and labour laws shape wages, hours and working conditions"
+    banned_tones:
+      - imaginative
+      - playful
+    locations:
+      - at a part-time job
+      - at a picket line
+      - at the dinner table
+      - in a history classroom
+      - at a warehouse
+      - at a restaurant kitchen
+      - at a union hall
+      - at a grocery store
+
+  - key: contested_history
+    min_tier: 10
+    max_tier: 13
+    description: how history is contested
+    goal: "the idea that historians disagree about the past because sources are partial and questions change"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - in a history classroom
+      - at a museum
+      - at the library
+      - at an archive
+      - at a monument
+      - at a grandparent's house
+      - at a family gathering
+      - at a computer at home
+
+  - key: contract_language
+    min_tier: 11
+    max_tier: 13
+    description: the language of contracts and forms
+    goal: "the language of contracts and forms, such as terms, conditions, liability, consent and signatures"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - at a part-time job
+      - at a phone store
+      - at a gym front desk
+      - at the kitchen table
+      - at a computer at home
+      - at a driving school
+      - at a bank
+      - at a rental car counter
+
+  - key: mortgages_and_rent
+    min_tier: 11
+    max_tier: 13
+    description: mortgages and rent
+    goal: "how rent, mortgages, deposits and down payments work when someone pays for a place to live"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - at an apartment viewing
+      - at the kitchen table
+      - at a bank
+      - at an open house
+      - at a real estate office
+      - at a computer at home
+      - at a friend's apartment
+      - at a grandparent's house
+
+  - key: taxes
+    min_tier: 11
+    max_tier: 13
+    description: taxes
+    goal: "how income tax, sales tax and deductions show up on paycheques, receipts and tax returns"
+    banned_tones:
+      - imaginative
+      - playful
+      - excited
+    locations:
+      - at a part-time job
+      - at the store
+      - at the kitchen table
+      - at a computer at home
+      - at an accountant's office
+      - at a restaurant
+      - at a bank
+      - in a business classroom
 
   - key: professional_communication_norms
     min_tier: 12
     max_tier: 13
     description: exposure to formal communication structures
-    goal: familiarity with professional tone, structured writing, and respectful disagreement
+    goal: "professional tone, structured writing and respectful disagreement in formal communication"
     banned_tones:
       - playful
       - imaginative
       - excited
     locations:
       - at school
-      - during internships
-      - at part-time jobs
-      - online
+      - during an internship
+      - at a part-time job
+      - at a computer at home
+      - at a job interview
+      - in a co-op placement
+      - at a volunteer office
+      - in an email thread with a teacher
 
   - key: ethical_framework_language
     min_tier: 12
     max_tier: 13
     description: hearing structured ethical reasoning language
-    goal: passive exposure to terms related to responsibility, trade-offs, and unintended consequences
+    goal: "terms related to responsibility, trade-offs and unintended consequences used in structured ethical reasoning"
     banned_tones:
       - playful
       - imaginative
       - excited
     locations:
       - at school
-      - during seminars
+      - during a seminar
       - at the library
-      - during debates
+      - during a debate
+      - in a philosophy classroom
+      - at a hospital volunteer shift
+      - at the dinner table
+      - at a coffee shop
 
   - key: systems_thinking_patterns
     min_tier: 12
     max_tier: 13
     description: exposure to interconnected systems concepts
-    goal: familiarity with how social, economic, and environmental systems influence one another
+    goal: "how social, economic and environmental systems influence one another"
     banned_tones:
       - playful
       - imaginative
       - excited
     locations:
       - at school
-      - during seminars
+      - during a seminar
       - at the library
-      - during internships
+      - during an internship
+      - in a geography classroom
+      - at a farm
+      - at a city council meeting
+      - at a community garden
