@@ -19,6 +19,16 @@ class PromptConfig:
     age: int
     min_paragraphs: int
     max_paragraphs: int
+    framing: str
+    reading_level: str
+    audience_noun: str
+    # 2026-09-23 template fields (story_prompt.py)
+    phase: int = 0
+    kind: str = "exposure"        # exposure | experience | arc
+    content_key: str = ""
+    domain: str = ""              # description of the knowledge domain the story turns on
+    fact: str = ""                # verified fact injected verbatim, or "" when no fact bank exists
+    fact_hook: str = ""
 
     def get_metadata(self) -> dict:
         # get tone key from tone object

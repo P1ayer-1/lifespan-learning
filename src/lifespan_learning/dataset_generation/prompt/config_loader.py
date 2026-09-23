@@ -4,7 +4,7 @@ import json
 from lifespan_learning.dataset_generation.prompt.engine.content_type_registry import ContentTypeRegistry
 
 def load_yaml(path: str) -> dict:
-    with open(path, "r") as f:
+    with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
 
 def load_list(path: str, key: str = "tiers") -> list[dict]:
@@ -71,6 +71,6 @@ def load_content_types(paths: list[str], allowed_content_types: list[str], tier:
     return ContentTypeRegistry(allowed_content_type_data, allowed_content_types, rng)
 
 def load_json(path: str) -> dict:
-    with open(path, "r") as f:
+    with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 

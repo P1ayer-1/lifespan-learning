@@ -6,12 +6,15 @@ from .lexicon import Lexicon
 from .tones import ToneRegistry
 from .features import FeatureRegistry
 from .generation_configs import PromptConfig
+from . import reading_level
 
 class Tier:
-    def __init__(self, config: dict, tone_registry: ToneRegistry, feature_registry: FeatureRegistry, rng: random.Random):
+    def __init__(self, config: dict, tone_registry: ToneRegistry, feature_registry: FeatureRegistry, rng: random.Random, phase_id: int, fact_bank=None):
         self.rng = rng
         self.tone_registry = tone_registry
         self.feature_registry = feature_registry
+        self.phase_id = phase_id
+        self.fact_bank = fact_bank  # engine.facts.FactBank, shared by the phase's tiers
 
         self.tier = config["tier"]
         self.grade = config["grade"]
@@ -76,6 +79,11 @@ class Tier:
 
         age = self.rng.randint(self.age_range[0], self.age_range[1])
 
+        if self.fact_bank is not None:
+            domain, fact, fact_hook = self.fact_bank.sample(content_type.key)
+        else:
+            domain, fact, fact_hook = "", "", ""
+
         prompt_config = PromptConfig(
             name=name,
             gender=gender,
@@ -90,9 +98,19 @@ class Tier:
             age=age,
             min_paragraphs=min_paragraphs,
             max_paragraphs=max_paragraphs,
+            framing=reading_level.framing_for(self.phase_id),
+            reading_level=reading_level.reading_level_for(self.phase_id),
+            audience_noun=reading_level.audience_noun_for(self.phase_id),
+            phase=self.phase_id,
+            kind=content_type.kind,
+            content_key=content_type.key,
+            domain=domain,
+            fact=fact,
+            fact_hook=fact_hook,
         )
 
         metadata = prompt_config.get_metadata()
+        metadata["tier"] = self.tier
 
         prompt = content_type.build_prompt(prompt_config=prompt_config)
 

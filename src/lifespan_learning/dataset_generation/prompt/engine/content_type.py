@@ -4,6 +4,8 @@ from .generation_configs import PromptConfig, ContentTypeConfig
 
 
 class ContentType:
+    kind = "exposure"  # exposure | experience | arc; overridden by subclasses
+
     def __init__(self, config: ContentTypeConfig, rng: random.Random):
         self.key = config.key
         self.description = config.description
