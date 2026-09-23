@@ -255,6 +255,20 @@ def test_fact_bank_omits_unrelated_fact_instead_of_forcing_domain_match(tmp_path
     assert (domain, fact, hook) == (activity, "", "")
 
 
+def test_fact_match_does_not_count_connectives_as_relevance(tmp_path):
+    import random
+    bank_path = tmp_path / "phase_0.json"
+    bank_path.write_text(json.dumps({"phase": 0, "facts": [
+        {"domain": "body", "fact": "Hair and fingernails keep growing.", "hook": "a child scared of a haircut"},
+    ]}), encoding="utf-8")
+    bank = facts_mod.FactBank(0, rng=random.Random(0), facts_path=str(bank_path))
+    activity = "basic emotions such as happy, sad, angry, scared and excited"
+
+    domain, fact, hook = bank.sample("emotions", activity)
+
+    assert (domain, fact, hook) == (activity, "", "")
+
+
 def test_render_with_and_without_fact():
     from lifespan_learning.dataset_generation.prompt.engine.tones import Tone
     from lifespan_learning.dataset_generation.prompt.engine.generation_configs import PromptConfig

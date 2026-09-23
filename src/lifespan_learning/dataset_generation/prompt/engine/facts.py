@@ -132,13 +132,18 @@ KEYWORD_DOMAINS = [
 
 _WORD_RE = re.compile(r"[a-z]+")
 _STOP_WORDS = {
-    "about", "after", "again", "against", "along", "also", "another", "around",
-    "because", "before", "being", "between", "both", "called", "child", "children",
-    "could", "does", "every", "first", "from", "gets", "give", "have", "having",
-    "idea", "into", "learn", "make", "named", "other", "people", "person", "right",
-    "same", "simple", "some", "something", "that", "their", "them", "then", "there",
-    "these", "thing", "things", "think", "this", "through", "tries", "using", "versus",
-    "what", "when", "where", "which", "while", "with", "without", "would", "your",
+    "about", "after", "again", "against", "all", "along", "also", "and", "another",
+    "any", "are", "around", "because", "before", "being", "between", "both", "but",
+    "called", "can", "cannot", "child", "children", "could", "did", "does", "each",
+    "every", "first", "for", "from", "gets", "give", "had", "has", "have", "having",
+    "her", "hers", "him", "his", "how", "idea", "into", "its", "learn", "make", "may",
+    "might", "more", "most", "much", "must", "named", "nor", "not", "off", "once",
+    "one", "only", "other", "our", "ours", "out", "over", "own", "people", "person",
+    "right", "same", "she", "should", "simple", "some", "something", "such", "than",
+    "that", "the", "their", "them", "then", "there", "these", "they", "thing", "things",
+    "think", "this", "through", "too", "tries", "two", "under", "until", "using",
+    "very", "versus", "was", "were", "what", "when", "where", "which", "while", "who",
+    "whom", "why", "will", "with", "without", "would", "you", "your", "yours",
 }
 
 
