@@ -1,1 +1,4 @@
 datasets
+pyyaml
+anthropic
+pytest

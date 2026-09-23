@@ -13,11 +13,11 @@ tiers:
       language exposure, and foundational motor development.
     age_range: [3, 5]
     paragraph_distribution: # should I move to phases?
-      - paragraphs: 4
+      - paragraphs: 3
         weight: 0.55
-      - paragraphs: 5
+      - paragraphs: 4
         weight: 0.35
-      - paragraphs: 6
+      - paragraphs: 5
         weight: 0.10
 
   - tier: 1
@@ -34,11 +34,11 @@ tiers:
       and numeracy awareness, cooperative learning, and growing independence.
     age_range: [4, 6]
     paragraph_distribution:
-      - paragraphs: 4
+      - paragraphs: 3
         weight: 0.55
-      - paragraphs: 5
+      - paragraphs: 4
         weight: 0.35
-      - paragraphs: 6
+      - paragraphs: 5
         weight: 0.10
 
   - tier: 2
@@ -126,11 +126,11 @@ tiers:
       and independent study habits.
     age_range: [8, 10]
     paragraph_distribution:
-      - paragraphs: 4
-        weight: 0.55
       - paragraphs: 5
-        weight: 0.35
+        weight: 0.55
       - paragraphs: 6
+        weight: 0.35
+      - paragraphs: 7
         weight: 0.10
 
   - tier: 6
@@ -149,11 +149,11 @@ tiers:
       and personal responsibility for learning.
     age_range: [9, 11]
     paragraph_distribution:
-      - paragraphs: 4
-        weight: 0.55
       - paragraphs: 5
-        weight: 0.35
+        weight: 0.55
       - paragraphs: 6
+        weight: 0.35
+      - paragraphs: 7
         weight: 0.10
 
   - tier: 7
@@ -172,11 +172,11 @@ tiers:
       structured research projects, and leadership development.
     age_range: [10, 12]
     paragraph_distribution:
-      - paragraphs: 4
-        weight: 0.55
       - paragraphs: 5
-        weight: 0.35
+        weight: 0.55
       - paragraphs: 6
+        weight: 0.35
+      - paragraphs: 7
         weight: 0.10
 
   - tier: 8
@@ -195,11 +195,11 @@ tiers:
       introductory algebra, formal lab work, and self-directed learning strategies.
     age_range: [11, 13]
     paragraph_distribution:
-      - paragraphs: 4
-        weight: 0.55
-      - paragraphs: 5
-        weight: 0.35
       - paragraphs: 6
+        weight: 0.55
+      - paragraphs: 7
+        weight: 0.35
+      - paragraphs: 8
         weight: 0.10
 
   - tier: 9
@@ -218,11 +218,11 @@ tiers:
       career awareness exploration, and secondary school preparation.
     age_range: [12, 14]
     paragraph_distribution:
-      - paragraphs: 4
-        weight: 0.55
-      - paragraphs: 5
-        weight: 0.35
       - paragraphs: 6
+        weight: 0.55
+      - paragraphs: 7
+        weight: 0.35
+      - paragraphs: 8
         weight: 0.10
 
   - tier: 10
@@ -241,11 +241,11 @@ tiers:
       abstract reasoning, scientific methodology, and academic planning.
     age_range: [13, 15]
     paragraph_distribution:
-      - paragraphs: 4
+      - paragraphs: 7
         weight: 0.55
-      - paragraphs: 5
+      - paragraphs: 8
         weight: 0.35
-      - paragraphs: 6
+      - paragraphs: 9
         weight: 0.10
 
   - tier: 11
@@ -264,11 +264,11 @@ tiers:
       and increasing autonomy in academic and extracurricular commitments.
     age_range: [14, 16]
     paragraph_distribution:
-      - paragraphs: 4
+      - paragraphs: 7
         weight: 0.55
-      - paragraphs: 5
+      - paragraphs: 8
         weight: 0.35
-      - paragraphs: 6
+      - paragraphs: 9
         weight: 0.10
 
   - tier: 12
@@ -287,11 +287,11 @@ tiers:
       experiential learning, and post-secondary preparation.
     age_range: [15, 17]
     paragraph_distribution:
-      - paragraphs: 4
+      - paragraphs: 8
         weight: 0.55
-      - paragraphs: 5
+      - paragraphs: 9
         weight: 0.35
-      - paragraphs: 6
+      - paragraphs: 10
         weight: 0.10
 
   - tier: 13
@@ -310,9 +310,9 @@ tiers:
       and transition planning for post-secondary education or workforce entry.
     age_range: [16, 18]
     paragraph_distribution:
-      - paragraphs: 15
+      - paragraphs: 9
         weight: 0.55
-      - paragraphs: 18
+      - paragraphs: 10
         weight: 0.35
-      - paragraphs: 20
+      - paragraphs: 11
         weight: 0.10

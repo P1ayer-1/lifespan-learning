@@ -12,9 +12,9 @@ class NameLoader:
         gender = self.rng.choice(["girl", "boy"])
 
         if gender == "girl" and self.names["Female"]:
-            return random.choice(self.names["Female"]), gender
+            return self.rng.choice(self.names["Female"]), gender
         elif gender == "boy" and self.names["Male"]:
-            return random.choice(self.names["Male"]), gender
+            return self.rng.choice(self.names["Male"]), gender
         else:
             raise ValueError(f"No names available for gender: {gender}")
 
