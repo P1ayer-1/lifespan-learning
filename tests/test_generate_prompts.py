@@ -269,6 +269,36 @@ def test_fact_match_does_not_count_connectives_as_relevance(tmp_path):
     assert (domain, fact, hook) == (activity, "", "")
 
 
+def test_fact_match_does_not_use_hook_words_as_relevance(tmp_path):
+    import random
+    bank_path = tmp_path / "phase_0.json"
+    bank_path.write_text(json.dumps({"phase": 0, "facts": [
+        {"domain": "math", "fact": "A cube has six square faces.", "hook": "counting number words from one to ten"},
+    ]}), encoding="utf-8")
+    bank = facts_mod.FactBank(0, rng=random.Random(0), facts_path=str(bank_path))
+    activity = "the number words from one to ten heard in counting songs"
+
+    domain, fact, hook = bank.sample("number_words", activity)
+
+    assert (domain, fact, hook) == (activity, "", "")
+
+
+def test_activity_matching_preserves_legacy_rng_schedule(tmp_path):
+    import random
+    bank_path = tmp_path / "phase_0.json"
+    bank_path.write_text(json.dumps({"phase": 0, "facts": [
+        {"domain": "body", "fact": "Hair grows over time.", "hook": "getting a haircut"},
+    ]}), encoding="utf-8")
+    rng = random.Random(7)
+    control = random.Random(7)
+    bank = facts_mod.FactBank(0, rng=rng, facts_path=str(bank_path))
+
+    bank.sample("emotions", "feeling happy, sad, angry, scared or excited")
+    control.choice([bank.facts[0]])  # the one legacy fact-pool draw
+
+    assert rng.random() == control.random()
+
+
 def test_render_with_and_without_fact():
     from lifespan_learning.dataset_generation.prompt.engine.tones import Tone
     from lifespan_learning.dataset_generation.prompt.engine.generation_configs import PromptConfig

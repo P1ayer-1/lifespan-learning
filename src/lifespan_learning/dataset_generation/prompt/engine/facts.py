@@ -131,17 +131,18 @@ KEYWORD_DOMAINS = [
 
 
 _WORD_RE = re.compile(r"[a-z]+")
+_MIN_FACT_TERM_OVERLAP = 3
 _STOP_WORDS = {
     "about", "after", "again", "against", "all", "along", "also", "and", "another",
     "any", "are", "around", "because", "before", "being", "between", "both", "but",
-    "called", "can", "cannot", "child", "children", "could", "did", "does", "each",
+    "body", "called", "can", "cannot", "child", "children", "could", "did", "does", "each",
     "every", "first", "for", "from", "gets", "give", "had", "has", "have", "having",
     "her", "hers", "him", "his", "how", "idea", "into", "its", "learn", "make", "may",
-    "might", "more", "most", "much", "must", "named", "nor", "not", "off", "once",
+    "might", "more", "most", "much", "must", "named", "nor", "not", "off", "once", "open",
     "one", "only", "other", "our", "ours", "out", "over", "own", "people", "person",
-    "right", "same", "she", "should", "simple", "some", "something", "such", "than",
+    "part", "right", "same", "she", "should", "simple", "some", "something", "such", "than",
     "that", "the", "their", "them", "then", "there", "these", "they", "thing", "things",
-    "think", "this", "through", "too", "tries", "two", "under", "until", "using",
+    "think", "this", "through", "too", "tries", "turn", "two", "under", "until", "using",
     "very", "versus", "was", "were", "what", "when", "where", "which", "while", "who",
     "whom", "why", "will", "with", "without", "would", "you", "your", "yours",
 }
@@ -215,24 +216,36 @@ class FactBank:
         """Return (domain_description, fact, hook).
 
         When an activity is supplied, a verified fact is used only when at
-        least two meaningful terms overlap the activity. This deliberately
+        at least three meaningful terms overlap the activity. This deliberately
         favours no injected fact over stitching an unrelated mini-lesson onto
         the requested story. The activity itself remains the knowledge domain
         in that case. Calls without an activity retain the legacy domain-based
         behaviour for compatibility with direct FactBank users.
         """
         if self.facts and activity:
+            # Preserve the legacy RNG schedule even when no fact is injected.
+            # FactBank shares the generator RNG, so omitting these draws would
+            # change every later activity sampled from the same seed and make
+            # before/after prompt comparisons invalid.
+            legacy_prefs = self._preferred(content_key, self._with_facts)
+            legacy_domain = legacy_prefs[0] if legacy_prefs else self.rng.choice(sorted(self._with_facts))
+            legacy_pool = [f for f in self.facts if f["domain"] == legacy_domain]
+            self.rng.choice(legacy_pool)
+
             query_terms = _terms(f"{content_key} {activity}")
             scored = []
             for fact in self.facts:
-                candidate_terms = _terms(f'{fact["fact"]} {fact.get("hook", "")}')
+                # A hook is a creative scene suggestion and may contain a
+                # coincidental activity word; only verified fact text is
+                # evidence that the knowledge itself is on-topic.
+                candidate_terms = _terms(fact["fact"])
                 overlap = query_terms & candidate_terms
-                if len(overlap) >= 2:
+                if len(overlap) >= _MIN_FACT_TERM_OVERLAP:
                     scored.append((len(overlap), fact))
             if scored:
                 best_score = max(score for score, _ in scored)
                 pool = [fact for score, fact in scored if score == best_score]
-                chosen = self.rng.choice(pool)
+                chosen = min(pool, key=lambda fact: (fact["domain"], fact["fact"]))
                 return self.domains[chosen["domain"]], chosen["fact"], chosen.get("hook", "")
             return activity, "", ""
         if self.facts:
