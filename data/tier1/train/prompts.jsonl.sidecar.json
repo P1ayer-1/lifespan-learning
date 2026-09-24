@@ -1,0 +1,15 @@
+{
+  "counts_per_phase": {
+    "0": 1000
+  },
+  "counts_per_tier": {
+    "1": 1000
+  },
+  "generator_commit": "123f3697dfb04597107b5bb4653917b2f83ee71c",
+  "per_phase": 1000,
+  "phases_requested": null,
+  "seed": 42,
+  "split": "train",
+  "tiers_requested": "1",
+  "total_prompts": 1000
+}
