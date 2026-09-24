@@ -143,6 +143,8 @@ DUPLICATED = ("Victor wanted to build a big tower in the room. He put one red bl
     (DUPLICATED, "story text duplicated"),
     ('"Sleep, baby," she said. "Sleep."\n', ""),
     ("He found a blanket. He put it on teddy. Tedd", "story ends mid-sentence"),
+    ("The snow fell on the soft white yard.Brielle woke up.", "sentences run together"),
+    ('Mom said, "Come in." Dr. Lee smiled at 3.5 kilos.', ""),
 ])
 def test_story_defect(text, defect):
     assert story_defect(text) == defect

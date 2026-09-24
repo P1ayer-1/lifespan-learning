@@ -1,0 +1,40 @@
+{"prompt_hash": "b23bcad53d1dd0099ba020f55385c7aba4140e367868f60945fdd82c93ccaace", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cae0d0f82002b135e93038da308f2b66d83ece6a0d5a5abe84e5b1f3058f48b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f91478039c67ff69b7b7a7c85824786713bd776f296bdb8c645b015994fd7051", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe42a349301a2d3a6cfd4d04273e1ccb68958145a02989c229855987d7a45566", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e822514856294254993bb4b6c823d045ef8ee0aa5f73a4d9418d6a96fde607a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39258a7fa909605bb897e659ca02685d970d7b14e835653fb0d236ea48a73388", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2fd23fbf82f8b6176aececd11c9a9368e6c47fdd7b2cbd81c9cec640f20f726", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2662368fe7edb86ccbbfbef12fa21fdd444e64e82f476868cb09af97d5385a72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d877919a4b68fde91708993f17a3456eebcce8d7c97be7c260d17ba7122db6e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ea11127f3cb41f11f891137f92b9514004646e8ec881ec7b69be0f141b700ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a3ee85f3b9136fe0fc22df32d162788a098fcbfefaf16a77af2f81b25fe943f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1f4e3c71165a3f990a67898f3e5d45db2baab5f2b54f2c8a46e3e2b39b8019e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ccfa09c17ce957bffdd024513b37c7c015a0bf7696d799f45d08fbe0deb4534", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60ecb2268df2d3746c00b5081aa5bef05d206725b3a447478708a17b782d8726", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10952c954f9b13dd688991d56cb89672cd6c050b2dfc196d9a194073e4fb4196", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e83308f849d756d79010195efe21b24278d0ee3fe40fca73cb008e41d6a69671", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b3c50240dbfd2519e61753432524f74186b63b59c25fac30bac84accdf5bfb8", "verdict": "adds_false_claim", "reason": "'\"Ten!\" said the lady. \"All clean.\"' A dentist counting a preschooler's teeth would find about 20 primary teeth, not ten; a child old enough to ride a bus and talk has a full set of 20 baby teeth."}
+{"prompt_hash": "456452d3e1a45db7a263916b5ca13be7ace458e196cfb60716e0c80fdeceb55e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70bde55b759cc2b2da27bf930d140df76c21c5e75da872c0676c9ac7705b5ac8", "verdict": "consistent", "reason": "uncertain: 'A small yellow flower opened up' on a bean plant; common garden beans have white, pink or purple flowers, though some beans (e.g. mung) have yellow flowers."}
+{"prompt_hash": "4ce02530b2eda36df83224d378be13a0847be4373c28cde4a059ce4cd4846196", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ccc16db4da75832cd50a1dac34069f917a1a5bd37ec4c05662361cbfd854193e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87337263ba0645bc9297fb944a72a72b86d0a2e2d886f5baad3fa096a2ff1b23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a54536af786f7db738c0f28afd72715e449756d1939983e9e18019d66f41d4f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56c57d4c9cdf86a6c2cb9a5982682cae005075c11d77fb40f958ff7c18734ebd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8d7aaa5fa98e3f05c4692a00d043f5fe0d599feaf82caa2e4cb6b5312c25918", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de1682a8f35f2d430c426a6448b3439cbf4ca412296f8386dcc2adf2e51c0f6d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "328b77620934e3522201ec8dcef38857f3c172f9835e851ab2be83b7353f6e95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15cd0acadf1427816b0c9d44e69ebf27c286dde7c69942ca9471ef289b539b00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e2833802a628f356566bc750cf43f600261e2a9954980ab0dc4c1b2753e9812", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2d6cdc37911f731cacfae6f8c0380d58eafcec6d8038f063126b787104482be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a10b16580d1da1383cbd6c25e20b8a003adc2198b46819a76a2bc590ca61e99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9327287f6f02bbeae222b5b96135da76a20853f6e4ea5621552c0b63facb348", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4705f7f37a478e085745b1366438f2f58e4df0a0f7c95741c330ba75c8ffc4f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "224a2f0b2a0374b9e99d53dce3a7d451eeb297c6eaec437dd18df9ba8225d422", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab37143b9fcfbed1dc53a8dcbb67b0464ef7fbe0fd3ce5733dc814a15576bc06", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e32621c0599f55d0f23da13d5909753b50f6094ffacc7aa01cbbfa21707555cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "845b434b9c994e025b4e35825dbc9510ef7526e578bf721981c4f993c450c2ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "550d1f899251d7d9533567a99984909e46e900a9ce354b6e532ba01b60583466", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b86f23acf5c2027d5a35e6a3b1bfd80a9937b1cea613040d335c7752c3f2a59", "verdict": "consistent", "reason": "uncertain: a pharmacist recommends over-the-counter cough syrup for a preschool-age child ('This one helps little coughs'); FDA advises against OTC cough/cold medicine under age 4, though honey-based children's syrups exist and the story does not name the product."}
+{"prompt_hash": "173d47fd8ca3e53908f86f68b291077e7785d0b998f644987737c84f1920628c", "verdict": "consistent", "reason": ""}

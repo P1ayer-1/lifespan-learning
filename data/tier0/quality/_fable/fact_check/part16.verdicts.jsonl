@@ -1,0 +1,40 @@
+{"prompt_hash": "23bbbb573793a1d0f7afacfc3623d8ddfd9b4dd3d392159386503b5a67ee2f07", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33667e7a71d2d4b5889b89c1f7d3533963734f05fb2d003cf3051838a47c7197", "verdict": "consistent", "reason": "uncertain: fact only partly conveyed. The books are in a box at a store, not a library, and the return is 'soon' rather than by a set day; borrowing, taking home and returning so others can read is present."}
+{"prompt_hash": "0dc2cf19cbe5b23eaef6a0cde93a550a877087378e42cfc498d1e4492b72b689", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f3bea7231a105fc3c6d3e7e153ef286901eb4fa4dc3035c95a79c61eac88d9e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf1c51282484499e57a0e09616d56b6a05e3ecfce2f776d194a7fe8f9cf82c06", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c31b87967d47e2bc636c2010618b8b56ccd4b98a1f97e78ca19a68d551ab4b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db9874adabb4ff412f7beb7a608d32f1afda3ecb850afae23a440048637a4ac4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04f2cf2be7ca2c18a3fb7c36bc919bb41edca9c636242e3be1f3014d33219a14", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49a7dda1be3ee48b0c1a24c2345dec4e2dabad22ac6bbc86694a5f6537c1084f", "verdict": "consistent", "reason": "uncertain: 'The drum made no sound at all' with a loose head is an exaggeration; a slack drumhead gives a dull thud rather than silence. Tightening the head for a louder, clearer sound is correct."}
+{"prompt_hash": "d697cda308736d53d9412ced427aa77587da3ace009f2203ca6dfba1b01ee206", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1c834f86f20811f072f4b9abaedf02b2468be0c3d7d95ab0553d77e65433c7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06389cb5ff6249856190ba1f9c9d4ebfc5b26204132c1b85105238c60d6f405a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43fc55054512953015639531ce416130826348fae3aab87e1a0973c8d5ac7261", "verdict": "adds_false_claim", "reason": "'At last, grandma pulled up the carrots. They were big and red!' Carrots are normally orange; presenting red as the default carrot color is misleading. Also 'The next day, something green peeked out!' after the first watering: carrot seeds take one to three weeks to sprout."}
+{"prompt_hash": "6b4327cc24ead707f99915a0d7702155d5e94d2d4fbb589587e085a4723c9dfe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54809ae1b34b1ada2435ca23473503ce218a46e6e069f154ef73da528e721a0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29e9f330efeb9dd61ca0f14af0dfc6b5be6b42ceca6dcd1375e47a0eb2cd75cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "365677df929ffb9966ed17c151a78c485394cc831787f88348bf45c62657e04e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61228cb3a1041a76c1fc6edc7858e308d6fbfe1ad05f6567ed039d2d91602bdb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3eb8e56cbdf4eaf4ebded8ab1789818798b76efd4d3cd3358070bf8105bd5fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f5cfa1925f6d897882bad6ee1ed6ab12b9cae1737c2e457a20704f74277ed55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61f936a3db04da9f52bfcae2c0766344c33af78a48258755a783927f343271b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "206ac99d870ec7055f49c4558f8281ab94b9fdd01992f50165fda33cb496d2b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06cbcd4ca9d16c531a29568fa23965a908d15d1abcfa7b60fcaa7ec2a30c3639", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed282a1bf0617b51940dfb3554bbf2412d54c279bbec88f1c357892f86d2f85e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39ccdda5c3289407d33eb95e3821284cd1628886177eaaa36e1134ed575ed636", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7fed8136927b99f52ae0c7c1d7681d1472158d4069c2c1614aefaad7cdc3139", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4af1a9d2648ea603fa40f435f12f0482d6a2cea7b16a97b1ea5a58a4017959d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7428d6b43db38e2350b019153028b1fbd6ebbb7a382642b80cdde31fdee77c34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3a8147e2bcd8e896790cdb4367941b98d2eece83fc0bd24d9a88f0fc719dca4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da6bb4b1a8d6b723bad660d6d189c8640df400c9163b735d5a86e92a510e13ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd624687790c36b5252883b7adacc5bfcdbe5ca731b09f433c2c488f09905174", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c92ca7346e002ea78592b05628258153ad9e12f01bf677691793628b7febdefb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "16c110789123bbc6f1122570ab0cc803acd76e1d54ad196d75d2858ed6271b63", "verdict": "adds_false_claim", "reason": "'He taps the tall tank gently. The fish swims over in a circle to say hello.' Tapping on an aquarium is presented as routine good pet care; it stresses fish and is a practice pet keepers are told to avoid."}
+{"prompt_hash": "b8bfc29ae1b11075e19aaa4fc8a63eab3cd0a459bd008353ed5a9e18528a312b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b6e030e3e208a45c2554d27e849947e23d11bfd51e0a77e5d193a2e8d74defa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15d98bcc368b7232b320d1f2d8f185f2fb5607211f40edb76a75fcaa56688fd9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8df34c6f023bbe8f8602c570a6f0ecd2d61bd589bca08b550e1cf77f2a6b9b1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba37931b5ab1a5e1c7683fbad08b33f30113f17a8bdd74e45104dc773b1dd03d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "521aacbb3973c1f0a38dff202d211eb55e435b5ee000e27962c9adf56c13dfb7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd069c1ba8ccf9ff70d1c86ef2847581ec44b09bbc04144d97eb7655db676619", "verdict": "consistent", "reason": ""}

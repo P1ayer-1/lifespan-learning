@@ -40,5 +40,7 @@ directional, not significant on its own. The age-4 share (26 vs 44) and the
 safety fails are the clearer signals. v5 trades ~9 points of required-word
 coverage for fewer forced sentences.
 
-Not yet done: installing v5 into `engine/story_prompt.py` changes every prompt
-hash, so it needs a decision about the frozen tier-0 manifest.
+Follow-up (2026-09-24): v5 was installed and all of tier 0 regenerated. On the
+same 880 prompt configurations, both reviewed by the Fable fact checker, the
+v2 corpus had 22 fact fails and the v5 corpus 27: the fact-check gain above
+did not hold at corpus scale. See `data/tier0/README.md`.

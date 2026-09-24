@@ -45,11 +45,26 @@ From `tools/prompt_lab/corpus_metrics.py` (first corpus in brackets):
 
 ## Acceptance status
 
-Generation is complete, but this corpus is **not yet accepted for training**.
-The fact-check and age-fit gates must run on it: review parts are exported
-under `quality/fact_check/` and `quality/age_check/`, for the
-`story-fact-checker` and `story-age-fit-reviewer` subagents. Failing hashes
-must be regenerated before acceptance.
+Generation is complete and both gates have run, but this corpus is **not yet
+accepted for training**: failing hashes must be regenerated first.
+
+Both gates ran on Opus (the reviewer agents default to Fable; owner asked for
+Opus on 2026-09-24):
+
+- Fact check: 929/1,000 pass (64 adds_false_claim, 2 contradicts_fact, 5 fact_missing)
+- Age fit: 942/1,000 pass (score 1: 5, 2: 53, 3: 760, 4: 182)
+- Regeneration queues: 71 fact + 58 age, 19 in both, 110 stories in total
+  (`full/stories.jsonl.regen_queue.jsonl`, `full/stories.jsonl.age_regen_queue.jsonl`);
+  both stories glued to a second draft (505ded6a, eaa050d8) are in them
+
+Opus is a much stricter fact checker than Fable, so these counts are not
+comparable with the first corpus's Fable-reviewed 27 and 51. A like-for-like
+check exists for facts only: Fable reviewed 880 of these stories before the
+switch (`quality/_fable/`), and on the same 880 prompt configurations the
+first corpus had 22 Fable fact fails against 27 here. v5 did **not** reduce
+false claims at corpus scale; the r9 A/B's 4 -> 1 was a 100-story sample.
+Opus agreed with 23 of those 27 and failed 60 of the 880. No like-for-like
+age-fit comparison exists yet.
 
 ## Artifacts
 

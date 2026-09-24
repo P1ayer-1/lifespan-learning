@@ -1,0 +1,40 @@
+{"prompt_hash": "4ae6e2feded7374ba26e9a5054adae38ae081374ab434cda87350344841e3ad8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec13a4f30e20fd75c9dc66f41205c4b45695ffed450e27b1634b00e7112b2478", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1c5b5628623d5b2ee558c01274eca05948dc8a5c08b592cafb47c080dd43877a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba7e769b8c5240d9dcd967b710c337574924c842a41c68225e96dfcba7a66c8f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4430830f1c06860563f91f84c85ba9a00e6d2d463d8f00c68e573e180c91aa1f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98154061ec8cceca959e8e74e847be757fb1c350400fd36b6f69bb60f095db1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9863f025d8fe85c48428365f630ed17b13994fa2ea657ae79650c3b9bb4f8d9d", "verdict": "consistent", "reason": "uncertain: 'The water lifted the shell. The shell floated up and slid back to Ava's feet.' Shells sink, but wave wash does carry them onto the sand; wording is loose rather than clearly wrong."}
+{"prompt_hash": "36bef2251364cddf006eee1953eb4dac01e063a4fb88f54423ef26d5db054a71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de86febb9c249300ca3c4908ef5183a0ef8bf11b5a06b5218ab441f8e51ef44e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7825081aa4447ba593e6dc70ebeec1aafe271d36c50f6593703d10e9614895fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04f67b7bd50dbcf43e6d0483f19592927556373359f6cb5c606f15ccefbe9889", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "626fb8195492cfbd93be34d7ae1c5d3dba40456ac36ddd0340fcc3aabbb52531", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97b2c870b150576c4833b0edb6c0b872a1a3ba7d1141ff1e75b4ce03f9229f15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9ca42a9099619ffcaf23cc55d5357fd30f0e0672c6041bce3acfd9e915786ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "250c4fce161df64caaefbf629be435ca572f6df3dddf250f46cc245bfc8e782e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b20c40dd959a43675a9f1bd71bd798504d553438c117882885d0e366bec287ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a09e1553ebae71047150946d586cb9f499464de9f260be43e867fd7280fbf2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef8fd2f0fb255f4c1ce1688b449bf1b91597319d0a908a649a1392db3a992b81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd5e13192a753f04374d56628219f584713a204feb77e4f0a929c1654c6e3d96", "verdict": "adds_false_claim", "reason": "'The dentist counts her teeth. \"Ten little teeth,\" he says.' A child of 3-4 has a full set of 20 primary (baby) teeth, not ten."}
+{"prompt_hash": "f096e354cb9f16b03beb7bdeaf0ca81c43376ca23e3033fd74f05103c4eb89e7", "verdict": "adds_false_claim", "reason": "'Isabella watered her seed again after dinner time, when the class had a snack. Then she went home to eat dinner with her family.' The time sequence is wrong: dinner cannot come both before and after the afternoon snack at school. Also a seed planted yesterday standing fingertip-high the next day is implausibly fast."}
+{"prompt_hash": "141aea84fd85b43bedad9b2ac305a570d369b529f2c5bd819bb63e5780cbd3da", "verdict": "adds_false_claim", "reason": "'The warm water made it rise,' said Grandma. Bread dough rises because yeast feeds on the flour and gives off gas; warm water only helps the yeast work, it does not make the dough rise by itself."}
+{"prompt_hash": "58743ed28b5166ff7a9e8b0481dcd43e3fff13102a3b382deea5b5baa549f56c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f79dc10dc7271d81aa984ea396494a905435cdf2953713aecb4e0b41a8d83e21", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9c4e21cfed7c6b823a93a58d65cbd44689be7bfae952133d0f867a1a6797155", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea4e15c38814415db786b8446e26c53d045ab0eb74dee2da79ed82dbf7df3ed9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa0728ff548848f6cdc31f88d6a4ae677789dafd5acc7f0ae2dda82c2b80768d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "940847a279df4276837c116bb97a33881918e1a50ff5aeec96156b11b25986c8", "verdict": "adds_false_claim", "reason": "'Ten rolls went in the bag. At home, he would eat one apple. Nine would be left.' Matthew bagged five apples, so eating one leaves four; the story mixes the ten rolls with the apples and gives a wrong count."}
+{"prompt_hash": "27b4d11e36e6f2863e6e181e777d38f8aa5b4008a951a9d82c3f0917ae494c7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bea7f9034604b06b9af2b2c399de51f11699a14fb1c24a8dfd80921a479e604", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09b06258f942705d1ab31644b2a743a33ce9bd206a70103638642afa3aaf9fc5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc10d0adef74bee1255336190c6d8e5d44f0397121b976a2ca2785f0c6425e6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a635b6f9c08af0210887eb93bf0fb36f4cfad04910c81e01acd9e1378f34b75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72c4f949aa89613318d232281db220ed55796128d15bc21af218316b7e2c2a0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99309595a6976a47dc0b91d429924dd4bb80663f7cec831ce2bbc2eecffa23b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99476f0d14817ae1ceaa70c3a9dc3f85f9bd2aab853ba6cb551d6395b8aa47d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f20b180c89aff844d26fe35d056b5c6fc423c5c5322326f72332ca10f6ab20d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22d128bca54049385b22adffb3ad2e2bcf48d427b9a776382469219eb4818651", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcf72c8dc73e676900a65ec9c419ba9fb7925f2bf6c6349464c959f2a492fd6c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07c8bfe9c4c9dce15744430e2fa1a4cce6e803b2f466ec6262a1ea5fc2a77d01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "800a9991afb7ebd72d5df250778ed595adefb1943ba9b4e4b3c7e727951045da", "verdict": "consistent", "reason": ""}

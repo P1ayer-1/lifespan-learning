@@ -1,0 +1,40 @@
+{"prompt_hash": "c6991db2f861a3cf9b75cf6578b7c67952fea9ef797834a8edba46826f05eb87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4555bdb078c76bbe34ed35c302d0723a1477b7d94a8776c497731de7195f1ca5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc8e5eef0a846cbf727b30220bb3030f41c7bee5ee07462e2b804d207e9ce50b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d8f8c1da1777165dddf819f0f44edf3726c5c3c0cce0614817370652e68d50b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fcbf6589123047a9531c17eb6459f81a9789c918ba72bf6beac82bb1caeec0fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d589e4b4c8622196c93fc9e62e769a5eaeda492e3f9a2077f6e201c29b5785b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5525d99e3278b4b6af00fca95b79f04b3b7d360607f9c3743f6162ce322eec15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28f73c758d4e11fbf72d1f0aa3831cc87adfaa2b98bec16a23035f3d8e7ea8d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "552eb4000c4109cd8cdda045901572684fd78493c1d2e5e5c15c123b0e8a8679", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "808e1cca72cd17b479f21c8ecccb780c939071cb347db73221a8366e43c80dac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b5a2736264df198111ae51576a3821a01516fa85e92886bbd1be9575574dfb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e26ebff634604d5a72bc478aa6b507899b1c3c95b5ec4ed2739daa08a11e13cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6da7de92d94fb87f3cfa9e243a896d873b7682db374d640af1220da6a2067f85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3f0217d7bd6010ff9342bd1504c5237335f0ca02b633ba2697fad884c7c4be0", "verdict": "consistent", "reason": "uncertain: teacher puts wet glue paintings in a bag hung in the sun to dry them; a closed bag would slow drying, but the bag type is not specified."}
+{"prompt_hash": "d666f2fb3a43c3203317f688e8f2e1d29b62dddb796da31e311090b742180179", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4cab51b39169f5962bc9c94a7dd745e86ba622206b4bcbcf7c4b44de79e172c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4573e5e33267ed2bd8766b994fda4416483a312171bd6969c904343e62b70c0f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "795c23887be94fd877c4dce1f215a25fa9accfa2440d0548da7b5bf33e96f70e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "356465cf06960c9bd0da4065fdc14c10313c2e419135fa8a99fcd4d190559c2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4210dd16922a2e527af1fd440b0ebade3d22c03c1e94faf9a5af3c6db22ebf4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8532644e15ddd7cf5673e6a6fb590147ff103488b3ea223a7ad3874a87f50efa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ede1c524ca906fea82761cc68981c3f9084daa85ee80e8426cbad2fc65fdd3e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f3bb635619107d0f5a36e3c250503c6d509e55ab1a32d7a4579cadaa4c9a6a3", "verdict": "adds_false_claim", "reason": "'Grandpa lit one candle. That candle lit the next candle. Then that one lit another... The fire walks from one to the next.' Birthday candles standing in a cake do not light each other on their own; a person must light each one (or use one candle in hand to light another)."}
+{"prompt_hash": "debfc12b2f36010397c4c7bdd9d8d7c377f6d6843170c6800c1f10fbddfe6e11", "verdict": "consistent", "reason": "uncertain: teacher affirms 'Your tap made it move' when tapping a block makes a toy horse slide out from under a shelf; playful cause-effect, not a clear real-world claim."}
+{"prompt_hash": "337decdd29794fcd42ee5a1ec7c8bcce695eb3b38895c7fde7e189479de93a27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "78744c12d2f5d8444e7fa56f123668a1d408d66c471ed83d773bf1ed19a2ddad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "86fff4f1ee71a497708608e10051c76454bdcfcda82908f935d59c1e5b9c8591", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dda220bee34b92daf1358527bcf1b60bdd421587eadc98bb34687b49857376c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13b4ab0f5b70777253e8e409b82b77e84673641070a18901145643d0368fd866", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03606ba6fbe99d143af0f2cf5cf0eaca02770fa20c303fa1a0eacb93cc562d07", "verdict": "adds_false_claim", "reason": "'\"A, B,\" she read out loud. \"That is how my name starts!\"' and the teacher claps in agreement. The name Audrey starts with A-u, not A-B; the letter pairing is wrong and goes uncorrected."}
+{"prompt_hash": "9ed423ccc1b72e9b904d01ee741a4e1021aaa17a096562bb9aff5a0abd885195", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5083158a34a2f1e69d669bedc0ff6bf9ebfacef75047aca2dc4627ee534e8846", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4884c22d190e4dcb0edca76c41ae63b39e71b62d7cfe1d1eb5a3de42a267d667", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a885a27298f11e5971ad21577413dc648123aed16c9d8ecc1ebda05576c787e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba6422671c68d2daa24772a92068a2a436c506c1cec90821417cb19b235629e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98e145cd268d2c4bf94fefef48ed2e0d994f1e68f1205d000eb0709a7c8feebb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05d862d0f50f8d34efba9624983f48cf6c834c70c0b9e0c46669dc60e301c755", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "041673b2c283b1e936a9adc54ac6a3f4565f08714c8d0a839c7aefcaace60833", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27c44373b2c003324ca1963309cbc7903003b98773c25b46901710bbe7593ca2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54db1ccfb70894aa588b0725536a3e81cfe3cab3a604a76621fc92a6b055c87f", "verdict": "consistent", "reason": ""}

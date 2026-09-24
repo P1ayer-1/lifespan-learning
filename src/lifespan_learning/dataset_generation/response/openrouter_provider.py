@@ -45,8 +45,13 @@ RETRYABLE_STATUS = {0, 408, 409, 429}
 # after the r9 prompt A/B, where GLM stopped mid-word ("He put it on teddy.
 # Tedd") with finish_reason "stop"; on those 1,300 stories it flags only that
 # story and the "</br>" one.
+# The run-together check came from the v5 tier-0 review, where two stories
+# were glued to a second draft without a space ("white yard.Brielle woke up");
+# on the 2,300 stories generated on 2026-09-24 it flags only such joins and one
+# missing space after a closing quote.
 _MARKUP_TAG = re.compile(r"</?\s*[a-zA-Z][^>]{0,20}>")
 _SENTENCE_FINAL = re.compile(r"[.!?][\"'”’)]*$")
+_RUN_TOGETHER = re.compile(r"[a-z][.!?][\"'”’]?[A-Z]")
 _SENTENCE_END = re.compile(r"(?<=[.!?])\s*")
 _DUPLICATE_MIN_CHARS = 25
 _DUPLICATE_MAX_REPEATS = 2
@@ -58,6 +63,8 @@ def story_defect(text: str) -> str:
         return "markup tag in story"
     if not _SENTENCE_FINAL.search(text.strip()):
         return "story ends mid-sentence"
+    if _RUN_TOGETHER.search(text):
+        return "sentences run together"
     sentences = [s.strip() for s in _SENTENCE_END.split(text) if len(s.strip()) > _DUPLICATE_MIN_CHARS]
     if len(sentences) - len(set(sentences)) > _DUPLICATE_MAX_REPEATS:
         return "story text duplicated"

@@ -1,0 +1,40 @@
+{"prompt_hash": "29a74db69b759ac2f5b9adcb3a2d56faa1fc07ceb859d4d6b7f472283081766f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38cde55f46a75390041ceb0c5bbd13ace358cdf8cd181361d39f7d6ad26095ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2256b75a3d31abeb4a90983d30d664725df591b8eccf2764afdd4318170e8303", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c7d72a5707a25ff087e9711fc91e29ff0f811334b904600a98bc4b417e24a43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf1185da15a50f374702d574cba665ccbcb3b7ceb8c64097f04d68fba2834cee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80ee3ebdc3372c5c47d5db27fd7a206737f93673f162c040c5f905347a7f09be", "verdict": "adds_false_claim", "reason": "'He heard a bump, bump, bump... \"That is the dough in the bowl. It is rising like a balloon.\"' Rising dough is silent; it does not make a bumping sound. Mom, a trusted adult, gives a wrong cause for the sound."}
+{"prompt_hash": "baf719c581dadfb806312cbde394fab8f31f0fa2247069b7c42990d7388fdd04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6183b755b3bb1bbdd23035246906747f0e518cf9189f31dbe392c77bad285447", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d75e46dab1fffedee6a40b5ddbb8b618f0211704b5170947f73c7358d73e158", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "337a584f9705310d736da3ec01610a154ae9361e3a804a38d92160d01bc18828", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "551bfda73bd25e7df8bb868aaad15c18c8b3c3748c32d4b52b2ced9f2386768c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b43d6c1f22155decedf241ada2dca29435f3c690986651ecd44358110dcb8fa6", "verdict": "consistent", "reason": "uncertain: library fact is conveyed (take home, bring back so other kids can read it) but the 'by a certain day' element is not stated"}
+{"prompt_hash": "d4bfcdfec9afb38a412c0d2e1bc08dae348213b3b0a30e6f2494545ccdd0a636", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3f1578b7766d801323428482df3b58dc39dadf0f8b429e86aafb0dfd03735ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7860337ba030e501133cd89aaf0dd1f0a4307cc192ccd9fbe5bc7aa050c87e29", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9953f3b45857421c32c9f12e35db376aa07d53442a5b8749ce71bd511876374c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e02d8e8d65bdc52e816d3ee17f299e9a14f658d57fc29cc8254bf94b7064ffc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f681970a9a7cda0ff95eea4edb6e716f7ea21bc769fa22bebdcbd57e2f4891b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89ccab6f9459fb90d2afb85193a8e266bbd1e419e3c0c015e2e44460e2a1a380", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f0ace8995f45040967a426714236137bf7cdccaa7d3f283bb726610725e8d6c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "894b836584984274dd63eed2e5100dd795369778dfdf159bbb29266bf488a7ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f0d3f0a83b4adcac7524109bd6ce294fa5ada3871357548f6dd39b2b942b7c49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbc83c245403313fef2020408afe234cd352a597673d6ccf3ace3726e3ea90b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e37f9da23564c4fa0f7a3ac76075a7f7987e0087b8add2bfe78e849ddda2806", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b23234b7726145209144e0447bc387ca5febf623ae959977bfc595615b4a71f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "14a00fc20a4d4cb3539d1fadf55b911fe1bf3b710e241e0b0480ad6263d95324", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81940a656bd66af0d0de4a8cea1603f00a39b17d9598b42b02595db41d3acbfa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a7a6c6d31f4ddb1b9bd95fb5be15908b84221d0ba913041445311d43acd3817", "verdict": "adds_false_claim", "reason": "'It was a rainbow. It made a big triangle of colors over the houses.' A rainbow is an arc (a curved bow), not a triangle."}
+{"prompt_hash": "864760ebf467fcbb4f7332d8c760d816143dedcaeee8f05c3a33f1eb500ec071", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "381f593167aab53c619796321ceae852d0fefa41bfe053456ea2fa15db7a88da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9295a51a4ba623daf7ba2721243c13f97e2600aa9862e3405d5be9de2500209", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee4f44b86130bacc5816d1fb3dce3a6f14e8cea1319625db0e6277b9be28bf77", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5815745f2c9013c1f26c53b632b4045ea7294ab60a7d3258cb5194ef59d3e8cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d9260902ef2cc091c4d0005c1e5e8269d4f3f2aff4d1ff5a75237187fbe342d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84f798e12583693753d5b48309d86a8fc1999b2dce544f0ee09e652ccd499e45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6393f42818c8fe643440928aa09f540f22628c03f2f14928970abdee277c5608", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "940b05c308bcb8e8e3a3d4c240a2b34954c75ee49e75bfd94286fcb60df3e471", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef14682273c883959103d48dd9c3f0cf972d977e01667e31ac16a66815a94556", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3190111429e5c407b84dae92f462e95012e7aeb4107bbbb8400f45c947bbf024", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "850101915678c04682c3886b23f11ead2e81ff7ed017f51ab1f330587ae2ad1c", "verdict": "consistent", "reason": ""}
