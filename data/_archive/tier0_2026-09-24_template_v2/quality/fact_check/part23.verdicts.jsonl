@@ -1,0 +1,40 @@
+{"prompt_hash": "ca04b157ed7e4526444410f0e7ae58d5fa3eda13091648e2ef0f38882f1ba9f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8025c787e113fc34f4ec5047beeb78fa94504921daed79861ed41b694e04530c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a07f019a4f94bf749f99d73aade57ff35a32cd0b665cae0cbd7b634085024bfd", "verdict": "adds_false_claim", "reason": "'The clock tells us when to bring it back,' said Dad. A wall clock shows the time of day; a library return date is set by the library (due date on a slip or receipt), not read from a clock. The 'by a certain day' part of the fact is otherwise only weakly conveyed."}
+{"prompt_hash": "5970990d9ad0b445823e83323ef3f3d8bb021c93c75b828520f48f5ec45b738d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33bfd92e0862cf01c02e18c4cb80baae0a19d901a555fe0981d501f4788d1413", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44bb0992209e94b7d57c5c40dedf63c7b6f0305cab6ba0fa142e3635a55bb12d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0c2a4d40f6864154cd7cae89e0b4754e716529c3ff582dd4dbd29dfaf783ff5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2daf7369c7c35252f8289eee193f8721434463a1923696e7181d15d5d11c2d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b969b979aa008e59129f4b4f8d15a26450dd9947168bd2066ea2f33654c26e39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5a2f8d9b8ac829fa09b99ae600aa97183ad1e256ed6db8e521107d653ac398c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "137c4c6943af5ffaa8d7cf6f81364d243fea166f2f2946b0613ef1f9178078a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be6a7bbfc9b40845eca1c9f03a3187910eddfa1a9e5f25353fa4d0fdb6f62fdf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3c8db0318b2bfae3a71ca2225fa76b30d17332cee5d7fc76548254c3acafacc", "verdict": "consistent", "reason": "uncertain: pancake 'got big because of the baking soda' with only flour, milk and egg; baking soda needs an acid to leaven well (baking powder would be the usual fix), but leavening makes pancakes rise is acceptable at this level."}
+{"prompt_hash": "4622dc4b01d302c3276aa95ae9d6e59dbe6bccdeb4bf3485990157501b30c928", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88b7c5417d69a6af84d837ade805bb6e6daf4e32fb87142bc1cc90414a0bf436", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5ec0bda00a3309219c2fa41574544d31dc191ed7c3887a4165780a20762e4ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d662e5b242286225a01574277ce83b4fd4f66dc4e88f463cbae7010c4f20100b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ca975eee6183e330c97cce3be4af14d41e40ac0be1bc5764821de93895a486a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "acaceada27a09e4a12da25ccd1fe9166d892ffb95b9012550a8ff08b795966c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "260331c96be1791d4eb64f5cb7c7b364d77b2b1f794dcca315a2489c87458d87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77d694c73ecb5e744158b5445dc97ad5d6ba39d3376ca808db7ec57bca3f1ea8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fafb9830ee660681fe9b4786f4bbb416fe7ee9c33ccb5436341d515c76363d35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea4ffec65be0da85e1c37a5f7970c6a8ae3d697e89ad1fae2656823f5a690a83", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e4da84dfddae90ad12a7499a01e8b7b8fbd2b4ca3b8b9bd839730007d7d607f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "752ff919fe12d76f021b07635a97c7241ac97c8bfde1642c4d688c13a6248872", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "997007e450d44030f59593b3d5b7afb0c082350cd2f1a8920ea8fba6369b9898", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c10d4d968a1073a7c904b6899044f488e7e0e912e388bbbcd55ac52a67c5c7e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0959482916a54e3588c137e52ac83a3f070a9584bafbe6b94e17f93ddb05e3da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca108d4cb937d8188920f4e09f7f24a3bc59daa15fb28cd53332bbd4e99bdd14", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa7270fc8423cc7e623c4e5bcb7e9eb2ed79000e3a108afb35e3029074d302fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ef756900ba983b862d1601ec7a6bac5d174fd3e86bfda6787d14577a2905ece", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "245eb0169cca9561efb3cf18145a054779e9a7d777ab9609769701e4829b4bb1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb84536cb2c94d947a110146ef6b4abea9852509867ecec8fd9c545a6fae0737", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e624c5c80ff4b943d92baa66095fbfd6661239e6b337fd257c86226a8dc04a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c45555cdc8233fb84df2e7701c1e7eeceaa5e30d5fc04f2b27b15bae7f431e26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "749737dae471314ecfd28d7f9cd947c59429a8ebdc8a9cf4ec8a81ed30d46485", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "148fb0bf16f2d696d4105a779cd853fe835eaa930aaf522846c42b4fe2dfaad0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b47a47adeb2efc5b214f5d5dbd827f0d89fb5d0ab3ae40413c85e3224126519", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4bd780f9da81359698f71d34bb876bef2e4f27a4f1adfebd1997f0ee2a3008b7", "verdict": "adds_false_claim", "reason": "'Sing the birthday song. One song is almost twenty seconds.' One round of Happy Birthday takes about 10-13 seconds; the standard handwashing guidance is to sing it twice to reach twenty seconds. The story presents a too-short wash as meeting the rule."}
+{"prompt_hash": "27855614b549dd6d4725ed56de793e5c1d21f6f6d7753898fe6ddc0ba3486488", "verdict": "consistent", "reason": ""}

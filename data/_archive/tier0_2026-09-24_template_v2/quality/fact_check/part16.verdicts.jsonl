@@ -1,0 +1,40 @@
+{"prompt_hash": "31b5ad742b279ec5d9d453569682aabdccc086c9a0d2d52d1b11a9548acf8f3e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "883dbcb9f29619e58996394004c27c291c6b5ed1a3b7a6b85a563fc877e9eee9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9aa7e5649d33d891708eae8cb9c971d58db6abd088e4c065ef8157d1a679a28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "607098af6ae87bd89541999885c45352ca298238a2552f212e29ccf50cb9255c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "876a117902f467d229c71fdac393b546e6edd61e86468a4df544efb4773963bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e2c1af325f728425549d58acd7b477ebb0b3c5a93036409041ed8eadf6797cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eeff2bb822db0039b2a2de53cb78ff2c32514e2dade269da9db37fedbdbb2046", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "facb8766c095716d8a974d47b581a34227fff3579306675c10118157223bb12a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb76d43ecb26c4276cac8b7ac1df1022636d1e4dc79bc238aa639f6239425c9b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9278ef247c5915217e7b042c9ddd4a6ff43a20f70a89fae4355ea95251ed0c3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f04deeab2c1be4dc31b5d267f17441af225755b6e122afb0ac2cbaac73649648", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f44a16fa3c1a6a86b7a0d67c011c73eb140e2d83a379a35899eb55ff36cc9835", "verdict": "adds_false_claim", "reason": "'Arthur poured water on the dirt... The next morning was very cold. The water in the can went freeze, hard as ice! ... Two little green leaves popped up.' Carrot seeds take about one to three weeks to sprout, not one night after a single watering, and a hard freeze slows or stops germination rather than accompanying it."}
+{"prompt_hash": "7204c1b7cedb38f5f1fe557994301c4e4346f2e8170cb9d2ce5927711b7aa0ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4634c74f42adfdf9afcfeb83148bdd954e69c0b895fbd8c64d25bbf9875f193c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26af6ed2fdecb657567dd217f14fc5978f7f57968dc83425a4898c7f6f28ea5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b185e40ae31ff0fa74255f6cf249b621fdbb1a61e1c55fd19b27a9d8dd64d5c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efce9d1c75d788e2ec0b997d29cc8137f9f011fb262060e73fb41077daaea263", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a6aa7e44ace11a0183745fe96038a1fc5a5d1114b0a729672c7036e3447a16da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "901fd68f740319ceff084f63ab9e9230258c36bde4e7ab879bc93cad3189382b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d997c85d79ea9fc27bf606d5045a3314400cacae3e881d9ddcffaf3c4555699", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eef395814546b7d6291a07a4fc31fdde08c14f9f8a5d0f9fa8400c745b27c98a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c10e8afe5ce4ab54656497e7bf79861e1bd062e4d35077087d7f0d3e5cc50c4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a08f376a9051d8326ab9915d7cb7ddfd2d0fe6ee0be74f88a1bcd4ccb68bdc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2b3164fa9b64521bcfb517f0d9f00fa9be040dbbcda98861c0c2c8e01208b48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9d5df2fbec9e59d7e2e9dd724861e73659d528e8a2beb99069a0379014786bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69ced78fb294e01c18e2bb2d1f68806f97d8d87494db66ccc97464795fee2821", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85c86f7865ae875e0024f043b9e288bb555dad73830d0e75e159c584fb3e96f1", "verdict": "adds_false_claim", "reason": "'The big truck was heavy. The small car was light. \"That is why!\" said Connor. \"Big goes slow. Small goes fast.\"' Presented as the story's explanation and never corrected. Weight does not make a toy roll slower down a ramp; rolling speed depends on friction and wheels, not on being big or heavy."}
+{"prompt_hash": "66df97324f01ed35670476fe5b3ead58062b4a19053241d8a78ea1e6762049e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1734bd23ff0db959853fa13cef000586e014124816a14cc2a5786a794a3b612", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b0a0ee538991ceee9e81dcf2571f245084c1d542b8565b7ada65007e533a546", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aafbf8632005a5a9ebb537ae0276d093c6f5d9c13bafb29bd7ea16437800bd60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7181850d04f0d3b334586030bbb3aa533154519935b127faa0682c1ea2f48642", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "314c78192ab3796bd5424571d61ccadd4dbd41b80bb09d294f710ea0105bccae", "verdict": "consistent", "reason": "uncertain: 'Her class had a goldfish... But the fish was green.' Goldfish are normally orange or gold; a green one is unusual (wild-type goldfish can be olive), so this is a specific description rather than a general claim."}
+{"prompt_hash": "d613fb3babdb48c77b6adb44bf6aecd601c93fe41f9fdcddfbce5e9320b9fc95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b294fdc51ff7f8e1b17499bb9538c346e9af0f4d713575a981fe3dcae9eb3fc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f1c6ccb945e0dc7ca4f68dc89b27547af93aeed7379a9c6e2c9cdf69e9e7125", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d36f3bfb6f99fa9c55081a1e22e41d7714c0bd453a478f09814a50ec5c03d1b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a79172b837d40361c9336f67caf8bd22554e7241048c7d2ef156ac0d76b5266e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eed37f0b17c4c1842d6d797c48ac541e1e9a7ebc02819bb588fd5cbff4b08f03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cf678f7c867baa5acb3d214d02444478ca7361e762ac49935291fa1ec6b8482", "verdict": "consistent", "reason": ""}

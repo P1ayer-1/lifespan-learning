@@ -1,0 +1,40 @@
+{"prompt_hash": "abf1c39219d3effcdbdd9f735becc03bcc9072f5b7a967054b1f9c8e90ec32fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9ad3da26fc1e4e009ae840afc41fb95787b5f4bafc36f6611f78c770eeaf610", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bdaa8b09fdd96dff3d48f747577ba554cd2bae263d979d50024cc14bbef05358", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fcbd2d4fbfa2464412310b5189ec79739ebec48f6491397f57e10b5ced00cff0", "verdict": "consistent", "reason": "uncertain: a pharmacist dispenses cough syrup for a 3-4 year old (medicine type unspecified); OTC cough/cold medicines are generally not recommended under age 4-6, though pharmacist-guided pediatric syrups and dosing cups are legitimate."}
+{"prompt_hash": "e56f9abca3dfc6d0f87ee2e7ff959b19844f1e513f7b40bacfa761d6ed0bb986", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "853752c533f7d6391bcb97bc2ec5bb7a776d3c413eb24d1ef9ec21ba066ba70a", "verdict": "adds_false_claim", "reason": "'Count my fingers ten times, then you are done,' says the nurse to explain how long twenty is. Counting ten fingers ten times is one hundred, not twenty; the number lesson does not add up."}
+{"prompt_hash": "01af6326cafdd38d636d98bfb53df1be25f75ef1b0054c412a73f8e43a0812f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d728461e874a75da1315e4de30a089893ab215a7d593e11b385bfda3d4ae9567", "verdict": "adds_false_claim", "reason": "'The block fell fast because it was big and heavy. Small things fall slow.' Confirmed by the brother's demonstration and never corrected. Heavy and light blocks dropped from the same height fall at the same rate; weight does not make things fall faster."}
+{"prompt_hash": "4c9fe55dca36404c176c4c8b90660672b6c5d63f575b84055c21832bd1c5762f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aac7e8ae8ad84a12fc8aa801f676da905b2a36ee2e63fb5e2d7ab57107134f21", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95886437565a8bbc0cda8dd3e0fa1b8af4ea9f568ab5408d649cdc4c6313ba7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52c5dbc317426929c0b4511f2629b2a9b8bdd06ceee902578b8222d15389368f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c388a4560bbd04ed8ffe89c539098f9f7e4f2718693d6422f19c4dc5b75c55b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3b5251c4d9b43d5784752199fc6b3b42fadab07fdb2583a265ce564ec55b479", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "000806a55e3919c53c91e010c7f04671bb131eb0d69b5be5de6e24633f124c65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c90ad6b756c4d142725545b929eadd6d6330d52c276a03f21810b72dd3a2472", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33f65f18248c39bcaf0abc3ca45da4fa03c621b41629d04e4b99e3d80ebc9f35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e75a0b21298df944a7b510d4f9d3e03990ee237294cb6d381f4ab7ff8181ee8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ec60ff54d48221d9d2e31b601115b085cf0a27a685879d7a2714c5106975b23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38a4bb59dfa7a7d759d621f222d1e96963c018075c7f9991084e63a733c71321", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5f94890d0677bf85a9d854fea97a290da796e7c3fd3c7e8413267cb312206bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "255486b23411f920932602c0ad3188dc736acbabd88d27f555513837a354e669", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56e3f8689eeb938454e121e7d4dffdcf0d3215920a61b86445b591667dfba8ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c4bea66df300fa70f336b311fc25045fb2c87b2fa7d762aaf06491d5e618556", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e58a07150f375c36760721cd8ebc71a5c8e4cfa05527013def89a1b0e44424c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cb5474b496b19daf99d4be9569e923e7cac3181dcdf94fb64e35b75ccce1892", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd0d23648a0ee55048a96527785b72fe61e297989f7602b78666c6fecad2b02b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ddf6d0ca72505237cd48df7ff7f4f74c619ae7d67a31c8ea039b8675a4b063f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21e511742305e5d539b3c753de7d0bdfec083f0680b8385d47cadf8ae3c50af0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2297cd41a1ffef713bc48ffc5a8f558e75b418dcdf42b77a345f10234e493b60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bcafe8454f58f35c21cb3011ea65b7965c5e932be386ef2667ecf03690da616e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2783c432691b5d9fc192133d629ba7c4ad29e7fdecd8e4a40cb787c7f81d761e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c0ded8fb65c27464e0198019b54777aaf4ae5bf809af9d60c6fdb95b61db358", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "30651f35b2c6bb24740c70f6b0a0b4f6760188d4e8ea8496a7652edf09b149d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f97dba48708a8d043506efff8f74cc1ac01b6c4c3f573c3c4b1f344ed6b0b961", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f543e37b51658f32820d3e621fed737704d386a6c84bc4049bcd32f09bb386d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5c2ed83f9d499e88a73679bf295893d147fd88c884a7d0729accd1eace469b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f25cd37a3def9a6c63f6ff1684531c3883486008fcc0d474686f812de6712170", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89c9aff8cad87e45acc8091e9b93fdcfa8fedec4caf5b34afcdd68dd1f88f4f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d05bdd14cf0ea37f5348149bed08aa7938df9526a2ebb2cf736c1b9fe88b762", "verdict": "consistent", "reason": ""}

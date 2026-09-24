@@ -1,0 +1,40 @@
+{"prompt_hash": "6ecb23c7924517f27005c9851034766c472a6d15a5a377e55c92cfdc5acbf0ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2a4edfa6ce26448437893bbfaf5dc202fcaa8078e41424bc9530e2c37851a7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ea82ba0d3b69ef7d7fdcc2efcc535b5e9f1d612634566fdaaa894912b239706", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25b142808618f61a11100cc8862a8db7476d1a6a38fc3ff16d7565c836b44b71", "verdict": "consistent", "reason": "uncertain: 'The phone showed it first. The TV was slow.' Live streams on phones usually lag a TV broadcast rather than lead it; depends on setup."}
+{"prompt_hash": "b165e246cea8eab27a80611ea8bf21d411d61afecb1d47fa78e00a60962379e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc86042913d70db695beda6b7440780691aeacfaa8b565dc8d77c9f453199312", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4e58d20a63636bea49b1e01eb0c4136b188a36d6b10c0a42d1630815f24691b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d36e90e494f2571be30861565897c9d3a0a3b8da9e935852a4a1737aba2158ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c8fc918d3204529ad38d5eccc728779e4332ac773d69e66d247d12f8ebba1ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b298809d2b61d3b22a6989d62c2ed7ee8321703bc35ed32640d8a9072ba2adf8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6787939421cfb8c14f19d188520a58290d8ce3186898d9550307acb63b60ef44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76f55aa8c27a019b479726a6c4b6dbb8d5b8aa30329cd2ea88c2f689a7e45363", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "034b1a39faea826197f2419220d25832380d820d22d53f50090e7ce01d32795e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc13e383a8fb76352e47404f559c181d2b07c6c03762e84a015c0ce1d04b4aa2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f43cf63c6204368740d0172bde2b29a081d77af69e98e2768c0e54f703291122", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3efeaa08f6666afb11a938f91a7584291585a60b4c871ac5d4f45eed7308f6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cf4068a764d78d5dabef111f89ebfdee249071d27ea1e38d9e73959a90b503f", "verdict": "adds_false_claim", "reason": "'Five is old news. One comes after three.' Dad, a trusted adult, states the counting order wrongly: four comes after three (one is the first number)."}
+{"prompt_hash": "0a9159de0b267c416ccb6493a4dd26aeca52a0549f11b83e33f92b04b43ae3f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "332a3f7766cf36c686eaa74b7509d3650c9b3b24c957cc2f51fda4a3429eeaa9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e3b287052af46bca44b3caa90b7f21a583f053d02df59ad09238c3c5b350813", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f02407eefb8eeec3cd91314660c686140dbdec0b886974c589dfc45a552b7d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "983ac1aaac134c1da4647bb157af5d21a7d7bf0b9fa004b9300e30010faa0d52", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "276f743e39c86f5a2ef5541c4d3e57debd99f6fd83ec4db21b1882285f39169c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe438ff051eb36901876f99f1344fe714c4a893bbe1ad7973733719d15390c4f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "761308112ab8c30bcbe02f7c65af46a618bbae154ab749b7368437bfad3f7863", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "371b5092810a210ac023f527dbc3982587f074add5eb1de161fb3ca620a0671c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac38c7d870e011052cf1fe49f04de69588dc52b6bef3660ed93ff476dd8e172d", "verdict": "consistent", "reason": "uncertain: 'The sun made the water melt away.' Puddles dry up by evaporation, not melting; child's phrasing, uncorrected. Also snow that does not melt right after the raincoat was 'too hot' is physically inconsistent."}
+{"prompt_hash": "5e5cbf0bfb1512c793ff0e24a53250baeaa5b03d19b9153d8e453f39438897b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "239d8604853343039b22edbb429558e5e205a95ac9cfdffb117a51c857619175", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68504af320ac57f92832740641f4b6b8cb2def7ae7f0299bc9eb0d324dccc651", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "42ca4c76e60cc67c47a853e5a078954d3f7c88ca31a808cd3c3f93e43cc47867", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0eaf4e48cca7ebf4ac535e52ab001ef866a2d295801f1495399b67ca28e20776", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a69035701c6eb85f77d171de2d276cf5f64b66a048b8cb532989e0089feb06db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6bd44d454b2b8c042fac744cbe4857dd3a36e6558997f9726f5eafbdb2249b69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5b10bac056e66a92efe8a4aa53c7022a0d02e26fe818b08de2cfa878dd7a5d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edafce70ab1f18b8ee3072cfa46a6f921e822fef010d24122884b88a85fc9fdf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72c07a16e6fb4104eb1a4b62fc25a27149a68b5feb920242976b9b5211c6b8c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d675c5db03648de489b241afafd5cdafb7f4857fc3e597d5fa0338bea0945e5d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae84aa81e71dc73c93b2df172fa88a5b59e57eab217484fa6ae91d9272f674ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "42083515a63068ec6fbc7705510dc36ed9003c9cca58d28a521a88f0406721ee", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "64d99965093206292acc1fc640d5752df06a98472f4618cd6972517bd53ee747", "verdict": "consistent", "reason": "uncertain: Miss Ana says 'The hard ones are toys' as the rule for telling toy apples from a real one; real apples are also hard (the real distinguishing cues in the story are weight and smell)."}
+{"prompt_hash": "d17e8b7618d0b1c943b938154ed78fd16a5293faabf024c03a59ca63d6c8e621", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2ade40626eb71c4b718847174683d0f4b7492d6c981d52694bacafcd48f2595", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d008ce90459ba56e597e7210c260ca57f8c77263488db694ec54ae299d82b866", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aacbb534b23dfc40e848f5bf258a70e05ef3d19639feb3c6cfd8903a5819429a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0b507cff2b5d726c57048baf2200509f405ff62e1556bcf6907c4d3f6f6f71f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b748efec53706831514b710ca5b2a066a7ca4d3a9ba0f655a291d1ad9299a3f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24068fa653863ea75d7ba11b45f85c363574def8343681264a4a36d15bd2431d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92f139b9b132751687333fea8e50bba510408c6806ea9b02f6accfe567409aee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a238279943074ca2a8c766538f09deaccc31db38376e223c4e46e796818b2c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "488fd381b8d162488372460da3a54747940b5b0ae214e282b4f2871ebd270b5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f123d345e5220f6ea694a8c52743f278eda2f98b2e476e8762a1216b3b0aeede", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "914c69e560951f20881fbb9454798289bd4ecdd4643bac2acbe6e56e54385018", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "698e77805d40990421679f0c44b1dd8f1e06f9c6d04484c59937e713f44a2a90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "100727b5ac8878a109c4de2c46577b8d3f6af0d0fc3322c9274cc811902b69d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8634d471b0ea604d7ccd1a8e42c84ddd449f2f636770b3a44c775b262e530323", "verdict": "adds_false_claim", "reason": "'Germs were too far away to see, but they were there.' Germs on the hands are not far away; they cannot be seen because they are too small."}
+{"prompt_hash": "773a38022e7dd1157a7df933bee89a464f8d2dfb7b238e84c60a213cbc78818c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c46e623e09dcde9bc3f254a84c249d168e56ebe72571fcc13cb1b529d3c93bae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69042598ee480d22b85ef6fe41c2c0c9c6b353ee2abc2cbb01f020bb42b682c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "187f55841c811ce8701e324117d1f603818375efe7dc822d768a58e38cac4f62", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6c509b9b040dcd885bc59454386a5f0a99f563809e64f18797d2b5d9a76b0fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4346912ae422d8a1c2d87c19ed40550ce3fb80beb20f3c8cb5917f8fd4d789f", "verdict": "consistent", "reason": "uncertain: child's closing line 'The song makes the germs sleep' is left uncorrected; treated as child whimsy, not a claim."}
+{"prompt_hash": "a8b8383528acbffacea328c5b9df4442072d4bb61c670903354ea703d140dbf2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b7ba5fc934a6dfb0ec75b970508df15f85ab14a1efe51f8c48a0e43a0a08ee9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77f20467f85b4e5113134d6132813db957c30367a3296c6aeb4d3b1fe07af96f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db765a43c7868f06141dff35617af5e69ab86a4307317449ebd039edf6a401fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31249efb509a50fb13c568c6c8995a593c69152ea0f51e4bf243c1ea70028eaf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88c328235e94f8fe5aeb3942f725546f501aa849a9a1e3dd0c020dfea41923b6", "verdict": "consistent", "reason": "uncertain: narrator says 'The crow liked bright red things' to explain a crow carrying off a ball; playful, about one crow, but crows being drawn to bright objects is folklore."}
+{"prompt_hash": "2b1afae6298c5059c2bc8e47c365aca8bca5ec3fac1f0055a9d799f3f3e9471f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "105035b24a595ae5041fd1bf4ea34c7a6c416e9035eaae791ea12e4cc7ea5033", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8748778562145f4290fee73c66408a8303b769557865d82b2526c732c75eb2c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6dad915ed2977a7fbd9bb3964b4b934f10bf7d858d140e31680ff44a05ebd42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d98add339f957afee2fa69b6abed48e7da2708a34a441d2a0a3ab1831181900", "verdict": "consistent", "reason": "uncertain: child says 'Amen means go' and Papa only smiles; treated as the child's own framing, not a corrected-or-endorsed definition."}
+{"prompt_hash": "946baa73767e43eef6fdad1da0f97f78ae6865266da3968795870a60e2466e28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0fd99e101acded0dcddcef0b66bd67c9e5f4a22d6ee9cab531a1ff0e4da0ba05", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15260bd4fa88327f2aa5184e29d2118f1d0f4a9ae0318ef26aac2d2c78cf78b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13c04c720bb3dd9017f351590c6fa32e85b63a9b1fb69df66fb0aeb977c1ee59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a94724d2d8c210fbb901799178a2012b36e220477ac344540e4d316ee8a03c98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1e63a8b8dbebb91ca75bfce7d9b50148db042abab5fe7f1241380a594c2568e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8ed9f441f57f82b7db64c8ffef3b3c359d8219999ebaed21349e8627b4a842b", "verdict": "consistent", "reason": "uncertain: a real duck is introduced with 'Squeak, squeak!'; ducks quack rather than squeak, but this is onomatopoeia echoing the squeaky toy, not a stated claim."}

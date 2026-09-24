@@ -1,0 +1,40 @@
+{"prompt_hash": "6ae611e5390341ad1c40d5505eaacb6a00b0f9b8e324cbbec385bb64f62486ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a35c70370b332ff1cafed1bdeebe6cb74cc9084cb9ebeeb1abbd69a504c32e47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5581cf5ea9b92f718ba0227f7a379b29168494acd9c04e12bfe73b539ad6b9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2dd953b2059fa429715dddfacea179bea7da6546e17ddac6bef48bfd613032f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb422ba7cdac999eecf5d7add5b33b76ab5c6947f3cad66341203573f8d30e16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "307992d30f7e3d31a8824ed6b5444ceb3a7f785a523a86430e202c9b2d9fc7f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84a28d5591ac397826477ad8753bb14fd7ad6c05c16f1d06a4ebfae5799dc1ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46b028125cb8a871b3706387f92dba32ed57a4e52447570dcf9d391c4c79bfa6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9c21ebcc4f94b0efb275a48dc504999617973c8e712fe4cd568a28c57d08a9e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b284983fd926632a9c9cc7ea66b5f7625cc7723d209af6d21f1486a4221c232", "verdict": "consistent", "reason": "uncertain: 'My hands were sticky. Now they are clean, so it works.' Touchscreens usually still respond to sticky fingers; the mechanism is plausible only for heavy residue."}
+{"prompt_hash": "04b82680d4f71cb4c6cf45d403f62eed1e89022bf118293c26a496d03e20555b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a6d416448e90a586a703a32ec1a3bbda6fc4bbd586c538e2747ab1c083bf9a0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e831b686c29b165df9daa04aea3f9e3ef419aca63ce9328a02a74bfbb04c1c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "365aaf19ae6b6e100a5f29f8d42221615002045fdb86a4762ca8d6bd5d258a20", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a6ee2917286cea9730d214e56f66669ba63e10a322f56e19f7f80cb721930b66", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e4f31bfb4b54b1f94172b38c2b62d4a23b24eb15126c7604791de50fc53affa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d577821949295b6557c2f5368047c9ebc4cf8ffee7d6e7253f136fd05a7ea767", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3d1382aa9fbc17be5dfb45f35be5c2148d4a6dbc2b774d0e7e0f38192c9c0b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62683bce1f21b6bb188e58998fc8f58b20a58eddfa34a140f2f0fc269e97f1df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb415cd31ed35408449fff9a8d970b8d4ccde1e5c49e6d9ea850521236b2a6dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6a901b320be2e4a702940702369b1e93f43ee5ecfe85fb1c4212fd1e430cd0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f7ab508add13a2399ca1ce8241f58515745360a1b28701178d604f17ed401df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "936c6c5e0241615c27b4993040a5a0d9f6c2d5c276b2a66fce77adb8831bb667", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf9bf4ebac383e256458bc4fee36e5a006f8223c9ecef1312b3f23ae3436b9d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83d66e1b27e10ec2e5942ebc5dc1eff7e72085429dba62e8f519b451d56c9d5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0411a2b594e34fa416ee43285f360c33014ef9b8de85c11b2007b566da8e47fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c29d3944e04c79fe85099c205c6c45b5c062ccac66f68308d6b7e413c3f5240a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a717119699d0468d0b2e0a064d9226bccd6f56519deaa1bfbf1862396740cbf8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bbb400e62ca4803c0395bb1467eb93201aee98172e6a8594bd7ae8ffd69c8bf", "verdict": "adds_false_claim", "reason": "'The nurse poured a drop of medicine into the tiny needle.' Vaccine is drawn into a syringe (or comes prefilled) before the shot; medicine is not poured into a needle."}
+{"prompt_hash": "b17dea3abb0082ee40b60ef60082cbd8e999b88e20d7f2f30676b78e21e81054", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "14eb9e814577fcbf89867d19e8d0c8ddf6ee94efc18397879aac00614dfab920", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0a1a503caf2ef1ab9e44cde688e1efb43add6c24670dfc91172af5eb5cf95f9", "verdict": "consistent", "reason": "uncertain: 'Dadu' (Bengali for paternal grandfather) is referred to as 'she'; child relights the diya with a match, though supervised."}
+{"prompt_hash": "9008127464f6e50e331cef5b4c31b08791181fcd192d300a8bdc5203e8c0fe86", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73cdce9c20cf1d4cd9b41799b7532dd6ba74237976b4cbd112d1ee28719811a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54d340b2e954f1e1bd3509444c7de56d2f97cc4de7b485a320a458fc5f884c6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "459dec5dc0d84e66a3fd17b7f49acd31cb1fda842aa5764c4970ffc4402a1617", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81eb6f6b5175fd040397a5b0c38aef63bc88b98768bfae88ae6c704afd9c6349", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "812cec31e326091a773cc48671dd9515cce97362b69bd991996bb16dd5150278", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "153d483c4abe82d63146cf59574abee2adddfee71ce2e63e28b9ef2b86aa1049", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "035b80545882bc23d6ec289901950836ef7458eb7806a568564ba4a31624d542", "verdict": "consistent", "reason": ""}

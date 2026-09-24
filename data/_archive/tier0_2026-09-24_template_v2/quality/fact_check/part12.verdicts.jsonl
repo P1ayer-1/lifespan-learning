@@ -1,0 +1,40 @@
+{"prompt_hash": "44d44cabc6355517aef316e5e60b1094d93ca4a31a1af0dab3a986f023ca8acc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6717ff0d5c6190a013dcf9599bbcf2e1b297a08bf610d9ec19de9e0a18508f09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80abba615c7d6b458befce13fb96a40fba751dd7ad9474a6b0a1419458ae5196", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37512ecf3da839602346071104591cf42e20ca0ff8c3ce16a4692478ba4ae2ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37e3f01d50cec503df3da4ecdc97bb815d62b903cd0c173dc49050a4de29370b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94384de5a29cf8612932d75dee2879e8f6a94b3fce712b853db124cc47dbbe6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8f9076ef76af0f0180b76a0352834b89cb5ada7d8c0cee0fce4552f991c0b6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e5e640c1808f8e42048601726af9eadbcb8830858ce98a788ea2613aa17be7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46b5381aafd4b4b83ee5f337033cd9be712c4ffda079c071c5e16ebbea653b58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1ee27e04db1f4507ebf7331abd2029778471a7dcee7d979b566435e3e397ba5", "verdict": "adds_false_claim", "reason": "'The next day, Olivier ran to the garden... The wet spot had a tiny green sprout.' A seed planted and watered does not sprout by the next day; even fast vegetable seeds take several days to germinate and emerge."}
+{"prompt_hash": "385682cd47d797aafdfeb75e2b0c5bc48a9532e47d0b2d7eb450c07332814e43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b409cc3f88acdbe5cc3f4ee8283df339ab0ee834c815fe65258e00302fa9b0f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2187f65016a0a63eb3f274ebbcbf04366619a0e0a3ecbf1f80d2468242ac91c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "576f8e9219739e4a5c651f60e123da776b18c9a2a4d3c290a0bf889db910e6ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ccd044bc92f308fa7151e1614c76622fb6d75a6fced17c93ea5ffc24b529b34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "caac1d05f19df62c6db82414d4bcc85923bf2716016c1c26ada82f058654af7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1166b8382d933ec26c897c46b1de0337632b94f58901d4d2716cb069ab9f4204", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5e12d5812c2c1fe6573843eb63ba758fa952575f0a358777958457697c5a9b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df57309808d4418a1083ca04a62ec55927ce5783a518638528f40c5a9bb0c2be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a667cc13354549d012670ac50aa98708caccb980e2ba1a43016c41ca66af661e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e7a9209f052aa30b1f048c5a5bf5e3d1da64b9186c4603cf6c785f512016ace", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d58d58ba3b6568614cbdb6f185d1e3aaa13e9bf88461b92f8628b775e11a91f", "verdict": "consistent", "reason": "uncertain: 'Thick snow makes me go fast. Thin snow makes me go slow.' Thin snow with grass showing does slow a sled, but deep soft snow can also slow one; packed snow is fastest."}
+{"prompt_hash": "b8b7ff13893b261ce7cf70237eb03cc71a6df58d529e4d74a07ed6c6275141f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "107030e0af2d6822a8c5dcee3e4986896670e3bcbb6c92267e1da07851ea2251", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b5cd2c073f505eb73d1a821e6861c23c3e1ad8869403ae575e2414547f2b7c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a4ff05c017dfd5702f2b4de9a5b290d012dcc4cf2a729ceebae442d235d947f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7dadd3c848bca9a9aa24db57b359cffd848fe85b66db7c705db0ac4c2fff46f0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b1e4adbd477520ce802dbea3f99dc402cff8f0bd38a20e240512c1138a217bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45171beb387820789af09e795b5e8a8cf669bacb11c24c775e448d2d7ab4193d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a9152a334de82d97b8107d474b8b048a9fd28b23ff79810b16cc23859d73d41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa03cecfa55f221cdf7c5667be2c8b51fb5168822359ce5d032aaf63b7bee959", "verdict": "adds_false_claim", "reason": "'Small dries first. Big needs more sun.' Sam's small paper in the shade is shown drying before Lily's big paper in the hot sun; paint drying depends on paint thickness, warmth and air, not paper size, and the paper in the hot sun would dry faster, not slower."}
+{"prompt_hash": "36e396d38e6094abb6e6ee43acbf59a90f9da42d004bfb7b12aab72359731c74", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61694eea75be83275af9e96f6734ad5d8cdddf7befa7dcc8d9164653be1833cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6fc8e2ce449879169dc7abc798cf87290cb221b5ac8b62456b75610981afb81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b717f8cb01d35b0382e127ee66a2f29a3ca0b58eb1cb08082e60ac33a223cb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c623dda34fab67d7a260fa0dea520c5d91ec0a28122311ab5a57962897c976f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34a90857f8b11d804edbca9a5b7d070a3a0f587780b32b78dc35e5159ed4b2ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "daf6c4f1ca524ba0617f2cb8e4b4464005ee8bfe0ce3eb25263bee829873ea10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "584104a14656f705be54b1b39194ad3bae638c59ebf31729b160c249577496e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e847489c1fed337cfc35f3d55632baf05066b375a2ea5fc8afdf47c362154283", "verdict": "consistent", "reason": ""}
