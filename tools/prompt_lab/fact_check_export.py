@@ -1,23 +1,25 @@
-"""Fact-consistency gate, subagent-driven (no API spend).
+"""Post-generation factual-accuracy gate, subagent-driven (no API spend).
 
-Every prompt carries the verified fact its story must turn on (prompt
-metadata "fact"). This tool pairs each generated story with that fact and
-exports review files for a subagent checker; the checker writes one verdict
-per story; `apply` turns failing stories into a regeneration queue in the
-same shape generate_responses.py already uses (<out>.regen_queue.jsonl),
-and writes a per-phase report.
+Prompts may carry a verified fact, or may name only an activity when no
+verified fact is sufficiently relevant. This tool exports the activity,
+knowledge domain, optional required fact, and generated story for a checker.
+The checker validates every factual claim, whether or not a required fact was
+injected. ``apply`` turns failures into a regeneration queue in the same shape
+generate_responses.py already uses and writes a per-phase report.
 
     python fact_check_export.py export --prompts train_prompts.jsonl --stories train_stories.jsonl --out fc/train --chunk 40
-        -> fc/train/partK.jsonl  ({"prompt_hash", "phase", "fact", "story"} per line)
+        -> fc/train/partK.jsonl  ({"prompt_hash", "phase", "activity", "knowledge_domain", "fact", "story"} per line)
     (a subagent reads each part and writes fc/train/partK.verdicts.jsonl:
         {"prompt_hash": ..., "verdict": "consistent" | "contradicts_fact" | "adds_false_claim" | "fact_missing", "reason": "..."})
     python fact_check_export.py apply --stories train_stories.jsonl --dir fc/train
         -> train_stories.jsonl.regen_queue.jsonl (failing hashes), fc/train/report.txt
 
-Verdicts: "consistent" passes. "contradicts_fact" (the story states the
-fact wrongly), "adds_false_claim" (the story adds a false mechanism, number
-or claim of its own) and "fact_missing" (the story never uses the fact)
-fail and are queued for regeneration.
+Verdicts: ``consistent`` means all checkable claims are accurate and, when a
+non-empty required fact is supplied, it is present and consistent.
+``contradicts_fact`` means the story states that required fact incorrectly;
+``adds_false_claim`` means any other mechanism, number, or factual claim is
+false; and ``fact_missing`` means a *non-empty* required fact was omitted.
+The last verdict must never be used when ``fact`` is empty.
 """
 from __future__ import annotations
 
@@ -34,11 +36,26 @@ def read_jsonl(p: Path) -> list[dict]:
 
 
 def export(prompts: Path, stories: Path, out: Path, chunk: int) -> None:
-    facts = {r["prompt_hash"]: (r["metadata"].get("fact", ""), r["metadata"].get("phase")) for r in read_jsonl(prompts)}
+    prompt_context = {
+        r["prompt_hash"]: {
+            "phase": r["metadata"].get("phase"),
+            "activity": r["metadata"].get("goal", ""),
+            "knowledge_domain": r["metadata"].get("domain", ""),
+            "fact": r["metadata"].get("fact", ""),
+        }
+        for r in read_jsonl(prompts)
+    }
     rows = []
     for s in read_jsonl(stories):
-        fact, phase = facts.get(s["prompt_hash"], ("", s.get("phase")))
-        rows.append({"prompt_hash": s["prompt_hash"], "phase": phase, "fact": fact, "story": s["story"]})
+        context = prompt_context.get(s["prompt_hash"], {})
+        rows.append({
+            "prompt_hash": s["prompt_hash"],
+            "phase": context.get("phase", s.get("phase")),
+            "activity": context.get("activity", ""),
+            "knowledge_domain": context.get("knowledge_domain", ""),
+            "fact": context.get("fact", ""),
+            "story": s["story"],
+        })
     out.mkdir(parents=True, exist_ok=True)
     for k, i in enumerate(range(0, len(rows), chunk)):
         (out / f"part{k}.jsonl").write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in rows[i:i + chunk]) + "\n", encoding="utf-8")
