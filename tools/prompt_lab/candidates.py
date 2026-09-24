@@ -246,3 +246,92 @@ Vocabulary: use the verb "{c.verb}", the noun "{c.noun}" and the adjective "{c.a
 Tone: {c.tone.key}: {behaviors}.
 {features}
 The story must be appropriate for {_a(c.age)} {c.age}-year-old {audience}."""
+
+
+# ---------------------------------------------------------------------------
+# v5: the production template (engine/story_prompt.py, "baseline" in gen_ab)
+# with four changes for the youngest phases, from the 2026-09-24 tier-0 review
+# (1,000 stories: 27 fact-check fails, 51 age-fit fails):
+# - phase 0's thinking move no longer asks the character to say the cause
+#   out loud; the "X because Y" line was where most false claims sat;
+# - without a verified fact, phases 0-1 ask for something a young child can
+#   see happen, with no mechanism or explanation (935/1000 tier-0 prompts had
+#   no fact, and self-invented mechanisms were the false claims);
+# - an explicit physical-safety rule for phases 0-1 (hot, lit, sharp,
+#   electrical, climbing, found food, strangers: the top age-fit failure);
+# - a stricter vocabulary rule.
+# Installed into engine/story_prompt.py on 2026-09-24 for phases 0-1, so gen_ab's
+# "baseline" now renders it; kept for the record of r9. Against the installed
+# template it doubles the extra-claims line on fact prompts, so do not reuse it.
+# Every other line is the production template verbatim. (A first cut also
+# said "every line of dialogue counts as a paragraph"; on r9 it pushed stories
+# over 2x max_paragraphs from 16/100 to 74/100 at the same word count, so it
+# was dropped.)
+# ---------------------------------------------------------------------------
+THINKING_V5_PHASE0 = "{name} sees one simple thing make another thing happen. Show the cause and the effect through what happens; nobody states the rule out loud, and the story does not end on anyone explaining it."
+
+
+def _story_prompt():
+    # imported lazily: gen_ab puts src/ on sys.path only inside build_configs
+    from lifespan_learning.dataset_generation.prompt.engine import story_prompt
+    return story_prompt
+
+YOUNG_PHASE_MAX = 1
+
+
+def _knowledge_block_v5(c) -> str:
+    _sp = _story_prompt()
+    name, ph = c.name, c.phase
+    if c.fact or ph > YOUNG_PHASE_MAX:
+        return _sp._knowledge_block(c) + "\n- Do not add any other factual claim unless you are certain it is true."
+    return (
+        "Knowledge in the plot: the events turn on one simple, everyday thing a young child can see happen "
+        f"(what something does or looks like, not why it works), connected to this topic: {c.domain}. Requirements:\n"
+        "- It must be plainly true in ordinary life. No mechanisms, no scientific explanations, no numbers or times you are not certain of.\n"
+        f"- Nobody explains it in a speech; {name} finds it out by doing.\n"
+        "- The narrator never defines or explains it; the reader picks it up from what happens."
+    )
+
+
+def _safety_block_v5(c) -> str:
+    if c.phase > YOUNG_PHASE_MAX:
+        return ""
+    return (
+        f"\nSafety: a grown-up handles anything hot, lit, sharp or electrical (stoves, ovens, grills, candles, matches, knives, hot water, plugs); "
+        f"{c.name} watches or helps from a safe distance. {c.name} does not climb on furniture, eat anything found outside, or go off with a stranger. "
+        f"If {c.name} starts to do something unsafe, a grown-up stops it right away.\n"
+    )
+
+
+def render_v5(row) -> str:
+    _sp = _story_prompt()
+    c = row["cfg"]
+    ph = c.phase
+    wpp = _sp.WORDS_PER_PARAGRAPH[ph]
+    lo, hi = max(c.min_paragraphs, 2) * wpp, c.max_paragraphs * wpp
+    audience = "reader" if ph >= _sp.READER_NOT_CHILD_FROM_PHASE else "child"
+    a = _sp.article(c.age)
+    behaviors = "; ".join(b[0].lower() + b[1:] for b in c.tone.behaviors)
+    assumption = f"{_sp.READER_ASSUMPTION_BY_PHASE[ph]}\n" if ph in _sp.READER_ASSUMPTION_BY_PHASE else ""
+    features = f"Also: {c.features}.\n" if c.features else ""
+    return f"""{_sp.FORMAT_RULES}
+
+{c.framing}
+{assumption}
+Write a story for {a} {c.age}-year-old {audience}.
+Reading level: {c.reading_level}
+Length: {c.min_paragraphs}-{c.max_paragraphs} paragraphs (never more than {c.max_paragraphs}), about {lo}-{hi} words.
+
+Main character: {a} {c.age}-year-old {c.gender} named {c.name}.
+Setting: {c.location.strip()}.
+What happens: {_sp._what_happens(c)}
+The story needs a real problem or want that drives it, and something concrete has to happen; do not summarize feelings, show events.
+
+Thinking the story shows: {(THINKING_V5_PHASE0 if ph == 0 else _sp.THINKING_BY_PHASE[ph]).format(name=c.name)}
+{_knowledge_block_v5(c)}
+{_safety_block_v5(c)}
+Vocabulary: where they fit naturally, use the verb "{c.verb}", the noun "{c.noun}" and the adjective "{c.adjective}". Each must sit in a sentence that would sound normal read aloud from a picture book, used correctly in its ordinary meaning. If a word would need an odd, silly or confusing sentence, leave it out; a skipped word is fine, a forced one is not.
+
+Tone: {c.tone.key}: {behaviors}.
+{features}
+The story must be appropriate for {a} {c.age}-year-old {audience}."""

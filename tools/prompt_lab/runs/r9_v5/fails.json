@@ -1,0 +1,46 @@
+{
+ "baseline": {
+  "dc8b34312015": [
+   "fact:adds_false_claim: '\"Today is Tuesday.\" He tapped two little squares. \"I sleep two more times, and then it comes!\" Dad kissed his head. \"That is right,\" he said.' From Tuesday to Saturday is four nights (four sleeps), not two, and the calendar squares between them are Wednesday, Thursday and Friday; Dad confirms the wrong count."
+  ],
+  "7133411ab4d6": [
+   "fact:adds_false_claim: 'The sun made the girl's swing slow down.' Sunlight does not slow a swing; a swing slows because the rider stops pumping and friction/air resistance act on it."
+  ],
+  "2a7c7af1e75d": [
+   "fact:adds_false_claim: 'He painted a circle for the door. ... The circles wobbled and rolled away on the paper.' A painted circle is a flat mark on paper and cannot roll; only real round objects roll. The story also contains its full text duplicated.",
+   "age:2: Story text is duplicated in full mid-line ('he said.Muhammad sat at the little table in art class...'), so the child hears the whole plot twice and it becomes confusing and far too long for age 3."
+  ],
+  "e386ac825e91": [
+   "fact:adds_false_claim: 'He wakes up when his tummy is full,' Mama whispered. Newborns wake when they are hungry (tummy empty), not when it is full."
+  ],
+  "984a0145347b": [
+   "age:2: Unsafe act left uncorrected by the adult: 'She touched the pan with one finger. It was hot!'"
+  ],
+  "7b6175904fb1": [
+   "age:2: Hot wax lands on the child near open flames ('A drop of hot wax fell on Hailey's arm. It felt itchy.') and a candle hidden under a pillow makes the plot confusing."
+  ],
+  "6cac665b0aa1": [
+   "age:2: Unsafe for a 3-year-old shown as fine: Jasper works a glowing camp stove himself, 'He slid the pan to the side of the stove' and flips the pancake after it burns and smokes."
+  ],
+  "15ffd23242c2": [
+   "age:1: Unsafe behaviour shown as fine: Emma stacks books into a tower, 'stood on her toes and reached up high. She got the owl book' from a high shelf, and the librarian just smiles."
+  ]
+ },
+ "v5": {
+  "cfc408cb1de7": [
+   "fact:adds_false_claim: 'It had a seed inside, a tiny brown seed shaped like a little star.' Grape seeds are small teardrop/pear-shaped, not star-shaped. The injected counting fact itself is stated correctly."
+  ],
+  "0827da429938": [
+   "age:2: Unsafe behaviour shown as fine: a 3-year-old alone in a store ('Then he ran to see the apples', no adult present) and 'Arthur climbed back into the cart with his dog'."
+  ],
+  "4cb2bd857fe5": [
+   "age:2: Several garbled forced-word sentences a 3-year-old cannot follow: 'Logan held it with one toe touching the pole, helping' and 'It sat on his toe of his boot', plus taking a shoe off at a bus stop shown as fine."
+  ],
+  "c02dc062250e": [
+   "age:1: Story is cut off mid-word with no ending: 'He put it on teddy. Tedd'"
+  ],
+  "f67859fd2930": [
+   "age:2: Tangled cause chain for 4: 'The dinosaur had been in his pocket, and paint from his hands had rubbed off. Maybe he had made a trail.' and 'so the next trail would only be clean'."
+  ]
+ }
+}

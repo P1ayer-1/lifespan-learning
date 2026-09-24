@@ -1,0 +1,40 @@
+{"prompt_hash": "449cccbe9862", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7133411ab4d6", "verdict": "adds_false_claim", "reason": "'The sun made the girl's swing slow down.' Sunlight does not slow a swing; a swing slows because the rider stops pumping and friction/air resistance act on it."}
+{"prompt_hash": "c3d8736a6fdc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "104724c2f27a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0827da429938", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0764ff465c2a", "verdict": "consistent", "reason": "uncertain: 'The green apple is sour because green apples are sour ones' (Mom nods) generalises colour to taste; many green apple varieties are sweet, though the 'green = sour' simplification is common at this level."}
+{"prompt_hash": "54bbafb0a35e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "533c8e4f5c15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02fa5c88f30a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f588eed1ac5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb25c867050d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a51c48d2d39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a7e9b812044", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5abe0c324d11", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19f110ee3256", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1670ba3fb6f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b66560b8ad7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "857e6e0b0a25", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e4ca19a1d1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4cb2bd857fe5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f057de4d7790", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca8ea9585b53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb1a31fa9fd4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ce7c9c6c43b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc100cc309fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06a23906dc41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cfc408cb1de7", "verdict": "adds_false_claim", "reason": "'It had a seed inside, a tiny brown seed shaped like a little star.' Grape seeds are small teardrop/pear-shaped, not star-shaped. The injected counting fact itself is stated correctly."}
+{"prompt_hash": "8468cc3a93bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f3ade20c8b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74817eea7727", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "898ab6e5ad7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a00af8586668", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fca5e9b0ba9d", "verdict": "consistent", "reason": "uncertain: story conveys borrowing, taking home and returning so others can read, but never mentions that the book must come back by a certain day."}
+{"prompt_hash": "4858c51e3813", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "741057be0aa6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6550ddcd2aea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3c463c924cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19b36707da61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c4b1750a44e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a17dcd4598b3", "verdict": "consistent", "reason": "uncertain: narrator says 'Hazel watched the moon follow the car'; describes the child's perception, but is stated by the narrator without framing as appearance."}

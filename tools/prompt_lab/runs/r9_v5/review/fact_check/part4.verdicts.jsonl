@@ -1,0 +1,40 @@
+{"prompt_hash": "91b5dd0c5040", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5aa801f10a02", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7df68f7c0f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c7e64b25e3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6b411ec9817", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "367db6183046", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5fa0d4f19a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a7c7af1e75d", "verdict": "adds_false_claim", "reason": "'He painted a circle for the door. ... The circles wobbled and rolled away on the paper.' A painted circle is a flat mark on paper and cannot roll; only real round objects roll. The story also contains its full text duplicated."}
+{"prompt_hash": "e386ac825e91", "verdict": "adds_false_claim", "reason": "'He wakes up when his tummy is full,' Mama whispered. Newborns wake when they are hungry (tummy empty), not when it is full."}
+{"prompt_hash": "7848a78f1409", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "168f50afeca9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3f403464f07", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99ed0bf94c9e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15ffd23242c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e0c22c375ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dadad51a0915", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f3f7fa188df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c21f58464a29", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be209d740da3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2e978b2e87c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b8386d0b86c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "faf3a4f3e8b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e2510a4b85f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "907d5ff4cafb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bdebe4a7c420", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7121b027e0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8cb9ff166a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdf96328e0b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21bdea156baf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a4d9e1eb85a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f0920191ec2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d335cd51da43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c769c7acefed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "887dc69465f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efa11b1738db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18bbc18d61ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "14f3a7bc8f31", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7253ceb34267", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9f0eadbbcdd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fbc67edf4b97", "verdict": "consistent", "reason": "uncertain: 'She moved the mirror, and Charlie could see his own tooth, big as a house on the screen.' A dental mirror does not put an image on a screen; an intraoral camera does. Plausibly a camera wand described as a mirror by a child."}

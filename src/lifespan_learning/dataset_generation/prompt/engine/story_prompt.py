@@ -23,6 +23,16 @@ template on Claude Haiku 4.5 (docs/DECISIONS.md in the Lifespan repo,
 - Older phases get a reader-assumption line (no hand-holding) and a scene
   rule (no paragraph of pure reflection).
 
+2026-09-24 "v5" changes, phases 0-1 only (tools/prompt_lab/runs/r9_v5, blind
+A/B on the production generator after the tier-0 review failed 27/1000 on
+facts and 51/1000 on age fit): phase 0's thinking move shows the cause
+instead of having the character state it; without a verified fact the story
+turns on something a young child can see happen, with no mechanism; an
+explicit physical-safety rule; a stricter vocabulary rule. On 100 phase-0
+prompts a side, fails 8 -> 5, false claims 4 -> 1, unsafe scenes 4 -> 1, top
+age-fit score 26 -> 44, required words used 267 -> 240 of 300. Phases 2-6
+render byte-identically to before.
+
 Everything here is deterministic given the PromptConfig; no randomness.
 """
 from __future__ import annotations
@@ -31,7 +41,7 @@ from .generation_configs import PromptConfig
 
 # Per-phase thinking move, from phases.yaml's descriptions.
 THINKING_BY_PHASE = {
-    0: "{name} notices one simple cause and its effect (something happens because of one clear reason) and says it in simple words.",
+    0: "{name} sees one simple thing make another thing happen. Show the cause and the effect through what happens; nobody states the rule out loud, and the story does not end on anyone explaining it.",
     1: "{name} follows one clear rule with several steps in order (first, next, then, last) and sees it work.",
     2: "{name} compares or sorts things by more than one feature at once, or works out how two things relate (bigger and heavier, half as many, the same kind but different).",
     3: "{name} reasons about something that cannot be seen directly (a hidden cause, a pattern, a rule) and tests a simple idea about it.",
@@ -60,6 +70,10 @@ FORMAT_RULES = """Rules for the reply:
 # From this phase up the closing line says "reader", never "child".
 READER_NOT_CHILD_FROM_PHASE = 4
 
+# Phases up to here get the v5 young-child rules (safety, see-it-happen
+# knowledge, picture-book vocabulary).
+YOUNG_PHASE_MAX = 1
+
 
 def article(n: int) -> str:
     """'an 8-year-old', 'an 11-year-old', 'an 18-year-old', otherwise 'a'."""
@@ -85,6 +99,15 @@ def _knowledge_block(cfg: PromptConfig) -> str:
         "\n- At least half of the story is scene: people doing and saying things in a specific place. No paragraph is pure reflection."
         if ph >= 3 else ""
     )
+    young = ph <= YOUNG_PHASE_MAX
+    if young and not cfg.fact:
+        return (
+            "Knowledge in the plot: the events turn on one simple, everyday thing a young child can see happen "
+            f"(what something does or looks like, not why it works), connected to this topic: {cfg.domain}. Requirements:\n"
+            "- It must be plainly true in ordinary life. No mechanisms, no scientific explanations, no numbers or times you are not certain of.\n"
+            f"{speech_rule}\n"
+            "- The narrator never defines or explains it; the reader picks it up from what happens."
+        )
     if cfg.fact:
         hook = f" (one way it could come up: {cfg.fact_hook})" if cfg.fact_hook else ""
         head = (
@@ -100,10 +123,36 @@ def _knowledge_block(cfg: PromptConfig) -> str:
             f"{name} uses it, discovers it, or gets it wrong and finds out. Requirements:\n"
             "- The idea is specific and true (a real fact, mechanism, number or method), not a general attitude like \"practice helps\"."
         )
+    no_extra_claims = "\n- Do not add any other factual claim unless you are certain it is true." if young else ""
     return (
         f"{head}\n{speech_rule}\n"
         "- The narrator never defines or explains it; the reader picks it up from what happens."
-        f"{scene_rule}"
+        f"{scene_rule}{no_extra_claims}"
+    )
+
+
+def _safety_block(cfg: PromptConfig) -> str:
+    if cfg.phase > YOUNG_PHASE_MAX:
+        return ""
+    name = cfg.name
+    return (
+        "\nSafety: a grown-up handles anything hot, lit, sharp or electrical (stoves, ovens, grills, candles, matches, knives, hot water, plugs); "
+        f"{name} watches or helps from a safe distance. {name} does not climb on furniture, eat anything found outside, or go off with a stranger. "
+        f"If {name} starts to do something unsafe, a grown-up stops it right away.\n"
+    )
+
+
+def _vocabulary_line(cfg: PromptConfig) -> str:
+    if cfg.phase <= YOUNG_PHASE_MAX:
+        return (
+            f'Vocabulary: where they fit naturally, use the verb "{cfg.verb}", the noun "{cfg.noun}" and the adjective "{cfg.adjective}". '
+            "Each must sit in a sentence that would sound normal read aloud from a picture book, used correctly in its ordinary meaning. "
+            "If a word would need an odd, silly or confusing sentence, leave it out; a skipped word is fine, a forced one is not."
+        )
+    return (
+        f'Vocabulary: where they fit naturally, use the verb "{cfg.verb}", the noun "{cfg.noun}" and the adjective "{cfg.adjective}", '
+        "in sentences that make each meaning clear from context. Each must be used correctly, in its ordinary meaning and as that part of speech, "
+        "without drawing attention to it. A word that does not fit this story is left out; a misused word is worse than a missing one."
     )
 
 
@@ -131,8 +180,8 @@ The story needs a real problem or want that drives it, and something concrete ha
 
 Thinking the story shows: {THINKING_BY_PHASE[ph].format(name=cfg.name)}
 {_knowledge_block(cfg)}
-
-Vocabulary: where they fit naturally, use the verb "{cfg.verb}", the noun "{cfg.noun}" and the adjective "{cfg.adjective}", in sentences that make each meaning clear from context. Each must be used correctly, in its ordinary meaning and as that part of speech, without drawing attention to it. A word that does not fit this story is left out; a misused word is worse than a missing one.
+{_safety_block(cfg)}
+{_vocabulary_line(cfg)}
 
 Tone: {cfg.tone.key}: {behaviors}.
 {features}

@@ -1,0 +1,40 @@
+{"prompt_hash": "23cdf3d526f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0bf3fb33689", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc8b34312015", "verdict": "adds_false_claim", "reason": "'\"Today is Tuesday.\" He tapped two little squares. \"I sleep two more times, and then it comes!\" Dad kissed his head. \"That is right,\" he said.' From Tuesday to Saturday is four nights (four sleeps), not two, and the calendar squares between them are Wednesday, Thursday and Friday; Dad confirms the wrong count."}
+{"prompt_hash": "a5bbfca7c319", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60b071ed0288", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d80f97272e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f75b7906a8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1de28a703d2a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aaa8be07c4ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74b217c50fa2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c7cf568bddb", "verdict": "consistent", "reason": "uncertain: 'The yellow light made the cup look yellow too. The green was gone!' A green cup under a strongly yellow light looks duller and more yellowish, but under ordinary warm shop lighting it would still look green; the story overstates the effect."}
+{"prompt_hash": "ba5875a33fd4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "651c991b3f79", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97ab16f2aa34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb919db25733", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65f790002d3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d246e5745aba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "984a0145347b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "435cc1574fb9", "verdict": "consistent", "reason": "uncertain: the injected fact is conveyed (six blocks counted from either side), but the ending 'Five, four, three, two, one. Still five!' counts backwards, where the last number said (one) is not the total; this muddles the 'last number tells how many' rule."}
+{"prompt_hash": "9cc6f2666d28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b28387ca867f", "verdict": "consistent", "reason": "uncertain: feeding bread to ducks is presented as a nice daily activity; wildlife agencies advise against bread because it is poor nutrition for ducks. Not a false statement or a child-safety issue, but a discouraged practice."}
+{"prompt_hash": "bd10dbbbf73f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e45e12ab6a90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39524f4562fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2838cc4fcd53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba58969a4bb2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28456ac99b90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec3b4160b61b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa755d3dff70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc5a2f129971", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "86e01744065b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d22440886017", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cf0dcbd8265", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b355c8c13a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4556eac27a7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7822af2c187c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8873b136ad3e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34cf9f278d91", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df3084732f97", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e998a066211a", "verdict": "consistent", "reason": ""}

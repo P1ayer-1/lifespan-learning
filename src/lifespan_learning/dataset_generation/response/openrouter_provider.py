@@ -25,6 +25,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import time
 import uuid
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -36,6 +37,31 @@ from .providers import BatchRequestItem, BatchResultItem, BatchStatus
 URL = "https://openrouter.ai/api/v1/chat/completions"
 REASONING_HEADROOM = 1500
 RETRYABLE_STATUS = {0, 408, 409, 429}
+
+# Generation artefacts found in the 2026-09-24 tier-0 review (1,000 stories):
+# a leaked reasoning tag with the story written twice around it, a stray
+# "</br>", and a story duplicated end to end. On that corpus these checks flag
+# exactly those three stories and nothing else. The ending check was added
+# after the r9 prompt A/B, where GLM stopped mid-word ("He put it on teddy.
+# Tedd") with finish_reason "stop"; on those 1,300 stories it flags only that
+# story and the "</br>" one.
+_MARKUP_TAG = re.compile(r"</?\s*[a-zA-Z][^>]{0,20}>")
+_SENTENCE_FINAL = re.compile(r"[.!?][\"'”’)]*$")
+_SENTENCE_END = re.compile(r"(?<=[.!?])\s*")
+_DUPLICATE_MIN_CHARS = 25
+_DUPLICATE_MAX_REPEATS = 2
+
+
+def story_defect(text: str) -> str:
+    """Why a completion is not a usable story, or "" when it is."""
+    if _MARKUP_TAG.search(text):
+        return "markup tag in story"
+    if not _SENTENCE_FINAL.search(text.strip()):
+        return "story ends mid-sentence"
+    sentences = [s.strip() for s in _SENTENCE_END.split(text) if len(s.strip()) > _DUPLICATE_MIN_CHARS]
+    if len(sentences) - len(set(sentences)) > _DUPLICATE_MAX_REPEATS:
+        return "story text duplicated"
+    return ""
 
 
 class OpenRouterProvider:
@@ -153,6 +179,9 @@ class OpenRouterProvider:
                 return {"custom_id": custom_id, "outcome": "errored", "retryable": True, "error": "truncated at max_tokens"}
             if not text.strip():
                 return {"custom_id": custom_id, "outcome": "errored", "retryable": True, "error": "empty completion"}
+            defect = story_defect(text)
+            if defect:
+                return {"custom_id": custom_id, "outcome": "errored", "retryable": True, "error": defect}
             usage = body.get("usage") or {}
             return {"custom_id": custom_id, "outcome": "succeeded", "text": text, "upstream": served_by,
                     "in_tokens": usage.get("prompt_tokens", 0), "out_tokens": usage.get("completion_tokens", 0)}

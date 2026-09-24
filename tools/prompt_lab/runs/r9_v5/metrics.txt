@@ -1,0 +1,2 @@
+baseline: n=100 mean_words=168 over_max_paragraphs=68 over_2x=16 tag_artifacts=0 vocab_used=267/300 'because'_per_story=0.26
+v5: n=100 mean_words=167 over_max_paragraphs=65 over_2x=27 tag_artifacts=0 vocab_used=240/300 'because'_per_story=0.00
