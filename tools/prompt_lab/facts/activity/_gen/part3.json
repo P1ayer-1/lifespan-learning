@@ -1,0 +1,605 @@
+{
+ "part": 3,
+ "facts": [
+  {
+   "content_key": "calendar_words",
+   "fact": "A week has seven days.",
+   "hook": "A child counts the sleeps until a party and learns the week has seven days, starting again after Sunday."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "A year has twelve months.",
+   "hook": "A child asks how long until their next birthday, and Grandma turns through all twelve months on the calendar."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "The days of the week always come in the same order, over and over.",
+   "hook": "A child thinks Friday comes right after Monday and checks the calendar to find the days in between."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "Tomorrow is the day that comes after today.",
+   "hook": "A child wants the zoo trip now, and Dad explains it is tomorrow, after one more sleep."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "Yesterday is the day that came just before today.",
+   "hook": "A child mixes up yesterday and tomorrow while telling about a library visit, then fixes it."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "January is the first month of the year.",
+   "hook": "A child opens the new calendar to the first page and reads January with a grown-up."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "December is the last month of the year.",
+   "hook": "A child finds the last page of the calendar and sees December."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "In English, the name of every day of the week ends in \"day\".",
+   "hook": "A child notices Monday and Sunday end the same way and hunts through the other day names."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "People write special days on a calendar so they remember when they happen.",
+   "hook": "A child wants to remember a friend's birthday and helps write it in the right box."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "Crossing off each day on a calendar helps you see how many days are left until a special day.",
+   "hook": "A child crosses off one box each morning to count down to Grandpa's visit."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "Each month has its own name, like March or July.",
+   "hook": "A child learns the name of their birthday month and looks for it on the calendar."
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "The date is the number that tells which day of the month it is.",
+   "hook": "At school a child gets to put up today's date number on the class calendar."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "Feelings can show on your face, like a big smile when you are happy.",
+   "hook": "A child looks in a mirror and makes a happy face, then a sad face."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "When people feel sad, they sometimes cry.",
+   "hook": "A child sees a friend crying at daycare and brings a favorite toy to share."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "Taking slow, deep breaths can help your body calm down when you feel angry.",
+   "hook": "A child stomps off angry, then tries slow breaths with a grown-up and feels calmer."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "It is okay to feel angry, but it is not okay to hit.",
+   "hook": "A child wants to hit when their tower gets knocked over, then uses words instead."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "Saying how you feel, like \"I feel sad,\" helps grown-ups know how to help you.",
+   "hook": "A child sulks at the store until they tell Mom, \"I feel sad,\" and she can help."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "Feelings change, so a sad feeling can turn into a happy one later.",
+   "hook": "A child is sad when rain cancels the park, then happy building a blanket fort."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "Everybody has feelings, even grown-ups.",
+   "hook": "A child is surprised to hear Dad felt nervous too, and they talk about it."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "When you are scared, you can tell a grown-up you trust, and they can help.",
+   "hook": "A child is scared of a noise at bedtime and calls a parent, who helps find the sound."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "When you feel excited, you might want to jump, bounce or shout.",
+   "hook": "A child bounces so much waiting for a visitor that they have to find a calm way to wait."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "You can often tell how a friend feels by looking at their face.",
+   "hook": "A child notices a friend's frown at the library and asks what is wrong."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "Two people can feel differently about the same thing.",
+   "hook": "A child loves the loud drum but a friend covers their ears, so they find a quieter game."
+  },
+  {
+   "content_key": "emotions",
+   "fact": "Asking \"Are you okay?\" shows someone you care about how they feel.",
+   "hook": "A child sees a friend trip and walks over to ask, \"Are you okay?\""
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "Before a concert, performers practice their songs many times so they remember them.",
+   "hook": "A child keeps forgetting a line and practices it again and again at home."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "Feeling nervous before going on stage is a feeling lots of performers have.",
+   "hook": "A child backstage has a fluttery tummy, and a friend says they feel it too."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "The audience claps at the end of a song to show they enjoyed it.",
+   "hook": "A child thinks the clapping means something went wrong, then learns it means people liked it."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "A bow is a way performers say thank you when the audience claps.",
+   "hook": "A child forgets to bow, sees the others bowing, and quickly joins in."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "During a concert, the audience sits and listens while the performers sing.",
+   "hook": "A child watching another class sing learns to sit quietly until it is their turn."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "Backstage is the space behind or beside the stage where performers wait out of sight.",
+   "hook": "A child peeks out from backstage to spot their family before it is their turn."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "A microphone makes a voice louder so everyone in the room can hear.",
+   "hook": "A child is startled to hear their own voice so loud through the microphone, then smiles."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "The teacher standing in front of the group shows the singers when to start and stop.",
+   "hook": "A child starts singing too early, then remembers to watch the teacher's hands."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "A rehearsal is a practice of the whole show before the real performance.",
+   "hook": "At rehearsal a child learns where to stand so they are ready on the big day."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "If you forget a word while singing, you can keep going and join back in.",
+   "hook": "A child forgets a word, keeps smiling, and joins the song again at the next line."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "Bright stage lights can make it hard to see faces in the audience.",
+   "hook": "A child can't find their family past the bright lights but waves anyway."
+  },
+  {
+   "content_key": "first_performance",
+   "fact": "Taking slow breaths before going on stage can help calm nervous feelings.",
+   "hook": "A child's knees wobble before the show, and the teacher breathes slowly with them."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "We wash our hands before we eat.",
+   "hook": "A child reaches for a snack at Grandma's, remembers, and goes to wash first."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "We always wash our hands after using the toilet.",
+   "hook": "A child rushes out of the bathroom to play, then turns back to wash."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "Rubbing soap and water on your hands makes bubbles.",
+   "hook": "A child forgets the soap, sees there are no bubbles, and tries again."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "Washing the backs of your hands and between your fingers gets all of your hands clean.",
+   "hook": "A child only rubs their palms until a grown-up shows the backs of hands and between fingers."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "Rinsing under the water washes the soap off your hands.",
+   "hook": "A child's hands are still slippery with soap, so they rinse again."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "Drying your hands with a clean towel is the last step of handwashing.",
+   "hook": "A child shakes wet hands and drips everywhere, then finds the towel."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "Hands that look clean still need washing before eating.",
+   "hook": "A child says, \"My hands aren't dirty!\" and learns to wash them anyway."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "Health experts say to scrub your hands with soap for at least twenty seconds.",
+   "hook": "A child rinses too fast, so they count slowly while scrubbing to keep going longer."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "Singing a song while you scrub helps you keep washing long enough.",
+   "hook": "At summer camp a child learns a handwashing song to sing at the sink."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "A grown-up should check that the water is warm, not hot, before you wash.",
+   "hook": "A child waits for a grown-up to test the tap water before putting hands in."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "After playing outside or petting an animal, it is time to wash your hands.",
+   "hook": "A child pets the dog and then heads to the sink before lunch."
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "fact": "A step stool can help a small child reach the sink, with a grown-up nearby.",
+   "hook": "A child can't reach the sink at Grandpa's, so Grandpa brings the step stool and stays close."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "We see with our eyes.",
+   "hook": "A child covers their eyes at the park, then opens them and names what they see."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "We hear with our ears.",
+   "hook": "A child sits still in the backyard and lists every sound their ears can hear."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "We smell with our nose.",
+   "hook": "A child sniffs flowers at the park to find which one smells sweetest."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "We taste with our tongue.",
+   "hook": "A child tastes a lemon slice and a strawberry and says which is sour."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "We feel things by touching them with our skin, like our fingertips.",
+   "hook": "A child feels sand, a shell and a stick at the beach and names each feel."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "There are five senses: seeing, hearing, smelling, tasting and touching.",
+   "hook": "A child counts the senses on one hand, forgets one, then remembers."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "Pinching your nose shut makes it hard to smell anything.",
+   "hook": "A child pinches their nose near the cookies and finds they can't smell them."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "Covering your ears with your hands makes sounds seem quieter.",
+   "hook": "A child covers their ears when a truck rumbles by and notices how much quieter it gets."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "Your tongue can tell sweet foods from sour ones.",
+   "hook": "A child guesses sweet or sour for each snack at school."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "Your skin can feel whether something is soft or rough.",
+   "hook": "A child sorts a feather, a pinecone and a blanket into soft and rough."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "Your nose can smell some things, like cookies baking, before you can see them.",
+   "hook": "A child smells cookies from another room and follows their nose to the kitchen."
+  },
+  {
+   "content_key": "learning_science_nature",
+   "fact": "Never look straight at the sun, because it can hurt your eyes.",
+   "hook": "A child wants to see the sun up close, and a grown-up explains why not to look at it."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "A good pencil grip pinches the pencil between your thumb and first finger, resting it on your middle finger.",
+   "hook": "A child grips the pencil in a fist, then a grown-up shows the pinch-and-rest way."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "In English, a name starts with a capital letter.",
+   "hook": "A child writes their name all in small letters, then fixes the first one to a big letter."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "In English, we write from left to right across the page.",
+   "hook": "A child starts their name at the right edge and runs out of room, then starts on the left."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "The letters of your name always go in the same order.",
+   "hook": "A child mixes up two letters in their name and checks the name card to fix it."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "An eraser can rub out a pencil mark you want to fix.",
+   "hook": "A child makes a wobbly letter and uses an eraser to try again."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "Pressing too hard on a pencil can break its tip.",
+   "hook": "A child presses so hard the tip snaps, and learns to press more gently."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "Holding the paper still with your other hand helps keep it from sliding.",
+   "hook": "A child's paper keeps slipping at the library until they hold it with their other hand."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "Tracing over dotted letters is one way to practice making letter shapes.",
+   "hook": "A child traces the dotted letters of their name at Grandma's table."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "Some letters are made of straight lines, like L, and some have curves, like O.",
+   "hook": "A child sorts the letters of their name into straight ones and curvy ones."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "A pencil needs sharpening when its tip gets dull, and a grown-up can help.",
+   "hook": "A child's lines get fat and fuzzy, so they ask a grown-up to sharpen the pencil."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "Carry a pencil with the point facing down so it cannot poke anyone.",
+   "hook": "A child waves a pencil while walking, then remembers to hold the point down."
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "Practicing your name many times makes the letters easier to write.",
+   "hook": "A child writes their name each day and sees it getting neater."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "A new baby cannot talk yet, so it cries to show it needs something.",
+   "hook": "A child wonders why the baby cries so much and learns the baby is asking for help."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "A newborn baby drinks milk or formula, not regular food.",
+   "hook": "A child tries to share a cracker with the baby, and a grown-up explains babies only drink milk."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "A newborn cannot hold up its own head, so grown-ups hold the baby's head when they carry it.",
+   "hook": "A child watches Mom hold the baby's head and asks why."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "A big brother or sister can hold a new baby while sitting down, with a grown-up helping.",
+   "hook": "A child wants to hold the baby, so they sit on the couch with a grown-up right beside them."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "Babies wear diapers because they cannot use the toilet yet.",
+   "hook": "A child at the baby store asks why the baby needs so many diapers."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "New babies sleep for much of the day.",
+   "hook": "A child wants the baby to play, but the baby is sleeping again."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "A new baby will often hold tight to a finger placed in its hand.",
+   "hook": "A child puts a finger in the baby's hand and feels the baby hold on."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "Big brothers and sisters wash their hands before holding a new baby.",
+   "hook": "A child rushes in from the yard to hold the baby, then washes hands first."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "A new baby must be touched very gently.",
+   "hook": "A child pats the baby too hard, then learns to stroke the baby's hand softly."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "Grown-ups feed a new baby many times, both day and night.",
+   "hook": "A child hears the baby wake up at night and learns it's feeding time again."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "Big brothers and sisters can help by fetching things, like a clean diaper.",
+   "hook": "A child feels left out until they are asked to bring a diaper and a blanket."
+  },
+  {
+   "content_key": "new_sibling",
+   "fact": "It is okay for a big brother or sister to feel left out when a new baby arrives.",
+   "hook": "In the car a child says they miss having Mom to themselves, and Mom listens."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "A coach teaches the team and helps the players learn the game.",
+   "hook": "A child doesn't know where to stand, and the coach shows them."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "A season is all the practices and games a team plays from start to end.",
+   "hook": "A child asks when the season ends, and the family counts the games left on the schedule."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "Practice is when a team learns skills and gets ready for games.",
+   "hook": "A child wants to skip practice, then sees how practice helped them catch the ball."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "Players on a team often wear matching shirts so they can tell who is on their team.",
+   "hook": "A child passes to the wrong color shirt, then looks for their own team's color."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "Players drink water during breaks, especially on hot days.",
+   "hook": "A child forgets the water bottle on a hot day, and a grown-up brings one over."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "In baseball, the batter wears a helmet to protect their head.",
+   "hook": "A child runs to bat without a helmet, and the coach calls them back to put it on."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "In soccer, a team scores by getting the ball into the other team's goal.",
+   "hook": "A child kicks toward their own goal by mistake, then turns around."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "In basketball, a team scores by getting the ball through the hoop.",
+   "hook": "A child keeps missing the hoop and practices shots in the backyard."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "A referee or umpire is the person who makes sure players follow the rules.",
+   "hook": "A child is upset at a call, and the coach explains the umpire's job."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "Teams warm up by running or stretching before a game.",
+   "hook": "A child wants to start the game right away but joins the warm-up first."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "After a game, players often tell the other team \"good game.\"",
+   "hook": "A child is grumpy after losing, then lines up to say good game."
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "Teammates can cheer for each other, even when someone misses.",
+   "hook": "A child misses the ball and hears the team cheer them on to try again."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "A stove can be hot even when it does not look hot, so only grown-ups touch it.",
+   "hook": "A child wonders if the stove is still hot and asks a grown-up instead of touching it."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "Steam from a pot or kettle is hot and can burn, so stay back.",
+   "hook": "A child wants to see the bubbles in the pot and watches from a safe distance with a grown-up."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "A grown-up should check that bath water is warm, not hot, before you get in.",
+   "hook": "A child wants to jump into the bath but waits for a grown-up to test the water."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "Knives are sharp tools that only grown-ups use.",
+   "hook": "A child wants to cut an apple, so a grown-up does the cutting while the child washes it."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "Stay where your grown-up can see you when you are out.",
+   "hook": "A child heads for the far end of the playground, then comes back when they can't see Dad."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "If you get lost in a store, tell a store worker you can't find your grown-up.",
+   "hook": "A child loses sight of Mom and goes to the checkout worker for help."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "Hold a grown-up's hand when you cross the street.",
+   "hook": "A child sees the park across the road and waits to take a grown-up's hand."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "Never put fingers or things into an electrical outlet.",
+   "hook": "A child notices an outlet behind the couch and tells a grown-up instead of touching it."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "Only a grown-up gives you medicine, even if it looks like candy.",
+   "hook": "A child finds colorful pills on a table and tells a grown-up without touching them."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "Wear a helmet when you ride a bike.",
+   "hook": "A child wants to ride right away, then goes back for the helmet."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "At the playground, go down the slide feet first.",
+   "hook": "A child starts to lie down head first on the slide, then turns around to go feet first."
+  },
+  {
+   "content_key": "safety_concepts",
+   "fact": "Matches and lighters are only for grown-ups to use.",
+   "hook": "A child sees a lighter in the yard and tells a grown-up without picking it up."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "On a rainy day, a raincoat helps keep your body dry.",
+   "hook": "A child runs out without a raincoat and comes back to put it on."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "Rain boots keep your feet dry when you step in puddles.",
+   "hook": "A child wears sneakers in the rain and ends up with soggy socks."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "Rain makes puddles on the ground.",
+   "hook": "A child finds a big puddle at the playground after the rain."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "An umbrella keeps rain off your head.",
+   "hook": "A child and a grown-up share one umbrella on the walk to school."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "On a snowy day, mittens or gloves keep your hands warm.",
+   "hook": "A child forgets mittens and has cold hands after making a snowball."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "Snow melts into water when you bring it inside where it is warm.",
+   "hook": "A child brings a snowball inside to keep and finds a puddle later."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "On a sunny day, a sun hat helps shade your face.",
+   "hook": "A child squints at the playground until they put on a sun hat."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "Sunscreen helps protect your skin from sunburn.",
+   "hook": "A child wants to rush outside but stops for a grown-up to put on sunscreen."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "On a windy day, you can see trees sway and leaves blow around.",
+   "hook": "A child watches leaves blow across the yard and chases them."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "A strong wind can blow a hat right off your head.",
+   "hook": "A child's hat blows away on a windy day and they chase it across the grass."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "On a cloudy day, clouds can hide the sun.",
+   "hook": "A child waits by the window for the sun to come out from behind the clouds."
+  },
+  {
+   "content_key": "weather_words",
+   "fact": "When you hear thunder, go indoors.",
+   "hook": "A child wants to keep playing when thunder rumbles, and a grown-up brings everyone inside."
+  }
+ ]
+}

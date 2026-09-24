@@ -13,9 +13,16 @@ generates facts with one model and verifies them blind with another):
 
 Domain keys are shared across phases where the topic continues, so one
 content-key -> preferred-domains map serves every phase.
+
+Activity facts (2026-09-24): a fact may instead carry "content_key", written
+for that one activity (tools/prompt_lab/facts/activity). A prompt whose
+activity has such facts always gets one, in a fixed per-activity rotation, so
+the generator never invents the fact; the tier-0 review traced most false
+claims to invented ones (935/1000 prompts had no fact under term matching).
 """
 from __future__ import annotations
 
+import hashlib
 import os
 import random
 import re
@@ -196,21 +203,41 @@ class FactBank:
         self.domains = DOMAINS[phase_id]
         path = facts_path or f"config/facts/phase_{phase_id}.json"
         self.facts: list[dict] = []
+        self.activity_facts: dict[str, list[dict]] = {}
         if os.path.exists(path):
             data = load_json(path)
-            self.facts = [f for f in data.get("facts", []) if f.get("domain") in self.domains and f.get("fact")]
+            raw = [f for f in data.get("facts", []) if f.get("fact")]
+            self.facts = [f for f in raw if not f.get("content_key") and f.get("domain") in self.domains]
+            for f in raw:
+                if f.get("content_key"):
+                    self.activity_facts.setdefault(f["content_key"], []).append(f)
+            # A fixed order per activity from the fact text alone: no rng draw,
+            # so adding activity facts leaves every other sampled field as it was.
+            for key, pool in self.activity_facts.items():
+                pool.sort(key=lambda f: hashlib.sha256(f"{phase_id}|{key}|{f['fact']}".encode("utf-8")).hexdigest())
+        self._served: dict[str, int] = {}
         # domains that actually have facts, when a bank exists
         self._with_facts = {f["domain"] for f in self.facts}
 
     @property
     def has_facts(self) -> bool:
-        return bool(self.facts)
+        return bool(self.facts or self.activity_facts)
 
     def _preferred(self, content_key: str, available: set[str]) -> list[str]:
         prefs = CONTENT_DOMAIN_PREFS.get(content_key)
         if prefs is None:
             prefs = keyword_domains(content_key)
         return [d for d in prefs if d in available]
+
+    def _legacy_draws(self, content_key: str) -> None:
+        # Preserve the legacy RNG schedule whatever fact is injected. FactBank
+        # shares the generator RNG, so omitting these draws would change every
+        # later activity sampled from the same seed and make before/after
+        # prompt comparisons invalid.
+        legacy_prefs = self._preferred(content_key, self._with_facts)
+        legacy_domain = legacy_prefs[0] if legacy_prefs else self.rng.choice(sorted(self._with_facts))
+        legacy_pool = [f for f in self.facts if f["domain"] == legacy_domain]
+        self.rng.choice(legacy_pool)
 
     def sample(self, content_key: str, activity: str = "") -> tuple[str, str, str]:
         """Return (domain_description, fact, hook).
@@ -222,16 +249,16 @@ class FactBank:
         in that case. Calls without an activity retain the legacy domain-based
         behaviour for compatibility with direct FactBank users.
         """
+        if activity and content_key in self.activity_facts:
+            if self.facts:
+                self._legacy_draws(content_key)
+            pool = self.activity_facts[content_key]
+            n = self._served.get(content_key, 0)
+            self._served[content_key] = n + 1
+            chosen = pool[n % len(pool)]
+            return activity, chosen["fact"], chosen.get("hook", "")
         if self.facts and activity:
-            # Preserve the legacy RNG schedule even when no fact is injected.
-            # FactBank shares the generator RNG, so omitting these draws would
-            # change every later activity sampled from the same seed and make
-            # before/after prompt comparisons invalid.
-            legacy_prefs = self._preferred(content_key, self._with_facts)
-            legacy_domain = legacy_prefs[0] if legacy_prefs else self.rng.choice(sorted(self._with_facts))
-            legacy_pool = [f for f in self.facts if f["domain"] == legacy_domain]
-            self.rng.choice(legacy_pool)
-
+            self._legacy_draws(content_key)
             query_terms = _terms(f"{content_key} {activity}")
             scored = []
             for fact in self.facts:

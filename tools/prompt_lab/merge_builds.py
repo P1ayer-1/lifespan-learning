@@ -11,9 +11,17 @@ Facts: facts/_gen/phase_{i}.json (generated) + facts/_verify/phase_{i}.json
      engine/facts.py reads, + summary.txt. Without a verify file the phase is
      skipped (unverified facts never ship).
 
+Activity facts: facts/activity/_gen/part{k}.json + facts/activity/_verify/part{k}.json
+  (same verdict format, see facts/activity/SPEC.md) -> keep verdict == "true",
+  and add them, each tagged with its content_key, to facts/phase_0.json next to
+  the domain facts already there (earlier activity facts are replaced). Warns
+  about any activity in facts/activity/phase_0_activities.json left with fewer
+  than MIN_ACTIVITY_FACTS facts.
+
 Usage:
     python merge_builds.py lexicons
     python merge_builds.py facts
+    python merge_builds.py activity-facts
 """
 from __future__ import annotations
 
@@ -90,5 +98,35 @@ def merge_facts() -> None:
     print("\n".join(lines))
 
 
+MIN_ACTIVITY_FACTS = 6
+
+
+def merge_activity_facts() -> None:
+    act_dir, out = HERE / "facts" / "activity", HERE / "facts" / "phase_0.json"
+    activities = [a["content_key"] for a in json.loads((act_dir / "phase_0_activities.json").read_text(encoding="utf-8"))["activities"]]
+    keep, counts, lines = [], Counter(), []
+    for g in sorted((act_dir / "_gen").glob("part*.json")):
+        v = act_dir / "_verify" / g.name
+        if not v.exists():
+            lines.append(f"{g.name}: no verify file; skipped")
+            continue
+        facts = json.loads(g.read_text(encoding="utf-8"))["facts"]
+        verdicts = {int(x["i"]): x["verdict"] for x in json.loads(v.read_text(encoding="utf-8"))}
+        part_counts = Counter(verdicts.get(i, "unverified") for i in range(len(facts)))
+        counts.update(part_counts)
+        lines.append(f"{g.name}: {len(facts)} generated, verdicts {dict(part_counts)}")
+        keep += [{"content_key": f["content_key"], "fact": f["fact"].strip(), "hook": f.get("hook", "").strip()}
+                 for i, f in enumerate(facts) if verdicts.get(i) == "true" and f.get("fact") and f.get("content_key") in activities]
+    bank = json.loads(out.read_text(encoding="utf-8"))
+    bank["facts"] = [f for f in bank["facts"] if not f.get("content_key")] + keep
+    out.write_text(json.dumps(bank, indent=1, ensure_ascii=False), encoding="utf-8")
+    per_key = Counter(f["content_key"] for f in keep)
+    thin = {k: per_key.get(k, 0) for k in activities if per_key.get(k, 0) < MIN_ACTIVITY_FACTS}
+    lines.append(f"kept {len(keep)} activity facts for {len(per_key)}/{len(activities)} activities; verdicts {dict(counts)}")
+    lines.append(f"activities under {MIN_ACTIVITY_FACTS} facts: {thin or 'none'}")
+    (act_dir / "summary.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print("\n".join(lines))
+
+
 if __name__ == "__main__":
-    {"lexicons": merge_lexicons, "facts": merge_facts}[sys.argv[1]]()
+    {"lexicons": merge_lexicons, "facts": merge_facts, "activity-facts": merge_activity_facts}[sys.argv[1]]()

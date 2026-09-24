@@ -1,0 +1,867 @@
+{
+ "phase": 0,
+ "activities": [
+  {
+   "content_key": "being_sick",
+   "kind": "experience",
+   "activity": "recovering from a cold or flu at home",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy",
+    "in a family kitchen"
+   ]
+  },
+  {
+   "content_key": "birthday_party",
+   "kind": "experience",
+   "activity": "celebrating a birthday with family and friends",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a bowling alley",
+    "at a community hall",
+    "at a grandparent's house",
+    "at a public park"
+   ]
+  },
+  {
+   "content_key": "body_and_senses",
+   "kind": "exposure",
+   "activity": "the five senses and the body parts used for seeing, hearing, smelling, tasting and touching",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at the dinner table",
+    "at the park",
+    "in the backyard",
+    "in the kitchen"
+   ]
+  },
+  {
+   "content_key": "calendar_words",
+   "kind": "exposure",
+   "activity": "the days of the week, the months and the idea that a calendar shows when things happen",
+   "tiers": [
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at school",
+    "at the dinner table",
+    "at the library"
+   ]
+  },
+  {
+   "content_key": "colors",
+   "kind": "exposure",
+   "activity": "basic color words such as red, blue, yellow and green",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at school",
+    "at the art table in a classroom",
+    "at the store",
+    "in the backyard"
+   ]
+  },
+  {
+   "content_key": "cooking_baking",
+   "kind": "experience",
+   "activity": "cooking or baking a meal for the family",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a farmers' market",
+    "in a backyard",
+    "in a family kitchen",
+    "in a school cooking classroom"
+   ]
+  },
+  {
+   "content_key": "daily_routines",
+   "kind": "exposure",
+   "activity": "common daily routines such as eating, sleeping, bathing and getting dressed",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at bedtime",
+    "at daycare",
+    "at school"
+   ]
+  },
+  {
+   "content_key": "doctor_checkup",
+   "kind": "experience",
+   "activity": "getting a vaccination shot at the doctor's office",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at an ice cream shop afterward",
+    "at home",
+    "in the family car"
+   ]
+  },
+  {
+   "content_key": "drawing_crafting",
+   "kind": "experience",
+   "activity": "making an art or craft project",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a public library",
+    "at a summer camp",
+    "at home"
+   ]
+  },
+  {
+   "content_key": "emotions",
+   "kind": "exposure",
+   "activity": "basic emotions such as happy, sad, angry, scared and excited",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at bedtime",
+    "at daycare",
+    "at the library",
+    "at the store"
+   ]
+  },
+  {
+   "content_key": "family_trip",
+   "kind": "experience",
+   "activity": "going on a family trip away from home",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a beach",
+    "at a national park",
+    "at an airport",
+    "in the family car"
+   ]
+  },
+  {
+   "content_key": "first_bike_ride",
+   "kind": "experience",
+   "activity": "learning to ride a bike without training wheels",
+   "tiers": [
+    1
+   ],
+   "example_settings": [
+    "in a backyard",
+    "in a driveway",
+    "in an empty parking lot",
+    "on a bike path"
+   ]
+  },
+  {
+   "content_key": "first_day_of_school",
+   "kind": "experience",
+   "activity": "starting the first day of school",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "in a classroom",
+    "in a school hallway",
+    "in a school playground",
+    "on a school bus"
+   ]
+  },
+  {
+   "content_key": "first_dentist_visit",
+   "kind": "experience",
+   "activity": "going to the dentist for the first time",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a dental clinic",
+    "in a waiting room",
+    "in the family car",
+    "on a city bus"
+   ]
+  },
+  {
+   "content_key": "first_haircut",
+   "kind": "experience",
+   "activity": "getting a first haircut at a salon",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a hair salon",
+    "at a mall",
+    "in a waiting room",
+    "in the family car"
+   ]
+  },
+  {
+   "content_key": "first_performance",
+   "kind": "experience",
+   "activity": "performing on stage for the first time in a school concert",
+   "tiers": [
+    1
+   ],
+   "example_settings": [
+    "at a community theater",
+    "at home",
+    "backstage at a school concert",
+    "in a school gymnasium"
+   ]
+  },
+  {
+   "content_key": "getting_a_pet",
+   "kind": "experience",
+   "activity": "bringing home a first pet and learning to care for it",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a pet store",
+    "at a veterinary clinic",
+    "at an animal shelter",
+    "at home"
+   ]
+  },
+  {
+   "content_key": "grandparent_visit",
+   "kind": "experience",
+   "activity": "hosting a grandparent who comes to stay for a week",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a train station",
+    "at an airport",
+    "in a backyard",
+    "in a family kitchen"
+   ]
+  },
+  {
+   "content_key": "learning_art",
+   "kind": "arc",
+   "activity": "to name the primary colours and mix two of them to make a new colour",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at home",
+    "at school",
+    "at the kitchen table",
+    "in the backyard"
+   ]
+  },
+  {
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "activity": "to spread butter on toast and pour milk into a cup without spilling",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a farmers' market",
+    "at home",
+    "in a restaurant kitchen",
+    "in a school cooking class"
+   ]
+  },
+  {
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "activity": "to draw a map of their bedroom or classroom with a key showing where each thing is",
+   "tiers": [
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at an airport",
+    "at home",
+    "on a road trip"
+   ]
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "activity": "to wash their hands with soap for twenty seconds before eating and after the toilet",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a summer camp",
+    "at home",
+    "in the kitchen"
+   ]
+  },
+  {
+   "content_key": "learning_math",
+   "kind": "arc",
+   "activity": "to count a group of up to ten objects and say which of two groups has more",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at home",
+    "in a corner store"
+   ]
+  },
+  {
+   "content_key": "learning_music",
+   "kind": "arc",
+   "activity": "to clap along to the steady beat of a song and sing a nursery rhyme from memory",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house",
+    "in the music room at school"
+   ]
+  },
+  {
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "activity": "to put on a coat and zip it up by themselves",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a laundromat",
+    "in the kitchen"
+   ]
+  },
+  {
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "activity": "to recognise the letters of the alphabet and the sound each letter makes",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at school",
+    "at the public library",
+    "in a reading nook at home",
+    "in the school library"
+   ]
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "activity": "to say a family blessing or greeting before a shared meal",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a community hall",
+    "at a family gathering",
+    "at a grandparent's house",
+    "at a place of worship"
+   ]
+  },
+  {
+   "content_key": "learning_science_nature",
+   "kind": "arc",
+   "activity": "to name the five senses and say which body part is used for each",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at school",
+    "at the beach",
+    "at the park",
+    "in the backyard"
+   ]
+  },
+  {
+   "content_key": "learning_social_skills",
+   "kind": "arc",
+   "activity": "to share a toy with a classmate and wait for a turn without grabbing",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a birthday party",
+    "at a friend's house",
+    "at a team practice",
+    "at the playground"
+   ]
+  },
+  {
+   "content_key": "learning_sports",
+   "kind": "arc",
+   "activity": "to throw a beanbag into a hoop and catch a large ball with both hands",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a baseball diamond",
+    "at a running track",
+    "at school",
+    "in the backyard"
+   ]
+  },
+  {
+   "content_key": "learning_technology_tools",
+   "kind": "arc",
+   "activity": "to turn on a tablet, open a drawing app and put it away when done",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a parent's office",
+    "in the living room",
+    "in the school computer lab"
+   ]
+  },
+  {
+   "content_key": "learning_to_read",
+   "kind": "experience",
+   "activity": "reading a whole book alone for the first time",
+   "tiers": [
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a public library",
+    "at home",
+    "in a classroom"
+   ]
+  },
+  {
+   "content_key": "learning_to_swim",
+   "kind": "experience",
+   "activity": "learning to swim at the local pool",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a community center pool",
+    "at a hotel pool",
+    "at a lake",
+    "in a pool changing room"
+   ]
+  },
+  {
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "activity": "to hold a pencil correctly and write the letters of their own first name",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at the public library",
+    "in a cafe",
+    "in the school library"
+   ]
+  },
+  {
+   "content_key": "library_card",
+   "kind": "experience",
+   "activity": "getting a first library card and borrowing a book",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at home",
+    "in a children's reading corner",
+    "in a library storytime room",
+    "on a city bus"
+   ]
+  },
+  {
+   "content_key": "living_things_needs",
+   "kind": "exposure",
+   "activity": "the idea that plants and animals need food, water and a place to live",
+   "tiers": [
+    1
+   ],
+   "example_settings": [
+    "at a pet store",
+    "at home",
+    "in a forest",
+    "in the backyard"
+   ]
+  },
+  {
+   "content_key": "losing_first_tooth",
+   "kind": "experience",
+   "activity": "losing a first wobbly tooth",
+   "tiers": [
+    1
+   ],
+   "example_settings": [
+    "at a dental clinic",
+    "at a family dinner table",
+    "at a grandparent's house",
+    "in a school playground"
+   ]
+  },
+  {
+   "content_key": "lost_item",
+   "kind": "experience",
+   "activity": "searching for a lost favorite toy",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a daycare center",
+    "at a grandparent's house",
+    "at a public park",
+    "on a city bus"
+   ]
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "kind": "experience",
+   "activity": "moving to a new town and leaving old friends behind",
+   "tiers": [
+    1
+   ],
+   "example_settings": [
+    "at home",
+    "in a moving truck",
+    "in a new classroom",
+    "in an apartment building"
+   ]
+  },
+  {
+   "content_key": "new_sibling",
+   "kind": "experience",
+   "activity": "welcoming a new baby brother or sister into the family",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a baby supply store",
+    "at a grandparent's house",
+    "in a backyard",
+    "in the family car"
+   ]
+  },
+  {
+   "content_key": "number_words",
+   "kind": "exposure",
+   "activity": "the rote number words from one to ten heard in counting songs and everyday counting",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at daycare",
+    "at home",
+    "at the store",
+    "in a playroom"
+   ]
+  },
+  {
+   "content_key": "object_categories",
+   "kind": "exposure",
+   "activity": "simple object categories such as animals, toys and foods",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at school",
+    "at the library",
+    "in a playroom",
+    "in the backyard"
+   ]
+  },
+  {
+   "content_key": "opposites",
+   "kind": "exposure",
+   "activity": "opposite pairs such as big and small, hot and cold, fast and slow",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at daycare",
+    "at school",
+    "at the playground",
+    "in the kitchen"
+   ]
+  },
+  {
+   "content_key": "planting_garden",
+   "kind": "experience",
+   "activity": "planting a vegetable garden and watching it grow",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "in a backyard"
+   ]
+  },
+  {
+   "content_key": "playing_music",
+   "kind": "experience",
+   "activity": "learning to play a musical instrument",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a music teacher's studio",
+    "at home",
+    "in a garage",
+    "in a school auditorium"
+   ]
+  },
+  {
+   "content_key": "playing_sports",
+   "kind": "experience",
+   "activity": "playing on a sports team for the season",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a community center",
+    "in a backyard",
+    "on a baseball diamond",
+    "on a basketball court"
+   ]
+  },
+  {
+   "content_key": "polite_language",
+   "kind": "exposure",
+   "activity": "polite and functional phrases such as please, thank you, sorry and asking for help",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at the dinner table",
+    "at the park",
+    "at the playground",
+    "at the store"
+   ]
+  },
+  {
+   "content_key": "power_cut",
+   "kind": "experience",
+   "activity": "getting through an evening power cut at home",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a farmhouse",
+    "at a neighbor's house",
+    "at home",
+    "in a backyard"
+   ]
+  },
+  {
+   "content_key": "pretend_play",
+   "kind": "exposure",
+   "activity": "pretend play scenarios such as playing house, caring for toys and role-playing simple situations",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at the park",
+    "at the playground",
+    "in a forest"
+   ]
+  },
+  {
+   "content_key": "print_concepts",
+   "kind": "exposure",
+   "activity": "the idea that printed words carry meaning and that books are read front to back",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at bedtime",
+    "at daycare",
+    "at home",
+    "at the library"
+   ]
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "kind": "experience",
+   "activity": "attending a religious or cultural celebration with family",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a cultural center",
+    "at a family gathering",
+    "at a street festival",
+    "at home"
+   ]
+  },
+  {
+   "content_key": "safety_concepts",
+   "kind": "exposure",
+   "activity": "simple safety concepts such as hot versus cold, staying close to caregivers and not touching dangerous objects",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at the park",
+    "at the playground",
+    "in the backyard",
+    "in the bathroom"
+   ]
+  },
+  {
+   "content_key": "shapes",
+   "kind": "exposure",
+   "activity": "basic shape concepts such as circle, square, triangle and rectangle",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at daycare",
+    "at the art table in a classroom",
+    "at the library",
+    "in the kitchen"
+   ]
+  },
+  {
+   "content_key": "snow_day",
+   "kind": "experience",
+   "activity": "spending a surprise snow day at home",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a neighbor's house",
+    "at a public park",
+    "at a sledding hill",
+    "on a snowy neighborhood street"
+   ]
+  },
+  {
+   "content_key": "social_rules",
+   "kind": "exposure",
+   "activity": "basic social rules such as turn-taking, sharing, fairness and following simple group rules",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at the dinner table",
+    "at the store",
+    "in a playroom"
+   ]
+  },
+  {
+   "content_key": "time_words",
+   "kind": "exposure",
+   "activity": "basic time concepts such as yesterday, today, tomorrow, now and later",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at bedtime",
+    "at school",
+    "at the library",
+    "in the bedroom"
+   ]
+  },
+  {
+   "content_key": "watching_sports",
+   "kind": "experience",
+   "activity": "watching a big game with family and friends",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at a community sports field",
+    "at an ice rink",
+    "at home",
+    "in a living room"
+   ]
+  },
+  {
+   "content_key": "weather_words",
+   "kind": "exposure",
+   "activity": "weather words such as sunny, rainy, windy and snowy and the clothes that go with them",
+   "tiers": [
+    0,
+    1
+   ],
+   "example_settings": [
+    "at home",
+    "at school",
+    "at the front door",
+    "at the playground"
+   ]
+  }
+ ]
+}

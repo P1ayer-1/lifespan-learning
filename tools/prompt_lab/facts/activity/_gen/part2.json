@@ -1,0 +1,605 @@
+{
+ "part": 2,
+ "facts": [
+  {
+   "content_key": "body_and_senses",
+   "fact": "When you close your eyes, you cannot see the things around you.",
+   "hook": "A child covers their eyes during hide-and-seek and thinks nobody can see them, then learns the others still can."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "Covering your ears with your hands makes loud sounds quieter.",
+   "hook": "A noisy blender startles a child in the kitchen, and they cover their ears until it stops."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "Your tongue can taste that a lemon is sour.",
+   "hook": "A child expects a lemon slice at dinner to taste sweet like orange juice and scrunches up their face."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "You can often smell dinner cooking before you see it.",
+   "hook": "A child playing in another room guesses what is for dinner just by sniffing the air."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "Your fingertips can tell if something is soft, rough, smooth or bumpy.",
+   "hook": "A child plays a guessing game with eyes closed, feeling a pinecone, a feather and a smooth stone."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "Your nose has two openings called nostrils.",
+   "hook": "A child looks in a mirror to count the openings in their nose after a grown-up names them."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "Holding your nose closed makes food taste less strong.",
+   "hook": "A child tries holding their nose while eating a strawberry and is surprised how plain it tastes."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "Eyelashes help keep dust and bits of dirt out of your eyes.",
+   "hook": "A child wonders why they have eyelashes after a windy day at the park."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "An ice cube feels cold when you touch it.",
+   "hook": "A child holds an ice cube at the table and quickly drops it into their cup because it feels so cold."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "Glasses help some people see more clearly.",
+   "hook": "A child tries to understand why Grandpa puts on his glasses before reading a story."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "Your feet can feel things too, like soft grass under bare toes.",
+   "hook": "A child takes off their shoes in the backyard and describes how the grass tickles their feet."
+  },
+  {
+   "content_key": "body_and_senses",
+   "fact": "It is hard to see in the dark, so we turn on a light.",
+   "hook": "A child cannot find their teddy in a dark room until a grown-up switches on the lamp."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "Mixing blue paint and yellow paint makes green.",
+   "hook": "A child needs green for grass but has only blue and yellow paint, so they mix them."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "Mixing red paint and yellow paint makes orange.",
+   "hook": "A child wants to paint a pumpkin but there is no orange paint in the jar."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "Wet glue needs time to dry before the pieces hold together.",
+   "hook": "A child lifts a paper crown too soon and the pieces slide apart, so they wait and try again."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "Children cut paper with rounded-tip safety scissors while a grown-up watches.",
+   "hook": "A child asks for the big scissors, and the grown-up hands them the child-size safety scissors instead."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "Crayons can melt if they are left in a hot car on a sunny day.",
+   "hook": "A child finds a box of crayons gone soft and bendy after leaving it in the family car."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "Washable markers wash off skin with soap and water.",
+   "hook": "A child draws on their own hand by mistake and worries until soap and water wash it away."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "Wet paint smears if you touch it before it dries.",
+   "hook": "A child touches a painting too soon and smudges the sun, then learns to wait."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "If you paint on one half of a paper and fold it while the paint is wet, the paint prints onto the other half.",
+   "hook": "A child makes a butterfly by folding painted paper and opening it to find two matching wings."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "People often write their name on their artwork so everyone knows who made it.",
+   "hook": "Two children at the library make almost the same drawing and cannot tell whose is whose."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "An apron or an old shirt keeps paint off your clothes.",
+   "hook": "A child forgets their apron at art class and gets paint on a favorite shirt."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "After painting, brushes get rinsed clean so the paint does not dry on them.",
+   "hook": "A child leaves a brush in the paint and finds it stiff the next day."
+  },
+  {
+   "content_key": "drawing_crafting",
+   "fact": "A pencil point can break if you press down very hard.",
+   "hook": "A child presses so hard while drawing that the pencil tip snaps, and they learn to press gently."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Cutting hair does not hurt.",
+   "hook": "A child is scared the scissors will hurt, and a grown-up shows them it feels like nothing at all."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Hair grows back after it is cut.",
+   "hook": "A child worries they will lose their hair forever, and a parent explains it grows back."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "The hairdresser puts a cape around your shoulders to keep cut hair off your clothes.",
+   "hook": "A child giggles at the cape and pretends to be a superhero while the hairdresser works."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Sitting very still helps the hairdresser cut your hair neatly.",
+   "hook": "A child keeps turning to look at the fish tank, then learns to sit still like a statue."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Hair clippers make a buzzing sound and can feel tickly.",
+   "hook": "A child is nervous about the buzzing noise until the hairdresser lets them hear it first."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Tiny bits of cut hair can feel itchy on your neck.",
+   "hook": "A child squirms because their neck itches, and the hairdresser brushes the hairs away."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Cut hair falls onto the floor, and it gets swept up afterward.",
+   "hook": "A child is surprised to see their hair on the floor and watches it get swept into a pile."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Some families keep a small lock of hair from a first haircut to remember it.",
+   "hook": "A parent tucks a little curl into an envelope, and the child asks why."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "A hairdresser can hold up a hand mirror to show you the back of your hair.",
+   "hook": "A child wants to see the back of their new haircut and cannot, until the hairdresser brings a mirror."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Hairdressers use special sharp scissors, and only grown-ups should cut hair.",
+   "hook": "A child wants to hold the scissors, and the hairdresser gives them a comb to hold instead."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "A hairdresser uses a comb to keep hair neat while cutting it.",
+   "hook": "A child counts how many times the hairdresser combs before each snip."
+  },
+  {
+   "content_key": "first_haircut",
+   "fact": "Small children sometimes sit on a booster seat so the hairdresser can reach their hair.",
+   "hook": "A child is too short for the big chair, so the hairdresser brings a booster seat."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "A map is a drawing of a place as if you were looking down on it from above.",
+   "hook": "A child draws their bed from the side, then remembers a map shows things from above."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "A map key shows what each small picture or color on the map means.",
+   "hook": "A friend cannot tell what the little squares on a map mean until the child adds a key."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "Things on a map are drawn much smaller than they really are.",
+   "hook": "A child tries to draw their bedroom at real size and runs out of paper."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "On a map, things that are next to each other in a room are drawn next to each other.",
+   "hook": "A child draws the toy box far from the bed, then fixes it so it sits right beside the bed."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "Looking down from above, a round table looks like a circle.",
+   "hook": "A child is unsure how to draw the round table until they look down at a round plate and see a circle."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "A map can help a person find their way to a place they have not been before.",
+   "hook": "A cousin visiting Grandma's house uses the child's map to find the bathroom."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "Map makers often color water blue.",
+   "hook": "A child draws the fish tank on their classroom map and picks a blue crayon for it."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "On many maps, an arrow with the letter N points north.",
+   "hook": "A child sees an N arrow on a map at the airport and asks what it means."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "People can draw an X on a map to mark a special spot.",
+   "hook": "A child hides a toy and draws an X on their map so a sibling can find it."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "A globe is a round map of the whole Earth.",
+   "hook": "A child spins a globe at Grandpa's house and looks for where they live."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "Turning a map so it matches the way you are facing makes it easier to use.",
+   "hook": "A child holds their map upside down and gets mixed up in the classroom, then turns it around."
+  },
+  {
+   "content_key": "learning_geography",
+   "fact": "A title like 'My Bedroom' tells people which place a map shows.",
+   "hook": "A child's map gets mixed up with a friend's, so they write a title on top."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "Many families say a blessing or a thank-you before they start eating.",
+   "hook": "A child starts eating at Grandma's house and then notices everyone else is waiting to say a blessing."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "In many families, everyone waits until the blessing is finished before eating.",
+   "hook": "A hungry child reaches for bread early, then puts it down and waits for the blessing to end."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "Some families hold hands around the table while they say a blessing.",
+   "hook": "A child is holding a spoon when the family reaches for hands, so they set it down to join in."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "Some people close their eyes or bow their heads during a blessing.",
+   "hook": "A child peeks during the blessing and sees Grandpa's eyes closed and head bowed."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "A blessing before a meal often says thank you for the food.",
+   "hook": "A child thinks about who grew the food and adds a thank-you to the family blessing."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "Many Jewish families say a blessing called the Hamotzi over bread before a meal.",
+   "hook": "A child practices the Hamotzi so they can say it over the bread at a family dinner."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "Many Christian families say grace, a short prayer of thanks, before meals.",
+   "hook": "A child visiting a friend's home is asked if they would like to say grace."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "Many Muslims say 'Bismillah,' which means 'in the name of God,' before they eat.",
+   "hook": "A child forgets to say Bismillah, remembers, and says it before the first bite."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "In Japan, people say 'itadakimasu' before eating to give thanks for the food.",
+   "hook": "A child learns to say itadakimasu from a grandparent and tries to say it just right."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "In France, people often say 'bon appétit' before a meal to wish everyone a good meal.",
+   "hook": "A child at a community dinner hears 'bon appétit' and asks what it means."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "Some families sing their blessing instead of speaking it.",
+   "hook": "A child wants to lead the sung blessing but mixes up the tune and tries again."
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "fact": "Many prayers end with the word 'Amen.'",
+   "hook": "A child waits for the word Amen to know when the blessing is over."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "A grown-up must always watch children when they are in or near water.",
+   "hook": "A child wants to jump in before the teacher arrives, and waits at the side until a grown-up is watching."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "Wet floors around a pool are slippery, so people walk instead of run.",
+   "hook": "A child starts running to the pool, and a grown-up reminds them to walk."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "Kicking your legs makes splashes and helps push you forward in the water.",
+   "hook": "A child floats with a teacher's help but goes nowhere until they start kicking."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "Swim teachers often have children practice blowing bubbles into the water through their mouth.",
+   "hook": "A child is shy about putting their face near the water, then makes big bubbles and laughs."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "Goggles help you see underwater and keep water out of your eyes.",
+   "hook": "A child's goggles are too loose and let water in, so a grown-up tightens the strap."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "Many pools have a shallow end and a deep end.",
+   "hook": "A child wants to go to the deep end like their big sister, and the teacher explains why they start in the shallow end."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "A swim vest helps a child stay up in the water, and a grown-up still watches them.",
+   "hook": "A child thinks the swim vest means they can swim alone, and learns the grown-up still stays close."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "A swim teacher may hold a child while the child learns to float on their back.",
+   "hook": "A child is nervous about floating until the teacher's hands support their back."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "A lifeguard's job is to watch the swimmers and help anyone who needs it.",
+   "hook": "A child wonders why the lifeguard sits up high and learns it helps them see everyone."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "Many pools ask swimmers to take a shower before getting in.",
+   "hook": "A child heads straight from the changing room to the pool and is reminded to shower first."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "Pool steps or a ladder help you get in and out of the water.",
+   "hook": "A child tries to climb out over the edge and finds the ladder much easier."
+  },
+  {
+   "content_key": "learning_to_swim",
+   "fact": "Holding onto the edge of the pool, children can practice kicking their legs.",
+   "hook": "A child holds the wall and kicks so hard they splash the teacher."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "People write on moving boxes to show what is inside or which room it goes in.",
+   "hook": "A child cannot find their toys in a pile of boxes until they spot the one labeled with their name."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "A moving truck carries a family's furniture and boxes to their new home.",
+   "hook": "A child watches their bed get loaded into the moving truck and worries it will not come back."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "You can keep in touch with old friends by video calls, letters or phone calls.",
+   "hook": "A child misses a best friend and makes a video call to show their new room."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "A new home has a new address, and mail gets sent there.",
+   "hook": "A child wants a letter from an old friend and helps write down the new address for them."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "Your favorite things can be packed and taken to your new home.",
+   "hook": "A child is afraid their teddy will be left behind and packs it in a special box."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "Empty rooms can make an echo when you talk or clap.",
+   "hook": "A child claps in the empty new apartment and hears the sound bounce back."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "Saying hello and asking someone's name is a way to start making a new friend.",
+   "hook": "A shy child in a new classroom practices saying hello before trying it with a classmate."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "It is okay to feel sad about leaving old friends.",
+   "hook": "A child feels sad on moving day and a grown-up tells them it is okay to feel that way."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "Some families take photos of their old home to help them remember it.",
+   "hook": "A child takes a last photo of the old front door before leaving."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "A new town can have new places to explore, like a park or a library.",
+   "hook": "A child who misses the old park discovers a new one down the street."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "Neighbors are the people who live near your home.",
+   "hook": "A child meets a neighbor in the hallway of their new apartment building."
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "fact": "Unpacking takes time, so some things stay in boxes for a while.",
+   "hook": "A child cannot find their favorite cup on the first night and has to wait until it is unpacked."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "On a piano, keys on the left make low sounds and keys on the right make high sounds.",
+   "hook": "A child wants to play a growly bear sound and has to find which side of the piano to use."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "Hitting a drum harder makes a louder sound.",
+   "hook": "A child bangs the drum so loudly the baby wakes, and learns to tap more softly."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "You play a guitar by plucking or strumming its strings.",
+   "hook": "A child tries to play a guitar by tapping it like a drum, then learns to strum."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "Practicing a little every day helps you get better at playing.",
+   "hook": "A child is frustrated that a song is hard, then keeps practicing and plays it all the way through."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "A violin can be played by pulling a bow across its strings.",
+   "hook": "A child holds the bow the wrong way and makes a squeak, then the teacher shows them how."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "Covering different holes on a recorder makes different notes.",
+   "hook": "A child's recorder squeaks because a finger is not covering its hole all the way."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "Written music uses marks called notes to show which sounds to play.",
+   "hook": "A child sees the dots and lines on a music sheet and asks what they mean."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "Musicians keep a steady beat so they can play together.",
+   "hook": "Two children play together but keep going too fast until they tap a steady beat first."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "A piano has black keys and white keys.",
+   "hook": "A child plays only the black keys and finds they can still make a tune."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "String instruments like guitars and violins need tuning so their notes sound right.",
+   "hook": "A child's guitar sounds funny, and the teacher turns the pegs to tune it."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "A music teacher shows you how to hold your instrument.",
+   "hook": "A child holds the violin upside down at their first lesson until the teacher helps."
+  },
+  {
+   "content_key": "playing_music",
+   "fact": "After playing for an audience, musicians often bow when people clap.",
+   "hook": "A child finishes playing at a school concert and forgets to bow, then remembers."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "Families often gather together to celebrate special holidays.",
+   "hook": "A child is excited to see cousins they have not seen in a long time at a family celebration."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "Many celebrations have special foods made just for that day.",
+   "hook": "A child helps a grandparent make a special holiday dish and wants to taste it early."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "Many celebrations use candles or lamps, and grown-ups light and handle the flames.",
+   "hook": "A child wants to light a candle, and a grown-up lets them choose which one while the grown-up does the lighting."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "During Diwali, many families light small clay oil lamps called diyas.",
+   "hook": "A child helps set out unlit diyas in a row, and a grown-up lights them."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "During Hanukkah, Jewish families light candles on a menorah for eight nights.",
+   "hook": "A child counts the lit candles each night of Hanukkah as a grown-up lights one more."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "At Lunar New Year, many children receive red envelopes with money inside.",
+   "hook": "A child gets a red envelope and learns to say thank you before opening it."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "People often wear special clothes to a celebration.",
+   "hook": "A child cannot decide what to wear and then chooses a special outfit for the festival."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "Music and dancing are part of many celebrations.",
+   "hook": "A shy child watches the dancing at a cultural center, then joins in holding a grown-up's hand."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "At Christmas, many families decorate a tree.",
+   "hook": "A child wants to hang every ornament on one branch, then spreads them out."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "On Eid, many Muslims greet each other by saying 'Eid Mubarak.'",
+   "hook": "A child practices saying 'Eid Mubarak' to greet relatives at the door."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "At Lunar New Year, lion dancers move to the beat of loud drums.",
+   "hook": "A child is startled by the loud drums at a street festival, then claps along with the lion dance."
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "fact": "At a big crowded celebration, children stay close to their grown-up.",
+   "hook": "A child drifts toward a food stall at a street festival, then remembers to hold a grown-up's hand."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "Each team wears its own colors so you can tell the two teams apart.",
+   "hook": "A child cannot tell which team is which until a grown-up points out the uniform colors."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "Fans cheer and clap when their team scores.",
+   "hook": "A child cheers loudly for the wrong team and laughs when they figure it out."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "A referee watches the game and makes sure players follow the rules.",
+   "hook": "A child wonders who the person in the striped shirt is and why they keep watching."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "A scoreboard shows how many points each team has.",
+   "hook": "A child cannot remember the score and learns to look at the scoreboard."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "In soccer, a team scores a goal by getting the ball into the other team's net.",
+   "hook": "A child watching soccer thinks the ball has to go over the net, then learns it goes in."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "In basketball, players score by throwing the ball through a hoop.",
+   "hook": "A child wants to try throwing a ball through the hoop after watching the game."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "Fans often wear their team's colors to show which team they cheer for.",
+   "hook": "A child wants to wear a shirt in their favorite team's colors before the big game."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "In ice hockey, players use sticks to hit a flat disc called a puck.",
+   "hook": "A child at the ice rink keeps looking for a ball, then spots the puck."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "In games like soccer and basketball, the team with more points at the end wins.",
+   "hook": "A child thinks the team that ran more wins, then checks the score."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "When both teams have the same score, it is called a tie.",
+   "hook": "A child asks who won, and a grown-up explains the score is a tie."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "In soccer and basketball, the referee blows a whistle to stop play.",
+   "hook": "A child hears the whistle and wonders why all the players stopped running."
+  },
+  {
+   "content_key": "watching_sports",
+   "fact": "Being a good sport means saying 'good game' whether your team wins or loses.",
+   "hook": "A child is upset when their team loses, then shakes hands and says good game."
+  }
+ ]
+}

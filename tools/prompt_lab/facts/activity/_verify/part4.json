@@ -1,0 +1,542 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 4,
+  "verdict": "false",
+  "reason": "Not true without exception: blue (and occasionally other-colored) stop signs are common on private roads and estates in Hawaii and appear on private property elsewhere in the US; only official road stop signs are reliably red."
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 10,
+  "verdict": "false",
+  "reason": "Not true for all bananas: some varieties ripen while staying green (e.g. matoke-type and other green-ripe cultivars), red bananas ripen red/purple, and chilled bananas go brown rather than yellow."
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 18,
+  "verdict": "false",
+  "reason": "Not true for every hotel: many self-check-in hotels and rentals use a door code or a phone app, with no key or key card."
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 22,
+  "verdict": "false",
+  "reason": "Stated as a universal rule but it is not: many national parks (e.g. UK national parks, which include towns and farms) have no ban on feeding things like ducks. Should be framed as safe practice ('we do not feed wild animals'), not as a rule of every national park."
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 35,
+  "verdict": "false",
+  "reason": "The reason clause overclaims: outdoor cats hunt and dogs scavenge, so it is false that a pet 'cannot get its own' food. A version like 'a pet needs its family to feed it every day' would be fine."
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 62,
+  "verdict": "false",
+  "reason": "Not universal: small libraries (and many libraries outside rich countries) still record loans by hand or with a stamp, and 'so the library knows who has it' is a hidden record a child cannot see."
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 78,
+  "verdict": "false",
+  "reason": "Not reliably true in ordinary speech: 'to' is usually reduced to 'tuh' in connected speech, so the hook's 'going to the store' does not sound like 'two'. They are homophones only when said carefully on their own."
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 92,
+  "verdict": "false",
+  "reason": "Not about polite phrases: it is a playground safety rule with no polite or functional phrase in it, so a polite-language story cannot turn on it. It is also an instruction, not an observable fact."
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 106,
+  "verdict": "false",
+  "reason": "False in ordinary life: many shape sorters let blocks through non-matching holes (small pieces fit through the square or circle hole, the well-known 'it goes in the square hole' joke)."
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": ""
+ }
+]

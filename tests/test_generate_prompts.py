@@ -299,6 +299,55 @@ def test_activity_matching_preserves_legacy_rng_schedule(tmp_path):
     assert rng.random() == control.random()
 
 
+def _activity_bank(tmp_path, rng):
+    bank_path = tmp_path / "phase_0.json"
+    bank_path.write_text(json.dumps({"phase": 0, "facts": [
+        {"domain": "body", "fact": "Hair grows over time.", "hook": "getting a haircut"},
+        {"content_key": "library_card", "fact": "A library card lets you borrow books.", "hook": "a first card"},
+        {"content_key": "library_card", "fact": "Borrowed books go back to the library.", "hook": "a due date"},
+        {"content_key": "library_card", "fact": "Librarians help people find books.", "hook": "a lost shelf"},
+    ]}), encoding="utf-8")
+    return facts_mod.FactBank(0, rng=rng, facts_path=str(bank_path))
+
+
+def test_activity_facts_rotate_through_every_fact_for_that_activity(tmp_path):
+    import random
+    bank = _activity_bank(tmp_path, random.Random(0))
+    activity = "getting a first library card and borrowing a book"
+
+    draws = [bank.sample("library_card", activity) for _ in range(6)]
+
+    assert {d[0] for d in draws} == {activity}
+    assert len({d[1] for d in draws[:3]}) == 3  # each fact once before any repeats
+    assert [d[1] for d in draws[3:]] == [d[1] for d in draws[:3]]
+    assert all(d[2] for d in draws)
+
+
+def test_activity_facts_consume_the_rng_exactly_like_term_matching(tmp_path):
+    import random
+    rng, control_rng = random.Random(7), random.Random(7)
+    bank = _activity_bank(tmp_path, rng)
+    (tmp_path / "legacy").mkdir()
+    legacy_path = tmp_path / "legacy" / "phase_0.json"
+    legacy_path.write_text(json.dumps({"phase": 0, "facts": [bank.facts[0]]}), encoding="utf-8")
+    control = facts_mod.FactBank(0, rng=control_rng, facts_path=str(legacy_path))
+    activity = "getting a first library card and borrowing a book"
+
+    for _ in range(3):
+        bank.sample("library_card", activity)
+        control.sample("library_card", activity)
+
+    assert rng.random() == control_rng.random()
+
+
+def test_activity_without_its_own_facts_keeps_term_matching(tmp_path):
+    import random
+    bank = _activity_bank(tmp_path, random.Random(0))
+    activity = "basic emotions such as happy, sad, angry, scared and excited"
+
+    assert bank.sample("emotions", activity) == (activity, "", "")
+
+
 def test_render_with_and_without_fact():
     from lifespan_learning.dataset_generation.prompt.engine.tones import Tone
     from lifespan_learning.dataset_generation.prompt.engine.generation_configs import PromptConfig
