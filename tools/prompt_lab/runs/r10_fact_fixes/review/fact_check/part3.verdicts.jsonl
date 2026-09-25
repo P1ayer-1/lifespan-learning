@@ -1,0 +1,40 @@
+{"prompt_hash": "5a53f87d31e07e79b24c2385c67e6a32c4e2e90569a657267de062d079257ffa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c48b40252f1a1d7f6ea84b5d02878160f3d781947078c4f385558c03d636ce0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4d7bb11a5316d9e3a84a92761ad5141efd804ab01fb8944f1d17927be64cb28", "verdict": "adds_false_claim", "reason": "'The next morning, Jordan tiptoed to the pot. A tiny green shoot was peeking out.' Seeds in dry soil do not sprout overnight after one watering; germination and emergence take days."}
+{"prompt_hash": "62cae9c825dffb4b459f5de28c5a5cdc95732c01242ae76d3509ee4a702fdffe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ec631b93ef120436e412f0a9254b9edd334ec167acda727b120463eb2005618", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03e849e8ced42621724710b407871f0f1dd7341c1472569c3b9095f8fc54c255", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7e1cf801aad5be5a006643d0c9239bbf28ec0ee78557f624f91db78bdddd699", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "947f91b3c90814035e7b5b6cbb62187bda44e0eff19e63fca43b303918a48233", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0b7265f8d68f00b8c1cba9456a5120557f6163dddb0ef38830d4ee4d9300ff1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12d85b7e73d13948440100cffbea55fe0329a2950be9383afa98123748e91990", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea5fb2e8b536cfe926fd137713fa78cfac98e7343bcd1e51d144e1889109cba1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d72dbefa3d36b4932da20df4392b76dc73fe16688031193e8af5a775166b236c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cfa45b36fa49f09528f5b9a89e1a708d2f3c45605e31cc20ef927c100c85a6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2a0295f6d2b540cb35987010a6167aa004d1dcf87fbd51381aecb7b7b16b9fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18c3ba99f0c6b3cdfe6cc51f0cb56e77254422b3c299906bb90107c8baab3f85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dea090b4b86824f68be51a8ec13c2fe7db1b61b47ee3b603c1b97c4cfef94b44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d291a9e07901afc85ed5b9539199f17e8251a581b6efeeff3f36a2bcf35462ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e21080738eb6a0b369d9a1dbca4eefd0672054c70c52e9f05cdaf5745215b8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a34a9871b2e3d4b664eb6d6c6f4722baad29049bbf625d4e13242e73cc05a10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af4b83f604a8f5c2a0742ea8f674c56eab7a01045f99e1b14141d84deb04f910", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ab8beecdb7fbb7a8fdf1e68da91a8a6c8d358c0a1a71df7a6b38224977def1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb46d5637f0147e89a0b8ed26b7001040960cc2208da5fe288e5b9a1a981b88f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a30db1b0087bf25a647eed7d79537b5e6f70e5b289707bd0c7cba2bf5865d6e", "verdict": "adds_false_claim", "reason": "'Clara slid two crackers to his bowl... Four and four. The same!' Moving two of Clara's four crackers to Sam's two gives two and four, not four and four; moving one would make three and three."}
+{"prompt_hash": "f9dc805be1c0c2742aea4ed6677fb94010afea98db5bd0e90f2fe8a57db9dafb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81ee7f949bf120fce022994fb1a025d87f88d8e4b7a4ee1b8cbf3b5e8c806b31", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb1ad0238277466aabedc1d78bce18001cdc8149c7e4e2f65852a527a3790e3e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "073ade80d4f325a64746e2db6f2f0c712343099cfc098e1e55ce6a8784d7b5b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efc3d6fcd66cd4a9fa57b3ef78dd464b50686a8256591af6715d0338742a82aa", "verdict": "fact_missing", "reason": "The story shows two openings in the nose but never says they are called nostrils."}
+{"prompt_hash": "f7de70e6bd3501107a5869b6cd2336e7142fb70b68f7e80868eb15f44a7b0466", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91873d61509552286495133e468405b070d19d5992fbb2f2c76f0f435811714c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5aa00eb71eead7e54e0e5311c5c749a8f1c892b6f5cd63bbac1c4258bb8f1abc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17674711b633872648a77a2bbea5123d40baf920a6c3884d5f0c7cc068932d8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9bb4a1e368810d27b6c18a855ef70400f116d9645d0979255f9847b6108cfc90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e06fd198e36e6226c79f6bac4922f773ec1a20844ba528386d46ca01eb2ec94", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8f560b472d4700ab65692223370c8f08989c96ab069ab7aaa0927d00fb278a28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6755b9977f712df9768db348e74d9ea3c18a0b17ab00bcee38520f789683bb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bf7d8964ee9af8f743284d16414e67bfc254fef6e5ce854c5d35dcf2d83033a", "verdict": "adds_false_claim", "reason": "'The ball bumped into the net. The other team did not get a point.' In soccer, a ball kicked into your own team's goal counts as a goal for the other team."}
+{"prompt_hash": "94bd5733e33bd2e0852ba8c4ee4afe9207379272e4b9020ebe53c066dc10bdc5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bcd2661643fe834b878bb73110c70a2e766449450d196b5fbdf1d5905f352e3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92f797d471aaa1eb265068aae9f9bd41128385977b45e0cbf37a07f87c170b85", "verdict": "consistent", "reason": ""}

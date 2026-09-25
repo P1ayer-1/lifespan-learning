@@ -1,0 +1,40 @@
+{"prompt_hash": "8d981dae65c99470de48ce94fa03753f7e156b6c470543bb05ef53b1cede5560", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d42f52c5b4809ede6ceab6d8b8573a608d83c35deacd8ae810469f2de4da940", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fbef086bb85b91740471ae22a94836246bc1af20e1d2245ca65dadc1d7a7a27b", "verdict": "contradicts_fact", "reason": "'She needed a square door, not a diamond door.' The story treats the corner-up block as a different shape and only calls it a square after it is turned back flat; a square turned so a corner points up is still a square."}
+{"prompt_hash": "9d01a9877df86b15db8ef6a1f385a28da63f151acd9ff49b2e81d85b98177b9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "432c9b8accc6774decf40db3e65293a74f3fabc198e3e0917ab3a2f89ed319e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e65301dcf20595220c482c6faf6088901e72cc3da4f0e302e755fec9ed4374d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a538027cde18800faa7f31cf2182311dc3c3823b75f957c85e4ddf8cba11cd75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58b401271d77b65edd6546709d29a9c9fbe976ba0783aac3d098674886331ff5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49fb6c0eee6cb7dec0e96a1f89c14ba333c248fb7c3fee3dc5e76c494ec956db", "verdict": "adds_false_claim", "reason": "'Ten little teeth,' he said. A child old enough to talk like Aurora has about twenty baby teeth, not ten."}
+{"prompt_hash": "6f7783fc0096d30c96876e93c52f253bc6d55d580327e1ed7d7e213bd65ceb24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69f40fe76ed93a14512dd87a60853f68f33ccf7c54926aaf9418d0598883e838", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce8ec54e4e0e9619da156803776b9d4adc8c861c71b2f39706e262cc4a89e99d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c805b91aaea94de1261abc05af1f6f55c1bbca64555642e2d749be0839e7bb0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3f86d6c971e89265eb3e6afb83514466a23cf64a5670b8ecfdbbb4312238981", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37aa94773ecc7ea7a1d2cf7e45883ee8e42f71ad9b9ec816b61bac6b9ac63fa9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c7d0b59b006895c8d80735985e5b955527392f968cddf9878e611691744e3db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23575b05b8b209ce39e4ea0771c462a09cb8f5eb1f424911755a6cc20314c587", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7932172394c23d3254fb7d4a076cac30e2ff4cb2c75f8a6d083154201c0d201", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "afd58df28f9ea10a18e3fc4e2d292b900ab59225d7d7076844204a971ffcfc77", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6ceeb30627fec0eeab748f337c41c3ba87255443bd0faf9f362e1e6ebdc1ee4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19e42e06f3038f10bf0fc2549fd473b47008ab90b7abd187cf3200318e4c1e87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1af808356ceef8b316b7f6e5be703bed0e2f8ce84a6d327b106a11aa001039e9", "verdict": "consistent", "reason": "uncertain: 'A says ah, like apple' - the short a in apple is not quite the 'ah' sound; likely acceptable phonics simplification."}
+{"prompt_hash": "880033a0c3ac97959d07fb456645c554d58a173ec94a3deebd2fe675475642a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abf3c5c5edf3240dd2b55a131f9331db4be1cd90a49f0cc56949f4d1f5946fed", "verdict": "adds_false_claim", "reason": "Daddy held up one finger. 'You are this many,' then 'Yes! You are three.' One finger shows one, not three; the age shown on fingers should match the number word."}
+{"prompt_hash": "2a1d0178224f36bd260c3abc48642e75ab35a24f6d5216993e63d3ede6d1d51e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f44493adbb018e262bf887a2cd3b4997dccb98b0996fb02eac75c58ebf38aa6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "badab9c380ac1bbb204442422630707a31dd6efa7f5ea17b985c940d4c48978e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17a7181734b501721e346ee1d7ce26ef524bcd4f97d608163c735d328f66a5f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f35c106efcd4df0d95a728a1af50302ed615a95c1dc8eeb830a56ad48539355a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b1ff563da986e4607da4c0456dfc5a0360a19987bfd91667423822922422c27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8f70880eaf72723e157310264b3c70c5a3a6aa7b2a64075409676a70fed75a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45651ddda94c82ceba603f97c13bc958ecc46de2ba8d07fa2e0627271f66b2e7", "verdict": "adds_false_claim", "reason": "'The sweet taste came back!' Pinching the nose dulls the strawberry's flavor, but the tongue still tastes sweetness, so the sweet taste does not go away."}
+{"prompt_hash": "139cb0e60ed4591033856704c7d3848112c238c0794f9e141dfd233c0529614d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f37f7801a24ab3323ec83cf9e004943b5f42b3817e21e6be446f28e8236f265d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c215ab230762ea0d3450138a12a7c01a2741c883015d8a1220cc64b1b7d1e53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "830eb8e12b57db2ba03bc69d0a031de09b49ee7e34e4bc7f84cc6654f2fea3b7", "verdict": "adds_false_claim", "reason": "'But the yellow came out muddy and brown.' Red paint mixed into yellow makes orange, not brown."}
+{"prompt_hash": "9af21fad98ac3b508d251e25f113a25e781f6879ff6318f5ff4eb4dc48435727", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3330d97c142ab41e244bc479b11aec510d99ccc5b03cf8d309a0abc1d4ff60a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2030fdc4c704a79c9343ead9b28642ab71b2e8f697a4c2c1ab0c3ceb7629a4d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a287dd181b77e1265bd51dc076a5cbafb34303bca2e90f56f52c0ad9e3067a7f", "verdict": "consistent", "reason": ""}

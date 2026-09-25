@@ -1,0 +1,40 @@
+{"prompt_hash": "e029451852b8280ead08f6530b4c091df93f066e3ccafcc70d609f1a02bba487", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff974d11279233b0120f72fa05fa1de7d7c28dca9a525f1217fdcf3650953e58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "535c09ed8e37b5b7233d1aac1672a3750140a3c0aca5f9f37cf7d4a7ae2a3907", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e40ac213d101cd32ed58d1170819e9c511fbfbbbfea116a1506d2ccc76a312f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "919f4b08e98ba360bf5b20c19764067c2975a58d65347a29283914442e12222d", "verdict": "adds_false_claim", "reason": "'The whistle blew again. The players started running again.' In basketball the referee's whistle stops play; it does not restart it, so a whistle that alternately stops and starts play teaches the wrong rule."}
+{"prompt_hash": "e6ae754e8149c29cbaebf3f2b449ae10da189b3f70eee7f89fefa270f8399937", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2d945b2c3076cf9e70d6b462e28ac8b5fb30cec6a7da9d7d1fa3104cdae8f0b", "verdict": "fact_missing", "reason": "The story only covers morning and afternoon; it never presents the full sequence morning, afternoon, evening, night."}
+{"prompt_hash": "a3b8b39ca4e918c3588b1bb654b193da2098ad163fb1cd65ec226491654644c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a632ba1352dc8248fda2d05ba97d1bece0213c4758f80f1bae7175025e32e13b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f050146c2f59c6993b59d5fdbef45c85bdf7076f51f636c39de4eca8b909c94", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15b7b4ab82a384aa6fedfe176a7aeea62aaf4b4bc52f5ad2aaa4b629d6184103", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39354bac642fd5cd206195e70c1104c861e698bcab11a284a9a9c04872c0f5df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48524614254e889491262ac0b8e054f718901996ced79b79fb38a29d9af8909d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3bcdd7d4b2a2230b83df4bda678794f510ba26c0fce6c3cf93bbbec188dd579b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "35eb87b99fafb90f464d69f4ed8764ec39795735fff512c3e143bb908c1ac90f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d417978d5fd7dea613606b24ccb2f6fdcffffb6efa9c05c62dab01af33530a36", "verdict": "adds_false_claim", "reason": "'He made a big round shape. \"That is J!\" said Mom.' A capital J is a hook shape (a line with a curve at the bottom), not a big round shape."}
+{"prompt_hash": "778c00dc7763fdb7a7cb9795bba71e26ed5675215b7ecc03039262c65dca13f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c47301c7e86fad239f2402a3d063cfe3b99d1ca6b925278ccc3862ae9a5a295e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c2fc29fa55969e5754f12b1f560fd43d80fa15144fa2783df46d8c4c1606ac3", "verdict": "fact_missing", "reason": "The story names red, yellow and blue but never says they are called the primary colours."}
+{"prompt_hash": "8f7b89b18407feeed65bf0ce0c44db53c3123984efb2d08c6d928168f3c0eede", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab8f4173cf7b178a2448de86b4967396b37a517d5cac152c2e3c3546a5b5ccce", "verdict": "fact_missing", "reason": "The story shows a wet sock and a dry sock but never says that wet and dry are opposites."}
+{"prompt_hash": "f8fa77efc529c506a21d8bea89e23dba37d3ef43ad4975511c81281538e8e488", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74fa3af88b39e12872f7ea2a9776d4f3bf05f23282d74fd1cf91c397bff875be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4987617240775bda12c0d6f845b9ff6273b637a4716947430f5f61d6146e0801", "verdict": "fact_missing", "reason": "The story shows a heavy box and a light pillow but never says that heavy and light are opposites."}
+{"prompt_hash": "d92fe21a525cbf63bd415185019f31c882cdc3688b5a2ae948f5538eb9a5a583", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a69ebc6153856bb56b65413b058a62c88513b0ec65125cf41ed720a612a551b6", "verdict": "adds_false_claim", "reason": "'Dogs get a bath outside, not in the sink.' This is not a rule: small dogs are often bathed in a sink or tub."}
+{"prompt_hash": "2bb7f1420ce18a342897858233eee246720da1420fbfb64577df9873a7fea092", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c064cd79964530f34179e215e4f239373105fa972917e867d2bfd803a2ebfb64", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "761877ca6e79717b45a6f8b9409e9571d368ad3f25ebf7e7d08a6abea05cc3d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5ef869ab404ca54d715479f0e3c2cb2315264f2e325ca5d08279bae25024870", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9ed0d7d95d4c1dd1b976c12567cb1632f05e46121303621b92b741932af8f5e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cc7b21cd75bc59acd4ca96211487c094df4d8c7e6b682bed7ceada0d62e57e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5964f570a93a746e7ce871480213d3836e56cae8f795e1edc5936a4a42ded144", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7dc20df05f44e32fba84439e54cf0ddf21c745aa10f3c929a7527448230ccc30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85ba0be048fff79f51040bca34331f0a3f833c0e86dd0e8779982fa6879db47f", "verdict": "fact_missing", "reason": "The story shows a loud and a quiet drum but never says that loud and quiet are opposites."}
+{"prompt_hash": "24ac0eb347d1a65c77913dd25150c8953d95f059be70e27275df7c19e90cad70", "verdict": "contradicts_fact", "reason": "'Mia gave the doll a hug. The doll felt all better.' The narrator says the doll felt something right after the teacher says toys cannot really feel. Toys cannot feel."}
+{"prompt_hash": "4590f972a531cf154663137b5affcfe4c2e679a75c1e4fc1081a680ef4631584", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5df08983dad13becc9bb352be992c59b0b10cd5ac14bdc923cb2185c01b0fbd1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c061622bdffc1e52c3c666c33df86b230c5e968b353415c8f2ab790fe18edb12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "359287b5f83ff49f22bee9f26761fed9e9affb31a8ac507adc9fcc8ce8204672", "verdict": "consistent", "reason": ""}
