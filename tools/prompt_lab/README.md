@@ -12,6 +12,7 @@ spends money; nothing in the package imports it.
 | `lexicon_build.py` | API fallback for the graded lexicons. Preferred path: one subagent per phase writes `lex_build/_gen/phase_{i}.json`, then `merge_builds.py lexicons` sanitizes and deduplicates (a word belongs to its earliest phase) | subagents (fallback Sonnet 5) |
 | `mix_blind.py` | Shuffles several runs' stories under opaque ids into blind parts so a judge cannot favour a generator; `unmix` writes each run's `baseline.judged.jsonl` back | subagents |
 | `fact_check_export.py` | Fact-consistency gate for a generated corpus: pairs each story with its injected fact, exports review parts, and `apply` turns failing verdicts into `<stories>.regen_queue.jsonl` plus a per-phase report | subagents |
+| `age_check_export.py` | Age-fit gate for a generated corpus: exports each story with its target age, grade and reading-level instruction; `apply` collects the subagent scores (`age_check_gate`'s 0-4 scale, pass at 3) into `age_check.jsonl`, `<stories>.age_regen_queue.jsonl` and a report | subagents |
 | `factbank.py` | API fallback for the fact bank. Preferred path: one subagent per phase writes `facts/_gen/phase_{i}.json` (15 facts per domain), an independent subagent writes verdicts to `facts/_verify/phase_{i}.json`, then `merge_builds.py facts` keeps only verdict `true` and writes `facts/phase_{i}.json` in the format `engine/facts.py` reads | subagents (fallback Sonnet 5 + Opus 5) |
 
 Rule (owner, 2026-09-23): LLM labor such as judging, fact writing and lexicon
