@@ -1,0 +1,40 @@
+{"prompt_hash": "3312806a1dba52697e2b2491b43c47e3be2301dcce949e2b0fd64f2c8327fd03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eca06e1568af8a029511379ca165b631a091ec9c93b7ed0874d91bda509943fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a599ed79312202efbfd75fc24fe10151aa10df0eb0673df468c40eac3702951", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b8b74d673127a31ee71619c6cec8922d55195d7b3122d859862982dd98b8680", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7875b2f24253925a9a77066a862375b49560508bd94effb01dcab80827346e7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83574612cfa3e344d66b88bc8421b000856c883e9a3a63a5ff0f3d59af2a3416", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ebcca2e33cd87f8428725fa24deeffd757261a45f19b3980a6a7e78cbdf863db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d49af00e308178b553a63168a1f34c37fa73de87c1d0de88cbeb0f64cdf48d0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb1277035281b8ef97f43b65d0c0ed9816be918e3b4794c60cf770eea5298f17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb43973c0b1e58d9d4a531f9d08a6f0f24b2c1d1cd9950d753d1478ae2f99b77", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7fb763c534f157507e09395274eb814cde10386ad8e28382492a9d82b1413d10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64d63378e777fcd2bd041b31937b24e4d9b7ff57a0efc6cc245bdb6fc2af3c98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63a569af885c8e493567decfd47aee626ec6348c4408af143d1011e9e25daf14", "verdict": "adds_false_claim", "reason": "'She shook one and it turned green.' A glow stick has to be bent to snap the glass tube inside before it glows; shaking alone does not turn it on."}
+{"prompt_hash": "e429a35a9acb61eed424808e694e7015e5f22a86012d688a37dc8454d9c9860d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89076d68ae41574902daca0ad31ae45035167582ea6ea9ee0ee0a027decfbc7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1558e142eb8c874a102e53078ab72a876a515eb38ceb757a904b50993c8168d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fbc20b4038ec1bf9b0b7ee9dfe98c493ca060c0f2fe357c321b004194c7ea951", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13d62bb162868c99b029a0c1e12eaee37ef5a746b78a256d470b9a426ab8a4dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4e1d818d69ca88c1bd313e9f24d5f113edd838e8578b02b24b95ca26cc64065", "verdict": "adds_false_claim", "reason": "'Mom unbuckled her belt and leaned back.' Mom takes off her seat belt in the car on the way to the dentist to reach under a seat, and this is shown as fine; unbuckling in a moving car is unsafe."}
+{"prompt_hash": "5ee82cec1a926a6968bd24353cf224923a017b2c70a250a9807515c46e006c9b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d7b49ee4b559d40c45b40bbb309bb855c7f2582a96d387e7eef5a058d60d7a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "206e77b4bbbc8a2b6e0afbddfe5b5a1c404381b2afe472e5c2233b511c3a7a22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbe6c44285d4294186eb9650b30c942dbd031acc0806dfccda16e8db4ed27e56", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "605599e4cb3935c2a5dc9bba852e0adf09807b047d616eecaf3d3ae2f90039f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65757a702caaf35e18946bb6f37d698ea0821490669703d1c8c1b2060fc05d69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "299b0488357b1a1e1d2eee60a2430fc22a965de60660cf15ef1008d54f758fd3", "verdict": "consistent", "reason": "uncertain: the class shares ten crackers, but Isla says 'Ten crackers for you' and Tom says 'Ten for me too', so each child seems to get all ten. It reads like Tom's joke, not a stated count."}
+{"prompt_hash": "3fb0523f2532b550da03afa82a84ba9da39a0577b41766580725ca5c6cf562ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6bed775e5145d6c76c989d17fc5bb4dc59ec8e468b4afe0ca6a007d8abcc1207", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f0bb301de7a499026d13dcc1b59a5726ddecbd62be43b7a09e7e088ef83aa311", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca8190d53bcf7a0cc261d610bb7216dc5b294951e80cac9f8f1207466bc05c04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b934fa435d44d336b19955ccad1cbb862f37ee7893be305163b0f14f0cc6266", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6f1fe7593d13351dd467aaa46dc9e9b43ef3ca0e29ebc83a9af20878f29b902", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90a21c0b14b7f713d9b988acce1926bdb5b21b8508f33b75f9c711366f882789", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98a33a4dad53505a0c7046bea95b5ec38dc6509b4bbd8191bd09ad2aeabb52e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0660c4c634b7074279afb8a8b525a141b4a66815ca19a98ff32e100ac41c48af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cefeb5bbf8d9a3b7b4fd7a50bcecf2a994f6b673e2099df95b066ecb9222e93", "verdict": "adds_false_claim", "reason": "'When he blew on a star, it slid away. When he blew again, it slid back.' Blowing on something pushes it away from you; blowing again does not make it slide back."}
+{"prompt_hash": "b14977728fb7e18b027665e09d823e034e723d72f1e600785dc196851d2b2d5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24c196b678b0d8f173aa8608c735a95fb763dcbde36aac80ca22bc717da8e5b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b71b50f74030931da80e2b50d32b169b74a26159c411b53b3e4be51719d996eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4303e1a2168732fe85f310478edb450e049eb351b49a4fe52399b85a81c1b8c7", "verdict": "consistent", "reason": ""}

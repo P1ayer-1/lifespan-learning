@@ -1,40 +1,40 @@
-{"prompt_hash": "b7dfaa6a9d7ff20d9b36638a00d9977552451df17dd239cda60f24e72260a530", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8070d0461469c1e7adda2f52d32f798ef540bd03c22b9df4cc1f7cdc534e4fc6", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "abe9316f29b8d98d39307489259e5c18e3e5e99ef055f4efd4e72a8d952668af", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "98ba2e2c87ca2055aaf9393ebd2bda173044e0921f09df138001986f5861ada4", "verdict": "adds_false_claim", "reason": "'She poured some tea into the small cup... Now it felt cool!' Pouring hot tea into a smaller cup does not make it cool right away; it only cools somewhat faster over time."}
-{"prompt_hash": "c3b30aa8a6bb33bba4f44da4a250e427f271adfe37fce61c395bd029fee0d80a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "67117820f3287ab4d72594bdd0651ebfa375912740d0c8ee0a8d9d09927c2cda", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "a0a7f30b65d1d6135f0ed963df39cd0ea3e8ca8d0e65be12553414e3f197f556", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "58f8771706e6a0593f23269cbb7ffe982b2e144d365c01d62ab393821dfc3121", "verdict": "consistent", "reason": "uncertain: pea count - 10 peas, Daddy eats 1, Iris eats one per count to nine, then eats a 'last pea'; the count may not add up."}
-{"prompt_hash": "52573132d9470ca4464fc651cf4a9d014be9c5680477909c7411662fdbeb186d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4db78055c59c113b6e73e2cfa26255c6cd356eb4ee39394cfe092c0b340b1561", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ca09ba9e3ebc7d8b62d02a3e4e62adeec54d95167856a41c4ce09f53d1c8adb6", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "a7acf0634a5b81281d3998bdfe1c07ace0fe45798a567b1067eac49d2556a179", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "aa71e2fbd5f1fc541ce056f1b24e8c2cb7979927686dca7f99338f88d92290c3", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ae17b94040533f755b81bdbcbd8d330024a5916dc4e3aecaf3efa5b95bdd810b", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4d17d68f191ff6fcbeb27ac3cec0de1bed5b2cd4c3107d9a1def6275409b7e8c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "988183078caae27ea4493c355ccbbf6b11616ad8f352ea2914c9b714d07fc56f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "86cf6af148b749c82d1f440763d73220d16a9ab2bb2327250dafe2161176c2fa", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d8a646d968ef6f59a768fcd6bac4ea1a2821893a25164f1a38cef74c5ba7ded1", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "03b9a8439a813537c6b895e0e4105e65d8e10fbd69d4374962fe8255c0ffe1d6", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "7a913466b824f082ed3f31f402b8cdb6c9a6db4eb26346712fadd6b352ec643b", "verdict": "adds_false_claim", "reason": "'This is a root,' she said. A potato is a tuber, a swollen underground stem, not a root."}
-{"prompt_hash": "ed6e93bc2d81904e1101c89f3302fce8d6dca780a43ec1d8b2c38aaf128c35d1", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "7028d69efeb98665c16791c32f1dd1d579806eef633ff37cb97952d3ffc8174b", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f74e4f1f86e933a8e6ea9eb9d5e978379cf586987c3db30a6422ccacf9be31f9", "verdict": "consistent", "reason": "uncertain: seed sprouts through the soil two days after planting; fast for most seeds, possible for cress/mustard."}
-{"prompt_hash": "ce71d462ee345c524f8d5908b3c732f883edd524d6c195cd27b9ac25328e5f33", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ad3fa5eff8fdd40827d5657e64bb20eef17fa7b1f08c08fc81eb30e42a7ab95d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "7879aab5a6bac30f2b392db53b10ca77780ea964908a3feb65fa548175a7bb3c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d1e23f410fa29fba674aaaf6507ed037f97fd7260bf3e2d4b44f1382ca5f0fad", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "a8a7f2c4b57c565b5dcbf5451586c04ce74ce32b7180d34324937fb3dfe04f24", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "91e59cb214b708cfd87f913734fdc5c073bfd007890e005b37c4454959ee21bc", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "cd7d9e6a7eef7d30769a486a08335c2880e9769d302da3e0a7977c00188335c0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d20092f1b31c2a23ddceda1713d89ca8619ac08b3debeb3c1d5d12761ec03815", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6c8855776e4548c1a82429e519c4963175b67bc01dafcb024ac8a0bb82467d43", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ac015b74891a76dd727b829731a1aba9eea77bd6aea98e5888fb71d6ce95a0f9", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3896472f25440983ea9b4bdbaa0965931f84c0f0fa61c119332133c16601f3a1", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "a2487fca7fa3e441de7914e8418786a1313c7502769297259b94f45f2373e05c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "26a9666635b6ecf9407f6f6287a5e3564b5ac85af374b568c0dc356cc60f6253", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "071d79d661234326b6c4f8f657c504461ca44e99a7c9990d744a395bd0dfaeca", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b3d4d45648d0652227409b3bc555a7fdcc20f93504b74b82d045a9c9dc0633b7", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1fab4b9f0911e52243ceb21bbe293f390d84f116b06425840ea6853d3bd77d24", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "32ffa6e8da95ae9b3fd93944bf6ef9a9333241403e1ac94a3b50b8cd24c375d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bb5355134d5adf073c8f7264ba5dc13cf38b0159ed5844b98d5a4a94441da72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcfd51f1c205b3a93dadb3c5ab1983f90cbcf60fcf220e83d3ce3fdc71e9914a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b4e659a604c0d033a969afec8b12739967b59f716712e9c5a8ca48698c7681b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a57a4754203b75e99544dc6d7e25f11a7fe71a082d4f68c80b0859ee9f2cd3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cfca910664830dec4df98b373b561c159623a2c6ab7fce2e7369d8d75720099", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbe74da954a7a0bb19763474eba02d423361987baa5c79e0a16bc7ae3450c671", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f909d86fdbea6c9a7c61e094b512f5334c9b589b3b80b9351f356543d35c069", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f570e4544853af388e2b9220e7e26f89a5cd7ea3f0c7210bcd0dba92b653620", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad1050dfaa248251c281049f21c03a9c5fa0896a68ff3a47d69da1f3c104ba5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26afed7830c1eccaae232a8e90aed003de7cc0d7de05a67bfa484d9bbb299c19", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4dcd8cf62de4adea909b4017b022d66f7605463c3caa408389ddb41770f9443f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f6f34304658210eecf98fc1bece33c91369cd84f094ea17150351890b7f0e63", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bacc8c9fb9372aac4bc35aef10b63953f3d9abbc074ba0810ccbd964b7004cd5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd3d124de2ea3e31a8e8a49f6813ffda9faf3c5a5f23199647761fc0723e6a91", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58c11e38e6a788ccf62d36cb8f115dc5f29f93f071b78dd336fd393de2783b7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "952a79353de799734454d76385aa92dbeb33160eee770c04ce05be7eb328353e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05b6644690ca85b8a05ce4e22a097d1620112074c39c56acf7246501ec94e0ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7333440e73f3b2669f7d98959f3e0a74c8c60b57f0a67ea76c60676f3691c28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f52de01e8bc0beec28d09489bf25a9df91f5b80fa5698a88c286c168de666fe0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "adb9aa74514432ec1d1cf3bcd772f28866921fa5645f7893bce9f2d1f3e6da08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85be7e0eded9908228b0911881722037d86c1db2bf0dbbaf4eabf5ac88a3b606", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d27a305ef6c9462419e53dec6421cf2cbaeb5a54f9a4314142b7034560bc974", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd12faf620de3c5d68abf3e9795fecf56db3c8388a8dd77c346008d4a2c0484a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2d945b2c3076cf9e70d6b462e28ac8b5fb30cec6a7da9d7d1fa3104cdae8f0b", "verdict": "fact_missing", "reason": "The fact says a day goes morning, afternoon, evening, night; the story only covers morning and afternoon and never mentions evening or night."}
+{"prompt_hash": "562159b4414e48a0c39eb5fad49a01f0c2f79144056f98d7cae06a67c027efc6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1562124ede7850bb554cfcc908b5a1807376d547ab1daf9f12717e327b6599aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b79ecfb93003996ceff93fb9ffef003259ee5c1de7b3e70a920917ca38b1028e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28ae02b6215518929d2a5b9c32e840a8df954f9fc715d3166551a4d2892d0590", "verdict": "fact_missing", "reason": "The story has Nana say \"We say Bismillah first\" but never gives its meaning, \"in the name of God\", and never ties it to Muslims."}
+{"prompt_hash": "5a4ced2d7f13b5a8793c4363fff57ab0ee8834bfdb78adf6ecf67c661bc3c631", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b3a2f1a372883bf3e5d718b1f15705d7b8c7f93a87a226d1562e8bf683c6b61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0707401aa9644d5dfe555626de624597c93d0000421ce11d1aca2d115e78b3f8", "verdict": "adds_false_claim", "reason": "\"He started the R on the left this time. A, then Y, then A, then N.\" That spells RAYAN, not Ryan (R-Y-A-N), yet the librarian reads it as \"Ryan.\""}
+{"prompt_hash": "e8b485cbaa0e117974900238b0537196792c44b465c1cf3751a3cee74aba61c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4a4660d4a9b2f445ff756e7b2af36f393bfdd2e9f0c519035af5a20c5282488", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce477fe1306fa4168390e1fb19824548dfd9decb5fd6432a7c25d00b455696b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0eb88bfa5e8f0b42f829b6d5a9def91b9d3e0e95141310a451c393ded0c6649a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab57bcb86b97b3c3cc8ac2ef173c0b1061460011de150f6644c3d43708c79e4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ec631b93ef120436e412f0a9254b9edd334ec167acda727b120463eb2005618", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c47301c7e86fad239f2402a3d063cfe3b99d1ca6b925278ccc3862ae9a5a295e", "verdict": "fact_missing", "reason": "The story never says that Arabic or Hebrew are read right to left; it treats the book that opens from the other side as if it was upside down (\"The words were all at the wrong end!\") and has him flip it."}
+{"prompt_hash": "0e476b1818befde1801d15f60716afb2eccfa8650ae04825b2f01789fb261e6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "022b9072666a4fa2e0d727224b24079623e95e532deb5df485b2aa563f4be979", "verdict": "consistent", "reason": "uncertain: \"Her square block had four sides, all the same. That was not it either.\" Mathematically a square is a kind of rectangle; preschool lessons often keep them separate."}

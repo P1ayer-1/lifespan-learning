@@ -44,3 +44,9 @@ Follow-up (2026-09-24): v5 was installed and all of tier 0 regenerated. On the
 same 880 prompt configurations, both reviewed by the Fable fact checker, the
 v2 corpus had 22 fact fails and the v5 corpus 27: the fact-check gain above
 did not hold at corpus scale. See `data/tier0/README.md`.
+
+Follow-up 2 (2026-09-24): tier 0 regenerated again with a verified
+per-activity fact in every prompt (commit ad97bc6). On Opus, false claims fell
+from 64 to 43 but fact_missing rose from 5 to 25, leaving fact-check passes at
+929; age-fit passes fell from 942 to 930, mostly tangled plots in abstract
+number and time activities. See `data/tier0/README.md`.

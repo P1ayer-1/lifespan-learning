@@ -1,0 +1,40 @@
+{"prompt_hash": "f7e55738b8ce90661107ab7f7613d87698e2c4921995497c48646d83e90a73af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31dc863a6a832cf2b507cb4875a2aae77851be3521208608362f642cf3e4e2e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c6e86841d7f06d29b3a806ff1d73aed89ac95ff36827e2a5c2df9cba940160b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b44c8286c3924a4b062304b555f823d8fb0c7f6250472c4bc61e7936a855b452", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "693f2bad01fa83e8d03708ae2ab53afca2a5460cc0a7003ced128b3403d27127", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cacbd07f74d7511e517ed4855ed20a9f2c598ff75b01046bfaa8993b59d0380", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca3490c5ea09365544b16ab12cf99c3f948058d94dc3a5eb7cd92f4a5fa386d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e510b353a4c62f7ac5334c93185be78488f963b4fcde13a0d22af4c383c243c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2c57432af8d7b0671ca17abfd7688717ae0f97de10df277f0180f39d1e473d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de5bb01a9c6458cda901b0f21a9884b48027e0b36607f944c3b961631f15217f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1c64c0f316c53e2a070bc5954c8ebbaa6c8bc3335eac4b4cf1cd93c3a7758ff7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15e8bf905f6f8267e41bd439cb443b53274c1621facbb359d51cc864c31779b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21bba762cd2b4f202b03c054647e42e161b4fb104e82958b92610c9c9726a18e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d54c2cc2df023410d72fed90e068536f6afd304114eebd87c1afae3937867b08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f5580e6ab5357128da16b591a216597e7107f674ed324b81005bafa2f0e1ba9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96510f2af0f66f633179f2cad044ebaa9dfbff51adfa35b7eae0cdea6cfa1608", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fcbf8b9123513bda9787cd5866a16ac1f84e03ad0854b96a1875f6b496071d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1fb05f94b36437d919348c3eeecd74e1308e52b52234ce8197152ae71d0c492", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6db4e0cb5d6ace6d004ac3c0f2d4df271abd4c34603ec757dd1d743f402563d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bfc594652e284d9b82b5596c19b9fea753f07ce8fe37e3e61f5d3cb2d1a6d50f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "274e726036535cd1501a4d253f8251cee298896db372a2d1d153a043210ae6d9", "verdict": "adds_false_claim", "reason": "'The warm sun had touched the wet paint all night.' The sun does not shine at night; the paint dried in the air over time."}
+{"prompt_hash": "5e1e926914837de786ac539675d9131b1cb6cad42229dda271677d14ba8665ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b6ea9d699a4e0f74eb7a23adbf2bc001a4ed976256628076caa455bf3b558ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d38dd6b4df3a5dc85be44d5fe5404030001d9e8212418ffc630b76c2d64ee5b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "908b2251b1a188f22f5d528fcb24b55a42160fe103ba9b35d1fa8c4b0ef8b829", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a976dbc16a3f6207ea54346dd32a1b27b745dc576615d0fb1c3ae82d96a5286", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6fff898bb0dd12bf3fea65c701ae7b5b1b3f3bcd4299d15dbc5bca392d6a0ef4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24f723e9bcf351a1e0466e8fb4e8a27184b431b5271c82907da79ebb27bbf1b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1360c48fb9939f4efd8ab24d5792b03f5eb95038a16df856788d71cbdb129334", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "815b92b40602fd4043ceb0df899a1f0e2bd32ff54e2fb0cc99768315a7e8b926", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a4dddd932b5a2c13b1636e31b2dfea15c2adcfa2973b5d91da5d13598e795a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98815f89a21a97b95ba2b6b6e69d460cac251de926bfd7056ca8b969886d1df4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec66bf037ce676c77927e570d9acc204e558106c22f32b399d83d81bc72028c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e474c377646f91f641731ecf03ca02cdfd3a56092a4a8fab40687a432ab561d", "verdict": "consistent", "reason": "uncertain: pea count is muddled (six counted, recount gives seven, then counts seven to ten while eating), not clearly wrong but confusing for a counting story"}
+{"prompt_hash": "e6810b8daaafefa126ae07d85ed4f7cbc5526dbd1476079c23b43a7eee3a97d8", "verdict": "adds_false_claim", "reason": "'The next day... A tiny green tip was poking out of the dirt. The bean grew in the night!' A planted bean seed usually takes several days to a week or more to sprout above the soil, not one night."}
+{"prompt_hash": "4b849c88a0f4e02879c5522902bcbfa8b152fe599ed675193e1b7fc404586215", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e39ea3315b73b42c78712c3d07c84fbf413b0e6ce0537efe96ed4c27b9378892", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34fb3b0e9be83bd8feab6b77651de7c03b75f70fb42a96db6d3bb5d2385046dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6bec2116db22cdecacf39e250211336cad9611da2e65231a36016a81a38a051", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2935842a94003b0f22e0b5619c61d42e5089df7de293bbbcbb60e3ae6a3e7b48", "verdict": "consistent", "reason": ""}

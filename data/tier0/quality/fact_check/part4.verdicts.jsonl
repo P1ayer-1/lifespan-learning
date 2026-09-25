@@ -1,40 +1,40 @@
-{"prompt_hash": "0ac8e372545c2b60c9fb7aa5f1b0f62fd5fe994e324e7d1b44ad843f85b39c74", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "60ee0063e855e82194863470ab01200ccf9ebfd91bce0d200f408f71f4176e2c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b21943bcfc1fef92d5fc5f55e592e42d2174e5647f9705effd3d12dab2c57854", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "80916041bd98be07de24e828629058e7bd90e6efaac063f34ea4381c30ccd3eb", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b25a6b91e716e75f4da7a653f2bce4b35e38a2267e9798d757c20b28fe199604", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8d9167db2db9b98a14db714048399a7d7f59752ec68056496989433082d41a37", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "743673a2347867d27c772622d547605437b09024e5785502f93f6941411ab2d8", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "59eda70a7e7c74ef1fe6fb47c2a7a0691dd3f4c9e744cfe08af5f412f9849b6e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1f53d682ead1bed6c89bb0e997382c641ef06df0c40c98bca0ea259a370dacd3", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "00fe2f27efd8cdbe7aa67b5713de9abfad78f7d94f2124d83732957edc19983a", "verdict": "fact_missing", "reason": "The story says the book can go home and must come back in three weeks, but never says why (so other people can read it too). Theodore also hands the book back instead of borrowing it."}
-{"prompt_hash": "52221cd53e051858d119427a6d119781a1f4b41b13fc986850c4ff6452d7e42c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d16146d15c72b921ff348938493bc468a21b6c903a13248ad36eda59ccdc2d31", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6a0b47645d58dc58b6dbe5de484cc9bafc76c57f91945756425a5f15d0a170e0", "verdict": "adds_false_claim", "reason": "'The sun was hot on the window. John rolled it up. The air inside turned cold.' Closing a car window in the sun does not cool the air; it usually gets hotter unless air conditioning is on. Also 'bigger than ten cars' overstates a truck's size."}
-{"prompt_hash": "c3d5b5fa083e406131599e4a709c10662fbbc29ab40cacb6d5dacc0343fdf51d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "aeb10d3309bced4c06fd4f7316b40a58aa036fd2455826c6ea28c7f9abe65a73", "verdict": "consistent", "reason": "uncertain: 'Wet grass made the ball slow down.' On short or wet turf a ball often skids faster; long soggy grass can slow it."}
-{"prompt_hash": "37912f6e24ee78758773ed0c500bbdeac9533760c30528cf63dc378769282577", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "98a24570a36179a2be946c9e112f374529d11136a4083d4ce214a2cc4087dce3", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6754b720393b6ecf1bf5aa3102e1068245693122418d3ab7993fd8c34e6f2a1b", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d2c1e0a2ce64b24003926f1f2a0011b74e28ae2598644b1bb8049b818d10a58e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "a5cf737e875457c397c0aab3b354e7ed8ff7ba346eb27c5612b5cb376273aed0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4f071aaca00fdcc93fb8888a371ba3aeb45a3addcb772902fe3987edbb863cf9", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "001fcfe1f5b6732d5bed7ffcc8d27d5e19c220942ff5f23f82afdf7a0a5a4bf0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "12a258721ec576fa449effbd51d629f07c5f7aa00f91c5979cc7999561578453", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "52e8628187f25c464f75fdca059595ac3cd2a275b680690496836494af79d220", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "81e86874b88a5579bb0f7ecf912b4a1d04c3b8498c2eda1f7b3490742e887d00", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f942612385375cd8ad08117aaea09ebd7de8275edc6b81070bf35af682531d66", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "59a8b36c120ad98edcf893942614ed3d5cd4672ee9f37f7dee5c42441c9d2140", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "185602b04b5e741fb77f2c3b53adc1366488be77ae55a72b42cd1398d11c4ec8", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c0afa26262ca345d5d57fc226b1af99cded27368d2accfb493a6c5e4a0c2022c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "9aeda6a2e2894b00882cf4735f228290261aab78d88e4a737965d71cb34fc967", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1c9c52edb8c48dcd3d6ddbd18a7167ba74ad97bf3e42c160a67f9bbb69da768d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "831471302119c7c528bffd44bbd7a8668bd4bc2d26e4d2dcd165cdf55ecedf2f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "bb7a6c1673d45ac9f77971183fe58bfd7bb64554a59eba74fd1b1e566dfc0586", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1ead727afd564c7999cdf0ad2df66dbea7de12afec6a01223aea9849d131864e", "verdict": "adds_false_claim", "reason": "'Her fingers still looked dull... They shined in the light.' Scrubbing longer does not make hands shine; you wash for about twenty seconds to remove germs you cannot see."}
-{"prompt_hash": "875eed7472fdfddbc9eb4fe86882598191f2345eb2e8edab337547070b2760ee", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d121ac6f8b4a7458fec98a6113d6aff804583c70a8d4344b7b49a31210587c5b", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f6ff419e4c0eb3f5531c4dd4bd253ada0e2a37446b5a973a9a15819393b80163", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "429dd3a53fe49dc0c2658eb498ca24921e39098ed33fad4994352938dacd9e52", "verdict": "adds_false_claim", "reason": "'The drop followed her finger! ... She led the drop all the way down.' A finger inside a train window cannot move a raindrop on the outside of the glass."}
-{"prompt_hash": "bf8dd166e6b5ae6d08d836181f1aff2a42b18e30dbb04df7ac6fe7e05b3f649e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8108b01ccf9c8a7bfeef2e26929d30c9afa8c9c965a816e7d226d2efbdbad5e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d981dae65c99470de48ce94fa03753f7e156b6c470543bb05ef53b1cede5560", "verdict": "adds_false_claim", "reason": "'One rhymed with two in the song.' 'One' does not rhyme with 'two'; in the rhyme 'two' rhymes with 'shoe'."}
+{"prompt_hash": "aaf9a37c3ada098e3b40228cba56011a2137e8056b630ca5969e3a263cbcf4ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1cd58dc4239d1244150f3f4bb686d07feb2f2166c261486a7b6809307cbf593", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c77f41391904ffa5d7b64338ceb734662f9c1e1904f3ff0c22808ff0d826994a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ebb472da11e6d95a9c00908e05e39201d1e4ad3deac54d8bd90a4dabddbb8df0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe67954e8fbbd0e97b49800cd8d769cf87cd2e8d22fe16b0d1279478a6318f11", "verdict": "fact_missing", "reason": "The story never uses or defines the word 'season'; it says 'So the team was all of it', calling the practices and games 'the team' instead of the season."}
+{"prompt_hash": "12e27eb278dcb6a53cbc1bd6ca431eb6e5dffb452b59af0da03d1fac49718dfd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf3fa4e77ef417a2aa0f4736c7e747d8348e9517bba9b4075f3c241f2814856f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a2dd1c80a347adca5d6060fb8c4241b0072dad385d7bb94699fad4926b779aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b45baa38e2271bbc6c249376706f727a6f5c476450ee771c89476d55b4250eba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "619201f8796e661544a0be4acb0995bebd8f1673f6c1ac6b250e4b9c71653494", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cc7b21cd75bc59acd4ca96211487c094df4d8c7e6b682bed7ceada0d62e57e2", "verdict": "adds_false_claim", "reason": "'His hand came out the window and waved from where he sat,' shown as correct bus behavior. School bus rules say to keep hands and arms inside the window."}
+{"prompt_hash": "73054ed058523868f1ea4f28b5a6a9d3e7e6e820f6e8d6195880574c6abceb33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e77390a9a8a2552f9c376fbf4e660d53f2baf2675367d283a1e6269a8000bc1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d9f5a109c534e61f72081d18f52918231fdba89f97028c2092c071166ee8b96", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33a8143bb69717ce4b24a8f00faf429d815ff420a8bdcbfb9b31ce8a1c928673", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3097d01620201d985a84d488c882c8511111594c564d806d9b02454c0414e23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d58561efa640d6a7e3da2c2d9c01f7aae8fec0f5c4f34652a033d6fe530eb7af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0181449eee1b95afad213b0b6b0fae4014632af87b54eb613bda60984053e61f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04b8a9004ddc926ba53aa2f868af1ae25a69a3a8dbce5dbf609f45993eb1ee75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb8121127af9e804e9db886ebcf2f493fa27336b78eecb2f57f2a15b3846ae3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83364557b12dfa51231e90a42c37948701db8e45047cb67665c7f355fa90cb72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95edcf5120ce50dcb44b0f2d6c7fb8c92547d702f2787ca02090c3a83735b99d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f353833e9d1df8f0d51f1d832708659c336719bc3b0258f9f9afa9a6b591a2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4d7bb11a5316d9e3a84a92761ad5141efd804ab01fb8944f1d17927be64cb28", "verdict": "adds_false_claim", "reason": "'The next day, something tiny and green was peeking out of the dirt.' Garden seeds take several days or more after watering to sprout and come up, not one night."}
+{"prompt_hash": "1777d8793dc387a5f56d5e64ad191903081b3f715cb528c9d67cce9f2a0197a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1b426cf5c632a157082007e80c3f8a96a7666145a148ec0bdc89a2080e8f816", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3cfd876240c6096d4117b0b8ebbfea7789ba0641be036eb21b4a3277fbb036b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce13f126afc59cb569de87d3410699382749a0196f642c2665014d2a6d17a61f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02d813c76369977a8c0c53972faf98e3afe7d1f5030d6c04c5b4dc48696e65a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2eda218cfae08acb7d3bc279aea3a612e635a117bcced8fadad9849e94f8cb7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "895f67b4fadd57e6733f7d403b2b058f7ade7df43430e61ffd4ba1995f653753", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c392cd3b47f57d53660e6aaefc5b256db726bc53860f9073431beaa31bfdc58a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11d82a16061f7dc109b61a9fa3163d0364b4d2f1c57d6dedf1b6a8bad0fb36e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd8be2bd980f1def709445dce404f9e0409b48861752c11da7df2c9222d1aa32", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3f4ff23fdbc05f036ee156137018a4ce5d215d739ce02a0f97d6c3ccc267158", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4f8678c193f22135ba48e98ad5308a3cc5a8c572d829c5457774538e9fc38fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bbb24b7194069fa3bd7fdbd605dbdd432179fe54991d0aba3a444e9c582d56a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37aa94773ecc7ea7a1d2cf7e45883ee8e42f71ad9b9ec816b61bac6b9ac63fa9", "verdict": "adds_false_claim", "reason": "'They all sat dark and empty' and then Daddy lit them with a match. A diya burns oil through a wick; an empty clay lamp cannot be lit (the story also drops that diyas are oil lamps)."}
+{"prompt_hash": "75c0fd295a0467a5c7d456f4adbc7d07ac342d31225a9c229851d3c800993f18", "verdict": "consistent", "reason": ""}

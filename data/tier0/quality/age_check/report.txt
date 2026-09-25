@@ -1,2 +1,2 @@
-1000 stories, 1000 scored, 0 unscored, 58 queued for regeneration -> stories.jsonl.age_regen_queue.jsonl
-phase 0: pass 942/1000 score0=0, score1=5, score2=53, score3=760, score4=182
+1000 stories, 1000 scored, 0 unscored, 70 queued for regeneration -> stories.jsonl.age_regen_queue.jsonl
+phase 0: pass 930/1000 score0=0, score1=1, score2=69, score3=752, score4=178

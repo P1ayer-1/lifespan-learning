@@ -1,40 +1,40 @@
-{"prompt_hash": "3960c75785a88cac45fc5acdfb4072e5e057e8237f3956873a1266c8d5bc51bd", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6d05dbabe66f8f51edb63c838588c269f905f4669848abf2572dea039f60ff4d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4e2d8e86470c8e3bd1e2a76f819d848a5e956763f553818d0221bd6eb8cacd41", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "e2888fc38aa606e4b456c56fc3fcf6529b8595c573d11a33c28e842397343995", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8d18a868f011c77dd1552c39dd5f013f4bb50e3c6ee2965cddd724965c6ccc4f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "9628d9f3c3b06388c7358898d85eb5cbf55537188108a5115b48efcffdd20775", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "5bca2111684a0778d62c6ae29a3818481a6fb5543f30fb36bc4e7fbb826a9847", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "7dffc4272a43a05527c7d9f6df39eb40d6da2c9adc6b1e08c0430e3833c00ee0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d8d93f423774cccef36e680da872a90dedefd843178b414ce5fac993b7071e4f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b7603b3eb4ad88ecded7956398926cb6552af67ca6d935a4b03602a9bcb231c8", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "e9775e17547d0b48fc17f495bcfc1926e3276cb7c910c99b5a4ec664c3d15ab0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c48e3ff0d39413dd16a2ce4c70c5e69b88cd10e19db17c412d7f0e04a94ca6fe", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "464a44ee323845bf3ff7f04b56180ec5f4d37bc6ea9839210d03ff777d102289", "verdict": "adds_false_claim", "reason": "'Bread needs to rest all night. So do cupcakes.' / 'Later it becomes cupcakes.' Cupcakes are made from a runny batter that is baked right away; they are not made from dough left to rest overnight."}
-{"prompt_hash": "b1d21035a2a2e23ced44d315bca33772f76b0b272d1d92dcf104452b28860990", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "aef0a3fa0ee6083b939380de4fdc23d8c0bccf9fdc5c7f85d7542530f3186d80", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "0c395e92fb282a3d96422dd8fd858dd75221d6ca6c6a029ca05db82a8c9d0cf9", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "e12f18d2a09a52ad38f3faccfd75afa71c1e4bd2ca490987d8d6b58babd5d9f9", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3c9d938437efc100860b62a864e3fcb5d1714c648fc2766173012934f7877a13", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "76871dc5097ce27df3ee70e2fb46d60e4d44356cf926e1be17981322fc30f736", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "647f90172550c04e2090882d9c15f7fd153292792c87f576323ef718386e3dda", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c67a4b69bd9ab6298632a11a14c313534be98c576a97971121aa62ba5b8a0cae", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "7b923cbef8f6183375fdaab2160362e52a3a8f9c391f7f9d6c78b8e854f97eef", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4749efe4ab4d50b08661f04cd004e261550822b087e1ea5aa8de03fb741ad590", "verdict": "adds_false_claim", "reason": "'\"One, two,\" Luca counted. \"Mama, Daddy, and the new baby!\"' That is three people, not two, and the story never corrects the count."}
-{"prompt_hash": "d022538effd154b9fe743378c9cdc5725c664a6d83078f1766e7b4be7f37aa44", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6f6e2dbef9ab8fbcb38edc1e1f0507607cc3492e285dcc01f3c17f5a3bbfacfe", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f7c2f6fa197d750684f0cafcfd268ae1a066bd78bf10727d694a1d08c4530633", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f15431672334c7fdbf9808015259dcb7c00d06aec257d8c17a3401f21e78c330", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4aae4908b77fa302b19987b3fe67abc52bf405e18bcc0b09faaf3084a618b61a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "bd9e4604fb1f2d04ae203b8014f99aed51b677ab701b700fcf9e100f0f6274a5", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c1f07a2f91a282b26da5d34b54d2868345518ee5ba538e7a2b64828a497c7afe", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "496f328162cfd7797d780b22036a9dc267dd6981cec6b6e7c2ec39b61ddbd33e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c4694140619d9ca5d6dc2cb9b0e070c697e3942ab4197ec70ab130201ee68441", "verdict": "adds_false_claim", "reason": "'He lifted her onto his lap. Now she was taller than the man.' A small child sitting on a seated adult's lap is not taller than a tall man who is standing."}
-{"prompt_hash": "3b6a02ef870798d300abea2b99e9ad778ece7406e835ee93d2938e89be9f5189", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "e1b7e1f7b0fcd4443b91561581e531259c13b63d0a58985ba051255356b12b81", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8559ebb9d4d3a6e10d0a6e9a53227c7b6a42bec36495ad1d9929b29126a0552a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "53d05366f2e57b3681798667514d507d38d7c8400630bbada0b66c1440504082", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "62e43ad14e15bc31f5405dd1a4eb33cbcf36cefdfb7f87fea4437e50d183099b", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d3c5dfcf18e9815c69e1c4eaade485277383dd9dff1df55abce0d1fe6184cd06", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "5108e9a1d789dfc61e58c98b6b97fdb0235b55f9d6d69706a41b28310dff6b64", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ba3e1e2b5897b049175cfffc40aa5ad361c6e7d1336c2f50f9b55f0c96040620", "verdict": "adds_false_claim", "reason": "'Four things, Grandma. Four!' The chair holds only three things (the sweater, the scarf and the teddy), and the story never corrects the count."}
+{"prompt_hash": "df4777e358ff1b84848e240a3774a0f3d0b92f3b9401b0ef7ede058fe19deb5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18c3ba99f0c6b3cdfe6cc51f0cb56e77254422b3c299906bb90107c8baab3f85", "verdict": "adds_false_claim", "reason": "'The next morning, something green peeked up.' Carrot seeds take one to three weeks to sprout after watering, not one night."}
+{"prompt_hash": "798b2bc5a29a383337b1186bf28e614fa3fb4fc803d20b438dced1eecb38389e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94ba74d779c3b7d0a6257c8a6c0f5ddf3a8a44c94ce53557ba6e424f35eaa259", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02051122e215cb80c6f8a2810f9d5a46b1eaceb7dcd83e2e976e0b42e05c8deb", "verdict": "adds_false_claim", "reason": "'It smelled a little stinky, like all paints do.' Not all paints smell stinky; many children's paints have little or no smell."}
+{"prompt_hash": "b3ec91f796502a47121d7805aea73ae499db2882a3a790d8817c7a5bc6072d70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d68df2b1694f940e4c4cb4dd37a98b36a8cfe59b983e21124dac80049a9e825f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ef81ca26815ba4327ef819f8c9d231675bed61b47d7081ed927cab28c1cbe8f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11866e7468d4aa91c99ee4c1b84d4941db135e7f341332499a2ee4afa4bf2846", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0b7265f8d68f00b8c1cba9456a5120557f6163dddb0ef38830d4ee4d9300ff1", "verdict": "consistent", "reason": "uncertain: story says boxes of strawberries were delivered by a bus, then calls it the truck; odd but not clearly false."}
+{"prompt_hash": "fca6f1b28ceb881462570bcf2eedc811d38827d72c8ac3902fe932c9f08841d9", "verdict": "fact_missing", "reason": "The story shows tapping a small picture to open the app but never says the small pictures are called icons."}
+{"prompt_hash": "2255a147ee3d653343d991251e4103e2aee46477b55c3ff40eac435a532f5ea2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8722590c0f079792205d3060ef2ddc52cebe881e5b735ba8ef487f37da33272a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf05eef55cd1ac5a5a18fb8842cbbaff05ce1b5e8e9bb1e663f70fbc144422be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f47eae55c916609e5e98b7b780899f137848250a0999e223efe4182c421eaa15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ef870d7631cb9f1f158a9b8b1cb3b8a460ac36bdee5f717cec4bad3e46405e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ffa8ff668be6af9ab94bb368eae74c5c74f6b445561eafb41cd43df4a91716cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d73d0885a5c87e362658c3b74e893d7b890d0aea05d302965f87a46b263ddb7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "357e69fce070eb7fa246d66c7994607f034395e3bd3dc038d2359ec7d7b5f67a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c9385e565f57cf14274543086a674baf8663fe08fb16b2856f2929aa4d763a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f37f7801a24ab3323ec83cf9e004943b5f42b3817e21e6be446f28e8236f265d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13d9067f68cc65cee5b818bfc695ce63567b39c5c0e6ca522643d304272b3915", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4095de33be0e0b50c713ede1fbab838adbb8f35b94c24f91b99986a81d074c7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "274edb28c2031c923fb75fd7054bb6fd6ad2faa8d4f8ffb38fc050db5be3ca1f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2119551cedf8497af664fec77e3a2a28a742154a4189a5233ea94fd6e71ed555", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc3a8c18813352be6440fcff933184ebda5787d45e20d2c9152abd37ef822977", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a602923a69771d41cc402cd33ab7acee8b7ae2d92085ddbac2037eb24b7f8c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8d69b1b9876db2ae9fa60107c95756fa576af52a0d70dd4fb2e5a2d186907a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ee59870bdcc1e7afcaa520ed347b1378154be038cb0c49dc177977572895b10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dea090b4b86824f68be51a8ec13c2fe7db1b61b47ee3b603c1b97c4cfef94b44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29772aa7fe994ed419acd8e3331d25eaa954b8cbd75122b97bc8dd18382c285d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e063ef2017f72b3b84003dd29c0fcc9f97b3086a7aa96f71e71635d05a66ac7e", "verdict": "consistent", "reason": "uncertain: 'She tapped the screen, tap, tap. The screen lit up bright' after a hand press did nothing; tap-to-wake exists on some tablets, but usually the power button wakes the screen."}
+{"prompt_hash": "c370a6e49f674384ac0f4c412bd24076a24747f5129a70949ad731630f21ff51", "verdict": "fact_missing", "reason": "The story uses red, yellow and blue and mixes them correctly but never says they are called the primary colours."}
+{"prompt_hash": "e7932172394c23d3254fb7d4a076cac30e2ff4cb2c75f8a6d083154201c0d201", "verdict": "adds_false_claim", "reason": "'Is it tomorrow now?' 'Yes, it is tomorrow.' When the next day comes, it is called today; tomorrow is always the day after today."}
+{"prompt_hash": "c01cfa6a8f87c79259420bdd9f5580ca6164046dc433043dfad0adc5e161ee7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d085530929d02490be8bcc182d051dc77b9c080cc1236b6ae52600511f461d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "727add7483a886eff65fb6b7f20232ab14b81b414660bcd72f042ddf160b5d3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b201fb2911844f1aae23dd6bd88ba04e0f90fa1d0f711f98ecd067ad2cc86e89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50498af2659bf542959a32658ef630336307e7af1f760bbfce43efc35a02d135", "verdict": "adds_false_claim", "reason": "'The sun was low, not high. So it was not morning.' The sun is low in the morning and evening and high around midday, so a low sun does not show it is afternoon rather than morning."}
+{"prompt_hash": "552fe0ff2ce4608d4aeeaf780cee7701e2b44f881d137942e85e3fb199c8bea8", "verdict": "consistent", "reason": ""}

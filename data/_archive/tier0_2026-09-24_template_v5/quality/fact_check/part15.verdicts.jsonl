@@ -1,0 +1,40 @@
+{"prompt_hash": "f588c4834a08a9cf604bdc9566e0b28becfbeb82e405bc211963f860a3b5c8e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b99201793688fd8ecee7166250ce71df7e4669b217d1b45f0833b0b25e2cc2b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d8ffc86d559c262a57264632227e9cc978a7e20bd2cd86dc947bd64889d220a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72114efa826d4c02123f23717b81aab3de3476ba54402121e7e9904db5df9282", "verdict": "consistent", "reason": "uncertain: 'Dad sat on the sled too. Now it was heavy. The sled began to slide.' implies extra weight is what makes a stuck sled slide; this is at best doubtful physics."}
+{"prompt_hash": "0afa01929340c1927111c13fb6f6d4acccb6041dd2695f767703eca871f95615", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb2568650d94ac8c1fdb93df04750dd85f3dc75c59e5ab1dd2ff24ee48e8c92c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2362dfd1a90cbd46069726d521cd47b9b38d66bad90cf763185fb0950d2bb9e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "359600b04e2d2ecff43101d98d42c9733efa7bdda4f6a0b25cfba5023962f24b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "55bc169d32bfe89667127b27489b2d1170243532eca044b87a95113fa37f92e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70bc3cf0a37cfa66c203a34b8fdc2d07a2d1c148353c221c8a8102cbcc5335a8", "verdict": "adds_false_claim", "reason": "A sunny, hot bus stop turns windy, rainy, then snowy within minutes. Weather does not go from hot sunshine to falling snow while waiting for one bus; snow needs freezing-cold air."}
+{"prompt_hash": "fc212d335329b96e7c6048b6c43af02c734d65d7640185991d8516e99b7999f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5da66c00168c43fa62949d889478219cfde533e4bd4aeaf948adb0faaecf8f0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ceb2197908255ee9d158751639613d06c8709068a9d147068b4cd7b92e03842a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "424ef6ae3e4037585632f409035a98982194c4316448285758face09a3a35c13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a5900cf82d91533f44bde017d18c0d0fb6feb3dc52bb18d00267f8a8ec57a2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e97b1fcdad18f5ba947325c94eb898c91bbfd7c299ddcc62005b00b47d2fe51b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f211dbe29ed0ad5213a379da29cb835c6143b58adc3d9e2ea3924adb086b35f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "950a5df1b53df5e39b99c048cb1f76c939fbde68f539c925fb89ce7cdd06ef13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb93618ca17d0f6eb90a8efea441bb5a557e0317c872b966a016119ad8e9d7a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "130126662f5eb87b3c598107f1e1af4591db74c492969a8227f4a89ec46e6366", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "460cc46b58136f0cd67b7c11296fc2a0fad21375148d2c28429f23b5c5264d32", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84300cbad9a7f9879f15892fa5e2c3ddb7021519d0c926669509a9da2c64d596", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e8ac001e764cf1a9733ca4ce0f8ace4518f9346578286d05b0491dcad56c4e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77ca840c9c913b0feff68487a947e5b461794cffa441bb5585dc4cca1a62208f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "715088503874f9a04f094879d05526543262dd4ef8142b4b0b3cc93f7950df80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a72156701cd6a8434ddbdc08a03c5a14cd61e75974992273e5925c09f097f95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "682577f6b8a9538a54e444ee6d2b949ba3220e2d33bcf673c82b1c6545f91267", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2802db1e57bcf0356e8048ad826472b9ce8e1c457a5354ec10ec33ac3a662d9", "verdict": "fact_missing", "reason": "The story says the book must come back so other kids can read it, but never says it is due back by a certain day; Luke also hands the book over without taking it home."}
+{"prompt_hash": "28094495f6262600fd82020b4ed5d43fae3c957b5527a0296532e4ae9ad3445a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcaacb01e7e51c014cb5e95a7fadf3a02819b43ca131f5193ee6e92033b62b01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90703788f846bda57f6d2981c58331b6df081124b554143ac6c65ea4a52d9be8", "verdict": "adds_false_claim", "reason": "'That pin tipped. It knocked three more pins. Strike! shouted Grandpa.' A strike means all ten pins fall on the first ball; four pins falling is not a strike."}
+{"prompt_hash": "c29fd30e83296fafb15e4ed9fd68f1c8e3ba69887ebb116aa8c0d432b73b4430", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "201ea351f17bacaeebb4c30a96df3810bbd77d6fae0ca493c58cdfaa6448c4dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9c9754864f7dcfb6bbb1404b14a90ce705836a6908a523ee953e4250226c29a", "verdict": "consistent", "reason": "uncertain: narrator says 'A snow worm poked out of a pile by the door'; unclear whether this is pretend or a real creature (worms rarely appear in snow piles)."}
+{"prompt_hash": "104443320693521e04f1071c5d71f9879428a5983d59d470409a01da8a757586", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98f15c04b7556eb0c88835fdc14281e9a71fc023183245b799e1ca4c4da9ce3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da83d885cebf0600982db43d5d14fe3afa1222271a57b57ecfc6bab51aa13529", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c692f481316d5111a3d8efc9cac63b18fe0a029a6236654da5dca7ac558882eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c55e96dfec49df09e9843d4661a81dc08b720e5c732139e2e871157abdaad61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00ce153776221687ffdcd6cc8224625ab9515c3a999b41c37ca65df4725ff92e", "verdict": "consistent", "reason": ""}

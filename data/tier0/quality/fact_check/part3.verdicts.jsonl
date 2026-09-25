@@ -1,40 +1,40 @@
-{"prompt_hash": "0ea9c90b85b5345d28115c63706dbba53073f784447ea24c5482f7577b5abbac", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b906c7a1de4e401928b4d5cb619b482814d1eeec4464cbacbe54fecbeaafb902", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "64c3bc33a9323c14a5bd099c9c4494da63173c008e1a54292672bf1dc5c81188", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "a83fdf7082ac297273ce133c402c0b28ea6b739b1cda9c3f17684a08471ad6bf", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "7513cc41bf1f91740ff53ed0c13d2a6143b40a32d9bcb505d03a984fdf556c05", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "5a0ac9c90e23cc1e33d6741b53ed88bd0ab8a282af905bc4f57c2f6f8815003c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "73c65938e19c82f1a2fc00cc4443d5ab95346c487cf8741adfc612036d9d9ee7", "verdict": "contradicts_fact", "reason": "'Four, three, two, one. Still four!' Counting down ends on 'one', so this breaks the stated rule that the last number said tells how many; order independence means starting from a different object, not counting in reverse number order."}
-{"prompt_hash": "364a0b6095ea1b3b7f4cc3c7850960eff3c0bf70fcf5d352ea391b91d8274332", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "0d164caeb808eb196ab6d68fa0287c9f83c4c3bbea1f3ae7dd5511af5eb90e59", "verdict": "adds_false_claim", "reason": "'She ate slow, and the bowl stayed full.' Eating slowly still empties the bowl, just more slowly; it does not stay full."}
-{"prompt_hash": "a3088b2910d48a70b0b6e03c35cd733cd90fac95567e07de15717dbdb4b50221", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1e2779e375f7a5bd33f1a115b00f0255d3b10d75a4948aa2f2edb9fbce153a6e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "2a5bd6f2e60313595169b59bc8f7cba20c1ae58a7b01999be6cf3ec73f11d6c0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d9e8140d34b83320300485dd1aad127dc8362a0b1c972238b4df120fb38cfd32", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "866f8264f5cc0ab517baef542e70cbfa55c2c2e2f95ad959f803397169d47a03", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f3ea449b0e8a610dd3431ff77b6eb2060b5d4c30a69180610fb5445eaaedf89f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "0838a7648e1c8378734ef0185af89ae95b40e5b105ec4f9f69a7305f0d152929", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3211616aaa7ec128de1a154e76e4186d15e67f632e3da1aa90c1e7b597de60fa", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f5926fa5d6b5d587c070daafe9830b96e5b87d3923ee524694f34d1ef09a8e63", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "75e669522c141fc155c97d6b9821c3ef55f778447b8664e1bc1b9e9434b9431e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "657b0b76d916e8b759d4611bd7750eea06d84348eac881ad6b25dabe50171c3b", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3662c6243003e029df9a54a001369740dcd5547dc69c52495d208fe636edf56f", "verdict": "adds_false_claim", "reason": "'He looked at his hands in the mirror. His shadow waved back at him.' A mirror shows your reflection, not your shadow."}
-{"prompt_hash": "3f1b4d0d7a0488d4f50961efc026846f025da89688a3684705fb3195d9932bd9", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "5865042dd8d8e81217999d1c7cc90f83adab4b90ef1ea92334446049feb6d2a3", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6602a369ccfc147cde9cc0efda1b05035a1d3d5ed46a1342d2de359e50e52cad", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "9ebd0a37739cfd01cd2aaa84e1a7b3c85356b703ed64c0ebf150df8c8434f117", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "9996285b11b1cdd546459b2d64c40e9e13e4d4b27277925936146bfced04e86d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "83d25e31bf28591e4a61b6d8c296ca1b942f2b37cc0151bd8bc985a476c22644", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "18ab3d9a04f1bae6cfd5df4a6518d37aa25ab01759705000803fb26d376ec055", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4bd6d20995be87ef7e150c5978b4e8e76299a71323aa434859b2e7c6a879de98", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c21eea53db3ae45b0b54bf6f58d6a9061978fad454fb50fe622db45e6a311d91", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "31c2f41cbb453b2da58ba18de05de1ed3c2b4342a9bfbbe8fc1919924a03bf88", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "5c0048b9d35126bfefb5b40af51d5fb1c5c4d24fd1c6eb4885ab0339658a7039", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3591a9de37583318bf3393e1f4c71e96b8531efb51e2b4256cc548b9e051bdba", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "06f808deac962e19eee2ce587bba9d26dd36fe38cca9aa52117074a5d4e19c08", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "039d24d9f9b7f27be920bccb130f79556b644cc3700d5e188ac6b33ecdb524f5", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "40d4968c540a1e8104afd90c3e4f8ce960e77e92f7e6df1b85bf064dcabdbda7", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c05edf03f8a879f29eb18344fcdc615e0503263f372e69b4938db29456a09cf9", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6eaf39fe681e9ab1c3843a723f8e14a6cf487f7de2a7701857b7f5a31f0c7330", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "10102a2dd3a437a305f9f47176fc1720cc6f5e98dcc0b70435c9a408f73ba04d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "60bd18c3cf0f30ec67f9f6a2530e7c12aa9bfb1fc625de514745a97352ca97d3", "verdict": "consistent", "reason": "uncertain: the story presents feeding bread to ducks as fine; wildlife groups discourage bread as poor food for ducks, but it is not a false statement."}
+{"prompt_hash": "8fdb5bd6584dbe469afc384d8b036e08d1b2ff1a27fa1fa564ed10749e283d5d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ed1a248eef8c97d94b4b6fc7a3c982d6eb24b7d79dbf01f5ef10311b8be0448", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74535030a00cf4d1c32845dcf1dab033c0c4311c0a25815f50cf806268ab7272", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96bcb5e5d4fd84115b96c1a2a9b74fb2e1a97c0bd3377f81ed4284d763e25178", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06f10a04214a25e536c31ebf04167a1a7ef1795692bb97ec9885d88b0298d6e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c437df6b116c8b2ff8ba0b8053ec57884e1633888333f4b8ff4c768a62ebe17b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85f6ac04ff583972501ea2e7a3c8a5867a358b36f731cd0bd01e4956ca0a7249", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92f797d471aaa1eb265068aae9f9bd41128385977b45e0cbf37a07f87c170b85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b37a6a732ac3d83902c23232d6cceeec817da1995ed455a0e1421a5e747fafe1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68f5738a37b4705c9c7c100322385481071779c5808f8b41709f39bd0406b0f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "230886ea3d7691169280ad56601811c48eecf17fc04220e1fde9422a7241342a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98efe884904f143e02ef071add90390714572eb728955887ad44005507514d6c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e521393184ab65704ccd494ecc6624e1cdb7ba679fc239fc05481ed09d1cbd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "996b06ba66a32864aed2044263d43a5b19910bd5e82a58da245cc8a92418cc4e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59d6bac4a31c8ec8b8c371e7923bddace1067dd5feafb92dfffc5da4054607a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4f0fdac5f9f76fc3a87cb093153c98c0f0f780d1fdf917609a67813e37569f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1cb948a501504ef6446e579e0260c92c75d34bf3923e545441143d5d3cb6ef3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c2fc29fa55969e5754f12b1f560fd43d80fa15144fa2783df46d8c4c1606ac3", "verdict": "fact_missing", "reason": "The fact is that red, yellow and blue are called the primary colours; the story lists the three colours but never uses the words 'primary colours'."}
+{"prompt_hash": "bda8e805bb1d81ca034a909a8d1945bbda77a72174303adb8dffbd69d94b3062", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db2eb41377db07714f726ec820a77528f2a93f88d3d6f24dc497c10b3213ff2f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2fe0d201b12bb7a29e5d74b998df41061db4be557e3c21bc0c0a2b9090f20a88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28fe5c536a4d56f2f6c2d95a44e8f50af892c7c859a00496f26196858a1fb72d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7145ff5fcae4e63f8506a696d9f29960d3be957d5a9b791faebe990456e9a211", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef01683d7e72054c5025c293b248333ab2d216c0347a6a09281ae9356eff20d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e3009837225a2a6f18584c5439b469c2273bbc3336ef95f0ce5ab33fcd14cd2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd78749f89852c744c4daa6057fc1c7038709487284c535353f184c2b01a42af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "678ebb5e28f0f4e9894b49f4053c84843343cf3221b92e6d2a1d12c51084cd1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76fa948eaefad9b2c6d2c42f925304a9ad807de9852eb3b08092ff3961d032dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba7a9b7161544c01ec0139d51bef522cacee6df4df8edbe2032ce15c5d047ba4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c61212c5b9680bbad1d05925da24876201dcea51926a9540750c8009d4a2452", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1468c08ae10be89a55b3dbbfe0137f901d1db2b977cf7d6cf50a7a48ee1cc87d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4b232e4387b7c7612b2aa2a962743fa4ea31342f102770f7f50db798182ea04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "548f48e3acd2a48c5dffd2c690e5777b9d76128c12315540db8149478218043f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd21802b180923bd952fba0453787f55df4f71d000b7d3e8e343bfbf2db0e0e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd7e0f58061e56ec9bb512ababdb41fc74af8b8f0433b74b50f0871c3bb7131d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a34a9871b2e3d4b664eb6d6c6f4722baad29049bbf625d4e13242e73cc05a10", "verdict": "contradicts_fact", "reason": "'The book has to come back on its due day.' The term is 'due date', not 'due day'; the story teaches the wrong name for it."}
+{"prompt_hash": "8ea93010a4355026bf528d3256ccbfb140a2b3870af82ba6a814986d195fc623", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1abbd8164fa3d7b2a230c5e244245a22fff04bcbbe4f66a2ab1ccb3496eb6e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edc934ee114400ea141b4e301e450ea9277f06b6a51af1cd97144cb907cbaa51", "verdict": "consistent", "reason": "uncertain: the story never says the markers are washable, so a reader could infer that any marker washes off skin with soap and water (permanent markers do not)."}
+{"prompt_hash": "cd85d43a7f29d7d1aee4a96cfb5942f6c20176cdb02a2f32a2b67f7b3ac4d8b1", "verdict": "consistent", "reason": ""}

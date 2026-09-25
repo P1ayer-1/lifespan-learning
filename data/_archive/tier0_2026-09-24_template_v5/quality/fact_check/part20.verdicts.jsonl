@@ -1,0 +1,40 @@
+{"prompt_hash": "cf8c5e98b3254deae0da4ad8b2c24f5725835f131d0aaad17f996dd58ad9919a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33212e582d1496aff8daa60bbf7e4e1a26d7d74e2f28f98d63c73af8bca335de", "verdict": "adds_false_claim", "reason": "'The man touched the grill, and the hot dogs got warm.' Touching a grill does not heat food; the hot grill cooks it, and a safety story should not show hands touching a hot grill."}
+{"prompt_hash": "cf6368e4d3af508e493f62697808918978083b8875ca5d76f3770d2e9ab5c32e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "714de018da6305ef4becc2678707db59335aa92990725177c9f51ae1df9bf693", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71078ceb348f9ef4d7ca31c4a1aa16a479a267fac89b15a1376b650fede83456", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79092806d1da939d23067a0b4cf8a408a5928a33c09a9e63f3197d02bad14093", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4d37de61bb98f70e01960b31a71abc76fb4f6ddc40e1bd96e4c6485365d3304", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f5f19c3dddf0470afee65c38e0d334512be4938ffe97dc17039737aaa2d9409", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "781c6b166d72359eb548d87a10e0b86b95da123c591ed678083aadbfb17b5875", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61a0db214d48826a7d68c046299182b7af521865b3202b39862a451b1e3473b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efb921018e880ee7316a21abf5907fb6e0fd755d0566d12578ac1a1168b8e5a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57cecbfb09379a64d263ec0c280b92f89cefa8f58e9cd10377fb4ea847c16206", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d621654f3d44764a59aa6c4e255e0eac5fdbe833ddb8f041829796c7a4d9936", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7846dce621a409f84f6ccb0c684ff9e3fbd174e11e8cd0cc162ee91bed930011", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37a931801f9ba643fe89641f7bfa5aa3bd7cf0a7291491417fe6c1b19e2b8abc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4de3a3567059271cd02a2c720a2831b7c478aa54bb9fe86e02b909252c21d64d", "verdict": "adds_false_claim", "reason": "'Lily taps the crayon picture the way Miss Kim showed her. The app closes.' Tapping an app's picture opens it; it does not close it."}
+{"prompt_hash": "22286c445b7b21e109a4bf1e2e78c9b3e6e81d4d19653a19fcfaebc5df97195c", "verdict": "adds_false_claim", "reason": "'It made a round shape, like a triangle but round.' A triangle has three straight sides and is not round; the coin shape is a circle."}
+{"prompt_hash": "f3df66fa003d9bd29ecba0f83100ad73af2b9ffa6bb064706184e2a486aa7fa1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82ed67e215320e96cb347c9816408df019de112cc753534cbcf0ed02aa9275ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dff924a93295cd13ff5fee7bf36de525d0b4628347da01bb0ffdd8595d1bc3a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39639614a1ae6923e8647ff193506e7f57b15ae5f6a588e22aff6ca042328f1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "078014b69aa1f8adfc2b6b993316d84597884b1a9721d1b54b1af49238ea08fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bccdaa8be3c92fd423b4db53fc0a07b16bb614aafad4227e3eaacc029648e712", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ba282323a0b0e9abbe5bdd55042de1940662d1254cd8097b30cb9ed88c28f3e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca6a54639d461fc368899f4f5179dbcb2d0fc5b809b099546bcc615dabafe2f7", "verdict": "adds_false_claim", "reason": "'Yesterday Milo put a bean seed in a cup... Tomorrow morning... A small green tip was poking up.' Bean seeds usually take about a week to poke above the soil, not two days; also 'tomorrow' is misused for a past event in a time-words story."}
+{"prompt_hash": "dd596af64f5839313d0d42326851dfea9a8abf654ed11ca0a38e304852c1f700", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91dfc04dae39dbbf8ec56d234b671227aa200a0a3852c988a60bd51a36712327", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59d5383034179158b3dac1db1e33c74ea70a233c83a4104dac127fbd7fb8a3c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a5a005cb42476da95ca19f152ea2b00a6b6043f0a79966e1bd30d6f063582b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2094cb0027125baf22c630157ec1260fecca7cb36fd1ed7db5e88e93e70c5704", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a937451f9a44e7c1a4e8addd2aacabdc75c2cf119eb9c3aed5e76bfad28cf9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "576c2541623e71091fec9489e27b37dc615b6ed54b5451859e65c5d66176555a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa1825f8f2aff732d48101b45650323db1e804b11eb1e9ad9e07753d20269743", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "571270aced3ad8eec2214da9d51ff140917ecdce7796bb174af3068744417de6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3fdfe2ecbdd525aa05250f54c2c76154c8d30a83871d740af0e3e101a92eef51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92b056bf24e821a1e9ea8a9c222a82dddf5208878451ed27ba8b6a6e83df42b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb00dfb98edcf5df48d869d66bb45a00c6b3aa7eaa680e8c56b1465fa93723a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9da9623b5754bc1f08a52472ce9857b835edaa31620d9baafdaa8f2a1840f4e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae8b97910e0f65a0f68a560275fe259f8e92ccf0833026c1f0d5583aa0b8b6fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "979c656db7c43aa23451d4c00de9785e7ce9a17991ceff8531a92264d88b6fae", "verdict": "adds_false_claim", "reason": "'He stirred the spot some more. It looked warm and brownish.' Red and yellow mixed make orange; stirring more does not turn it brown."}

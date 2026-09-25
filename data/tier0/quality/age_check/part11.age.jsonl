@@ -1,40 +1,40 @@
-{"prompt_hash": "b7dfaa6a9d7ff20d9b36638a00d9977552451df17dd239cda60f24e72260a530", "score": 3, "reason": "Clear read-aloud; plot drifts from store to library but stays simple."}
-{"prompt_hash": "8070d0461469c1e7adda2f52d32f798ef540bd03c22b9df4cc1f7cdc534e4fc6", "score": 3, "reason": ""}
-{"prompt_hash": "abe9316f29b8d98d39307489259e5c18e3e5e99ef055f4efd4e72a8d952668af", "score": 3, "reason": "Simple and concrete; 'like a morning face' is an odd image."}
-{"prompt_hash": "98ba2e2c87ca2055aaf9393ebd2bda173044e0921f09df138001986f5861ada4", "score": 2, "reason": "Muddled opposites logic a child cannot follow: 'It went wide across her teddy's cup' and 'Big cup, slow tea. Small cup, fast tea!'"}
-{"prompt_hash": "c3b30aa8a6bb33bba4f44da4a250e427f271adfe37fce61c395bd029fee0d80a", "score": 4, "reason": ""}
-{"prompt_hash": "67117820f3287ab4d72594bdd0651ebfa375912740d0c8ee0a8d9d09927c2cda", "score": 3, "reason": ""}
-{"prompt_hash": "a0a7f30b65d1d6135f0ed963df39cd0ea3e8ca8d0e65be12553414e3f197f556", "score": 4, "reason": ""}
-{"prompt_hash": "58f8771706e6a0593f23269cbb7ffe982b2e144d365c01d62ab393821dfc3121", "score": 3, "reason": "Mostly fine; 'Then they will feel smaller' is a puzzling reason."}
-{"prompt_hash": "52573132d9470ca4464fc651cf4a9d014be9c5680477909c7411662fdbeb186d", "score": 3, "reason": ""}
-{"prompt_hash": "4db78055c59c113b6e73e2cfa26255c6cd356eb4ee39394cfe092c0b340b1561", "score": 3, "reason": ""}
-{"prompt_hash": "ca09ba9e3ebc7d8b62d02a3e4e62adeec54d95167856a41c4ce09f53d1c8adb6", "score": 4, "reason": ""}
-{"prompt_hash": "a7acf0634a5b81281d3998bdfe1c07ace0fe45798a567b1067eac49d2556a179", "score": 3, "reason": "Simple, safe, but the plot wanders from bear to soup to shadow."}
-{"prompt_hash": "aa71e2fbd5f1fc541ce056f1b24e8c2cb7979927686dca7f99338f88d92290c3", "score": 3, "reason": "Mostly fine; 'fill a frame' is forced and a child handles sharp pins."}
-{"prompt_hash": "ae17b94040533f755b81bdbcbd8d330024a5916dc4e3aecaf3efa5b95bdd810b", "score": 3, "reason": "Yellow paint appears without setup, slightly confusing."}
-{"prompt_hash": "4d17d68f191ff6fcbeb27ac3cec0de1bed5b2cd4c3107d9a1def6275409b7e8c", "score": 3, "reason": "Gentle and simple; 'turned off his smile' is an odd phrase."}
-{"prompt_hash": "988183078caae27ea4493c355ccbbf6b11616ad8f352ea2914c9b714d07fc56f", "score": 3, "reason": "A few longer sentences and festival words, but clear and safe."}
-{"prompt_hash": "86cf6af148b749c82d1f440763d73220d16a9ab2bb2327250dafe2161176c2fa", "score": 3, "reason": ""}
-{"prompt_hash": "d8a646d968ef6f59a768fcd6bac4ea1a2821893a25164f1a38cef74c5ba7ded1", "score": 4, "reason": ""}
-{"prompt_hash": "03b9a8439a813537c6b895e0e4105e65d8e10fbd69d4374962fe8255c0ffe1d6", "score": 3, "reason": "Brief dog scare resolved quickly; long but easy to follow."}
-{"prompt_hash": "7a913466b824f082ed3f31f402b8cdb6c9a6db4eb26346712fadd6b352ec643b", "score": 3, "reason": ""}
-{"prompt_hash": "ed6e93bc2d81904e1101c89f3302fce8d6dca780a43ec1d8b2c38aaf128c35d1", "score": 4, "reason": ""}
-{"prompt_hash": "7028d69efeb98665c16791c32f1dd1d579806eef633ff37cb97952d3ffc8174b", "score": 3, "reason": "Clear and safe; the torn-fan ending is a loose tangent."}
-{"prompt_hash": "f74e4f1f86e933a8e6ea9eb9d5e978379cf586987c3db30a6422ccacf9be31f9", "score": 3, "reason": "Good time concepts; 'It is not now' is awkward."}
-{"prompt_hash": "ce71d462ee345c524f8d5908b3c732f883edd524d6c195cd27b9ac25328e5f33", "score": 3, "reason": ""}
-{"prompt_hash": "ad3fa5eff8fdd40827d5657e64bb20eef17fa7b1f08c08fc81eb30e42a7ab95d", "score": 3, "reason": "Clear lesson; beach and itchy-sock tangent is forced."}
-{"prompt_hash": "7879aab5a6bac30f2b392db53b10ca77780ea964908a3feb65fa548175a7bb3c", "score": 3, "reason": ""}
-{"prompt_hash": "d1e23f410fa29fba674aaaf6507ed037f97fd7260bf3e2d4b44f1382ca5f0fad", "score": 4, "reason": ""}
-{"prompt_hash": "a8a7f2c4b57c565b5dcbf5451586c04ce74ce32b7180d34324937fb3dfe04f24", "score": 3, "reason": "Mostly clear; 'Two hands, one on each side of a little mark' is confusing."}
-{"prompt_hash": "91e59cb214b708cfd87f913734fdc5c073bfd007890e005b37c4454959ee21bc", "score": 4, "reason": ""}
-{"prompt_hash": "cd7d9e6a7eef7d30769a486a08335c2880e9769d302da3e0a7977c00188335c0", "score": 3, "reason": ""}
-{"prompt_hash": "d20092f1b31c2a23ddceda1713d89ca8619ac08b3debeb3c1d5d12761ec03815", "score": 3, "reason": ""}
-{"prompt_hash": "6c8855776e4548c1a82429e519c4963175b67bc01dafcb024ac8a0bb82467d43", "score": 3, "reason": "Simple; 'The sand caught it' is slightly confusing."}
-{"prompt_hash": "ac015b74891a76dd727b829731a1aba9eea77bd6aea98e5888fb71d6ce95a0f9", "score": 3, "reason": ""}
-{"prompt_hash": "3896472f25440983ea9b4bdbaa0965931f84c0f0fa61c119332133c16601f3a1", "score": 3, "reason": "Some odd tech phrases like 'home square' and 'screen went calm'."}
-{"prompt_hash": "a2487fca7fa3e441de7914e8418786a1313c7502769297259b94f45f2373e05c", "score": 3, "reason": ""}
-{"prompt_hash": "26a9666635b6ecf9407f6f6287a5e3564b5ac85af374b568c0dc356cc60f6253", "score": 3, "reason": "Four weathers in one visit is odd but easy to follow."}
-{"prompt_hash": "071d79d661234326b6c4f8f657c504461ca44e99a7c9990d744a395bd0dfaeca", "score": 3, "reason": "Long for a 3-year-old, with a dizzy-spin tangent, but simple words."}
-{"prompt_hash": "b3d4d45648d0652227409b3bc555a7fdcc20f93504b74b82d045a9c9dc0633b7", "score": 3, "reason": "Long paragraphs, but concrete and gentle."}
-{"prompt_hash": "1fab4b9f0911e52243ceb21bbe293f390d84f116b06425840ea6853d3bd77d24", "score": 4, "reason": ""}
-{"prompt_hash": "32ffa6e8da95ae9b3fd93944bf6ef9a9333241403e1ac94a3b50b8cd24c375d0", "score": 3, "reason": ""}
+{"prompt_hash": "0bb5355134d5adf073c8f7264ba5dc13cf38b0159ed5844b98d5a4a94441da72", "score": 3, "reason": "Familiar counting song told in short sentences, though 'poured them into Josephine's lap' and the grumpy boy with no reason feel forced."}
+{"prompt_hash": "dcfd51f1c205b3a93dadb3c5ab1983f90cbcf60fcf220e83d3ce3fdc71e9914a", "score": 3, "reason": "Simple, concrete front-to-back book story; the ending 'It did not fall, not even once' is tacked on."}
+{"prompt_hash": "1b4e659a604c0d033a969afec8b12739967b59f716712e9c5a8ca48698c7681b", "score": 3, "reason": "Short sentences and a simple waiting-in-line plot that a 3-year-old can follow."}
+{"prompt_hash": "1a57a4754203b75e99544dc6d7e25f11a7fe71a082d4f68c80b0859ee9f2cd3d", "score": 3, "reason": "Clear tablet steps with short sentences; the finger-sweep sun after 'done' is slightly out of order."}
+{"prompt_hash": "9cfca910664830dec4df98b373b561c159623a2c6ab7fce2e7369d8d75720099", "score": 3, "reason": "Simple and fun, but the hot-cocoa spill wanders away from the opposites theme."}
+{"prompt_hash": "cbe74da954a7a0bb19763474eba02d423361987baa5c79e0a16bc7ae3450c671", "score": 3, "reason": "Grabbing is shown and then corrected with turn-taking, and the crying is quickly resolved."}
+{"prompt_hash": "3f909d86fdbea6c9a7c61e094b512f5334c9b589b3b80b9351f356543d35c069", "score": 3, "reason": "Short, concrete block-tower story; long but easy to follow."}
+{"prompt_hash": "0f570e4544853af388e2b9220e7e26f89a5cd7ea3f0c7210bcd0dba92b653620", "score": 4, "reason": ""}
+{"prompt_hash": "ad1050dfaa248251c281049f21c03a9c5fa0896a68ff3a47d69da1f3c104ba5f", "score": 4, "reason": ""}
+{"prompt_hash": "26afed7830c1eccaae232a8e90aed003de7cc0d7de05a67bfa484d9bbb299c19", "score": 3, "reason": "Sorting is concrete and playful, though the 'picture basket' at a store is an odd setup."}
+{"prompt_hash": "4dcd8cf62de4adea909b4017b022d66f7605463c3caa408389ddb41770f9443f", "score": 3, "reason": "Crayons melting in a hot car is concrete; the second paragraph is long but the sentences stay short."}
+{"prompt_hash": "4f6f34304658210eecf98fc1bece33c91369cd84f094ea17150351890b7f0e63", "score": 4, "reason": ""}
+{"prompt_hash": "bacc8c9fb9372aac4bc35aef10b63953f3d9abbc074ba0810ccbd964b7004cd5", "score": 4, "reason": ""}
+{"prompt_hash": "bd3d124de2ea3e31a8e8a49f6813ffda9faf3c5a5f23199647761fc0723e6a91", "score": 3, "reason": "Simple 'later' concept with short sentences; long for the age and 'yesterday we made nothing at all' is odd."}
+{"prompt_hash": "58c11e38e6a788ccf62d36cb8f115dc5f29f93f071b78dd336fd393de2783b7b", "score": 3, "reason": "Concrete light and dark blues; 'a polite little stripe' is a forced use of a required word."}
+{"prompt_hash": "952a79353de799734454d76385aa92dbeb33160eee770c04ce05be7eb328353e", "score": 3, "reason": "Clear bedtime book search; 'his smooth finger' is forced."}
+{"prompt_hash": "05b6644690ca85b8a05ce4e22a097d1620112074c39c56acf7246501ec94e0ae", "score": 3, "reason": "Simple ornament-hanging problem and fix; the 'wooden boat' later called 'soft' is a small inconsistency."}
+{"prompt_hash": "c7333440e73f3b2669f7d98959f3e0a74c8c60b57f0a67ea76c60676f3691c28", "score": 3, "reason": "Concrete color mixing; the ending muddles Mom and Grandma ('Mom came in... said Grandma's voice')."}
+{"prompt_hash": "f52de01e8bc0beec28d09489bf25a9df91f5b80fa5698a88c286c168de666fe0", "score": 4, "reason": ""}
+{"prompt_hash": "adb9aa74514432ec1d1cf3bcd772f28866921fa5645f7893bce9f2d1f3e6da08", "score": 3, "reason": "The slide fear is resolved warmly, though the ending strings together unrelated episodes (ice cream, dog with hat)."}
+{"prompt_hash": "85be7e0eded9908228b0911881722037d86c1db2bf0dbbaf4eabf5ac88a3b606", "score": 3, "reason": "Concrete square-to-triangles trick with safe scissor use; the tree-root tangent is forced."}
+{"prompt_hash": "2d27a305ef6c9462419e53dec6421cf2cbaeb5a54f9a4314142b7034560bc974", "score": 3, "reason": "Scissors worry is eased by counting; 'ate a lemon' at dinner is forced."}
+{"prompt_hash": "bd12faf620de3c5d68abf3e9795fecf56db3c8388a8dd77c346008d4a2c0484a", "score": 3, "reason": "Warm Hanukkah counting story; a few longer sentences and words like 'cultural center' and 'menorah'."}
+{"prompt_hash": "e2d945b2c3076cf9e70d6b462e28ac8b5fb30cec6a7da9d7d1fa3104cdae8f0b", "score": 3, "reason": "Relatable nap-time mix-up about morning and afternoon, in simple language."}
+{"prompt_hash": "562159b4414e48a0c39eb5fad49a01f0c2f79144056f98d7cae06a67c027efc6", "score": 3, "reason": "Clear spill-and-fix plot; a few sentences run long."}
+{"prompt_hash": "1562124ede7850bb554cfcc908b5a1807376d547ab1daf9f12717e327b6599aa", "score": 3, "reason": "Concrete toast and milk steps; 'itchy sweater sleeve up high' is forced."}
+{"prompt_hash": "b79ecfb93003996ceff93fb9ffef003259ee5c1de7b3e70a920917ca38b1028e", "score": 4, "reason": ""}
+{"prompt_hash": "28ae02b6215518929d2a5b9c32e840a8df954f9fc715d3166551a4d2892d0590", "score": 3, "reason": "Gentle blessing practice; the simile 'like a new sock on the wrong foot' is a bit abstract."}
+{"prompt_hash": "5a4ced2d7f13b5a8793c4363fff57ab0ee8834bfdb78adf6ecf67c661bc3c631", "score": 3, "reason": "Reassuring first-day story; 'butterflies' in the tummy, 'aisle' and 'nervous' are slightly above the age."}
+{"prompt_hash": "4b3a2f1a372883bf3e5d718b1f15705d7b8c7f93a87a226d1562e8bf683c6b61", "score": 4, "reason": ""}
+{"prompt_hash": "0707401aa9644d5dfe555626de624597c93d0000421ce11d1aca2d115e78b3f8", "score": 3, "reason": "Concrete name-writing problem that the child solves; 'gripped' and 'librarian' are slightly advanced."}
+{"prompt_hash": "e8b485cbaa0e117974900238b0537196792c44b465c1cf3751a3cee74aba61c9", "score": 2, "reason": "Confusing plot: 'His marks looked just like the other marks' leads to the plane at the neighbor's door with no clear reason, all in one long paragraph."}
+{"prompt_hash": "f4a4660d4a9b2f445ff756e7b2af36f393bfdd2e9f0c519035af5a20c5282488", "score": 3, "reason": "Simple heavy-backpack problem, though the stated lesson 'A backpack is for carrying, not for toys' is muddled."}
+{"prompt_hash": "ce477fe1306fa4168390e1fb19824548dfd9decb5fd6432a7c25d00b455696b6", "score": 3, "reason": "Playful fast-and-slow rhyme practice that fits the age."}
+{"prompt_hash": "0eb88bfa5e8f0b42f829b6d5a9def91b9d3e0e95141310a451c393ded0c6649a", "score": 3, "reason": "Clear tablet steps; 'computer lab', 'icon' and selling at the school fair are a little advanced."}
+{"prompt_hash": "ab57bcb86b97b3c3cc8ac2ef173c0b1061460011de150f6644c3d43708c79e4a", "score": 3, "reason": "Warm grandma visit with a gentle goodbye; the 'One, ... Two, ... Three,' list and the mailing step are a little odd."}
+{"prompt_hash": "6ec631b93ef120436e412f0a9254b9edd334ec167acda727b120463eb2005618", "score": 2, "reason": "Lecture line 'Sunscreen helps protect your skin from sunburn.' plus the confusing 'The windy day pushes them' and a plot with no clear focus."}
+{"prompt_hash": "c47301c7e86fad239f2402a3d063cfe3b99d1ca6b925278ccc3862ae9a5a295e", "score": 3, "reason": "Words carrying meaning is shown concretely; the back-to-front book is a little confusing."}
+{"prompt_hash": "0e476b1818befde1801d15f60716afb2eccfa8650ae04825b2f01789fb261e6f", "score": 3, "reason": "Concrete wet-versus-dry raincoat lesson in short sentences."}
+{"prompt_hash": "022b9072666a4fa2e0d727224b24079623e95e532deb5df485b2aa563f4be979", "score": 4, "reason": ""}
