@@ -1,0 +1,170 @@
+{
+ "part": 1,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "digital_privacy#1",
+   "content_key": "digital_privacy",
+   "kind": "exposure",
+   "activity": "the idea that posts, photos and location data can be stored, shared and seen by strangers",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a shopping mall",
+    "at school",
+    "at the dinner table"
+   ]
+  },
+  {
+   "id": "drawing_crafting#1",
+   "content_key": "drawing_crafting",
+   "kind": "experience",
+   "activity": "making an art or craft project",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a kitchen table",
+    "at a public library"
+   ]
+  },
+  {
+   "id": "family_trip#1",
+   "content_key": "family_trip",
+   "kind": "experience",
+   "activity": "going on a family trip away from home",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a beach",
+    "at a campsite",
+    "at a national park",
+    "at a relative's house"
+   ]
+  },
+  {
+   "id": "first_date#1",
+   "content_key": "first_date",
+   "kind": "experience",
+   "activity": "going on a first date",
+   "tiers": [
+    9
+   ],
+   "example_settings": [
+    "at a bowling alley",
+    "at a coffee shop",
+    "at a mall",
+    "at a movie theater"
+   ]
+  },
+  {
+   "id": "first_performance#1",
+   "content_key": "first_performance",
+   "kind": "experience",
+   "activity": "performing on stage for the first time in a school concert",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community theater",
+    "at home",
+    "backstage at a school concert",
+    "in a dressing room"
+   ]
+  },
+  {
+   "id": "first_phone#1",
+   "content_key": "first_phone",
+   "kind": "experience",
+   "activity": "getting a first phone and learning to use it responsibly",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a kitchen table",
+    "at a mall",
+    "at a phone store"
+   ]
+  },
+  {
+   "id": "getting_a_pet#1",
+   "content_key": "getting_a_pet",
+   "kind": "experience",
+   "activity": "bringing home a first pet and learning to care for it",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a pet store",
+    "at a public park",
+    "at a veterinary clinic",
+    "at an animal shelter"
+   ]
+  },
+  {
+   "id": "getting_glasses#1",
+   "content_key": "getting_glasses",
+   "kind": "experience",
+   "activity": "getting a first pair of glasses",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a mall",
+    "at a school nurse's office",
+    "at an eyeglasses store",
+    "at an optometrist's office"
+   ]
+  },
+  {
+   "id": "grandparent_visit#1",
+   "content_key": "grandparent_visit",
+   "kind": "experience",
+   "activity": "hosting a grandparent who comes to stay for a week",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a local market",
+    "at a public park",
+    "at a train station",
+    "at an airport"
+   ]
+  },
+  {
+   "id": "hypothesis_idea#1",
+   "content_key": "hypothesis_idea",
+   "kind": "exposure",
+   "activity": "the idea of a hypothesis as a testable guess that an experiment can support or overturn",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a science centre",
+    "at a science fair",
+    "at home",
+    "in a garage workshop"
+   ]
+  }
+ ]
+}

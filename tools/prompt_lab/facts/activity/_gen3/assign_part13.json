@@ -1,0 +1,91 @@
+{
+ "part": 13,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "summer_camp#1",
+   "content_key": "summer_camp",
+   "kind": "experience",
+   "activity": "going away to summer camp for the first time",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "around a campfire",
+    "at a canoe launch",
+    "at a lakeside dock",
+    "at a summer camp"
+   ]
+  },
+  {
+   "id": "supply_demand_prices#1",
+   "content_key": "supply_demand_prices",
+   "kind": "exposure",
+   "activity": "the idea that prices rise when many people want something scarce and fall when it is plentiful",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a concert ticket line",
+    "at a farmers' market",
+    "at a garage sale",
+    "at a gas station"
+   ]
+  },
+  {
+   "id": "team_tryout#1",
+   "content_key": "team_tryout",
+   "kind": "experience",
+   "activity": "trying out for a school sports team",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a running track",
+    "at a swimming pool",
+    "at an ice rink",
+    "at home"
+   ]
+  },
+  {
+   "id": "volunteering#1",
+   "content_key": "volunteering",
+   "kind": "experience",
+   "activity": "volunteering at a community food bank for the first time",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community food bank",
+    "at a community garden",
+    "at a neighborhood cleanup",
+    "at a public library"
+   ]
+  },
+  {
+   "id": "watching_sports#1",
+   "content_key": "watching_sports",
+   "kind": "experience",
+   "activity": "watching a big game with family and friends",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community sports field",
+    "at a grandparent's house",
+    "at a neighbor's house",
+    "at a restaurant with a big screen"
+   ]
+  }
+ ]
+}

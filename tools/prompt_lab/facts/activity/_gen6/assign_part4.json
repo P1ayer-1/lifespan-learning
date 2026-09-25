@@ -1,0 +1,176 @@
+{
+ "part": 4,
+ "phase": 6,
+ "activities": [
+  {
+   "id": "learning_math#2",
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to find the derivative of a polynomial function and use it to locate a maximum",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_music#1",
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to analyse the sonata form of a Mozart movement by marking its exposition, development and recapitulation",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_music#2",
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to compose a sixteen-bar melody with chord changes and write it in standard notation",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_physics#1",
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to compute the electric field strength at a point between two charged plates",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_physics#2",
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to solve projectile motion problems by separating horizontal and vertical velocity components",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_practical_life#1",
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to compare two apartment leases and work out the total monthly cost including utilities",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_practical_life#2",
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to pass a driving test by practising parallel parking and merging on the highway",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_reading#1",
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to apply a feminist or Marxist critical lens to a passage from a classic novel",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_reading#2",
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to analyse an unreliable narrator in a novel and how the point of view shapes the reader's trust",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_religious_or_cultural_practices#1",
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to debate whether an ancient religious rule still applies in modern life using the text itself",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ]
+  }
+ ]
+}

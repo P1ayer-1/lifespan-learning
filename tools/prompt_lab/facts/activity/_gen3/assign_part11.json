@@ -1,0 +1,177 @@
+{
+ "part": 11,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "learning_writing#2",
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to write a thesis statement and outline a three-point argument before drafting",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_writing#3",
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to write a five-paragraph persuasive essay with an introduction and a conclusion",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_writing#4",
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to write a short story with correctly punctuated dialogue and a clear climax",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "mental_health_vocabulary#1",
+   "content_key": "mental_health_vocabulary",
+   "kind": "exposure",
+   "activity": "words such as anxiety, stress, coping and boundaries used to talk about mental health",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a friend's house",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "moving_to_new_town#1",
+   "content_key": "moving_to_new_town",
+   "kind": "experience",
+   "activity": "moving to a new town and leaving old friends behind",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a farewell party",
+    "at a new school",
+    "at home",
+    "in a moving truck"
+   ]
+  },
+  {
+   "id": "opinion_vs_checkable_claim#1",
+   "content_key": "opinion_vs_checkable_claim",
+   "kind": "exposure",
+   "activity": "the difference between an opinion and a claim that can be checked",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a friend's house",
+    "at school",
+    "at the dinner table"
+   ]
+  },
+  {
+   "id": "perspective_exposure#1",
+   "content_key": "perspective_exposure",
+   "kind": "exposure",
+   "activity": "the idea that people interpret the same events and ideas differently",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a family gathering",
+    "at a friend's house",
+    "at an after-school club"
+   ]
+  },
+  {
+   "id": "planting_garden#1",
+   "content_key": "planting_garden",
+   "kind": "experience",
+   "activity": "planting a vegetable garden and watching it grow",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a farmers' market",
+    "at a garden center"
+   ]
+  },
+  {
+   "id": "playing_music#1",
+   "content_key": "playing_music",
+   "kind": "experience",
+   "activity": "learning to play a musical instrument",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community center",
+    "at a grandparent's house",
+    "at a music teacher's studio",
+    "at home"
+   ]
+  },
+  {
+   "id": "playing_sports#1",
+   "content_key": "playing_sports",
+   "kind": "experience",
+   "activity": "playing on a sports team for the season",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community center",
+    "at a public park",
+    "at a swimming pool",
+    "at an ice rink"
+   ]
+  }
+ ]
+}

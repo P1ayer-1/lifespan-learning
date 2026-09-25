@@ -1,0 +1,162 @@
+{
+ "part": 1,
+ "phase": 6,
+ "activities": [
+  {
+   "id": "first_date#1",
+   "content_key": "first_date",
+   "kind": "experience",
+   "activity": "going on a first date",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bowling alley",
+    "at a coffee shop",
+    "at a mall",
+    "at a movie theater"
+   ]
+  },
+  {
+   "id": "first_job#1",
+   "content_key": "first_job",
+   "kind": "experience",
+   "activity": "getting a first part-time job",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coffee shop",
+    "at a fast food restaurant",
+    "at a grocery store",
+    "at a local hardware store"
+   ]
+  },
+  {
+   "id": "first_vote#1",
+   "content_key": "first_vote",
+   "kind": "experience",
+   "activity": "voting in an election for the first time at eighteen",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coffee shop",
+    "at a community hall",
+    "at a computer at home",
+    "at a dinner table with family"
+   ]
+  },
+  {
+   "id": "graduation#1",
+   "content_key": "graduation",
+   "kind": "experience",
+   "activity": "graduating from high school",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a family celebration dinner",
+    "at a graduation party",
+    "at a restaurant",
+    "at an outdoor graduation ceremony"
+   ]
+  },
+  {
+   "id": "how_laws_get_made#1",
+   "content_key": "how_laws_get_made",
+   "kind": "exposure",
+   "activity": "how a bill becomes a law through drafting, committee review, debate, votes and assent",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a city council meeting",
+    "at a computer at home",
+    "at a legislature on a field trip",
+    "at a model parliament"
+   ]
+  },
+  {
+   "id": "interest_and_debt#1",
+   "content_key": "interest_and_debt",
+   "kind": "exposure",
+   "activity": "how interest makes borrowed money cost more over time and makes savings grow",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a car dealership",
+    "at a computer at home",
+    "at a credit union"
+   ]
+  },
+  {
+   "id": "labour_and_unions#1",
+   "content_key": "labour_and_unions",
+   "kind": "exposure",
+   "activity": "how unions, collective bargaining and labour laws shape wages, hours and working conditions",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grocery store",
+    "at a part-time job",
+    "at a picket line",
+    "at a restaurant kitchen"
+   ]
+  },
+  {
+   "id": "learning_art#1",
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to critique a painting by Frida Kahlo using formal analysis of colour, composition and symbolism",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ]
+  },
+  {
+   "id": "learning_art#2",
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to build a portfolio of ten artworks around a single theme with an artist's statement",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ]
+  },
+  {
+   "id": "learning_biology#1",
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to trace the steps of cellular respiration from glucose to ATP in the mitochondria",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ]
+  }
+ ]
+}

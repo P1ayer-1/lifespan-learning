@@ -1,0 +1,181 @@
+{
+ "part": 7,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "learning_music#2",
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to improvise a blues solo over a twelve-bar chord progression",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_music#3",
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to sing in two-part harmony with a choir and hold their part against the other",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_music#4",
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to play a piece with dynamics and tempo changes in a band or on the piano",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_physics#1",
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to explain how sound travels as vibrations and why it moves faster through water than air",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_physics#2",
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to calculate the resistance of a wire from measured voltage and current using Ohm's law",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_physics#3",
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to build a simple circuit with a battery, a switch and a bulb and explain why it lights",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_physics#4",
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to measure the speed of a rolling ball from distance and time and draw a distance-time graph",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_practical_life#1",
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to put a bandage on a cut and know when a wound needs a doctor",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_practical_life#2",
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to change a flat bicycle tyre using tyre levers and a pump",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_practical_life#3",
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to walk to the corner store alone, buy milk and count the change",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ]
+  }
+ ]
+}

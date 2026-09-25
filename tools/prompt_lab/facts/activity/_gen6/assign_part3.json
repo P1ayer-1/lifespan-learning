@@ -1,0 +1,176 @@
+{
+ "part": 3,
+ "phase": 6,
+ "activities": [
+  {
+   "id": "learning_earth_space#2",
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to explain how greenhouse gases trap heat and read a graph of carbon dioxide over the last century",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_economics_money#1",
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to explain comparative advantage and why two countries both gain from trading",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ]
+  },
+  {
+   "id": "learning_economics_money#2",
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to explain how a central bank raising interest rates slows inflation",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ]
+  },
+  {
+   "id": "learning_geography#1",
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to use a geographic information system to overlay flood risk and housing on a city map",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_geography#2",
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to analyse a population pyramid to predict whether a country will need more schools or nursing homes",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_health_hygiene#1",
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to interpret a blood pressure reading and explain how diet and exercise change it",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ]
+  },
+  {
+   "id": "learning_health_hygiene#2",
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to explain consent, contraception and how to get tested for infections at a clinic",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ]
+  },
+  {
+   "id": "learning_history#1",
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to write a historiographical essay on how views of the French Revolution have changed since 1800",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ]
+  },
+  {
+   "id": "learning_history#2",
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to weigh two historians' differing explanations of the Cold War against the evidence",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ]
+  },
+  {
+   "id": "learning_math#1",
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to compute the integral of a function to find the area under a curve",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ]
+  }
+ ]
+}

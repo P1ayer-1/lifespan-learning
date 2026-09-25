@@ -1,0 +1,156 @@
+{
+ "part": 0,
+ "phase": 6,
+ "activities": [
+  {
+   "id": "abstract_discourse_patterns#1",
+   "content_key": "abstract_discourse_patterns",
+   "kind": "exposure",
+   "activity": "argument structures, nuanced reasoning and conditional thinking in abstract and hypothetical discussion",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coffee shop",
+    "at school",
+    "at the dinner table",
+    "at the library"
+   ]
+  },
+  {
+   "id": "bereavement#1",
+   "content_key": "bereavement",
+   "kind": "experience",
+   "activity": "saying goodbye to a grandparent who has died",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a family gathering",
+    "at a grandparent's house",
+    "at a hospital"
+   ]
+  },
+  {
+   "id": "college_application#1",
+   "content_key": "college_application",
+   "kind": "experience",
+   "activity": "applying to college and waiting for the answer",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coffee shop",
+    "at a college campus tour",
+    "at a computer at home",
+    "at a kitchen table"
+   ]
+  },
+  {
+   "id": "contested_history#1",
+   "content_key": "contested_history",
+   "kind": "exposure",
+   "activity": "the idea that historians disagree about the past because sources are partial and questions change",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a family gathering",
+    "at a grandparent's house",
+    "at a monument"
+   ]
+  },
+  {
+   "id": "contract_language#1",
+   "content_key": "contract_language",
+   "kind": "exposure",
+   "activity": "the language of contracts and forms, such as terms, conditions, liability, consent and signatures",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a computer at home",
+    "at a driving school",
+    "at a gym front desk"
+   ]
+  },
+  {
+   "id": "cooking_baking#1",
+   "content_key": "cooking_baking",
+   "kind": "experience",
+   "activity": "cooking or baking a meal for the family",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "drawing_crafting#1",
+   "content_key": "drawing_crafting",
+   "kind": "experience",
+   "activity": "making an art or craft project",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a kitchen table",
+    "at a public library"
+   ]
+  },
+  {
+   "id": "driving_lesson#1",
+   "content_key": "driving_lesson",
+   "kind": "experience",
+   "activity": "taking a first driving lesson",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a driving school",
+    "at a licensing office",
+    "at home",
+    "in a driveway"
+   ]
+  },
+  {
+   "id": "ethical_framework_language#1",
+   "content_key": "ethical_framework_language",
+   "kind": "exposure",
+   "activity": "terms related to responsibility, trade-offs and unintended consequences used in structured ethical reasoning",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coffee shop",
+    "at a hospital volunteer shift",
+    "at school",
+    "at the dinner table"
+   ]
+  },
+  {
+   "id": "ethics_in_technology#1",
+   "content_key": "ethics_in_technology",
+   "kind": "exposure",
+   "activity": "ethical questions raised by technology such as algorithmic bias, surveillance and automation",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coffee shop",
+    "at a computer at home",
+    "at a part-time job",
+    "at a tech company on a field trip"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "part": 6,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "learning_health_hygiene#4",
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to recognise signs of stress and use deep breathing and sleep routines to manage it",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ]
+  },
+  {
+   "id": "learning_history#1",
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to explain why the Roman Empire split and fell using a map of its borders",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ]
+  },
+  {
+   "id": "learning_history#2",
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to explain how the Treaty of Versailles helped lead to the Second World War",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ]
+  },
+  {
+   "id": "learning_history#3",
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to explain why ancient Egyptians built the pyramids and how the Nile shaped their farming",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ]
+  },
+  {
+   "id": "learning_history#4",
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to use a primary source like a settler's diary to explain why people moved west in the 1800s",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ]
+  },
+  {
+   "id": "learning_math#1",
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to solve two-step equations and plot the line they describe on a coordinate grid",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_math#2",
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to prove two triangles congruent using the side-angle-side rule",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_math#3",
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to add and subtract fractions with unlike denominators by finding a common denominator",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_math#4",
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to solve linear equations with one variable by doing the same operation to both sides",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_music#1",
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to tune a violin or guitar by ear using a reference note",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ]
+  }
+ ]
+}

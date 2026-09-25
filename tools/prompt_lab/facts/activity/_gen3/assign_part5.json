@@ -1,0 +1,181 @@
+{
+ "part": 5,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "learning_economics_money#2",
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to compare a stock and a bond and explain which is riskier and why",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ]
+  },
+  {
+   "id": "learning_economics_money#3",
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to explain supply and demand using the price of strawberries in summer and winter",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ]
+  },
+  {
+   "id": "learning_economics_money#4",
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to compare simple and compound interest on a savings account over five years",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ]
+  },
+  {
+   "id": "learning_geography#1",
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to read contour lines on a topographic map to find the steepest slope of a hill",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_geography#2",
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to explain how a monsoon forms and why it matters for rice farming in South Asia",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_geography#3",
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to read latitude and longitude on a map to give the location of a city",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_geography#4",
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to compare the climate of a desert and a rainforest using rainfall and temperature graphs",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_health_hygiene#1",
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to recognise the warning signs of anxiety in a friend and know who to tell",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ]
+  },
+  {
+   "id": "learning_health_hygiene#2",
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to explain how nicotine causes addiction in the brain's reward pathway",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ]
+  },
+  {
+   "id": "learning_health_hygiene#3",
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to understand the changes of puberty and why daily showers and deodorant matter",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ]
+  }
+ ]
+}

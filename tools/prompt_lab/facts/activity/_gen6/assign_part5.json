@@ -1,0 +1,176 @@
+{
+ "part": 5,
+ "phase": 6,
+ "activities": [
+  {
+   "id": "learning_religious_or_cultural_practices#2",
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to lead a holiday meal ceremony from start to finish for the whole family",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ]
+  },
+  {
+   "id": "learning_second_language#1",
+   "content_key": "learning_second_language",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "13-13",
+   "activity": "to debate a current issue entirely in a new language for five minutes",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a language class"
+   ]
+  },
+  {
+   "id": "learning_second_language#2",
+   "content_key": "learning_second_language",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "13-13",
+   "activity": "to read a short news article in a new language and summarise it aloud",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a language class"
+   ]
+  },
+  {
+   "id": "learning_social_skills#1",
+   "content_key": "learning_social_skills",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to interview for a part-time job with confident eye contact and clear answers",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a birthday party",
+    "at a family dinner",
+    "at a friend's house",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_social_skills#2",
+   "content_key": "learning_social_skills",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to give honest feedback to a teammate in a way that is specific and kind",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a birthday party",
+    "at a family dinner",
+    "at a friend's house",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_sports#1",
+   "content_key": "learning_sports",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to coach a younger team by planning drills that fix a specific weakness in their passing",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a baseball diamond",
+    "at a basketball court",
+    "at a hockey rink",
+    "at a running track"
+   ]
+  },
+  {
+   "id": "learning_sports#2",
+   "content_key": "learning_sports",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to plan a weekly training program for a sport with rest days and warm-ups",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a baseball diamond",
+    "at a basketball court",
+    "at a hockey rink",
+    "at a running track"
+   ]
+  },
+  {
+   "id": "learning_technology_tools#1",
+   "content_key": "learning_technology_tools",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to write a database query that joins two tables to find which customers ordered nothing",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a parent's office",
+    "at a phone repair shop"
+   ]
+  },
+  {
+   "id": "learning_technology_tools#2",
+   "content_key": "learning_technology_tools",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to check a viral video's source and date with a reverse image search before sharing it",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a parent's office",
+    "at a phone repair shop"
+   ]
+  },
+  {
+   "id": "learning_to_code#1",
+   "content_key": "learning_to_code",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to build a class in Java with private fields and getter methods and test it",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coding club meeting",
+    "at a grandparent's house",
+    "at a robotics competition",
+    "at a summer camp"
+   ]
+  }
+ ]
+}

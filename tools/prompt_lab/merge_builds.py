@@ -12,18 +12,22 @@ Facts: facts/_gen/phase_{i}.json (generated) + facts/_verify/phase_{i}.json
      skipped (unverified facts never ship).
 
 Activity facts: facts/activity/_gen/part{k}.json + facts/activity/_verify/part{k}.json
-  (same verdict format, see facts/activity/SPEC.md) -> keep verdict == "true",
-  and add them, each tagged with its content_key, to facts/phase_0.json next to
-  the domain facts already there (earlier activity facts are replaced). Warns
-  about any activity in facts/activity/phase_0_activities.json left with fewer
-  than MIN_ACTIVITY_FACTS facts. facts/activity/revisions.json then retires
-  facts that failed corpus review and swaps in rewordings that
-  facts/activity/_verify/revisions.json marks true.
+  for phase 0 (facts/activity/_gen{N}/part{k}.json + _verify{N}/part{k}.json for
+  phase N != 0, e.g. _gen3/_verify3 for phase 3, _gen6/_verify6 for phase 6 --
+  see facts/activity/SPEC_phase3_6.md) (same verdict format, see
+  facts/activity/SPEC.md) -> keep verdict == "true", and add them, each tagged
+  with its content_key, to facts/phase_{N}.json next to the domain facts
+  already there (earlier activity facts for that phase are replaced; domain
+  facts are untouched). Warns about any activity in
+  facts/activity/phase_{N}_activities.json left with fewer than
+  MIN_ACTIVITY_FACTS facts. facts/activity/revisions.json (revisions{N}.json
+  for phase N != 0) then retires facts that failed corpus review and swaps in
+  rewordings that the matching file under facts/activity/_verify/ marks true.
 
 Usage:
     python merge_builds.py lexicons
     python merge_builds.py facts
-    python merge_builds.py activity-facts
+    python merge_builds.py activity-facts [phase]   # phase defaults to 0
 """
 from __future__ import annotations
 
@@ -103,18 +107,20 @@ def merge_facts() -> None:
 MIN_ACTIVITY_FACTS = 6
 
 
-def _apply_revisions(keep: list[dict], act_dir: Path, lines: list[str]) -> list[dict]:
-    """Retire and reword verified facts per facts/activity/revisions.json.
+def _apply_revisions(keep: list[dict], act_dir: Path, lines: list[str],
+                      revisions_name: str = "revisions.json") -> list[dict]:
+    """Retire and reword verified facts per facts/activity/<revisions_name>.
 
-    A reword replaces its "from" fact only when _verify/revisions.json marks it
-    true; otherwise the old fact is dropped, since it was revised for failing.
-    Entries that match no kept fact are reported, not ignored silently.
+    A reword replaces its "from" fact only when the matching verify file marks
+    it true; otherwise the old fact is dropped, since it was revised for
+    failing. Entries that match no kept fact are reported, not ignored
+    silently.
     """
-    src = act_dir / "revisions.json"
+    src = act_dir / revisions_name
     if not src.exists():
         return keep
     rev = json.loads(src.read_text(encoding="utf-8"))
-    ver_path = act_dir / "_verify" / "revisions.json"
+    ver_path = act_dir / "_verify" / revisions_name
     verdicts = {int(x["i"]): x["verdict"] for x in json.loads(ver_path.read_text(encoding="utf-8"))} if ver_path.exists() else {}
     retire = {(r["content_key"], r["fact"]) for r in rev.get("retire", [])}
     reword = {(r["content_key"], r["from"]): (i, r) for i, r in enumerate(rev.get("reword", []))}
@@ -139,12 +145,27 @@ def _apply_revisions(keep: list[dict], act_dir: Path, lines: list[str]) -> list[
     return out
 
 
-def merge_activity_facts() -> None:
-    act_dir, out = HERE / "facts" / "activity", HERE / "facts" / "phase_0.json"
-    activities = [a["content_key"] for a in json.loads((act_dir / "phase_0_activities.json").read_text(encoding="utf-8"))["activities"]]
+def merge_activity_facts(phase: int = 0, base_dir: Path | None = None) -> None:
+    """Merge one phase's per-activity builds into facts/phase_{phase}.json.
+
+    Phase 0 keeps its original directory names (_gen, _verify, revisions.json)
+    for backward compatibility; phase N != 0 reads facts/activity/_gen{N} and
+    _verify{N} (per the phase_3/phase_6 fact-bank build,
+    facts/activity/SPEC_phase3_6.md) against facts/activity/phase_{N}_activities.json,
+    and (if present) a phase-specific facts/activity/revisions{N}.json.
+    `base_dir` overrides `HERE / "facts"` for tests; production callers leave
+    it unset.
+    """
+    facts_dir = base_dir or (HERE / "facts")
+    act_dir, out = facts_dir / "activity", facts_dir / f"phase_{phase}.json"
+    gen_dir = act_dir / ("_gen" if phase == 0 else f"_gen{phase}")
+    verify_dir = act_dir / ("_verify" if phase == 0 else f"_verify{phase}")
+    revisions_name = "revisions.json" if phase == 0 else f"revisions{phase}.json"
+    activities_path = act_dir / f"phase_{phase}_activities.json"
+    activities = [a["content_key"] for a in json.loads(activities_path.read_text(encoding="utf-8"))["activities"]]
     keep, counts, lines = [], Counter(), []
-    for g in sorted((act_dir / "_gen").glob("part*.json")):
-        v = act_dir / "_verify" / g.name
+    for g in sorted(gen_dir.glob("part*.json")):
+        v = verify_dir / g.name
         if not v.exists():
             lines.append(f"{g.name}: no verify file; skipped")
             continue
@@ -155,17 +176,20 @@ def merge_activity_facts() -> None:
         lines.append(f"{g.name}: {len(facts)} generated, verdicts {dict(part_counts)}")
         keep += [{"content_key": f["content_key"], "fact": f["fact"].strip(), "hook": f.get("hook", "").strip()}
                  for i, f in enumerate(facts) if verdicts.get(i) == "true" and f.get("fact") and f.get("content_key") in activities]
-    keep = _apply_revisions(keep, act_dir, lines)
+    keep = _apply_revisions(keep, act_dir, lines, revisions_name)
     bank = json.loads(out.read_text(encoding="utf-8"))
     bank["facts"] = [f for f in bank["facts"] if not f.get("content_key")] + keep
-    out.write_text(json.dumps(bank, indent=1, ensure_ascii=False), encoding="utf-8")
+    out.write_text(json.dumps(bank, indent=1, ensure_ascii=False), encoding="utf-8", newline="\n")
     per_key = Counter(f["content_key"] for f in keep)
     thin = {k: per_key.get(k, 0) for k in activities if per_key.get(k, 0) < MIN_ACTIVITY_FACTS}
-    lines.append(f"kept {len(keep)} activity facts for {len(per_key)}/{len(activities)} activities; verdicts {dict(counts)}")
+    lines.append(f"kept {len(keep)} activity facts for {len(per_key)}/{len(set(activities))} activities; verdicts {dict(counts)}")
     lines.append(f"activities under {MIN_ACTIVITY_FACTS} facts: {thin or 'none'}")
-    (act_dir / "summary.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    (act_dir / f"summary{'' if phase == 0 else phase}.txt").write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
     print("\n".join(lines))
 
 
 if __name__ == "__main__":
-    {"lexicons": merge_lexicons, "facts": merge_facts, "activity-facts": merge_activity_facts}[sys.argv[1]]()
+    if sys.argv[1] == "activity-facts":
+        merge_activity_facts(int(sys.argv[2]) if len(sys.argv) > 2 else 0)
+    else:
+        {"lexicons": merge_lexicons, "facts": merge_facts}[sys.argv[1]]()

@@ -1,0 +1,181 @@
+{
+ "part": 3,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "learning_chemistry#2",
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to test whether a solution is an acid or a base using litmus paper and the pH scale",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_chemistry#3",
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to tell a physical change like melting from a chemical change like rusting or burning",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_chemistry#4",
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to read the periodic table and find the number of protons in an element from its atomic number",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_civics#1",
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to explain how a citizen can petition a councillor to change a local bylaw",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ]
+  },
+  {
+   "id": "learning_civics#2",
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to compare a first-past-the-post election with proportional representation using a sample vote count",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ]
+  },
+  {
+   "id": "learning_civics#3",
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to explain how a bill becomes a law by passing through the legislature",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ]
+  },
+  {
+   "id": "learning_civics#4",
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to read the rights listed in their country's constitution or charter and explain one in their own words",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ]
+  },
+  {
+   "id": "learning_cooking#1",
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to make a roux and turn it into a smooth cheese sauce without lumps",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ]
+  },
+  {
+   "id": "learning_cooking#2",
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to cook rice, a curry and flatbread so they are all ready at the same time",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ]
+  },
+  {
+   "id": "learning_cooking#3",
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to follow a recipe to bake muffins from start to finish including preheating the oven",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ]
+  }
+ ]
+}

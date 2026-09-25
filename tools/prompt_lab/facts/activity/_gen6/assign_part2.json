@@ -1,0 +1,176 @@
+{
+ "part": 2,
+ "phase": 6,
+ "activities": [
+  {
+   "id": "learning_biology#2",
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to explain how DNA is copied and turned into protein through transcription and translation",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_chemistry#1",
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to predict how a change in temperature shifts a reaction at equilibrium using Le Chatelier's principle",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_chemistry#2",
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to calculate the moles of a product formed from a given mass of reactant using molar mass",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ]
+  },
+  {
+   "id": "learning_civics#1",
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to compare how a parliamentary and a presidential system choose and remove a head of government",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ]
+  },
+  {
+   "id": "learning_civics#2",
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to argue both sides of a Supreme Court case about free speech before a mock court",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ]
+  },
+  {
+   "id": "learning_cooking#1",
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to temper chocolate so it sets shiny and snaps cleanly",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ]
+  },
+  {
+   "id": "learning_cooking#2",
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to plan a week of meals, shop for the ingredients and cook them in batches",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ]
+  },
+  {
+   "id": "learning_drama_speaking#1",
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to write and stage a ten-minute play about a moment from their own life",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_drama_speaking#2",
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to direct a one-act play by blocking the actors' movements and running rehearsals",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_earth_space#1",
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to read an ocean current map and explain how the Gulf Stream warms northern Europe",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ]
+  }
+ ]
+}

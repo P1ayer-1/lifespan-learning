@@ -1,0 +1,175 @@
+{
+ "part": 0,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "argument_with_friend#1",
+   "content_key": "argument_with_friend",
+   "kind": "experience",
+   "activity": "falling out with a best friend and making up",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a public park",
+    "at home",
+    "in a classroom"
+   ]
+  },
+  {
+   "id": "babysitting#1",
+   "content_key": "babysitting",
+   "kind": "experience",
+   "activity": "babysitting a neighbor's child for the first time",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cousin's house",
+    "at a neighbor's house",
+    "at a public park",
+    "at home"
+   ]
+  },
+  {
+   "id": "being_sick#1",
+   "content_key": "being_sick",
+   "kind": "experience",
+   "activity": "recovering from a cold or flu at home",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy",
+    "at home"
+   ]
+  },
+  {
+   "id": "bereavement#1",
+   "content_key": "bereavement",
+   "kind": "experience",
+   "activity": "saying goodbye to a grandparent who has died",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a family gathering",
+    "at a grandparent's house",
+    "at a hospital"
+   ]
+  },
+  {
+   "id": "broken_arm#1",
+   "content_key": "broken_arm",
+   "kind": "experience",
+   "activity": "breaking an arm and wearing a cast",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a hospital emergency room",
+    "at a skate park",
+    "at home"
+   ]
+  },
+  {
+   "id": "claims_vs_anecdotes#1",
+   "content_key": "claims_vs_anecdotes",
+   "kind": "exposure",
+   "activity": "the difference between a scientific claim backed by tested evidence and a story about one person's experience",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a doctor's office",
+    "at a family gathering",
+    "at a pharmacy"
+   ]
+  },
+  {
+   "id": "competition#1",
+   "content_key": "competition",
+   "kind": "experience",
+   "activity": "competing in a spelling bee",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community center",
+    "at a public library",
+    "at home",
+    "in a classroom"
+   ]
+  },
+  {
+   "id": "cooking_baking#1",
+   "content_key": "cooking_baking",
+   "kind": "experience",
+   "activity": "cooking or baking a meal for the family",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "cultural_etiquette#1",
+   "content_key": "cultural_etiquette",
+   "kind": "exposure",
+   "activity": "customs such as greetings, gift-giving and table manners that differ between cultures and households",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a family gathering",
+    "at a friend's house",
+    "at a neighbour's house"
+   ]
+  },
+  {
+   "id": "digital_environment_patterns#1",
+   "content_key": "digital_environment_patterns",
+   "kind": "exposure",
+   "activity": "tone differences, public versus private spaces and common conventions of online communication",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at home",
+    "at school",
+    "in a group chat"
+   ]
+  }
+ ]
+}

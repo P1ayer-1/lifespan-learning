@@ -1,0 +1,182 @@
+{
+ "part": 8,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "learning_practical_life#4",
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to do a load of laundry from sorting colours to folding",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_reading#1",
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to track how a symbol changes meaning across the chapters of a novel",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_reading#2",
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to read a Shakespeare scene and paraphrase the speeches into modern English",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_reading#3",
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to find the theme of a novel and back it up with a quotation from the text",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_reading#4",
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to spot foreshadowing and symbolism in a short story and explain what they suggest",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_religious_or_cultural_practices#1",
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to learn a traditional dance or song well enough to perform it at a community gathering",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ]
+  },
+  {
+   "id": "learning_religious_or_cultural_practices#2",
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to compare how two faiths explain what happens after death",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ]
+  },
+  {
+   "id": "learning_religious_or_cultural_practices#3",
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to fast, pray or keep a day of rest for part of a day as their family does and explain why",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ]
+  },
+  {
+   "id": "learning_religious_or_cultural_practices#4",
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to prepare for a coming-of-age ceremony by learning a reading or prayer by heart",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ]
+  },
+  {
+   "id": "learning_second_language#1",
+   "content_key": "learning_second_language",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "7-8",
+   "activity": "to ask for directions in a new language and understand the answer",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a language class"
+   ]
+  }
+ ]
+}

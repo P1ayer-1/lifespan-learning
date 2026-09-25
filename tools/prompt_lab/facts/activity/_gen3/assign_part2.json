@@ -1,0 +1,180 @@
+{
+ "part": 2,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "identity_language#1",
+   "content_key": "identity_language",
+   "kind": "exposure",
+   "activity": "the ways individuals and groups describe themselves, their heritage and their experiences of belonging",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a cultural festival",
+    "at a family gathering",
+    "at a friend's house"
+   ]
+  },
+  {
+   "id": "learning_art#1",
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to draw a room in two-point perspective with two vanishing points",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ]
+  },
+  {
+   "id": "learning_art#2",
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to paint a portrait in watercolour by layering washes from light to dark",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ]
+  },
+  {
+   "id": "learning_art#3",
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to shade a sphere with a light source to show highlight, shadow and cast shadow",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ]
+  },
+  {
+   "id": "learning_art#4",
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to draw a street using one-point perspective with lines meeting at a vanishing point",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ]
+  },
+  {
+   "id": "learning_biology#1",
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to compare a plant cell and an animal cell and name the parts only plants have",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_biology#2",
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to describe how natural selection changed the beak shapes of finches on different islands",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_biology#3",
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to draw a food chain from the sun to a top predator and explain what happens when one link disappears",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_biology#4",
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to look at onion skin cells under a microscope and label the cell wall, membrane and nucleus",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_chemistry#1",
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to build a model of an atom with protons, neutrons and electrons in the right places",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ]
+  }
+ ]
+}

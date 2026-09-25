@@ -1,0 +1,2333 @@
+{
+ "phase": 3,
+ "activities": [
+  {
+   "content_key": "argument_with_friend",
+   "kind": "experience",
+   "activity": "falling out with a best friend and making up",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a public park",
+    "at home",
+    "in a classroom"
+   ],
+   "id": "argument_with_friend#1"
+  },
+  {
+   "content_key": "babysitting",
+   "kind": "experience",
+   "activity": "babysitting a neighbor's child for the first time",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cousin's house",
+    "at a neighbor's house",
+    "at a public park",
+    "at home"
+   ],
+   "id": "babysitting#1"
+  },
+  {
+   "content_key": "being_sick",
+   "kind": "experience",
+   "activity": "recovering from a cold or flu at home",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy",
+    "at home"
+   ],
+   "id": "being_sick#1"
+  },
+  {
+   "content_key": "bereavement",
+   "kind": "experience",
+   "activity": "saying goodbye to a grandparent who has died",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a family gathering",
+    "at a grandparent's house",
+    "at a hospital"
+   ],
+   "id": "bereavement#1"
+  },
+  {
+   "content_key": "broken_arm",
+   "kind": "experience",
+   "activity": "breaking an arm and wearing a cast",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a hospital emergency room",
+    "at a skate park",
+    "at home"
+   ],
+   "id": "broken_arm#1"
+  },
+  {
+   "content_key": "claims_vs_anecdotes",
+   "kind": "exposure",
+   "activity": "the difference between a scientific claim backed by tested evidence and a story about one person's experience",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a doctor's office",
+    "at a family gathering",
+    "at a pharmacy"
+   ],
+   "id": "claims_vs_anecdotes#1"
+  },
+  {
+   "content_key": "competition",
+   "kind": "experience",
+   "activity": "competing in a spelling bee",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community center",
+    "at a public library",
+    "at home",
+    "in a classroom"
+   ],
+   "id": "competition#1"
+  },
+  {
+   "content_key": "cooking_baking",
+   "kind": "experience",
+   "activity": "cooking or baking a meal for the family",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a grandparent's house"
+   ],
+   "id": "cooking_baking#1"
+  },
+  {
+   "content_key": "cultural_etiquette",
+   "kind": "exposure",
+   "activity": "customs such as greetings, gift-giving and table manners that differ between cultures and households",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a family gathering",
+    "at a friend's house",
+    "at a neighbour's house"
+   ],
+   "id": "cultural_etiquette#1"
+  },
+  {
+   "content_key": "digital_environment_patterns",
+   "kind": "exposure",
+   "activity": "tone differences, public versus private spaces and common conventions of online communication",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at home",
+    "at school",
+    "in a group chat"
+   ],
+   "id": "digital_environment_patterns#1"
+  },
+  {
+   "content_key": "digital_privacy",
+   "kind": "exposure",
+   "activity": "the idea that posts, photos and location data can be stored, shared and seen by strangers",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a shopping mall",
+    "at school",
+    "at the dinner table"
+   ],
+   "id": "digital_privacy#1"
+  },
+  {
+   "content_key": "drawing_crafting",
+   "kind": "experience",
+   "activity": "making an art or craft project",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a kitchen table",
+    "at a public library"
+   ],
+   "id": "drawing_crafting#1"
+  },
+  {
+   "content_key": "family_trip",
+   "kind": "experience",
+   "activity": "going on a family trip away from home",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a beach",
+    "at a campsite",
+    "at a national park",
+    "at a relative's house"
+   ],
+   "id": "family_trip#1"
+  },
+  {
+   "content_key": "first_date",
+   "kind": "experience",
+   "activity": "going on a first date",
+   "tiers": [
+    9
+   ],
+   "example_settings": [
+    "at a bowling alley",
+    "at a coffee shop",
+    "at a mall",
+    "at a movie theater"
+   ],
+   "id": "first_date#1"
+  },
+  {
+   "content_key": "first_performance",
+   "kind": "experience",
+   "activity": "performing on stage for the first time in a school concert",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community theater",
+    "at home",
+    "backstage at a school concert",
+    "in a dressing room"
+   ],
+   "id": "first_performance#1"
+  },
+  {
+   "content_key": "first_phone",
+   "kind": "experience",
+   "activity": "getting a first phone and learning to use it responsibly",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a kitchen table",
+    "at a mall",
+    "at a phone store"
+   ],
+   "id": "first_phone#1"
+  },
+  {
+   "content_key": "getting_a_pet",
+   "kind": "experience",
+   "activity": "bringing home a first pet and learning to care for it",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a pet store",
+    "at a public park",
+    "at a veterinary clinic",
+    "at an animal shelter"
+   ],
+   "id": "getting_a_pet#1"
+  },
+  {
+   "content_key": "getting_glasses",
+   "kind": "experience",
+   "activity": "getting a first pair of glasses",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a mall",
+    "at a school nurse's office",
+    "at an eyeglasses store",
+    "at an optometrist's office"
+   ],
+   "id": "getting_glasses#1"
+  },
+  {
+   "content_key": "grandparent_visit",
+   "kind": "experience",
+   "activity": "hosting a grandparent who comes to stay for a week",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a local market",
+    "at a public park",
+    "at a train station",
+    "at an airport"
+   ],
+   "id": "grandparent_visit#1"
+  },
+  {
+   "content_key": "hypothesis_idea",
+   "kind": "exposure",
+   "activity": "the idea of a hypothesis as a testable guess that an experiment can support or overturn",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a science centre",
+    "at a science fair",
+    "at home",
+    "in a garage workshop"
+   ],
+   "id": "hypothesis_idea#1"
+  },
+  {
+   "content_key": "identity_language",
+   "kind": "exposure",
+   "activity": "the ways individuals and groups describe themselves, their heritage and their experiences of belonging",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a cultural festival",
+    "at a family gathering",
+    "at a friend's house"
+   ],
+   "id": "identity_language#1"
+  },
+  {
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to draw a room in two-point perspective with two vanishing points",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ],
+   "id": "learning_art#1"
+  },
+  {
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to paint a portrait in watercolour by layering washes from light to dark",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ],
+   "id": "learning_art#2"
+  },
+  {
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to shade a sphere with a light source to show highlight, shadow and cast shadow",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ],
+   "id": "learning_art#3"
+  },
+  {
+   "content_key": "learning_art",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to draw a street using one-point perspective with lines meeting at a vanishing point",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community art studio",
+    "at a grandparent's house",
+    "at a summer camp",
+    "at an art gallery"
+   ],
+   "id": "learning_art#4"
+  },
+  {
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to compare a plant cell and an animal cell and name the parts only plants have",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ],
+   "id": "learning_biology#1"
+  },
+  {
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to describe how natural selection changed the beak shapes of finches on different islands",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ],
+   "id": "learning_biology#2"
+  },
+  {
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to draw a food chain from the sun to a top predator and explain what happens when one link disappears",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ],
+   "id": "learning_biology#3"
+  },
+  {
+   "content_key": "learning_biology",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to look at onion skin cells under a microscope and label the cell wall, membrane and nucleus",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a pond",
+    "at a science museum"
+   ],
+   "id": "learning_biology#4"
+  },
+  {
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to build a model of an atom with protons, neutrons and electrons in the right places",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ],
+   "id": "learning_chemistry#1"
+  },
+  {
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to test whether a solution is an acid or a base using litmus paper and the pH scale",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ],
+   "id": "learning_chemistry#2"
+  },
+  {
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to tell a physical change like melting from a chemical change like rusting or burning",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ],
+   "id": "learning_chemistry#3"
+  },
+  {
+   "content_key": "learning_chemistry",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to read the periodic table and find the number of protons in an element from its atomic number",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a science fair",
+    "at a science museum",
+    "at home"
+   ],
+   "id": "learning_chemistry#4"
+  },
+  {
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to explain how a citizen can petition a councillor to change a local bylaw",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ],
+   "id": "learning_civics#1"
+  },
+  {
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to compare a first-past-the-post election with proportional representation using a sample vote count",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ],
+   "id": "learning_civics#2"
+  },
+  {
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to explain how a bill becomes a law by passing through the legislature",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ],
+   "id": "learning_civics#3"
+  },
+  {
+   "content_key": "learning_civics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to read the rights listed in their country's constitution or charter and explain one in their own words",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a courthouse",
+    "at a grandparent's house",
+    "at a polling station"
+   ],
+   "id": "learning_civics#4"
+  },
+  {
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to make a roux and turn it into a smooth cheese sauce without lumps",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ],
+   "id": "learning_cooking#1"
+  },
+  {
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to cook rice, a curry and flatbread so they are all ready at the same time",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ],
+   "id": "learning_cooking#2"
+  },
+  {
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to follow a recipe to bake muffins from start to finish including preheating the oven",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ],
+   "id": "learning_cooking#3"
+  },
+  {
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to chop an onion safely with the claw grip and make a pasta sauce from scratch",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ],
+   "id": "learning_cooking#4"
+  },
+  {
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to perform a monologue from a play using pauses and gestures to show emotion",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ],
+   "id": "learning_drama_speaking#1"
+  },
+  {
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to build a debate case with a claim, evidence and a warrant for each point",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ],
+   "id": "learning_drama_speaking#2"
+  },
+  {
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to give a two-minute speech with an opening hook, three points and a closing",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ],
+   "id": "learning_drama_speaking#3"
+  },
+  {
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to improvise a scene with a partner by accepting each offer with yes, and",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ],
+   "id": "learning_drama_speaking#4"
+  },
+  {
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to explain the phases of the Moon by modelling it circling Earth with a lamp and a ball",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ],
+   "id": "learning_earth_space#1"
+  },
+  {
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to explain how a river carves a canyon over millions of years through erosion and deposition",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ],
+   "id": "learning_earth_space#2"
+  },
+  {
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to sort rocks as igneous, sedimentary or metamorphic by how they were formed",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ],
+   "id": "learning_earth_space#3"
+  },
+  {
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to explain how the tilt of Earth's axis causes the seasons",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ],
+   "id": "learning_earth_space#4"
+  },
+  {
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to compare the cost of borrowing money on a credit card with saving up first",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ],
+   "id": "learning_economics_money#1"
+  },
+  {
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to compare a stock and a bond and explain which is riskier and why",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ],
+   "id": "learning_economics_money#2"
+  },
+  {
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to explain supply and demand using the price of strawberries in summer and winter",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ],
+   "id": "learning_economics_money#3"
+  },
+  {
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to compare simple and compound interest on a savings account over five years",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ],
+   "id": "learning_economics_money#4"
+  },
+  {
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to read contour lines on a topographic map to find the steepest slope of a hill",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ],
+   "id": "learning_geography#1"
+  },
+  {
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to explain how a monsoon forms and why it matters for rice farming in South Asia",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ],
+   "id": "learning_geography#2"
+  },
+  {
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to read latitude and longitude on a map to give the location of a city",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ],
+   "id": "learning_geography#3"
+  },
+  {
+   "content_key": "learning_geography",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to compare the climate of a desert and a rainforest using rainfall and temperature graphs",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a travel agency",
+    "at an airport",
+    "at home"
+   ],
+   "id": "learning_geography#4"
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to recognise the warning signs of anxiety in a friend and know who to tell",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ],
+   "id": "learning_health_hygiene#1"
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to explain how nicotine causes addiction in the brain's reward pathway",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ],
+   "id": "learning_health_hygiene#2"
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to understand the changes of puberty and why daily showers and deodorant matter",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ],
+   "id": "learning_health_hygiene#3"
+  },
+  {
+   "content_key": "learning_health_hygiene",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to recognise signs of stress and use deep breathing and sleep routines to manage it",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a dentist's office",
+    "at a doctor's office",
+    "at a grandparent's house",
+    "at a pharmacy"
+   ],
+   "id": "learning_health_hygiene#4"
+  },
+  {
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to explain why the Roman Empire split and fell using a map of its borders",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ],
+   "id": "learning_history#1"
+  },
+  {
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to explain how the Treaty of Versailles helped lead to the Second World War",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ],
+   "id": "learning_history#2"
+  },
+  {
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to explain why ancient Egyptians built the pyramids and how the Nile shaped their farming",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ],
+   "id": "learning_history#3"
+  },
+  {
+   "content_key": "learning_history",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to use a primary source like a settler's diary to explain why people moved west in the 1800s",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a historic site",
+    "at a history museum",
+    "at a war memorial"
+   ],
+   "id": "learning_history#4"
+  },
+  {
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to solve two-step equations and plot the line they describe on a coordinate grid",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ],
+   "id": "learning_math#1"
+  },
+  {
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to prove two triangles congruent using the side-angle-side rule",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ],
+   "id": "learning_math#2"
+  },
+  {
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to add and subtract fractions with unlike denominators by finding a common denominator",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ],
+   "id": "learning_math#3"
+  },
+  {
+   "content_key": "learning_math",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to solve linear equations with one variable by doing the same operation to both sides",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a math club meeting",
+    "at a tutoring centre",
+    "at home"
+   ],
+   "id": "learning_math#4"
+  },
+  {
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to tune a violin or guitar by ear using a reference note",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ],
+   "id": "learning_music#1"
+  },
+  {
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to improvise a blues solo over a twelve-bar chord progression",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ],
+   "id": "learning_music#2"
+  },
+  {
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to sing in two-part harmony with a choir and hold their part against the other",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ],
+   "id": "learning_music#3"
+  },
+  {
+   "content_key": "learning_music",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to play a piece with dynamics and tempo changes in a band or on the piano",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a concert hall",
+    "at a friend's house",
+    "at a grandparent's house"
+   ],
+   "id": "learning_music#4"
+  },
+  {
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to explain how sound travels as vibrations and why it moves faster through water than air",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ],
+   "id": "learning_physics#1"
+  },
+  {
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to calculate the resistance of a wire from measured voltage and current using Ohm's law",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ],
+   "id": "learning_physics#2"
+  },
+  {
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to build a simple circuit with a battery, a switch and a bulb and explain why it lights",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ],
+   "id": "learning_physics#3"
+  },
+  {
+   "content_key": "learning_physics",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to measure the speed of a rolling ball from distance and time and draw a distance-time graph",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a science fair",
+    "at a science museum",
+    "at a skate park",
+    "at home"
+   ],
+   "id": "learning_physics#4"
+  },
+  {
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to put a bandage on a cut and know when a wound needs a doctor",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ],
+   "id": "learning_practical_life#1"
+  },
+  {
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to change a flat bicycle tyre using tyre levers and a pump",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ],
+   "id": "learning_practical_life#2"
+  },
+  {
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to walk to the corner store alone, buy milk and count the change",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ],
+   "id": "learning_practical_life#3"
+  },
+  {
+   "content_key": "learning_practical_life",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to do a load of laundry from sorting colours to folding",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a bus stop",
+    "at a driving school",
+    "at a grandparent's house"
+   ],
+   "id": "learning_practical_life#4"
+  },
+  {
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to track how a symbol changes meaning across the chapters of a novel",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ],
+   "id": "learning_reading#1"
+  },
+  {
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to read a Shakespeare scene and paraphrase the speeches into modern English",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ],
+   "id": "learning_reading#2"
+  },
+  {
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to find the theme of a novel and back it up with a quotation from the text",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ],
+   "id": "learning_reading#3"
+  },
+  {
+   "content_key": "learning_reading",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to spot foreshadowing and symbolism in a short story and explain what they suggest",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a book club meeting",
+    "at a grandparent's house",
+    "at home",
+    "at school"
+   ],
+   "id": "learning_reading#4"
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to learn a traditional dance or song well enough to perform it at a community gathering",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ],
+   "id": "learning_religious_or_cultural_practices#1"
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to compare how two faiths explain what happens after death",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ],
+   "id": "learning_religious_or_cultural_practices#2"
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to fast, pray or keep a day of rest for part of a day as their family does and explain why",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ],
+   "id": "learning_religious_or_cultural_practices#3"
+  },
+  {
+   "content_key": "learning_religious_or_cultural_practices",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to prepare for a coming-of-age ceremony by learning a reading or prayer by heart",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a cemetery",
+    "at a community hall",
+    "at a cultural festival",
+    "at a family gathering"
+   ],
+   "id": "learning_religious_or_cultural_practices#4"
+  },
+  {
+   "content_key": "learning_second_language",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "7-8",
+   "activity": "to ask for directions in a new language and understand the answer",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a language class"
+   ],
+   "id": "learning_second_language#1"
+  },
+  {
+   "content_key": "learning_second_language",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "9-10",
+   "activity": "to write a paragraph in a new language about plans for next year using the future tense",
+   "tiers": [
+    9
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a language class"
+   ],
+   "id": "learning_second_language#2"
+  },
+  {
+   "content_key": "learning_second_language",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "7-8",
+   "activity": "to describe their family and pets in a new language using full sentences",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a language class"
+   ],
+   "id": "learning_second_language#3"
+  },
+  {
+   "content_key": "learning_second_language",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "9-10",
+   "activity": "to order a meal in a restaurant in a new language and ask how much it costs",
+   "tiers": [
+    9
+   ],
+   "example_settings": [
+    "at a cultural festival",
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a language class"
+   ],
+   "id": "learning_second_language#4"
+  },
+  {
+   "content_key": "learning_social_skills",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to mediate an argument between two friends without taking a side",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a birthday party",
+    "at a family dinner",
+    "at a friend's house",
+    "at a grandparent's house"
+   ],
+   "id": "learning_social_skills#1"
+  },
+  {
+   "content_key": "learning_social_skills",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to run a club meeting with an agenda so everyone gets a chance to speak",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a birthday party",
+    "at a family dinner",
+    "at a friend's house",
+    "at a grandparent's house"
+   ],
+   "id": "learning_social_skills#2"
+  },
+  {
+   "content_key": "learning_social_skills",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to settle a disagreement over a game by naming the problem and agreeing on a fair rule",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a birthday party",
+    "at a family dinner",
+    "at a friend's house",
+    "at a grandparent's house"
+   ],
+   "id": "learning_social_skills#3"
+  },
+  {
+   "content_key": "learning_social_skills",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to stand up for a classmate being teased without making the situation worse",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a birthday party",
+    "at a family dinner",
+    "at a friend's house",
+    "at a grandparent's house"
+   ],
+   "id": "learning_social_skills#4"
+  },
+  {
+   "content_key": "learning_sports",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to hurdle a row of low hurdles with a three-step rhythm between them",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a baseball diamond",
+    "at a basketball court",
+    "at a hockey rink",
+    "at a running track"
+   ],
+   "id": "learning_sports#1"
+  },
+  {
+   "content_key": "learning_sports",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to call plays as a point guard and run a pick and roll",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a baseball diamond",
+    "at a basketball court",
+    "at a hockey rink",
+    "at a running track"
+   ],
+   "id": "learning_sports#2"
+  },
+  {
+   "content_key": "learning_sports",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to swim twenty-five metres front crawl with side breathing",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a baseball diamond",
+    "at a basketball court",
+    "at a hockey rink",
+    "at a running track"
+   ],
+   "id": "learning_sports#3"
+  },
+  {
+   "content_key": "learning_sports",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to run an eight-hundred-metre race pacing the first lap so there is energy for the second",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a baseball diamond",
+    "at a basketball court",
+    "at a hockey rink",
+    "at a running track"
+   ],
+   "id": "learning_sports#4"
+  },
+  {
+   "content_key": "learning_technology_tools",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to create a strong password and explain why the same one should not be reused",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a parent's office",
+    "at a phone repair shop"
+   ],
+   "id": "learning_technology_tools#1"
+  },
+  {
+   "content_key": "learning_technology_tools",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to use pivot tables in a spreadsheet to summarise survey answers by grade",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a parent's office",
+    "at a phone repair shop"
+   ],
+   "id": "learning_technology_tools#2"
+  },
+  {
+   "content_key": "learning_technology_tools",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to search the web with specific keywords and tell an ad from a real result",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a parent's office",
+    "at a phone repair shop"
+   ],
+   "id": "learning_technology_tools#3"
+  },
+  {
+   "content_key": "learning_technology_tools",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to build a spreadsheet with a formula that adds a column and makes a bar chart",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a friend's house",
+    "at a grandparent's house",
+    "at a parent's office",
+    "at a phone repair shop"
+   ],
+   "id": "learning_technology_tools#4"
+  },
+  {
+   "content_key": "learning_to_code",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to write a Python loop that prints the times table for any number the user types",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a coding club meeting",
+    "at a grandparent's house",
+    "at a robotics competition",
+    "at a summer camp"
+   ],
+   "id": "learning_to_code#1"
+  },
+  {
+   "content_key": "learning_to_code",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to build a web page with HTML and style it with CSS so the heading is centred",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a coding club meeting",
+    "at a grandparent's house",
+    "at a robotics competition",
+    "at a summer camp"
+   ],
+   "id": "learning_to_code#2"
+  },
+  {
+   "content_key": "learning_to_code",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to use loops and if-then blocks in Scratch to make a game that keeps score",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a coding club meeting",
+    "at a grandparent's house",
+    "at a robotics competition",
+    "at a summer camp"
+   ],
+   "id": "learning_to_code#3"
+  },
+  {
+   "content_key": "learning_to_code",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to write a Python program that asks for a number and prints whether it is prime",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a coding club meeting",
+    "at a grandparent's house",
+    "at a robotics competition",
+    "at a summer camp"
+   ],
+   "id": "learning_to_code#4"
+  },
+  {
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to revise a draft by cutting weak adjectives and varying sentence length",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ],
+   "id": "learning_writing#1"
+  },
+  {
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to write a thesis statement and outline a three-point argument before drafting",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ],
+   "id": "learning_writing#2"
+  },
+  {
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to write a five-paragraph persuasive essay with an introduction and a conclusion",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ],
+   "id": "learning_writing#3"
+  },
+  {
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to write a short story with correctly punctuated dialogue and a clear climax",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ],
+   "id": "learning_writing#4"
+  },
+  {
+   "content_key": "mental_health_vocabulary",
+   "kind": "exposure",
+   "activity": "words such as anxiety, stress, coping and boundaries used to talk about mental health",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a friend's house",
+    "at home",
+    "at school"
+   ],
+   "id": "mental_health_vocabulary#1"
+  },
+  {
+   "content_key": "moving_to_new_town",
+   "kind": "experience",
+   "activity": "moving to a new town and leaving old friends behind",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a farewell party",
+    "at a new school",
+    "at home",
+    "in a moving truck"
+   ],
+   "id": "moving_to_new_town#1"
+  },
+  {
+   "content_key": "opinion_vs_checkable_claim",
+   "kind": "exposure",
+   "activity": "the difference between an opinion and a claim that can be checked",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a friend's house",
+    "at school",
+    "at the dinner table"
+   ],
+   "id": "opinion_vs_checkable_claim#1"
+  },
+  {
+   "content_key": "perspective_exposure",
+   "kind": "exposure",
+   "activity": "the idea that people interpret the same events and ideas differently",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community centre",
+    "at a family gathering",
+    "at a friend's house",
+    "at an after-school club"
+   ],
+   "id": "perspective_exposure#1"
+  },
+  {
+   "content_key": "planting_garden",
+   "kind": "experience",
+   "activity": "planting a vegetable garden and watching it grow",
+   "tiers": [
+    7,
+    8
+   ],
+   "example_settings": [
+    "at a community garden",
+    "at a farm",
+    "at a farmers' market",
+    "at a garden center"
+   ],
+   "id": "planting_garden#1"
+  },
+  {
+   "content_key": "playing_music",
+   "kind": "experience",
+   "activity": "learning to play a musical instrument",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community center",
+    "at a grandparent's house",
+    "at a music teacher's studio",
+    "at home"
+   ],
+   "id": "playing_music#1"
+  },
+  {
+   "content_key": "playing_sports",
+   "kind": "experience",
+   "activity": "playing on a sports team for the season",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community center",
+    "at a public park",
+    "at a swimming pool",
+    "at an ice rink"
+   ],
+   "id": "playing_sports#1"
+  },
+  {
+   "content_key": "power_cut",
+   "kind": "experience",
+   "activity": "getting through an evening power cut at home",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a farmhouse",
+    "at a grandparent's house",
+    "at a neighbor's house",
+    "at home"
+   ],
+   "id": "power_cut#1"
+  },
+  {
+   "content_key": "propaganda_persuasion",
+   "kind": "exposure",
+   "activity": "persuasion techniques such as bandwagon appeals, loaded words and celebrity testimonials used in ads and propaganda",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a shopping mall",
+    "at school",
+    "at the library"
+   ],
+   "id": "propaganda_persuasion#1"
+  },
+  {
+   "content_key": "puberty",
+   "kind": "experience",
+   "activity": "noticing the changes of growing up and puberty",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a friend's house",
+    "at a pharmacy",
+    "at home"
+   ],
+   "id": "puberty#1"
+  },
+  {
+   "content_key": "religious_cultural_event",
+   "kind": "experience",
+   "activity": "attending a religious or cultural celebration with family",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community hall",
+    "at a cultural center",
+    "at a family gathering",
+    "at a grandparent's house"
+   ],
+   "id": "religious_cultural_event#1"
+  },
+  {
+   "content_key": "school_dance",
+   "kind": "experience",
+   "activity": "going to a first school dance",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a clothing store",
+    "at a friend's house",
+    "at home",
+    "in a family group chat"
+   ],
+   "id": "school_dance#1"
+  },
+  {
+   "content_key": "school_trip",
+   "kind": "experience",
+   "activity": "going on a school field trip with the class",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a farm",
+    "at a fire station",
+    "at a historic site",
+    "at a museum"
+   ],
+   "id": "school_trip#1"
+  },
+  {
+   "content_key": "science_fair",
+   "kind": "experience",
+   "activity": "building a project for the school science fair",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a hardware store",
+    "at a kitchen table",
+    "at a public library",
+    "at home"
+   ],
+   "id": "science_fair#1"
+  },
+  {
+   "content_key": "sleepover",
+   "kind": "experience",
+   "activity": "going to a first sleepover at a friend's house",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a cousin's house",
+    "at a friend's house",
+    "at home",
+    "in a backyard tent"
+   ],
+   "id": "sleepover#1"
+  },
+  {
+   "content_key": "snow_day",
+   "kind": "experience",
+   "activity": "spending a surprise snow day at home",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a neighbor's house",
+    "at a public park",
+    "at a sledding hill",
+    "at home"
+   ],
+   "id": "snow_day#1"
+  },
+  {
+   "content_key": "sports_statistics",
+   "kind": "exposure",
+   "activity": "the way averages, percentages and rankings in sports and news compress many events into one number",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a basketball game",
+    "at a computer at home",
+    "at a hockey rink",
+    "at a sports bar with family"
+   ],
+   "id": "sports_statistics#1"
+  },
+  {
+   "content_key": "summer_camp",
+   "kind": "experience",
+   "activity": "going away to summer camp for the first time",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "around a campfire",
+    "at a canoe launch",
+    "at a lakeside dock",
+    "at a summer camp"
+   ],
+   "id": "summer_camp#1"
+  },
+  {
+   "content_key": "supply_demand_prices",
+   "kind": "exposure",
+   "activity": "the idea that prices rise when many people want something scarce and fall when it is plentiful",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a concert ticket line",
+    "at a farmers' market",
+    "at a garage sale",
+    "at a gas station"
+   ],
+   "id": "supply_demand_prices#1"
+  },
+  {
+   "content_key": "team_tryout",
+   "kind": "experience",
+   "activity": "trying out for a school sports team",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a running track",
+    "at a swimming pool",
+    "at an ice rink",
+    "at home"
+   ],
+   "id": "team_tryout#1"
+  },
+  {
+   "content_key": "volunteering",
+   "kind": "experience",
+   "activity": "volunteering at a community food bank for the first time",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community food bank",
+    "at a community garden",
+    "at a neighborhood cleanup",
+    "at a public library"
+   ],
+   "id": "volunteering#1"
+  },
+  {
+   "content_key": "watching_sports",
+   "kind": "experience",
+   "activity": "watching a big game with family and friends",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community sports field",
+    "at a grandparent's house",
+    "at a neighbor's house",
+    "at a restaurant with a big screen"
+   ],
+   "id": "watching_sports#1"
+  }
+ ]
+}

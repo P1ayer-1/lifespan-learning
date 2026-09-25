@@ -1,0 +1,162 @@
+{
+ "part": 6,
+ "phase": 6,
+ "activities": [
+  {
+   "id": "learning_to_code#2",
+   "content_key": "learning_to_code",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to implement a binary search and explain why it beats a linear search on sorted data",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coding club meeting",
+    "at a grandparent's house",
+    "at a robotics competition",
+    "at a summer camp"
+   ]
+  },
+  {
+   "id": "learning_writing#1",
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "12-13",
+   "activity": "to write a critical review comparing two scholarly articles on the same question",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "learning_writing#2",
+   "content_key": "learning_writing",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "12-13",
+   "activity": "to write a research paper with an argument, footnotes and a bibliography in a standard citation style",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a writing club meeting",
+    "at home",
+    "at school"
+   ]
+  },
+  {
+   "id": "long_term_consequence_patterns#1",
+   "content_key": "long_term_consequence_patterns",
+   "kind": "exposure",
+   "activity": "the idea that present decisions can connect to consequences years in the future",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a university open house",
+    "at an after-school job",
+    "at home"
+   ]
+  },
+  {
+   "id": "media_ownership#1",
+   "content_key": "media_ownership",
+   "kind": "exposure",
+   "activity": "the idea that news outlets are owned by companies or people whose interests can shape coverage",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a coffee shop",
+    "at a computer at home",
+    "at a student newspaper office",
+    "at the dinner table"
+   ]
+  },
+  {
+   "id": "mortgages_and_rent#1",
+   "content_key": "mortgages_and_rent",
+   "kind": "exposure",
+   "activity": "how rent, mortgages, deposits and down payments work when someone pays for a place to live",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a computer at home",
+    "at a friend's apartment",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "moving_to_new_town#1",
+   "content_key": "moving_to_new_town",
+   "kind": "experience",
+   "activity": "moving to a new town and leaving old friends behind",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a farewell party",
+    "at a new school",
+    "at home",
+    "in a moving truck"
+   ]
+  },
+  {
+   "id": "opportunity_cost#1",
+   "content_key": "opportunity_cost",
+   "kind": "exposure",
+   "activity": "the idea of opportunity cost, that choosing one thing means giving up the next best alternative",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a car dealership",
+    "at a coffee shop",
+    "at a part-time job",
+    "at a shopping mall"
+   ]
+  },
+  {
+   "id": "playing_music#1",
+   "content_key": "playing_music",
+   "kind": "experience",
+   "activity": "learning to play a musical instrument",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community center",
+    "at a grandparent's house",
+    "at a music teacher's studio",
+    "at home"
+   ]
+  },
+  {
+   "id": "playing_sports#1",
+   "content_key": "playing_sports",
+   "kind": "experience",
+   "activity": "playing on a sports team for the season",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community center",
+    "at a public park",
+    "at a swimming pool",
+    "at an ice rink"
+   ]
+  }
+ ]
+}

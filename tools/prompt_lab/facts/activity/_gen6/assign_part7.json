@@ -1,0 +1,126 @@
+{
+ "part": 7,
+ "phase": 6,
+ "activities": [
+  {
+   "id": "polls_uncertainty#1",
+   "content_key": "polls_uncertainty",
+   "kind": "exposure",
+   "activity": "how a poll's margin of error and sample size limit what its numbers can say",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a campaign office",
+    "at a computer at home",
+    "at a polling station",
+    "at a student newspaper office"
+   ]
+  },
+  {
+   "id": "professional_communication_norms#1",
+   "content_key": "professional_communication_norms",
+   "kind": "exposure",
+   "activity": "professional tone, structured writing and respectful disagreement in formal communication",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a job interview",
+    "at a part-time job",
+    "at a volunteer office"
+   ]
+  },
+  {
+   "id": "religious_cultural_event#1",
+   "content_key": "religious_cultural_event",
+   "kind": "experience",
+   "activity": "attending a religious or cultural celebration with family",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community hall",
+    "at a cultural center",
+    "at a family gathering",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "scientific_consensus#1",
+   "content_key": "scientific_consensus",
+   "kind": "exposure",
+   "activity": "the idea that scientific consensus forms through repeated studies, peer review and replication rather than one result",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a doctor's office",
+    "at a museum",
+    "at a science fair"
+   ]
+  },
+  {
+   "id": "systems_thinking_patterns#1",
+   "content_key": "systems_thinking_patterns",
+   "kind": "exposure",
+   "activity": "how social, economic and environmental systems influence one another",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a city council meeting",
+    "at a community garden",
+    "at a farm",
+    "at school"
+   ]
+  },
+  {
+   "id": "taxes#1",
+   "content_key": "taxes",
+   "kind": "exposure",
+   "activity": "how income tax, sales tax and deductions show up on paycheques, receipts and tax returns",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a computer at home",
+    "at a part-time job",
+    "at a restaurant"
+   ]
+  },
+  {
+   "id": "volunteering#1",
+   "content_key": "volunteering",
+   "kind": "experience",
+   "activity": "volunteering at a community food bank for the first time",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community food bank",
+    "at a community garden",
+    "at a neighborhood cleanup",
+    "at a public library"
+   ]
+  },
+  {
+   "id": "watching_sports#1",
+   "content_key": "watching_sports",
+   "kind": "experience",
+   "activity": "watching a big game with family and friends",
+   "tiers": [
+    13
+   ],
+   "example_settings": [
+    "at a community sports field",
+    "at a grandparent's house",
+    "at a neighbor's house",
+    "at a restaurant with a big screen"
+   ]
+  }
+ ]
+}

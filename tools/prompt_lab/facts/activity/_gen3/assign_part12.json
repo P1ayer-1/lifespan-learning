@@ -1,0 +1,171 @@
+{
+ "part": 12,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "power_cut#1",
+   "content_key": "power_cut",
+   "kind": "experience",
+   "activity": "getting through an evening power cut at home",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a farmhouse",
+    "at a grandparent's house",
+    "at a neighbor's house",
+    "at home"
+   ]
+  },
+  {
+   "id": "propaganda_persuasion#1",
+   "content_key": "propaganda_persuasion",
+   "kind": "exposure",
+   "activity": "persuasion techniques such as bandwagon appeals, loaded words and celebrity testimonials used in ads and propaganda",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a computer at home",
+    "at a shopping mall",
+    "at school",
+    "at the library"
+   ]
+  },
+  {
+   "id": "puberty#1",
+   "content_key": "puberty",
+   "kind": "experience",
+   "activity": "noticing the changes of growing up and puberty",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a doctor's office",
+    "at a friend's house",
+    "at a pharmacy",
+    "at home"
+   ]
+  },
+  {
+   "id": "religious_cultural_event#1",
+   "content_key": "religious_cultural_event",
+   "kind": "experience",
+   "activity": "attending a religious or cultural celebration with family",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community hall",
+    "at a cultural center",
+    "at a family gathering",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "school_dance#1",
+   "content_key": "school_dance",
+   "kind": "experience",
+   "activity": "going to a first school dance",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a clothing store",
+    "at a friend's house",
+    "at home",
+    "in a family group chat"
+   ]
+  },
+  {
+   "id": "school_trip#1",
+   "content_key": "school_trip",
+   "kind": "experience",
+   "activity": "going on a school field trip with the class",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a farm",
+    "at a fire station",
+    "at a historic site",
+    "at a museum"
+   ]
+  },
+  {
+   "id": "science_fair#1",
+   "content_key": "science_fair",
+   "kind": "experience",
+   "activity": "building a project for the school science fair",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a hardware store",
+    "at a kitchen table",
+    "at a public library",
+    "at home"
+   ]
+  },
+  {
+   "id": "sleepover#1",
+   "content_key": "sleepover",
+   "kind": "experience",
+   "activity": "going to a first sleepover at a friend's house",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a cousin's house",
+    "at a friend's house",
+    "at home",
+    "in a backyard tent"
+   ]
+  },
+  {
+   "id": "snow_day#1",
+   "content_key": "snow_day",
+   "kind": "experience",
+   "activity": "spending a surprise snow day at home",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a neighbor's house",
+    "at a public park",
+    "at a sledding hill",
+    "at home"
+   ]
+  },
+  {
+   "id": "sports_statistics#1",
+   "content_key": "sports_statistics",
+   "kind": "exposure",
+   "activity": "the way averages, percentages and rankings in sports and news compress many events into one number",
+   "tiers": [
+    7,
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a basketball game",
+    "at a computer at home",
+    "at a hockey rink",
+    "at a sports bar with family"
+   ]
+  }
+ ]
+}

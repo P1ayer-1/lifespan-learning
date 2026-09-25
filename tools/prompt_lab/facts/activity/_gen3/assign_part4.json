@@ -1,0 +1,181 @@
+{
+ "part": 4,
+ "phase": 3,
+ "activities": [
+  {
+   "id": "learning_cooking#4",
+   "content_key": "learning_cooking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to chop an onion safely with the claw grip and make a pasta sauce from scratch",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a campsite",
+    "at a community kitchen",
+    "at a farmers' market",
+    "at a friend's house"
+   ]
+  },
+  {
+   "id": "learning_drama_speaking#1",
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to perform a monologue from a play using pauses and gestures to show emotion",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_drama_speaking#2",
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to build a debate case with a claim, evidence and a warrant for each point",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_drama_speaking#3",
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to give a two-minute speech with an opening hook, three points and a closing",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_drama_speaking#4",
+   "content_key": "learning_drama_speaking",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to improvise a scene with a partner by accepting each offer with yes, and",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a community theatre",
+    "at a debate tournament",
+    "at a drama camp",
+    "at a grandparent's house"
+   ]
+  },
+  {
+   "id": "learning_earth_space#1",
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to explain the phases of the Moon by modelling it circling Earth with a lamp and a ball",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_earth_space#2",
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "8-9",
+   "activity": "to explain how a river carves a canyon over millions of years through erosion and deposition",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_earth_space#3",
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "6-7",
+   "activity": "to sort rocks as igneous, sedimentary or metamorphic by how they were formed",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_earth_space#4",
+   "content_key": "learning_earth_space",
+   "kind": "arc",
+   "level": "basic_learning",
+   "band": "8-9",
+   "activity": "to explain how the tilt of Earth's axis causes the seasons",
+   "tiers": [
+    8,
+    9
+   ],
+   "example_settings": [
+    "at a grandparent's house",
+    "at a planetarium",
+    "at a rock quarry",
+    "at a science museum"
+   ]
+  },
+  {
+   "id": "learning_economics_money#1",
+   "content_key": "learning_economics_money",
+   "kind": "arc",
+   "level": "advanced_learning",
+   "band": "6-7",
+   "activity": "to compare the cost of borrowing money on a credit card with saving up first",
+   "tiers": [
+    7
+   ],
+   "example_settings": [
+    "at a bank",
+    "at a farmers' market",
+    "at a grandparent's house",
+    "at a lemonade stand"
+   ]
+  }
+ ]
+}
