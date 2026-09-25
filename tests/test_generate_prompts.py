@@ -366,6 +366,10 @@ def test_render_with_and_without_fact():
     assert 'this real fact: "Doubling a recipe doubles every ingredient."' in with_fact
     assert "a cake for twice the guests" in with_fact
     assert "Keep the fact accurate as stated" in with_fact
+    # a fact must come through whole, and any word it names must be said
+    assert "Every part of the fact must come through" in with_fact
+    assert "a character says that exact word" in with_fact
+    assert "Every part of the fact must come through" not in without
     # older phases carry the scene rule and reader assumption; phase 0 does not
     assert "No paragraph is pure reflection" in with_fact
     base0 = {**base, "phase": 0, "age": 4, "framing": reading_level.framing_for(0), "reading_level": reading_level.reading_level_for(0)}

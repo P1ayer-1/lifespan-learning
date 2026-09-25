@@ -115,7 +115,10 @@ def _knowledge_block(cfg: PromptConfig) -> str:
             f"{name} uses it, discovers it, or gets it wrong and finds out. Requirements:\n"
             "- Keep the fact accurate as stated: every number, direction and comparison in it stays exactly as given. "
             "Do not explain why it is true, and do not add mechanisms, numbers, dates or causes beyond it; "
-            "the story shows the fact in action, nothing more."
+            "the story shows the fact in action, nothing more.\n"
+            "- Every part of the fact must come through: a listener who knew nothing else could learn the whole fact from the story.\n"
+            "- If the fact gives something a name or a word (\"called ...\", \"... are opposites\", \"... means ...\"), "
+            "a character says that exact word in a short, natural line of dialogue; that one line is not an explanation."
         )
     else:
         head = (

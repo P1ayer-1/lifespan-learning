@@ -16,7 +16,9 @@ Activity facts: facts/activity/_gen/part{k}.json + facts/activity/_verify/part{k
   and add them, each tagged with its content_key, to facts/phase_0.json next to
   the domain facts already there (earlier activity facts are replaced). Warns
   about any activity in facts/activity/phase_0_activities.json left with fewer
-  than MIN_ACTIVITY_FACTS facts.
+  than MIN_ACTIVITY_FACTS facts. facts/activity/revisions.json then retires
+  facts that failed corpus review and swaps in rewordings that
+  facts/activity/_verify/revisions.json marks true.
 
 Usage:
     python merge_builds.py lexicons
@@ -101,6 +103,42 @@ def merge_facts() -> None:
 MIN_ACTIVITY_FACTS = 6
 
 
+def _apply_revisions(keep: list[dict], act_dir: Path, lines: list[str]) -> list[dict]:
+    """Retire and reword verified facts per facts/activity/revisions.json.
+
+    A reword replaces its "from" fact only when _verify/revisions.json marks it
+    true; otherwise the old fact is dropped, since it was revised for failing.
+    Entries that match no kept fact are reported, not ignored silently.
+    """
+    src = act_dir / "revisions.json"
+    if not src.exists():
+        return keep
+    rev = json.loads(src.read_text(encoding="utf-8"))
+    ver_path = act_dir / "_verify" / "revisions.json"
+    verdicts = {int(x["i"]): x["verdict"] for x in json.loads(ver_path.read_text(encoding="utf-8"))} if ver_path.exists() else {}
+    retire = {(r["content_key"], r["fact"]) for r in rev.get("retire", [])}
+    reword = {(r["content_key"], r["from"]): (i, r) for i, r in enumerate(rev.get("reword", []))}
+    out, hit, counts = [], set(), Counter()
+    for f in keep:
+        key = (f["content_key"], f["fact"])
+        if key in retire:
+            hit.add(key)
+            counts["retired"] += 1
+        elif key in reword:
+            hit.add(key)
+            i, r = reword[key]
+            if verdicts.get(i) == "true":
+                out.append({"content_key": r["content_key"], "fact": r["fact"].strip(), "hook": r.get("hook", "").strip()})
+                counts["reworded"] += 1
+            else:
+                counts["reword_unverified_dropped"] += 1
+        else:
+            out.append(f)
+    missing = (retire | set(reword)) - hit
+    lines.append(f"revisions: {dict(counts)}" + (f"; not found: {sorted(missing)}" if missing else ""))
+    return out
+
+
 def merge_activity_facts() -> None:
     act_dir, out = HERE / "facts" / "activity", HERE / "facts" / "phase_0.json"
     activities = [a["content_key"] for a in json.loads((act_dir / "phase_0_activities.json").read_text(encoding="utf-8"))["activities"]]
@@ -117,6 +155,7 @@ def merge_activity_facts() -> None:
         lines.append(f"{g.name}: {len(facts)} generated, verdicts {dict(part_counts)}")
         keep += [{"content_key": f["content_key"], "fact": f["fact"].strip(), "hook": f.get("hook", "").strip()}
                  for i, f in enumerate(facts) if verdicts.get(i) == "true" and f.get("fact") and f.get("content_key") in activities]
+    keep = _apply_revisions(keep, act_dir, lines)
     bank = json.loads(out.read_text(encoding="utf-8"))
     bank["facts"] = [f for f in bank["facts"] if not f.get("content_key")] + keep
     out.write_text(json.dumps(bank, indent=1, ensure_ascii=False), encoding="utf-8")

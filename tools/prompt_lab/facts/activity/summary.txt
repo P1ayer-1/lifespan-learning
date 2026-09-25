@@ -4,5 +4,6 @@ part2.json: 120 generated, verdicts {'true': 112, 'false': 8}
 part3.json: 120 generated, verdicts {'true': 114, 'false': 6}
 part4.json: 108 generated, verdicts {'true': 99, 'false': 9}
 part5.json: 108 generated, verdicts {'true': 103, 'false': 5}
-kept 640 activity facts for 58/58 activities; verdicts {'true': 640, 'false': 56}
+revisions: {'retired': 12, 'reworded': 4}
+kept 628 activity facts for 58/58 activities; verdicts {'true': 640, 'false': 56}
 activities under 6 facts: none

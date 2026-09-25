@@ -1,0 +1,95 @@
+{
+ "note": "Applied by merge_builds.py activity-facts after the verdict filter. Evidence: the Opus fact-check and age-fit reviews of the 2026-09-24 tier-0 corpus with activity facts (data/tier0/quality). A reworded fact ships only if _verify/revisions.json marks it true.",
+ "retire": [
+  {
+   "content_key": "learning_reading",
+   "fact": "The English alphabet has 26 letters.",
+   "why": "3 fails in 2 stories: counting to twenty-six leads to rambling letter-by-letter talk and a wrong letter shape"
+  },
+  {
+   "content_key": "learning_reading",
+   "fact": "The lowercase letters b and d look alike but face opposite ways.",
+   "why": "3 fails in 2 stories: letter-reversal reading is beyond a 3-year-old and the generator mixes capitals and lowercase"
+  },
+  {
+   "content_key": "print_concepts",
+   "fact": "Some languages, like Arabic and Hebrew, are read from right to left.",
+   "why": "3 fails in 3 stories: contradicts the activity's front-to-back idea, and the generator treats the book as upside down"
+  },
+  {
+   "content_key": "time_words",
+   "fact": "After you sleep tonight and wake up, today will be called yesterday.",
+   "why": "2 age fails in 4 stories: a riddle a 3-5-year-old cannot follow"
+  },
+  {
+   "content_key": "time_words",
+   "fact": "A week has seven days.",
+   "why": "week facts failed 7 times in 9 stories: the generator counts seven fingers on one hand or treats seven as the days until Saturday"
+  },
+  {
+   "content_key": "calendar_words",
+   "fact": "A week has seven days.",
+   "why": "same fact and hook pattern as the failing week facts"
+  },
+  {
+   "content_key": "grandparent_visit",
+   "fact": "A week has seven days.",
+   "why": "2 age fails in 6 stories: abstract day counting"
+  },
+  {
+   "content_key": "number_words",
+   "fact": "There are seven days in a week.",
+   "why": "5 fails in 3 stories: seven fingers on one hand, seven days until Saturday"
+  },
+  {
+   "content_key": "learning_writing",
+   "fact": "The letters of your name always go in the same order.",
+   "why": "2 fails in 1 story: spelling a name letter by letter produces wrong spellings"
+  },
+  {
+   "content_key": "playing_sports",
+   "fact": "A season is all the practices and games a team plays from start to end.",
+   "why": "2 fails in 2 stories: too abstract to show; the word is never used"
+  },
+  {
+   "content_key": "object_categories",
+   "fact": "One thing can belong to more than one group, like an apple is a food and also a fruit.",
+   "why": "2 age fails in 3 stories: category overlap is too abstract for age 3"
+  },
+  {
+   "content_key": "learning_math",
+   "fact": "Lining two groups up side by side, one across from one, shows which has more: the group with some left over.",
+   "why": "2 fails in 1 story: the generator miscounts after moving blocks between groups"
+  }
+ ],
+ "reword": [
+  {
+   "content_key": "time_words",
+   "from": "A day goes from morning, to afternoon, to evening, to night.",
+   "fact": "Morning is the part of the day when we wake up and eat breakfast.",
+   "hook": "A child wakes up, sees the family at the breakfast table, and says good morning.",
+   "why": "3 fails in 4 stories: four parts in one fact, stories cover only some, and the old hook invites sun-position reasoning"
+  },
+  {
+   "content_key": "playing_sports",
+   "from": "In soccer, a team scores by getting the ball into the other team's goal.",
+   "fact": "In soccer, players try to get the ball into the net to score a goal.",
+   "hook": "A child kicks the ball, it rolls into the net, and everyone shouts \"Goal!\"",
+   "why": "3 fails in 2 stories: \"the other team's goal\" makes the generator call the scoring net the wrong one"
+  },
+  {
+   "content_key": "watching_sports",
+   "from": "In soccer, a team scores a goal by getting the ball into the other team's net.",
+   "fact": "In soccer, players try to get the ball into the net to score a goal.",
+   "hook": "A child watching soccer thinks the ball has to go over the net, then sees it go in and everyone cheers \"Goal!\"",
+   "why": "2 fails in 2 stories: same \"other team's net\" confusion"
+  },
+  {
+   "content_key": "planting_garden",
+   "from": "Seeds need water to start growing.",
+   "fact": "Seeds need water to start growing, and a sprout does not come up right away.",
+   "hook": "A child waters seeds, finds only dirt the next morning, keeps watering, and one day a sprout appears.",
+   "why": "3 fails in 3 stories: two had the sprout come up the next morning"
+  }
+ ]
+}

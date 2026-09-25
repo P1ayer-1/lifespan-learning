@@ -1186,11 +1186,6 @@
   },
   {
    "content_key": "learning_reading",
-   "fact": "The English alphabet has 26 letters.",
-   "hook": "A child counts the letters on the classroom alphabet chart and is amazed to get all the way to twenty-six."
-  },
-  {
-   "content_key": "learning_reading",
    "fact": "The alphabet starts with the letter A and ends with the letter Z.",
    "hook": "A child thinks the alphabet ends at the letter P until they finish the song and reach Z."
   },
@@ -1208,11 +1203,6 @@
    "content_key": "learning_reading",
    "fact": "A person's name is written with a capital letter at the start.",
    "hook": "A child writes their name with a small first letter and then fixes it with a big capital one."
-  },
-  {
-   "content_key": "learning_reading",
-   "fact": "The lowercase letters b and d look alike but face opposite ways.",
-   "hook": "A child reads 'dog' as 'bog' and giggles, then checks which way the round part of the letter faces."
   },
   {
    "content_key": "learning_reading",
@@ -1331,8 +1321,8 @@
   },
   {
    "content_key": "planting_garden",
-   "fact": "Seeds need water to start growing.",
-   "hook": "A child plants seeds and forgets to water them, then learns why nothing is happening and gets the watering can."
+   "fact": "Seeds need water to start growing, and a sprout does not come up right away.",
+   "hook": "A child waters seeds, finds only dirt the next morning, keeps watering, and one day a sprout appears."
   },
   {
    "content_key": "planting_garden",
@@ -1401,11 +1391,6 @@
   },
   {
    "content_key": "print_concepts",
-   "fact": "Some languages, like Arabic and Hebrew, are read from right to left.",
-   "hook": "A friend at daycare shows a book that opens the other way, and a child learns it is written in Hebrew."
-  },
-  {
-   "content_key": "print_concepts",
    "fact": "In English, there is a space between one word and the next.",
    "hook": "A child writes a note with all the letters squished together, then adds spaces so Grandpa can read it."
   },
@@ -1441,11 +1426,6 @@
   },
   {
    "content_key": "time_words",
-   "fact": "After you sleep tonight and wake up, today will be called yesterday.",
-   "hook": "At bedtime, a child wonders where today goes, and Dad explains that tomorrow it will be called yesterday."
-  },
-  {
-   "content_key": "time_words",
    "fact": "Now means at this very moment.",
    "hook": "A child asks for a story now, and the teacher says the story is not now, it is after snack."
   },
@@ -1461,13 +1441,8 @@
   },
   {
    "content_key": "time_words",
-   "fact": "A day goes from morning, to afternoon, to evening, to night.",
-   "hook": "A child thinks it is morning after a nap, and Grandma explains it is afternoon now."
-  },
-  {
-   "content_key": "time_words",
-   "fact": "A week has seven days.",
-   "hook": "A child counts the days on their fingers to see how long a week is and runs out of one hand."
+   "fact": "Morning is the part of the day when we wake up and eat breakfast.",
+   "hook": "A child wakes up, sees the family at the breakfast table, and says good morning."
   },
   {
    "content_key": "time_words",
@@ -2001,8 +1976,8 @@
   },
   {
    "content_key": "watching_sports",
-   "fact": "In soccer, a team scores a goal by getting the ball into the other team's net.",
-   "hook": "A child watching soccer thinks the ball has to go over the net, then learns it goes in."
+   "fact": "In soccer, players try to get the ball into the net to score a goal.",
+   "hook": "A child watching soccer thinks the ball has to go over the net, then sees it go in and everyone cheers \"Goal!\""
   },
   {
    "content_key": "watching_sports",
@@ -2033,11 +2008,6 @@
    "content_key": "watching_sports",
    "fact": "In soccer and basketball, the referee blows a whistle to stop play.",
    "hook": "A child hears the whistle and wonders why all the players stopped running."
-  },
-  {
-   "content_key": "calendar_words",
-   "fact": "A week has seven days.",
-   "hook": "A child counts the sleeps until a party and learns the week has seven days, starting again after Sunday."
   },
   {
    "content_key": "calendar_words",
@@ -2326,11 +2296,6 @@
   },
   {
    "content_key": "learning_writing",
-   "fact": "The letters of your name always go in the same order.",
-   "hook": "A child mixes up two letters in their name and checks the name card to fix it."
-  },
-  {
-   "content_key": "learning_writing",
    "fact": "An eraser can rub out a pencil mark you want to fix.",
    "hook": "A child makes a wobbly letter and uses an eraser to try again."
   },
@@ -2436,11 +2401,6 @@
   },
   {
    "content_key": "playing_sports",
-   "fact": "A season is all the practices and games a team plays from start to end.",
-   "hook": "A child asks when the season ends, and the family counts the games left on the schedule."
-  },
-  {
-   "content_key": "playing_sports",
    "fact": "Practice is when a team learns skills and gets ready for games.",
    "hook": "A child wants to skip practice, then sees how practice helped them catch the ball."
   },
@@ -2461,8 +2421,8 @@
   },
   {
    "content_key": "playing_sports",
-   "fact": "In soccer, a team scores by getting the ball into the other team's goal.",
-   "hook": "A child kicks toward their own goal by mistake, then turns around."
+   "fact": "In soccer, players try to get the ball into the net to score a goal.",
+   "hook": "A child kicks the ball, it rolls into the net, and everyone shouts \"Goal!\""
   },
   {
    "content_key": "playing_sports",
@@ -2781,11 +2741,6 @@
   },
   {
    "content_key": "learning_math",
-   "fact": "Lining two groups up side by side, one across from one, shows which has more: the group with some left over.",
-   "hook": "Two children argue over who has more blocks, so they line them up in pairs and see whose row is longer."
-  },
-  {
-   "content_key": "learning_math",
    "fact": "Two groups have the same number when each object in one group can be matched with one object in the other.",
    "hook": "A child puts one cup in front of each chair at the table and finds there is exactly one for everyone."
   },
@@ -2963,11 +2918,6 @@
    "content_key": "number_words",
    "fact": "A number word always means the same amount: 'three' always means three things.",
    "hook": "A child is told he can have three grapes and wonders if big grapes count differently."
-  },
-  {
-   "content_key": "number_words",
-   "fact": "There are seven days in a week.",
-   "hook": "A child wants to know how long until Saturday and counts the days of the week on her fingers."
   },
   {
    "content_key": "number_words",
@@ -3226,11 +3176,6 @@
   },
   {
    "content_key": "grandparent_visit",
-   "fact": "A week has seven days.",
-   "hook": "A child marks each day of Grandpa's visit on the calendar and counts to seven."
-  },
-  {
-   "content_key": "grandparent_visit",
    "fact": "Guests who come to stay pack their clothes and things in a suitcase or bag.",
    "hook": "A child helps pull Grandma's suitcase in from the car and wonders what is inside."
   },
@@ -3468,11 +3413,6 @@
    "content_key": "object_categories",
    "fact": "A toy dog is a toy, not an animal, because it is not alive.",
    "hook": "A child puts the stuffed dog in the animal pile, then thinks again."
-  },
-  {
-   "content_key": "object_categories",
-   "fact": "One thing can belong to more than one group, like an apple is a food and also a fruit.",
-   "hook": "Two children argue whether the apple goes with the fruits or the foods, and learn both are right."
   },
   {
    "content_key": "object_categories",
