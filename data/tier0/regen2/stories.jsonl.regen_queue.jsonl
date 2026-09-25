@@ -1,0 +1,2 @@
+{"prompt_hash": "65de75637114514f840ab89b1e64b63b93a474f58f6881da65c31e38751e2eed", "phase": 0, "verdict": "adds_false_claim", "reason": "'Then he hugged all ten toy animals together.' The story has five toy monkeys, so the count is wrong in a counting story."}
+{"prompt_hash": "919c1a9c7afc6b4b31fe3cd2db5f9977848f65445a0349ff752e1ee6365bcc0e", "phase": 0, "verdict": "adds_false_claim", "reason": "'A small green frog sat by the pond. It hopped away, hop, hop, hop.' In snowy weather frogs are hibernating, not hopping around by the pond."}

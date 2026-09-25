@@ -41,8 +41,18 @@ From `tools/prompt_lab/corpus_metrics.py` (previous corpus in brackets):
 
 ## Acceptance status
 
-**981/1,000 stories pass both gates.** The corpus is not yet fully accepted:
-19 stories have failed twice.
+**Accepted: 995 stories, every one passing both gates.** Five prompt
+configurations failed three rounds and were dropped from `full/stories.jsonl`
+(listed with their last reasons in `full/dropped.jsonl`; the manifest keeps
+all 1,000 prompts, so a generator resume would try them again). The queue
+files are empty.
+
+Regeneration round 2 (`regen2/`, 2026-09-25): the 19 twice-failed prompts got
+one more story each. Fact check 17/19, age fit 15/19, 14 both; the 14 replace
+their originals. The five dropped: a counting story that miscounts its toy
+monkeys, a snow-day frog, a school nap that turns into night, a picnic at a
+grandparent's grave, and a forced-word tangle. Four of the five failed for the
+same reason in all three rounds.
 
 First pass, both gates on Opus:
 
@@ -99,5 +109,6 @@ Against the three tier-0 corpora so far, all reviewed on Opus:
 - `_generation_model.json`: pinned model registry.
 - `quality/fact_check/`: fact-check review parts, Opus verdicts, `report.txt`.
 - `quality/age_check/`: age-fit review parts, Opus scores, `age_check.jsonl`, `report.txt`.
-- `regen1/`: regeneration round 1: the 103 prompts, their new stories and
-  provider cache, and both gates' reviews in `regen1/quality/`.
+- `full/dropped.jsonl`: the five prompts dropped after three failed rounds.
+- `regen1/`, `regen2/`: regeneration rounds: the 103 prompts, their new stories and
+  provider caches, and both gates' reviews in `regenN/quality/`.

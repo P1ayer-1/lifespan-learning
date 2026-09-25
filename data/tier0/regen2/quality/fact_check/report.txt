@@ -1,0 +1,2 @@
+19 stories, 19 verdicts, 0 unverified, 2 queued for regeneration -> stories.jsonl.regen_queue.jsonl
+phase 0: pass 17/19 adds_false_claim=2
