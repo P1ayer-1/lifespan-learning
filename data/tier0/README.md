@@ -41,13 +41,30 @@ From `tools/prompt_lab/corpus_metrics.py` (previous corpus in brackets):
 
 ## Acceptance status
 
-Both gates ran on Opus. This corpus is **not yet accepted for training**:
-failing hashes must be regenerated first.
+**981/1,000 stories pass both gates.** The corpus is not yet fully accepted:
+19 stories have failed twice.
+
+First pass, both gates on Opus:
 
 - Fact check: 956/1,000 pass (37 adds_false_claim, 3 contradicts_fact, 4 fact_missing)
 - Age fit: 928/1,000 pass (score 1: 1, 2: 71, 3: 787, 4: 141)
-- Regeneration queues: 44 fact + 72 age, 13 in both, 103 stories in total
-  (`full/stories.jsonl.regen_queue.jsonl`, `full/stories.jsonl.age_regen_queue.jsonl`)
+- 103 stories failed at least one gate (44 fact, 72 age, 13 both)
+
+Regeneration round 1 (`regen1/`, 2026-09-25): the 103 prompts, unchanged,
+got one fresh story each ($0.09 at list rates; a separate output path, because
+the provider cache would otherwise return the old story for the same hash).
+Both gates ran again on Opus:
+
+- Fact check: 91/103 pass (11 adds_false_claim, 1 contradicts_fact)
+- Age fit: 94/103 pass (score 1: 1, 2: 8, 3: 86, 4: 8)
+- 84/103 now pass both; 19 fail again (12 fact, 9 age, 2 both). 9 of the 12
+  fact fails and all 9 age fails failed the same gate the first time, so these
+  configurations are hard for the generator, not unlucky.
+
+All 103 new stories replaced their originals in `full/stories.jsonl`, and the
+queue files there now list only the 19 still failing (verdicts and reasons in
+`regen1/quality/`). For those 103 hashes, `regen1/quality/` supersedes the
+first-pass reviews in `quality/`.
 
 Against the three tier-0 corpora so far, all reviewed on Opus:
 
@@ -82,3 +99,5 @@ Against the three tier-0 corpora so far, all reviewed on Opus:
 - `_generation_model.json`: pinned model registry.
 - `quality/fact_check/`: fact-check review parts, Opus verdicts, `report.txt`.
 - `quality/age_check/`: age-fit review parts, Opus scores, `age_check.jsonl`, `report.txt`.
+- `regen1/`: regeneration round 1: the 103 prompts, their new stories and
+  provider cache, and both gates' reviews in `regen1/quality/`.
