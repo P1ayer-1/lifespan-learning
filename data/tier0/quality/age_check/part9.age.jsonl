@@ -1,40 +1,40 @@
-{"prompt_hash": "a9c2422bf9af7ec8de3e57ddfb3f352bcec65f0835455eebf6cfbf932ba26609", "score": 3, "reason": "Short concrete sentences and a clear label-the-rows problem a 4-year-old can follow."}
-{"prompt_hash": "b23c6c01e046f33a0cc20da66b5792709c0bd736149ab11fc4b766739d2a48a5", "score": 3, "reason": "Simple and safe, though the stove paragraph ('Two different things.') is a disconnected aside."}
-{"prompt_hash": "57ad71296a9cd9557938a0b3c43a6bb5fcfc5460b0bc5eeda1e2a6a1a8fe5179", "score": 3, "reason": "Short sentences and a gentle retry arc; the notes-on-lines idea is a little abstract but shown concretely."}
-{"prompt_hash": "7390e29c295be2b0f7c2165cf0df4ed287d347d8b8e6ac54322d71b897213867", "score": 3, "reason": "Concrete front-to-back and name-recognition moments; the plot wanders a little between them."}
-{"prompt_hash": "dcc6aa00c61355afc53c42cb61e008e8398ba88ab0de0cf90f8a4b61ee3fe3e1", "score": 3, "reason": "Warm, simple pool story; one long tacked-on towel sentence."}
-{"prompt_hash": "68a704dcfaa7b9ea646b9282b7507f5d8b53d61a52692f0d52e87481b4b72e9e", "score": 3, "reason": "Followable referee story; the 'smelly old zebra' line is forced and the foul rule is slightly abstract."}
-{"prompt_hash": "e47bf7e686433d9141bc0d5e16aa514a30dd0e7cda2c3a9b9cd434a30c2271ab", "score": 3, "reason": "Clear check-if-hot safety lesson shown through action; Mama's 'Ouch' is slightly confusing."}
-{"prompt_hash": "8f4bf7cbb454ca414cfe7cd2cb8694697d6d61896c20a3535de65233aac69971", "score": 4, "reason": ""}
-{"prompt_hash": "3252496bf84f99ea71d314fa22677de4abfcdbd29da1d7c285b45e0d61a45bde", "score": 3, "reason": "Simple booster-seat problem; the odd phrase 'Sienna climbed nothing at all' is a small minus."}
-{"prompt_hash": "dc39845d512d9f64d0276343d742fc401982a299aa4ebd04defd0d6d4010d412", "score": 3, "reason": "Playful peeking story in short sentences; 'did not skip the blessing' is slightly forced."}
-{"prompt_hash": "43e404b5cb4fa91da36437162de94dda8e0a52444eb0c62831be47ff17eb1fe7", "score": 3, "reason": "Simple search in three places; the sock detour muddies the plot slightly."}
-{"prompt_hash": "7009c201d2c48aa94c5f53fe5ef8153fee8688c6b07f9b960381be376d50fa17", "score": 3, "reason": "Gentle, concrete hand-washing after pet care; 'It did not hurt his hands' is forced."}
-{"prompt_hash": "5aa00eb71eead7e54e0e5311c5c749a8f1c892b6f5cd63bbac1c4258bb8f1abc", "score": 2, "reason": "Perspective reasoning too abstract for age 4: 'She walked far away from the clock. The clock looked small now, small like the button!', plus confusing 'a circle that was alive' and 'paid her one red crayon'."}
-{"prompt_hash": "f4ea8b442f0d8df34da3632d4db74ba3f1d41724c5fed83b181864c54d56832c", "score": 3, "reason": "Concrete dry-versus-wet snow problem; the ear-muff and 'Peek at me' ending is muddled."}
-{"prompt_hash": "ba8302b773f17bda215f8b76dea5de37d082d79f94974ee93d611667b7b40fad", "score": 3, "reason": "'Disc' is explained as 'flat like a little pancake'; simple cozy game-watching story."}
-{"prompt_hash": "70d7138cd0260a4e59a82aeae246066831a794b965bf2b69cef2f75a81b2d77c", "score": 4, "reason": ""}
-{"prompt_hash": "be3745a707448dba5ea18b588968e7348038727fe07cd82ef7d76112920ca509", "score": 3, "reason": "Senses shown concretely at the doctor; the unexplained bandage and tasting line are slightly confusing."}
-{"prompt_hash": "f06c3670bced399e3350aeffb471722f6d8947de29812c1357313599d24adcb7", "score": 4, "reason": ""}
-{"prompt_hash": "1e0301bf6b3d766daa4a7805b3fa4bca69fdec5c1d757bc37b72d932a3b0eb3c", "score": 3, "reason": "Simple color play with stop and go; the ending is a little loose."}
-{"prompt_hash": "053626c3f1f4f04ba4080d460dc19b56d65630e34a4081e35e2e816ad3165873", "score": 3, "reason": "Reassuring, quick shot scene in short sentences; the bear appears without introduction."}
-{"prompt_hash": "ac87f231762d5255db5b4ee6022508e1aa02d7799a05b1a1fa2ba85c96181ea0", "score": 4, "reason": ""}
-{"prompt_hash": "e2ff539128c9b78aa76bf7daf3961b2c4d4fc2f323a33331a039b82842152df0", "score": 3, "reason": "Simple party story; Ben's 'scared we were lost' and reading the card are a bit odd for age 3."}
-{"prompt_hash": "5e5c6e0826736cbd737731218dd412306ba0a4b3aa3b549cd7ea9f3d688963da", "score": 3, "reason": "Clear itchy-hair problem and fix; 'The sun did shine on the road' is forced."}
-{"prompt_hash": "550b954ac48f8062cabe639f760506e84db23dee0b7cfcc44ab4010f42d81098", "score": 3, "reason": "Concrete color mixing and stiff-brush problem; two problems make it a bit long for age 3."}
-{"prompt_hash": "c26ee082c3f9cc47f97d0842b92428d8cd4f035222ab7ba26309ffb0d9085750", "score": 3, "reason": "Concrete print-carries-meaning moments; episodic with filler (ball kick, spoon tracing)."}
-{"prompt_hash": "ee6aa4a0c153f599aaea5d709aa6ca4e22967480acbf505f1d5a2b835c519e89", "score": 4, "reason": ""}
-{"prompt_hash": "14026d6992c9dcbcc97c88ff3649614114d0cd444ebaeb6eedf3bf132b1aad5e", "score": 4, "reason": ""}
-{"prompt_hash": "efc3d6fcd66cd4a9fa57b3ef78dd464b50686a8256591af6715d0338742a82aa", "score": 2, "reason": "Garbled and scattered: 'He climbed no.', 'It is almost late for snack time', and a nose-hole mirror detour that breaks the plot."}
-{"prompt_hash": "d8f869a899edb2a20d5e598a736e27690b0ace44d84413aaf70dbe0ddda44bb3", "score": 3, "reason": "Simple line-up problem on the first day; 'stopped for a break' is forced."}
-{"prompt_hash": "d9ebf6f71f43efe21ad6a4f31112791d350379d2b663f3dd3e6ea1a464aea0de", "score": 3, "reason": "Concrete feel-bag game; 'fingers could not tell him the color' is slightly abstract."}
-{"prompt_hash": "be390e1d0fdb0ae5a9c821a41b3b2b9a7604c4c429bb4dff88488229d3d6bcea", "score": 3, "reason": "Simple bedtime routine; 'Where did my big energy come from?' is a slightly abstract line."}
-{"prompt_hash": "c1685e00704329d6378ec767e53d4ca786e909b5c6b947c4fc66c12b1236aee0", "score": 3, "reason": "Concrete flush-then-wash routine in short present-tense sentences."}
-{"prompt_hash": "84dddb02137095ba8af20224c45604451f7f95471eb3b8f8b598606dd715b255", "score": 4, "reason": ""}
-{"prompt_hash": "a86b12f90259e11dd03b8c539386268340ae7c04b35754d38a27122e963a9bdf", "score": 3, "reason": "Warm, concrete wash-then-hold story; the 'teacher... work hard' joke is a bit adult."}
-{"prompt_hash": "1d9cc3066bc682b3d26bde617c7e0c11bd6d70a32819979c47a2310cd6f0c3c4", "score": 3, "reason": "Senses shown through a cookie hunt; 'waited for her answer' and 'Right, not wrong' are forced."}
-{"prompt_hash": "24ca898581aa926a85f2f2ba4464ab37a143d4bbb7279c408cd24810b11cf48c", "score": 3, "reason": "Clear counting retry; the aside about Mia's big sister is irrelevant."}
-{"prompt_hash": "49f54262e44b89a508b5bb03a07df31192232c71f6ea8d873fc12fd23451fb57", "score": 3, "reason": "Stand-still-on-the-scale links neatly to the quick shot; comfortable read."}
-{"prompt_hash": "8565f8eab0ddb3c72ba54743f21b14f83cec2c4da8c2834a52a3c86d1b131a2c", "score": 4, "reason": ""}
-{"prompt_hash": "ffb02fedb9f462cdf02a846548235dfcecea6d13784e5f10b229e59bfa4b6c67", "score": 3, "reason": "Gentle shot story; 'protect your body' explanation is slightly abstract but brief."}
-{"prompt_hash": "807e015253ea102183451da2d3feae601b4452d9af1f88ae8af0ab9812ff71d1", "score": 4, "reason": ""}
+{"prompt_hash": "52b7eda88b3f10d59aa23de388a1e498eda3f78f610b6e618e0c845fb9490d5f", "score": 3, "reason": ""}
+{"prompt_hash": "04ef9c0e17eb3c6be41a426c1cf3f92e9942736c3ba9aaba7f352f8bd17df145", "score": 3, "reason": ""}
+{"prompt_hash": "e6755b9977f712df9768db348e74d9ea3c18a0b17ab00bcee38520f789683bb4", "score": 3, "reason": "Notes idea is a little abstract (\"Written music uses notes to show which sounds to play\") but it is shown through drum hits."}
+{"prompt_hash": "8dce6a6cd7a430bf1ce5776c3be80974dbfb88fb535f5ded68298f32a1b02f6f", "score": 3, "reason": ""}
+{"prompt_hash": "28195689ea7965352c7286766f9dcd100e4f63d63e19944086f089ad664828c3", "score": 3, "reason": ""}
+{"prompt_hash": "4c2a5b7a8f36331bc2c6eaeb5bb55180814b7bb095fcdb51d405fa3668ed96a7", "score": 2, "reason": "Hockey penalty rules are beyond a 4-year-old: \"A skater hit the puck with his stick too high\" and \"He makes the rules work!\"; also a muddled line: \"He asked Mom to color a referee... He drew the striped shirt\"."}
+{"prompt_hash": "4d57ae526eddbd60fde90db00b6d0490431aa3d6d571aebb2a912a7ebe39acf4", "score": 3, "reason": ""}
+{"prompt_hash": "aea52a4a500c388cc54286a1263cf4159b93c6af46ad0e253a45811460cc62f1", "score": 3, "reason": ""}
+{"prompt_hash": "dec5bdee13b9046a993abf4c9f2359348e19f73a0c58ca550683a852841d5be6", "score": 4, "reason": ""}
+{"prompt_hash": "aad95418cec4ed04c26485f4b2d90c903f96c7e888a95bc2f2894c3b63fff293", "score": 2, "reason": "Confusing plot: \"Two grandmas, two grandpas, all with closed eyes. He counted them. One, two, two again.\" when only one of each is present, and bread becomes \"soup time\"."}
+{"prompt_hash": "2aa7adbb9f79ff1141028a63a90367e64f740de7558b0e425081b1c6366b5d81", "score": 3, "reason": ""}
+{"prompt_hash": "cfcb6fcaa9e95677e2cd93cd0e779fba11de49c3709c6e597f324b48d0be50ae", "score": 3, "reason": ""}
+{"prompt_hash": "e0005c239cb026adf1b602fb222f4df7094ccb7e8d121558c47a899204ba59c3", "score": 3, "reason": "Forced required word: \"Florence paid her teacher one sticker for some paper.\""}
+{"prompt_hash": "fb387536e2b6a3251b59a4353fb52381afa4fd15d096932e3ca89ff5d447c0e0", "score": 3, "reason": ""}
+{"prompt_hash": "4cdc887cd3f1d56c6a4dd7e4b80116e9de4f807713ea68faaca90aa2ed5896d1", "score": 3, "reason": ""}
+{"prompt_hash": "5ede5a5fd09c1aed7f2d502cb138f68307fe779794e6e772b399b14a83d43d10", "score": 3, "reason": ""}
+{"prompt_hash": "f13d6aedb6dd189e0783d1f7e9dd098619b82d93d5160e5c4e4f80ce7c37b2fa", "score": 3, "reason": ""}
+{"prompt_hash": "5d342e071da9714a85082d0ac008a45489639f41f28ed7c9027cca6ce5be71c6", "score": 3, "reason": ""}
+{"prompt_hash": "ddc88cfd691c48c21b4c16f17baf22765ea19ef39bea51114e9c8d7a666fe37c", "score": 3, "reason": ""}
+{"prompt_hash": "5ee77974d6d4d70a7dd5db388b8b28864024bdd72e0b22e099821cfdc106a071", "score": 3, "reason": ""}
+{"prompt_hash": "520fc0bcde1531ed661e2b8a844d23852ce18302dc50e9526e38bbe203ff82aa", "score": 3, "reason": ""}
+{"prompt_hash": "2a1d0178224f36bd260c3abc48642e75ab35a24f6d5216993e63d3ede6d1d51e", "score": 3, "reason": "Reading the invitation and time is a bit much for age 3, but the plot stays simple."}
+{"prompt_hash": "e0fbb5bda1501b0faa93718c172e7349e8fa06e599164c557ac9e64b4273055b", "score": 3, "reason": ""}
+{"prompt_hash": "a034136db9767f1c77a5ffa86f74b6128d8e053fad94e398e86ff60199950168", "score": 3, "reason": ""}
+{"prompt_hash": "7faaf0e1b3b4eb2cb06f38f406b8201919be232f579c3fba39a139ea8232f882", "score": 4, "reason": ""}
+{"prompt_hash": "bc0f953971e4e5f9f637cd81c1be524c729cce432eb84c6ccd94c3bbbe0780c1", "score": 3, "reason": "Author idea is explained plainly, but the simile \"like magic from the kitchen making popcorn\" is forced."}
+{"prompt_hash": "0d9f85cf1338ea4f34a4e9bd91761b64acf049d06e9b46beb763c9aefbe72125", "score": 2, "reason": "Forced, nonsensical required words: \"That is my soup day beanbag... Mama sewed it from soup beans\" and \"woke up from being asleep\"; the plot wanders."}
+{"prompt_hash": "e2828063499912fa45463626bbe8e0a789af4f6e744e3798ff3517bf59aabd34", "score": 3, "reason": ""}
+{"prompt_hash": "15458a6053f244a023293dedc126ca2ec2c2cf43badde02b7857e4a03f72ba9f", "score": 3, "reason": ""}
+{"prompt_hash": "053d5ba0358aa6c45b39be2041268e1ce053bf7bd3a4fb5bec767e050a0c4415", "score": 3, "reason": ""}
+{"prompt_hash": "89fe21bfd407fd7a95c573e154332c8f1a7c7bd82bd3f6afba8235b9e48e5c3d", "score": 3, "reason": "Stated lesson \"Sleeping at night gives your body rest for the next day\" is simple enough."}
+{"prompt_hash": "cd0f58c94b9176d05d29d4d8cf23231097f23815681c41f1beb8f74bc3ddf47d", "score": 4, "reason": ""}
+{"prompt_hash": "488878bae086814fbce21dfad349dab3d78dce1832e4cbf90867608d87f72eac", "score": 3, "reason": ""}
+{"prompt_hash": "0a80329a6f2acae4ac5581a811a274f9adb9de7b2f1ce78205d3d1fcc63d73a2", "score": 3, "reason": ""}
+{"prompt_hash": "d0237e0cf7b4657590e67f3c9915752044b6e2421fa2886b851575fe438c42f7", "score": 3, "reason": ""}
+{"prompt_hash": "b5509eb184ee112686c47fc44fccab3a2fa56bf34403c425dcb26982931e2c32", "score": 3, "reason": ""}
+{"prompt_hash": "1779e5666575726041c2c935ba979910785b579c0651c3f4ccc1dac068fbf1a0", "score": 3, "reason": ""}
+{"prompt_hash": "46e73a807efbc8a036abddc408c7b878ffdfa301d4cf07ca2cca5ccf2eb071b8", "score": 3, "reason": ""}
+{"prompt_hash": "ba968c6c784e830c4095fe06e870f36163c9df59cbabfb64d1c74a5fd7e39a63", "score": 3, "reason": ""}
+{"prompt_hash": "aa23f2e3878978137de6b3e402e5db1336254bd2ad0a4d411831a2514c26b8bf", "score": 3, "reason": ""}

@@ -1,40 +1,40 @@
-{"prompt_hash": "df4777e358ff1b84848e240a3774a0f3d0b92f3b9401b0ef7ede058fe19deb5c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "18c3ba99f0c6b3cdfe6cc51f0cb56e77254422b3c299906bb90107c8baab3f85", "verdict": "adds_false_claim", "reason": "'The next morning, something green peeked up.' Carrot seeds take one to three weeks to sprout after watering, not one night."}
-{"prompt_hash": "798b2bc5a29a383337b1186bf28e614fa3fb4fc803d20b438dced1eecb38389e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "94ba74d779c3b7d0a6257c8a6c0f5ddf3a8a44c94ce53557ba6e424f35eaa259", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "02051122e215cb80c6f8a2810f9d5a46b1eaceb7dcd83e2e976e0b42e05c8deb", "verdict": "adds_false_claim", "reason": "'It smelled a little stinky, like all paints do.' Not all paints smell stinky; many children's paints have little or no smell."}
-{"prompt_hash": "b3ec91f796502a47121d7805aea73ae499db2882a3a790d8817c7a5bc6072d70", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d68df2b1694f940e4c4cb4dd37a98b36a8cfe59b983e21124dac80049a9e825f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6ef81ca26815ba4327ef819f8c9d231675bed61b47d7081ed927cab28c1cbe8f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "11866e7468d4aa91c99ee4c1b84d4941db135e7f341332499a2ee4afa4bf2846", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d0b7265f8d68f00b8c1cba9456a5120557f6163dddb0ef38830d4ee4d9300ff1", "verdict": "consistent", "reason": "uncertain: story says boxes of strawberries were delivered by a bus, then calls it the truck; odd but not clearly false."}
-{"prompt_hash": "fca6f1b28ceb881462570bcf2eedc811d38827d72c8ac3902fe932c9f08841d9", "verdict": "fact_missing", "reason": "The story shows tapping a small picture to open the app but never says the small pictures are called icons."}
-{"prompt_hash": "2255a147ee3d653343d991251e4103e2aee46477b55c3ff40eac435a532f5ea2", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8722590c0f079792205d3060ef2ddc52cebe881e5b735ba8ef487f37da33272a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "cf05eef55cd1ac5a5a18fb8842cbbaff05ce1b5e8e9bb1e663f70fbc144422be", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f47eae55c916609e5e98b7b780899f137848250a0999e223efe4182c421eaa15", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1ef870d7631cb9f1f158a9b8b1cb3b8a460ac36bdee5f717cec4bad3e46405e8", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ffa8ff668be6af9ab94bb368eae74c5c74f6b445561eafb41cd43df4a91716cd", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d73d0885a5c87e362658c3b74e893d7b890d0aea05d302965f87a46b263ddb7a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "357e69fce070eb7fa246d66c7994607f034395e3bd3dc038d2359ec7d7b5f67a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "9c9385e565f57cf14274543086a674baf8663fe08fb16b2856f2929aa4d763a6", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f37f7801a24ab3323ec83cf9e004943b5f42b3817e21e6be446f28e8236f265d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "13d9067f68cc65cee5b818bfc695ce63567b39c5c0e6ca522643d304272b3915", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4095de33be0e0b50c713ede1fbab838adbb8f35b94c24f91b99986a81d074c7d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "274edb28c2031c923fb75fd7054bb6fd6ad2faa8d4f8ffb38fc050db5be3ca1f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "2119551cedf8497af664fec77e3a2a28a742154a4189a5233ea94fd6e71ed555", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "dc3a8c18813352be6440fcff933184ebda5787d45e20d2c9152abd37ef822977", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8a602923a69771d41cc402cd33ab7acee8b7ae2d92085ddbac2037eb24b7f8c6", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b8d69b1b9876db2ae9fa60107c95756fa576af52a0d70dd4fb2e5a2d186907a7", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "2ee59870bdcc1e7afcaa520ed347b1378154be038cb0c49dc177977572895b10", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "dea090b4b86824f68be51a8ec13c2fe7db1b61b47ee3b603c1b97c4cfef94b44", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "29772aa7fe994ed419acd8e3331d25eaa954b8cbd75122b97bc8dd18382c285d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "e063ef2017f72b3b84003dd29c0fcc9f97b3086a7aa96f71e71635d05a66ac7e", "verdict": "consistent", "reason": "uncertain: 'She tapped the screen, tap, tap. The screen lit up bright' after a hand press did nothing; tap-to-wake exists on some tablets, but usually the power button wakes the screen."}
-{"prompt_hash": "c370a6e49f674384ac0f4c412bd24076a24747f5129a70949ad731630f21ff51", "verdict": "fact_missing", "reason": "The story uses red, yellow and blue and mixes them correctly but never says they are called the primary colours."}
-{"prompt_hash": "e7932172394c23d3254fb7d4a076cac30e2ff4cb2c75f8a6d083154201c0d201", "verdict": "adds_false_claim", "reason": "'Is it tomorrow now?' 'Yes, it is tomorrow.' When the next day comes, it is called today; tomorrow is always the day after today."}
-{"prompt_hash": "c01cfa6a8f87c79259420bdd9f5580ca6164046dc433043dfad0adc5e161ee7a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "0d085530929d02490be8bcc182d051dc77b9c080cc1236b6ae52600511f461d6", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "727add7483a886eff65fb6b7f20232ab14b81b414660bcd72f042ddf160b5d3b", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b201fb2911844f1aae23dd6bd88ba04e0f90fa1d0f711f98ecd067ad2cc86e89", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "50498af2659bf542959a32658ef630336307e7af1f760bbfce43efc35a02d135", "verdict": "adds_false_claim", "reason": "'The sun was low, not high. So it was not morning.' The sun is low in the morning and evening and high around midday, so a low sun does not show it is afternoon rather than morning."}
-{"prompt_hash": "552fe0ff2ce4608d4aeeaf780cee7701e2b44f881d137942e85e3fb199c8bea8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d993fdfb5a26d78e33b64dd150de5822d0129ae1874fc42972116f0aebf4dda", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4d14261dbbcefe304e2079088114f56948a187a92c66eba6e320cc71b63ab07", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bed516d0fc705357da7d2d55847b1789c4464e669bdf86f9461b0fddcf6fefd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02a7cbf268fb515c72c7ff6bedd2ec5995e106e0af4c893f141f6b41076aa4f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3bcdd7d4b2a2230b83df4bda678794f510ba26c0fce6c3cf93bbbec188dd579b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ae1d21747347221a81926edd2861a68ee2425cb2e5135ea9791d42eeda039dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e74b631486087669f7a55428707d3518e1574a1ae0eea0831d84ca06e3da875", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e029451852b8280ead08f6530b4c091df93f066e3ccafcc70d609f1a02bba487", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ac11c01b7cd266ca7b39b1ccd537a7ac5db46191479956169b737f1a5951987", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "278bc854b7820ef2f9daeca9210cd906a3615df0c74e50073aab3b62722d83d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29c6fba38a7c9a9628a94a63299feb24b078944d49456d20137b8db56c13df4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4bb226846de906454ea90014419e42b41dc47b57b8510d2bf57445e2cb54a793", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea5fb2e8b536cfe926fd137713fa78cfac98e7343bcd1e51d144e1889109cba1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95e156c42701a338bf3a33533673b9d321e3f209fbb1e76040177823ae60dea9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c3e9355e0489a82d9509b6c0f219ef354628d05de444e0a152072d8994453fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e750be6f473dd0d10feccfca363d06ac6cee929a27a9dd4f10d86974f323d55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b145dab22acd47e52d279ce8143ccbe37f43552b110784afd260d0ae00d3b13b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cf63b09cb4536487b0e28fb734fa2e63abf768ae6252dc45390b5a302ccba82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c51872977cad731a2d531142207be286be89605870b094f26d802809b9a1797", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "687ca40e4cd4278832fc5f4ad85155173e19b55704ca4a5c5229d0605c9b718d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4fb444921f742e3d36e9185a996bf7725daaaa6c0b39d79e229f6be51e408f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99e0f2eedc66ba9cc92d6fb34d347e97a692f8b9f61a8ccd60dc292a9ba96cf5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "280b1db71c42a13d8d41534f09a8f2fd1b96835ce3895fd4ba36d426ee117e8f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f21648d27b919b1679ceec7fdd0a5de03e24e99fd25ae84d8f872a607b622e58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "201e30d627e2d0dbc4bd320e9edeac0d5607cd31cf2d3baa624afd3ec782249d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d53ff5ba6e5e641bf2e7b35c590764e8ec8be2e8e03f175175d00ab69b1032f0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "463c5764fa3ecfecafceaafceb7a4bebda2c0634f6059813837c073b3601f4e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4af1a1ce4df090bf5ff2b0d2071d78e703ab47fce34585bbcc597de9a5aa226f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3786a0b3d7b0363c9306dd0f8dfb96daeeab02820c0c54b6678fa77e6c56846d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cce1153573ed092af778e7b5e1eda0946bbd2b0d267c3ae51e1f6282ce52b8b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b460bf0e06013f7e33ce31b5f9cff558367e2cb38757de6a1d74c6d9cdfe5cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd66b685f261487f8d6759797b81f2773de5e45c1e9926fd4a8a59f46687a771", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a39c0b2273991fc0f161f935b49825709898a2e7f5804601f6377b9e538f538d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36d0b69b412343f5e5ef937a361093e1d8ee8542633dc71cfae50f5c65fa206f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f95a9c02c979a4b1ff54fa5fe506f65f5c15c0048b8aa5e0aa4b587ece1d9876", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "880033a0c3ac97959d07fb456645c554d58a173ec94a3deebd2fe675475642a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ebbb339beb762b7ac6d76ba2151413fe2a774cebec31341c5f62fbb7b301003c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bfc24a07a79d256e77b0152839be2747118f485301c5e81c0cfe365a56988759", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89228443031457c3b18a31ab0c91177f50f04881d38225c6ff8225a230f636a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6dec15e76657ec233df6abdb6740cf22ff3df073cf1d74ed57547298a10ed4d5", "verdict": "consistent", "reason": ""}

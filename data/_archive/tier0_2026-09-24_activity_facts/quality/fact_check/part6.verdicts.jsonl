@@ -1,0 +1,40 @@
+{"prompt_hash": "2a0a6770ab6f90d18b05c79193a18873023264126f7868110888684fcea0ca4d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9338c795ac931ab135e6c21136fbac517cdb7c2b4782a5adf5b8d6d8b4b465b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db5020f10de97fbe4821ae4f7e95dad4c6caebb2d02dbd147a60c43a593475b3", "verdict": "fact_missing", "reason": "The story never conveys that darkness makes colors hard to tell; Luca finds things in the dark tent by touch and the story is about shape, not color."}
+{"prompt_hash": "7cd103e614d61bf03b8461beecd4f4debb3b278091dc96fbf00e0042f63fa429", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "934904373b9e7a0df56ed836ae9167b99ce234bdfe7bccce9b053450efb3ac9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3eb11cdd613e99e4342a263bb178f396810d16a5b163e473babc4a15a241870", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4dddd5fd7c8b7c3879c0aba09f57dc40f9a11715b46c9a397399cd37dca1ae04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "049072b0063f3b0649a810050740f9157cb17af7bb676c360a5cfd3007c750bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6755e54cd1a46ea78fee79dc4609135c7cc9ff1697709725785baa8660df3d6", "verdict": "adds_false_claim", "reason": "'Mom sat in front with a little bundle... \"I will hold him,\" said Mom.' A newborn must ride buckled in a rear-facing car seat, never held in a grown-up's arms in a moving car."}
+{"prompt_hash": "6647831f4b2dc1b7d85eb05d3a966c6eb54da13435acfa00f961b1989f05bbd0", "verdict": "fact_missing", "reason": "The story never conveys that toys cannot really feel; Mia's 'He is hurt. He is scared' is played along with and never framed as pretend."}
+{"prompt_hash": "d7b5d1cfa870bfd2b4d3aff41f5aabc8977439045552e4e4953c9d739dc068da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da310775d120704044c1e5a1eb49b417f226e8a876e7ba5aa86b5ae101907d57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e468f6db8b29e49279dc0805a6a6d267a3ab1694c062b9d5e4026b22852b537", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91353ebc1e4c1a5f40abd25fbec1d844c63acc3b2ce0fe549557281982d8ef03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb149ea6d17a77d48ad00677c71418add46b227ba217f12193d874d51d55e505", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af66bae21b3cd988fee2b7f1b43934639507d327a83f732f185394433933215c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97928080658f5e4b474a4d4118734de35b265ded8ff4492c75c6de455508ece9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91873d61509552286495133e468405b070d19d5992fbb2f2c76f0f435811714c", "verdict": "adds_false_claim", "reason": "'He counted to ten. Then he touched the butter. It was soft now.' Fridge butter takes tens of minutes at room temperature to soften, not ten seconds."}
+{"prompt_hash": "430bdae7725358cb1120fb1df228c437a5f0ac13c59e6b460d1136e3b83d6346", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d11aaae9376cc17ce609f8a2527c72b6aaf4d4c0ca21b96efdf924f8cfcc31c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "896fbccdc19c4bb700865cdf67d579030bb8d169c40e31cf2bcb26d6acc80412", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21b5af095f8d58a49bf65d6cee1f8504ee7d24a4a85f00bd3ee5eac8f5612546", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4674c20c0cfc9953e9d6604b7b5689ac751828ea48b0cda87938bc215be551c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72fe15e68a5e2927ee077da12675f69b7d5aa5cb4092858edd7ad7eaeccf5bc1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f14ab42abbacb0c73a5bcdb19f1c067bc9b4854bee3fabac5c2167270f3cb061", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a6192d9c82f09da49ad3a7770dcc3bcbfb0c3002f207c6eadfbbb277f53fd0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "424a70f95132a63da70b90d293d73329d8e6a28e3fdeab646fe663f93275f449", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1393a7dd777ecce11101f721b888afe084839857948f6f85c1304f1b0dabe68c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c17cbc71464872d59b0219c4add14868383d555de9b147160c3394148dbd781c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80c88cb6a72c79a2c1bd1e6d3b3b679f200af956fdcd771c853d917ea506d4e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24b9a37f7dc7176db2a99cd4647a8c03e113a6fe5edcc52ea7da51495ccc029d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "86cc1eb323bf0a347c3ebcecf6752e3e5ca0fe36318335887aadb454bc56ea50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3b91bb6e6365af07c6ac40ce0443cfe53606a9b4822a45f59ee2b7497701d44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "068a17c2196a3b81681537f14159682e5dfd3f856b2a1db0d724e738cdd3925b", "verdict": "adds_false_claim", "reason": "'\"So Saturday comes after all seven days?\" he asked. \"Yes,\" said Mom.' The number of days until Saturday depends on what day it is today; it is not always seven."}
+{"prompt_hash": "853afabd4904d61b561638fb5f4542d985442fc662739b437b67de3f82ac9a98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbf5326c08a31ce1ec4efc495da06bca654b63cba0a968db61546623afd02362", "verdict": "adds_false_claim", "reason": "'He rubbed his hands. One, two, three rubs. The mud went down.' Handwashing before eating needs soap and about 20 seconds of scrubbing, not three rubs with plain water."}
+{"prompt_hash": "e934ea652ba2a996889520b8e9ec42b7832335d35e4c3cfe87baa9364be3dbca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5a5cd5d9846b66040427d5123baaaef5f418f35ff997d26c24bd7b5afb27375", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc6cebe8fed1c2d1921f505525219d70fb271a9193bb8fe5c99265ef7373fc81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da95a77e8f164b16dbc686952ac49ff0334ed0c0028b7c6c7a53087b55b4d11f", "verdict": "consistent", "reason": ""}

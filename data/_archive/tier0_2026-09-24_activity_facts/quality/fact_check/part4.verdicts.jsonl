@@ -1,0 +1,40 @@
+{"prompt_hash": "8d981dae65c99470de48ce94fa03753f7e156b6c470543bb05ef53b1cede5560", "verdict": "adds_false_claim", "reason": "'One rhymed with two in the song.' 'One' does not rhyme with 'two'; in the rhyme 'two' rhymes with 'shoe'."}
+{"prompt_hash": "aaf9a37c3ada098e3b40228cba56011a2137e8056b630ca5969e3a263cbcf4ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1cd58dc4239d1244150f3f4bb686d07feb2f2166c261486a7b6809307cbf593", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c77f41391904ffa5d7b64338ceb734662f9c1e1904f3ff0c22808ff0d826994a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ebb472da11e6d95a9c00908e05e39201d1e4ad3deac54d8bd90a4dabddbb8df0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe67954e8fbbd0e97b49800cd8d769cf87cd2e8d22fe16b0d1279478a6318f11", "verdict": "fact_missing", "reason": "The story never uses or defines the word 'season'; it says 'So the team was all of it', calling the practices and games 'the team' instead of the season."}
+{"prompt_hash": "12e27eb278dcb6a53cbc1bd6ca431eb6e5dffb452b59af0da03d1fac49718dfd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf3fa4e77ef417a2aa0f4736c7e747d8348e9517bba9b4075f3c241f2814856f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a2dd1c80a347adca5d6060fb8c4241b0072dad385d7bb94699fad4926b779aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b45baa38e2271bbc6c249376706f727a6f5c476450ee771c89476d55b4250eba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "619201f8796e661544a0be4acb0995bebd8f1673f6c1ac6b250e4b9c71653494", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cc7b21cd75bc59acd4ca96211487c094df4d8c7e6b682bed7ceada0d62e57e2", "verdict": "adds_false_claim", "reason": "'His hand came out the window and waved from where he sat,' shown as correct bus behavior. School bus rules say to keep hands and arms inside the window."}
+{"prompt_hash": "73054ed058523868f1ea4f28b5a6a9d3e7e6e820f6e8d6195880574c6abceb33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e77390a9a8a2552f9c376fbf4e660d53f2baf2675367d283a1e6269a8000bc1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d9f5a109c534e61f72081d18f52918231fdba89f97028c2092c071166ee8b96", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33a8143bb69717ce4b24a8f00faf429d815ff420a8bdcbfb9b31ce8a1c928673", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3097d01620201d985a84d488c882c8511111594c564d806d9b02454c0414e23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d58561efa640d6a7e3da2c2d9c01f7aae8fec0f5c4f34652a033d6fe530eb7af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0181449eee1b95afad213b0b6b0fae4014632af87b54eb613bda60984053e61f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04b8a9004ddc926ba53aa2f868af1ae25a69a3a8dbce5dbf609f45993eb1ee75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb8121127af9e804e9db886ebcf2f493fa27336b78eecb2f57f2a15b3846ae3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83364557b12dfa51231e90a42c37948701db8e45047cb67665c7f355fa90cb72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95edcf5120ce50dcb44b0f2d6c7fb8c92547d702f2787ca02090c3a83735b99d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f353833e9d1df8f0d51f1d832708659c336719bc3b0258f9f9afa9a6b591a2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4d7bb11a5316d9e3a84a92761ad5141efd804ab01fb8944f1d17927be64cb28", "verdict": "adds_false_claim", "reason": "'The next day, something tiny and green was peeking out of the dirt.' Garden seeds take several days or more after watering to sprout and come up, not one night."}
+{"prompt_hash": "1777d8793dc387a5f56d5e64ad191903081b3f715cb528c9d67cce9f2a0197a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1b426cf5c632a157082007e80c3f8a96a7666145a148ec0bdc89a2080e8f816", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3cfd876240c6096d4117b0b8ebbfea7789ba0641be036eb21b4a3277fbb036b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce13f126afc59cb569de87d3410699382749a0196f642c2665014d2a6d17a61f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02d813c76369977a8c0c53972faf98e3afe7d1f5030d6c04c5b4dc48696e65a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2eda218cfae08acb7d3bc279aea3a612e635a117bcced8fadad9849e94f8cb7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "895f67b4fadd57e6733f7d403b2b058f7ade7df43430e61ffd4ba1995f653753", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c392cd3b47f57d53660e6aaefc5b256db726bc53860f9073431beaa31bfdc58a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11d82a16061f7dc109b61a9fa3163d0364b4d2f1c57d6dedf1b6a8bad0fb36e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd8be2bd980f1def709445dce404f9e0409b48861752c11da7df2c9222d1aa32", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3f4ff23fdbc05f036ee156137018a4ce5d215d739ce02a0f97d6c3ccc267158", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4f8678c193f22135ba48e98ad5308a3cc5a8c572d829c5457774538e9fc38fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bbb24b7194069fa3bd7fdbd605dbdd432179fe54991d0aba3a444e9c582d56a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37aa94773ecc7ea7a1d2cf7e45883ee8e42f71ad9b9ec816b61bac6b9ac63fa9", "verdict": "adds_false_claim", "reason": "'They all sat dark and empty' and then Daddy lit them with a match. A diya burns oil through a wick; an empty clay lamp cannot be lit (the story also drops that diyas are oil lamps)."}
+{"prompt_hash": "75c0fd295a0467a5c7d456f4adbc7d07ac342d31225a9c229851d3c800993f18", "verdict": "consistent", "reason": ""}

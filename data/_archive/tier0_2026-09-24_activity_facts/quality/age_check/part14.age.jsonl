@@ -1,0 +1,40 @@
+{"prompt_hash": "5b33b7d4e8949482bffd6d64eeb739614f0122272ff4daf0df2374f28ce112ef", "score": 3, "reason": ""}
+{"prompt_hash": "cd23f14b299c4c0e57799d3ee9de46d0fdfd5bae4ae7a4e76fae2270939a185c", "score": 3, "reason": ""}
+{"prompt_hash": "4a23e9ce09c3a75b40b1bdf26d692f5be36cfe9d5a9153c52816331a6cbebd98", "score": 3, "reason": ""}
+{"prompt_hash": "927c2cbb5c4bfeb34212c85ba293cc16e8cec6c268fef1fa1670354e5c580141", "score": 3, "reason": ""}
+{"prompt_hash": "5b9a8e5220b0f03d7ff7c914ed72c17ad5e3d7794c6043eb0e2eed221db85bef", "score": 2, "reason": "Abstract category overlap for age 3: 'The apple sat in both groups at once.' with labels and 'It fits two ways'."}
+{"prompt_hash": "549a2c6f14b9483bd2f24319b7745239ee08df123528e099f92570e9c102cb89", "score": 4, "reason": ""}
+{"prompt_hash": "e7978c1ca97eaf6612761c4a80b0b91e2380d1cc6e53fbeaa8fcce01b46b6e1e", "score": 3, "reason": ""}
+{"prompt_hash": "401abaff2c0078d53f5eac27418752a1c236d96c94006465f9635e70ffedd253", "score": 3, "reason": ""}
+{"prompt_hash": "e48dafed0925c00925850f259c559c82a058d5938408330ceba36a574877b2e6", "score": 3, "reason": ""}
+{"prompt_hash": "9b2d81099bafe6ffd17bac40948de08ec4d69ab422a796d31381847f1ed342c1", "score": 3, "reason": "Forced contradictory required word 'a soft, loud splash' is a small minus."}
+{"prompt_hash": "17a7181734b501721e346ee1d7ce26ef524bcd4f97d608163c735d328f66a5f5", "score": 2, "reason": "Implied death theme a 3-4-year-old may not follow: 'Ivy sat on the grass by Grandpa Joe's stone' and 'Bye, Grandpa Joe'."}
+{"prompt_hash": "56435707bb91a7a2a155f6db2b318e133d8176113f3bcf6cdd2d4ce2baef9021", "score": 3, "reason": ""}
+{"prompt_hash": "212666e034c0b0cdc7e794253e0ddf073d7d6a9c8f3dca797ff64d3405baf20b", "score": 3, "reason": ""}
+{"prompt_hash": "d2e505e9f4c868a947a1f914495d7c373343e888214ed46a5d36457301cb15e2", "score": 3, "reason": ""}
+{"prompt_hash": "21b0f4c865822f934f8878f4e03933ebeff8f2bfc2e9bc904535555ab82c7460", "score": 4, "reason": ""}
+{"prompt_hash": "af671d7f5cde63286e18357c41a2bc4b0729d292c674d5086f4b994b28216095", "score": 3, "reason": ""}
+{"prompt_hash": "263b653f1467ec443284beb3cc11b062cec94a9d6cf7057ae8a7424f985a6f7b", "score": 3, "reason": ""}
+{"prompt_hash": "d4dcf7febea06fee4bf1b73940a3931ca54e41a91780f4b4ab185b5b3cde8dc4", "score": 3, "reason": ""}
+{"prompt_hash": "2abb6c1ccb61ad2d1074aceeca14d766cb93302d1a47fbaf83eba31d2851ca97", "score": 4, "reason": ""}
+{"prompt_hash": "9b5ed3bdf8152c499e4f6eb42f6ebecf2481fa19dc553c1ab6dedd03bb57cb11", "score": 3, "reason": ""}
+{"prompt_hash": "a163901f7869f7a8a9050a0544738e67d517b20576a1e6c6a4296b1d5518930e", "score": 2, "reason": "Confusing cause and effect: 'But the red came out brown and muddy' from a yellow-tipped brush, then the same red on yellow 'made orange'."}
+{"prompt_hash": "fe2473a4d8857c2cb15949ff3969279bb22ea5b958b51b336afb269843ec8e8e", "score": 4, "reason": ""}
+{"prompt_hash": "19e42e06f3038f10bf0fc2549fd473b47008ab90b7abd187cf3200318e4c1e87", "score": 3, "reason": ""}
+{"prompt_hash": "0f9049f0aa96b9ddfea8b8ac125f458bdb9e0c78bce11cd090a85839175fc25a", "score": 3, "reason": ""}
+{"prompt_hash": "97b009e6609e15f36044ffd22437f1b143295f1d052a8fd8eab82def78ee8f0f", "score": 3, "reason": ""}
+{"prompt_hash": "adf8371aaa921ae3701f1c7aa14f8f6b838c107948673123f7b9427b6e5fb1a0", "score": 3, "reason": ""}
+{"prompt_hash": "803167da8831f6bfa02a605a1e33b7fe503614f159541ecc530d8038dc57ebbd", "score": 3, "reason": ""}
+{"prompt_hash": "02ce9a154ae006c240bfabddb41a8b3bedace4bc9964cc9aa249c66d0fd116a6", "score": 4, "reason": ""}
+{"prompt_hash": "3435e8cacc506f658fd1f7ad239240c7f272c07d219a66bd23dc0c615d38aed2", "score": 4, "reason": ""}
+{"prompt_hash": "3c2e14c2b3414b62f7ae8de7ee7a5803bd0ed6f4208b75183b1a1c86b3b96df4", "score": 4, "reason": ""}
+{"prompt_hash": "f4d8e9235ec7e9dfc3209e980c9beb32ab236c3e19e48d4ac5975482c4485448", "score": 3, "reason": ""}
+{"prompt_hash": "ce8a5cd3a410860edb774567253625238a255f2d29799c0774615c63ad2a14b4", "score": 3, "reason": ""}
+{"prompt_hash": "2c215ab230762ea0d3450138a12a7c01a2741c883015d8a1220cc64b1b7d1e53", "score": 3, "reason": ""}
+{"prompt_hash": "714857a054d11b66020f9776d1502e80a4a670db97e35c8046dc2868cbde36f7", "score": 3, "reason": ""}
+{"prompt_hash": "4bd8d905e59596338dd5a107870a41e3753184958489998546a3804a59bdfc9c", "score": 3, "reason": ""}
+{"prompt_hash": "fc018b50432ad93bc4ff66c5b072cfa1551b3f5507f60ea411919f1c1eab998f", "score": 4, "reason": ""}
+{"prompt_hash": "4005dcacbfe8194bbf24897cc37237644d6945941edf1d42a4a5c650888aea14", "score": 3, "reason": ""}
+{"prompt_hash": "65ce81d674542f05151d39d878f16c491668279bdd723ab1e832ce8c09024280", "score": 3, "reason": ""}
+{"prompt_hash": "6640172119ed1fcc6c85af5938ddf7b9f83c37a59fe357bd23ebda70c4cc394b", "score": 4, "reason": ""}
+{"prompt_hash": "ab0fd8218d9114f5ef2060284fcb1c28ab314914db1aad851d2df09801d6e3aa", "score": 3, "reason": ""}

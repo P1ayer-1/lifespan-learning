@@ -1,0 +1,40 @@
+{"prompt_hash": "352b409e9b040822f25762ad9bc4fbf6f4bca2eba0aad3834d3c680fe62472e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d71b37357f47303d26a6999b41a90cab8f8f426baecb4752c9833ffe4a6cfeae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c7326e8ea6ee57ca0985186502adf992ac4063c03290793b89095144f0c77c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60d305d35960b2e56a0527d753f551af7817b16708f7d53e30818080f758c488", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecff07c656ac2c28fc84e873139c41681457f07e1d8e0b244a4ca758ad7bc47d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4ac972983f13f6e20c7c7d7b4f6103b636564c18f11b6178332f10c37e00412", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5c3439dc9dbff3d6a4991ffd3c31d0b567a325a917a33cdb96a35e5fae0ec95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c019d00adfb3a4e0eff167372d05c6b237b686bd4c098f071e8fa1e112706b2f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2c77b7ba5daaefdc78b9978e549d0acc425e70ecfc2aac85a6a127afa75074b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a30db1b0087bf25a647eed7d79537b5e6f70e5b289707bd0c7cba2bf5865d6e", "verdict": "adds_false_claim", "reason": "\"Clara picked it up and put it back. Then she counted again. One, two, three, four.\" With the crayon put back she has five, and taking one away from five leaves four, not three; the counts in the story are wrong."}
+{"prompt_hash": "4ab8e6a6e3df43bb0c706d6b4be6061fe8baf0bec20565a5df8526e7fa6d6fea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c635b33842d07eb1ba0b00aab0eba6d3c7e3ca65ee372cdf3f26db09b6f1822", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ddde90fda272f94972d75fa40d5177ce21fc7ac8cacc1c8f1b6d86b43003cf35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da33544fbb4505c039d045e6fd2e4a26d0c6e4aeaa15c4ebd38277b000d58e8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0a67f562c8975114f2b10c18dbc1e8401c3ae1169f50540941714b37e649645", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06332d4f7abc5f90863626444744505fa854f6fb3d2be6c3d54dec33973238a4", "verdict": "adds_false_claim", "reason": "\"You taste your food with those teeth, don't you?\" (the dentist). We taste food with our tongue, not our teeth."}
+{"prompt_hash": "a6482a3e4e4aae94d74da9844cc4ad90762816c7ff4c038d8a616682df6453c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3038b595c072951bf1f9e5985170a54418cb1f94d3085eb342da73b5a26f442", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac6e2955abd1dbd1279a9b553513c899333eac6a1f35f224bcb08fe42eba0965", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "216d4caca957cd929fe3745eafd0ceaa4b381acda44cf82e9b27fbcca9112097", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f61cce3b2051117e5605f956cd6c15da8afbab8f7b4610595e38bcf1137e8e81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69c29ae4b29ab00ed99abe84f92bb8a93d5720e2684baf3e4dd03cf15d1271b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b18d6389ff1cbf9c7e952ed314fe7854b21edcd683971e5e33d0d442e3bd153", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3aa3843fdbed47a2410dd5b411d810cc762f201b236f5aceec4297da2c2208a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "953eb15a7dc01c45a928c0f5bfc4505884165354cf8dea0545f215ded7973361", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e7f3cdda03d994642d208d72274ca76723c6aa0eb3b41d557be1f9e09a8da10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab8f4173cf7b178a2448de86b4967396b37a517d5cac152c2e3c3546a5b5ccce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c8c0994cb97f0ebf72cafb94d152695be7f7e2a8be1df20623a9b21aa1680a56", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a4f87544d0b8ae7eae617fb760ef09123eb34ac67f6f361844be9228aaf0fdd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ad71d4333637ce081296909bc72f3ec2bdcee475e9a932c6cea1f5705e8c47e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d184d4a75e58b959ed14254b1ace5815ab0897b5c82ccbc03d7107d1bdb6ac26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40d2d674b58a7e2ced764213d49883996e426014e9ce6e96e85a0bb5e170011e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05be446ba87f4f690ae2a952ca79aac9b4a499ecc559ac9dadca816e4a92410d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e8430ecdd1da540cecd5a4feafaae1b394bd3b3fbeace114fc26a8a0aa59213", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4820fc412f779f4e3a70334d9c46c842874128694c8d878f1308deaf4769de5e", "verdict": "fact_missing", "reason": "The story shows the ball going into the net but never says that this scores a goal for the team. It also never mentions the other team's net."}
+{"prompt_hash": "a00d808819cc1d9eb63a491742fcd649121b256638d9592d4bb5878586279d42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "613d672ee9146d2ba34d8983582578f7bb30db6395ef4b193e2c81b93fc7243e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e595cbd1cf948b0daf27fbbbc1d965172018d5e38e741203c1b2c50e7c1bebdd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f7bb53fc4bd3d7ac9ee58be28b23974d8efd32e280e2102c30e5b720210fe38", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4669819dc5aad086d4b63cff06030683c8b871a13d0449df80dc652ae578d80f", "verdict": "consistent", "reason": ""}

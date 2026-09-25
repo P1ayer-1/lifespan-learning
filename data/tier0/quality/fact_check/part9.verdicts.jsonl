@@ -1,40 +1,40 @@
-{"prompt_hash": "a9c2422bf9af7ec8de3e57ddfb3f352bcec65f0835455eebf6cfbf932ba26609", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b23c6c01e046f33a0cc20da66b5792709c0bd736149ab11fc4b766739d2a48a5", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "57ad71296a9cd9557938a0b3c43a6bb5fcfc5460b0bc5eeda1e2a6a1a8fe5179", "verdict": "adds_false_claim", "reason": "'The dots went up. Felix played louder. The dots went down. Felix played soft.' How high a note sits shows its pitch (or, for drums, which drum to hit), not how loud to play."}
-{"prompt_hash": "7390e29c295be2b0f7c2165cf0df4ed287d347d8b8e6ac54322d71b897213867", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "dcc6aa00c61355afc53c42cb61e008e8398ba88ab0de0cf90f8a4b61ee3fe3e1", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "68a704dcfaa7b9ea646b9282b7507f5d8b53d61a52692f0d52e87481b4b72e9e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "e47bf7e686433d9141bc0d5e16aa514a30dd0e7cda2c3a9b9cd434a30c2271ab", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8f4bf7cbb454ca414cfe7cd2cb8694697d6d61896c20a3535de65233aac69971", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3252496bf84f99ea71d314fa22677de4abfcdbd29da1d7c285b45e0d61a45bde", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "dc39845d512d9f64d0276343d742fc401982a299aa4ebd04defd0d6d4010d412", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "43e404b5cb4fa91da36437162de94dda8e0a52444eb0c62831be47ff17eb1fe7", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "7009c201d2c48aa94c5f53fe5ef8153fee8688c6b07f9b960381be376d50fa17", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "5aa00eb71eead7e54e0e5311c5c749a8f1c892b6f5cd63bbac1c4258bb8f1abc", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f4ea8b442f0d8df34da3632d4db74ba3f1d41724c5fed83b181864c54d56832c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ba8302b773f17bda215f8b76dea5de37d082d79f94974ee93d611667b7b40fad", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "70d7138cd0260a4e59a82aeae246066831a794b965bf2b69cef2f75a81b2d77c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "be3745a707448dba5ea18b588968e7348038727fe07cd82ef7d76112920ca509", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f06c3670bced399e3350aeffb471722f6d8947de29812c1357313599d24adcb7", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1e0301bf6b3d766daa4a7805b3fa4bca69fdec5c1d757bc37b72d932a3b0eb3c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "053626c3f1f4f04ba4080d460dc19b56d65630e34a4081e35e2e816ad3165873", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ac87f231762d5255db5b4ee6022508e1aa02d7799a05b1a1fa2ba85c96181ea0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "e2ff539128c9b78aa76bf7daf3961b2c4d4fc2f323a33331a039b82842152df0", "verdict": "fact_missing", "reason": "The card only shows where the party is. It is never called an invitation and never says when the party is."}
-{"prompt_hash": "5e5c6e0826736cbd737731218dd412306ba0a4b3aa3b549cd7ea9f3d688963da", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "550b954ac48f8062cabe639f760506e84db23dee0b7cfcc44ab4010f42d81098", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c26ee082c3f9cc47f97d0842b92428d8cd4f035222ab7ba26309ffb0d9085750", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ee6aa4a0c153f599aaea5d709aa6ca4e22967480acbf505f1d5a2b835c519e89", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "14026d6992c9dcbcc97c88ff3649614114d0cd444ebaeb6eedf3bf132b1aad5e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "efc3d6fcd66cd4a9fa57b3ef78dd464b50686a8256591af6715d0338742a82aa", "verdict": "adds_false_claim", "reason": "'Mama knocked on the oven top. \"All cool,\" she said.' An oven that has just finished baking is hot, not cool. Also fact_missing: the story shows two holes but never uses the word 'nostrils'."}
-{"prompt_hash": "d8f869a899edb2a20d5e598a736e27690b0ace44d84413aaf70dbe0ddda44bb3", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d9ebf6f71f43efe21ad6a4f31112791d350379d2b663f3dd3e6ea1a464aea0de", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "be390e1d0fdb0ae5a9c821a41b3b2b9a7604c4c429bb4dff88488229d3d6bcea", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c1685e00704329d6378ec767e53d4ca786e909b5c6b947c4fc66c12b1236aee0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "84dddb02137095ba8af20224c45604451f7f95471eb3b8f8b598606dd715b255", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "a86b12f90259e11dd03b8c539386268340ae7c04b35754d38a27122e963a9bdf", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1d9cc3066bc682b3d26bde617c7e0c11bd6d70a32819979c47a2310cd6f0c3c4", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "24ca898581aa926a85f2f2ba4464ab37a143d4bbb7279c408cd24810b11cf48c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "49f54262e44b89a508b5bb03a07df31192232c71f6ea8d873fc12fd23451fb57", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8565f8eab0ddb3c72ba54743f21b14f83cec2c4da8c2834a52a3c86d1b131a2c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ffb02fedb9f462cdf02a846548235dfcecea6d13784e5f10b229e59bfa4b6c67", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "807e015253ea102183451da2d3feae601b4452d9af1f88ae8af0ab9812ff71d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52b7eda88b3f10d59aa23de388a1e498eda3f78f610b6e618e0c845fb9490d5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04ef9c0e17eb3c6be41a426c1cf3f92e9942736c3ba9aaba7f352f8bd17df145", "verdict": "fact_missing", "reason": "The story shows a toy pig sliding feet first on a toy slide in the kitchen, but never says that children should go down a playground slide feet first."}
+{"prompt_hash": "e6755b9977f712df9768db348e74d9ea3c18a0b17ab00bcee38520f789683bb4", "verdict": "adds_false_claim", "reason": "'She pointed at a little note. Felix tapped soft... She pointed at a big note. Felix hit hard.' The size of a written note does not show how loud to play; loudness is marked separately (for example p and f)."}
+{"prompt_hash": "8dce6a6cd7a430bf1ce5776c3be80974dbfb88fb535f5ded68298f32a1b02f6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28195689ea7965352c7286766f9dcd100e4f63d63e19944086f089ad664828c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c2a5b7a8f36331bc2c6eaeb5bb55180814b7bb095fcdb51d405fa3668ed96a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d57ae526eddbd60fde90db00b6d0490431aa3d6d571aebb2a912a7ebe39acf4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aea52a4a500c388cc54286a1263cf4159b93c6af46ad0e253a45811460cc62f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dec5bdee13b9046a993abf4c9f2359348e19f73a0c58ca550683a852841d5be6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aad95418cec4ed04c26485f4b2d90c903f96c7e888a95bc2f2894c3b63fff293", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2aa7adbb9f79ff1141028a63a90367e64f740de7558b0e425081b1c6366b5d81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cfcb6fcaa9e95677e2cd93cd0e779fba11de49c3709c6e597f324b48d0be50ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0005c239cb026adf1b602fb222f4df7094ccb7e8d121558c47a899204ba59c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb387536e2b6a3251b59a4353fb52381afa4fd15d096932e3ca89ff5d447c0e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4cdc887cd3f1d56c6a4dd7e4b80116e9de4f807713ea68faaca90aa2ed5896d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ede5a5fd09c1aed7f2d502cb138f68307fe779794e6e772b399b14a83d43d10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f13d6aedb6dd189e0783d1f7e9dd098619b82d93d5160e5c4e4f80ce7c37b2fa", "verdict": "adds_false_claim", "reason": "'The doctor listened to Ruby's neck and back with a soft tool... That is your heart.' Doctors listen to the heart with a stethoscope on the chest; on the back they listen to the lungs, and a stethoscope is not a soft tool."}
+{"prompt_hash": "5d342e071da9714a85082d0ac008a45489639f41f28ed7c9027cca6ce5be71c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ddc88cfd691c48c21b4c16f17baf22765ea19ef39bea51114e9c8d7a666fe37c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ee77974d6d4d70a7dd5db388b8b28864024bdd72e0b22e099821cfdc106a071", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "520fc0bcde1531ed661e2b8a844d23852ce18302dc50e9526e38bbe203ff82aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a1d0178224f36bd260c3abc48642e75ab35a24f6d5216993e63d3ede6d1d51e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0fbb5bda1501b0faa93718c172e7349e8fa06e599164c557ac9e64b4273055b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a034136db9767f1c77a5ffa86f74b6128d8e053fad94e398e86ff60199950168", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7faaf0e1b3b4eb2cb06f38f406b8201919be232f579c3fba39a139ea8232f882", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc0f953971e4e5f9f637cd81c1be524c729cce432eb84c6ccd94c3bbbe0780c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d9f85cf1338ea4f34a4e9bd91761b64acf049d06e9b46beb763c9aefbe72125", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2828063499912fa45463626bbe8e0a789af4f6e744e3798ff3517bf59aabd34", "verdict": "adds_false_claim", "reason": "'They are at the top of my nose!' The nostrils are at the bottom of the nose, and nobody corrects the child."}
+{"prompt_hash": "15458a6053f244a023293dedc126ca2ec2c2cf43badde02b7857e4a03f72ba9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "053d5ba0358aa6c45b39be2041268e1ce053bf7bd3a4fb5bec767e050a0c4415", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89fe21bfd407fd7a95c573e154332c8f1a7c7bd82bd3f6afba8235b9e48e5c3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd0f58c94b9176d05d29d4d8cf23231097f23815681c41f1beb8f74bc3ddf47d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "488878bae086814fbce21dfad349dab3d78dce1832e4cbf90867608d87f72eac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a80329a6f2acae4ac5581a811a274f9adb9de7b2f1ce78205d3d1fcc63d73a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0237e0cf7b4657590e67f3c9915752044b6e2421fa2886b851575fe438c42f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5509eb184ee112686c47fc44fccab3a2fa56bf34403c425dcb26982931e2c32", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1779e5666575726041c2c935ba979910785b579c0651c3f4ccc1dac068fbf1a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46e73a807efbc8a036abddc408c7b878ffdfa301d4cf07ca2cca5ccf2eb071b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba968c6c784e830c4095fe06e870f36163c9df59cbabfb64d1c74a5fd7e39a63", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa23f2e3878978137de6b3e402e5db1336254bd2ad0a4d411831a2514c26b8bf", "verdict": "consistent", "reason": ""}

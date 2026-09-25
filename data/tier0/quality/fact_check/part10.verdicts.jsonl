@@ -1,40 +1,40 @@
-{"prompt_hash": "01c4f8efa4c3c3a0e65d961906fe2524b2868c4a5e37ceca46fe5aafdacace37", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "411d7b0473e137c2c55b1ca674bd1a0360ae858ccb7fceff43847ea63783c0b3", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "793da2af9635519fbe2b9343f6abf847c9247230134db8b6cce15969e728daf7", "verdict": "consistent", "reason": "uncertain: 'The new pancake puffed up big and round' after adding the egg to a flour-milk-egg batter; with no baking powder the rise comes mostly from leavening, not the egg, so egg-makes-it-puff is a stretch."}
-{"prompt_hash": "ea09a0881c9284864732897b6ccecf1ce7a0a4c24db4a1624a12f856dd2d6632", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6b7f0493bf6818a0fbfd2e1db0db86d1ee8c9a0bbea48ff99c4608feecd2e4dd", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "322bf1ee2474972f2ac0e0b4a1f11735208ce208be801257be5cd2f5dce985e0", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "0e65301dcf20595220c482c6faf6088901e72cc3da4f0e302e755fec9ed4374d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "ec8e77b9c2b53f0d76c891990b52262ea7bfb341141bb5ecc40c0bf3f2ed2e9c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3a87588634d2e1f3df179df1742d6ae19bf044e888e84b924fcf500efa391fb9", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "113f88e63a78423e9b9ec1dd46ec2fcd65b0b67704c9e7818fd816265b6d97f6", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "9cfa45b36fa49f09528f5b9a89e1a708d2f3c45605e31cc20ef927c100c85a6b", "verdict": "adds_false_claim", "reason": "'Grandma slid a soft toy bee across the table... Six bees, four buttons.' She gives one bee, not six, and the rows held ten buttons, not four, so this counting lesson models a wrong count."}
-{"prompt_hash": "c6ecba0e29a29e20b32becf4ea843fa50027b57e52889916ded84dfc4bfad704", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "008225bedbc8d3a4f69a44a8a694288342d983731c250829e9ebd8bf22222174", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "2b1420125845a030abaa0f1acda165a8326271bf00e7ad49d37453bf35dab8e3", "verdict": "fact_missing", "reason": "The story says the bag goes into 'a machine' but never says the machine checks what is inside the bag."}
-{"prompt_hash": "3155177fd686546d0d9fa939ca91d1677fccbc0293cf2d17ee84715306a418e5", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "0e57fcc2ef4274732969c9eaad7d37c6b981ca4cbea745248f323a561963a0b1", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "611f9059a12b6fa6618c6e9fd9d4ef80fe33145a98136f623d2072f8ccd450a5", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "40829ee314787dac7dae7b99eb70f3a3bdf6bc2e2ec55993052a6e28493a8a3f", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "59f872c49120bb8fa27d48d74c33a9607303ed03ed3d8009963932a3d6fec656", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "e1bc86fdca5383c04cc59ad858e3d583c43bef2eac4d4b6c3d7e6d42e54ce98a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6cd6beff77d6481223750cbee68f2af9f295c41e5d0c77421ffcf1702a9370fd", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c3de685738d8a1c25836742514e1c8329aa0b28946b98c1ce1aabe73869d577d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "97484d05b0e2aec6c72ce33060a9b8af176e61bfa2508d615330f8e6e1390421", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b6c170ed8c19042b49c3e920fc32738192ed81f6721105551e456b62c13ef7b4", "verdict": "adds_false_claim", "reason": "'Iris tapped the top of the screen and the app closed.' Tapping the top of a tablet screen does not close an app; you swipe up or press the home button. Also fact_missing: the story says 'small pictures' but never uses the word 'icons'."}
-{"prompt_hash": "23104e47bf0705c869975f2dc1c6999d7d3239d51ba59aae69fa487b894186b1", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "6585602115203962942da54699446d1e03179836e12b63a3d75ef5a54af63702", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "bbd1f34dbb04d95aca3425febea34dffd34b88098b285ef6a7ec5db501405f95", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "8040b5b93c23688a9080bc28476490a2ae11bbd6946aa07659ed9dbeecad8046", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d92fe21a525cbf63bd415185019f31c882cdc3688b5a2ae948f5538eb9a5a583", "verdict": "fact_missing", "reason": "Dad says Eric 'made up the story' and 'made this book', but the word 'author' is never used and never defined as the person who wrote the words."}
-{"prompt_hash": "fd3f1bf108299bb0ec1fa262052a93a1973a616a041ed974f5923ad3eb9f4f99", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1646d5d1cc7f3b8370bff31f33b0bdf49e0228da9fccf3378bfffcee942c9489", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "eda023028bfb515c279792d49be7cc7d09c17db97f7a67091c89c2e429289f33", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "11cad24bf04872a614dcee6e9c4c43d34a74d8d8c8c2c61cdd285c17a520ac0a", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b45c05761f7f4f48c4a2da4280912cd65df742155cf3780d99b134e7721ffc7e", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "28487585499c5a720ae3b5bc42c15faacb662e4b4db1c4d14d313c7a6d44b07c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "7e40ac213d101cd32ed58d1170819e9c511fbfbbbfea116a1506d2ccc76a312f", "verdict": "fact_missing", "reason": "The story shows a drippy nose but never mentions a cold, so it does not say that a cold can make your nose runny or stuffy."}
-{"prompt_hash": "3330d97c142ab41e244bc479b11aec510d99ccc5b03cf8d309a0abc1d4ff60a6", "verdict": "adds_false_claim", "reason": "'The ends of the lines matched. Star, star, are, high.' In 'Twinkle, Twinkle' star rhymes with are and high rhymes with sky; high does not match star."}
-{"prompt_hash": "22ef4473b4f32bbaa1d825f33d85a03d52a7cb63986f5a374a7d824aa921c5db", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "cc598933ab4ba3a245dfc61204c8ef4345d19717be6400617143560b70dd5fbc", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "935080b7477fb727c59c33e3055ab810e80a04520833b1310f21bbfaece7eba2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "532e8952f75bc95f12269c32cac93c7c5b99f893e96b33536d252a5d260ff5e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5aca67c9cda356dbd0f5b8b7ae60c42c53841b710261394461650bcebae85771", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee8ee9462297f7faac9ffbb0288a94c87431d5637d801c66966d7126bc78c5b2", "verdict": "adds_false_claim", "reason": "'He forgot to add the milk!... The pancakes did not puff up. They sat flat' / 'with milk... the pancakes puffed up big'. Milk is not what makes pancakes rise (baking powder does); flour and egg without milk make a thick dough, not flat pancakes."}
+{"prompt_hash": "abaaab64e0f09ae2b429c7fbe2a0e1ed1fb84192b0eb1d4410d586be9c0a3a5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f31f28f6f28af7fe787425f83d0ba2a3f23e5d4b4cc63d8595bd14c7da8b0693", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc7190b61afdfb1f7ce0f6f040a1ee5fa104105e371e76eb3bcdd8e5ec97b93d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d4710d8ab773eb9fa6d5d30ed8d00f9773e5c135f5d7b4b2a903c136481bac6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65de75637114514f840ab89b1e64b63b93a474f58f6881da65c31e38751e2eed", "verdict": "adds_false_claim", "reason": "'He picked up all ten of his hands' worth, one, two, three, four, five.' He has five monkeys, not ten; the count contradicts itself."}
+{"prompt_hash": "d32896f2b87dfbb346f8c00fdf2df78a683e119506860858bf375db9adf28085", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a007b6bbaebf4c2a4220331f933902e311c0ab59784a1980c2a598179447670", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7dc20df05f44e32fba84439e54cf0ddf21c745aa10f3c929a7527448230ccc30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32c5735320bc3296a88c68ead9b260a458f2a7e39b7b0a24253480378123f15a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98fa738afaae5c431047bb63cbed9f1825026909080c8b50f2e72f27d498612e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e80d25054cd5ea6cc6f7163be8899eade969f1abf0dad369886412253fc7976c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3f01701ba79a2f0442dbe46e904131f61b068c2791085dcd5c4258bd3ebbd07", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b25ccd821e86efc98c5171282328e4e9973c9079c8255be43bae8aaada18878b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68bd066dce3c73f60fec13aaa807eb6fc06460fad220b3b9f345fd6e65c2f47d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc8fbb2b4f296da5635efc3f65533be50dda0520535a72a8fae66529b10b80fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "baa9b174edcfc00ca54520edf1af7e33164fff6596864a70d5691fd8642ec7b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ecf893e992ed31ad17f194e477310029503a55d34ca51949bb2ff7cbff723a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d521f81fb9bd0a99e6959eda0305dea83075bc91c1bd324a014631b9c2b8b03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "852b6b0b528087b458f0af9639cbf2555d1e994bd56adc9f090305566ec8fe03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e48f530b78f6bef0f054e2cd0c0543b7df71f5cc62562c8b5f11a7b191f22bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "654320ccd0ed28ef5f591df68f2757f6eb9f490a0a8739a51ea00db1b7d246eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "518d4820efc2ee9925666a3c42b7179d5a622addc3d19b52a9101323d21cb91c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e63f61f440fb5f0807ac1441ef7b7c9bb90a3f1e2640f35fef7f79bdb6143ce4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f19c14fadbf2ea3c695f7e86af2658322a03a324cd4df5cba6dfe27dfd1f019", "verdict": "fact_missing", "reason": "The story never says not to put fingers or things into an outlet; Mama just plugs in the nightlight."}
+{"prompt_hash": "1b51818202ebf082103390264b4873d3adb2f80e6eedb5244a0c736402f958bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93bd16cec1d91a89f3323ee2930cab678aa6078bc7a9a817b6efe333df87fdb9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "676281d3267a1d74b6a3b3b3b732f06be7aa838c99df707fe343bfc6b218fba1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "061d2c3e0931c7330648f1954c01bcfaed7b849d69a45e39f7b49a96d264c90c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9bc6a9e14741c0a3f73d6eb9386f0da544ee7a610befd6fe7d58d5b386d6c0fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f9af7add4060517d7a06cac55e311dda1ddbfd4fdee7daf9e95ea89b986f39e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81e519c7fcfae63d01de631ee40072cea3ac25e16bf8b71c95cff43bfaa88e5d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a72326debf2efb4fbc83fe15866896dab0f01f11d97a8e74c69f225cd687c0bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ab8beecdb7fbb7a8fdf1e68da91a8a6c8d358c0a1a71df7a6b38224977def1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17416177bf01b65b05cd3e7dd3ac8848c9cbbeeb7769def5c40f893baba7fea7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc9c126057eca6556ea4f98ce36a705f37b9246da29e518c85a3497d0c7495f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f076a476d69610f73ed54bb2388985155aca31c03689c94fea34b8cd88292ee3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8244c188c62f2a7b58477d041cb65372c8e1495bbd3d8b29735a09ca650e04c1", "verdict": "consistent", "reason": ""}

@@ -1,75 +1,77 @@
 # Tier 0 production corpus
 
 Generated 2026-09-24 from 1,000 tier-0 training prompts using seed 42, with the
-v5 story template and, for the first time, a verified fact for every prompt
-drawn from the per-activity fact bank (`tools/prompt_lab/facts/activity/`,
-commit ad97bc6). It replaces the v5 corpus, which is archived with its full
-reviews under `data/_archive/tier0_2026-09-24_template_v5/`; that corpus had
-no fact for 935 of its 1,000 prompts.
+v5 story template plus the fact rule (every part of the fact must come
+through; any word the fact names is said in dialogue) and the revised
+per-activity fact bank (12 facts retired, 4 reworded; commit 4d8b1f3). The
+fixes were tested first on the 123 failed configurations of the previous
+corpus (`tools/prompt_lab/runs/r10_fact_fixes/NOTES.md`). The previous corpus
+is archived with its reviews under
+`data/_archive/tier0_2026-09-24_activity_facts/`.
 
 The prompt configurations are unchanged: every name, required word, setting,
-tone, age and activity matches the archived manifest row for row. Only `fact`,
-`fact_hook` and (for the 65 prompts that previously drew a domain fact)
-`domain` differ, so every prompt hash is new. 533 distinct facts are used, none
-more than 6 times.
+tone, age and activity matches the archived manifest row for row. Only `fact`
+and `fact_hook` differ, in 184 rows, and the template wording changed, so every
+prompt hash is new.
 
 ## Generation
 
 - Model: `z-ai/glm-5.3@openrouter/Baidu/fp8/reasoning=low`
 - Completed: 1,000/1,000 unique prompt hashes
-- Input tokens: 685,636
-- Output tokens: 241,766
-- Approximate cost: $0.81 at the estimator's list rates ($0.56 in, $1.76 out
-  per million tokens); expect the bill to be higher, as with earlier corpora
+- Input tokens: 757,712
+- Output tokens: 250,019
+- Approximate cost: $0.86 at the estimator's list rates ($0.56 in, $1.76 out
+  per million tokens); expect the bill to be higher
 - Empty stories: 0
 - Titles or markdown: 0
 
-The first pass wrote 994 stories. The `story_defect` check rejected six
-completions as retryable (four with sentences run together, one ending
-mid-sentence, one with a leaked markup tag); one resumption regenerated all six
-cleanly.
+The `story_defect` check rejected three completions on the first pass; one
+resumption regenerated them cleanly.
 
 ## Local quality metrics
 
-From `tools/prompt_lab/corpus_metrics.py` (v5 corpus without activity facts in
-brackets):
+From `tools/prompt_lab/corpus_metrics.py` (previous corpus in brackets):
 
-- Mean story length: 169 words (168)
-- Mean sentence length: 5.5 words (5.6)
+- Mean story length: 171 words (169)
+- Mean sentence length: 5.5 words (5.5)
 - Mean paragraph count: 5.3 (5.3); paragraph targets are estimates, not a quality signal
-- Required verb used: 703/1,000 (733)
-- Required noun used: 841/1,000 (853)
-- Required adjective used: 896/1,000 (904)
-- Total required vocabulary slots used: 2,440/3,000, 81.3% (83.0%)
-- "because" per story: 0.02 (0.04)
+- Total required vocabulary slots used: 2,461/3,000, 82.0% (81.3%)
+- "because" per story: 0.02 (0.02)
 - Generation artefacts (`story_defect`): 0 (0)
 
 ## Acceptance status
 
-Generation is complete and both gates have run on Opus, but this corpus is
-**not yet accepted for training**: failing hashes must be regenerated first.
+Both gates ran on Opus. This corpus is **not yet accepted for training**:
+failing hashes must be regenerated first.
 
-- Fact check: 929/1,000 pass (43 adds_false_claim, 3 contradicts_fact, 25 fact_missing)
-- Age fit: 930/1,000 pass (score 1: 1, 2: 69, 3: 752, 4: 178)
-- Regeneration queues: 71 fact + 70 age, 18 in both, 123 stories in total
+- Fact check: 956/1,000 pass (37 adds_false_claim, 3 contradicts_fact, 4 fact_missing)
+- Age fit: 928/1,000 pass (score 1: 1, 2: 71, 3: 787, 4: 141)
+- Regeneration queues: 44 fact + 72 age, 13 in both, 103 stories in total
   (`full/stories.jsonl.regen_queue.jsonl`, `full/stories.jsonl.age_regen_queue.jsonl`)
 
-Against the v5 corpus, reviewed the same way on Opus (929 fact, 942 age):
+Against the three tier-0 corpora so far, all reviewed on Opus:
 
-- Invented false claims fell from 64 to 43. The facts replaced most of what the
-  generator used to make up.
-- fact_missing rose from 5 to 25, because every story now has a fact it can
-  fail to convey. Most of these are stories that show the idea but never use
-  the word the fact defines ("primary colours", "icons", "author", "countdown").
-- The fact-check pass count is therefore unchanged at 929.
-- Age-fit fails rose from 58 to 70. Almost all are confusing or
-  self-contradicting plots, not vocabulary, sentence length or safety.
-  Uncorrected unsafe scenes are rare: 3 of the 70 reasons mention safety.
-- Fails cluster in abstract concept activities: number words (12 of the
-  queued stories), time words (11), writing (9), then categories, senses,
-  opposites and reading (6 each). Facts such as "a week has seven days" or
-  "tomorrow becomes today" draw the generator into tangled counting and
-  time reasoning that a 3-5-year-old cannot follow.
+| | v5, no activity facts | activity facts | + fact fixes (this) |
+|---|---|---|---|
+| pass both gates | 890 | 877 | **897** |
+| fact-check pass | 929 | 929 | **956** |
+| - adds_false_claim | 64 | 43 | 37 |
+| - fact_missing | 5 | 25 | 4 |
+| age-fit pass | 942 | 930 | 928 |
+| age score 4 | 182 | 178 | 141 |
+
+- The fact rule did what it was for: fact_missing fell from 25 to 4, and false
+  claims kept falling.
+- Age fit did not improve at corpus scale, unlike the r10 check on the 123
+  hardest configurations (97 -> 111 of 123). Pass rate is flat and fewer
+  stories reach score 4. Reviewers often note one-line definitions spoken by
+  an adult ("Now means at this very moment") as a small minus; that is a
+  plausible side effect of the rule to say the fact's word, but age fails
+  citing definitions or abstraction fell (21 -> 13), so it costs polish, not
+  passes.
+- Age fails are muddled plots, forced required words and a few uncorrected
+  unsafe acts, not vocabulary or sentence length. They cluster in time words
+  (12 of the queued stories), body and senses (9) and opposites (8).
 
 ## Artifacts
 

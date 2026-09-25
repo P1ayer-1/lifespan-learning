@@ -1,40 +1,40 @@
-{"prompt_hash": "2a0a6770ab6f90d18b05c79193a18873023264126f7868110888684fcea0ca4d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "9338c795ac931ab135e6c21136fbac517cdb7c2b4782a5adf5b8d6d8b4b465b7", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "db5020f10de97fbe4821ae4f7e95dad4c6caebb2d02dbd147a60c43a593475b3", "verdict": "fact_missing", "reason": "The story never conveys that darkness makes colors hard to tell; Luca finds things in the dark tent by touch and the story is about shape, not color."}
-{"prompt_hash": "7cd103e614d61bf03b8461beecd4f4debb3b278091dc96fbf00e0042f63fa429", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "934904373b9e7a0df56ed836ae9167b99ce234bdfe7bccce9b053450efb3ac9c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d3eb11cdd613e99e4342a263bb178f396810d16a5b163e473babc4a15a241870", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4dddd5fd7c8b7c3879c0aba09f57dc40f9a11715b46c9a397399cd37dca1ae04", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "049072b0063f3b0649a810050740f9157cb17af7bb676c360a5cfd3007c750bb", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c6755e54cd1a46ea78fee79dc4609135c7cc9ff1697709725785baa8660df3d6", "verdict": "adds_false_claim", "reason": "'Mom sat in front with a little bundle... \"I will hold him,\" said Mom.' A newborn must ride buckled in a rear-facing car seat, never held in a grown-up's arms in a moving car."}
-{"prompt_hash": "6647831f4b2dc1b7d85eb05d3a966c6eb54da13435acfa00f961b1989f05bbd0", "verdict": "fact_missing", "reason": "The story never conveys that toys cannot really feel; Mia's 'He is hurt. He is scared' is played along with and never framed as pretend."}
-{"prompt_hash": "d7b5d1cfa870bfd2b4d3aff41f5aabc8977439045552e4e4953c9d739dc068da", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "da310775d120704044c1e5a1eb49b417f226e8a876e7ba5aa86b5ae101907d57", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3e468f6db8b29e49279dc0805a6a6d267a3ab1694c062b9d5e4026b22852b537", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "91353ebc1e4c1a5f40abd25fbec1d844c63acc3b2ce0fe549557281982d8ef03", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "eb149ea6d17a77d48ad00677c71418add46b227ba217f12193d874d51d55e505", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "af66bae21b3cd988fee2b7f1b43934639507d327a83f732f185394433933215c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "97928080658f5e4b474a4d4118734de35b265ded8ff4492c75c6de455508ece9", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "91873d61509552286495133e468405b070d19d5992fbb2f2c76f0f435811714c", "verdict": "adds_false_claim", "reason": "'He counted to ten. Then he touched the butter. It was soft now.' Fridge butter takes tens of minutes at room temperature to soften, not ten seconds."}
-{"prompt_hash": "430bdae7725358cb1120fb1df228c437a5f0ac13c59e6b460d1136e3b83d6346", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "3d11aaae9376cc17ce609f8a2527c72b6aaf4d4c0ca21b96efdf924f8cfcc31c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "896fbccdc19c4bb700865cdf67d579030bb8d169c40e31cf2bcb26d6acc80412", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "21b5af095f8d58a49bf65d6cee1f8504ee7d24a4a85f00bd3ee5eac8f5612546", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4674c20c0cfc9953e9d6604b7b5689ac751828ea48b0cda87938bc215be551c3", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "72fe15e68a5e2927ee077da12675f69b7d5aa5cb4092858edd7ad7eaeccf5bc1", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "f14ab42abbacb0c73a5bcdb19f1c067bc9b4854bee3fabac5c2167270f3cb061", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "4a6192d9c82f09da49ad3a7770dcc3bcbfb0c3002f207c6eadfbbb277f53fd0b", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "424a70f95132a63da70b90d293d73329d8e6a28e3fdeab646fe663f93275f449", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "1393a7dd777ecce11101f721b888afe084839857948f6f85c1304f1b0dabe68c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "c17cbc71464872d59b0219c4add14868383d555de9b147160c3394148dbd781c", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "80c88cb6a72c79a2c1bd1e6d3b3b679f200af956fdcd771c853d917ea506d4e8", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "24b9a37f7dc7176db2a99cd4647a8c03e113a6fe5edcc52ea7da51495ccc029d", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "86cc1eb323bf0a347c3ebcecf6752e3e5ca0fe36318335887aadb454bc56ea50", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "d3b91bb6e6365af07c6ac40ce0443cfe53606a9b4822a45f59ee2b7497701d44", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "068a17c2196a3b81681537f14159682e5dfd3f856b2a1db0d724e738cdd3925b", "verdict": "adds_false_claim", "reason": "'\"So Saturday comes after all seven days?\" he asked. \"Yes,\" said Mom.' The number of days until Saturday depends on what day it is today; it is not always seven."}
-{"prompt_hash": "853afabd4904d61b561638fb5f4542d985442fc662739b437b67de3f82ac9a98", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "bbf5326c08a31ce1ec4efc495da06bca654b63cba0a968db61546623afd02362", "verdict": "adds_false_claim", "reason": "'He rubbed his hands. One, two, three rubs. The mud went down.' Handwashing before eating needs soap and about 20 seconds of scrubbing, not three rubs with plain water."}
-{"prompt_hash": "e934ea652ba2a996889520b8e9ec42b7832335d35e4c3cfe87baa9364be3dbca", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "b5a5cd5d9846b66040427d5123baaaef5f418f35ff997d26c24bd7b5afb27375", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "bc6cebe8fed1c2d1921f505525219d70fb271a9193bb8fe5c99265ef7373fc81", "verdict": "consistent", "reason": ""}
-{"prompt_hash": "da95a77e8f164b16dbc686952ac49ff0334ed0c0028b7c6c7a53087b55b4d11f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d472f17d2cc90be4c0362791e897cb8deec3a518d3a3e35b7b5b547443b2f28", "verdict": "fact_missing", "reason": "The fact 'Yesterday is the day before today' is never stated; the story only says 'Yesterday already went by.'"}
+{"prompt_hash": "e4ef59c42e6a737347ebdd954e56ab02e5de8346af1db2bf806b4876bbc19513", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93d8b8fb156da67f85cd882579f98acf0578116acf49a9fb5394af22b0dc3094", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cfca715c839bdb4c776826479d09db722d93eb1a99eaf3ad5bd74fa46201fcf3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b60d575eb1e1e2e5fcb3bfc219999ec3ccb6770432f31bfeaa980dac1995789", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc57264007551fc1b9672b6a64c01d8cc1459b1f5e3d67bcc3530f005fb4668a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d46938379cbf547bbfd834bf8cb350deb1e1938adcc7ea06d2142b49aa215519", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d54a4705b7c1e74bd8098db18caee50455e6d273cb4eb09207ea0fa38c67371", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83bb969afb425aa27bcde40efc372d0bad339ad967d087721d75ba24f7d2a06d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23575b05b8b209ce39e4ea0771c462a09cb8f5eb1f424911755a6cc20314c587", "verdict": "adds_false_claim", "reason": "'Mom sat in front. Baby Max sat next to Mom in his little seat.' Babies must ride in a car seat in the back seat, never in the front seat."}
+{"prompt_hash": "24ac0eb347d1a65c77913dd25150c8953d95f059be70e27275df7c19e90cad70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f64464de2cd8b34e6a01fa56ad298d1b0a6bb548e52b8354405a9f9dcb45528", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3488b90e099b92732c8cbd9c0d1006f736ddea447ed3f52ede188e8d7f1eebf8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "815712483d6360bad0ae3dd1aa691edd291c8c26bc0223c7ac41a69f4c53050c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed2902d5e84a31de380ddd19650a6d3e17b2bf2ec23f879d9db699817d17b198", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0fa55f0a3d644e761384d627c361a98d3b8c82c7c8d0dcbf9588a27eb3554a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "adcc0231b7aab571b4a02a1f04344d37f5f4e17e24d53b06b136ce33c8deb6d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b95b01165f26b806ff777e70c17440fa29173f1c0ec1f236e85317032d587748", "verdict": "adds_false_claim", "reason": "'But now the yellow pot was all blue inside.' Stirring a blue brush into yellow paint turns the yellow pot green, not blue."}
+{"prompt_hash": "359287b5f83ff49f22bee9f26761fed9e9affb31a8ac507adc9fcc8ce8204672", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8a0acd5be6e348b248d90e5b164930c8498113035bbe25325ef5557ef322b94", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc50f54a0f20a7fc28538ce9d3f17fac2f4dcbb6d317353bbb07b75f1a156063", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ee59aecdbb7f33a5d1b4b3eed6691dc0fac747a2695082c7a4e9022dfea370a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b35675b51a3ace1571969eb0f829e0c48de51d77b6b293d7d8e5155fb09aff2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9cf0b889452b7fef523ca7e899d62592396cbd7af1a557db470a799b03d8314", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "354ee8ceb2bd433e5a355e36c46272703050544aa878596adcbffcd5705aef77", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0564cbf2751ba9fa8662aa10e38c8d1aa9f63d5f52fb48366e8bd83b10c5f44e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06475942ec3055da35af5547aac0f12cbd25886be0eb07bb8475770d026fe147", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d390d5b1cc456d9cfc9377135cf763530f33fb73dc7a721cd03f8f55f23ced56", "verdict": "adds_false_claim", "reason": "'A big plane went up, up, up into the sky! The plane made wind. The wind pushed a hat right off a man's head.' A plane taking off from the runway does not blow hats off people in the airport."}
+{"prompt_hash": "a4c531483453642cb0e9aa0bf3cc60c664cf6b4f25be301ad1548876887e9db4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b1b1275c5317292a5b8452dba6903764bfa1f07bff0d03e24f113786b2eafb4", "verdict": "adds_false_claim", "reason": "'Her blocks on the floor bounced a little with each clap.' Clapping hands does not make blocks on the floor bounce."}
+{"prompt_hash": "1fc8e63fdce0ca137ec7a085ec49ae2d0412f31c956d09fb2130037605944278", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6d22c843e41f9ddff7ef9262cf83a4c8ade598f5a47eead4c6f4a61d49c8632", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc24e08ff6f429515245cb782df31fa37a9194761b1f2a1ceb35c697102204bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b28cf2f11ede9b3af61ccb1ca0eb5141723e938ce146479fc7c5c9789d745e8e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb46d5637f0147e89a0b8ed26b7001040960cc2208da5fe288e5b9a1a981b88f", "verdict": "adds_false_claim", "reason": "'Axel counted his beans again. \"Four, five, six, seven. Seven!\"' He had four beans and got two more, so he has six, not seven."}
+{"prompt_hash": "432c9b8accc6774decf40db3e65293a74f3fabc198e3e0917ab3a2f89ed319e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a69ebc6153856bb56b65413b058a62c88513b0ec65125cf41ed720a612a551b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cff2983c0ebacda7edeaf3953c17eee0f70650aff384e257fedb7323c42433c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9533796850d9f22aea631be64dea8b8f80923ae5cdb0c51430de42a77ed6a1dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb847cc10e589322aa552ca9d539b2bbf3d918b92236a43ed6d7d73d5feb40a6", "verdict": "consistent", "reason": ""}
