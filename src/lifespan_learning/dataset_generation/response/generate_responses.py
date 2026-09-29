@@ -3,8 +3,14 @@ model (GLM 5.3 through OpenRouter pinned to Baidu by default, or Claude
 through the Message Batches API with --provider anthropic), and writes one
 story per line in a frozen shape:
 
-    {"prompt_hash": ..., "phase": ..., "tier": ..., "story": ...,
-     "model": ..., "timestamp": ...}
+    {"prompt_hash": ..., "phase": ..., "tier": ..., "split": ...,
+     "story": ..., "model": ..., "timestamp": ...}
+
+`split` is copied from the prompt's own metadata.split (generate_prompts.py
+writes it on every prompt). A corpus-wide registry (--corpus-registry /
+--new-corpus-registry, see below) is REQUIRED on every run: it is the single
+source of truth for "one model for the whole corpus" and, per --out file, for
+which split lives there. Nothing about it is created silently.
 
 Replaces `response/scratch.py` (a one-call Gemini-on-Vertex example with a
 GCP project id hardcoded in source, superseded by the 2026-09-22 decision
@@ -20,14 +26,16 @@ nothing extra. Retries with backoff apply only to retryable failures
 "invalid_request"); 4xx-shaped failures are never retried.
 
 Usage:
-    # Cost estimate only, no API call:
+    # Cost estimate only, no API call (no registry needed):
     python generate_responses.py --prompts train.jsonl --out train_stories.jsonl --dry-run
 
-    # Smoke batch (max 20 -- see the spend gate in this project's brief):
-    python generate_responses.py --prompts train.jsonl --out smoke.jsonl --limit 20
+    # First run of a new corpus (declares the registry; must not already exist):
+    python generate_responses.py --prompts train.jsonl --out train_stories.jsonl \
+        --new-corpus-registry data/tier0/_generation_model.json --limit 20
 
-    # Real run (the lead runs this after the owner says yes):
-    python generate_responses.py --prompts train.jsonl --out train_stories.jsonl
+    # Every later run against that corpus (registry must already exist and match):
+    python generate_responses.py --prompts train.jsonl --out train_stories.jsonl \
+        --corpus-registry data/tier0/_generation_model.json
 """
 from __future__ import annotations
 
@@ -178,10 +186,16 @@ class PromptRecord:
     prompt: str
     phase: int
     tier: int
+    split: str
 
 
 def load_prompts(path: Path) -> list[PromptRecord]:
+    """Load a prompt jsonl. Refuses (hard exit) a file whose lines carry
+    more than one metadata.split -- train and exam prompts must never be
+    generated from the same file, which is what would let an exam prompt
+    slip into a train --out with no other signal to catch it."""
     records = []
+    splits_seen: set[str] = set()
     with path.open("r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -189,23 +203,37 @@ def load_prompts(path: Path) -> list[PromptRecord]:
                 continue
             row = json.loads(line)
             metadata = row["metadata"]
+            split = metadata["split"]
+            splits_seen.add(split)
             records.append(
                 PromptRecord(
                     prompt_hash=row["prompt_hash"],
                     prompt=row["prompt"],
                     phase=metadata["phase"],
                     tier=metadata["tier"],
+                    split=split,
                 )
             )
+    if len(splits_seen) > 1:
+        print(
+            f"REFUSING: {path} mixes splits {sorted(splits_seen)!r} in one prompt file. "
+            f"A prompt file must carry exactly one split throughout; generate train and "
+            f"exam prompts into separate files and run this script once per file.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
     return records
 
 
-def existing_hashes_and_model(out_path: Path) -> tuple[set[str], str | None]:
-    """Prompt hashes already written, and the model id already on record (if any)."""
+def existing_hashes_and_model(out_path: Path) -> tuple[set[str], set[str]]:
+    """Prompt hashes already written, and EVERY model id found on ANY line
+    (not just the last). A file written M2-then-M1 must be caught as mixed
+    even though its last line looks fine -- collecting only the last line's
+    model is exactly the bug that let that pass as M1."""
     hashes: set[str] = set()
-    model: str | None = None
+    models: set[str] = set()
     if not out_path.exists():
-        return hashes, model
+        return hashes, models
     with out_path.open("r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -213,8 +241,27 @@ def existing_hashes_and_model(out_path: Path) -> tuple[set[str], str | None]:
                 continue
             row = json.loads(line)
             hashes.add(row["prompt_hash"])
-            model = row.get("model", model)
-    return hashes, model
+            m = row.get("model")
+            if m is not None:
+                models.add(m)
+    return hashes, models
+
+
+def existing_splits_in_file(path: Path) -> set[str]:
+    """Every `split` value found on any line of a story file."""
+    splits: set[str] = set()
+    if not path.exists():
+        return splits
+    with path.open("r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            row = json.loads(line)
+            s = row.get("split")
+            if s is not None:
+                splits.add(s)
+    return splits
 
 
 # Corpus files carry stories; these suffixes are OUR OWN sidecars living next
@@ -233,60 +280,60 @@ def _is_corpus_file(path: Path) -> bool:
     return not any(name.endswith(suffix) for suffix in NON_CORPUS_SUFFIXES)
 
 
-def model_ids_in_directory(directory: Path) -> dict[str, str]:
-    """Map {file_name: model_id} for every corpus .jsonl file in `directory`
-    (excluding our own .failed.jsonl / .regen_queue.jsonl sidecars) that has
-    at least one line carrying a model id."""
-    models: dict[str, str] = {}
+def model_ids_in_directory(directory: Path) -> dict[str, set[str]]:
+    """Map {file_name: {model ids}} for every corpus .jsonl file in
+    `directory` (excluding our own .failed.jsonl / .regen_queue.jsonl
+    sidecars) that has at least one line carrying a model id. A file's set
+    has more than one member exactly when that file itself already mixes
+    models (e.g. written M2-then-M1) -- that always conflicts, whatever
+    model the current run wants, because there is no single model_id it
+    could equal."""
+    models: dict[str, set[str]] = {}
     if not directory.exists():
         return models
     for path in sorted(directory.glob("*.jsonl")):
         if not _is_corpus_file(path):
             continue
-        _, model = existing_hashes_and_model(path)
-        if model is not None:
-            models[path.name] = model
+        _, file_models = existing_hashes_and_model(path)
+        if file_models:
+            models[path.name] = file_models
     return models
 
 
-def default_registry_path(out_path: Path) -> Path:
-    """Where the cross-split model registry lives by default: one level
-    above the split directory (out_path.parent), i.e. the corpus root a
-    train/ and exam/ directory would share as siblings. Pass
-    --corpus-registry explicitly if train and exam don't share a parent."""
-    return out_path.parent.parent / CORPUS_REGISTRY_NAME
+def split_ids_in_directory(directory: Path) -> dict[str, set[str]]:
+    """Map {file_name: {split values}} for every corpus .jsonl file in
+    `directory`, mirroring model_ids_in_directory."""
+    splits: dict[str, set[str]] = {}
+    if not directory.exists():
+        return splits
+    for path in sorted(directory.glob("*.jsonl")):
+        if not _is_corpus_file(path):
+            continue
+        file_splits = existing_splits_in_file(path)
+        if file_splits:
+            splits[path.name] = file_splits
+    return splits
 
 
-def check_model_consistency(out_path: Path, model_id: str, registry_path: Path | None = None) -> None:
-    """One model for the WHOLE corpus -- every phase file in --out's
-    directory, AND, via a small shared registry file, every split (train
-    and exam alike). A model change anywhere in here is a confound the
-    forgetting curve cannot separate from forgetting, so this is a hard
-    exit, and the message never suggests picking a different --out --
-    that is exactly the move that would create the confound. The only
-    correct remedies are to regenerate the whole corpus with one model, or
-    to start a new corpus directory understood to be a new experiment.
+def check_model_consistency(out_path: Path, model_id: str) -> None:
+    """One model for every phase file in --out's directory. A model change
+    within a directory (or a file that on its own already mixes models) is
+    a confound the forgetting curve cannot separate from forgetting, so
+    this is a hard exit, and the message never suggests picking a
+    different --out -- that is exactly the move that would create the
+    confound. The only correct remedies are to regenerate the whole corpus
+    with one model, or to start a new corpus directory understood to be a
+    new experiment (see --new-corpus-registry).
     """
-    directory = out_path.parent
-
-    # 1. Within this directory (catches a model change between phase files
-    #    of the same split, e.g. train_phase_3.jsonl vs train_phase_4.jsonl).
-    directory_models = model_ids_in_directory(directory)
-    conflicting = {name: mid for name, mid in directory_models.items() if mid != model_id}
-
-    # 2. Across splits, via the shared registry (catches train vs exam).
-    registry_path = registry_path or default_registry_path(out_path)
-    registry_model = None
-    if registry_path.exists():
-        registry = json.loads(registry_path.read_text(encoding="utf-8"))
-        registry_model = registry.get("model")
-        if registry_model is not None and registry_model != model_id:
-            conflicting[str(registry_path)] = registry_model
+    directory_models = model_ids_in_directory(out_path.parent)
+    conflicting = {name: models for name, models in directory_models.items() if models != {model_id}}
 
     if conflicting:
-        conflict_lines = "\n".join(f"  {name}: model={mid!r}" for name, mid in sorted(conflicting.items()))
+        conflict_lines = "\n".join(
+            f"  {name}: model(s)={sorted(models)!r}" for name, models in sorted(conflicting.items())
+        )
         print(
-            f"REFUSING to write: {out_path} would add model={model_id!r} to a corpus that "
+            f"REFUSING to write: {out_path} would add model={model_id!r} to a directory that "
             f"already contains a different model:\n{conflict_lines}\n"
             f"One model for the whole corpus, train and exam alike. This is NOT fixed by "
             f"writing to a different --out -- either regenerate the whole corpus with one "
@@ -295,9 +342,116 @@ def check_model_consistency(out_path: Path, model_id: str, registry_path: Path |
         )
         sys.exit(1)
 
-    if registry_model is None:
-        registry_path.parent.mkdir(parents=True, exist_ok=True)
-        registry_path.write_text(json.dumps({"model": model_id}, indent=2) + "\n", encoding="utf-8", newline="\n")
+
+def check_split_consistency(out_path: Path, split: str, registry: dict) -> None:
+    """--out never mixes splits: not with lines already written to it, and
+    not with what the corpus registry already recorded for this exact file
+    path (so even a deleted-and-regenerated file is still caught). Train
+    and exam sharing one registry is by design (finding 2); this check is
+    per-file, so it never conflicts with that."""
+    conflicting: dict[str, set[str]] = {}
+
+    directory_splits = split_ids_in_directory(out_path.parent)
+    for name, splits in directory_splits.items():
+        if splits != {split}:
+            conflicting[name] = splits
+
+    registry_files = registry.get("files", {})
+    recorded = registry_files.get(str(out_path.resolve()))
+    if recorded is not None and recorded != split:
+        conflicting[f"registry record for {out_path}"] = {recorded}
+
+    if conflicting:
+        conflict_lines = "\n".join(
+            f"  {name}: split(s)={sorted(splits)!r}" for name, splits in sorted(conflicting.items())
+        )
+        print(
+            f"REFUSING to write: {out_path} would add split={split!r} but this location "
+            f"already carries a different split:\n{conflict_lines}\n"
+            f"Train and exam stories must never be combined in one file. Regenerate from "
+            f"the correct split's prompt file instead.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+
+def load_or_create_registry(
+    corpus_registry: Path | None,
+    new_corpus_registry: Path | None,
+    model_id: str,
+) -> tuple[dict, Path]:
+    """Load the corpus-wide registry (--corpus-registry, must already exist
+    and its model must match) or create one (--new-corpus-registry, must
+    NOT already exist). Exactly one is required on every run -- a registry
+    is never created silently, and this function never suggests a way
+    around passing one."""
+    if corpus_registry is not None and new_corpus_registry is not None:
+        print(
+            "REFUSING: both --corpus-registry and --new-corpus-registry were given. "
+            "Pass exactly one: --corpus-registry to continue an existing corpus, or "
+            "--new-corpus-registry to start a new experiment's registry.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    if new_corpus_registry is not None:
+        if new_corpus_registry.exists():
+            print(
+                f"REFUSING: --new-corpus-registry {new_corpus_registry} already exists. "
+                f"--new-corpus-registry declares a NEW experiment's registry and must not "
+                f"already exist. Pass --corpus-registry {new_corpus_registry} instead to "
+                f"continue the corpus already recorded there.",
+                file=sys.stderr,
+            )
+            sys.exit(1)
+        return {"model": model_id, "files": {}}, new_corpus_registry
+
+    if corpus_registry is None:
+        print(
+            "REFUSING: no corpus registry given. Every run needs one: pass "
+            "--corpus-registry <existing registry file> to continue this experiment's "
+            "corpus, or --new-corpus-registry <path> to start a new one. A registry is "
+            "never created silently.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    if not corpus_registry.exists():
+        print(
+            f"REFUSING: --corpus-registry {corpus_registry} does not exist. Pass "
+            f"--new-corpus-registry {corpus_registry} instead if this is meant to start a "
+            f"new experiment's registry.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    registry = json.loads(corpus_registry.read_text(encoding="utf-8"))
+    registry.setdefault("files", {})
+    return registry, corpus_registry
+
+
+def check_registry_model_consistency(registry: dict, registry_path: Path, model_id: str, out_path: Path) -> None:
+    """One model for the whole corpus, train and exam alike, via the shared
+    registry (catches a model change between splits, which live in
+    different directories and so are invisible to check_model_consistency)."""
+    registry_model = registry.get("model")
+    if registry_model is not None and registry_model != model_id:
+        print(
+            f"REFUSING to write: {out_path} would add model={model_id!r} but the corpus "
+            f"registry {registry_path} already records model={registry_model!r}.\n"
+            f"One model for the whole corpus, train and exam alike. This is NOT fixed by "
+            f"writing to a different --out -- either regenerate the whole corpus with one "
+            f"model, or use --new-corpus-registry to start a new experiment's registry for "
+            f"a genuinely different corpus.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    registry["model"] = model_id
+
+
+def save_registry(registry_path: Path, registry: dict) -> None:
+    registry_path.parent.mkdir(parents=True, exist_ok=True)
+    registry_path.write_text(json.dumps(registry, indent=2, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
 
 
 def append_records(out_path: Path, records: list[dict]) -> None:
@@ -416,6 +570,7 @@ def collect_batch(
                     "prompt_hash": result.custom_id,
                     "phase": prompt_record.phase,
                     "tier": prompt_record.tier,
+                    "split": prompt_record.split,
                     "story": clean_story(result.text or ""),
                     "model": provider.model_id,
                     "timestamp": now,
@@ -451,20 +606,34 @@ def run(
     poll_seconds: float = 20.0,
     poll_timeout: float = 3600.0,
     fake_provider: StoryProvider | None = None,
-    registry_path: Path | None = None,
+    corpus_registry: Path | None = None,
+    new_corpus_registry: Path | None = None,
     provider_name: str = DEFAULT_PROVIDER,
     upstream: str = DEFAULT_UPSTREAM,
     quantization: str = DEFAULT_QUANTIZATION,
     reasoning_effort: str = DEFAULT_REASONING_EFFORT,
 ) -> dict:
+    # Prompts first (no credentials needed): refuses a mixed-split prompt file
+    # before anything else happens.
+    prompts = load_prompts(prompts_path)
+    prompt_by_hash = {p.prompt_hash: p for p in prompts}
+    split = prompts[0].split if prompts else None
+
     provider = build_provider(model, fake_provider, provider_name, out_path, upstream, quantization, reasoning_effort)
-    check_model_consistency(out_path, provider.model_id, registry_path)
+
+    registry, registry_path = load_or_create_registry(corpus_registry, new_corpus_registry, provider.model_id)
+    # Directory-level model check first: it names the two conflicting files
+    # directly, which the registry-level check (next) cannot -- run it before
+    # the registry check so that message wins when both would fire.
+    check_model_consistency(out_path, provider.model_id)
+    check_registry_model_consistency(registry, registry_path, provider.model_id, out_path)
+    if split is not None:
+        check_split_consistency(out_path, split, registry)
+        registry.setdefault("files", {})[str(out_path.resolve())] = split
+    save_registry(registry_path, registry)
 
     state_path = out_path.with_suffix(out_path.suffix + ".batch_state.json")
     failed_path = out_path.with_suffix(out_path.suffix + ".failed.jsonl")
-
-    prompts = load_prompts(prompts_path)
-    prompt_by_hash = {p.prompt_hash: p for p in prompts}
 
     written_total = 0
     skipped_total = 0
@@ -591,10 +760,20 @@ def build_arg_parser() -> argparse.ArgumentParser:
         default=None,
         dest="corpus_registry",
         help=(
-            "Shared cross-split model registry file. Defaults to a "
-            f"{CORPUS_REGISTRY_NAME!r} file one directory above --out (the corpus root "
-            "a train/ and exam/ directory would share as siblings). Pass this explicitly "
-            "if train and exam don't share a parent directory."
+            "Existing corpus-wide registry file (shared across train and exam) that this "
+            "run's model must match. Required unless --new-corpus-registry is given; never "
+            "created automatically."
+        ),
+    )
+    parser.add_argument(
+        "--new-corpus-registry",
+        type=Path,
+        default=None,
+        dest="new_corpus_registry",
+        help=(
+            f"Path for a brand-new {CORPUS_REGISTRY_NAME!r}-style registry that declares a "
+            "new experiment's corpus; must not already exist. Use this exactly once, for "
+            "the first run of a new corpus; every later run against it uses --corpus-registry."
         ),
     )
     return parser
@@ -634,7 +813,8 @@ def main(argv: list[str] | None = None) -> None:
             max_batch_retries=args.max_batch_retries,
             poll_seconds=args.poll_seconds,
             poll_timeout=args.poll_timeout,
-            registry_path=args.corpus_registry,
+            corpus_registry=args.corpus_registry,
+            new_corpus_registry=args.new_corpus_registry,
             provider_name=args.provider,
             upstream=args.upstream,
             quantization=args.quantization,
