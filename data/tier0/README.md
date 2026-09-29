@@ -16,6 +16,17 @@ prompt hash is new.
 
 ## Generation
 
+Command (2026-09-25 on: `--corpus-registry` is required and must point at
+the canonical registry below; a new corpus would instead pass
+`--new-corpus-registry`):
+
+```
+python -m lifespan_learning.dataset_generation.response.generate_responses \
+    --prompts data/tier0/train/prompts.jsonl \
+    --out data/tier0/full/stories.jsonl \
+    --corpus-registry data/tier0/_generation_model.json
+```
+
 - Model: `z-ai/glm-5.3@openrouter/Baidu/fp8/reasoning=low`
 - Completed: 1,000/1,000 unique prompt hashes
 - Input tokens: 757,712
