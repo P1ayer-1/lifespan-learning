@@ -1,0 +1,605 @@
+{
+    "part":  12,
+    "facts":  [
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "According to the USDA, a refrigerator keeps food safely cold for about four hours during a power cut, as long as its door stays closed.",
+                      "hook":  "A kid keeps opening the fridge in the dark to look for a snack until an older sibling suggests everyone decide first and open it only once."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "A full freezer holds a safe temperature for about 48 hours without power, and a half-full one for about 24 hours, if the door stays closed.",
+                      "hook":  "During a long outage, a family works out whether the frozen food will last, since the freezer was only half full that week."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "USDA guidance says thawed freezer food can be safely refrozen if it still contains ice crystals or is at 40 degrees Fahrenheit (4 degrees Celsius) or below.",
+                      "hook":  "When the lights come back, a boy checks a bag of frozen peas for ice crystals before the family decides whether to throw it out."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "Safety agencies recommend flashlights rather than candles during a power cut, because a candle can easily start a fire in a dark house.",
+                      "hook":  "A grandparent reaches for candles, and the grandchild offers the flashlights from the kitchen drawer instead, remembering a fire-safety lesson."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "Portable generators and charcoal grills give off carbon monoxide, so safety agencies say to run them only outdoors, far from doors and windows, never in a house or garage.",
+                      "hook":  "At a farmhouse, a teen notices an adult about to start the generator in the garage and speaks up about running it outside."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "Emergency agencies advise unplugging computers and other electronics during a power cut, because a surge of electricity when the power returns can damage them.",
+                      "hook":  "Before bed, a girl goes around unplugging the gaming console and the desktop computer so they are not hit by a surge."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "A fallen power line can still carry deadly electricity even when it is not sparking, so it should be treated as live, kept well away from, and reported.",
+                      "hook":  "Walking home after the storm, two friends spot a wire across the sidewalk and turn back to tell an adult to report it."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "A traditional corded phone on a copper landline usually keeps working in a power cut, because the phone company powers the line, but cordless phones need household electricity.",
+                      "hook":  "At a grandparent\u0027s house, the cordless phone is dead, and a kid finds the old wall phone in the kitchen still has a dial tone."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "In the dark, the eyes slowly grow more sensitive as rod cells in the retina rebuild a light-sensitive pigment called rhodopsin, which takes half an hour or more.",
+                      "hook":  "After the lights go out, a boy can barely see his hand, but half an hour later he can make out the furniture in the living room."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "A 2016 world atlas of light pollution estimated that about 80 percent of North Americans cannot see the Milky Way from where they live, because of artificial light.",
+                      "hook":  "With the whole street dark, a family steps outside and sees far more stars than usual, and a kid wonders why."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "The Northeast blackout that began on August 14, 2003, cut power to about 55 million people in parts of the northeastern United States and Ontario, Canada.",
+                      "hook":  "Sitting in the dark, a grandparent tells the kids about walking home from work during a huge blackout years ago."
+                  },
+                  {
+                      "content_key":  "power_cut",
+                      "fact":  "A phone\u0027s bright screen is one of its biggest drains on the battery, so dimming it and closing unused apps helps a charge last longer during an outage.",
+                      "hook":  "With her phone low and no way to charge it, a girl turns down the brightness and saves the battery for a call to her mom."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "The bandwagon technique urges people to do or buy something because \"everyone else is,\" appealing to the wish to belong rather than giving a reason.",
+                      "hook":  "A student notices an ad saying \"join the millions who already switched\" and asks what the product actually does better."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "The Institute for Propaganda Analysis was founded in the United States in 1937 to teach the public how to recognize propaganda.",
+                      "hook":  "A library research project about wartime posters leads a student to a 1930s group that tried to teach ordinary people to spot propaganda."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "The Institute for Propaganda Analysis named seven common devices: name-calling, glittering generalities, transfer, testimonial, plain folks, card stacking and bandwagon.",
+                      "hook":  "Two friends turn a pile of junk mail into a game of labeling each flyer with one of the seven devices."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "A testimonial uses a famous or admired person to endorse something, even though that person may have no special knowledge about it and may be paid.",
+                      "hook":  "A boy wants a pair of sneakers because a basketball star wears them, then wonders whether the star even chose them."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "In the United States, the Federal Trade Commission requires influencers and celebrities to clearly disclose when they were paid or given free products to promote something.",
+                      "hook":  "Scrolling a video review, a girl spots \"#ad\" in the caption and rethinks how much to trust the glowing review."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "Loaded words carry strong feelings beyond their plain meaning, so calling the same crowd \"protesters\" or \"rioters\" can push readers toward opposite opinions.",
+                      "hook":  "During a class news project, two students compare two headlines about the same event and notice how the word choice changes their reaction."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "Glittering generalities are vague, positive words like \"freedom\" or \"natural\" that make people feel good about something without saying anything specific or checkable.",
+                      "hook":  "A kid reads \"all-natural goodness\" on a cereal box and flips it over to see what the ingredient list actually says."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "Card stacking is showing only the facts that support one side while leaving out the facts against it, so the message seems stronger than it is.",
+                      "hook":  "A student sees a tablet ad listing five great features and goes looking for what the ad left out, like battery life."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "The plain-folks technique presents a politician or company as ordinary, everyday people, so the audience trusts them as \"one of us.\"",
+                      "hook":  "During a school election, a candidate\u0027s poster shows him eating lunch in the cafeteria, and a classmate asks what his actual plan is."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "In a 1977 study, Lynn Hasher and colleagues found that people rated statements as more likely to be true after seeing them repeated, whether or not they were true.",
+                      "hook":  "A girl realizes she believes a rumor mostly because she has heard it five times, not because anyone showed proof."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "The word \"propaganda\" comes from a Catholic Church committee for spreading the faith, the Congregatio de Propaganda Fide, set up by Pope Gregory XV in 1622.",
+                      "hook":  "Looking up word histories for a vocabulary assignment, a student is surprised by where \"propaganda\" comes from."
+                  },
+                  {
+                      "content_key":  "propaganda_persuasion",
+                      "fact":  "In March 1933, Joseph Goebbels became head of Nazi Germany\u0027s new Reich Ministry of Public Enlightenment and Propaganda.",
+                      "hook":  "At a museum exhibit on World War II, a class stops at a display of posters made by a government propaganda ministry."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "According to the NHS, it is normal for puberty to begin at any age between 8 and 13 in girls and between 9 and 14 in boys.",
+                      "hook":  "A boy worries because his best friend has already shot up in height, and a doctor explains how wide the normal range is."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "Puberty begins when the pituitary gland at the base of the brain releases hormones that signal the ovaries or testes to make more sex hormones.",
+                      "hook":  "After a health class, a girl asks her aunt, a nurse, what actually starts puberty, and hears about a gland in the brain."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "During the pubertal growth spurt, hands and feet usually grow first, before the arms, legs and body catch up.",
+                      "hook":  "A boy\u0027s shoes stop fitting twice in one school year, even though his jeans still fit fine."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "A voice deepens during puberty because the larynx grows and the vocal folds inside it get longer and thicker, and the voice may crack while this happens.",
+                      "hook":  "During choir practice, a boy\u0027s voice cracks on a high note, and the music teacher explains why it is happening."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "Hormones in puberty make oil glands in the skin produce more oil, called sebum, which can clog pores and lead to acne.",
+                      "hook":  "At a pharmacy, a girl compares face washes and reads the labels to understand why pimples started showing up this year."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "Fresh sweat has almost no smell; body odor comes when bacteria on the skin break down sweat from armpit glands that become active at puberty.",
+                      "hook":  "After gym class, a boy wonders why he never used to need deodorant, and an older cousin explains what changed."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "Antiperspirants reduce sweating by temporarily plugging sweat ducts, while deodorants do not stop sweat but reduce or cover the smell.",
+                      "hook":  "Standing in the store aisle, a kid has to choose between two products and reads the labels to see which one does what."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "In the United States, a large CDC survey found the median age of a girl\u0027s first period is about 12 years old, with a wide normal range around it.",
+                      "hook":  "At a friend\u0027s house, two girls talk about how their older sisters got their first periods at quite different ages."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "Bones grow longer at growth plates near their ends, and once these plates close after puberty, a person stops getting taller.",
+                      "hook":  "At the doctor\u0027s office, a boy asks whether he will keep growing, and the doctor points out his growth plates on an X-ray."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "On average, girls start their pubertal growth spurt about two years earlier than boys, which is why many girls are taller than boys their age in early middle school.",
+                      "hook":  "At the class photo, the girls in the back row are taller than most of the boys, and the kids joke about why."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "The prefrontal cortex, the part of the brain involved in planning and controlling impulses, keeps developing through the teenage years and into a person\u0027s twenties.",
+                      "hook":  "After an impulsive choice, a teen reads that the brain\u0027s planning region is still developing and thinks about what that means."
+                  },
+                  {
+                      "content_key":  "puberty",
+                      "fact":  "Fast growth during puberty often causes stretch marks, thin lines on the skin that are common and usually fade over time.",
+                      "hook":  "A girl notices faint lines on her hips and worries, until her mom mentions they are common during growth spurts."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "Diwali, the Hindu festival of lights, is marked by lighting small oil lamps called diyas and is usually celebrated over five days.",
+                      "hook":  "At a grandparent\u0027s house, a kid helps line up the diyas along the window ledge before dark, with an adult lighting them."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "Eid al-Fitr is the Muslim celebration marking the end of Ramadan, the month in which many Muslims fast from dawn until sunset.",
+                      "hook":  "A boy\u0027s family visits relatives on Eid morning after a month of fasting, and his friend from school comes along for the first time."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "The Islamic calendar follows the moon and is about 11 days shorter than the solar year, so Ramadan starts about 11 days earlier each year.",
+                      "hook":  "A girl notices that Ramadan fell in summer when she was little but now comes in spring, and asks her grandmother why."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "Lunar New Year, celebrated in China, Korea, Vietnam and elsewhere, falls on a new moon between January 21 and February 20.",
+                      "hook":  "A kid tries to plan a school project around the family\u0027s Lunar New Year dinner and discovers the date moves every year."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "At a Passover Seder, the Jewish meal retelling the Exodus from Egypt, the youngest able child traditionally asks the Four Questions.",
+                      "hook":  "The youngest cousin at the table practices the Four Questions all week and is nervous about reading them aloud."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "A Hanukkah menorah, or hanukkiah, has nine branches: eight for the eight nights of the holiday and one for the shamash, the helper candle used to light the others.",
+                      "hook":  "A visiting friend asks why the menorah has nine candles when Hanukkah lasts eight nights."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "Sikh gurdwaras serve langar, a free communal meal offered to every visitor regardless of religion, often with everyone seated together on the floor.",
+                      "hook":  "At a gurdwara, a boy\u0027s friend is surprised he can eat a meal without paying and helps serve roti afterward."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "Sikhs celebrate Vaisakhi as the day in 1699 when Guru Gobind Singh, the tenth Sikh Guru, founded the Khalsa at Anandpur.",
+                      "hook":  "During a Vaisakhi procession, a kid asks her uncle why this day matters and hears the story of the Khalsa."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "Many places of worship, including mosques, Hindu temples and Sikh gurdwaras, ask visitors to remove their shoes, and gurdwaras also ask everyone to cover their head.",
+                      "hook":  "A girl brings her friend to a gurdwara and makes sure to lend her a scarf before they go in."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "In Western churches, Easter falls on the first Sunday after the church\u0027s calculated full moon on or after March 21, so it can come anywhere from March 22 to April 25.",
+                      "hook":  "A family tries to plan a spring visit to grandparents and finds Easter lands on a different weekend than last year."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "Día de los Muertos, celebrated in Mexico mainly on November 1 and 2, honors family members who have died with home altars called ofrendas.",
+                      "hook":  "At a cultural center, a class helps set up an ofrenda, and a student adds a photo of her great-grandfather."
+                  },
+                  {
+                      "content_key":  "religious_cultural_event",
+                      "fact":  "Kwanzaa, created in 1966 by Maulana Karenga, celebrates African American heritage from December 26 to January 1, with each day devoted to one of seven principles.",
+                      "hook":  "At a family gathering, a boy is asked to light the candle for the day\u0027s principle and has to explain what it means."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "Tempo in music is measured in beats per minute, and much pop and house dance music falls roughly between 120 and 130 beats per minute.",
+                      "hook":  "Nervous about dancing, a boy practices by tapping his foot to songs on his playlist to find the beat."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "In a 2000 study by Thomas Gilovich, students wearing an embarrassing T-shirt guessed about half the room noticed it, but only about a quarter actually did.",
+                      "hook":  "Worried everyone will stare at her new outfit, a girl remembers that most classmates are busy worrying about themselves."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "Nervousness triggers the release of adrenaline, which speeds up the heart and pulls blood away from the stomach, causing the \"butterflies\" feeling.",
+                      "hook":  "In the car on the way to the dance, a boy\u0027s stomach flips and his heart races before he even walks in."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "Glow sticks light up when bending breaks a glass vial of hydrogen peroxide inside, letting it mix with other chemicals and a dye in a reaction called chemiluminescence.",
+                      "hook":  "At the dance, a friend cracks a glow stick bracelet, and another kid wonders where the light is coming from."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "A glow stick shines brighter but runs out faster when it is warm, and glows dimmer but lasts longer when it is cold.",
+                      "hook":  "After the dance, a girl puts her glow stick in the freezer to see if it will still be glowing in the morning."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "The U.S. agency NIOSH recommends limiting exposure to 85 decibels to eight hours a day, and each 3-decibel increase halves the safe listening time.",
+                      "hook":  "Standing next to the giant speakers, two friends move farther away when their ears start to feel strange."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "Ringing in the ears after loud music, called tinnitus, is a warning sign that the ears were exposed to noise loud enough to damage hearing.",
+                      "hook":  "The morning after the dance, a boy\u0027s ears are still ringing, and he decides to stand farther from the DJ next time."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "In 2009, scientists led by Aniruddh Patel showed that Snowball, a sulphur-crested cockatoo, could move in time to music and adjust when the tempo changed.",
+                      "hook":  "A shy dancer watches a video of a dancing cockatoo and decides that if a bird can keep the beat, she can too."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "The word \"prom\" is short for \"promenade,\" and it names a formal dance held for high school students.",
+                      "hook":  "Planning outfits in a family group chat, a kid argues with an older cousin about whether a middle school dance counts as a prom."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "Sweat cools the body because evaporating water carries heat away from the skin, and it works less well in a hot, humid, crowded room.",
+                      "hook":  "In the packed gym, a girl steps into the hallway with her water bottle to cool off after several fast songs."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "Line dances, in which a group repeats the same set of steps facing the same direction, let people dance together without needing a partner.",
+                      "hook":  "A boy with no one to dance with joins a line dance and finds he only needs to learn a few steps."
+                  },
+                  {
+                      "content_key":  "school_dance",
+                      "fact":  "A mirror ball turns one spotlight into hundreds of moving spots of light because each small mirror tile reflects the beam in a slightly different direction.",
+                      "hook":  "Standing by the wall, a girl watches the spots of light sweep across the gym and figures out where they come from."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "The Smithsonian Institution was created by an act of Congress in 1846, using money left by British scientist James Smithson, who never visited the United States in his lifetime.",
+                      "hook":  "On a museum trip, a student reads a plaque about the founder and wonders why an Englishman paid for an American museum."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "Light slowly fades the dyes and pigments in textiles, paper and some paintings, which is why many museums keep delicate items in dim rooms.",
+                      "hook":  "In a dark gallery, a student complains she can barely see an old quilt until a guide explains why the lights are low."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "Museums control temperature and humidity because changes make wood, paper and canvas swell and shrink, which can crack or warp old objects.",
+                      "hook":  "A student notices a humidity gauge in a display case and asks the guide what it is for."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "Many museums ask visitors not to touch objects, because oils and salts from skin build up over time and can stain or damage the surfaces.",
+                      "hook":  "On a historic site tour, a boy almost runs his hand along an old wooden desk, and a classmate stops him and explains why."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "Chicago\u0027s Engine Company 21 is widely credited with the first fire pole, installed in 1878 after a firefighter slid down a pole faster than others could take the stairs.",
+                      "hook":  "At a fire station visit, a firefighter asks the class to guess why stations once had poles instead of stairs."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "Dalmatians became firehouse dogs because they got along well with horses and ran ahead of horse-drawn fire carriages, helping clear the way.",
+                      "hook":  "At the fire station, a student asks why a painting of a spotted dog hangs by the old engine."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "In a fire, smoke and heat rise, so the cleaner, cooler air is near the floor, which is why firefighters teach people to crawl low under smoke.",
+                      "hook":  "During a fire station demonstration, the class practices crawling low under a haze from a harmless smoke machine."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "If clothes catch fire, the safety rule is stop, drop and roll, because running feeds the flames more oxygen.",
+                      "hook":  "A firefighter picks a volunteer from the class to show stop, drop and roll on a mat."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "A cow\u0027s stomach has four compartments, and the first, the rumen, holds microbes that help break down tough grass the cow later brings back up and chews again as cud.",
+                      "hook":  "On a farm trip, the class watches a cow chewing slowly without eating anything new and asks what it is doing."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "A dairy cow only produces milk after she has given birth to a calf.",
+                      "hook":  "At a dairy farm, a student is surprised to learn that every cow in the milking barn has had a calf."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "Hens lay eggs whether or not a rooster is present; without a rooster the eggs are unfertilized and cannot hatch into chicks.",
+                      "hook":  "A kid collecting eggs on a farm trip asks if the eggs will hatch, since he doesn\u0027t see a rooster anywhere."
+                  },
+                  {
+                      "content_key":  "school_trip",
+                      "fact":  "Pigs have very few working sweat glands, so they wallow in mud or water to cool off on hot days.",
+                      "hook":  "On a hot farm visit, a student thinks the pigs are just dirty until the farmer explains the mud."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "The independent variable is the one thing a scientist changes on purpose, and the dependent variable is what gets measured to see the effect.",
+                      "hook":  "A student testing paper airplanes must decide whether she is changing the wing shape or measuring the distance."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "In a fair test, every other condition is kept the same, so any difference in results can be traced to the one variable that was changed.",
+                      "hook":  "A kid\u0027s plant experiment falls apart when he realizes one pot sat by the window and the other did not."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "A control group gets no change at all, giving a baseline to compare the tested groups against.",
+                      "hook":  "Testing fertilizer on bean plants, a student adds one plant that gets only plain water."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "Repeating an experiment several times and averaging the results reduces the effect of random errors in any single trial.",
+                      "hook":  "A girl\u0027s first launch of her model catapult goes wildly far, so she runs it ten times before trusting the number."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "A useful hypothesis must be testable, meaning an experiment could show it is wrong; it is often written as \"If... then...\"",
+                      "hook":  "A student\u0027s first idea, \"music is good for plants,\" gets rewritten into a prediction she can actually test."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "By convention, a graph puts the independent variable on the horizontal x-axis and the dependent variable on the vertical y-axis.",
+                      "hook":  "At the kitchen table the night before the fair, a boy redraws his graph after realizing his axes are swapped."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "In a blind test, participants do not know which sample is which, so their expectations cannot sway their answers.",
+                      "hook":  "For a taste test of name-brand versus store-brand cereal, a girl hides the boxes and labels the bowls A and B."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "A result that shows the hypothesis was wrong is still a real scientific result and is worth reporting.",
+                      "hook":  "A boy panics when his results prove his prediction wrong, and his teacher tells him to present them anyway."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "Two things happening together, called correlation, does not prove that one causes the other; another factor may cause both.",
+                      "hook":  "A student finds that kids who eat breakfast get better grades and has to figure out whether breakfast is the cause."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "The first National Science Fair was held in Philadelphia in 1950 by Science Service, and it grew into today\u0027s International Science and Engineering Fair.",
+                      "hook":  "At the library, a student researching science fair history finds that the first national fair had only 30 finalists."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "Large science fairs such as ISEF require approval from a review committee before a project uses human participants, vertebrate animals or hazardous chemicals.",
+                      "hook":  "A girl wants to survey classmates for her project and learns she needs approval forms signed before she starts."
+                  },
+                  {
+                      "content_key":  "science_fair",
+                      "fact":  "A baking soda volcano erupts because baking soda (sodium bicarbonate) reacts with vinegar (acetic acid) to produce carbon dioxide gas.",
+                      "hook":  "A boy wants more than a plain volcano, so he measures how different amounts of vinegar change the eruption."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "The American Academy of Sleep Medicine recommends 9 to 12 hours of sleep a night for children aged 6 to 12.",
+                      "hook":  "At a sleepover, the friends plan to stay up all night, then one of them remembers the soccer game the next morning."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Feeling homesick while away from home is very common; nearly everyone misses something about home when they are away.",
+                      "hook":  "Lying awake in a friend\u0027s house, a girl feels homesick and is relieved when her friend admits she felt the same at camp."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Sleep runs in cycles of roughly 90 minutes, and the most vivid dreams usually happen during rapid eye movement, or REM, sleep.",
+                      "hook":  "At breakfast, the friends compare the weird dreams they had and wonder why they remember some but not others."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Sleepwalking is more common in children than in adults, and most children who sleepwalk outgrow it.",
+                      "hook":  "A kid wakes to find his friend walking toward the door with his eyes open and gently guides him back to bed."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "A sleeping pad keeps someone warm in a tent because the cold ground pulls heat away from the body faster than the air does.",
+                      "hook":  "In a backyard tent, a boy shivers on the bare floor until his friend\u0027s dad hands out foam pads."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Since January 1, 2023, U.S. law has listed nine major food allergens, including peanuts, milk, eggs and sesame, which must be declared on packaged food labels.",
+                      "hook":  "Before ordering pizza, a host parent asks whether anyone has food allergies, and a guest checks the label on the snacks."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Popcorn pops because water inside each kernel turns to steam when heated, building pressure until the hard hull bursts.",
+                      "hook":  "Making popcorn with a parent late at night, the friends notice a handful of kernels that never popped and wonder why."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Snoring happens when relaxed tissues in the throat vibrate as air passes through them during sleep.",
+                      "hook":  "One friend snores so loudly that the others move their sleeping bags to the far side of the room."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Yawning is contagious: seeing someone else yawn often makes people yawn too.",
+                      "hook":  "Late at night, one friend yawns and within a minute everyone in the room is yawning."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Sleep talking is common in children and usually harmless, and sleep talkers normally have no memory of it the next morning.",
+                      "hook":  "The next morning, a girl insists she didn\u0027t talk in her sleep, but her friends quote what she mumbled."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "Bright screens late at night can delay sleep, because light, especially blue light, signals the brain to hold back the sleep hormone melatonin.",
+                      "hook":  "After hours of videos on a tablet, the friends can\u0027t fall asleep even after the lights go out."
+                  },
+                  {
+                      "content_key":  "sleepover",
+                      "fact":  "A scary story can set off a real fear response, with a racing heart and faster breathing, even when the listener knows it is made up.",
+                      "hook":  "After a ghost story in the dark, a boy jumps at a creak on the stairs and laughs when it is just the family cat."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Snowflakes almost always have six sides or six arms, because water molecules link together in a six-sided pattern when they freeze.",
+                      "hook":  "Catching flakes on a dark mitten, a girl counts the arms on each one and finds they all have six."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Wilson Bentley, a farmer from Jericho, Vermont, took the first known photograph of a single snowflake on January 15, 1885.",
+                      "hook":  "Stuck inside, a boy finds old snowflake photos online and learns they were taken by a farmer over a century ago."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Fresh snow is mostly trapped air, which makes it a good insulator; some small animals survive winter in tunnels under the snow.",
+                      "hook":  "Building a snow fort, two friends notice it feels less cold inside, out of the wind."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Snow looks white because its many clear ice crystals scatter and reflect all colors of light in every direction.",
+                      "hook":  "Staring out the window, a kid wonders how clear ice can make a white yard."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Salt melts ice by lowering the temperature at which water freezes, but ordinary rock salt stops working well below about minus 10 degrees Celsius (14 degrees Fahrenheit).",
+                      "hook":  "Helping shovel the front steps, a girl notices yesterday\u0027s salt isn\u0027t melting anything on a bitterly cold morning."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Fingers, toes, ears and the nose are the parts of the body most likely to get frostbite.",
+                      "hook":  "After an hour on the sledding hill, a boy\u0027s ears are numb, and his friend insists they go inside to warm up."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Wind makes cold air feel colder because it carries heat away from the skin faster, which is what the wind chill number describes.",
+                      "hook":  "A kid checks the weather app and sees the wind chill is far colder than the actual temperature."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "A common rule of thumb is that about 10 inches of snow melts down to 1 inch of water, but the ratio varies widely between wet and dry snow.",
+                      "hook":  "Two kids compare shoveling this snow with last week\u0027s and wonder why this batch is so much heavier."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Wet snow near the freezing point packs into snowballs well because it holds a thin layer of liquid water, while very cold, dry snow crumbles.",
+                      "hook":  "Two friends try to build a snowman, but the powder won\u0027t stick together, so they wait for the afternoon sun."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "The American Academy of Pediatrics advises that children under 12 be supervised while sledding and that sledding slopes be gentle and away from trees and roads.",
+                      "hook":  "At the sledding hill, a group picks the gentle slope away from the road instead of the steep one near the trees."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Snow squeaks underfoot when it is very cold, because the hard ice crystals rub and break instead of melting slightly under pressure.",
+                      "hook":  "Walking to a neighbor\u0027s house on a frigid morning, a kid notices every step makes a crunching squeak."
+                  },
+                  {
+                      "content_key":  "snow_day",
+                      "fact":  "Shoveling heavy snow is hard work for the heart, so doctors advise taking breaks and lifting small loads rather than big shovelfuls.",
+                      "hook":  "A girl helps an older neighbor clear the driveway and suggests they take turns and rest between rows."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "A batting average is hits divided by official at-bats, and walks do not count as at-bats, so the number gives a batter no credit for walks.",
+                      "hook":  "A kid argues his favorite player is underrated because the batting average ignores all the times he got on base by a walk."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "Ted Williams batted .406 in 1941 and is the last Major League Baseball player to finish a season above .400.",
+                      "hook":  "At a baseball game, a grandparent bets the grandkid that no one has hit .400 since before the grandparent was born."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "In both 1995 and 1996 David Justice had a higher batting average than Derek Jeter, yet Jeter\u0027s average for the two years combined was higher.",
+                      "hook":  "Comparing players on a computer, a kid is baffled that one player wins each season but loses when the seasons are added together."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "A percentage based on very few attempts can be misleading: a player who makes one shot out of one attempt shoots 100 percent.",
+                      "hook":  "A girl\u0027s teammate brags about a perfect shooting percentage after taking a single shot all season."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "Going from 40 percent to 50 percent is a rise of 10 percentage points but a 25 percent increase, so the two phrases describe the same change.",
+                      "hook":  "A kid reads two news stories about the same poll and can\u0027t understand why one says 10 and the other says 25."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "In ice hockey, a player\u0027s plus-minus goes up by one when their team scores while they are on the ice and down by one when the other team does; power-play goals do not count.",
+                      "hook":  "At a hockey rink, a kid wonders why a star player has a negative plus-minus even though he scored twice this week."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "A ranking shows order but not distance: first and second place might differ by a hundredth of a second or by a whole minute.",
+                      "hook":  "Watching a race on TV, the family sees the silver medalist lose by less than a blink."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "The International Olympic Committee orders medal tables by gold medals first, while most U.S. newspapers rank countries by total medals, so the \"top\" country can differ.",
+                      "hook":  "A family argues about which country won the Olympics, and each side is using a different medal table."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "An unusually great performance tends to be followed by a more ordinary one, a pattern called regression to the mean, popularized by Francis Galton in the late 1800s.",
+                      "hook":  "A kid is sure his team\u0027s star is in a slump, until his older sister points out his hot streak was never typical."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "The 2003 book \"Moneyball\" by Michael Lewis described how the 2002 Oakland Athletics used statistics like on-base percentage to find undervalued players.",
+                      "hook":  "At a sports bar with family, an uncle explains how a low-budget team used numbers to compete with rich teams."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "The NFL\u0027s passer rating combines several passing statistics into one number on a scale from 0 to a maximum of 158.3.",
+                      "hook":  "A kid on the couch asks why a \"perfect\" passer rating is such a strange number instead of 100."
+                  },
+                  {
+                      "content_key":  "sports_statistics",
+                      "fact":  "Two players can have the same average while one is steady and the other swings between great and terrible games, since an average hides how spread out the results are.",
+                      "hook":  "Picking a teammate for a tournament, two friends compare players with the same average but very different game-by-game records."
+                  }
+              ]
+}
