@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Litmus"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Litmus (dyes extracted from lichens)"
+ },
+ {
+  "i": 2,
+  "verdict": "false",
+  "reason": "2 precise: 'a solution at 7 is neutral' -- sources (Wikipedia pH) confirm 7 is neutral only at 25 C; neutral pH shifts with temperature and the fact states no condition."
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "checked: Wikipedia pH, tenfold per unit"
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 6,
+  "verdict": "false",
+  "reason": "2 precise: 'green to yellow in bases' -- mildly basic solutions (pH ~8, e.g. baking soda) turn red-cabbage juice blue; green/yellow only appear in stronger bases (checked Science Buddies chart)."
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "checked: Wikipedia pH lists lemon juice 2.2"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "checked: PubChem, Merck 0.1 M = 8.3; EU 1% = 8.0-8.6"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "checked: Tarun et al. 2014 (PMC4171909), most soaps pH 9-10"
+ },
+ {
+  "i": 10,
+  "verdict": "false",
+  "reason": "1 true: 'form a salt and water' stated without exception -- ammonia + acid gives a salt with no water, carbonates also give CO2, and they only fully neutralize in matching amounts."
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "checked: Sorensen 1909, Carlsberg Laboratory"
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Iron/Rust"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Rust, salt and road salt"
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Periodic table"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Periodic table"
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Periodic table"
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Periodic table"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Periodic table (N 7, O 8)"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Mass number"
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Mass number, N = A - Z"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Mendeleev 1869"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "checked: gallium 1875, eka-aluminium"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Periodic table"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Iron, ferrum"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "checked: Constitution Act 1867 s.92(8)"
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 43,
+  "verdict": "false",
+  "reason": "2 precise: statute not confirmed as worded -- could not retrieve Ontario Municipal Act s.239 text (e-Laws/CanLII blocked); only a City of Toronto page (City of Toronto Act) was reachable, which is a different statute."
+ },
+ {
+  "i": 44,
+  "verdict": "false",
+  "reason": "6 off goal: councillor term length ('Since 2006 ... four-year terms') is not about how a citizen petitions a councillor to change a bylaw."
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: 2015 Liberals 184/338, 39.47%"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "checked: Labour 2005 35.2%"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "checked: NZ 1993 referendum, MMP first used 1996"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Electoral threshold (5% party-list; direct-mandate and minority exceptions)"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 58,
+  "verdict": "false",
+  "reason": "1 true: 'so every voter knows exactly who their local member is' -- single-member districts give each voter one member, but many voters do not know who it is."
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Duverger's law"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Reading (legislature)"
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Reading (legislature)"
+ },
+ {
+  "i": 63,
+  "verdict": "false",
+  "reason": "7 narrow: 'At second reading, members debate the general idea' is Westminster procedure stated as universal; needs the jurisdiction (e.g. US legislatures differ)."
+ },
+ {
+  "i": 64,
+  "verdict": "false",
+  "reason": "7 narrow: clause-by-clause committee study 'after second reading' is Westminster procedure stated without naming the jurisdiction."
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Royal assent (deputy: Supreme Court justice)"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "checked: provincial legislatures all unicameral; LG assent"
+ },
+ {
+  "i": 67,
+  "verdict": "false",
+  "reason": "4 one idea: bundles the definition of a private member's bill with a separate outcome claim ('most such bills never become law')."
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Procedures of US Congress"
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "checked: Art. I s.7"
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "checked: Art. I s.7 ten days, Sundays excepted"
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Parliament Acts 1911 and 1949"
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "checked: proclaimed April 17, 1982"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "checked: Charter s.2 text (Justice Laws)"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: Charter s.1 text"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: Charter s.3 text"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "checked: s.15 in force 17 Apr 1985 (s.32(2))"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "checked: Charter s.32"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "checked: Charter s.33(3)-(4)"
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "checked: ratified Dec 15, 1791"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "checked: First Amendment text"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "checked: Fifth Amendment text"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "checked: Basic Law Art. 1 official translation"
+ },
+ {
+  "i": 83,
+  "verdict": "false",
+  "reason": "1 true: s.23 right is stated unconditionally -- it applies only to citizens meeting s.23(1)/(2) criteria and 'where numbers warrant' (s.23(3))."
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Roux"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Roux"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Roux"
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Roux and Dextrin"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Roux"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Mornay sauce"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 93,
+  "verdict": "false",
+  "reason": "2 precise: not confirmed as worded -- sources reached confirm cellulose powder as an anti-caking agent in cheese generally, but none confirmed pre-shredded cheese coatings make a cheese sauce less smooth."
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Mise en place"
+ },
+ {
+  "i": 98,
+  "verdict": "false",
+  "reason": "1 true: 'can sit on very low heat or be gently reheated without harm to its flavour' is overgeneral -- fish, cream or delicate vegetable curries overcook or split."
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tempering (spices)"
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "false",
+  "reason": "4 one idea: two claims -- chapati dough uses atta, and resting dough makes it softer and easier to roll."
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 109,
+  "verdict": "false",
+  "reason": "1 true / 4 one idea: 'baking soda needs an acidic ingredient ... to make gas' -- heat alone also decomposes baking soda to CO2; also bundles two claims about two leaveners."
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Baking powder"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 113,
+  "verdict": "false",
+  "reason": "8 duplicate: 'stirring just until no dry flour shows gives more tender muffins' paraphrases fact 112's don't-overmix point; 112 kept."
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "checked: 350 F = 176.7 C"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Maillard reaction (baked-goods crust)"
+ }
+]

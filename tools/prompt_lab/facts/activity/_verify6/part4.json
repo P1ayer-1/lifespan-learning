@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Power rule' (d/dx x^r = r x^(r-1))"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Differentiation rules' (constant rule, linearity)"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "checked: conceptual, no name/number; standard definition"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "checked: conceptual, no name/number"
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Stationary point' (x^3 at 0 not a turning point)"
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Derivative test' (second derivative test)"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Derivative test' (first derivative test)"
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Maxima and minima' (global extremum interior or on boundary)"
+ },
+ {
+  "i": 8,
+  "verdict": "false",
+  "reason": "4 one idea / 2 precise: bundles independent invention with the priority dispute (two facts), and 'late seventeenth century' misdates Newton's 1665-66 work; also history, not the band's derivative-and-maximum goal."
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Leibniz's notation' (still in general use)"
+ },
+ {
+  "i": 10,
+  "verdict": "false",
+  "reason": "5 storyable: 'with 40 metres of fence, the area x(20 - x) peaks at x = 10, giving 100 square metres' is a four-number worked example the generator would realistically garble."
+ },
+ {
+  "i": 11,
+  "verdict": "false",
+  "reason": "1 true: 'Differentiating a polynomial lowers its degree by one' is false for constant polynomials (derivative 0) and the exception is not stated; 'at most one zero' also blurs that a nonconstant quadratic's derivative has exactly one."
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form'"
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form' (major: dominant)"
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form' (minor: relative major)"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form' (recap in home key)"
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form' (exposition commonly repeated)"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form' (transition modulates)"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form' (themes broken down, sequenced)"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form' (retransition prepares tonic return)"
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Sonata form' (coda optional in Classical works)"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Piano Sonata No. 16 (Mozart)' (recap begins in subdominant F major)"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Köchel catalogue' (Ludwig von Köchel, 1862)"
+ },
+ {
+  "i": 23,
+  "verdict": "false",
+  "reason": "5 storyable: accurate (Reicha 1826, Marx 1845 checked) but two names and two dates in one clause invite garbling, and it is terminology history rather than marking the movement's sections (6). (Reicha 1826/Marx 1845 confirmed by Wikipedia 'Sonata form'.)"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Time signature'"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Bar (music)' (thin-thick double bar ends piece)"
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Phrase (music)' (often four bars)"
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Primary triad' (C, F, G in C major)"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cadence' (authentic V-I complete closure)"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cadence' (half cadence incomplete)"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cadence' (plagal 'Amen cadence')"
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Lead sheet' (chord symbols above staff)"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'G major' (one sharp)"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Clef' (G clef on second line, G4)"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Dominant seventh chord' (G7 = G B D F)"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Dotted note' (adds half value)"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Electric field' and 'Capacitor' (E = V/d)"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "checked: arithmetic from E = V/d (Wikipedia 'Capacitor'): 100/0.02 = 5000 V/m"
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Electric field' (V/m = N/C)"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Capacitor' (uniform field away from edges)"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Electric field' (direction of force on positive charge)"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Electric field' (F = qE)"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Capacitor' (field lines bulge, field decreases near edges)"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Capacitor' (E = sigma/epsilon) and 'Vacuum permittivity' (8.854e-12 F/m)"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Oil drop experiment' (drops suspended between horizontal plates)"
+ },
+ {
+  "i": 45,
+  "verdict": "false",
+  "reason": "6 own goal: the exact SI value of the elementary charge does not help compute the field between plates; a 10-digit constant is also a garble risk."
+ },
+ {
+  "i": 46,
+  "verdict": "false",
+  "reason": "6 own goal: electronvolt energy conversion is about energy units, not computing electric field strength between plates."
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Dielectric strength' (air 3 MV/m)"
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (horizontal velocity constant)"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Standard gravity' (9.80665 m/s^2) and 'Projectile motion'"
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (v0 cos θ, v0 sin θ)"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Two New Sciences' (independent uniform horizontal + accelerated vertical motion)"
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (vy = 0 at top)"
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (45 degrees max range)"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (complementary angles same range)"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (t = 2 v0 sin θ / g)"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Two New Sciences' (1638, parabolic path)"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (h = v0^2 sin^2 θ / 2g)"
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (x = v0 t cos θ)"
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Projectile motion' (air resistance reduces range)"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "checked: no name/number; general budgeting"
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "checked: no name/number"
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "checked: arithmetic: 11 x 1200 / 12 = 1100"
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Kilowatt-hour' (electricity sold per kWh); arithmetic 600 x 0.15 = 90"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "checked: no name/number"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "checked: huduser.gov 'Defining Housing Affordability' (more than 30 percent of income)"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "checked: web search (liv.rent summary of RTA: lesser of one month or one rental period; no damage deposit); ontario.ca 'Guide to Ontario's standard lease' (rent deposit cannot be a damage deposit)"
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "checked: legislation.gov.uk Tenant Fees Act 2019 Sch.1 para 2 (5 weeks < £50,000; 6 weeks >= £50,000)"
+ },
+ {
+  "i": 68,
+  "verdict": "false",
+  "reason": "1 true: deposit protection applied only to assured shorthold tenancies, and gov.uk 'tenancy-deposit-protection' (fetched) says APTs replaced ASTs on 1 May 2026; the fact states neither limit."
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "checked: ontario.ca 'Renting in Ontario: your rights' (standard lease for most private landlords; request in writing)"
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "checked: no name/number"
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "checked: ontario.ca 'Guide to Ontario's standard lease' (no need to sign new agreement; month-to-month)"
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Merge (traffic)' (accelerate to main-road speed)"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "checked: no name/number"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: no name/number"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: web search: dot.state.mn.us/zippermerge ('as much as 40 percent')"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Merge (traffic)' (most US jurisdictions: merging traffic yields)"
+ },
+ {
+  "i": 77,
+  "verdict": "false",
+  "reason": "2 precise: ontario.ca MTO handbook (fetched) says G1 drivers may not drive on '400-series highways with a posted speed limit over 80 km/h'; the fact drops the speed qualifier."
+ },
+ {
+  "i": 78,
+  "verdict": "false",
+  "reason": "2 precise: ontario.ca MTO handbook (fetched) requires highway experience before the Level Two (G) test but does not confirm freeway entry/exit is excluded from the G2 test as worded."
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "checked: gov.uk 'Driving test: what happens' (parallel park at side of road)"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "checked: gov.uk 'Driving test faults and result' (<=15 driving faults, no serious/dangerous)"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "checked: no name/number; procedural"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "checked: no name/number; procedural"
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Two-second rule' (greater distance in adverse conditions)"
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Communist Manifesto' (1848, opening of Section I)"
+ },
+ {
+  "i": 85,
+  "verdict": "false",
+  "reason": "2 precise: Wikipedia 'Base and superstructure' (fetched) says Marx's 1859 superstructure was the legal and political realm; Engels later added religion and art, so 'Marx argued ... religion and art, including literature' misattributes."
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Communist Manifesto' (bourgeoisie/proletariat)"
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "checked: no name/number"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'A Room of One's Own' (1929, quote verified)"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Second Sex' (1949, translation wording)"
+ },
+ {
+  "i": 90,
+  "verdict": "false",
+  "reason": "2 precise: no fetched source attributes the 'dark double' reading of Bertha to Gilbert and Gubar (Wikipedia 'The Madwoman in the Attic', 'Bertha Antoinetta Mason', 'Jane Eyre' checked); unconfirmed."
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Jane Eyre' (19 Oct 1847, Currer Bell)"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Pride and Prejudice' (entail to Mr Collins)"
+ },
+ {
+  "i": 93,
+  "verdict": "false",
+  "reason": "2 precise: 'Marxist critics often read it' not confirmed by Wikipedia 'Hard Times (novel)' or 'Marxist literary criticism' (fetched); year and Coketown confirmed."
+ },
+ {
+  "i": 94,
+  "verdict": "false",
+  "reason": "2 precise: 1976 confirmed (Wikipedia 'Terry Eagleton'), but 'a widely used short introduction' not confirmed by any fetched source."
+ },
+ {
+  "i": 95,
+  "verdict": "false",
+  "reason": "2 precise: Wikipedia 'Elaine Showalter' (fetched) gives the book as both 1977 and 1978, and the 'recover neglected women writers' framing is not confirmed as worded."
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Unreliable narrator' (Booth, 1961, The Rhetoric of Fiction)"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Murder of Roger Ackroyd' (1926, Sheppard)"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Unreliable narrator' (Stevens describes events reliably while interpreting them unreliably) (flipped from false in source audit)"
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "checked: Wikiquote 'The Catcher in the Rye' ch.3 quote verified"
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Unreliable narrator' (Huck as naïf)"
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "checked: no name/number"
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Tell-Tale Heart' (1843, insists on sanity)"
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "checked: Project Gutenberg text of The Great Gatsby, ch.3 quote verified"
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Wuthering Heights' (1847; most told by Nelly to Lockwood)"
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Good Soldier' (1915, Dowell, opening line)"
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Unreliable narrator' (intratextual contradictions)"
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Gone Girl (novel)' (2012; diary fabricated to incriminate Nick)"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Shabbat' (Exodus 20 creation; Deuteronomy 5 Egypt)"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Pikuach nefesh' (overrides virtually any rule; three exceptions)"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Mishnah' (first written collection; late 2nd/early 3rd c., Judah ha-Nasi)"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "checked: Sefaria Mishnah Shabbat 7:2 (forty-less-one); Wikipedia 'Activities prohibited on Shabbat' (derived from Tabernacle)"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "checked: quran.com 2:184 (ill or on a journey, equal number of days)"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Ijtihad'"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Council of Jerusalem' (Acts 15, circumcision not required)"
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "checked: biblegateway Mark 2:23-27"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "checked: biblegateway Leviticus 19:9-10"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "checked: biblegateway Deuteronomy 22:8; Sefaria Mishneh Torah, Murderer 11:4 (any place that might present a danger)"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Eisegesis'"
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Paenitemini' (1966; conferences may replace fast/abstinence with prayer and charity)"
+ }
+]

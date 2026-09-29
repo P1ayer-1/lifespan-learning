@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "checked: CDC/Ready.gov 4 hours"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "checked: CDC 48/24 hours"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "checked: CDC refreeze, ice crystals or 40 F"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "checked: Ready.gov flashlights"
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "checked: Ready.gov generators outdoors"
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "checked: Ready.gov surges"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, dark adaptation 20-30 min, rods up to ~2 h"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Light pollution, 80% North Americans (2016 atlas)"
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "checked: ~55 million, Aug 14 2003"
+ },
+ {
+  "i": 11,
+  "verdict": "false",
+  "reason": "1 true: 'closing unused apps helps a charge last longer' -- Apple and Google say force-closing background apps does not save battery and can use more; dimming the screen is the sound part."
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "checked: IPA, Boston 1937"
+ },
+ {
+  "i": 14,
+  "verdict": "false",
+  "reason": "5 storyable: a seven-item list ('name-calling, glittering generalities, transfer, testimonial, plain folks, card stacking and bandwagon') cannot all come through in a line of dialogue and will be dropped or garbled; individual devices are covered by other facts."
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "checked: FTC Disclosures 101"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "checked: Hasher, Goldstein & Toppino 1977"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "checked: Gregory XV, 1622"
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "checked: ministry est. 13 March 1933"
+ },
+ {
+  "i": 24,
+  "verdict": "false",
+  "reason": "2 precise: 'According to the NHS... between 8 and 13 in girls and between 9 and 14 in boys' -- current NHS pages give a single range, 'any time between the ages of 8 and 14'; the sex-split wording could not be confirmed from the NHS."
+ },
+ {
+  "i": 25,
+  "verdict": "false",
+  "reason": "2 precise: 'Puberty begins when the pituitary gland... releases hormones' -- it begins with the hypothalamus releasing GnRH, which then signals the pituitary; the fact skips the actual starting step."
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "checked: NSFG 2013-2017 median 11.9"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 33,
+  "verdict": "false",
+  "reason": "2 precise: 'girls start their pubertal growth spurt about two years earlier than boys' -- the source checked (Wikipedia, Puberty) gives girls starting about 1-1.5 years earlier; 'about two years' was not confirmed as worded."
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Adolescence"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Diwali, five or six days"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "false",
+  "reason": "8 duplicate: near-verbatim of the phase_3 domain fact 'The Islamic calendar follows the moon and is about 11 days shorter than the solar year, so Ramadan... begins about 11 days earlier each year.'"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, 21 Jan-20 Feb"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Hanukkah menorah"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Vaisakhi, 1699 Anandpur"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 45,
+  "verdict": "false",
+  "reason": "5 storyable: 'first Sunday after the church's calculated full moon on or after March 21... March 22 to April 25' is a multi-step rule plus a date range, the kind of before/after and number chain the generator garbles."
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Nov 1-2"
+ },
+ {
+  "i": 47,
+  "verdict": "false",
+  "reason": "4 one idea: bundles creator, year, date span and seven daily principles ('created in 1966 by Maulana Karenga... December 26 to January 1... seven principles'); a founding and its named founder are two facts."
+ },
+ {
+  "i": 48,
+  "verdict": "false",
+  "reason": "2 precise: 'much pop and house dance music falls roughly between 120 and 130 beats per minute' -- house at 120-130 bpm is confirmed (Wikipedia, House music), but no source confirmed that range for pop."
+ },
+ {
+  "i": 49,
+  "verdict": "false",
+  "reason": "2 precise: 'only about a quarter actually did' -- the source checked (Wikipedia, Thomas Gilovich) says actual recognition was 'closer to 20 percent'; the study is also by Gilovich, Medvec and Savitsky, not Gilovich alone."
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, NIOSH 85 dBA 8 h, 3 dB exchange rate"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "checked: Patel 2009; Eleonora cockatoo is a sulphur-crested subspecies"
+ },
+ {
+  "i": 56,
+  "verdict": "false",
+  "reason": "7 narrow: 'a formal dance held for high school students' is a US/Canadian custom presented as universal; needs 'in the United States and Canada'."
+ },
+ {
+  "i": 57,
+  "verdict": "false",
+  "reason": "8 duplicate: paraphrases the phase_3 domain fact 'Evaporating water carries heat away with it, which is why sweat cools you...'."
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 60,
+  "verdict": "false",
+  "reason": "4 one idea: three claims in one ('created by an act of Congress in 1846', 'money left by James Smithson', 'who never visited the United States'); a founding plus its funder's biography is two facts."
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Fire pole, Kenyon 1878"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Ruminant"
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 81,
+  "verdict": "false",
+  "reason": "2 precise: 'held in Philadelphia in 1950 by Science Service' -- 1950 and Science Service are confirmed (Wikipedia, ISEF), but no source reached confirmed Philadelphia; the hook's '30 finalists' is also unconfirmed."
+ },
+ {
+  "i": 82,
+  "verdict": "false",
+  "reason": "1 true: 'require approval from a review committee before a project uses... hazardous chemicals' -- ISEF rules require a risk assessment (Form 3) and a Direct Supervisor for hazardous chemicals, not prior SRC approval; prior review applies to humans (IRB) and vertebrates (SRC)."
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "checked: AASM 9-12 h"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 86,
+  "verdict": "false",
+  "reason": "4 one idea: two separate claims ('cycles of roughly 90 minutes' and 'most vivid dreams... during REM sleep'); split or drop."
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "checked: FDA FASTER Act, 1 Jan 2023"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 97,
+  "verdict": "false",
+  "reason": "2 precise: 'Wilson Bentley, a farmer from Jericho, Vermont' -- the date (15 Jan 1885) and the town are confirmed, but Wikipedia describes him as a meteorologist and photographer who grew up on a farm, not a farmer."
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Road salt, -6 to -10 C"
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 103,
+  "verdict": "false",
+  "reason": "2 precise: 'about 10 inches of snow melts down to 1 inch of water' -- NWS/NOAA pages for the 10:1 rule of thumb could not be reached, so the ratio is unconfirmed."
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "false",
+  "reason": "2 precise: 'children under 12 be supervised' -- AAP advice is adult supervision of sledders generally (and children under 5 riding with an adult); no under-12 cutoff could be confirmed."
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "checked: .406 in 1941"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Simpson's paradox"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 113,
+  "verdict": "false",
+  "reason": "1 true: the rule as worded is incomplete. Wikipedia (Plus-minus) says penalty-shot goals are also excluded, and the fact names only the power-play exclusion, so it is not true without exception."
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 115,
+  "verdict": "false",
+  "reason": "1/2 true: 'most U.S. newspapers rank countries by total medals' is unconfirmable, and the IOC does not officially rank countries; its tables merely sort by gold."
+ },
+ {
+  "i": 116,
+  "verdict": "false",
+  "reason": "4 one idea: a concept plus its named popularizer ('popularized by Francis Galton in the late 1800s') is two facts, per the spec's cause-plus-discoverer rule."
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Moneyball 2002 A's, OBP"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "checked: 0 to 158.3"
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": ""
+ }
+]

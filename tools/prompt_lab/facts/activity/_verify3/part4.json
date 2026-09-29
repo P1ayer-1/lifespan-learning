@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "false",
+  "reason": "2 precise/3 safe: 'the knife edge meets your knuckles' -- in the claw grip the flat side of the blade rests against the knuckles; the edge must never meet them."
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 4,
+  "verdict": "false",
+  "reason": "5 storyable/2: the chemical name 'syn-propanethial-S-oxide' will be garbled, and it is formed by enzymes after cells break, not 'released' by the cells."
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 7,
+  "verdict": "false",
+  "reason": "2 precise: 'cooked gently in olive oil' as the definition -- Wikipedia (Mirepoix): the battuto is cooked 'in butter or olive oil'; the fact narrows it to olive oil."
+ },
+ {
+  "i": 8,
+  "verdict": "false",
+  "reason": "4 one idea/6: bundles 'tomatoes came from the Americas' with Latini's 1692 cookbook; history of printed recipes is off the chopping-and-sauce goal."
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'To be, or not to be' -- Act 3, Scene 1"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "checked: Wiktionary 'wherefore' -- why, not where"
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Iambic pentameter -- five iambs, typically ten syllables"
+ },
+ {
+  "i": 17,
+  "verdict": "false",
+  "reason": "4 one idea/6: bundles co-founding the Moscow Art Theatre (1898, with Nemirovich-Danchenko -- date confirmed) with developing the system; neither is about pauses and gestures."
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Stanislavski's system -- task/objective, 'What do I want?'"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Stanislavski's system -- bits/beats marked by shifts"
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "checked: Pinter's 'Pause'/'Silence' distinction (Wikipedia, Characteristics of Pinter's work)"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 22,
+  "verdict": "false",
+  "reason": "6 goal: stage-left/downstage orientation is general stagecraft, not using pauses and gestures to show emotion in a monologue."
+ },
+ {
+  "i": 23,
+  "verdict": "false",
+  "reason": "6 goal: why the back is called 'upstage' (raked stages) is theatre etymology, off the monologue-emotion goal."
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "checked: Toulmin, The Uses of Argument, 1958"
+ },
+ {
+  "i": 26,
+  "verdict": "false",
+  "reason": "1 true/4: 'often left unstated by weaker debaters' is an unverifiable generalisation bolted onto the warrant definition."
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "checked: Toulmin's six elements, Verheij 2005"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "checked: Aristotle, Rhetoric -- ethos, pathos, logos"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 34,
+  "verdict": "false",
+  "reason": "6 goal: the naming history of Lincoln-Douglas debate does not help build claim-evidence-warrant; it belongs to no part of this row's goal."
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "checked: Wikipedia -- 272 words, 19 Nov 1863, two to three minutes"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "false",
+  "reason": "2 precise/8: the only source for 'coined the term' is an uncited Wikipedia line; Ebbinghaus wrote in German (1885), so the English term is not his. It is also a named-discoverer add-on to fact 37."
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Battle of Zela 47 BC; Plutarch, Suetonius"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "checked: anaphora of 'I have a dream', 28 Aug 1963"
+ },
+ {
+  "i": 41,
+  "verdict": "false",
+  "reason": "6 goal/8 duplicate: date and venue (confirmed: 28 Aug 1963, March on Washington for Jobs and Freedom) teach nothing about hook/three points/closing and overlap fact 40."
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "checked: YouGov 2023 and other surveys -- among the most common fears"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "checked: Brysbaert 2019 -- silent reading ~238-260 wpm vs speaking ~150 wpm"
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: Northwestern UP 1963; widely called the 'bible of improvisational theater'"
+ },
+ {
+  "i": 54,
+  "verdict": "false",
+  "reason": "6 goal: history of Spolin's training is off the yes-and goal. (Source check: Boyd ran the Recreational Training School at Hull House and Spolin studied with her from 1924, so the precision objection is withdrawn.)"
+ },
+ {
+  "i": 55,
+  "verdict": "false",
+  "reason": "6 goal: The Second City's 1959 opening is theatre history, not accepting offers with 'yes, and'."
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "checked: Johnstone, Impro, 1979 -- status"
+ },
+ {
+  "i": 57,
+  "verdict": "false",
+  "reason": "6 goal: Theatresports (Calgary, 1977 -- confirmed) is format history, not accepting a partner's offers."
+ },
+ {
+  "i": 58,
+  "verdict": "false",
+  "reason": "1 true/6: 'performed by masked actors' -- the innamorati (lovers) never wore masks (Wikipedia, Innamorati); also history off the yes-and goal."
+ },
+ {
+  "i": 59,
+  "verdict": "false",
+  "reason": "6 goal: the origin of the Harold long form is history unrelated to accepting offers in a two-person scene."
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "checked: NASA -- synodic month 29.53 days"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 67,
+  "verdict": "false",
+  "reason": "1 true: 'more than half lit but not yet full' -- a waning gibbous comes after full; should be 'more than half lit but less than full'."
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "checked: moonrise ~50 min later per day (Moon moves ~13 deg/day east)"
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 71,
+  "verdict": "false",
+  "reason": "6 goal: earthshine and Leonardo's c.1510 explanation do not explain phases; 'around 1510' also rests on a 1506-1510 codex dating."
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: NPS geology page -- 'Beginning just 5-6 million years ago'"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "checked: NPS geology page -- 277 mi (446 km) river journey; NPS stats page gives 278, noted"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "checked: Steno, De solido (Prodromus), 1669"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "checked: Hutton's Theory of the Earth read to the Royal Society of Edinburgh, 1785"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 83,
+  "verdict": "false",
+  "reason": "6 goal: Powell's 1869 expedition is exploration history, not how erosion and deposition carve a canyon."
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Pumice -- vesicular, floats"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Sedimentary rock -- formation temperatures and pressures do not destroy fossils"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "checked: obliquity ~23.44 deg"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tropic of Cancer -- overhead at June solstice"
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Equinox -- around 20 Mar and 22-23 Sep, approximately equal everywhere; hedged"
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Arctic Circle -- Sun does not set at June solstice"
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "checked: obliquity 22.1-24.5 deg, ~41,000 yr"
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "checked: CFPB -- grace period, most cards offer it for purchases"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Rule of 72; 72/24 = 3"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "checked: CFPB -- cash advances accrue interest from the transaction date"
+ },
+ {
+  "i": 117,
+  "verdict": "false",
+  "reason": "6 goal: FICO score range and weights are about credit reporting, not comparing the cost of card borrowing with saving first."
+ },
+ {
+  "i": 118,
+  "verdict": "false",
+  "reason": "6 goal: US card-eligibility law for under-21s (confirmed: independent ability to repay or a cosigner over 21) does not compare borrowing cost with saving."
+ },
+ {
+  "i": 119,
+  "verdict": "false",
+  "reason": "6 goal: Diners Club's 1950 founding is payment-card history, off the borrowing-cost comparison."
+ }
+]

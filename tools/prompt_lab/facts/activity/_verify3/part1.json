@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Exif (phones store GPS location in the Exif header)"
+ },
+ {
+  "i": 1,
+  "verdict": "false",
+  "reason": "2 precise: no reachable source confirmed that Facebook and Instagram strip GPS data or that email attachments usually keep it (Wikipedia Exif, Geotagging and Metadata removal tool pages are silent), so it fails as unconfirmed."
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Internet Archive (web archiving from 1996; Wayback Machine)"
+ },
+ {
+  "i": 4,
+  "verdict": "false",
+  "reason": "1 true: 'websites and apps must get a parent's permission' -- per Wikipedia COPPA, it applies only to operators directed at under-13s or with actual knowledge, and has 'limited exceptions'; neither is stated."
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Snapchat (Snap Map launched June 2017, shares location with friends)"
+ },
+ {
+  "i": 6,
+  "verdict": "false",
+  "reason": "1 true: 'no one else, not even your friends, can see where you are' -- Snapchat's Live Location, once shared with a chosen friend, keeps working in Ghost Mode."
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 10,
+  "verdict": "false",
+  "reason": "2 precise: 'in force since May 2018' -- the GDPR entered into force 24 May 2016 and has applied since 25 May 2018."
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "sourced: Apple support 102647 (Never/While Using/Always) and Google Android help 6179507"
+ },
+ {
+  "i": 12,
+  "verdict": "false",
+  "reason": "1 true / 6 goal: 'Printers mix colors from four inks' -- many colour printers (photo inkjets) use six or more inks; also bundles the CMYK name and the 'key' etymology, and printing is off the craft-project goal."
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Opticks (1704; colour circle)"
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Pencil (H hardness, B blackness; 6B soft/black, 4H hard)"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Pencil ('Adding more clay ... harder, leaving lighter marks')"
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Pencil (graphite thought to be lead, called plumbago)"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Origami (ori = fold, kami = paper)"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Rule of thirds"
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Jet lag ('on average one day per hour of time zone change')"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Jet lag ('harder ... when travelling east')"
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Cabin pressurization (8,000 ft / 2,438 m)"
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Eustachian tube (swallowing/yawning opens it; descent)"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Yellowstone National Park (Grant, March 1, 1872; first US national park)"
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Leave No Trace (seven principles, both quoted)"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "sourced: AAD how-to-apply-sunscreen ('every two hours, and immediately after swimming or sweating')"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "sourced: NPS Yosemite bears.htm (scented items incl. toiletries, trash) and bearcans.htm (sunscreen)"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Blushing (facial blood vessels dilate)"
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "sourced: Project Gutenberg #1227 text: 'Blushing is the most peculiar and the most human of all expressions.'; Wikipedia Blushing gives 1872"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia MPA film rating system (PG-13 introduced July 1, 1984)"
+ },
+ {
+  "i": 43,
+  "verdict": "false",
+  "reason": "9 hook: 'the rating settles it' implies a PG-13 rating bars under-13s, the exact misconception; PG-13 is advisory and does not restrict admission."
+ },
+ {
+  "i": 44,
+  "verdict": "false",
+  "reason": "1 true: 'takes 12 strikes in a row' holds only under traditional scoring; Wikipedia Ten-pin bowling notes World Bowling current-frame scoring reaches 300 with ten strikes. The exception is not stated."
+ },
+ {
+  "i": 45,
+  "verdict": "false",
+  "reason": "1 true: '10 points plus the pins ... next two balls' is traditional scoring only; World Bowling current-frame scoring differs (Wikipedia Ten-pin bowling). The exception is not stated."
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Going Dutch"
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Blocking (stage) (actors' left/right facing the audience)"
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Blocking (stage) (upstage rear, downstage front)"
+ },
+ {
+  "i": 51,
+  "verdict": "false",
+  "reason": "1 true: 'because of an old theatre superstition' -- Wikipedia Break a leg calls the idiom 'of uncertain origin', with superstition only one theory and the earliest uses from the 1920s."
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Oboe (League of American Orchestras: pitch secure, penetrating sound)"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia A440 (440 Hz, ISO 16)"
+ },
+ {
+  "i": 56,
+  "verdict": "false",
+  "reason": "2 precise: the 2000 abstract (PubMed 10707330) says people overestimate how much their 'actions and appearance' are noted; 'mistakes' and 'greatly' are not its wording."
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Dress rehearsal"
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Curtain call"
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Beat (music) (downbeat = first beat; direction of conductor's hand)"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Martin Cooper (April 3, 1973, Sixth Avenue, Manhattan)"
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Martin Cooper (handset 2.5 pounds / 1.1 kg)"
+ },
+ {
+  "i": 62,
+  "verdict": "false",
+  "reason": "9 hook / 6 goal: hook 'newer than the phone they grew up without' is incoherent, and an iPhone launch date is off the responsible-first-phone goal."
+ },
+ {
+  "i": 63,
+  "verdict": "false",
+  "reason": "4 one idea / 3 safe: bundles 112-works-when-locked with a North American redirect clause; a garbled retelling could teach a US child to dial 112 instead of 911."
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 66,
+  "verdict": "false",
+  "reason": "2 precise: 'length is the most important part' -- NIST SP 800-63B-4 says length 'is a primary factor in characterizing password strength', not the most important."
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Theobromine poisoning"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Grape (acute kidney failure in dogs)"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Xylitol (insulin release, hypoglycemia in dogs)"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Cat food (obligate carnivores; against plant-based diets)"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Cat food (taurine; dilated cardiomyopathy, blindness)"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Guinea pig (cannot synthesize vitamin C)"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Guinea pig (front teeth grow continuously)"
+ },
+ {
+  "i": 79,
+  "verdict": "false",
+  "reason": "1 true: 'needs weeks' -- Wikipedia Fishless cycling says cycling 'can be instant or take a long time', e.g. with seeded media; the exception is not stated."
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Microchip implant (animal) (grain of rice, ID number, registry)"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Microchip implant (animal) (tracking is a misconception)"
+ },
+ {
+  "i": 82,
+  "verdict": "false",
+  "reason": "1 true: 'as a way to soothe themselves' -- self-soothing is a hypothesis about why cats purr when hurt, stated here as established fact."
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Lilium ('True lilies are known to be highly toxic to cats')"
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Eyeglass prescription (diopters, minus myopia, plus hyperopia)"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Snellen chart (Herman Snellen, 1862)"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Visual acuity"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Visual acuity ('20/20 vision is equivalent to 6/6')"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Glasses (central Italy, Pisa or Florence, by about 1290)"
+ },
+ {
+  "i": 93,
+  "verdict": "false",
+  "reason": "2 precise: 'who was nearsighted' is not confirmed; Wikipedia Bifocals and Benjamin Franklin do not say he was nearsighted, and his own account concerns different convex lenses for reading and distance."
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Myopia (more outdoor play, lower rates of myopia)"
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Eyeglass prescription (oculus dexter/sinister)"
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Presbyopia (after 40; lens elasticity; reading glasses)"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 100,
+  "verdict": "false",
+  "reason": "2 precise: 'roughly one in three people by age 65' -- NIDCD gives about one in three US adults aged 65-74 (nearly half over 75); US-only figure not labelled; hook conflates hearing loss with hearing aids."
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Presbyosmia"
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "sourced: CDC falls/about ('leading cause of injury death' for adults 65+)"
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 106,
+  "verdict": "false",
+  "reason": "4 one idea: bundles the date rule (first Sunday after Labor Day) with Carter's 1978 proclamation; two facts with a before/after order and a year for the generator to garble."
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia StoryCorps (with permission, archived at the American Folklife Center, Library of Congress)"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Falsifiability and The Logic of Scientific Discovery (1934 original)"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Falsifiability (black swan asymmetry)"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Hypothesis ('putting or placing under')"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Francesco Redi (1668; gauze-covered jars)"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "sourced: Wikipedia Spontaneous generation and Swan neck flask (s-shaped; bend stops particles)"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "no name, date, number, statute or quotation; judged on general knowledge, not source-checked"
+ }
+]

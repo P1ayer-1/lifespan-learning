@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "src: Wikipedia '800 metres' (two laps of a 400 m track)"
+ },
+ {
+  "i": 1,
+  "verdict": "false",
+  "reason": "1 true/7: 'must stay in their own lanes until a breakline ... gets a runner disqualified' is stated as universal; many school and youth 800s use waterfall or group starts, and WA rules exempt runners pushed out of lane."
+ },
+ {
+  "i": 2,
+  "verdict": "false",
+  "reason": "1 true: 'Because 800-metre runners stay in lanes around the first bend' presented as universal; school and youth 800s often use a waterfall start with no stagger."
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Negative split' (split = timed section of a race)"
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "src: arithmetic 180 s / 2 laps; Wikipedia '800 metres' (two laps)"
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Negative split' definitions of negative/positive split"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "src: WebSearch -> Wikipedia 2012 Olympics men's 800m (1:40.91, 400m split 49.28)"
+ },
+ {
+  "i": 7,
+  "verdict": "false",
+  "reason": "2 precise: 'about 7.67 metres longer' -- with the 0.30 m/0.20 m measurement lines, lane 2 is about 7.04 m longer than lane 1; 7.67 m is the step between outer lanes. (confirmed: WA Technical Rules measure lane 1 at 0.30 m, other lanes at 0.20 m, lane width 1.22 m)"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "src: Wikipedia '800 metres' (combines aerobic endurance with anaerobic conditioning)"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "src: Wikipedia '800 metres' (pacing, positive split usual); no name/number"
+ },
+ {
+  "i": 10,
+  "verdict": "false",
+  "reason": "2 precise: 'a bell rings as the leader starts the final lap' -- WA Competition Rules: 'The final lap shall be signalled to each athlete, usually by ringing a bell' (each athlete; usually a bell)."
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Drafting (aerodynamics)' (drafting behind a runner conserves energy)"
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Password strength' (increasing length strengthens; 26-letter set arithmetic)"
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "src: NIST SP 800-63B-4 (pages.nist.gov): SHALL require min 15 chars when single-factor"
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "src: NIST SP 800-63B-4: SHALL NOT impose composition rules"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "src: NIST SP 800-63B-4: SHALL NOT require periodic change; SHALL force change on evidence of compromise"
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "src: xkcd.com/936 'Password Strength'; explainxkcd: published August 10, 2011"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Credential stuffing' definition"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Have I Been Pwned?' (Troy Hunt, 4 December 2013)"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Password cracking' (dictionary + variations; substitutions well known to attackers)"
+ },
+ {
+  "i": 20,
+  "verdict": "false",
+  "reason": "9 hook: 'someone guesses a classmate's password from their profile page' invites unauthorised access to another person's account."
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Cryptographic hash function' (password hashed and compared with stored hash)"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Password manager' / 'Password strength' (different generated passwords, one master password)"
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Multi-factor authentication' (possession factor e.g. phone)"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Pivot table' (grouping and summarising)"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Use the Field List to arrange fields in a PivotTable' (Filters, Columns, Rows, Values)"
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Create a PivotTable' (Rows shows unique values)"
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Create a PivotTable' (text data counted by default)"
+ },
+ {
+  "i": 28,
+  "verdict": "false",
+  "reason": "2 precise (audit): the blank-cells half ('counted if it contains any text or blank cells') could not be confirmed on any reachable source; Microsoft's page confirms only numeric->Sum, text->Count."
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Show different calculations in PivotTable value fields' (switch to Average)"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Show different calculations...' (% of Column Total / % of Row Total)"
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Create a PivotTable' (single row of unique, non-blank headers)"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Create a PivotTable' (Rows lists unique values)"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Pivot table' example shows a '(blank)' row category"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Microsoft Office 2010' (Excel 2010 introduced Slicers)"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "src: WebSearch + Wikipedia 'Pivot table' (Salas 'father of pivot tables'; Improv released 1991 on NeXT)"
+ },
+ {
+  "i": 36,
+  "verdict": "false",
+  "reason": "2 precise (audit): no reachable source confirms the 'Sponsored' label; Google Ads Help 1722080 says ads appear under an 'Ads' label."
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "src: Google Ads Help 1722080 (ads at top/side/bottom, free results in middle); Wikipedia 'Pay-per-click'"
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Organic search'; google.com/search/howsearchworks ads page ('no one can buy better placement in organic Search results')"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Pay-per-click'; Google Ads Help 6366577 (auction, bid per click)"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "src: FTC press release 25 June 2013 ('clearly distinguishable from natural search results')"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "src: Google Search Help 2466433 (quotes for exact match)"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "src: Google Search Help 2466433 (minus excludes; 'jaguar speed -car')"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "src: Google Search Help 2466433 (site:); Wikipedia '.gov' (US government entities only)"
+ },
+ {
+  "i": 44,
+  "verdict": "false",
+  "reason": "6/9: '.edu can be registered only by accredited US colleges' is off the ad-vs-result goal, ignores grandfathered legacy .edu domains, and the hook ('trusting a source a little more') teaches .edu = reliable."
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Google Search' (OR operator must be capitalized)"
+ },
+ {
+  "i": 46,
+  "verdict": "false",
+  "reason": "4 one idea / 2 precise: bundles the ranking method with the naming; PageRank weighs links by the importance of the linking pages, not just 'how many', and is named for both 'web page' and Page."
+ },
+ {
+  "i": 47,
+  "verdict": "false",
+  "reason": "1 true: 'a vague search like bike problem returns mostly unrelated pages' is an unverifiable overstatement; vague searches return general, not unrelated, pages."
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Overview of formulas in Excel' (formulas always begin with the equal sign)"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'SUM function' (=SUM(A2:A10)); 'Overview of formulas' (colon = range)"
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Overview of formulas' (B2 = column B, row 2)"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Overview of formulas' (formulas recalculate when referenced values change)"
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Overview of formulas' (relative references adjust when copied)"
+ },
+ {
+  "i": 53,
+  "verdict": "false",
+  "reason": "1 true: 'In Excel, pressing Alt and the equals sign' is the Windows shortcut; Excel for Mac uses Cmd+Shift+T. Platform not stated."
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'SUM function' (ignores text values)"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Remove or allow a circular reference' (formula refers to itself; warning)"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "src: Microsoft Support 'Available chart types in Office' (column vertical, bar horizontal)"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Misleading graph' (truncated axis exaggerates differences)"
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'VisiCalc' (Bricklin and Frankston, 17 Oct 1979, Apple II, first spreadsheet for personal computers)"
+ },
+ {
+  "i": 59,
+  "verdict": "false",
+  "reason": "2 precise: 'published the first known bar chart' -- Playfair is widely credited with inventing the bar chart, but earlier proto-bar charts (Oresme-era Latitude of Forms) are known. (src: Wikipedia 'Bar chart')"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "src: docs.python.org built-in functions (input returns a string)"
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial introduction (strings repeated with *)"
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial control flow (range end point never included)"
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial control flow (for iterates over items)"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial introduction (indentation groups statements)"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "src: docs.python.org built-in functions (int invalid literal raises ValueError)"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "src: docs.python.org lexical analysis (f-string replacement fields evaluated at run time)"
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "src: docs.python.org lexical analysis ('Case is significant' for identifiers)"
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "src: docs.python.org built-in functions (print end default newline) and tutorial (end keyword)"
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial (while executes as long as condition true)"
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'History of Python' (Dec 1989 implementation; Feb 1991 alt.sources)"
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'History of Python' (named after Monty Python's Flying Circus)"
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "src: MDN 'text-align' (center value)"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "src: MDN 'text-align' keyword list (no 'centre') + MDN CSS syntax (invalid value -> declaration ignored)"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "src: MDN heading elements (six levels, h1 highest)"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "src: MDN 'Basic HTML syntax' (opening tag, content, closing tag with slash; void elements)"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "src: MDN heading elements (block-level, full width of containing block)"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "src: MDN <center> ('deprecated in HTML 4 ... in favor of the CSS text-align property')"
+ },
+ {
+  "i": 78,
+  "verdict": "false",
+  "reason": "1 true / 9 hook: last declaration's semicolon is optional, and the hook's 'missing semicolon breaks every style after it' is false; it breaks only the next declaration in that rule."
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "src: MDN <link> (rel=stylesheet, placed in head)"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "src: MDN 'Handling conflicts' (equal specificity: last rule wins; cascade)"
+ },
+ {
+  "i": 81,
+  "verdict": "false",
+  "reason": "2 precise: the doctype's real effect is to put the browser in standards mode instead of quirks mode; it does not declare an 'HTML5' version to the browser."
+ },
+ {
+  "i": 82,
+  "verdict": "false",
+  "reason": "4 one idea / 2 precise: bundles three claims (created HTML, specified it, wrote browser and server) under 'late 1990'; HTML's first public description ('HTML Tags') dates to 1991."
+ },
+ {
+  "i": 83,
+  "verdict": "false",
+  "reason": "2 precise (audit): name spelled 'Hakon'; Wikipedia 'Cascading Style Sheets' gives 'Håkon Wium Lie' (date and CERN confirmed)."
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Scratch (programming language)' (MIT Media Lab; 1.0 on 15 May 2007)"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Scratch (programming language)' (named after DJ scratching)"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'Variable' (set/change blocks) and 'Green Flag'"
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'Variable' ('do not reset on green flag')"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'If () Then' (condition checked once; wrap in Forever to recheck)"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'Forever' and 'If () Then' (repeated check each loop)"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'Repeat ()' and 'Forever' blocks"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'If () Then, Else'"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'Variable' (for all sprites vs for this sprite only)"
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'Variable' (checkbox shows variable on stage)"
+ },
+ {
+  "i": 94,
+  "verdict": "false",
+  "reason": "5 storyable / garble risk: five numbers (480, 360, -240..240, -180..180, 0,0) in one clause invite garbling, and stage coordinates are peripheral to loops, if-blocks and score."
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "src: Scratch Wiki 'Green Flag' (starts When Green Flag Clicked scripts; stop sign halts all)"
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Prime number' (definition)"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Prime number' (1 excluded for fundamental theorem of arithmetic)"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Prime number' (2 only even prime)"
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial ('% operator returns the remainder')"
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Prime number' (trial division 2..sqrt n)"
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial (range end point never included; prime example uses range(2, n))"
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial (break exits innermost loop)"
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "src: docs.python.org tutorial (loop else runs when no break; prime example)"
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Prime number' (primes > 1); docs.python.org range semantics"
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Prime number' (Euclid's Elements c. 300 BC, first known proof of infinitely many primes)"
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Sieve of Eratosthenes' (marks multiples of each prime)"
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Prime number' (every other prime is odd); arithmetic"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'The Elements of Style' (composed 1918; 'Omit needless words')"
+ },
+ {
+  "i": 109,
+  "verdict": "false",
+  "reason": "8 duplicate: same Strunk 'omit needless words' passage as fact 108; pass 108, fail this paraphrase."
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "src: etymonline 'revise' (Latin revisere 'look at again')"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "no name/number; general revision advice"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "no name/number; general revision advice"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "no name/number; general revision advice"
+ },
+ {
+  "i": 114,
+  "verdict": "false",
+  "reason": "5/6: an eight-item adjective-order list is garble-prone and is about ordering adjectives, not cutting weak ones or varying sentence length."
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "no name/number; general revision advice"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "no name/number; general revision advice"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "no name/number; general revision advice"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "src: WebSearch + Wikipedia 'Ernest Hemingway' (born 21 July 1899; Star style guide quote)"
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Rudolf Flesch' (created Reading Ease) and 'Flesch-Kincaid readability tests' (words, sentences, syllables)"
+ }
+]

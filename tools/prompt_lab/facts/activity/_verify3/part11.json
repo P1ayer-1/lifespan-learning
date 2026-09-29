@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "false",
+  "reason": "1 true: 'A thesis statement is one sentence' stated absolutely -- a thesis is usually one sentence but can run to two in longer essays; the hedge is missing."
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 6,
+  "verdict": "false",
+  "reason": "8 duplicate: paraphrases fact 4 (an outline lists each point with its evidence so a point with none shows up); same row, near-identical hook."
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Ethos (Aristotle, Rhetoric)"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 23,
+  "verdict": "false",
+  "reason": "4 one idea: bundles the etymology of 'essay' with Montaigne's 1580 Essais; also tangential to writing a five-paragraph persuasive essay."
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Quotation marks in English"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Quotation marks in English"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Freytag's pyramid (1863)"
+ },
+ {
+  "i": 34,
+  "verdict": "false",
+  "reason": "4 one idea: bundles the meaning of deus ex machina with the Greek stage-crane history; two facts."
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "checked: CDC, About Mental Health"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Anxiety (fear present, anxiety future)"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "false",
+  "reason": "1 true: 'A healthy boundary is about what you will do, not about controlling someone else' is a therapeutic framing, not a checkable fact, and leans on fact 45's definition."
+ },
+ {
+  "i": 47,
+  "verdict": "false",
+  "reason": "2 precise: 'psychologists say it is a set of skills that can be built, not a fixed trait' -- sources describe resilience as either a developable process or a relatively stable trait; the 'not a fixed trait' consensus is not confirmed."
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Holmes and Rahe stress scale (1967, both items at 20 LCU)"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "checked: KU News 2018-03-06 (Hall; casual friend 40-60 h, so \"about 50\" holds)"
+ },
+ {
+  "i": 50,
+  "verdict": "false",
+  "reason": "5 storyable: 'The same 2018 study' depends on another fact the story will not have; the study is unnamed on its own."
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Proximity principle and Propinquity (Festinger, Schachter and Back 1950, MIT Westgate)"
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: usps.com/manage/forward.htm (12 months)"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 55,
+  "verdict": "false",
+  "reason": "7 narrow: 'the old school usually has to send records' is a legal or school-system obligation that varies by country; no jurisdiction is named."
+ },
+ {
+  "i": 56,
+  "verdict": "false",
+  "reason": "2 precise: I could not confirm through any fetched animal-welfare source that groups advise 'a few weeks' indoors, or the stated reason (UK and US charity pages returned 404/403)."
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 59,
+  "verdict": "false",
+  "reason": "2 precise: 'than time spent side by side without talking' -- Hall (KU, 2018) contrasted joking and hanging out with time spent working together, not with silent side-by-side time."
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "checked: Stanford GSE news (SHEG lateral reading)"
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, PolitiFact (Aug 2007, Truth-O-Meter)"
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 72,
+  "verdict": "false",
+  "reason": "2 precise: 'each school's students counted more fouls by the other team' -- Dartmouth students saw about equal fouls (4.3 own vs 4.4 Princeton); only Princeton students saw a lopsided game (9.8 vs 4.2)."
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "checked: Simply Psychology (Loftus and Palmer 1974, smashed 40.8 vs hit 34.0 mph)"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Rashomon (1950, four accounts)"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Blind men and an elephant"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, The dress (Feb 2015, blue and black)"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Rubin vase (1915)"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Sally-Anne test (1985)"
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Fundamental attribution error (Ross 1977)"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Battles of Lexington and Concord"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Mourning (white in Chinese culture)"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Naive realism (psychology)"
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Seed germination and Phytochrome (lettuce germination induced by red light)"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Sowing (2-3 times seed size)"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Nix v. Hedden (May 10 1893)"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 93,
+  "verdict": "false",
+  "reason": "2 precise: 'cold weather can slow them to six or seven weeks' is a specific figure I could not confirm, and the two-range clause invites garbling; radishes are typically ready in about 3-4 weeks."
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "checked by count: A0-C8 gives 52 white and 36 black; Wikipedia, Musical keyboard (88 keys)"
+ },
+ {
+  "i": 99,
+  "verdict": "false",
+  "reason": "4 one idea: bundles the A440 standard with ISO's 1955 recommendation; 'first recommended' also misleads, since a 1939 London conference adopted A440 before ISO did."
+ },
+ {
+  "i": 100,
+  "verdict": "false",
+  "reason": "4 one idea: bundles Maelzel's 1815 metronome patent with Beethoven's early use of metronome markings; two facts."
+ },
+ {
+  "i": 101,
+  "verdict": "false",
+  "reason": "4 one idea: bundles Cristofori's invention (Florence, by 1700) with the etymology of 'piano'; two facts."
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Clef"
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Sleep and learning (Walker 2002 finger-tapping)"
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Delayed onset muscle soreness (24-72 h)"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Delayed onset muscle soreness (lactate normal within 1 h)"
+ },
+ {
+  "i": 110,
+  "verdict": "false",
+  "reason": "2 precise: the 2009 Lystedt Law and its removal-from-play rule are confirmed (RCW 28A.600.190, 2009 c 475), but no fetched source confirmed 'first US state'."
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Tuckman's stages (1965)"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Tuckman's stages (Tuckman and Jensen 1977)"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Ringelmann effect (published 1913)"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 116,
+  "verdict": "false",
+  "reason": "2 precise: Little League's regulations list 'Ages 6-8: 50', not '7 and 8', and 105 pitches applies to the Challenger Division (17 and older), not to a 17-18 regular-season group."
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Home advantage"
+ },
+ {
+  "i": 119,
+  "verdict": "false",
+  "reason": "1 true: 'wins divided by the number of games played' ignores ties, which many leagues (e.g. the NFL) count as half a win; the arithmetic also invites garbling."
+ }
+]

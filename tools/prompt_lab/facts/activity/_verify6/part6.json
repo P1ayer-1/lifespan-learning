@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "no name/date/number; basic algorithm definition (Wikipedia Binary_search fetched)."
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "Wikipedia Binary_search: worst case floor(log2 n)+1 comparisons; computed = 20 for n = 1,000,000."
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "no name/date/number; basic definition of linear search."
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "Wikipedia Binary_search worst-case formula floor(log2 n)+1; computed 20 -> 21 when n doubles from 1e6 to 2e6."
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "no specific name/date/number; standard Big-O description."
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "Wikipedia Binary_search formula; computed floor(log2 100)+1 = 7."
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "Bloch, Google Research blog 2006 (fetched): buggy line (low+high)/2 and fix low+((high-low)/2)."
+ },
+ {
+  "i": 7,
+  "verdict": "false",
+  "reason": "2 precise: 'for more than nine years' -- Bloch (Google blog, 2006) says the JDK bug lay dormant for about nine years ('nine years or so'), not more than nine. (Bloch post fetched: 'approximately nine years'; Wikipedia's 'more than nine' conflicts with the primary source.)"
+ },
+ {
+  "i": 8,
+  "verdict": "false",
+  "reason": "2 precise: 'about ninety percent failed ... after several hours' -- Bentley gave a couple of hours and reported ninety percent found bugs in their programs (about ten percent got it right). (WebSearch this session; Wikipedia Binary_search says 'several hours', conflicting with Bentley's text.)"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "Wikipedia Binary_search (raw, fetched): 'In 1946, John Mauchly made the first mention of binary search as part of the Moore School Lectures'."
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "no name/date/number; general data-structure property."
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "no name/date/number; general cost comparison."
+ },
+ {
+  "i": 12,
+  "verdict": "false",
+  "reason": "8 duplicate: paraphrases the phase_6 domain science_method fact on the 2015 project repeating 100 psychology studies; also a multi-number clause (2008/97/36) prone to garbling."
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "Wikipedia Publication_bias (fetched): term coined by Robert Rosenthal in 1979."
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "Wikipedia Impact_factor (fetched): devised by Eugene Garfield; citations in a year to items from the two previous years."
+ },
+ {
+  "i": 15,
+  "verdict": "false",
+  "reason": "2 precise: '2013 San Francisco Declaration' -- sfdora.org/read says DORA was developed and published in December 2012 (Wikipedia Impact_factor says released May 2013); sources conflict on the year."
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "Wikipedia Lancet_MMR_autism_fraud (fetched): 1998, The Lancet, twelve children."
+ },
+ {
+  "i": 17,
+  "verdict": "false",
+  "reason": "2 precise: 'after it was found to be fraudulent' -- the Lancet's Feb 2010 retraction followed the GMC's findings that the paper's claims were false; the fraud finding came in the BMJ in 2011."
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "no name/date/number; general statistics."
+ },
+ {
+  "i": 19,
+  "verdict": "false",
+  "reason": "1 true: 'a randomized controlled trial ... is needed to show that one causes the other' -- causation is also established without RCTs (e.g. smoking and lung cancer); overstated as absolute."
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "Wikipedia P-value (fetched): definition and ASA statement that it is not the probability the hypothesis is true."
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "Wikipedia P-value (fetched): significance does not measure effect size; large samples."
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "no name/date/number; general definition of meta-analysis."
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "no name/date/number; general definition of a preprint."
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "Wikipedia The_Chicago_Manual_of_Style (fetched): first published 1906 by University of Chicago Press."
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "chicagomanualofstyle.org citation guide (fetched): N-B preferred in humanities incl. history; author-date in sciences and social sciences."
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "Wikipedia Ibid. (fetched): ibidem, 'in the same place', refers to the preceding note."
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "Wikipedia The_Chicago_Manual_of_Style (fetched): 17th ed., September 2017, changed the long-standing ibid. recommendation."
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "Purdue OWL MLA in-text and Works Cited pages (fetched): author-page in parentheses; heading 'Works Cited'."
+ },
+ {
+  "i": 29,
+  "verdict": "false",
+  "reason": "4 one idea: bundles APA's in-text/References format with the seventh edition's October 2019 publication date."
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "no name/date/number; general definition of footnote vs endnote."
+ },
+ {
+  "i": 31,
+  "verdict": "false",
+  "reason": "2 unconfirmed: hanging indent confirmed for MLA and APA (Purdue OWL) but no fetched source states it for Chicago bibliographies (chicagomanualofstyle.org guide and Purdue CMOS page only show examples)."
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "no name/date/number; general plagiarism rule."
+ },
+ {
+  "i": 33,
+  "verdict": "false",
+  "reason": "4 one idea: defines a DOI and adds APA's rule to include it; two claims at about 36 words."
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "no name/date/number; general writing guidance."
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "Purdue OWL (fetched): APA alphabetized by first author's last name; MLA alphabetical by last name; CMOS letter-by-letter alphabetical by first word (author's name or title)."
+ },
+ {
+  "i": 36,
+  "verdict": "false",
+  "reason": "2 precise: '1972 Stanford marshmallow study' -- Wikipedia Stanford_marshmallow_experiment dates the study to 1970; the 'researcher left the room' detail was not confirmed in a fetched source."
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "Wikipedia Stanford_marshmallow_experiment (fetched): 1990 follow-up, higher SAT scores."
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "Wikipedia Stanford_marshmallow_experiment (fetched): Watts, Duncan & Quan 2018, effect substantially reduced, family background."
+ },
+ {
+  "i": 39,
+  "verdict": "false",
+  "reason": "6 off goal: study-design facts (1,037 people, birth dates) say nothing about present decisions leading to later consequences."
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "Wikipedia Terrie_Moffitt (fetched): Moffitt et al. 2011 PNAS, childhood self-control predicts health, wealth and public safety, Dunedin cohort."
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "Wikipedia Framingham_Heart_Study (fetched): began 1948, 'the source of the term risk factor'; WebSearch: Dawber & Kannel 1961."
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "Wikipedia Hyperbolic_discounting (fetched): $50 now vs $100 in a year; $50 in five years vs $100 in six years."
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "computed: 1000 x 1.07^40 = 14,974."
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "consumerfinance.gov (fetched): most negative info seven years; bankruptcies up to ten years."
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": "nidcd.nih.gov noise-induced hearing loss (fetched): 85 dBA; human hair cells don't grow back."
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "WebSearch this session (Wikipedia Peak_bone_mass): early 20s in females, late 20s in males."
+ },
+ {
+  "i": 47,
+  "verdict": "false",
+  "reason": "9 hook: the hook applies a CDC figure about quitting smoking to a friend who vapes, inviting the generator to claim the ten-year figure for vaping."
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "Wikipedia The_Washington_Post (fetched): Bezos, August 2013, $250 million, Graham family."
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "Wikipedia Los_Angeles_Times (fetched): 2018, $500 million plus $90 million pension liabilities."
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "Wikipedia Los_Angeles_Times (fetched): owner blocked the planned endorsement; three board members resigned."
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "Wikipedia Manufacturing_Consent (fetched): 1988, five filters, first is size, ownership and profit orientation."
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "Wikipedia Manufacturing_Consent (fetched): second filter is advertising."
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "Wikipedia Telecommunications_Act_of_1996 (fetched): cap on radio ownership eliminated; owners fell while stations increased."
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "Wikipedia FCC_fairness_doctrine (fetched): introduced 1949, abolished by FCC 1987."
+ },
+ {
+  "i": 55,
+  "verdict": "false",
+  "reason": "4 one idea: bundles Kane being modeled on Hearst with Hearst banning mention of the film; the ownership-shaping-coverage point is only in the second clause."
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "Wikipedia Mediaset (three main channels) and Silvio_Berlusconi (maintained ownership while in power), both fetched."
+ },
+ {
+  "i": 57,
+  "verdict": "false",
+  "reason": "2 precise / 4 one idea: the ban on the BBC expressing its own opinion is in the Agreement accompanying the Charter, not the Royal Charter itself; also bundles funding and impartiality at ~40 words."
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "Wikipedia ProPublica (fetched): founded 2007 as nonprofit; first online news outlet to win a Pulitzer, 2010."
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "Wikipedia World_Press_Freedom_Index (fetched): since 2002, 180 countries, concentration of media ownership in economic indicator."
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "Wikipedia Security_deposit (fetched): deductions for unpaid rent and damage beyond ordinary wear and tear; small tack holes not deductible."
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "gov.uk deposit-protection-schemes-and-landlords (fetched): within 30 days, England and Wales."
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "legislation.gov.uk Tenant Fees Act 2019 Sch. 1 para 2 (fetched): five weeks' rent where annual rent under GBP 50,000."
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "Wikipedia Down_payment (fetched): called a deposit in British usage."
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "consumerfinance.gov PMI page (fetched): required under 20% down on conventional loans; protects the lender."
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "no name/date/number; general amortization."
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "computed: $300,000, 30 yr, 6% -> $1,798.65/month, total interest $347,515."
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "no name/date/number; general ARM definition."
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "etymonline.com mortgage (fetched): Old French 'dead pledge'; dies when paid or when payment fails."
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "no name/date/number; general foreclosure definition."
+ },
+ {
+  "i": 70,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched sources (Wikipedia Affordable_housing) give 30% of gross income including utilities only as a 'commonly accepted guideline'; no reachable HUD page confirmed agencies' 'cost-burdened' definition as worded."
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "no name/date/number; general definition of equity."
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "WebSearch this session: KU news 2018 (Hall, J Soc Pers Relat): about 50 hours acquaintance to casual friend."
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "WebSearch this session: KU news 2018: more than 200 hours to become close friends."
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "Wikipedia Propinquity and Proximity_principle (fetched): Festinger, Schachter & Back 1950, MIT housing, stairways."
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "Wikipedia Robert_Zajonc (fetched): 1968 'Attitudinal effects of mere exposure'; Mere-exposure_effect definition."
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "Wikipedia Holmes_and_Rahe_stress_scale (fetched): 1967; change in residence 20, change in schools 20."
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "Wikipedia The_Strength_of_Weak_Ties (fetched): 1973; job leads through acquaintances rather than close friends."
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "Wikipedia Third_place (fetched): Oldenburg, The Great Good Place, 1989; cafes, libraries."
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "census.gov calculating-migration-expectancy (fetched): 2007 ACS, 11.7 moves."
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "Wikipedia Homesickness (fetched): nearly universal; roughly 20% of university students at or above midpoint."
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "Wikipedia Homophily (fetched): Lazarsfeld and Merton, 1954."
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "Wikipedia Vivek_Murthy (fetched): May 2023, loneliness epidemic (HHS release returned 403)."
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "WebSearch this session: KU news 2018: 90 hours to go from casual friend to friend."
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "no name/date/number; standard definition (next-best alternative)."
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "Wikipedia Parable_of_the_broken_window (fetched): Bastiat 1850, 'That Which Is Seen, and That Which Is Not Seen'."
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "Wikipedia Parable_of_the_broken_window (fetched): shoes or a book; destruction is no net gain."
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "Wikipedia There_ain't_no_such_thing_as_a_free_lunch (fetched): popularized by Heinlein's 1966 novel."
+ },
+ {
+  "i": 88,
+  "verdict": "false",
+  "reason": "6 off goal: book-title trivia (Friedman 1975) that states nothing about opportunity cost itself."
+ },
+ {
+  "i": 89,
+  "verdict": "false",
+  "reason": "8 duplicate: paraphrases the phase_6 domain economics fact on Ricardo's comparative advantage ('what it gives up least to make')."
+ },
+ {
+  "i": 90,
+  "verdict": "false",
+  "reason": "8 duplicate: paraphrases the phase_6 domain economics fact defining a sunk cost and that it should not affect the next decision."
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "Wikipedia Sunk_cost (fetched): British and French governments continued funding Concorde after no economic case."
+ },
+ {
+  "i": 92,
+  "verdict": "false",
+  "reason": "1 true: 'costs ... the $15 they could have earned instead' -- only if that hour could actually have been worked and paid; exception not stated."
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": "no name/date/number; standard textbook cost of college."
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "no name/date/number; standard definitions."
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "no name/date/number; general opportunity cost of cash."
+ },
+ {
+  "i": 96,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched Wikipedia pages (K._Anders_Ericsson, Deliberate_practice, Outliers) confirm the 1993 violinist study but not the Berlin academy or 'solitary practice' comparison; the paper itself was unreachable."
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "Wikipedia Deliberate_practice and Practice_(learning_method) (fetched): clear goals, immediate feedback, improving specific skills."
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "Wikipedia Practice_(learning_method) and K._Anders_Ericsson (fetched): Gladwell 2008 popularized the rule; Ericsson said it is wrong, quality of practice matters."
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "Wikipedia Metronome (fetched): Maelzel patented 1815; Winkel's 1814 design."
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": "Wikipedia Metronome (fetched): marking 60 = 60 beats per minute."
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "Wikipedia A440_(pitch_standard) (fetched): A above middle C, 440 Hz, ISO 16."
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "Wikipedia Piano_key_frequencies (fetched): octave doubles frequency, 440 -> 880 Hz."
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "Wikipedia Piano (fetched): 52 white, 36 black, 88 keys."
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "Wikipedia Standard_tuning (fetched): guitar E2 A2 D3 G3 B3 E4."
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "Wikipedia Standard_tuning (fetched): violin G3 D4 A4 E5, perfect fifths."
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "Wikipedia Suzuki_method (fetched): Shinichi Suzuki; play before reading, as children speak before reading."
+ },
+ {
+  "i": 107,
+  "verdict": "false",
+  "reason": "2 precise: 'faster and more accurately' -- Walker et al. 2002 (Neuron) reported about a 20% overnight speed gain without loss of accuracy, not higher accuracy. (WebSearch this session, Walker et al. 2002.)"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "Wikipedia Maximilien_Ringelmann (fetched): French agricultural engineer; rope pulling; published 1913."
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "Wikipedia Social_loafing (fetched): loafing when individual inputs are not identifiable."
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "Wikipedia Tuckman's_stages_of_group_development (fetched): 1965, forming-storming-norming-performing."
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "Wikipedia Tuckman's_stages_of_group_development (fetched): 1977 with Mary Ann Jensen, adjourning."
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "Wikipedia Hot_hand (fetched): Gilovich, Vallone & Tversky 1985, no evidence of hot hand."
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "Wikipedia Hot_hand (fetched): Miller & Sanjurjo 2018, sampling bias, significant streak shooting in same data."
+ },
+ {
+  "i": 114,
+  "verdict": "false",
+  "reason": "2 precise / 4 one idea: 'first documented in Canadian hockey by Roger Barnsley in 1985' -- Grondin et al. reported it in Canadian hockey in 1984, and Barnsley's paper had co-authors; also bundles effect with discoverer."
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "cdc.gov HEADS UP returning-to-sports (fetched): no return the same day."
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "cdc.gov HEADS UP returning-to-sports (fetched): six-step progression, advance only if symptom-free."
+ },
+ {
+  "i": 117,
+  "verdict": "false",
+  "reason": "2 precise: 'About 80 percent' -- sources give roughly 70 percent (and 55-72% across studies) for non-contact ACL injuries."
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "Wikipedia Anterior_cruciate_ligament_injury (fetched): neuromuscular training (balance, plyometric, technique) reduces risk."
+ },
+ {
+  "i": 119,
+  "verdict": "false",
+  "reason": "2 precise: 'the first season with no significant home advantage recorded' -- unconfirmed; sources say home teams went 127-128-1, the worst home record in NFL history."
+ }
+]

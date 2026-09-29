@@ -1,0 +1,482 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Margin of error' (n=1000 -> +/-3.1% at 95%)."
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Margin of error' formula 0.98/sqrt(n): 3.1 -> 2.2 points for 1,000 -> 2,000."
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "fetched: Pew 2016 'Understanding the margin of error in election polls' (lead margin 'generally about twice'); Wikipedia 'Margin of error' (3.1 vs 5.8)."
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Margin of error' formula (0.98/sqrt(200)=6.9); Pew 2016 subgroup example."
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Opinion poll' (margin of error covers sampling error; bias from wording and nonresponse is separate)."
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Margin of error' (maximum at p=0.5)."
+ },
+ {
+  "i": 6,
+  "verdict": "false",
+  "reason": "4 one idea / 2 precise: bundles 'less biased' (not guaranteed) with a variance increase, and the design effect is a variance ratio, not 'an increase'; mechanism-heavy and prone to garbling."
+ },
+ {
+  "i": 7,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no source I could reach confirms the categorical 'does not apply' for opt-in polls; AAPOR's reachable page describes a 'credibility interval' as a similar measure for nonprobability surveys. Wikipedia 'Opinion poll' and 'Straw poll' only call such polls unscientific."
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'The Literary Digest' (2.38 million responded; predicted Landon; Roosevelt won 523 electoral votes)."
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "fetched: Pew 2016 margin-of-error explainer; the rest (within the margin of error is not the same as an exact tie) is reasoning, with no name or number."
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "fetched: Pew 2016 (margins stated in percentage points); the arithmetic 58 +/- 3 = 55-61 checks."
+ },
+ {
+  "i": 11,
+  "verdict": "false",
+  "reason": "2 precise: could not confirm the 'almost as good as elected' wording; Roper announced on Sept 9, 1948 that he would stop polling entirely, not 'largely'."
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'BLUF (communication)' (Army Regulation 25-50)."
+ },
+ {
+  "i": 13,
+  "verdict": "false",
+  "reason": "4 one idea: bundles a biographical claim ('first woman hired as an MBA by McKinsey') with the Pyramid Principle; the second claim is off the writing goal."
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'I-message' (Thomas Gordon, 1960s; P.E.T. 1970)."
+ },
+ {
+  "i": 15,
+  "verdict": "false",
+  "reason": "8 duplicate / 2 precise: restates fact 14's I-message vs you-message point, and the unnamed 'studies of conflict' cannot be pinned to a source."
+ },
+ {
+  "i": 16,
+  "verdict": "false",
+  "reason": "2 precise: in Intuition Pumps Dennett presents this as 'Rapoport's Rules' (after Anatol Rapoport); it is not Dennett's own advice."
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "fetched: paulgraham.com/disagree.html (March 2008, DH0-DH6)."
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "fetched: Europe PMC abstract of Kruger, Epley, Parker & Ng 2005, JPSP 89(6) (overconfidence about conveying tone such as sarcasm over email)."
+ },
+ {
+  "i": 19,
+  "verdict": "false",
+  "reason": "2 precise / 4: the documented early statements of the caps-as-shouting convention are on Usenet (1984), not bulletin boards, and the origin claim is an extra idea bundled onto the fact."
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Blind carbon copy'."
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Plain language' ('use the active voice, in which the subject does the action')."
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Plain Writing Act of 2010' (signed Oct 13, 2010 by Obama)."
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "fetched: amazon.jobs Leadership Principles page (wording confirmed; the page says 'we use our Leadership Principles every day')."
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Diwali'."
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Islamic calendar' (10.875 days shorter; months move about 11 days earlier each year)."
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Zakat al-Fitr'."
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Ma Nishtana'."
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Red envelope'."
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Red envelope' (taboo on the digit four; homophone of 'death')."
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Day of the Dead'."
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Hanukkah menorah'."
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Langar (Sikhism)'."
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Christmas in Russia' (Julian Dec 25 = Gregorian Jan 7)."
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Kwanzaa'."
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Holi'."
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Intergovernmental Panel on Climate Change'."
+ },
+ {
+  "i": 37,
+  "verdict": "false",
+  "reason": "4 one idea: a definition plus its named coiner ('coined by statistician Gene Glass in 1976') is two facts."
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Lancet MMR autism fraud' (Feb 28, 1998; 12 children; fully retracted Feb 2, 2010)."
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "fetched: Europe PMC abstract of Hviid et al. 2019, Ann Intern Med (657,461 Danish children; no increased risk including in susceptible subgroups)."
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Faster-than-light neutrino anomaly' (loose GPS fibre cable found Feb 2012; ICARUS March 2012). A clock fault partly offset the cable error, which the fact omits."
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'ArXiv' (Ginsparg, August 1991; moderated but not peer reviewed)."
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Surveys of scientists views on climate change' (11,944 abstracts; 97.1%)."
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Higgs boson' (July 4, 2012; ATLAS and CMS)."
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia '68-95-99.7 rule' (five sigma = 99.99994%, p about 6e-7, which is below one in a million)."
+ },
+ {
+  "i": 45,
+  "verdict": "false",
+  "reason": "4 one idea / 6 off goal: bundles the discovery with its discoverers and their 2005 Nobel, and says nothing about how the consensus formed through replication."
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Mertonian norms' (1942; organized skepticism)."
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'N ray' (Wood 1904 removed the prism; N-rays still 'observed')."
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Twelve leverage points' (1997; parameters lowest, paradigms and goals highest)."
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'The Limits to Growth' (1972, Club of Rome, MIT, World3)."
+ },
+ {
+  "i": 50,
+  "verdict": "false",
+  "reason": "2 precise: the Hanoi bounty story (Vann) documents tailless rats and rat farming, but not that 'the rat population grew'."
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Aral Sea' (fishing industry 'at its peak employed some 40,000')."
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Four Pests campaign' (1958; locusts; famine)."
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Jevons paradox' (The Coal Question, 1865)."
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Ice-albedo feedback'."
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Induced demand'."
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Dust Bowl'."
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Great Famine (Ireland)' (1845; Irish Lumper, lack of genetic variability)."
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Montreal Protocol' ('first universally ratified treaty in United Nations history')."
+ },
+ {
+  "i": 59,
+  "verdict": "false",
+  "reason": "2 precise: the 2.6 C figure is land-surface temperature compared with non-redlined areas; the fact states neither, so it reads as air temperature with no comparison group."
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Goods and services tax (Canada)' (Jan 1, 1991 at 7%; 5% since Jan 1, 2008)."
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Goods and services tax (Canada)' and 'Harmonized sales tax' (Ontario 13%)."
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Sales taxes in the United States' ('no national general sales tax exists')."
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Sales taxes in the United States' (AK, DE, MT, NH, OR)."
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Value-added tax' Canada section ('posted prices generally exclude taxes'); Wikipedia 'Sales taxes in the United States'."
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Value-added tax in the United Kingdom' (20% since Jan 4, 2011); legislation.gov.uk Price Marking Order 2004 art. 1 (selling price includes VAT)."
+ },
+ {
+  "i": 66,
+  "verdict": "false",
+  "reason": "1 exception missing: the 6.2% Social Security withholding applies only up to the annual wage base (and there is an extra 0.9% Medicare tax above $200,000); the fact states it without these limits."
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "fetched: canada.ca CRA 'Calculating deductions' (CPP, EI, income tax); Wikipedia 'Canada Pension Plan' (Quebec runs its own plan); CRA EI rates page (Quebec administers parental benefits)."
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Form W-2' (due to employees by January 31)."
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Tax credit'."
+ },
+ {
+  "i": 70,
+  "verdict": "false",
+  "reason": "1/7: 'with the rest lost' is not universal; some non-refundable credits carry forward (e.g. Canada's tuition credit), and no jurisdiction is named."
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Tax refund' ('paid more taxes than owed')."
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'John van Hengel' (St. Mary's Food Bank, Phoenix, 1967, 'world's first food bank')."
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "searched: Edmonton's Food Bank history page (Edmonton Gleaners Association, incorporated Jan 16, 1981); fetched: Wikipedia 'Food Banks Canada' (first in 1981)."
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Food bank' (food banks supply agencies; pantries serve people directly)."
+ },
+ {
+  "i": 75,
+  "verdict": "false",
+  "reason": "2 precise: 'founded ... in 1979 as America's Second Harvest' -- the 1979 network was named Second Harvest; it became America's Second Harvest in 1999 and Feeding America in 2008."
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Shelf life' (quality, not safety, after the date)."
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Good Samaritan law' (1996 Act gives 'limited liability protection for those who donate food')."
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "fetched: dailybread.ca FAQ ('For safety reasons ... we do not accept homemade food, leftovers')."
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "searched: Food Banks Canada HungerCount 2025 press release (close to 2.2 million visits, March 2025)."
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "searched: Food Banks Canada HungerCount 2025 (33% children)."
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Ontario Secondary School Diploma' (40 hours)."
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Refrigerator' (FDA: at or below 4 C / 40 F)."
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Gleaning' and 'Food bank'."
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Super Bowl I'."
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia '2026 FIFA World Cup'."
+ },
+ {
+  "i": 86,
+  "verdict": "false",
+  "reason": "2 precise: could not confirm 'about 59 percent' for 2018-19; the home records in the league standings sum to about 60%, and the sources disagree."
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia '1st & Ten (graphics system)'."
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Instant replay'."
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Stanley Cup'."
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Basking in reflected glory' (Cialdini et al. 1976)."
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Hot hand' (GVT 1985; Miller & Sanjurjo 2018, Econometrica)."
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Olympic symbols' (Coubertin 1913; six colours 'reproduce the colours of every country')."
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Video assistant referee'."
+ },
+ {
+  "i": 94,
+  "verdict": "false",
+  "reason": "2 precise: 'about 22 seats' -- Farkas, Helbing & Vicsek (Nature 2002) give about 12 m or 20 seats per second."
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Offside (association football)'."
+ }
+]

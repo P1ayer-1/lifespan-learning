@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 18,
+  "verdict": "false",
+  "reason": "4 one idea: bundles two claims, the irregular plural 'animaux' and the term 'animal de compagnie'; split or drop."
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "checked: 只 zhī is the general classifier for most animals; 一只猫 yì zhī māo"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "checked: uchi/soto usage, haha for own mother to outsiders, okaasan for others'"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "checked: tipping not expected in Japan; staff often return money left behind"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 37,
+  "verdict": "false",
+  "reason": "1 true / 8 duplicate: 'both sides agree ahead of time to accept the arbitrator's decision' ignores non-binding arbitration, and the mediator-does-not-decide contrast repeats fact 36."
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "checked: Etymonline, mediate < Latin mediatus/mediare < medius 'middle'"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, first published 1876 by Henry Martyn Robert"
+ },
+ {
+  "i": 49,
+  "verdict": "false",
+  "reason": "2 precise: 'went badly because no one agreed on how meetings should work' -- the 1863 New Bedford church meeting erupted into conflict and Robert, not knowing procedure, resolved to learn it; he published 13 years later."
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "checked: Etymonline, Latin 'things to be done', gerundive of agere"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "checked: RONR, a motion is seconded before the chair states it for debate"
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: RONR, minutes record what was done, not what was said"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "checked: RONR, majority = more than half of votes cast"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "checked: RONR, a tie is not a majority, so the motion is lost"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "checked: RONR, no member speaks twice on a question until all who wish have spoken once"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "checked: cricket toss decides bat/bowl; NFL toss decides who receives the kickoff"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "checked: Hasbro rules, the Banker auctions an unbought property"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "checked: official rules say nothing happens on Free Parking; the cash pot is a house rule"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "checked: FIDE Laws Art. 4.3, deliberately touched own piece must be moved if it can be"
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, Hoyle's A Short Treatise on the Game of Whist, 1742; 'according to Hoyle'"
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 69,
+  "verdict": "false",
+  "reason": "1 true / 2 precise: a let is not 'a rule for handling an unclear point'; it replays a serve that clips the net, and some formats (e.g. NCAA dual matches) play no-let, an exception not stated."
+ },
+ {
+  "i": 70,
+  "verdict": "false",
+  "reason": "1 true: 'players agree before the game to accept their calls' -- in organised sport an official's authority comes from the rules, not a pre-game agreement; only true of pickup games."
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "checked: Hawkins, Pepler & Craig 2001, Social Development: peers present in 88% of episodes"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "checked: same study, 57% of interventions stopped bullying"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: Olweus definition, repeated over time with an imbalance of power"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 85,
+  "verdict": "false",
+  "reason": "8 duplicate: the converse of fact 84's odd/even stride parity; same idea restated."
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": "checked: 10 hurdles in both the 100 m and 110 m hurdles"
+ },
+ {
+  "i": 94,
+  "verdict": "false",
+  "reason": "6 off goal: Olympic event history (100 m hurdles replacing 80 m in 1972) says nothing about clearing low hurdles with a three-step rhythm."
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "checked: 0.838 m (33 in), World Athletics spec as reported"
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "checked: NBA 24-second clock adopted for the 1954-55 season"
+ },
+ {
+  "i": 107,
+  "verdict": "false",
+  "reason": "6 off goal: who lobbied for the shot clock (Biasone) is history unrelated to calling plays or running a pick and roll."
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": "checked: CO2 is the main respiratory drive via chemoreceptors"
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "checked: arm stroke gives roughly 67-70% of propulsion (PMC4619838); kick aids body position"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 118,
+  "verdict": "false",
+  "reason": "6 off goal: Weissmuller's 1922 record is swimming history, not about swimming 25 m front crawl with side breathing."
+ },
+ {
+  "i": 119,
+  "verdict": "false",
+  "reason": "1 true / 7 narrow: 'short-course pools ... are 25 metres long' -- many short-course pools, especially in the US, are 25 yards; exception not stated."
+ }
+]

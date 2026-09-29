@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Misattribution of arousal' (Dutton & Aron 1974, Capilano suspension vs sturdy bridge, more contacted the interviewer)"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Misattribution of arousal' (definition; fear arousal read as attraction)"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Arthur Aron' (1997 paper, 36 questions of increasing intimacy, stranger pairs) + OpenAlex abstract of Aron et al. 1997 PSPB (greater closeness vs small-talk tasks)"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Mirroring (psychology)' (Chartrand & Bargh 1999: mimicked participants liked partner more, largely unaware)"
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Pratfall effect' (Aronson 1966, College Bowl contestant tapes, spilled coffee, competent + blunder more attractive)"
+ },
+ {
+  "i": 5,
+  "verdict": "false",
+  "reason": "2 precise: 'named by Thomas Gilovich and colleagues in 2000' -- Wikipedia 'Spotlight effect': the term first appeared in 1999 (Current Directions in Psychological Science); the 2000 paper is the T-shirt study. Audit change: was passed from memory."
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Liking gap' (Boothby, Cooney, Sandstrom & Clark 2018, Psychological Science)"
+ },
+ {
+  "i": 7,
+  "verdict": "false",
+  "reason": "1 true: 'most people cannot fake it on purpose' -- Gunnery, Hall & Ruben (2013) found about 71% of posed smiles met Duchenne criteria (web search: BPS Research Digest, J Nonverbal Behavior)."
+ },
+ {
+  "i": 8,
+  "verdict": "false",
+  "reason": "4 one idea / 2 precise: bundles the blush mechanism with 'more capillary loops per area than most other skin', which no fetched source confirms; also weakly tied to the date goal."
+ },
+ {
+  "i": 9,
+  "verdict": "false",
+  "reason": "1 true / 5: 'blood flow to the digestive system decreases, which reduces appetite' -- an oversimplified causal chain (stress appetite suppression is largely hormonal); not confirmed by any fetched source and invites an invented mechanism."
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "checked: CDC MMWR 72(1) su7201a8: 8.5% of students who dated experienced physical TDV in 2021 (~1 in 12)"
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "checked: Canada Criminal Code s.273.1(2)(e) (laws-lois.justice.gc.ca); Wikipedia 'Sexual consent' (revocable at any moment; yes-means-yes education); Maryland (Baby v. State 2007) via Wikipedia 'Consent (criminal law)'"
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Minimum wage in the United States' ($7.25 since July 24, 2009)"
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "checked: 29 CFR 570.61 (law.cornell.edu): minors 16-17 barred from meat slicers, incl. retail delis, grocery stores, restaurants"
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Form I-9' (Section 1 completed upon commencing employment; verifies identity and work authorization)"
+ },
+ {
+  "i": 15,
+  "verdict": "false",
+  "reason": "1 true / 8: 'must examine original' documents -- exceptions exist (receipts; DHS alternative remote procedure for E-Verify employers; jobs under 3 days), and it overlaps fact 14 (kept). Not source-confirmed as worded."
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Form W-4' (tells employer how much federal tax to withhold)"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Federal Insurance Contributions Act' (6.2% up to an inflation-adjusted limit)"
+ },
+ {
+  "i": 18,
+  "verdict": "false",
+  "reason": "1 true: 'every employee's wages' -- some employees are exempt from FICA/Medicare (e.g. students employed by their own school, certain nonresident students)."
+ },
+ {
+  "i": 19,
+  "verdict": "false",
+  "reason": "2 precise: 'if tips fall short of $7.25' -- Wikipedia 'Minimum wage in the United States': the employer owes the difference when the $2.13 wage plus tips falls short of the minimum wage."
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Fair Labor Standards Act of 1938' (time-and-a-half over 40 hours for non-exempt employees)"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Situation, task, action, result'"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'At-will employment' (any reason not illegal; most US workers at-will)"
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'At-will employment' (Montana only state, 1987 WDEA, good cause after probationary period)"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Twenty-sixth Amendment' (proposed Mar 23, ratified by June 30/July 1 1971, ~100 days, fastest)"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Twenty-sixth Amendment' (slogan; 18-21-year-olds conscripted for Vietnam but could not vote)"
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Voting age' (Canada lowered federal voting age from 21 to 18 in 1970)"
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Secret ballot' (official ballot printed at public expense; Tasmania 7 Feb 1856, Victoria 19 Mar 1856; SA also 1856)"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Voter registration in the United States' (ND only state without registration, abolished 1951; ID at polls)"
+ },
+ {
+  "i": 29,
+  "verdict": "false",
+  "reason": "2 precise: 'set US federal Election Day ... in 1845' -- Wikipedia 'Election Day (United States)': the 1845 act fixed the date only for choosing presidential electors; other elections conformed later. Also bundles date and rationale."
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Provisional ballot' (HAVA 2002; counted only after eligibility verified)"
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Overvote' (more selections than allowed; spoiled, not tallied)"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Compulsory voting in Australia' (Electoral Act 1924, first federal election 1925; fines)"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Election ink' (India first used 1962 general election; silver nitrate; prevents double voting)"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: CIRCLE (circle.tufts.edu): 50% of 18-29-year-olds voted in 2020"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "checked: Elections Canada 'Register to vote' page (register at assigned polling place during a general election)"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Pomp and Circumstance Marches' (March No. 1 premiered Liverpool, 19 Oct 1901)"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Pomp and Circumstance Marches' (Yale 1905 commencement, Elgar honorary doctorate of music)"
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Pomp and Circumstance Marches' (Othello III.iii 'Pride, pomp, and circumstance of glorious war!')"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Square academic cap' (resembles brickmasons' mortarboard)"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "checked: Etymonline 'valedictorian' (Latin vale dicere/valedicere, to say farewell)"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "checked: Etymonline 'diploma' (Greek, 'paper folded double'; official documents)"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "checked: Etymonline 'commencement' (beginning; ceremony made graduates begin to be bachelors, masters)"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "checked: NCES Condition of Education 'Public High School Graduation Rates' via web search (ACGR 87% in 2021-22)"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "checked: BLS 'Education pays' 2023 via web search (HS diploma $899 vs less than HS $708, age 25+)"
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": "checked: BLS 'Education pays' 2023 via web search (unemployment 3.9% HS diploma vs 5.6% less than HS)"
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'GED' (created November 1942 via USAFI/ACE for military personnel and veterans without high school)"
+ },
+ {
+  "i": 47,
+  "verdict": "false",
+  "reason": "1 true / 2: presents 30 credits, 40 hours and literacy as the OSSD requirements, but ontario.ca 'High school graduation requirements' also requires 2 online learning credits (Grade 9 from 2020) and financial literacy (from 2024). Audit change."
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Office of the Parliamentary Counsel (United Kingdom)' (drafts all government bills introduced to Parliament) + gov.uk OPC page"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "checked: house.gov 'The Legislative Process' (a representative sponsors a bill; assigned to a committee for study)"
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Reading (legislature)' (government bills receive first reading without debate or vote)"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Reading (legislature)' (second reading debate on general outlines, then vote)"
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Reading (legislature)' (third reading: debate and vote on bill as amended after committee)"
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Conference committee' (House and Senate negotiators; compromise must pass both chambers)"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Act of Congress' (ten days excluding Sundays while in session, becomes law)"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Pocket veto' (Congress adjourns during 10-day period, unsigned bill does not become law)"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Act of Congress' (override by two-thirds vote of both houses)"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cloture' (1975: three-fifths of senators duly chosen and sworn; 60 votes)"
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Origination Clause' (Art. I s.7 text; Senate may propose or concur with amendments)"
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Royal assent' (Queen Anne, Scottish Militia Bill, 11 March 1708)"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Interest (economics)' (simple interest r*B*m/n on principal only, i.e. I = Prt)"
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Compound interest' (A = P(1+r/n)^(tn); more frequent compounding yields more)"
+ },
+ {
+  "i": 62,
+  "verdict": "false",
+  "reason": "2 precise: Bernoulli (1683) showed the limit lies between 2 and 3; he did not find 'about 2.718' (web search: Wikipedia 'e (mathematical constant)', Brilliant)."
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Annual percentage yield' (same 4.65% monthly -> 4.75% APY example); recomputed 4.7504%"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "checked: CFPB 'What is a grace period for a credit card?' (no interest if balance paid in full by due date)"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Credit CARD Act of 2009' (statements show time to pay off making only minimum payments)"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Amortizing loan' (more of each payment to interest early, more to principal later)"
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "checked: verified by computation only, no web page (standard amortization, $20,000 at 7%: 36/60/84 months give $618/$396/$302 per month and $2,232/$3,761/$5,356 total interest)"
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "checked: myFICO 'What's in my FICO Scores' (payment history 35%, general population, most important factor)"
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Student loans in the United States' (government covers interest on subsidized loans while enrolled; unsubsidized accrues)"
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Student loans in the United States' (accrued interest added to loan amount, i.e. capitalization)"
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "checked: CFPB 'What are the costs and fees for a payday loan?' ($15 per $100, almost 400% APR for a two-week loan)"
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'National Labor Relations Act of 1935' (signed July 5, 1935; right to organize and bargain collectively)"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'National Labor Relations Act of 1935' (excludes government, agricultural, domestic workers, supervisors, independent contractors)"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: DOL history page 'FLSA 1938' (effective Oct 24, 1938; 25 cents; maximum workweek 44 hours)"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Taft-Hartley Act' (1947, over Truman's veto; s.14(b) right-to-work laws)"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Rand formula' (Justice Ivan Rand, 1946, after 1945 Ford strike in Windsor; all workers under the agreement pay dues)"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'NLRB v. J. Weingarten, Inc.' (1975 holding)"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "checked: BLS 'Union Members - 2025' release, Feb 18 2026, via web search (10.0% in 2025; 20.1% in 1983)"
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "checked: BLS 'Union Members - 2025' release via web search (median weekly $1,404 union vs $1,174 nonunion, full-time)"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Triangle Shirtwaist Factory fire' (March 25, 1911; 146 killed; locked stairway door)"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Haymarket affair' (May 4, 1886, Chicago, eight-hour day; origin of International Workers' Day)"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Minimum wage' (Sweden, Denmark: no minimum wage laws, collective bargaining) + 'List of countries by minimum wage' (Norway, Denmark: no statutory minimum)"
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Lockout (industry)' (strike: employees refuse to work; lockout: employer-initiated stoppage)"
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "checked: WikiArt 'The Two Fridas' (173.5 x 173 cm)"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Two Fridas' (white European Victorian dress vs Tehuana dress; dual heritage reading)"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Two Fridas' (both hearts exposed; artery winds from their hands through their hearts)"
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Two Fridas' (painted 1939, the year she divorced Rivera; remarried within a year)"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Self-Portrait with Thorn Necklace and Hummingbird' (1940; dead hummingbird a Mexican folk charm for falling in love)"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Self-Portrait with Thorn Necklace and Hummingbird' (black cat: misfortune and death)"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Broken Column' (1944; crumbling Ionic column in place of spine)"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'The Broken Column' (nails in face and body, tears, gazes forward)"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Frida Kahlo' (17 Sep 1925, aged 18, streetcar crashed into the side of her bus; lifelong pain)"
+ },
+ {
+  "i": 93,
+  "verdict": "false",
+  "reason": "2 precise: 'about 2,000 retablos' -- not confirmed: Wikipedia 'Frida Kahlo' gives no number verbatim; a web search result on the Museo Frida Kahlo collection says more than 400 ex-votos."
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Frida Kahlo' (Breton: 'a ribbon around a bomb'; she later said she detested Surrealism)"
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Complementary colors' (RYB red-green; side by side each looks brighter)"
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "checked: College Board AP Central, AP 2-D Art and Design portfolio (Sustained Investigation: 15 images, 60%)"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "checked: College Board AP Central (Selected Works: 5 works, 40%)"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Thirty-six Views of Mount Fuji' (c.1830-1832; 46 prints; ten added after immediate success)"
+ },
+ {
+  "i": 99,
+  "verdict": "false",
+  "reason": "2 precise: 'Campbell's Soup Cans (1962)' -- Wikipedia 'Campbell's Soup Cans' dates the series 1961-62 ('produced between 1961 and 1962'); no fetched source confirms 1962 alone. Audit change."
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Untitled Film Stills' (1977-1980, seventy black-and-white photographs)"
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Rouen Cathedral (Monet series)' (more than thirty, 1892-1893, different light and times)"
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "checked: web search results citing National Gallery (London) and Art Institute of Chicago publications: 15 Grainstacks at Durand-Ruel May 1891, all sold within days; 'most within a month' is true though understated"
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Homage to the Square' (over 1000 works, 1950 to 1976; nested-square schema constant, colours varied)"
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "checked: artbusiness.com 'Artist statements' (refer to yourself in the first person) + Wikipedia 'Artist's statement' (artist's written description to explain/contextualize a body of work)"
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Artist's statement' ('Artists often write a short (50-100 word) and/or a long (500-1000 word)'). Audit change from false: my earlier reason was from memory and is contradicted by this source."
+ },
+ {
+  "i": 106,
+  "verdict": "false",
+  "reason": "2 precise: Rule & Levine, 2012, Triple Canopy, press releases -- could not be confirmed from any reachable source (Triple Canopy page does not render, Guardian blocked, no Wikipedia article). Audit change: was passed from memory."
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": "checked: US Copyright Office FAQ (protected the moment created and fixed; registration needed to sue over a US work)"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cellular respiration' (overall equation)"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cellular respiration' + 'Glycolysis' (cytoplasm/cytosol; two pyruvate; net 2 ATP)"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cellular respiration' (pyruvate to acetyl-CoA in matrix, releasing CO2)"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Hans Adolf Krebs' (1937 with William Arthur Johnson; 1953 Nobel shared with Lipmann)"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Hans Adolf Krebs' (Nature rejected the June 1937 submission; published in Enzymologia)"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cellular respiration' (cycle processes acetyl-CoA twice per glucose)"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cellular respiration' (ETC in inner membrane; oxygen final acceptor forming water)"
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Chemiosmosis' (Mitchell proposed 1961; Nobel Prize in Chemistry 1978)"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'ATP synthase' (proton flow rotates a ring of subunits; rotation drives ATP synthesis)"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'ATP synthase' (Boyer and Walker shared half of the 1997 Nobel Prize in Chemistry)"
+ },
+ {
+  "i": 118,
+  "verdict": "false",
+  "reason": "2 precise: 'current estimates are about 29 to 30' -- Wikipedia 'Cellular respiration' gives several ranges (28-30, 29-30, and 30-32 from newer sources); presenting one range as the current estimate is not settled, and 'leaky membranes' invites embellishment."
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "checked: Wikipedia 'Cellular respiration' (lactate in muscle regenerates NAD+ so glycolysis continues, 2 ATP)"
+ }
+]

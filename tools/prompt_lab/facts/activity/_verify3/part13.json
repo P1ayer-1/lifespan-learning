@@ -1,0 +1,302 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Frederick William Gunn' (1861 march to Milford/Welch's Point, first US summer camp)"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'American Camp Association' (1910, CDAA, standardizing influence)"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "src: Pediatrics 2007;119:192 abstract via Europe PMC ('almost all ... some degree'); Wikipedia 'Homesickness' (~20% at/above midpoint)"
+ },
+ {
+  "i": 3,
+  "verdict": "false",
+  "reason": "2 precise: 'pick-up deal' advice not confirmed in any reachable source; Pediatrics 2007 abstract (Europe PMC) does not mention it and the full text was 403."
+ },
+ {
+  "i": 4,
+  "verdict": "false",
+  "reason": "1 true: 'first known published recipe for s'mores' -- a Campfire Marshmallows 'Graham Cracker Sandwich' recipe (c.1924) and a 1925 Memphis Commercial Appeal Girl Scout camp recipe predate the 1927 book."
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "src: smokeybear.com campfire-safety (drown, stir, drown, feel; too hot to touch, too hot to leave)"
+ },
+ {
+  "i": 6,
+  "verdict": "false",
+  "reason": "4 one idea: bundles the cause (urushiol) with the identification rhyme ('leaves of three'); two facts."
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Ixodes scapularis' (black-legged/deer tick, Lyme vector, eastern N. America)"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "src: aad.org how-to-apply-sunscreen (every two hours, immediately after swimming or sweating)"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "no named fact; general canoe safety, not source-fetched"
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Big Dipper' (Merak-Dubhe pointers to Polaris)"
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "no named fact; general practice ('many camps'), not source-fetched"
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Law of demand' (ceteris paribus)"
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Law of supply' (higher price, more supplied, profit)"
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Economic equilibrium' (market-clearing price)"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Shortage' (price below equilibrium)"
+ },
+ {
+  "i": 16,
+  "verdict": "false",
+  "reason": "2 precise: 'set above what buyers will pay' -- a surplus arises when price is above the equilibrium price, where some buyers still pay; the wording implies no sales at all."
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "no named fact; hedged 'often', not source-fetched"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Substitute good'"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Price elasticity of demand' (necessities, insulin, inelastic)"
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Paradox of value' (Wealth of Nations 1776 passage)"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "src: conversableeconomist.com 2020-08-18 (scissors passage, 1890 Principles)"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "src: eia.gov factors-affecting-gasoline-prices (crude oil largest component)"
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Tulip mania' (peak winter 1636-37, collapse Feb 1637, Haarlem auction without buyers)"
+ },
+ {
+  "i": 24,
+  "verdict": "false",
+  "reason": "2 precise: 'at 5 feet 11 inches' -- accounts of Jordan's sophomore height differ (5'10\" is also widely reported); unconfirmable exact figure."
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Relative age effect'"
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Multi-stage fitness test' (20 m, beeps shorten each level)"
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Delayed onset muscle soreness' (24-72 h, unaccustomed exercise)"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Title IX' (June 23 1972, federal financial assistance, athletics)"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Concussions in American football' (Washington pioneered, Lystedt Law 2009, removal until cleared)"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Concussions in American football' (all 50 states and DC)"
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "src: cdc.gov/sleep/about (6-12: 9-12 h; teens: 8-10 h)"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "src: ACSM 2007 position stand abstract via Europe PMC (>2% body weight loss compromises performance)"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "no named fact; general warm-up physiology, not source-fetched"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "no named fact; hedged 'many U.S. schools', not source-fetched"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Swimming pool' (SCY/SCM 25; Olympic 50 m)"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'John van Hengel' (1967, world's first food bank, Phoenix)"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Food Banks Canada' (first food bank 1981, Edmonton)"
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Food bank' (bank stores/distributes, pantry serves clients)"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Food bank' (Feeding America network of over 200)"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Expiration date' quoting FSIS (quality/taste, not safety)"
+ },
+ {
+  "i": 41,
+  "verdict": "false",
+  "reason": "2 precise: 'deeply dented, especially along a seam' not confirmed; reachable sources (Wikipedia 'Canned food' USDA note, 'Botulism') say only dented, rusted or swollen cans."
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Food loss and waste' (USDA 30-40 percent)"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Food bank' (gleaners salvage leftover crops for food banks)"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Gleaning' (Leviticus 19:9, 23:22; poor and strangers)"
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": "no named fact; general FIFO practice, not source-fetched"
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Martin Luther King Jr. Day' (signed Aug 1994, day of service)"
+ },
+ {
+  "i": 47,
+  "verdict": "false",
+  "reason": "2 precise: USDA ERS defines food insecurity as 'limited or uncertain access to adequate food'; the fact's 'lacking consistent access to enough food for an active, healthy life' is not USDA's wording."
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Super Bowl I' (Jan 15 1967, 35-10)"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Super Bowl I' (AFL-NFL World Championship Game; 'Super Bowl I' retroactive)"
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "src: Wikipedia '1930 FIFA World Cup' (Uruguay 4-2 Argentina)"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Stanley Cup' (1892, first awarded 1893, oldest pro trophy in N. America)"
+ },
+ {
+  "i": 52,
+  "verdict": "false",
+  "reason": "2 precise: 'from each Stanley Cup-winning team' -- Wikipedia 'Stanley Cup': names engraved every year only since 1924; early winners were not all so recorded."
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Instant replay' (Verna, CBS, Army-Navy, Dec 7 1963)"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Wave (audience)' (1986 Mexico; 'Mexican wave' outside N. America)"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Home advantage' (MLB 52.6%, NBA 59%)"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Home advantage' and NBC PFT (127-128-1)"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'Jackie Robinson Day' (1997, first pro athlete in any sport)"
+ },
+ {
+  "i": 58,
+  "verdict": "false",
+  "reason": "2 precise: 'since 2004 ... every player on every team wears the number 42' -- Jackie Robinson Day began in 2004, but all players have worn 42 only since 2009."
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "src: Wikipedia 'James Naismith' (Dec 1891, YMCA Training School Springfield, peach baskets)"
+ }
+]

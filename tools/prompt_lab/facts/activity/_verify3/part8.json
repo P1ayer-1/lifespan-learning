@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "false",
+  "reason": "2 precise: 'On international care labels, dots inside the washtub' -- the international ISO/GINETEX system prints the temperature number in the tub; dots are the North American (ASTM) system. Also a three-number clause the generator is likely to garble."
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Laundry symbol (empty triangle any bleach, crossed triangle no bleach)"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Laundry symbol (iron dots 110/150/200 C)"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Felt (heat/moisture open scales, agitation latches them)"
+ },
+ {
+  "i": 5,
+  "verdict": "false",
+  "reason": "2 unconfirmed: could not find a fetchable source confirming 'hot water makes the proteins in blood set' as worded (Wikipedia Stain removal even recommends hot water for protein stains); an unconfirmed fact fails."
+ },
+ {
+  "i": 6,
+  "verdict": "false",
+  "reason": "2 unconfirmed: the source (Wikipedia Washing machine) confirms low-sudsing detergent is needed to prevent excess foam and overflow, but not 'cushioning the clothes and leaving soap residue'."
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Surfactant"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Chloramine"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "checked: USFA, failure to clean is leading factor in residential dryer fires"
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Great Gatsby (1925, Daisy's dock across the bay)"
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Great Gatsby (unrealizable goal of winning Daisy)"
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Lord of the Flies (1954; Ralph uses conch as horn)"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Lord of the Flies (boulder kills Piggy and smashes conch)"
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Lord of the Flies (glasses light signal fire; stolen at night)"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Lord of the Flies (dead parachutist)"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Lord of the Flies (beast within the boys)"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Scarlet Letter (1850; \"They said that it meant Able\")"
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "checked: Wikipedia To Kill a Mockingbird (1960; Maudie quote)"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Hunger Games novel (2008; Madge gives pin before arena)"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Hunger Games novel (female mockingbirds x male jabberjays)"
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "checked: Wiktionary wherefore"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Thou (T-V usage)"
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Thou (thee objective)"
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Thou / Early Modern English (-est)"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Early Modern English (-eth/-th, doth, hath)"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "checked: Wiktionary anon; 1 Henry IV 2.4 Francis \"Anon, anon, sir\""
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "checked: Wiktionary prithee"
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "checked: Wiktionary would (wish sense, R&J \"I would that Thursday were tomorrow\")"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Iambic pentameter"
+ },
+ {
+  "i": 33,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no fetchable reference source found confirming the verse-for-nobles/prose-for-servants pattern and that switches signal mood or rank as worded."
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Soliloquy"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "checked: Wiktionary exeunt"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "checked: Purdue OWL MLA quotations"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "checked: Purdue OWL MLA quotations"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "checked: Purdue OWL MLA quotations"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "checked: Purdue OWL MLA quotations"
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Wonder (14 Feb 2012); Goodreads precept wording"
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Outsiders (1967); LitCharts dying words \"Stay gold, Ponyboy\""
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 49,
+  "verdict": "false",
+  "reason": "2 precise: 'In letters starting in 1889 ... a rifle shown hanging on the wall' -- the 1889 letter to Lazarev says only a loaded rifle on stage must go off; the hanging-on-the-wall version comes from later memoirs (Gurliand 1904, Shchukin 1911)."
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Lottery (New Yorker, 26 June 1948; children pile stones)"
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Monkey's Paw (1902; Morris throws it in fire, Mr White retrieves)"
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: Wikipedia/Wikisource The Most Dangerous Game (Collier's 1924; Ship-Trap, sailors' dread)"
+ },
+ {
+  "i": 54,
+  "verdict": "false",
+  "reason": "2 precise: 'opens with the hunter Rainsford saying hunted animals have no feelings' -- the story opens with Whitney describing Ship-Trap Island; the jaguar exchange comes after (Wikisource text)."
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "checked: Wikipedia The Scarlet Ibis (Atlantic, July 1960)"
+ },
+ {
+  "i": 56,
+  "verdict": "false",
+  "reason": "6 off goal: plot summary of the ironic gift swap; the fact names no foreshadowing or symbol and says nothing about what anything suggests."
+ },
+ {
+  "i": 57,
+  "verdict": "false",
+  "reason": "2 precise: 'worthless costume jewellery' -- in the story the paste necklace was worth at most 500 francs, not worthless; the fact is also plot summary rather than a symbol or foreshadowing."
+ },
+ {
+  "i": 58,
+  "verdict": "false",
+  "reason": "4 one idea: bundles Ruskin's 1856 coinage with the device's use to hint at mood (named originator plus concept is two facts); Ruskin also coined it as a criticism, which the fact blurs."
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "checked: Ka Mate c.1820, Te Rauparaha, Ngati Toa"
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Hula"
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Hula"
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tinikling (two taps, together on third beat)"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Lion dance"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Bharatanatyam"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Bharatanatyam (arangetram, ascending the stage, completion of initial training)"
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Irish stepdance (stiff upper body; hedged traditional/competition)"
+ },
+ {
+  "i": 68,
+  "verdict": "false",
+  "reason": "4 one idea: bundles three claims (Arabic stamping etymology, weddings, a skilled leader) in one fact."
+ },
+ {
+  "i": 69,
+  "verdict": "false",
+  "reason": "2/4: 'began ... around 1900' is disputed (many accounts, e.g. Mille Lacs, date it to the 1918-1920 flu pandemic), and the fact bundles origin date with jingle material."
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Call and response (music)"
+ },
+ {
+  "i": 71,
+  "verdict": "false",
+  "reason": "4 one idea: a finding plus its named discoverer and year ('first described by Hermann Ebbinghaus in 1885') is two facts per spec; the date/name invites garbling."
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Samsara"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Moksha"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Hindu funeral rites (five elements; children and sadhus buried)"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Samsara (anatta)"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Nirvana (Buddhism)"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Japji Sahib pauri 4 (karma and grace)"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Barzakh"
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Last Judgment in Islam"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Purgatory"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Nicene Creed"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Jewish eschatology"
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Jewish eschatology (Orthodox resurrection; Reform liturgy change)"
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Shabbat"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Havdalah"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Havdalah"
+ },
+ {
+  "i": 87,
+  "verdict": "false",
+  "reason": "2 unconfirmed: sources (Wikipedia Fasting in Islam, Ramadan, Sawm) confirm pre-pubertal children are exempt but none confirms 'many younger children practise by fasting for part of a day'."
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Fasting in Islam"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Fasting in Islam (suhur before fajr adhan)"
+ },
+ {
+  "i": 90,
+  "verdict": "false",
+  "reason": "2 precise: 'before eating a larger meal called iftar' -- iftar is the fast-breaking meal itself, which begins with the dates and water, not a separate later meal."
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Yom Kippur (~25 hours)"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Yom Kippur (pikuach nefesh, required to break fast)"
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Uposatha"
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Ekadashi"
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Salah"
+ },
+ {
+  "i": 96,
+  "verdict": "false",
+  "reason": "2 precise: 'most Reform and Conservative communities celebrate both at 13' -- Wikipedia (Bar and bat mitzvah) gives 12 or 13 for both in those movements."
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tikkun (book)"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Yad"
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Bar and bat mitzvah (haftarah; hedged often)"
+ },
+ {
+  "i": 100,
+  "verdict": "false",
+  "reason": "2 precise: 'learning to recite the Gayatri Mantra marks the actual start of their initiation' -- the central rite is the guru imparting the mantra (Brahmopadesha) within the ceremony; 'actual start' is an unsupported overstatement, and the fact bundles thread plus mantra."
+ },
+ {
+  "i": 101,
+  "verdict": "false",
+  "reason": "6 off goal: how the sacred thread is worn is not about learning a reading or prayer by heart; also a left/right direction the generator readily reverses, and the position is reversed in ancestral rites."
+ },
+ {
+  "i": 102,
+  "verdict": "false",
+  "reason": "4 one idea: bundles authorship, position in the Guru Granth Sahib, the count of 38 pauris and daily recitation in one fact; multi-detail clause invites garbling."
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Japji Sahib (chanted at Amrit Sanchar)"
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Hafiz (114 surahs; constant practice)"
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Quinceanera (Mexican tradition begins with thanksgiving Mass)"
+ },
+ {
+  "i": 106,
+  "verdict": "false",
+  "reason": "4 one idea / 2: finding plus named researchers and year is two facts per spec, and 'shown by Roediger and Karpicke in 2006' implies discovery though the testing effect was demonstrated decades earlier (e.g. Gates 1917)."
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Method of loci"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "checked: Wiktionary derecho"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "checked: Wiktionary tout droit"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: Wiktionary geradeaus"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "checked: Wiktionary cuadra"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "checked: Wiktionary despacio"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "checked: Wiktionary 左 zuo3, 右 you4"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Japanese addressing system"
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Vocabulary (receptive usually larger)"
+ }
+]

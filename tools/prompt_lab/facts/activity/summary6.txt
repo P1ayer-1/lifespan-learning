@@ -1,0 +1,10 @@
+part0.json: 120 generated, verdicts {'true': 107, 'false': 13}
+part1.json: 120 generated, verdicts {'true': 106, 'false': 14}
+part2.json: 120 generated, verdicts {'true': 107, 'false': 13}
+part3.json: 120 generated, verdicts {'true': 106, 'false': 14}
+part4.json: 120 generated, verdicts {'true': 106, 'false': 14}
+part5.json: 120 generated, verdicts {'true': 82, 'false': 38}
+part6.json: 120 generated, verdicts {'true': 96, 'false': 24}
+part7.json: 96 generated, verdicts {'true': 80, 'false': 16}
+kept 790 activity facts for 55/55 activities; verdicts {'true': 790, 'false': 146}
+activities under 6 facts: none

@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "checked: Cleveland Clinic, stress/fight-or-flight"
+ },
+ {
+  "i": 1,
+  "verdict": "false",
+  "reason": "6 off goal: where cortisol is made (adrenal glands on the kidneys) is anatomy, not a sign of stress or a way to manage it; also overlaps fact 0's adrenal glands."
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "checked: Cleveland Clinic stress symptoms"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "checked: Cleveland Clinic stress signs"
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "checked: Cleveland Clinic ('stress becomes a problem when stressors continue without relief')"
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "checked: respiratory sinus arrhythmia (Wikipedia, Vagal tone)"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "checked: Cleveland Clinic diaphragmatic breathing"
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "checked: WebMD box breathing 4-4-4-4"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "checked: Weil 4-7-8, inhale 4 hold 7 exhale 8"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "checked: AASM 2016 consensus, 9-12 h (6-12 y), 8-10 h (13-18 y) per 24 h"
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "checked: Sleep Foundation, consistent schedule"
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "checked: Yoo, Walker et al. 2007 Current Biology, 'over 60 percent more reactive' amygdala after ~35 h awake"
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "checked: max extent at Trajan's death 117 CE, Britain to Mesopotamia"
+ },
+ {
+  "i": 13,
+  "verdict": "false",
+  "reason": "1/6: 'marked the Roman Empire's northern frontier' omits the Antonine Wall period (c. 142-160s CE) when the frontier moved north; and it does not bear on why the empire split or fell."
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "checked: Rhine/upper Danube frontier (Wikipedia, Limes Germanicus)"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "checked: antoninianus fell to ~5% silver; debased to pay troops"
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "checked: Maximian Augustus 1 Apr 286, ruled West"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "checked: dedicated 11 May 330 on site of Byzantium"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "checked: Theodosius I d. 17 Jan 395; Arcadius east, Honorius west"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "checked: Adrianople 9 Aug 378, Valens killed"
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "checked: Honorius to Ravenna 402, marsh-protected"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "checked: 24 Aug 410, first fall to foreign enemy in almost 800 years (Gauls 387/390 BCE)"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "checked: 4 Sep 476, Romulus 'typically regarded' as last western emperor"
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "checked: Constantinople fell to Ottomans 1453"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "checked: 28 June 1919, Hall of Mirrors"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "checked: Art. 231 text 'all the loss and damage'"
+ },
+ {
+  "i": 26,
+  "verdict": "false",
+  "reason": "9 hook: 'a debt so big that a whole country could not pay it' presents a contested historical claim as fact; historians dispute whether the 132 billion (much of it notional C bonds) was unpayable."
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "checked: army 100,000, air force forbidden"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "checked: USHMM, 13 percent of European territory, all colonies"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "checked: corridor gave Poland Baltic access, cut off East Prussia"
+ },
+ {
+  "i": 30,
+  "verdict": "false",
+  "reason": "6/generator risk: the 4.2 trillion figure is exact, but the fact never links hyperinflation to the Treaty, so the story must invent the cause (reparations vs Ruhr occupation vs printing), a contested chain."
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "checked: Arts. 42-43, left bank + 50 km right bank demilitarised"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "checked: 7 Mar 1936, no Anglo-French military response"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "checked: Art. 80 Austrian independence; Anschluss 12-13 Mar 1938"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: Senate rejected Nov 1919 and Mar 1920; US never joined League"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "checked: 1 Sep 1939; Danzig and corridor demands 1939"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "checked: tombs for afterlife"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "checked: completed c. 2560 BCE for Khufu (~4,580 years)"
+ },
+ {
+  "i": 38,
+  "verdict": "false",
+  "reason": "6/4: height and 'tallest for more than 3,700 years' say nothing about why pyramids were built, and two numbers invite garbling; the record's end date (Lincoln Cathedral) is itself debated."
+ },
+ {
+  "i": 39,
+  "verdict": "false",
+  "reason": "4/2: bundles designer, age and structure into one fact; Imhotep as designer is a traditional attribution stated as certain; not about why pyramids were built."
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "checked: Lehner/Hawass workers' village and tombs"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "checked: pyramids on west bank, west linked with death"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "checked: monsoon rains on Ethiopian highlands via Blue Nile/Atbara"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "checked: km.t 'black land'"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "checked: Akhet, Peret, Shemu"
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": "checked: nilometers used to predict harvest"
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "checked: shaduf pole, bucket, counterweight"
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "checked: emmer and barley for bread and beer (World History Encyclopedia)"
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "checked: Panic of 1837 depression as push factor for 1840s Oregon migration"
+ },
+ {
+  "i": 53,
+  "verdict": "false",
+  "reason": "6/2: route length and duration are not about why people moved west; 'usually four to five months' -- sources typically give four to six months."
+ },
+ {
+  "i": 54,
+  "verdict": "false",
+  "reason": "6 off goal: how emigrants travelled (walking beside wagons) does not explain why people moved west."
+ },
+ {
+  "i": 55,
+  "verdict": "false",
+  "reason": "6 off goal: the leading cause of death on the trail is about its dangers, not why people moved west."
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "checked: 24 Jan 1848, Sutter's Mill"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "checked: 160 acres, 5 years residence and cultivation"
+ },
+ {
+  "i": 58,
+  "verdict": "false",
+  "reason": "2 precise: 'was coined by the journalist John O'Sullivan in 1845' states a disputed attribution as certain; the 1845 'Annexation' editorial was unsigned and some historians credit Jane Cazneau (Wikipedia, Manifest destiny)."
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "checked: 10 May 1869, Promontory Summit"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "checked: quadrants counterclockwise from upper right"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "checked: Descartes, La Geometrie 1637"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: Elements I.4 is SAS (Joyce, Clark Univ.)"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 83,
+  "verdict": "false",
+  "reason": "1 wrong mechanism: a braced gate is rigid because the triangle's three sides are fixed (side-side-side); the brace does not fix an angle, so attributing it to side-angle-side is incorrect."
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 92,
+  "verdict": "false",
+  "reason": "6 off goal: 2 1/4 minus 3/4 has like denominators; regrouping mixed numbers is a separate skill from finding a common denominator."
+ },
+ {
+  "i": 93,
+  "verdict": "false",
+  "reason": "6 off goal: converting mixed numbers to improper fractions, with a like-denominator hook (1 1/2 + 1 1/2), is not about unlike denominators."
+ },
+ {
+  "i": 94,
+  "verdict": "false",
+  "reason": "9 hook garbled: adding tops and bottoms of 2/12 + 5/12 gives 7/24, not 'fourteen twenty-fourths', which actually equals the correct 7/12."
+ },
+ {
+  "i": 95,
+  "verdict": "false",
+  "reason": "1/6: 'bigger ... only when compared with a common denominator' is false (decimals or cross-multiplying also compare fractions), and comparing is not adding or subtracting."
+ },
+ {
+  "i": 96,
+  "verdict": "false",
+  "reason": "1 exception missing: 'dividing by the same number keeps it balanced' needs 'non-zero'; dividing by zero is undefined (fact 102 states this separately)."
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "checked: al-Jabr, Baghdad c. 820; al-Khwarizmi of Persian descent"
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "checked: Whetstone of Witte 1557, Welsh, 'no two things can be more equal'"
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "checked: E2 A2 D3 G3 B3 E4"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "checked: G D A E in perfect fifths"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: A4 = 440 Hz; some orchestras 442-444"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "checked: 'Orchestras tune to a concert A played by the first oboe'"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": "checked: guitar strings a fourth apart (5 frets) except G-B"
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "checked: G-B is a major third (4 frets)"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 118,
+  "verdict": "false",
+  "reason": "1 exception missing: 'violins use ... small fine tuners on the tailpiece' -- many violins have a fine tuner only on the E string or none, so this is not true of violins generally."
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "checked: John Shore 1711, sergeant trumpeter and lutenist to the royal court"
+ }
+]

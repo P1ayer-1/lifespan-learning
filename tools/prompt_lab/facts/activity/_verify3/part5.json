@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "checked: Damodaran 1928-2025, S&P 500 11.6% vs T-bond 5.1% avg, worst years -44% vs -18%"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "checked: DJIA 381.17 (3 Sep 1929) to 41.22 (8 Jul 1932), -89%"
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 17,
+  "verdict": "false",
+  "reason": "2 precise: 'about three-quarters of the United States' winter strawberries' is unconfirmed; industry sources say Florida (Plant City area) grows virtually all domestic winter strawberries."
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 21,
+  "verdict": "false",
+  "reason": "2 precise: 'which lowers demand for the pricier good' conflates demand with quantity demanded; a price rise lowers quantity demanded of strawberries and raises demand for the substitute. Would teach the wrong term."
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "checked: Marshall, Principles of Economics (1890) popularized the curves"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "checked: 1000*1.05^5 = 1276.28"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "checked: TISA 1991, Regulation DD APY disclosure"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: Quote Investigator 2019, no evidence Einstein said it"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 39,
+  "verdict": "false",
+  "reason": "2 precise: 'usually every fifth contour line' -- USGS symbols sheet confirms index contours are wider and labeled but no source reached confirms the every-fifth rule as worded; unconfirmed, so fails."
+ },
+ {
+  "i": 40,
+  "verdict": "false",
+  "reason": "1 true: 'Contour lines for different heights never cross' -- they can cross at an overhanging cliff (where one spot does have two elevations); exception not stated."
+ },
+ {
+  "i": 41,
+  "verdict": "false",
+  "reason": "1 true: 'A set of closed loops, one inside another, shows a hill' -- nested closed loops can also show a depression (see fact 43); exception not stated."
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "checked: USGS 7.5-minute quads are 1:24,000"
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "checked: USGS Topographic Map Symbols: contours shown in brown"
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "checked: Arabic mawsim 'season'"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 50,
+  "verdict": "false",
+  "reason": "1 true: 'bringing the region's dry season' -- the winter northeast monsoon is the main rainy season for southeastern India (Tamil Nadu) and Sri Lanka; exception not stated."
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "checked: IMD normal onset over Kerala 1 June"
+ },
+ {
+  "i": 53,
+  "verdict": "false",
+  "reason": "2 precise: 'roughly three-quarters of India's yearly rainfall' -- sources checked give 'over 80%' / 'nearly 80%' (Wikipedia, Climate of India; Monsoon); figure not confirmed as worded."
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "checked: Mawsynram 11,872 mm, 'reportedly the wettest'"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "checked: International Meridian Conference, Washington 1884"
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "checked: NYC 40.71 N 74.01 W"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "checked: 111.2 km / 69.1 mi"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "checked: 111.3 km at equator"
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "checked: Quito ~0.22 S"
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "checked: 15 degrees per hour"
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "checked: Longitude Act 1714, up to 20,000 pounds"
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "checked: <250 mm (10 in)"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: Koppen Af: coolest month >=18 C, driest month >=60 mm"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "checked: 'Some weather stations in the Atacama have never received rain'"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "checked: Koppen born St Petersburg 1846, career in Germany"
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "checked: panic attacks peak within minutes, mistaken for heart attacks"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "checked: NCS-A (Merikangas 2010) 31.9% lifetime anxiety disorder"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": "checked: 988 launched 16 July 2022"
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "checked: NIDA, nicotine peaks in brain within 10 seconds of inhalation"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "checked: nAChR agonist"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "checked: mesolimbic VTA to nucleus accumbens"
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "checked: half-life about two hours"
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "checked: CDC 'nearly 9 out of 10'"
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "checked: CDC 'brain development which continues until about age 25'"
+ },
+ {
+  "i": 107,
+  "verdict": "false",
+  "reason": "6 off goal: the origin of the word 'nicotine' (Jean Nicot, 1560) says nothing about how nicotine causes addiction in the reward pathway; also bundles role, place and date."
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "checked: NICHD girls 8-13, boys 9-14"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "checked: GnRH-LH/FSH cascade; simplified but not false"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "checked: AAD 85% ages 12-24"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": ""
+ }
+]

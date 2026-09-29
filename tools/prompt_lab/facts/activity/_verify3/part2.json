@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Diaspora, Greek diaspeirō 'scatter'"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Inuit, 'the people', singular Inuk"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "checked: adopted 13 Sep 2007; Art. 33 'identity or membership'"
+ },
+ {
+  "i": 4,
+  "verdict": "false",
+  "reason": "2 precise: 'before that, everyone had to check only one box' -- the Census Bureau confirms 2000 was the first census to allow more than one race, but before 1960 census takers recorded race and people did not check boxes themselves, so the clause is wrong as worded."
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "checked: StatCan, 1981 first census to accept multiple origins"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "checked: Useem coined term, 1950s"
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "checked: Woodward 1972 d/D distinction"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 9,
+  "verdict": "false",
+  "reason": "8 duplicate: 'Most Icelanders have no family surname; their last name is a parent's first name plus -son or -dóttir' is nearly verbatim the existing phase_3.json domain fact on Icelandic names."
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Hungarian names, Eastern order like Chinese, Japanese, Korean"
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "checked: Billig & Tajfel 1973, random coin toss"
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 21,
+  "verdict": "false",
+  "reason": "6 off-goal: three-point perspective (vertical lines converging, looking up at a skyscraper) is not the row's goal of drawing a room in two-point perspective."
+ },
+ {
+  "i": 22,
+  "verdict": "false",
+  "reason": "6 off-goal: Alberti's De pictura construction is a single-vanishing-point method; a history-of-perspective fact fits the one-point sibling band (learning_art#4), not this two-point room goal."
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Watercolor painting, gum arabic binder"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "checked: handprint.com, 140 lb about 300 gsm"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 34,
+  "verdict": "false",
+  "reason": "2 precise, unconfirmed: I could not find a source (Wikipedia Body proportions, Portrait, and others tried) confirming 'eyes sit about halfway between the top of the head and the bottom of the chin' as worded, so it fails under the unconfirmable rule."
+ },
+ {
+  "i": 35,
+  "verdict": "false",
+  "reason": "6 off-goal: Dürer's Young Hare is an animal study, not a portrait, and says nothing about layering washes light to dark."
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Chiaroscuro, 'light-dark'"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 54,
+  "verdict": "false",
+  "reason": "2 precise: 'Around 1415' -- sources disagree on the Baptistery panel date (c.1413 in one source, 'about 1420' in Wikipedia's Perspective (graphical) article, c.1425 in others), so the date cannot be confirmed as worded."
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "checked: Wikipedia/Britannica, Trinity c.1427, one-point"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "checked: nail hole at Christ's right temple, visible after the Brambilla restoration"
+ },
+ {
+  "i": 57,
+  "verdict": "false",
+  "reason": "6 off-goal: atmospheric perspective (paler, bluer distance) is a different technique from the row's goal of one-point linear perspective with lines meeting at a vanishing point."
+ },
+ {
+  "i": 58,
+  "verdict": "false",
+  "reason": "8 duplicate: windows 'drawn narrower and closer together as they recede' paraphrases fact 52 (same-size lampposts drawn smaller and closer together farther away); kept 52."
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "false",
+  "reason": "1 true: 'Plant cells contain chloroplasts' is stated without exception; root cells and onion-bulb cells (this arc's own microscope band) have none. Needs 'many plant cells' / 'cells in green parts'."
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "checked: Schleiden 1838, Beiträge zur Phytogenesis"
+ },
+ {
+  "i": 71,
+  "verdict": "false",
+  "reason": "4 one idea: the endosymbiotic origin of chloroplasts plus 'Lynn Margulis championed this idea in 1967' is a mechanism and its named proponent in one fact; also tangential to naming plant-only parts."
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 73,
+  "verdict": "false",
+  "reason": "4 one idea: bundles two claims (did not realise they were all finches; did not record islands), and the first overlaps fact 74 (Gould identifying them as finches)."
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: Gould, Jan-Mar 1837, blackbirds/wren were finches"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: Grants on Daphne Major from 1973"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "checked: 1977 drought, small seeds eaten first, big beaks survived"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "checked: post-1977 population had measurably larger beaks"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "checked: 1982-83 El Niño, small soft seeds, selection favoured smaller beaks"
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 80,
+  "verdict": "false",
+  "reason": "6 off-goal: woodpecker-finch tool use is behaviour, not how natural selection changed beak shapes on different islands."
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "checked: published 24 Nov 1859"
+ },
+ {
+  "i": 83,
+  "verdict": "false",
+  "reason": "6 off-goal: the Pulitzer Prize for Weiner's book is a publishing fact, not about how selection changed finch beaks."
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 90,
+  "verdict": "false",
+  "reason": "1 true/contested: that returning wolves kept elk moving and let Yellowstone willows recover (the 'landscape of fear' trophic cascade) is a contested research claim, which the spec excludes for phase 3."
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "checked: Paine removed Pisaster at Mukkaw Bay, Washington"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "checked: Paine introduced keystone species, 1969"
+ },
+ {
+  "i": 93,
+  "verdict": "false",
+  "reason": "8 duplicate: sea otters eat urchins, urchins eat kelp, kelp forests lost where otters vanish is already a biology domain fact in phase_3.json."
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "checked: Alvin 1977 Galápagos Rift, chemosynthesis"
+ },
+ {
+  "i": 95,
+  "verdict": "false",
+  "reason": "4 one idea: bundles DDT biomagnification/eggshell thinning with a separate legal fact ('the United States banned most uses of DDT in 1972')."
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 97,
+  "verdict": "false",
+  "reason": "2 precise: 'because the bulb grows underground away from light' -- onion bulbs commonly sit at or partly above the soil surface; the inner scales lack chloroplasts because they are enclosed storage leaves. Invented mechanism the story will repeat."
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Optical microscope, product of eyepiece and objective"
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "checked: Micrographia 1665, cork 'cells'"
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": "checked: Britannica, Brown 1831 orchid nucleus"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: carbon 6 protons"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "checked: mp/me = 1836.15"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "checked: neutron mass slightly greater than proton"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Carbon-14, 6 protons 8 neutrons"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "checked: Thomson, 30 April 1897"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "checked: Geiger-Marsden under Rutherford, most alphas undeflected"
+ },
+ {
+  "i": 118,
+  "verdict": "false",
+  "reason": "4 one idea: discoverer and date (Chadwick, 1932) plus a causal claim about why it was found late ('because a particle with no charge is much harder to detect') are two facts."
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "checked: Bohr 1913 fixed orbits"
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 2,
+  "verdict": "false",
+  "reason": "1/5: 'can only add nucleotides to one end ... so one strand is built in short pieces' omits the other half of the cause (the two strands are antiparallel), leaving the generator to invent the missing step."
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Genetic code (64 codons, 20 amino acids)"
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Genetic code"
+ },
+ {
+  "i": 8,
+  "verdict": "false",
+  "reason": "1 true: 'code for no amino acid' needs 'in the standard genetic code'; UGA encodes selenocysteine and UAG pyrrolysine in some organisms (confirmed: Wikipedia Genetic code)."
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Le Chatelier's principle, 1884"
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "false",
+  "reason": "6 on goal: catalysts are not a temperature change; the row's goal is predicting how temperature shifts an equilibrium."
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 24,
+  "verdict": "false",
+  "reason": "2 precise: 'a number called the Avogadro constant' -- the SI calls the pure number 6.02214076e23 the Avogadro number; the Avogadro constant is that value per mole (mol^-1)."
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "checked: CO2 44.009 g/mol (Wikipedia)"
+ },
+ {
+  "i": 27,
+  "verdict": "false",
+  "reason": "9 hook: 'a tablespoon of water ... about six hundred sextillion molecules' is wrong; about 15 g is about 0.83 mol, roughly 500 sextillion, so the hook plants a false number."
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "checked: NaCl 58.44 g/mol (Wikipedia)"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "checked: C 12.011 (Wikipedia)"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: 22.414 L/mol (Wikipedia Molar volume)"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, 311-310 on 28 Mar 1979"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "checked: Basic Law Art. 67 via Wikipedia"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, 1 Oct 1982, only successful"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Federal impeachment"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "checked: Wikipedia, 35-19 on 16 May 1868"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Premiership of Rishi Sunak"
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "checked: ratified 27 Feb 1951 (NCC, archives.gov)"
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Motion of no confidence (France, Art. 49)"
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "checked: ratified 15 Dec 1791 (Wikipedia)"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "checked: Wikipedia First Amendment (state action)"
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "checked: Holmes quote, Schenck 1919"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "checked: Schenck clear-and-present-danger wording"
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "checked: Brandenburg 395 U.S. 444 wording"
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "checked: 7-2 (Black, Harlan dissent); schoolhouse gate quote"
+ },
+ {
+  "i": 54,
+  "verdict": "false",
+  "reason": "1 true: 'may restrict student speech only if' it disrupts is too absolute; Tinker also allows limits for invading others' rights, and Fraser, Hazelwood and Morse added more exceptions."
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "checked: 5-4, Wikipedia Texas v. Johnson"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "checked: 6-3, Wikipedia Barnette"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "checked: 8-1, Thomas dissent"
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "checked: 9-0 1964; actual malice wording"
+ },
+ {
+  "i": 59,
+  "verdict": "false",
+  "reason": "1 true: 'may interrupt with questions at any time' -- current Supreme Court guidance gives each lead advocate about two minutes uninterrupted at the start, followed by a round of questions from each justice in turn."
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "checked: Form V 33.8 C (Wikipedia Cocoa butter)"
+ },
+ {
+  "i": 62,
+  "verdict": "false",
+  "reason": "5 storyable/garble: three temperature ranges (six numbers) in a fixed order is the multi-number sequence the spec says the generator mangles."
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "checked: milk seeding 29.4 C (Wikipedia Chocolate tempering)"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Chocolate bloom"
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Chocolate bloom"
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 69,
+  "verdict": "false",
+  "reason": "2 precise: 'sets glossy and firm within a few minutes' -- set time could not be confirmed from a reference source after checking; unconfirmed quantity."
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "checked: FSIS danger zone 40-140 F"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "checked: FSIS leftovers page (1 h above 90 F)"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "checked: FSIS leftovers page, 3 to 4 days"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "checked: FSIS leftovers page, shallow containers"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "checked: FSIS freezing page, 0 F inactivates microbes"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "checked: FSIS leftovers page, 165 F"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "checked: FSIS and CDC thawing methods"
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "checked: FSIS freezing page, freezer burn safe"
+ },
+ {
+  "i": 80,
+  "verdict": "false",
+  "reason": "2 precise: 'One cup of dry white rice makes roughly three cups of cooked rice' -- no reference source could be retrieved to confirm the ratio; unconfirmed number."
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Canada's Food Guide, Jan 2019, 50/25/25"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "checked: UNEP Food Waste Index 2024 (1.05 bn t, 60% households)"
+ },
+ {
+  "i": 84,
+  "verdict": "false",
+  "reason": "2 precise: 'one page usually runs about one minute of stage time' -- the only source found (Wikipedia, Screenplay) gives it as a ballpark for screen time and calls it widely contested; not confirmed for stage scripts."
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "checked: Poetics (MIT Classics), 'beginning, a middle, and an end'"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "checked: Freytag 1863, five parts"
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Chekhov's gun"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "checked: Chicago Civic Theatre 26 Dec 1944; memory play"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "checked: Laura based on Rose"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "checked: US Copyright Office FAQ"
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Blocking (stage), Gilbert"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 106,
+  "verdict": "false",
+  "reason": "4 one idea: defines two things (technical rehearsal and dress rehearsal) in one fact."
+ },
+ {
+  "i": 107,
+  "verdict": "false",
+  "reason": "4/6: bundles the founding of the Moscow Art Theatre in 1898 with Stanislavski's method, and is theatre history rather than the row's goal of blocking and running rehearsals."
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Florida Current"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "checked: NOAA (turns east off North Carolina); Wikipedia Florida Current (near Cape Hatteras)"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: Wikipedia North Atlantic Current (Grand Banks)"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Gulf Stream, max ~2.5 m/s"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Gulf Stream, 30 Sv Florida Straits"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "checked: Seager et al. 2002, QJRMS 128"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "checked: London 51.51 N; Northwest Angle 49.39 N (Wikipedia)"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Murmansk"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "checked: Newberry Library/WHOI, Mount and Page 1769"
+ }
+]

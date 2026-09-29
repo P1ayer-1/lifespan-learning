@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Twelve-bar blues"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Twelve-bar blues (bars 1-4 on I, bar 5 IV; quick-change variant excluded by 'most basic')"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Twelve-bar blues, A7 D7 E7"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Blues scale, A minor pentatonic A C D E G"
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Blues scale, minor pentatonic plus flat fifth"
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Twelve-bar blues, chorus"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Twelve-bar blues, turnaround on V"
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 10,
+  "verdict": "false",
+  "reason": "4 one idea / 2 precise: bundles a feature ('a key part of the blues') with an origin claim ('comes from African American work songs and church music'); the practice traces further to West African musical traditions."
+ },
+ {
+  "i": 11,
+  "verdict": "false",
+  "reason": "6 off goal: the blues' historical origin is background, not part of improvising a solo over a twelve-bar progression."
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Voice change / Lancaster glossary, about an octave"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "checked: Wikipedia A440, ISO 16"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Octave, 2:1"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tempo, 60 bpm = one beat per second"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Metronome; Maelzel French patent 14 Sept 1815, English 5 Dec 1815"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Bartolomeo Cristofori, 'col piano e forte'"
+ },
+ {
+  "i": 30,
+  "verdict": "false",
+  "reason": "6 off goal: who invented the piano and when is history, not playing a piece with dynamics and tempo changes."
+ },
+ {
+  "i": 31,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tempo"
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tempo, a tempo"
+ },
+ {
+  "i": 33,
+  "verdict": "false",
+  "reason": "1 true: 'with the conductor deciding when to stop' -- the row includes solo piano, where the performer decides; no conductor is involved."
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tempo (largo slow and broad, 40-66 bpm, the slowest common marking; andante walking pace; allegro fast and bright)"
+ },
+ {
+  "i": 35,
+  "verdict": "false",
+  "reason": "6 off goal: the sustain pedal is neither a dynamic nor a tempo marking, the row's goal."
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Speed of sound, c = sqrt(K/rho)"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Density of air (about 1/800 of water) and Speed of sound (bulk modulus outweighs density)"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Speed of sound, 331.3 + 0.606 T m/s"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Hearing range, 20-20,000 Hz, upper limit falls with age"
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Ossicles"
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Ohm's law, Die galvanische Kette, 1827"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Alessandro Volta, Italian physicist; volt named in his honour"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 61,
+  "verdict": "false",
+  "reason": "2 precise: 'typically above 2,000 degrees Celsius' -- Wikipedia (Incandescent light bulb) gives filaments as typically 2,000-3,300 K, i.e. about 1,730-3,030 C; small low-power bulbs run cooler."
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Incandescent light bulb / tungsten m.p. 3,422 C, highest of metals"
+ },
+ {
+  "i": 63,
+  "verdict": "false",
+  "reason": "1 true: 'An incandescent bulb is filled with an unreactive gas such as argon' -- small low-wattage bulbs, like the torch bulbs used in simple school circuits, are usually vacuum bulbs."
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "checked: Wikipedia AA battery, alkaline and zinc-carbon 1.5 V nominal ('standard' excludes 1.2 V NiMH)"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Mental chronometry, simple RT about 200 ms"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Two New Sciences, inclined plane and water clock"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 85,
+  "verdict": "false",
+  "reason": "2 precise: 'Most small cuts stop bleeding when firm, steady pressure is pressed on them ... for about 10 minutes' -- no source states this; Mayo says minor cuts usually stop on their own with gentle pressure, and NHS gives 10 minutes as how long to press on a heavily bleeding wound. Also overlaps fact 91."
+ },
+ {
+  "i": 86,
+  "verdict": "false",
+  "reason": "1 true: 'raising... helps reduce blood flow to the wound' -- elevation is no longer recommended in current AHA/Red Cross first-aid guidelines for lack of evidence; direct pressure is the method."
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "checked: Mayo Clinic cuts and scrapes (via search excerpt and Mosaic Life Care syndication): don't use hydrogen peroxide or iodine"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "checked: Mayo Clinic cuts and scrapes (Mosaic Life Care syndication), thin layer of antibiotic ointment or petroleum jelly"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "checked: Mayo Clinic cuts and scrapes (Mosaic Life Care syndication), change at least once a day or when wet or dirty"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "checked: WebMD first aid -- seek care if bleeding can't be stopped after 10 minutes of firm, steady pressure; NHS 10-minute pressure"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Tetanus, C. tetani in soil, saliva, dust and manure; WHO fact sheet"
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 97,
+  "verdict": "false",
+  "reason": "1/7 true, not universal: 'two common valve types' -- the Dunlop (Woods) valve is also common on bikes in much of Europe and Asia."
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 107,
+  "verdict": "false",
+  "reason": "6 off goal: who patented the pneumatic tyre is history, not changing a flat tyre."
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "checked: UK Price Marking Order 2004 art. 1 (selling price includes VAT); EU Your Europe (total price incl. all taxes); Wikipedia VAT (Canada posted prices exclude taxes); Wikipedia US sales taxes (tax shown separately, Hawaii the exception)"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "checked: Wikipedia Penny (Canadian coin), distribution ceased 4 Feb 2013; cash rounded to 5 cents, cards exact"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 114,
+  "verdict": "false",
+  "reason": "5 garble risk / 6: a left/right traffic-direction clause is exactly what the generator reverses, and road-crossing in other countries is peripheral to buying milk and counting change."
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": ""
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "checked: USDA FSIS, 2 hours / 1 hour above 90 F (32.2 C)"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "checked: USDA/FDA, 40 F (4 C) or below"
+ },
+ {
+  "i": 118,
+  "verdict": "false",
+  "reason": "2 precise / 6: 'at least 72 degrees Celsius' -- the standard HTST minimum is 71.7 C (161 F) for 15 s; pasteurisation is also off the goal of buying milk and counting change."
+ },
+ {
+  "i": 119,
+  "verdict": "false",
+  "reason": "6 off goal: how homogenisation works is milk science, not walking to the store, buying milk and counting change."
+ }
+]

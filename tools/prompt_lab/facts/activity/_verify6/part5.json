@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Passover_Seder: 'Seder ... means order'"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Passover_Seder: Haggadah narrates the exodus from Egypt"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Passover_Seder: youngest child recites; 'Why is this night different from all other nights?'"
+ },
+ {
+  "i": 3,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Passover_Seder: maror symbolizes bitterness of slavery; horseradish used"
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Charoset: recalls mortar used by enslaved Israelites; fruit and nut ingredients"
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "fetched chabad.org Yachatz page (middle matzah, larger piece set aside) and en.wikipedia.org/wiki/Passover_Seder (hidden; last morsel eaten)"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Passover ('Hebrew day starts and ends at sunset'; seder on the evening the 15th begins) and en.wikipedia.org/wiki/Jewish_holidays (Shabbat begins Friday sundown)"
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Kiddush: blessing over wine or grape juice to sanctify Shabbat and holidays"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Reunion_dinner: fish (yu) homophone for surplus"
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Iftar: dates eaten to break the fast in emulation of Muhammad"
+ },
+ {
+  "i": 10,
+  "verdict": "false",
+  "reason": "4 one idea: bundles the US date and 1941 Congress act with Canada's separate date (two countries, three numbers); it is also about the calendar, not about leading the ceremony, and the numbers are easy to garble."
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Chuseok: 15th day of 8th lunisolar month; charye rite offers foods to ancestors"
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages: B2 descriptor verbatim"
+ },
+ {
+  "i": 13,
+  "verdict": "false",
+  "reason": "2 precise / 6 goal: CEFR labels C2 'Mastery', not 'near-mastery'; the fact is a generic level list with no tie to debating."
+ },
+ {
+  "i": 14,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable ACTFL source (actfl.org guideline pages, Wikipedia) confirms 'hypothesize about abstract issues' as worded; languagetesting.com gives only 'present their opinions ... structured arguments'."
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Modes_of_persuasion: ethos, pathos, logos"
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/False_friend: embarazada ('pregnant')"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Circumlocution: used by L2 speakers for words they don't know"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Code-switching: most common among bilinguals highly skilled in both languages"
+ },
+ {
+  "i": 19,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fr.wikipedia Subjonctif_en_français shows negated opinion verbs take either subjunctive or indicative; the 'usually' claim and the affirmative-indicative rule were not confirmed as worded."
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "fetched en.wiktionary.org/wiki/sin_embargo: 'however'"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Ad_hominem: attacking the person rather than the argument; informal fallacy"
+ },
+ {
+  "i": 22,
+  "verdict": "false",
+  "reason": "9 hook / 5: the affective filter concerns absorbing comprehensible input (acquisition), but the hook applies it to blanking while speaking under pressure, inviting the generator to misstate the hypothesis."
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Comprehensible_output: Swain; learners notice gaps between what they want to say and can say"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Inverted_pyramid_(journalism)"
+ },
+ {
+  "i": 25,
+  "verdict": "false",
+  "reason": "2 precise: fetched en.wikipedia Five_Ws gives the journalistic checklist as five Ws (How appears only in Kipling and classical lists), not 'five Ws and H'."
+ },
+ {
+  "i": 26,
+  "verdict": "false",
+  "reason": "8 duplicate: 'the lede ... states its main point' paraphrases fact 24's 'the opening paragraph carries the core story'; 24 kept."
+ },
+ {
+  "i": 27,
+  "verdict": "false",
+  "reason": "2 precise: fetched en.wikipedia Cognate: cognates share an etymological ancestor and 'need not have the same meaning'; 'look and mean much the same' is the wrong definition."
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Paul_Nation: at most two unfamiliar words per 100 (98 percent)"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Headlinese: articles omitted; simple present for events"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Skimming_(reading): skimming for main idea, scanning for specific information"
+ },
+ {
+  "i": 31,
+  "verdict": "false",
+  "reason": "2 precise: 'il aurait' alone means 'he would have'; the journalistic conditional is e.g. 'il aurait fait' = 'he reportedly did', so the gloss 'rather than he would' is wrong."
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Dateline: where and when filed, placed before the first sentence"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/German_orthography: general capitalization of nouns"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "fetched en.wiktionary.org/wiki/según: 'according to'"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Modern_Standard_Arabic: most newspapers in the Arab League written in MSA"
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Situation,_task,_action,_result"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Job_interview: 'past behavior is the best predictor of future performance'"
+ },
+ {
+  "i": 38,
+  "verdict": "false",
+  "reason": "2 unconfirmed: crossref confirms Schmidt & Hunter 1998 exists but no reachable abstract/page confirms the structured-vs-unstructured interview finding; Wikipedia Personnel_selection cites other studies for it."
+ },
+ {
+  "i": 39,
+  "verdict": "false",
+  "reason": "2 precise: 'matched students' end-of-term ratings' overstates Ambady & Rosenthal 1993; ratings from 2-second silent clips significantly predicted (correlated with) end-of-semester evaluations, they did not match them."
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Eye_contact: in East Asia respectful not to look the dominant person in the eye; averted gaze judged badly in Western culture"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Albert_Mehrabian: equations derived from experiments on feelings/attitudes; not applicable otherwise"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "fetched Europe PMC abstract, Chartrand & Bargh 1999: mimicry increases liking"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "fetched Europe PMC abstract, Carney et al. 2010 (testosterone up, cortisol down) and en.wikipedia.org/wiki/Power_posing (larger 2015 Ranehill replication: no physiological effect, felt more powerful)"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "fetched Europe PMC abstract, Chaplin et al. 2000 JPSP: handshake related to coders' impressions; firm handshake an effective self-promotion"
+ },
+ {
+  "i": 45,
+  "verdict": "false",
+  "reason": "1 true: Title VII applies only to employers with 15 or more employees; the exception is not stated, and many part-time teen employers are smaller."
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Child_labor_laws_in_the_United_States: 16-17 'unlimited hours in non-hazardous occupations'; FLSA lists hazardous occupations"
+ },
+ {
+  "i": 47,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched en.wikipedia Child_labor_laws_in_the_United_States describes certificates historically for ages 14-15; 'many states, under 18, often through school' not confirmed; dol.gov pages unreachable."
+ },
+ {
+  "i": 48,
+  "verdict": "false",
+  "reason": "2 unconfirmed: crossref confirms Kluger & DeNisi 1996 Psych Bull but no reachable abstract or page confirms 'over a third of cases' (psycnet did not load)."
+ },
+ {
+  "i": 49,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched Europe PMC abstract of Mueller & Dweck 1998 says intelligence-praised children 'care more about performance goals', not that they 'chose easier tasks'."
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "fetched ccl.org SBI article: Situation, Behavior, Impact"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "fetched api.crossref.org 10.2307/2666999, Edmondson 1999 ASQ abstract: 'shared belief ... safe for interpersonal risk taking'"
+ },
+ {
+  "i": 52,
+  "verdict": "false",
+  "reason": "6 goal / 8: about what makes teams effective, not about giving a teammate feedback; overlaps fact 51 (psychological safety), which is kept."
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "fetched gottman.com Four Horsemen post: complaint vs criticism"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/I-message: 'coined in the 1960s by Thomas Gordon'"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Negativity_bias: Baumeister, Finkenauer, Vohs 2001, Review of General Psychology"
+ },
+ {
+  "i": 56,
+  "verdict": "false",
+  "reason": "2 precise: the 2.9013 ratio (Fredrickson & Losada 2005) was claimed to separate flourishing from languishing individuals, not what 'teams need'."
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Radical_Candor: 'first published in 2017 by St. Martin's Press'; caring personally while challenging directly"
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "fetched Europe PMC abstract, Yeager et al. 2014: high standards + belief note increased essay revision"
+ },
+ {
+  "i": 59,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched crossref abstract of Hattie & Timperley 2007 does not list the three questions; no reachable source confirmed the exact wording."
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/K._Anders_Ericsson (1993 violinists) and en.wikipedia.org/wiki/Practice_(learning_method) (immediate feedback, specific deficiencies, mere hours less beneficial)"
+ },
+ {
+  "i": 61,
+  "verdict": "false",
+  "reason": "2 unconfirmed: crossref confirms Shea & Morgan 1979 exists but no reachable abstract or page confirms the random-vs-blocked finding as worded."
+ },
+ {
+  "i": 62,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable source (Wikipedia, Europe PMC abstracts) confirms 'far more touches' in small-sided vs full-sided games."
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "fetched Europe PMC, Chua ... Wulf 2021 meta-analysis: external focus superior to internal"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Motor_learning: guidance hypothesis, dependency on augmented feedback"
+ },
+ {
+  "i": 65,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched en.wikipedia Pass_(basketball) confirms step toward target and thumbs down, but not 'palms facing out' or backspin."
+ },
+ {
+  "i": 66,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched en.wikipedia Pass_(basketball), verbatim check: nothing on two-thirds or waist height."
+ },
+ {
+  "i": 67,
+  "verdict": "false",
+  "reason": "2 precise: fetched en.wikipedia Rondo_(game) says the rondo was implemented at Barcelona by Laureano Ruiz; Cruyff is only quoted, so 'staple under Cruyff' is not confirmed."
+ },
+ {
+  "i": 68,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable source (Wikipedia passing/kick pages, Europe PMC) confirms the inside-of-foot 'largest flat surface, more accurate' claim."
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Glossary_of_ice_hockey_terms: saucer pass barely off the ice, clears a defender's stick blade"
+ },
+ {
+  "i": 70,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable source confirms whole-part-whole as a sports coaching method as worded."
+ },
+ {
+  "i": 71,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable source confirms 'two shorter, flatter throws are often faster and more accurate'; Wikipedia only mentions the cutoff role."
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Supercompensation"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Strength_training: gradually increasing resistance to stimulate adaptation"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "fetched Europe PMC abstract, Buist et al. 2008: 10% rule graded program no effect on injury incidence"
+ },
+ {
+  "i": 75,
+  "verdict": "false",
+  "reason": "2 precise: Jeffreys describes RAMP as three phases (Raise; Activate and Mobilise; Potentiate); 'four stages' contradicts the three-part list that follows and invites garbling."
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "fetched Europe PMC abstract, Soligard et al. 2008 BMJ: Norway, girls 13-17, injuries overall RR 0.68"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Stretching: 60+ s static stretching can reduce power; dynamic warm-up recommended"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Delayed_onset_muscle_soreness: peaks 24 to 72 hours"
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "fetched pmc.ncbi.nlm.nih.gov PMC3119836, Mah et al. 2011: 10 h in bed goal; 7.9 vs 8.8 of 10"
+ },
+ {
+  "i": 80,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable Seiler source confirms the 80/20 split; Europe PMC abstracts say only 'majority ... low intensity'."
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Sports_periodization: microcycle smallest, typically around a week"
+ },
+ {
+  "i": 82,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched en.wikipedia Overtraining gives no recovery timeline for overtraining syndrome ('weeks to months' not confirmed)."
+ },
+ {
+  "i": 83,
+  "verdict": "false",
+  "reason": "2 unconfirmed: Wikipedia Bill_Bowerman and search give nothing on a 'hard-easy' principle."
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "fetched postgresql.org docs queries-table-expressions: left join adds rows with nulls for T2"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "fetched postgresql.org queries-table-expressions (unmatched left rows get NULLs) and en.wikipedia.org/wiki/Null_(SQL) (test with IS NULL)"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Join_(SQL): inner join requires matching values"
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Null_(SQL): comparisons with Null always Unknown; use IS NULL"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "fetched postgresql.org functions-subquery: NOT IN yields null, not true, when list contains null"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "fetched postgresql.org functions-subquery (EXISTS) and en.wikipedia.org/wiki/Join_(SQL) NOT EXISTS example"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Foreign_key"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "fetched postgresql.org queries-table-expressions: WHERE applied after the join, 'matters a lot with outer joins'"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "fetched postgresql.org queries-table-expressions: N and M rows give N*M"
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Null_(SQL): all aggregates except COUNT(*) eliminate Nulls"
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Relational_model: Codd 1970 paper title"
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/SQL: Chamberlin and Boyce at IBM, early 1970s, initially SEQUEL"
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "fetched invid-project.eu plugin page (splits videos into keyframes for reverse image search) and en.wikipedia.org/wiki/Reverse_image_search"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "fetched invid-project.eu: EU Horizon 2020 funding; maintained through WeVerify"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/TinEye: launched May 2008; sort by oldest"
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Google_Images: June 2011 Search by Image; upload or paste URL"
+ },
+ {
+  "i": 100,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fetched en.wikipedia Exif says only that 'some' platforms sanitize metadata; 'many' not confirmed."
+ },
+ {
+  "i": 101,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable source confirmed the wording (a fullfact.org fetch summary claimed it but the verbatim check found it NOT ON PAGE)."
+ },
+ {
+  "i": 102,
+  "verdict": "false",
+  "reason": "2 unconfirmed: fullfact.org toolkit says only that genuine footage and miscaptioned videos circulate; 'much viral misinformation ... rather than faked' not confirmed."
+ },
+ {
+  "i": 103,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable source confirmed the fact-checkers vs historians vs students comparison (Stanford news 403; crossref returned a different Wineburg paper)."
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "fetched hapgood.us SIFT post by Caulfield: four moves verbatim"
+ },
+ {
+  "i": 105,
+  "verdict": "false",
+  "reason": "8 duplicate: the same 2018 Science Twitter study (Vosoughi, Roy, Aral) and the same takeaway, false news outspreads true news, is already a phase_6 domain fact under 'tech'."
+ },
+ {
+  "i": 106,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable source confirmed the wording (fullfact verbatim check NOT ON PAGE; Wikipedia Reverse_image_search silent)."
+ },
+ {
+  "i": 107,
+  "verdict": "false",
+  "reason": "2 unconfirmed: no reachable source confirmed fact-checkers' use of historical weather records (fullfact verbatim NOT ON PAGE; Bellingcat geolocation guide silent)."
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "fetched docs.oracle.com accesscontrol: private accessible only in its own class"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Encapsulation_(computer_programming)"
+ },
+ {
+  "i": 110,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/JavaBeans: get/set, is for Boolean properties"
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "fetched docs.oracle.com constructors: class name, no return type"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "fetched docs.oracle.com constructors: default constructor only for a class without constructors"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "fetched docs.oracle.com datatypes: field defaults 0, false, null"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": "fetched docs.oracle.com thiskey: this.x for a field shadowed by a parameter"
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "fetched docs.oracle.com imstrat: create copies of internal mutable objects to avoid returning originals"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Java_(programming_language) (released May 1995, Sun) and en.wikipedia.org/wiki/James_Gosling (lead designer)"
+ },
+ {
+  "i": 117,
+  "verdict": "false",
+  "reason": "4 one idea: bundles JUnit's creators (Beck and Gamma) with the @Test annotation usage (JUnit 4+) plus a 'most widely used' claim; two facts."
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "fetched docs.junit.org Assertions API: assertEquals(expected, actual)"
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "fetched en.wikipedia.org/wiki/Test-driven_development: Beck credited; red/green/refactor"
+ }
+]

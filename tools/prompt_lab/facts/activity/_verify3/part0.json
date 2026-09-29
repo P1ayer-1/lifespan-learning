@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'I-message' (Gordon, 1960s)"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Fundamental attribution error' (Ross, 1977)"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "source: WebSearch result (bookseller listing: 'a short 1957 work by Rogers and Farson'); Wikipedia 'Richard Farson' (psychologist; the article introduced the term). Note: Wikipedia 'Active listening' gives 1987, which is a reprint date"
+ },
+ {
+  "i": 3,
+  "verdict": "false",
+  "reason": "5 storyable: a five-item list ('competing, collaborating, compromising, avoiding and accommodating') plus model name and year; the hook shows only two styles, so stories will not carry the whole fact, and the model is a workplace instrument, not about friends making up."
+ },
+ {
+  "i": 4,
+  "verdict": "false",
+  "reason": "2 precise: 'ended up angrier, not calmer' -- Bushman (2002) compared groups: the punching-bag ruminators were angrier and more aggressive than people who sat quietly; no within-person increase is stated, and the fact omits the comparison."
+ },
+ {
+  "i": 5,
+  "verdict": "false",
+  "reason": "2 unconfirmed: Lewicki, Polin & Lount (2016) exists (Semantic Scholar), but no reachable source confirmed that 'acknowledging responsibility' was the most effective component (OSU and publisher pages 404/403)."
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Non-apology apology'"
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Hostile attribution bias'"
+ },
+ {
+  "i": 8,
+  "verdict": "false",
+  "reason": "4 one idea / 1 true: bundles adrenaline physiology with an unsupported causal add-on ('this is one reason many people argue less harshly after taking time to calm down'); a vague mechanism the generator will embroider."
+ },
+ {
+  "i": 9,
+  "verdict": "true",
+  "reason": "source: Gottman Institute blog, 'The Four Horsemen' (complaint vs criticism; example uses 'you never')"
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "source: WebSearch -> Hartl, Laursen & Cillessen 2015, Psychological Science (573 friendships from grade 7)"
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Forgiveness'"
+ },
+ {
+  "i": 12,
+  "verdict": "false",
+  "reason": "2 precise: 'aged about 11 to 16' -- the American Red Cross Babysitter's Training course is for ages 11 to 15."
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Sudden infant death syndrome'"
+ },
+ {
+  "i": 14,
+  "verdict": "false",
+  "reason": "2 precise: 'advises cutting grapes into quarters' -- AAP's HealthyChildren choking page says to keep whole grapes from under-4s unless chopped into tiny pieces; quarters not confirmed."
+ },
+ {
+  "i": 15,
+  "verdict": "false",
+  "reason": "2 precise: 'can burn through a child's throat in as little as two hours' -- poison centres say it can cause severe burns in as little as two hours; perforation ('burn through') is a later complication, not the two-hour figure."
+ },
+ {
+  "i": 16,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Infant botulism'"
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Poison control center'"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Drowning' (as little as 30 mm; often silent)"
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Separation anxiety disorder' (common from about 8 months)"
+ },
+ {
+  "i": 22,
+  "verdict": "true",
+  "reason": "source: CDC 'About Handwashing'"
+ },
+ {
+  "i": 23,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Common cold'"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "source: CDC 'About Common Cold'"
+ },
+ {
+  "i": 26,
+  "verdict": "false",
+  "reason": "4 one idea / 1: 'go away on their own, since there is no cure' ties duration to a non sequitur cause; colds do not resolve because there is no cure. Two claims (7-10 days; no cure) with a garbled link."
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "source: CDC 'How Flu Spreads'"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "source: CDC 'How Flu Spreads'"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "source: CDC 'Flu Antiviral Drugs' (1 to 2 days)"
+ },
+ {
+  "i": 31,
+  "verdict": "false",
+  "reason": "2 precise: 'about four times more likely' omits the comparison group -- Prather et al. (2015) compared people sleeping under 6 hours with those sleeping over 7; without it the generator will invent one."
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Reye syndrome'"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 35,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 36,
+  "verdict": "false",
+  "reason": "1 true / 5: hook frames these as 'five stages of grief' on a counsellor's poster; Kubler-Ross described them in dying patients and a fixed-stage model of grief is not supported by evidence. Also a five-item ordered list plus title and year to garble."
+ },
+ {
+  "i": 37,
+  "verdict": "false",
+  "reason": "4 one idea: two claims bundled -- the stages were first described in dying people, and they need not occur in order."
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Dual process model of coping'"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Continuing bonds' (Klass, Silverman & Nickman 1996)"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Shiva (Judaism)'"
+ },
+ {
+  "i": 41,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Day of the Dead'"
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Qingming Festival' (4, 5 or 6 April; 'usually' covers it)"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Bon Festival'"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "source: Etymonline 'eulogy' ('eu legein' = speak well of)"
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": "source: NCI Bereavement PDQ (sleep, appetite, fatigue)"
+ },
+ {
+  "i": 46,
+  "verdict": "false",
+  "reason": "2 unconfirmed: the term 'anniversary reaction' was not confirmed by a reachable source (NCI Bereavement PDQ calls these 'grief bursts'; Wikipedia page 404)."
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Distal radius fracture'"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Radius (bone)'"
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Greenstick fracture'"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Bone healing'"
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Bone healing' ('Young bone unites more rapidly than adult bone')"
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Radiography'"
+ },
+ {
+  "i": 54,
+  "verdict": "false",
+  "reason": "4 one idea: two facts -- Rontgen's discovery date (8 Nov 1895) and his later X-ray of his wife's hand (22 Dec 1895); two dates to garble."
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Epiphyseal plate'"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Antonius Mathijsen' (published Feb 1852)"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Cast saw'"
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 66,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 69,
+  "verdict": "false",
+  "reason": "8 duplicate / 5: near-duplicate of the phase-3 domain fact 'In 1747 the ship's doctor James Lind showed that citrus fruit cured scurvy...'; also packs four numbers (1747, six, twelve, two) the generator is likely to garble."
+ },
+ {
+  "i": 70,
+  "verdict": "false",
+  "reason": "4 one idea: three claims (12-child sample, 2010 Lancet retraction, later large studies found no link) and two numbers in one fact."
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Availability heuristic' (1973)"
+ },
+ {
+  "i": 72,
+  "verdict": "false",
+  "reason": "2 precise: 'The first national spelling bee in the United States was held in 1925' -- the first was the 1908 National Education Association Spelling Bee in Cleveland, won by Marie C. Bolden; 1925 was the first Scripps (then Courier-Journal) national bee."
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Scripps National Spelling Bee'"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Scripps National Spelling Bee'"
+ },
+ {
+  "i": 75,
+  "verdict": "false",
+  "reason": "1 true: 'comes from an old word for a gathering of neighbors' -- the origin of 'bee' in this sense is uncertain (dictionaries give it as possibly from dialect 'been/bene', neighbourly help, or an allusion to bees); stated as settled."
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Great Vowel Shift'"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'A Dictionary of the English Language' (15 April 1755)"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Noah Webster'"
+ },
+ {
+  "i": 79,
+  "verdict": "false",
+  "reason": "5 storyable: the story must reproduce a 45-letter word plus the year and inventor; the generator will misspell 'pneumonoultramicroscopicsilicovolcanoconiosis' and garble the count."
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Scripps National Spelling Bee' (2019, eight co-champions)"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Scripps National Spelling Bee'"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Testing effect'"
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "source: Etymonline 'chorus' (Greek khoros), 'chef' (French)"
+ },
+ {
+  "i": 84,
+  "verdict": "false",
+  "reason": "4 one idea: mechanism plus named discoverer and year ('first described by French chemist Louis-Camille Maillard in 1912') -- the spec's own example of two facts."
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 86,
+  "verdict": "false",
+  "reason": "1 true: 'only makes a batter rise when it reacts with an acid' -- baking soda also releases some carbon dioxide when heated without acid (thermal decomposition), so 'only' is not true without exception."
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 89,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Chicken as food' (165 F / 74 C)"
+ },
+ {
+  "i": 91,
+  "verdict": "false",
+  "reason": "2 precise: 'Bacteria grow fastest between 40 and 140 degrees Fahrenheit' -- Wikipedia 'Danger zone (food safety)' gives 40-140F as the danger zone but says growth is fastest at about 70-117F; USDA page unreachable (403)."
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 93,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Japanese etiquette'"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Chopsticks'"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Tetraphobia'"
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Homophonic puns in Standard Chinese'"
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Etiquette in Asia' (Thailand)"
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Etiquette in Asia' (Indonesia, Malaysia sections)"
+ },
+ {
+  "i": 102,
+  "verdict": "false",
+  "reason": "2 precise: 'pressing the palms together at the chest' -- Wikipedia 'Wai (gesture)': palms pressed together, and the higher the hands relative to the face the more respect; with an elder (as in the hook) they are held higher, not at the chest."
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Cheek kissing'"
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Hongi'"
+ },
+ {
+  "i": 105,
+  "verdict": "false",
+  "reason": "1 true: 'where service charges are usually included in the price' -- the no-tipping custom in Japan is not because a service charge is usually included; service charges appear only at some (mostly upscale) venues."
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Japanese etiquette'"
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Genkan'"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'All caps'"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Emoticon'"
+ },
+ {
+  "i": 110,
+  "verdict": "false",
+  "reason": "2 precise / 5: 'The first widely used emoji set' is disputed (SoftBank's 1997 set predates Kurita's 1999 set), and three numbers (176, 12-by-12, 1999) plus two names invite garbling."
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Full stop' (Binghamton 2016, Klin)"
+ },
+ {
+  "i": 112,
+  "verdict": "false",
+  "reason": "2 unconfirmed: Kruger, Epley, Parker & Ng (2005), 'Egocentrism over e-mail', confirmed via Semantic Scholar, but its finding could not be confirmed from any reachable source (abstract withheld; APA and PubMed pages unreadable)."
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "source: rfc-editor.org RFC 1855 (Oct 1995)"
+ },
+ {
+  "i": 114,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Children's Online Privacy Protection Act'"
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Online disinhibition effect'"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "source: WebSearch -> Internet Archive blog / TechRadar, 1 trillion pages Oct 2025"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "source: Wikipedia 'Blind carbon copy'"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "no name, date or number; not source-checked"
+ },
+ {
+  "i": 119,
+  "verdict": "false",
+  "reason": "4 one idea: two facts -- Tomlinson sent the first networked email in 1971, and he chose the @ symbol; the hook uses only the second."
+ }
+]

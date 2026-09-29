@@ -1,0 +1,602 @@
+[
+ {
+  "i": 0,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 1,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 2,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 3,
+  "verdict": "false",
+  "reason": "8 duplicate / 4 one idea: its 'not to its converse' half repeats fact 2 (affirming the consequent), and the hook tests only the converse; bundles contrapositive and converse."
+ },
+ {
+  "i": 4,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Counterfactual conditional' (Sally/donkey example; antecedent often false)"
+ },
+ {
+  "i": 5,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Stephen Toulmin' (1958; claim, ground, warrant)"
+ },
+ {
+  "i": 6,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 7,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Steelmanning'"
+ },
+ {
+  "i": 8,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Necessity and sufficiency' (sun/horizon example)"
+ },
+ {
+  "i": 9,
+  "verdict": "false",
+  "reason": "2 precise: implies de Vlamingh's 1697 crew were the first Europeans to see black swans -- Dutch mariner Antonie Caen recorded black swans off Bernier Island, Western Australia, in 1636."
+ },
+ {
+  "i": 10,
+  "verdict": "true",
+  "reason": "searched: Wikipedia 'Wason selection task' (1966, not even 10% correct)"
+ },
+ {
+  "i": 11,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 12,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Five stages of grief' (1969, On Death and Dying, terminally ill patients)"
+ },
+ {
+  "i": 13,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Five stages of grief' (Bonanno: resilience principal component; no stages)"
+ },
+ {
+  "i": 14,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Dual process model of coping' (Stroebe and Schut; oscillation)"
+ },
+ {
+  "i": 15,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Continuing bonds' (1996; Klass, Silverman, Nickman)"
+ },
+ {
+  "i": 16,
+  "verdict": "false",
+  "reason": "2 precise: \"'logia', meaning words\" -- Etymonline (fetched) gives eulogia 'praise; good or fine language', from eu- 'well' + -logia 'speaking'; not confirmed as worded."
+ },
+ {
+  "i": 17,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Day of the Dead' (Nov 1-2; ofrendas with foods, beverages, photos)"
+ },
+ {
+  "i": 18,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Day of the Dead' (cempasuchil color and scent guide souls)"
+ },
+ {
+  "i": 19,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Shiva (Judaism)' (seven days after burial; shiva = seven)"
+ },
+ {
+  "i": 20,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Bon Festival' (welcoming fire; lanterns floated to guide souls back)"
+ },
+ {
+  "i": 21,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Qingming Festival' (April 4, 5 or 6; grave cleaning, food offerings)"
+ },
+ {
+  "i": 22,
+  "verdict": "false",
+  "reason": "4 one idea: definition of anticipatory grief plus 'Lindemann described it in the 1940s' is a concept plus its named discoverer, two facts."
+ },
+ {
+  "i": 23,
+  "verdict": "false",
+  "reason": "9 hook / 1 true: DSM-5-TR's threshold for children and adolescents is 6 months, not 12; the hook applies the adult rule to a teen and says strong grief 'alone is not considered a disorder'."
+ },
+ {
+  "i": 24,
+  "verdict": "true",
+  "reason": "searched: Wikipedia 'Common App' (1975, 15 colleges, over 1,000 members)"
+ },
+ {
+  "i": 25,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Early decision' (must enroll and withdraw others if aid acceptable)"
+ },
+ {
+  "i": 26,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Early decision' (Early Action non-binding)"
+ },
+ {
+  "i": 27,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Yield (college admissions)'"
+ },
+ {
+  "i": 28,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Wait list' (in May, after deposits, colleges offer waitlist spots)"
+ },
+ {
+  "i": 29,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Need-blind admission'"
+ },
+ {
+  "i": 30,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'FAFSA' (Pell Grants, federal loans; states and colleges use it)"
+ },
+ {
+  "i": 31,
+  "verdict": "false",
+  "reason": "2 precise: 'launched in 2024' and '108 questions to 36' -- the redesigned 2024-25 FAFSA launched in December 2023, and the Education Department figure is 108 to as few as 46 (up to 46) questions."
+ },
+ {
+  "i": 32,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'UCAS' (up to five courses, no order of preference)"
+ },
+ {
+  "i": 33,
+  "verdict": "true",
+  "reason": "searched: University of Dundee UCAS 2026-entry page (three questions)"
+ },
+ {
+  "i": 34,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'SAT' (US digital from March 2024; Module 1 sets Module 2 difficulty)"
+ },
+ {
+  "i": 35,
+  "verdict": "false",
+  "reason": "4 one idea: bundles the gaokao start date and the 2024 candidate count, two unrelated numeric claims that invite garbling."
+ },
+ {
+  "i": 36,
+  "verdict": "true",
+  "reason": "fetched: Wikiquote 'E. H. Carr' (What is History?, 1961, ch. 1)"
+ },
+ {
+  "i": 37,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Leopold von Ranke' (1824 preface; judging past, instructing present)"
+ },
+ {
+  "i": 38,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'The Making of the English Working Class' (1963, preface quote)"
+ },
+ {
+  "i": 39,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Fritz Fischer (historian)' (1961; deliberately instigated a world war; Fischer Controversy)"
+ },
+ {
+  "i": 40,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Historiography of the fall of the Western Roman Empire' (Demandt 1984, 210 theories)"
+ },
+ {
+  "i": 41,
+  "verdict": "false",
+  "reason": "9 hook: 'a Roman soldier's letter asking for more socks' -- the known Vindolanda sock letter (Tab. Vindol. 346) says socks were sent to the soldier, not requested; the story would repeat a false detail."
+ },
+ {
+  "i": 42,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Vindolanda tablets' (c. 100 AD; earliest known Latin writing by a woman)"
+ },
+ {
+  "i": 43,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Argument from silence' (Howell and Prevenier on omitted facts)"
+ },
+ {
+  "i": 44,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Did Marco Polo Go to China?' (tea, foot-binding, Great Wall)"
+ },
+ {
+  "i": 45,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'History of the Peloponnesian War' (1.22.1)"
+ },
+ {
+  "i": 46,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 47,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 48,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Consideration under English law' (offer, acceptance, consideration)"
+ },
+ {
+  "i": 49,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Consideration under English law' (sufficient not adequate; Chappell v Nestle)"
+ },
+ {
+  "i": 50,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Capacity (law)' (voidable by the minor; necessaries exception)"
+ },
+ {
+  "i": 51,
+  "verdict": "true",
+  "reason": "fetched: Cornell LII Wex 'exculpatory clause' (gross negligence or intentional misconduct)"
+ },
+ {
+  "i": 52,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Indemnity' (hold harmless)"
+ },
+ {
+  "i": 53,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Electronic Signatures in Global and National Commerce Act' (2000; s.101(a))"
+ },
+ {
+  "i": 54,
+  "verdict": "true",
+  "reason": "fetched: consumer.ftc.gov Cooling-Off Rule page (home, temporary locations; midnight of third business day)"
+ },
+ {
+  "i": 55,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Contra proferentem'"
+ },
+ {
+  "i": 56,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Force majeure'"
+ },
+ {
+  "i": 57,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Informed consent' (risks, benefits, alternatives in words patient can understand)"
+ },
+ {
+  "i": 58,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Joint and several liability'"
+ },
+ {
+  "i": 59,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Arbitration clause' (paired with class action waivers)"
+ },
+ {
+  "i": 60,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Maillard reaction' (rapid from about 140 to 165 C)"
+ },
+ {
+  "i": 61,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Caramelization' (sucrose 170 C)"
+ },
+ {
+  "i": 62,
+  "verdict": "true",
+  "reason": "fetched: CDC food-safety prevention page (poultry 165 F; food thermometer)"
+ },
+ {
+  "i": 63,
+  "verdict": "true",
+  "reason": "fetched: CDC food-safety prevention page (40-140 F; 2 h, 1 h above 90 F)"
+ },
+ {
+  "i": 64,
+  "verdict": "true",
+  "reason": "fetched: CDC 'Chicken and Food Poisoning' page (don't wash raw chicken; germs in sink)"
+ },
+ {
+  "i": 65,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'High-altitude cooking' (5,000 ft, about 95 C)"
+ },
+ {
+  "i": 66,
+  "verdict": "false",
+  "reason": "9 hook: 'swaps baking soda for baking powder' is direction-ambiguous; read as using baking powder in place of soda it contradicts the flat, bitter result, inviting the generator to reverse the fact."
+ },
+ {
+  "i": 67,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Gluten' (glutenin, gliadin, water; kneading makes chewier)"
+ },
+ {
+  "i": 68,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Mayonnaise' (lecithin and protein emulsifier; rescue with new yolk)"
+ },
+ {
+  "i": 69,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Carryover cooking' (5-25 F rise, larger foods more)"
+ },
+ {
+  "i": 70,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Syn-Propanethial-S-oxide'"
+ },
+ {
+  "i": 71,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Mise en place' (putting into place)"
+ },
+ {
+  "i": 72,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Color wheel' (Newton, Opticks, 1704)"
+ },
+ {
+  "i": 73,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Michel Eugene Chevreul' (1839; shift toward complement of neighbor)"
+ },
+ {
+  "i": 74,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 75,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Rule of thirds' (J. T. Smith, 1797, Remarks on Rural Scenery)"
+ },
+ {
+  "i": 76,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Filippo Brunelleschi' (experiments 1415-1420, Florence Baptistery); 'around 1420' is within range"
+ },
+ {
+  "i": 77,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Kintsugi'"
+ },
+ {
+  "i": 78,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'ISO 216' (sqrt 2 ratio; halves keep ratio)"
+ },
+ {
+  "i": 79,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Pencil' (more clay harder H; less clay softer B)"
+ },
+ {
+  "i": 80,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Pencil' (never contained lead; 16th-century plumbago)"
+ },
+ {
+  "i": 81,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Acrylic paint' (water-based, water-resistant when dry)"
+ },
+ {
+  "i": 82,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Earthenware' (below 1,200 C) and 'Porcelain' (1,200-1,400 C)"
+ },
+ {
+  "i": 83,
+  "verdict": "true",
+  "reason": "definition only, no name/date/number; not separately fetched"
+ },
+ {
+  "i": 84,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Braking distance' (proportional to v squared; double speed x4)"
+ },
+ {
+  "i": 85,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Two-second rule' (fixed-point method)"
+ },
+ {
+  "i": 86,
+  "verdict": "true",
+  "reason": "searched: Safety+Health magazine (NSC 3-second-plus rule, one second per hazard)"
+ },
+ {
+  "i": 87,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Vehicle blind spot' (shoulder check)"
+ },
+ {
+  "i": 88,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Anti-lock braking system' (press firmly, steer; ABS pumps for you)"
+ },
+ {
+  "i": 89,
+  "verdict": "false",
+  "reason": "2 precise: 'must be over 21' -- GOV.UK requires the supervisor to be 21 or over (a 21-year-old qualifies) and to have held a full licence for 3 years."
+ },
+ {
+  "i": 90,
+  "verdict": "true",
+  "reason": "fetched: GOV.UK 'Upgrade an automatic car licence to manual'"
+ },
+ {
+  "i": 91,
+  "verdict": "true",
+  "reason": "fetched: CDC teen drivers risk factors page (almost three times per mile driven)"
+ },
+ {
+  "i": 92,
+  "verdict": "true",
+  "reason": "fetched: CDC seat belts facts page (about half)"
+ },
+ {
+  "i": 93,
+  "verdict": "false",
+  "reason": "2/5: 'drivers texting for six seconds' misstates VTTI's 4.6 s eyes-off-road within a 6-second window around a safety-critical event; three numbers (6, 4.6, 55 mph) in one clause are likely to be garbled."
+ },
+ {
+  "i": 94,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Graduated driver licensing' (nearly all US states and Canadian provinces)"
+ },
+ {
+  "i": 95,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Aquaplaning' (ease off the accelerator)"
+ },
+ {
+  "i": 96,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Unintended consequences' (Merton 1936; ignorance, error, immediate interests)"
+ },
+ {
+  "i": 97,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Great Hanoi Rat Massacre' (tails cut, rats released; problem made worse)"
+ },
+ {
+  "i": 98,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Principle of double effect' (Aquinas, Summa Theologica)"
+ },
+ {
+  "i": 99,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Precautionary principle' (Rio 1992 Principle 15 text)"
+ },
+ {
+  "i": 100,
+  "verdict": "true",
+  "reason": "fetched: SimplyPsychology bystander effect page (Darley & Latane 1968: 85% vs 31% with four others)"
+ },
+ {
+  "i": 101,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Risk compensation'"
+ },
+ {
+  "i": 102,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Pareto efficiency'"
+ },
+ {
+  "i": 103,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Hans Jonas' (Das Prinzip Verantwortung 1979, Eng. 1984; imperative quoted exactly)"
+ },
+ {
+  "i": 104,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Golden mean (philosophy)' and SEP 'Aristotle's Ethics' (courage between cowardice and rashness)"
+ },
+ {
+  "i": 105,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Stakeholder theory' (Freeman 1984)"
+ },
+ {
+  "i": 106,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Nicomachean Ethics' (Book III: outside force or ignorance of particulars)"
+ },
+ {
+  "i": 107,
+  "verdict": "true",
+  "reason": "fetched: SEP 'Doing vs. Allowing Harm' (common intuition; critics reject)"
+ },
+ {
+  "i": 108,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Joy Buolamwini' (2018, Gebru; 34.7% vs under 1%)"
+ },
+ {
+  "i": 109,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'COMPAS (software)' (roughly double rate)"
+ },
+ {
+  "i": 110,
+  "verdict": "false",
+  "reason": "2 precise: 'equally accurate for each group' is vague -- the impossibility results (Kleinberg et al.; Chouldechova) concern calibration/predictive parity vs equal error rates, with exceptions for perfect prediction; the generator will invent the rest."
+ },
+ {
+  "i": 111,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Algorithmic bias' (2019, cost as proxy, Black patients) and 'Ziad Obermeyer' (his 2019 study)"
+ },
+ {
+  "i": 112,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Panopticon' (1791; central tower; inmates unsure if watched)"
+ },
+ {
+  "i": 113,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Panopticon' (Foucault, Discipline and Punish, 1975)"
+ },
+ {
+  "i": 114,
+  "verdict": "false",
+  "reason": "4 one idea / 9 hook: bundles the effective date with the two-number fine rule; hook attributes website cookie prompts to GDPR, which largely stem from the EU ePrivacy Directive."
+ },
+ {
+  "i": 115,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Collingridge dilemma' (1980, The Social Control of Technology)"
+ },
+ {
+  "i": 116,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Technological unemployment' (Frey and Osborne 2013, 47%)"
+ },
+ {
+  "i": 117,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Automation bias'"
+ },
+ {
+  "i": 118,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Artificial Intelligence Act' (in force 1 Aug 2024; social scoring banned)"
+ },
+ {
+  "i": 119,
+  "verdict": "true",
+  "reason": "fetched: Wikipedia 'Global surveillance disclosures (2013-present)' (June 2013; Verizon metadata incl. numbers, duration)"
+ }
+]
