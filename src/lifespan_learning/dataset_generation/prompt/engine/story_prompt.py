@@ -145,6 +145,22 @@ def _safety_block(cfg: PromptConfig) -> str:
     )
 
 
+def _side_characters_line(cfg: PromptConfig) -> str:
+    """One line naming the people around the main character (2026-09-30).
+
+    Without it the generator named everyone else itself and reused the same
+    few names across hundreds of stories. Empty side_characters renders
+    nothing, so configs without them keep their exact previous text.
+    """
+    if not cfg.side_characters:
+        return ""
+    people = ", ".join(f"{p['name']} ({p['role']})" for p in cfg.side_characters)
+    return (
+        f"Other characters: if the story names anyone besides {cfg.name}, use only these names: {people}. "
+        "Anyone else stays unnamed (a parent, the coach, the cashier).\n"
+    )
+
+
 def _vocabulary_line(cfg: PromptConfig) -> str:
     if cfg.phase <= YOUNG_PHASE_MAX:
         return (
@@ -177,7 +193,7 @@ Reading level: {cfg.reading_level}
 Length: {cfg.min_paragraphs}-{cfg.max_paragraphs} paragraphs (never more than {cfg.max_paragraphs}), about {lo}-{hi} words.
 
 Main character: {a} {cfg.age}-year-old {cfg.gender} named {cfg.name}.
-Setting: {cfg.location.strip()}.
+{_side_characters_line(cfg)}Setting: {cfg.location.strip()}.
 What happens: {_what_happens(cfg)}
 The story needs a real problem or want that drives it, and something concrete has to happen; do not summarize feelings, show events.
 

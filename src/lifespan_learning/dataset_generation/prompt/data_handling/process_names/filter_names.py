@@ -1,6 +1,7 @@
-from datasets import load_dataset
+import argparse
+import csv
 import json
-from lifespan_learning.dataset_generation.prompt import load_list
+from lifespan_learning.dataset_generation.prompt.config_loader import load_list
 from collections import defaultdict
 
 
@@ -41,25 +42,23 @@ def build_phase_mappings(phase_configs, tier_configs, current_year):
 
 
 def load_and_prepare_rank_dataset(csv_path):
-    """Load CSV and return normalized rank-only dataset."""
-    dataset = load_dataset('csv', data_files=csv_path, split='train')
+    """Load the Statistics Canada CSV and return its Rank rows, normalized.
 
-    print(f"Total rows in dataset: {len(dataset)}")
-    print(f"Dataset columns: {dataset.column_names}")
-
-    # Keep only Rank rows
-    rank_dataset = dataset.filter(lambda x: x["Indicator"] == "Rank")
-
-    # Normalize types
-    rank_dataset = rank_dataset.map(
-        lambda x: {
-            "Year": int(x["REF_DATE"]),
-            "RankValue": int(x["VALUE"]),
-            "Name": x["First name at birth"].strip().title(),
-            "Sex": x["Sex at birth"].strip().title()
-        }
-    )
-
+    Plain csv instead of the Hugging Face `datasets` loader this used to call:
+    same rows and fields, no heavy dependency for a 645k-line file.
+    """
+    rank_dataset = []
+    with open(csv_path, encoding="utf-8-sig", newline="") as f:
+        for row in csv.DictReader(f):
+            if row["Indicator"] != "Rank" or not row["VALUE"]:
+                continue
+            rank_dataset.append({
+                "Year": int(row["REF_DATE"]),
+                "RankValue": int(float(row["VALUE"])),
+                "Name": row["First name at birth"].strip().title(),
+                "Sex": row["Sex at birth"].strip().title(),
+            })
+    print(f"Rank rows in dataset: {len(rank_dataset)}")
     return rank_dataset
 
 
@@ -207,13 +206,27 @@ def calculate_overlap(phase_ids: list[str]) -> None:
             print("-" * 50)
 
 if __name__ == "__main__":
+    # Run from the prompt/ directory (config paths are relative to it):
+    #   python data_handling/process_names/filter_names.py
+    #       -> config/names/names_gendered.json, rank <= 100 (main characters)
+    #   python data_handling/process_names/filter_names.py --max-rank 1000 --out config/names/names_gendered_rank1000.json
+    #       -> the larger pool the side characters draw from (~1,170-1,280 names per gender per phase)
+    # A name is kept for a phase if it ranked <= max-rank for its sex in any
+    # birth year that phase's ages imply (current year minus the tier age range).
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--max-rank", type=int, default=100)
+    parser.add_argument("--out", default="config/names/names_gendered.json")
+    parser.add_argument("--current-year", type=int, default=2026)
+    parser.add_argument("--csv", default="data_handling/process_names/input/canada_name_popularity.csv")
+    cli = parser.parse_args()
+
     gendered = True
 
     # Load configs
-    phase_configs = load_list(r'config\phases.yaml', key='phases')
-    tier_configs = load_list(r'config\tiers.yaml')
+    phase_configs = load_list("config/phases.yaml", key="phases")
+    tier_configs = load_list("config/tiers.yaml", key="tiers")
 
-    current_year = 2026
+    current_year = cli.current_year
 
     # Build phase mappings
     phase_mappings = build_phase_mappings(
@@ -223,21 +236,18 @@ if __name__ == "__main__":
     )
 
     # Load and process dataset
-    csv_path = r'process_names\input\canada_name_popularity.csv'
-    rank_dataset = load_and_prepare_rank_dataset(csv_path)
+    rank_dataset = load_and_prepare_rank_dataset(cli.csv)
 
     if gendered:
-
-
-        year_top_names_gendered = build_top_names_gendered(rank_dataset)
+        year_top_names_gendered = build_top_names_gendered(rank_dataset, max_rank=cli.max_rank)
         phase_name_filters = build_phase_name_filters_gendered(
             phase_mappings,
             year_top_names_gendered
         )
 
-        output_path = r'config\names\names_gendered.json'
-        with open(output_path, "w") as f:
-            json.dump(phase_name_filters, f, indent=2)
+        with open(cli.out, "w", encoding="utf-8", newline="\n") as f:
+            json.dump(phase_name_filters, f, indent=2, ensure_ascii=False)
+        print({p: {g: len(v) for g, v in d.items()} for p, d in phase_name_filters.items()})
 
     else:
         # Build yearly top names

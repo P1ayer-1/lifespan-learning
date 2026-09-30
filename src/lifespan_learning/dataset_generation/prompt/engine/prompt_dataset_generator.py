@@ -4,7 +4,8 @@ import random
 from ..config_loader import load_list, load_json 
 from .tones import ToneRegistry
 from .features import FeatureRegistry
-from lifespan_learning.dataset_generation.prompt.engine import Phase 
+from lifespan_learning.dataset_generation.prompt.engine import Phase
+from .names import SideCharacterSampler
 
 class PromptDatasetGenerator:
     def __init__(self, seed: int = 42):
@@ -21,6 +22,12 @@ class PromptDatasetGenerator:
         tier_configs = load_list("config/tiers.yaml", key="tiers")
 
         names_configs = load_json("config/names/names_gendered.json")
+        # Side characters (2026-09-30): peers from the larger rank<=1000 list,
+        # adults as title + surname. Each phase's sampler has its own rng
+        # seeded from (seed, phase), so the shared rng schedule -- and every
+        # other field of every prompt -- is exactly what it was without them.
+        side_names = load_json("config/names/names_gendered_rank1000.json")
+        surnames = load_json("config/names/surnames.json")["surnames"]
         tiers_by_id = {tier_config["tier"]: tier_config for tier_config in tier_configs}
 
         self.phases: list[Phase] = []
@@ -34,7 +41,12 @@ class PromptDatasetGenerator:
             if name_config is None:
                 raise ValueError(f"missing names config for phase {phase_id}")
             phase_tiers = [tiers_by_id[tier_id] for tier_id in tier_ids]
-            self.phases.append(Phase(phase_config, phase_tiers, name_config, tone_registry=self.tone_registry, feature_registry=self.feature_registry, rng=self.rng))
+            side_sampler = SideCharacterSampler(
+                side_names[str(phase_id)], surnames,
+                rng=random.Random(f"side-characters|{seed}|{phase_id}"),
+            )
+            self.phases.append(Phase(phase_config, phase_tiers, name_config, tone_registry=self.tone_registry,
+                                     feature_registry=self.feature_registry, rng=self.rng, side_sampler=side_sampler))
         
 
 
