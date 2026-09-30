@@ -1,0 +1,40 @@
+{"prompt_hash": "231bf10422d8802dd7fdf6b88ce3eb9c32c168a11731de6e5b918420908f8b8a", "verdict": "adds_false_claim", "reason": "'The first push into Roman land had gone unanswered, so the tribes along the borders pushed harder... until the whole western half came apart.' Rome fought back against barbarian incursions for centuries (e.g. 3rd-century wars, Adrianople 378, Catalaunian Plains 451; source: Wikipedia, Fall of the Western Roman Empire); the fall was not caused by an unanswered first push."}
+{"prompt_hash": "8aa339431323a55cc01f637d4e64aeda25ffb9d62c18a65d2a79995fe06b4c83", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5593f02c50fa81bdaa67a62642d300da880054d6906c997006a9c4b0a132fabc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4783f57a2b8d7b8b4b5fe1ae4698c7fea144351b49e3ffdbf8b489ed9da69c71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c5202766149c9d14860723f11058155c914aa0ebc48a7bc6c226894eb58af0f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "073df36bb1e5d8e4b0ca519352d948ad2f2743cfddf2a847d63d364a2c76ac8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd36c9b9af26ccfea5679fd6e4f95fde3aa4189992c4b90e20c4dc5e4ef10227", "verdict": "adds_false_claim", "reason": "'if being busy beat being hungry, then work was rest. He helped Grandma sweep the porch, carried the chairs out' on Yom Kippur. Yom Kippur is a sabbath of rest on which work is forbidden (Leviticus 23:28-32, KJV via BibleGateway); calling work 'rest' misstates the observance the story is meant to explain."}
+{"prompt_hash": "f2fcf5334c8d7954180c053eaf027c205b59b3b5ff7aff9557b92f0e14dbf2bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f2a8dad3787c7d905248346b6877fbee6ffc35086abf60e4873f6cef72e6e4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e90f3466666c6cb96232cf577a9c905f14954aa3e8add3d58fa5f9c9d557c746", "verdict": "fact_missing", "reason": "The story conveys the Orthodox belief in resurrection, but never names Reform Judaism; the other view is only 'at our synagogue, our rabbi says', so the fact's Orthodox-versus-Reform contrast is not conveyed."}
+{"prompt_hash": "d0c91cc15b9039cdc1dc8227750ac5c15f843173562b91b8028ca9f622d484ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28e3f1b20941d26c91bcd9a4323741865d4ff7b222f52ee655c9d5ff6def4962", "verdict": "contradicts_fact", "reason": "'So the blockage was puffy, swollen walls, not a pile of gunk' and 'It's not a mucus problem.' The fact says swelling is the main cause, not the only one; mucus also contributes."}
+{"prompt_hash": "a25835ca960d847c5692a3056ad135068ea6f6b47688bfb4fcf662762941cc51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fcfeb1db6640bd58699525f675440ccd9f0a3818da90ffcc01e93a634383153", "verdict": "adds_false_claim", "reason": "'Combines can't get this close to the fence,' said about a kale field. Combines harvest grain; mature kale is harvested by hand (source: andnowuknow.com, Church Brothers Farms on kale harvesting)."}
+{"prompt_hash": "e29b5a6bf4f058bbfecf3b4df8c943588be94a75a5ddf90fa9b9723a64827802", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "484e6607fff708a7c8ec4b0db6b87947fb636f8c05d23f9f1876f6c1fddcbbc9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e977cd3de8b8190c3383fec75721c7596519944ef204f7f3a29e9255b1e151d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "384b98a63ff6a831d126a997c497b41c04e6321836538c78da008108179f0a26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a35097acee6258678304579ec29e0464e2d0c972296148675156715ea381b7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf9c36533284fd88945189dd4ba8b207cb02cf99fe09489df092980d34fb9f2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0603a479b05f567891053ee2d774efe6043b0f9c7300b69df6b35298426f71a7", "verdict": "adds_false_claim", "reason": "'when the narrator finds him under the tree with his neck bent.' In Hurst's story the narrator finds Doodle beneath a red nightshade bush beside the road, not under a tree (source: literariness.org analysis / enotes)."}
+{"prompt_hash": "79c3ec25e9cf163f5be35a1bfcf9c565d31398d600f7376308f707108f879881", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "934480b5653e941a68ed992bbc531616deb40e91d4c9438253a6dd2d1e489b2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b03d3d3a2ff87741ff8745a94320a8eec4f553004bf054f67b1297e729279bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87481ccddcb683222aac02ebb8c311c9a75c0a45cea03a6f04e3d2241cccf77c", "verdict": "adds_false_claim", "reason": "'Ms. Ortiz got 34 percent, Mr. Bell got 33 percent, and Ms. Grant got 33 percent, and Grant won.' Under first-past-the-post the 34% candidate (Ortiz) wins; a 33% candidate cannot beat a 34% one, so the vote-splitting example is wrong."}
+{"prompt_hash": "3259a060321a5f149062917ec4259da864f0fa6505de979632175eb385e8a02b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0fd5a80a7b4efbd8d3e2dfd1faa1081c485193b9e5c107e7ff709c05704163ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92cc2c6c0fb298e9173d5f3c701f8398550a9844d1e416bc74c60d66f4f29542", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3089a8c80bdfc600ba2c88a4385adc5b5989635c0bbf6b608fb2a2ca51a4495", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca40571a529e1553ee1b6dda1bc9cd0a83bd8e4f4f26804cdeff78eb230bde60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db9f6482c4c996f8afdc8cba93c8da9976abafad1d3b613d6440abdf6b034eb0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79c8666bd7598dd922c993acaffb653f158aeed68b04921deddfaace496a58e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8a72e265f4cc6023d381e9c597ae7e9c31bcde204a5d47cef3e2cf37fb1e4d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ff32647b8e7f55b1a02f83e07a31b2b4f80f318f9924ef8cb9c3278052e64bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32392afe07c5c158e9a0ca969b41ec80c0b6448499abdde3a6252e0ddced178f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b21aec0733c79e92c9990f0a121a6a24bd5b2e1d8b7befc9a7e1ae356c3eea5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e11438cbf37b18bff2bed95d4cdfd09896d4380f28aba4c66b708c6b19339ca2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "278e77e7e7742231282c33d59158d88dea34167efd09c3d51ef4eaec0d680695", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "449388912a616505096c05c787e108c75ec74c55b909d09e966b910295d21894", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "16682919ab2f7fc433e933cad850b862eb01cca62ca98e4f8dc8ff05924e9549", "verdict": "adds_false_claim", "reason": "'The points fell into a straight line... which matched the way her bulb pushed back against the flow.' The story ties a straight, through-zero V-I line to the bulb, but a filament bulb is non-ohmic and its V-I graph curves as the filament heats (source: savemyexams / miniphysics I-V graph notes)."}

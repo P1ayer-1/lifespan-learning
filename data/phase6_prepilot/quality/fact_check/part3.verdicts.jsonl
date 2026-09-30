@@ -1,0 +1,40 @@
+{"prompt_hash": "f9fb0169d5a5498bf98195e6901601c207f85401608c2426f34e54c3ae6aa246", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19e7264f7428cea336d45a4ce94ef745dc8819b6783c2fe3f11be0fec404d856", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e904beed6f386010c17146c4e17bad58945c531b0b9c0fb8815d53148d496dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47133950050d8062320fa569c3d11be7e7c0c6dbf67aab90dfec6ef51beab459", "verdict": "adds_false_claim", "reason": "'She read the line about no official orthodoxy being prescribed by the Supreme Court.' Jackson's opinion says no official, high or petty, can prescribe what shall be orthodox; it is not about orthodoxy prescribed by the Supreme Court (source: Wikipedia, West Virginia State Board of Education v. Barnette)."}
+{"prompt_hash": "f0eaebea268a7326898559dcb9c604f6d1689ceaed686b7efe68e987ee06bcdb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce1c97183ad0ad58318848b9367c445ec2a8a02c67f1711cc7b93b9e92a111b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98c20ba790e4077008c89161de5041eaf82fff93361b900d69db1357deda7359", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2b1d09201c6f4208d1c89a6d8f74a6ba92103f94330df99494612209889f61c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "552575ab3e86e4b4c9f3ab266d35e410fdb9232c3e2d0ccac619a36d6b6666d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "777387ff5ec4885bbc3f30acbc217bd26fd0da5eb0c483eab5084c5faa321ec8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbcb1ca1c5cca8a7d3f8cdfa9470e4f7315a64c7f91ab1c993e591e9cb28fd7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "582142524fef9a6b69822de0e3fe49cfbf28cde75f79f56d398f582af85b289e", "verdict": "adds_false_claim", "reason": "'using her dorm address and her mother's maiden name for the last four digits of her social.' Voter registration forms ask for the last four digits of the Social Security number, which are numbers; a mother's maiden name cannot stand in for them."}
+{"prompt_hash": "3979e1a2677e28aa0ba98578c535d0a38586c7121f8b64b80bd8091c05bf6c15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d1bae06e13ed7236ae222a636886a85b1a15b2f15e1d622997431c59246d155", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f28a870f95874b2555f8e3d2d1c925d46a93d0427fe744fdaf99e2965132f8e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e3cf57c4b171e2c215353720d60b597ca64e2ab155375212eb842c9ee94ca52", "verdict": "adds_false_claim", "reason": "'Six hundred million in aid, and nobody fired a shot over it.' Truman requested, and Congress approved in May 1947, $400 million in aid to Greece and Turkey (source: Wikipedia, Truman Doctrine)."}
+{"prompt_hash": "3ff4e8a65393a63eadb36283178e715eaf60b97b3bd68b9e9e22b64bbaff2e91", "verdict": "adds_false_claim", "reason": "'Two giant detectors, same tunnel, same collisions.' ATLAS and CMS sit at different collision points on the LHC ring and record different collisions, which is part of why their results were independent (source: home.cern, Large Hadron Collider page)."}
+{"prompt_hash": "565b8881bf4bbb612829c9a8e04a9534010407193d3ce9d99f374ee5e35a071f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff7066be26b4544379215bac770f057a855b3e0d95e1aee2ca18d76f5ff94a69", "verdict": "consistent", "reason": "uncertain: James marks the K. 332 first-movement development as beginning at 'the F sharp minor passage'; the analyses I could find say the development opens around bar 94 with a new theme in or around C, and none mention F-sharp minor, but I could not get a bar-by-bar key analysis to confirm."}
+{"prompt_hash": "2bce989bc77ef6c87c9715eb55600566bff7e66a8b9a5abf174536a28d69e58f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "650d7ee0a8325dc863ecc15ae566e200ee9bd396956388032c94b6b1b5993915", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98a0c94d8cc01ceef8f75e334ce3b593f0929b33273f6ccf4ad5d0b38eae4596", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba16a5521ebbad6ec35cab348c74ad1c3aae2e0d90ff93ac1bd3689094126969", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be39eb0c88c20e27f95191cc690874611daeb4a16e44c56abb09080017794044", "verdict": "consistent", "reason": "uncertain: 'the Beethoven sonata, the one in C minor' is said to have its second theme in E-flat major; that is true of Op. 10 No. 1, but in the better-known Pathétique (Op. 13) the second theme begins in E-flat minor. The story does not say which sonata it means."}
+{"prompt_hash": "007dc51aa0ca98b6c0261c65c885f5c122b8256191d3d392758b667c896f28ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ccaf25c323e997f1506d700f3ae398715d693af63ee509875fbb15c84c39b0bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26fe64a1805b564a17a226a45eb46b8992ada7511f32ff7fbf976920609f9bb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c5e75ba0e5ac13ae684df56fefb95d4d6e40dcac83a4d6be0d601abaaf6bc79", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf1f3a2da82ce14cf3e844522ba837aeaa12625f22424b402dc93c4a3e094a55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "484cfeae142f133f71483b4f30827d56ed85da0226c950d6ca911fe74bcfba73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61e98575a61fc778d9d4e30a121e007c36334b1ce3c63563ee241ae250a44b2a", "verdict": "adds_false_claim", "reason": "'He had twelve hundred volts across a gap of half a millimetre... the field between his plates came out at over two billion volts per metre.' 1200 V / 0.0005 m = 2.4 million V/m, which is below the roughly 3 million V/m breakdown field, so the story's reason the result is 'impossible' is also wrong."}
+{"prompt_hash": "bb0bd87c79ee4c26abfe13f862d28b9624003e840e79eb27e8b49787ecfc30f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ffcc7a705fad98f9711c5177c075d42b385cbf988fccccc12f163cffd794984", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7360ded1df83af566fa47ce44f75a49476df1d0c577e2f1dda14c1fde0cc9c06", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1506c705ccc779f1414a3940610300a4e063e8d0aab7d34f8ce763f79fad6d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e517b7a96b76a95c1d628ec47318e4a6ee455d9e7abca80aa3c74d79c2ca2d6", "verdict": "adds_false_claim", "reason": "A state senator explains that his statewide crossing-safety bill failed with 55 supporters because US Senate cloture needs 60 of 100 votes. A state bill is not voted on in the US Senate, and the 60-vote cloture rule is a US Senate rule, not a rule of state legislatures in general."}
+{"prompt_hash": "84af6292b79cdd66c71bb0c181243cc748c445c1d3bd46fc81618808e827cb9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1b6ad35d1ba12daed0517dfac996d818f182d45e20c4b6a25d2dd47cb0340a1", "verdict": "adds_false_claim", "reason": "The endorsed data show 30 degrees giving about 16 ft, 60 degrees 8 ft and 45 degrees 31 ft. At a fixed launch speed, range goes as sin 2θ, so 30 and 60 degrees should each give about 87% of the 45-degree range. The story also says 45 degrees is the maximum 'with actual still air', but air resistance pushes the best angle below 45 degrees."}
+{"prompt_hash": "0ce2efdbc9249a6d7bcb21b2c75ce79b380047f8b333fa74a56a4f9c21f3f95b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ed99cf3f9677b93d79028003f0674a5ecb9651a6c90d84e2c427e01e5fb59be", "verdict": "consistent", "reason": ""}

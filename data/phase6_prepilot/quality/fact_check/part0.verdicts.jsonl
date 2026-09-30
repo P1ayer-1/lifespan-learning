@@ -1,0 +1,40 @@
+{"prompt_hash": "984f27bd217b8e5a0251f4c9a16159d7fe20b354b5273bd091789878c6eb8039", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "137e5a207329a7b5aa359b1de05c9e63e41cbc60992e61d469949221e672398c", "verdict": "adds_false_claim", "reason": "'On this thing, low plus high runs right past what an int can hold' (for a forty-megabyte dataset). low + high only overflows a Java int when the array holds more than about 1.07 billion elements, which a 40 MB file cannot produce, so this overflow could not happen."}
+{"prompt_hash": "7529f40b97737446e3a529dcd389e218ae65e88e0be1af52c38935cc62baa4ab", "verdict": "adds_false_claim", "reason": "'She tested it ... dabbing a smear on the inside of her wrist, and it set in under a minute, dry to the touch.' The wrist or lip dab checks the chocolate's temperature. Chocolate does not set on skin at about body temperature; the setting test uses parchment or a knife at room temperature and takes about 3-5 minutes (tastingtable.com; culinaryartsswitzerland.com)."}
+{"prompt_hash": "7f414c48999badad5152a36ba7d62898217f21b2661eb2317676e5f23d217c89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "672f579af952db90add6e527b11f83e539f50bd7cc0c5aa96619af001aee4bb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d06fcc37c6366afab57a272e0c71e0cd07207cfabc377ef3d90e08312572ed15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4e8dc64f2c7040be0b17491a4985d3c9c505cb5a08e799a8b6f331e90fedea6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a335edca9137225f7564fd5df1036e20ae4b02d2ad56ff03003cca332f25b7e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb85d64a97425593497c806db1a344cc4e22cd143cc043ec07449b32c348cb2a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b335016bd803db1a75f566f67fca7727b602f660b2244515eed61a617f1c8b48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b15b169f34fdb3387b41f78e3412b565a2c937e0a522d2e6a3cb5fd5131e466a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "260aba5f4cec0a82413fa27b89b571e279811613613da1421eac5095c662999c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc2e5f0bf820b91c9758c410df4cacb1fd800afe6535f9db031d0bfb7037166b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89b3356350f2ecfb037365cc3784a63676a3c3646111656c2100dbf0494e2b56", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "150aaae1e7cf3f3ffd04bf89d059e11dc657fa82735caeb07cd0731fbf92fe77", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77e01e9e94db3722f3ae23aa4f67ec892f0f3bed0df7b37ea498c11cf24b85af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a911b289d647b82383e999aef19aa6e8ab991cffa957e5f2e09cc3fd777089cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f630c3ae63ef5b31d29f9a25879ba8aee065a9510b3870635f5f78114ffdcdd", "verdict": "adds_false_claim", "reason": "'teniendo dudas es razonable. Having doubts is reasonable.' is presented as correct Spanish, but a Spanish gerund cannot be the subject; it should be 'Tener dudas es razonable' (see uprrp.edu 'Usos correctos del gerundio'). Also 'tiene razón que' should be 'tiene razón en que'."}
+{"prompt_hash": "7e6051bb0a6c0dad176a6d8c827023544334dcf0bdf015a8f2aa99d1178cb97d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "427d3a45625492a0d0dbaffbc382d0c87113e7a6a105a6c47ed6e2ea9106e9a6", "verdict": "fact_missing", "reason": "The story gives the North American norm, but it moves the other half onto the family of Priya Nair (a South Asian name) and never says that prolonged direct gaze at a senior person can seem impolite in some East Asian settings."}
+{"prompt_hash": "87d51c22ece3b31f90725193afe111ef886c275f991e31bd97477d24f65ed665", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "889d8b54b75d6eaecbb8bd2990a3070270a3e854654031dea76eaeaf226e120e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7645fa1f7a8abddc8afce2e15ab6a6e6a00d1b6a9fbca88e42318e2c6e9ae57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f97fed8b3ad970e20be5fc6a01425baa6741a9f141ee128f1b110b03bbd4c0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d11d11d1f5b4586fffb9118dc79b7837cbd669e662aac83abc21392a2a5208e", "verdict": "consistent", "reason": "uncertain: after Priya's headache returns, the coach says 'Same drill, Priya, you're on distribution with me.' If this means she keeps exercising while symptomatic, it goes against the story's own step-back rule; the wording is ambiguous."}
+{"prompt_hash": "53ac30ef5a209376878b4d99f1502d0d4a4ab6630b625dcda36cf842b94a15d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a337669d75512073303b87b9951bff3b1d641535f997aeeb259b11d6cf32964", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2617c506399951eb629a08065fda9a038764f414368641d6e40728ef136a3f7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "182476e5f820de6e166933be2e62585e3b586ba413322a192a734cfbf8b43dba", "verdict": "adds_false_claim", "reason": "At ten past two Priya is still 'trimming the foot of a cup with a loop tool' (leather-hard clay), and the cups go into the 4:00 firing that day and come out 'glossy'. Greenware must be bone-dry before firing, or the steam cracks or bursts it; freshly trimmed cups cannot be fired two hours later."}
+{"prompt_hash": "f89bdecba0000913ae55d06190088103865699b8f01dd5ddfec29a3a6b70c8a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b3d053fa43bd3c938766e8c72cc7f55a26024735e9590993dd7780efd9d6f60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3329b9b72daa3cb76ca3ac58a15de6110c72c59e112a06c3bd6be303498b6755", "verdict": "adds_false_claim", "reason": "'Othello says it, right at the end, when he's giving up everything.' The 'pride, pomp, and circumstance' line comes in Othello's farewell to his profession in Act 3, Scene 3, not at the end of the play (Wikipedia, 'Pomp and Circumstance Marches'). The injected fact itself is stated correctly."}
+{"prompt_hash": "e59f5a0719387666f7f71f2327e08c2647402ee15838c94df6f121393e4ecc64", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bb3b6f54441dc68bc1f825982b16b15c8f05e69611955f76d46786241718f6f", "verdict": "adds_false_claim", "reason": "'testing a smear on his inner wrist ... watching for the smear to set dull and dry within a minute.' Well-tempered chocolate sets glossy, and dull means badly tempered; the wrist dab is a temperature check, and a smear does not set on skin (culinaryartsswitzerland.com; tastingtable.com). Also, tempered chocolate worked to 31.5 C would not set in a 34 C room."}
+{"prompt_hash": "432424e82bdff9061cb392f5bfa44913fff31f7f715262f3efef91f2b745ab6b", "verdict": "adds_false_claim", "reason": "'standing under the bare loquat tree' in the cold. The loquat (Eriobotrya japonica) is evergreen, so it does not stand bare in winter (UF/IFAS ST235; Wikipedia 'Loquat')."}
+{"prompt_hash": "11024f32787f440cbe3aa0e6a77210ff3eb89e85230d31a3de25a3f09b88ac46", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb5d2fd5f267afec438a98788decc29827d4296564025181fe573fc7bf7db099", "verdict": "consistent", "reason": "uncertain: the story presents 'hands at ten and two, exactly where the internet had said' without correction; current guidance usually recommends nine and three because of airbags."}
+{"prompt_hash": "f877e2bba70d3a24b73cb3fbf995232ed577ed9614284ab6f1470d5147bc29a8", "verdict": "adds_false_claim", "reason": "The learner, Madison, drives onto the motorway with her mother. In Great Britain learners may use motorways only with an approved driving instructor in a dual-control car (gov.uk, 'Learner drivers will be allowed on motorways from 2018'). Also, 'reverse around a corner ... That's a manoeuvre too' is left uncorrected, but that manoeuvre was dropped from the test on 4 December 2017 (gov.uk)."}
+{"prompt_hash": "9eb0b22e0e142101f90279baaadef223124f12296bc14e0aa5bdec342bb5b585", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f767e028bb20e52b0b8c933ffeba68e183ebab441382fa1e049d1a8b7188bac7", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,2 @@
+200 stories, 200 verdicts, 0 unverified, 31 queued for regeneration -> sample200.stories.jsonl.regen_queue.jsonl
+phase 3: pass 169/200 adds_false_claim=24, contradicts_fact=2, fact_missing=5

@@ -1,0 +1,40 @@
+{"prompt_hash": "9c02e077e434dd361bb227777ecc6dfb4bc0ad3aa41d85fff20437c534863c41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07c97976d09e6e137267280b0480798ca891a02183d6c9d95b83229962a7a883", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1582d44a738a870fbed8907cd98c7c85575f3517e91b01e4d6338555caa1ea33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f10684fc9475965e9d7b24139ebd77b559ee3d2a157b69c1d50d84dbce0ba7ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00d26843d4d650d4df3c3dd93cb7dcc051c36c18b36de552e9c02f6cdf2e1d17", "verdict": "contradicts_fact", "reason": "'20 S, 70 W, Atacama, zero rain ever' and 'a place with no rain at all' are left as the takeaway. The fact is that only some weather stations in parts of the Atacama have never recorded rain; the desert as a whole does get occasional rain."}
+{"prompt_hash": "c9a6a0dae4e0d788c08ef48cb2babd069a3b9452608e85d6681ac696751ea340", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7d301e886ccb863253180da8c86a2d319f90aab19cffc16cb90f57be0f2e908", "verdict": "adds_false_claim", "reason": "'Each answer came out correct, and each time the fraction was bigger than it needed to be.' Multiplying denominators does not always give a larger-than-needed denominator; in Marcus's own example, 3 x 1 = 3 is already the least common denominator. His step 'three times one gives me three over one' is also garbled."}
+{"prompt_hash": "6200adbf82ddea12eb7b54721433eeba72fca14acf1a5e8ef7be0ccf3feed87e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "661df1eb5fa6949e1ee012cb4bbf7066f8d1bb72e23400ad138c54307d91c6f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3fa5afb9348926b7858b2037c44d3113a635c75a7d9802a301c2e450dc72e70d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a93c3e8701fe205941cc46845db499bedba549bc31215941b02fc9ed274efba5", "verdict": "adds_false_claim", "reason": "The numbers contradict each other: 'Kelsey Okafor had scored nineteen goals this season' but the site lists her '46 for 61' and 'Kelsey made forty-six'. In soccer, shots made are goals, so she cannot have both 19 goals and 46 made shots."}
+{"prompt_hash": "28eb7f3410bd1e1571c43e3950bfc95b2b9277e8266f3881bcc26f8671dda07d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0b4c73c33b9a7684787cd994abdb5127ba927b80b7be0deb2d526e0483e3d60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37410d47d545b68473bc796bf7fd1486db352a919130113154d2e1b23b7d04a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2421a1782468f06f522edee532884bc1f1fdc201b815ed42c689b5ebbbfc10b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53bc41089b2e469cd696d28ecf617dcda079c657608bf25fdd7bef50bd5c9442", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ccad9979eece29c7e7fe6980ce259b899aec86d9d0bb766ac799457e5fd6b154", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12fb32d909b94eb8ef1ce345680dbc1b9053590f76716a78ff7986c536080749", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "837e33d6751644824900bf714baeaeaede453a289df8dd877e398f7abbe0faf6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b5685a8fa45d8e11f2f1b172dd5c0ab9f66a485746bc74c62ba6bb96d2d375b", "verdict": "adds_false_claim", "reason": "'The stadium claim... was only mostly wrong' and it was rated 'Half True', yet the real figure was $10 against a claimed $2,000. On PolitiFact's Truth-O-Meter, a mostly wrong claim rates Mostly False (or False), and Half True means partially accurate (source: PolitiFact rating definitions, via WRAL 'How we determine Truth-O-Meter ratings')."}
+{"prompt_hash": "ef59eae6b6d28e2a1fc652dc244d32fcb5e041f6cc9fd9ebaba8accdbd65d92a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61d778140388bfa401c59630159ba19a1c934d889f1b8a71955677bf2d1aabd6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2bb14debfca9c3279634c68fa06ce25673a5168ecda27c7da082012e39bafe51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82f46188741fc36f06870fc8b5484ca49397ecf6442aa5ce942a74630afc2987", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9368aff51a1b17edacef0e1b8b66030684ce5e55f39638f0445378fa995787a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "243935d253daa5dc521f3c4eca1bed0af5c7d9658de783a2225e00d219edd08a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25b26a6e3ed0c2ffe871d104357abe4169ceaa0ac6cff990b6f1a6063761a32c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f59e0227b23e4adf3a9eda4f2c35451e23652be74f264370f46c7a523978cf6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d9c773dd7ddfa631bc65de2041711565661f5aa744d99ac7de5337d132cb02a", "verdict": "adds_false_claim", "reason": "'if his dad had stopped growing at fourteen, and his uncle at seventeen, then the family plates closed late... Late closers, all of them.' A boy who stops growing at 14 has growth plates that closed early, not late, so the story endorses a wrong conclusion about growth."}
+{"prompt_hash": "5190566ba83b45cd9368938723f221df4239f6b1778133c4e8b6e40428837c0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea539f92ff16ef4b97b65daf1c1d5b6ba501b0914a75f4149d36306c5febb42b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b20a892e65168394fb166865d51d14ce64a79560a8c31a7502e2508a01237ce5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1989a72d4715431e0d21024b9cfbffa610c5f5f2321cb5f39e3ccd329849fa53", "verdict": "adds_false_claim", "reason": "'pulled down on the rope. The stone rose, the bucket swung up over the bank.' On a shaduf, pulling the bucket end down raises the counterweight; the full bucket is lifted when the counterweight comes back down, so the stone and the bucket cannot rise together."}
+{"prompt_hash": "f2f66beb0d3193bac63970e7fb2604c4a094fd5554d048dab91733d44fbdbba1", "verdict": "fact_missing", "reason": "The story shows Levi replacing 'um' with a silent pause, but it never says that the pause makes a speaker sound more confident or gives listeners time to take in the point."}
+{"prompt_hash": "d40d831e78f75f97b3cc30ddf819b77ea79a9870f92d5fc1343ad5bb866b4f4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e214a39ca6962ded94f77eef99f26b41057f93079fd63e15223998a1158d963c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c69b2a5d9d92220375843e90acd7533dadd0d13037671297669230e8cb390918", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c8b4b5d8f71aa6afcfb642ba4e24a451d656bfb08f56cfa19456e34d440dab18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "daa87d0b23545ee101b990fe3be2f79d964529868f114c33a8ac32adb360262c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3ae1ec08be4d22d651906ba3f1f3af19778798553a6bd537b43e35e38f7eacf", "verdict": "adds_false_claim", "reason": "'She carried the board to the far corner of the yard, upwind of Marcus, so any gas drifting off would blow away from him.' If she is upwind of Marcus, the wind carries the gas toward him; she needed to be downwind."}
