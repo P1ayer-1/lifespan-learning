@@ -1,0 +1,40 @@
+{"prompt_hash": "ae5e7a1e8f6a84812cc213142d61a911afecd3daf87b85e09f4746432733725b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d069a5abff9fbab7e6c939d2dd39e6a080d37d897ab73b833b201e6942eca396", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "512afc4903a91d10c3f21936ff2d6b20d68be313494dff7852bdb62c1891b9a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79bd378f2993b7cb82272ee59619b73da9f5c0de8f6632bc26ca95d612dcf0a1", "verdict": "adds_false_claim", "reason": "'The children at the top of the chart, the narrow head, were the school question; the near-empty peak was the nursing home question.' In a population pyramid the youngest age groups are the bottom bars and the oldest are at the top, so children cannot be at the top."}
+{"prompt_hash": "761a219705958e0ddfe4820924763b4bbbf4b20bb0ad4abc0ff97da208b702cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59aa3f23e1236832ad1f4cef28ffa9f02319c8f62944a6d0413ceea3fa41315c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b652873041eea80c7300787d6f9fabd0f5a22f0470629191717c8b360cc30dff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9f0e41c73b380d4f46b2244912b466e8581277d475351ca065647cd710a4b7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d606cfacfd4f47f8da64e817096501835aa915208b2e747e37e50c24280c3d10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "508645f066c06b4a59b98ba72a54184a505cfb60606cc48663ac2dedb42b0b07", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5545b201df8a6d4b67f5bb480f7bae1d6d27a78a6c92fbedc25122a2e605b8de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f93c53b3edc89ba0a8bce2647f5464705d310784b5016f8ccad3de52d33e36a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "326c1b7347fd19a9d64991c93bb15f7c2c0a1c54b2b81db2e81ae251578e4d1f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f4fc42479bacae0a7d30efb50760e0558afd2232b855adf5ccf09b21011d69d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2222d6d69e408f8727cc821e81b3859f42233a8ca9659eb9440aacfeef4f2f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b68b03fee2f10796039f532a3f8e4ec92a18dacf6782bc89aa5a280cdb4dda2", "verdict": "adds_false_claim", "reason": "'chase ninety more cents an hour' / 'quitting over ninety cents'. Theo earns 'nine dollars and change' against Alex's $7.25, a gap of at least $1.75 an hour, not ninety cents."}
+{"prompt_hash": "d8034308a2c66f2609c6de2d9b15ab7f22436300f629776d201fd027c6408139", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4eba5451cd145b75fc2f4922482cbc50186dcae97679f566e7b8c98daaf7bde7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dec1b2d2103e9e5ab372733d89d85c4f1611bde42a9a6e374e924e7ca1885c6c", "verdict": "consistent", "reason": "uncertain: 'he got through the Four Questions, through the washing, through the breaking of the middle matzah' reads as a sequence, but in the Seder the breaking of the middle matzah (Yachatz) comes before the Four Questions; may be a non-chronological list."}
+{"prompt_hash": "cd1b2b172c99c985f6a037bce10efd00aa062af2995951fc9fbc646004530c0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58883d52c95ff32ccbfdfe83a58515405859d7ba183342a23da425b151e0bbf7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6426bb9c3be1787048e10e4447b21293ea2e0656c42d4e41c3c6653dbb3fefa8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ef73ceedfaa518cdf4dcab029ee2343e8625db6266f86dfb6a43b4df0f5a0f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "66e87a6b4d680e848f188f3ecad7514fe7dba76842080dce4b02035977ae1ffd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49890e746453a3026abc4f5cc838a074178924b59e19e092fb3c33d124360eb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44839ccd2a9af09dfd04f827368e0d9476aaa7a711d75aed46bbe342bb620439", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c07cfc2366aabbfd97c7d365b89ef9162971e22c93e5c2c4c8833e6b2e07efae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ca74b51180ccff6d5d4474fafd3cd6cb2b49e4124ab14838d618fc4992e8869", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a1a2fc01ec73f1427cd4b396a69bfcbbf6b51f59751a0bdf51f9c117d55a5c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63051e39d8001478aad959e6128d98d453bdbde4b5cce909b06677fb71da61d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "834597c3c8836e3412cb3e200f50985ce187af02ee1a029b7a1d178ce1e23790", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96589ae64d5a1c8524346c068cb1e30e03e08a6cf5f179090a947511f88b7753", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3782e7d062857bafac34d8747e906665f27d9596f6dd38db27c3f7a950b5b12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2e17f01ca07503978d042a95e7f7a4752934dc70844c1653ea19623d59090b2", "verdict": "consistent", "reason": "uncertain: a voter-registration correction 'postmarked by Saturday' for a Tuesday election is later than mail registration deadlines in most US states; framed as plot detail, not a stated rule."}
+{"prompt_hash": "54c0791975e785ac8e5af9ec429b4dfc90e8fbc518a9d894f1aacee0912d43d7", "verdict": "adds_false_claim", "reason": "'They took money for a pension,' he said. 'I'm sixteen.' (CPP listed on his pay stub and explained by his mother). Employers do not deduct CPP contributions from employees under 18 (canada.ca / CRA). Also lists 'the transit pass' as a claimable item; the federal public transit credit ended in 2017."}
+{"prompt_hash": "f6915d2a17172c564385fff00180b03294831dafdc8974b059e9bf28776dfc24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "233feb77445656c4215e228162f83a20f4554db25629e839585b192737b085df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd791f07d9f3f4a625fc4cf71f415cb2efead06c7ff05decf8b0bbcc25a3ad19", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93701c5aa7d2ba169ef8b033598b9c0f2bb888670ba963e06a1ba1cb49f22103", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9826761a4618f26f99e28d4876ecc1b284e6ca89b620cc98f9011d781fba04ef", "verdict": "consistent", "reason": ""}

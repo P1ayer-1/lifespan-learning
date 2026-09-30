@@ -1,0 +1,40 @@
+{"prompt_hash": "7cdb65e0bb0aec8318951e9e208c29d4d1cbcc22f3c8c0680db1865c607aa7ed", "verdict": "adds_false_claim", "reason": "'His father had voted the night before at the advance poll.' Canadian federal advance polls run on the 10th to 7th days before polling day, not the night before (Canada Elections Act s.171(2), laws-lois.justice.gc.ca)."}
+{"prompt_hash": "11de8783482f71cc29d1e8d7543a2fd1b5de382f7b631b323ea07d4caa793388", "verdict": "adds_false_claim", "reason": "The $250 million purchase 'had cost ... less than a third of what her school district had spent on a football stadium.' That implies a stadium over $750 million; the most expensive US high-school stadiums cost roughly $70-175 million (NBC DFW / ASU Magazine reports on Katy's $70M Legacy Stadium)."}
+{"prompt_hash": "49fd13c7830e9dd278c275a8a1147a8fae3d3feee8f529dc5a78e94725485710", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "050b240c7cbc72f8d98f18c69f84ec962030eead429797308491e76adba56788", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f680113b353a6042fc084598ca5b29f06face7a28cae39960b0d9940083ca10f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37fe93cf39fac0b1041847127e1f83e420bc8e3e73428f30a250449ceb6d852c", "verdict": "adds_false_claim", "reason": "'That is all transcription and translation are': the tRNA anticodon-to-codon matching he describes is translation only; transcription is the separate step of copying DNA into mRNA. The story endorses his summary ('He knew what he knew'). The tRNA fact itself is stated correctly."}
+{"prompt_hash": "04376633a005c551d81589414acab7c89074d15778ef5e59ad8b75e2a754df42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b52d84ce71727e6a307594d016c61d03b0d78c48f1870279a13077602c2a81a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6cafbc479db36d32ccb66a5d343a7e1e7799e8e1b7fb00055772640e0529fa4", "verdict": "adds_false_claim", "reason": "'patted it dry with paper towels instead, which the page also mentioned.' The CDC raw-chicken page (cdc.gov/food-safety/foods/chicken.html) says not to wash chicken but does not mention patting it dry. The injected fact is stated correctly."}
+{"prompt_hash": "1a0436f17f83b11ffdd07af54d53028a6402591c96811b8cbe3ea3314a99ac24", "verdict": "adds_false_claim", "reason": "'He moved from Tennessee.' / 'So he doesn't pay ... Same building, same contract' / 'Now you've got it.' Right-to-work status depends on the state where the work is done, not on where the worker came from, so Danny is under the same dues rules as Charles (Cornell LII 'right to work state'; state-law-applies-where-work-is-performed rule)."}
+{"prompt_hash": "02214c24aaa379b92243f839f047e982f7b4c9f1189f573b634b00008fe9993e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "618cd784a09fc5606a41562d307f9e81e0ffcac828f71d1c6c4add5ad8af92f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b44d3b6b0f0ec2b9ebf13250e6e72be836b1ad13cd823c470bfd34ef9ef82009", "verdict": "adds_false_claim", "reason": "On the fourth night 'the flames doubled themselves ... so that nine became eighteen, the eight and the helper both.' On the fourth night only five lights burn (four candles plus the shamash). Also, 'Right to left, and you take them out left to right' garbles the rule, which is to add candles right to left and light them left to right (Chabad.org)."}
+{"prompt_hash": "e9281cbdedb4c9f7e326e3a2eb268ae2efd9e96c5e0fa4d80e4c865de7ce255f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92e82ddda123574a7eb65a6a9234d2bee3f7a4e142b624994dde956e289ba257", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d72e79f8216dfe6c97299e07b9e8adfde4f4829c18d103625f53249cec79997b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43a31e8512749895faa0d2ff3f79b3bd3a7bb14cdad6b5ecae7000c182f43bf7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9cd8b25a99ff1f12e32fe6cd90c0870a312513d649125bc33c61eab262e8d69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f140b8f4c10462a6492b4fbcfa4c588929c9d05b4217b328c4c8fdfd223675b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5248d86916b2923291f73b31f9b718d2d15acd019e46b56cb92f422e13b05239", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1158554ee66c10f393bb1db854357c387a842b943916e16df43cfb05a00fdc52", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f0c399504b3fd8ed811f1b4db76de777b8159d3413ad7384bd74aad97b87bde2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd3e4401e1446d92be350ec853da3bbb740a3cfa600582e100e643bbe5fb526c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77020a2a43a0cc493a4b058eb5ebd5bde55cc0e16c1287ed82c3e7d0e1da0bdf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a873f0c556b8957a07e106bfaaf264cbe42ac44b2c169d0fcd876e794dc6b2aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df7a219ba7451d9d8a9f521aa46c039131e4787e3f105fc8731a0c47b76326d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "326100a91252c1d46fcaf6719f2f77bc703caf3bf0c4421f85829fadf7cf117c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbcaab21ffcb2c2f33e36dcd4c148de38850b974eaf622209df53545872527ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "caf91879ead6db634dd208b57a04dffe8378f64b190d036e8d01d13577e79820", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f12c0864ffa4775de2dff0a108781c74a245e60ebbbbd5b381799f6a9f39fd6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67fe95cffdf7b625d9ccc2ed0521a939a3e24f799a3fda028de581a803178cdd", "verdict": "consistent", "reason": "uncertain: the story implies vector and raster layers cannot be stacked until the vector data is converted to raster. Any GIS can display the two together; conversion is needed only for some cell-based overlay analyses, which is how the story's analysis can be read."}
+{"prompt_hash": "048992254651e945c7c87fafc790efc7998c1730dd7e5f434074e48a17225dba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed51a20e84c5825f3986cdf7a7094dab3305bc4838000fa0515773abbe186817", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34957b35ce8decb213a55f932dba91dc383b38e1478f067960798e691402217d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44a10d7912ca7e371eeeaafa77014b4c51ec274458f2c19ae8045d13c3df1602", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b165523d4c74de2f15b38dec1e7216bbfcaa94ecdd8902f3040a6312fc751d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61e82914cf2ade7edb27238c0d30bc4b42900caf2d835f4de80a7f4ee392c5e9", "verdict": "adds_false_claim", "reason": "'It's been five percent since January 1, 2008. Before that, from when it started on January 1, 1991, it was seven percent.' The GST was cut to 6% on July 1, 2006, and then to 5% on January 1, 2008 (Wikipedia, Goods and services tax (Canada)). The injected fact's two dates are right."}
+{"prompt_hash": "54ef5d30e06845ab8e59789935f32f6f10657c01f4fdac3fae07a47f3ebd57a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0009d88d1d8102b2bab5dc706dfc0660d6a61b6ef3e63f1443cfaaadada45e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1fc1dfc771be0bfa72c629f8f86eff08d3933438ceb357c5e696fffd702eb7f0", "verdict": "consistent", "reason": ""}

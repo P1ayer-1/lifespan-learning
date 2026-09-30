@@ -1,0 +1,40 @@
+{"prompt_hash": "2fee405448a2da6de5ad19cd313bdfde55afc2afc0eb7f17099ec9f46609bdf4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10a97ce2e5f3ad61b7dcc6d482330f0870d3a41c64cba61b48da83c0659c5eab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a276642df356c2d839175fe0078a35ace010684706bf5c3b7527672960e3b878", "verdict": "adds_false_claim", "reason": "'It read minus 12 degrees Celsius... about 10 degrees Fahrenheit, colder than the inside of a freezer.' A home freezer is kept at about -18 C (0 F), so -12 C is warmer than a freezer, not colder (FDA guidance via searshomeservices.com)."}
+{"prompt_hash": "e908e63737bb5fcbe0619aa8bf64331ea9bfdcce27bfdadb29f9afcc3638ed15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4cf2b8b65c1da7479d25e1aa0f0f19bd630c700d74617379cd1371b0c149b2ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6ca6236396ca6afad4637e1c90c665d220c62996ebc4110cc28f1ebec495e88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c8a7941822adaaded2e9932b7a9e2ee2565167468e9930393bf3f7e46e74fb0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62c6c58ed5f6cc9e28bcd0421e7db19cd7ab763f2ce97b7a4c0720e7bbff16a8", "verdict": "fact_missing", "reason": "The story says wind makes the air feel colder and names the wind chill number, but never gives the mechanism in the fact: wind carries heat away from the skin faster."}
+{"prompt_hash": "f18f4be197875dccdcecf532025bb3be7bd366896450b5fce5f2d45e74cd0c2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ef70a85513c563efc55ae063c0c31a2ef171402775e65fc43479679c6d52b5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b79371768cea7c6630039884492c6f44758bfcc7639caf7e58221b31e074ce51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ae09eb9841ef56bee7e896e9b23336f371b53fadf2c2ee683912c3988943947", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f17b11ffb2da48334ffc20fb4ee6a4149076c89bc616e8b6f1b2aefc780c2ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6dff7edab9669023a6c5505493c14587c1624155ab40cdb03ce513467f4f6b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49ded4712b056901d46c0717a5dde40d72a4411ed58cea25285e56458a8317fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65d963115b2426dab03fe001ef7630dcd1780067d070d43939ec467ebc0e8b01", "verdict": "fact_missing", "reason": "The story says there is a middle age with a wide normal range, but never says a large CDC survey found the median age of a first period in the U.S. is about 12."}
+{"prompt_hash": "f24ba7d7a3167a46749796292351a7caa928dd3d3f5f09837f7dfbddda404632", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b8fd986488a4e8e9e79071c92471a9c845329462ee84725e3482d65a5870fab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98d7781c56332a7b7407b9eebd4a41bb83cb758654f6b1cdec8d19e8a67f2c24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de642d747fd31f416cc7057efd4631b48c1d3500afa1a2413abf8a734f42bd70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1489528c0177132513666d8cd6821d81b97c9d4e77c0f5066595c07b8b7959c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fec482a4c9906332d3d064cdf6f11adad170b33968aed504278e7fe518893a15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63f7cdc60ee0c00dd80c2aaaa2d2039e125a2fcaa669d355329e17cae33b498a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89f68593978876cd4834b27f37e742dc98735f621b2c8abfb7067c9d25e3d963", "verdict": "fact_missing", "reason": "The story shows one family slurping and concludes 'it wasn't rude here', but never says that in Japan slurping noodles is considered acceptable. Japan is never named."}
+{"prompt_hash": "6f378e2cd0c2e37eacb83df364347b82b47323a4ac6aae83ea4708bcbf1fde65", "verdict": "adds_false_claim", "reason": "'\"That's not where cartilage is,\" Ella said' about the elbow, and no one corrects her. The elbow joint has articular cartilage covering the ends of the humerus, radius and ulna (eOrthopod, Elbow Anatomy)."}
+{"prompt_hash": "41e9ca52b8961a0ef4f4c8b6979eaee950a9c5e97c136e7d7771473dc7dee14a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f08e28844b4e17518e25cdd147e7b6fcad1cdbe699cd42d144cf88083a93f3f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91bd0aeff83a3f2b8306a0a0c06f6b812bf7b0e43f43f21fe7c92ad0dea6a162", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6219a5d7afc9463fbf0ae98f0d6d9f112df957e30b827243181912c2d3e31dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e0d2273160a520c9268b94fe83a0f8c2170a5ad8e2965afd8d40b5e1041041d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e7338c7cf7902dd7a7d3c1dc00edc531f34ffd498e00d64a8d95f08274dbf7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47bca4cb8e446a2b27e29af918ff064744207c118d4ff2ab3022f3723cf71101", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "406c1f3d71fa33fb91820ac10335e22483f2f6ad274008a2b31a8d77ba0a05f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5576f7e9029b8665cddd152148508498ae696102bf726c908dda97278e6f237d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec3caaf31894aff673940064bf3be6d82ba13e4632675dce9c229c3eb44a1445", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3b023d41440b6c517f947061680170f9720a15d7c960f54ee69f7d39e5e18d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6012251d073da3e13eda1b44c29d9aee218e5c8fce154cfb5fc2d73d1a5f3308", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3164946c7c8b7ab1cdf85c6e35ece0d976f5d82ba9cc30b60af23f21943769e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cfdfb3b35c70ab777bac5818d1e330791247f89ebea4894f83aa64452bbf910", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ff6a7135667ab974c7f5cdcb6cd7000c9efd49892053d5b78fcd392ab16884c", "verdict": "consistent", "reason": ""}

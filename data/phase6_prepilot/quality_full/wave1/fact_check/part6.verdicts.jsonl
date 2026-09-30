@@ -1,0 +1,40 @@
+{"prompt_hash": "9bfe5f1aa7e42c046eeef3cb6fc82bcb6aa21226d269e408ef3586cfeb1aed34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb094e4e372eb46addeb77a2fe5d45a42727055aaa6fa2fa9482bddca6e55937", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "644a1acc3f3604ba50365aa6219a37e3c0ae8367d93a9cad34f32e96b9ef0778", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8838512b0166dc3df5816b9a456c8342a030132427c598cd242207440a82eb7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70e842373a86cdd31b2cfa85f98194c9218697db2d5e203a1606530247225a81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e59be9b05cca1a82102a0790582cc016a7b239cdfa2da4280e4a8bec7f082846", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad260e0aabaa6bcb64501d9a4286e034f41b65aea322237a244a8d4c25afd536", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9920dd4cfdf2b5fa4b57d6030f160a0d0d56df6c46d5dc13b5578b94d45a9683", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7c74a6aebb42c48612ce1514308ff726e281c3a78d80308aa4652a984eb7a0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "850da432cfec95d6703224281835b7b7ba7875a34a58477478a4ea3ee34c4460", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28e0c25a1e1fc19b97f471157cd15b343cc393a08270a9761514baa35f7a10af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93aef94ec14df0e7a08304839bc8f375442713fa2edc0566c2c3363a7ddb1910", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9ae67e094760cb67e44af7f71d8a4ee3454adfd13fa6ce1e9e76cbc9f022366", "verdict": "consistent", "reason": "uncertain: 'a book written thirty years before you were born' - Manufacturing Consent was published in 1988, about 20 years before a present-day high-school senior was born; story is undated, so passed."}
+{"prompt_hash": "c15e8dfa90adf5c0a2b516c2c43345afc58de7d59bc1feb126b4cfe4efc0c393", "verdict": "adds_false_claim", "reason": "'a single blood vessel connected them, winding down out of one heart, looped through their joined hands, and back up into the other.' In The Two Fridas the vessel runs directly between the two hearts; the clasped hands are a separate link, and the vessel's ends go to the Diego miniature in the right Frida's hand and the surgical clamp in the left Frida's lap (Wikipedia/Sartle/Britannica descriptions). Also the Tehuana dress is not 'reds and golds' (its skirt is olive green)."}
+{"prompt_hash": "e1a3164db076f4adb2e52ca5427613dbe481677550e0d36974e38cd454b60465", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d055d779a5ecd132e2a18764407b520312670dcd598e329ff60b52cc0072b6eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "017b866bd8af19a56dd212fc4d8dd6721b33247e71e937d544b19c18de7686e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cfb2e7ef81077ccdbca8742fa51f6150fb6948880df7a55f1c06a978c7bfd34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9ce4ebb9c8a2a5c2dd2093626a6078c31655f998d1c1034f80b56850cedb463", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "725d93e16a5fabf8bae13f97546373fded3746c9fc300c1b9fbc46c43be3e681", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "656c62708c6beeb8d5d4245b38872361a99db51b5910dc31c4b1870f5d8164dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c93bebe6513519196ae4bcfa019cd02d40cf5abead21c2263801310a5271096e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a18f4c8d60b66ca454ae10452fa343d707653cb0df822b0153dbf2aef07d74ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c55c411ffc89b49e6616fd246b1082c78d5befb73069ad3d6a3c821032135e81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "368d98473e7a5cf1a53d3ca47c12d3bcc9858addf5980a64a64bbe6ac50da47f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71d2cbb42040b4e8ee61ac67171414df30b598000edef0793464b5b708c17453", "verdict": "adds_false_claim", "reason": "'they could pay the first month plus the deposit at signing, twelve hundred.' With $900 rent and a one-month deposit, first month plus deposit is $1,800, not $1,200."}
+{"prompt_hash": "c4aca9f1db55a6cd3758392c78940bd29d3252643d11c6ca9d6a8d2faf1dd0bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72a1663b931ac05db79fa4fbd16f65088ddcc67f28c4c1ad40e1749e2ca3bdd2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "30d9d6ee238e213f601bcf41579e922e50078d95e62698528dfdcdb17ac7c5b1", "verdict": "adds_false_claim", "reason": "A 17-year-old signs the climbing-gym liability waiver herself and is let climb, framed as valid informed agreement (the story even lists 'sign when you're eighteen' as the alternative). A minor's signature on a waiver is voidable and gyms require a parent or guardian to sign for under-18s (nonprofitrisk.org; standard climbing-gym minor waivers)."}
+{"prompt_hash": "d887736fbbec9dad66422bc7e4420c2b2ead2c93507f10e76b73e8275064a6f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01092db48a192d5bbdbe175e3f98e51e7bea04e026d27ee855665227f2f19122", "verdict": "consistent", "reason": "uncertain: biology teacher would call it symbiosis 'only if both sides benefited' - that is mutualism in most current textbooks; symbiosis also covers commensalism and parasitism, though some usage equates the two."}
+{"prompt_hash": "2e91b76ed75405a8783f431c00223abc02c46bf52f7dd68a523fa97d820d7a12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51dc5d7516598bc5153b2e5966a536989b458dac606f315c6fc7d212758f2c4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca0dfbc064459b258fa2af581accdaf4928ae2044ffe0807d28049a3446f22f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d62881bbd1a2f4f385a62f4fdc20a167ef0e76b0ff997cf5db035f0242efa13f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5efbb6d99db539d452d6ab61f1647f7553ac3fe6640bfd64a6f9dc866e5edd35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b336782f65dca4949a27cdb0472b19e45777132c2ef5ba00d2b759777bdb8a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "144a49a1ced16f605bc960330cd6f8d370b4c2acbea45fe23b6e1bee430b0896", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc80d1eae2abd6f4804bf7d3e47692608d666661612ec211075be285842f62cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d8c845f008140b4dd68dd3f321d13e678b01a8dea059666aff0bb0dc99c2358", "verdict": "consistent", "reason": ""}

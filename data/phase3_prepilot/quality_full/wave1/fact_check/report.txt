@@ -1,0 +1,2 @@
+440 stories, 440 verdicts, 0 unverified, 64 queued for regeneration -> stories.jsonl.regen_queue.jsonl
+phase 3: pass 376/440 adds_false_claim=51, contradicts_fact=4, fact_missing=9

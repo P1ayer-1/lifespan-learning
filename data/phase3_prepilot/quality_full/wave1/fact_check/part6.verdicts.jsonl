@@ -1,0 +1,40 @@
+{"prompt_hash": "060d8f534344b285bd0b5bebb196a5f9d3b416251d246047970ccbb8e28ab28d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5ed850db00e47cfb1b5d2a04929dc484d24dfce28fb19d573e08d5859d87ec0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2fe2ea953812ac67f7d75171fa1f8d7be1cacc4f5c72dd4451b133daba9b8649", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4096c89e9a8a65c36e47bcdc8c31bc6f2efa2275ada10adb577622ff4bfa900f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9cace4e3a0860be6f18f93e36763a0a8c71d6ae688192cfad52f1af877164d4", "verdict": "consistent", "reason": "uncertain: story conveys what Snap Map does but omits the 2017 launch year; judged a minor omission, not fact_missing."}
+{"prompt_hash": "af79366b9e2724227c522fc9edd59f164e03b8d010f5cdc0d468bf0ebec5e9d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c9f7658d63d90a1b5288716b1fae133abb7c38f62a3b001ca134990dd317b58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "479ee12989a2e9c797270ff48510c0404ae6e9e615691c8e924758a5b8119fe2", "verdict": "contradicts_fact", "reason": "Right after saying four-year-olds pass, Priya says 'Little kids just can't believe Sally could be wrong' and that 4½-year-old Marcus 'doesn't know that other people can believe something false', and the demo treats pointing at the fork (where Tyler left the treasure) as the failing answer. In fact, from about age four children pass by saying the character will look where she left it."}
+{"prompt_hash": "aff5ade87057ce98b17dbd4b7cdea1b5d956ac6d4a3926ba1e674e82d2ce76b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7d8364a9e8efbb0420ddd2b90fced8d32af6c0587aaf07db671424f95980947", "verdict": "fact_missing", "reason": "The story gives the no-honey-under-12-months rule and says spores can grow in the gut, but never says this causes a serious illness (infant botulism); it only says honey 'could hide trouble'."}
+{"prompt_hash": "2eccc4631108390761502b0ef6383e23bc9b78fa5774da63c34d29e9a9bf6227", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "030cb8e2ccc2002b12feec12f9329e5b6615170012b8640ff67c126156909e45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cac56a5a224d5e59a61caa8615fa2e8532cd807990dd68e1f722a0ffc9317a7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08440cddd83a933249a249900650c33a3a741403a89fcfc2d4304e9acd555411", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aaf976921e211e7cf44ef4b735ab434aa7e6eb458b0c244826918a3084ae8ed3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e74f402888d37b8ad7259b640d4be63561f373b9dacc9180a822da83566b2c03", "verdict": "adds_false_claim", "reason": "'Penelope's number looked bad because she took the most attempts of anyone on the team.' A shooting percentage (makes divided by attempts) is not lowered by taking more attempts, so this 'because' is wrong arithmetic; it also clashes with the story's own claim that her practice percentage beat Roni's."}
+{"prompt_hash": "59e8cc5b2fd5b5a0387f510efe65853839b4681f28e60d7d3fdb44549427bda1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80a5dded96b69f681d6045ee05850a3356a20d6d80511c8faa5a433e71a170c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bb371222e7176087a78d271e5e1212fa39b573b8e4fc4c09d356331cb361ab2", "verdict": "adds_false_claim", "reason": "'Nobody could watch the beaks changing over generations.' Peter and Rosemary Grant did measure it: after the 1977 drought on Daphne Major, the next generation's average beak depth was about 4% larger (source: open.edu OpenLearn / Quanta Magazine coverage of the Grants)."}
+{"prompt_hash": "5679b990781ca952dad00423e4d91d64f428107e9bd4858479324c4978eca3ce", "verdict": "fact_missing", "reason": "The story never says research on expert performers found this. Targeted practice appears only as Jake's own wondering ('He wondered whether hours of playing a piece mattered less than aiming straight at the weak spot'), not as a finding."}
+{"prompt_hash": "41b7dacf5b47b4efb2266bac8ac2677b193df2fcd285acbb7364efc945e95b8d", "verdict": "fact_missing", "reason": "The corn/bean/squash roles are stated correctly, but the story never says the Three Sisters is a method of Indigenous peoples of the Americas; it credits only Mrs. Okafor's grandmother."}
+{"prompt_hash": "1b224911d505b208f9a65fc7500db40a72f11443a62b58d104ed5fb857d843f6", "verdict": "fact_missing", "reason": "The story says the eyes and 'her insides' disagreed, but never names the balance organs in the inner ear or says the brain gets conflicting signals, so the fact's mechanism is not conveyed ('insides' suggests the stomach)."}
+{"prompt_hash": "6cc5445ac8f84b27f31366e3be0efea51b2c0fef119cbb838726f669b13e6eca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06c25bfab7e98181a459f3053f70d41e5f6334be30ec715cc13f49f2bed0ba24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e9a7a66c926fb83b990b44a119ac7263878ba82410c2c2d2c2e4224f57eae6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9ef2c298c244d2b35ccd8055fa3fb94528bb4fdeeb20b748915c7c5b9a37bf9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5178f4964be0eac847551085ce269bbca9d5e6f63f9c255122f22ad353b42548", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f8c0f86666b936bb69ac1bd07f190e73bdc95a7b84b5e1c1867d1be5ad7450d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08608ff8ce23d640e65e9a0f562a7af94f420faa062862b7551b7a407d2ff513", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6feac80804a19c2eb51c42a3837c075ef41d5b8bf301dedd3cbb562e283941a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d77ca5d026617efb67f6ff589c5cbeda560ed52e6b03d16890ac7fac5ae67b1b", "verdict": "consistent", "reason": "uncertain: 'This one has a little paper inside with studies, comparisons, how they tested it' - OTC store-brand pain relievers usually carry a Drug Facts label, not study summaries; judged a minor aside."}
+{"prompt_hash": "979c565630adfd4e3f0e5ac83991ae3674b1f4b9caee357ac5e57446669e9bb8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9038c914511a64da7e525f70efcda1f0abbe56eae92318e80eb18875ca241f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6ec23db2ce9909984eba7676009b9bb102282caf9923b64f329df9b12985aea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8131707eb72b318808004b4b3cf7e80b1f4334d27f43ea8d5ee15f3b6356a4b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c2c2a6af013692b56bc21483ce621fd793141b35450aa8d420e1f38a17324d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f0281c25c41ab7ffe2ef227c1e526e8ba0deb2dd6e22e6cb750c7da28ce4b39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43662a0880aba94f21f1b86a703ccac93cb7451a92744662efdba4aeecf94b75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "704f5069e400e1b7dc99d3e617b0a8c14a7ad857e24210abebebab5a0baa5e58", "verdict": "adds_false_claim", "reason": "'A front page from June 1871 with a photograph of men in dark coats.' Newspapers could not print photographs in 1871; the first halftone photo in a US newspaper was the New York Daily Graphic's, on 4 March 1880 (source: historyofinformation.com; Wikipedia 'The Daily Graphic')."}
+{"prompt_hash": "90771c572677ec3a07f534355a658c5d83251f845c789dc163b26354edcfce8c", "verdict": "contradicts_fact", "reason": "'I don't think your ears are the problem. I think the background noise is.' (and 'Nobody ever told me it was the noise. They just kept saying I was going deaf.') The fact says hearing loss makes noise hard: trouble following speech in noise is a hallmark and early sign of age-related hearing loss, not proof the ears are fine (source: Wikipedia 'Presbycusis'; hearing-clinic pages)."}

@@ -1,0 +1,40 @@
+{"prompt_hash": "cd754b50c6d6c998086544a5e0b8ff1e368a68f6a3a88ed5f54832235901adcd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fbc9872b57bc39fe3033422643f0d2d5d78a958f6a771a88de80946cd838b783", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4dc6e1bcf5ef8c13d8031b9ab4cb3b4c2ee936a79b56d9b8b92d4e230f40118", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb10e97a8dd3a2ac2d1383fa6c87f742027e63624fe61b0f1e75a3819939f481", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54c66686d0ca936227732f98feb9c55f64c696c006762ff01a1c950be2bb0506", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ca0ae29f845abc1e1144c891826b2da1415e1f6e61429cd4467502251beb5a6", "verdict": "adds_false_claim", "reason": "'I pulled my main tuning slide out a bit the way he had shown me, which raises the pitch.' Pulling a trumpet's tuning slide out lengthens the tubing and lowers the pitch; a flat player pushes it in (source: trumpet tuning guides, e.g. tomplay.com trumpet tuner)."}
+{"prompt_hash": "9b0bf3366927c68cb0c4af62d678a6d269e6153f0c69eb98298abf2ae0c09aa2", "verdict": "adds_false_claim", "reason": "'It was always ten yards ahead of wherever the ball was' (also 'on third down... ten yards past the ball'). The line to gain is set 10 yards from the start of a series and stays fixed until a first down or change of possession, so on later downs it is usually less than 10 yards away (source: NCAA Rule 5, line to gain)."}
+{"prompt_hash": "dc9fe00d529aa72e559eda8a795cf9706e3f94e380947049d2c63bbffc494cb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6392de040b0209d4cca1a240b346c97067bf98c32bca2425b7e09001fbd7af81", "verdict": "adds_false_claim", "reason": "'pushed the sliding weight up a few more notches, faster than she had ever set it.' On a mechanical metronome, moving the weight up the pendulum makes the tempo slower, not faster (source: Wikipedia, Metronome)."}
+{"prompt_hash": "dc10b06f141b859b4ae0d61596a183e96c61ed898e2417d98238cdbb4fc91c4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "deb96802bde6bae8f86932bc41e462b7321fb9b4f4fcea36ca5c780ff3166f1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80e642f00fc96f497c23533c8bc0650f6de3340988231070ade98b88fa473c32", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea5f0be6d2791eed196b0858dc5f06b502d827b7dabbc0e098fe10f018e54ffb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "636c043cef4ee91eb268e589c77afaaef452505d0f7194efa659095967fc9eaa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc52bf46f883748c92a1642a5e139b9159b30e68384293336d6e9d2155b87810", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c71a69063f6e65332c44187562476a257ba62e5677f499d29f810fd581991e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ef86ca97ded62ed1c38dfd33344f65aa89d2c18e79539cb58129be3563e54bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c914120b14332cdf833b2473cd5cc71ad46b7dcff3949361171360e14c96641e", "verdict": "consistent", "reason": "uncertain: the roast is pulled at 125 F and after about 10 minutes of resting is a 'flat, uniform gray-brown.' Sources give carryover of 5-25 F (Wikipedia, Carryover cooking; ThermoWorks), so this is an extreme but possible result."}
+{"prompt_hash": "2a7e8f7d4c95ac8947648b8759051c527682a80852e3fa7eaf9d2c337f8c2445", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ce96d69b3a0b3b5ab4031d1d2ad4e8def9257ae54291c05b29d7641e421e18a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "deff87bbb3d1fe847a0dfa7ff0e796aa2dc0bfc060ed15ca5d7b7ef79d368df8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9310ce444a84f7b87a9fee80ce8f59281374bb9eacb68f34c6c0f3d9754779e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af4bca5e0c52fc7860cf449f18c84e2b23e583b29d922c79f2112db7058e6387", "verdict": "consistent", "reason": "uncertain: the painting description. 'The two hearts were joined by a thin red thread, held at its midpoint by the small Frida's hand' and a 'horizon line' do not quite match The Two Fridas: the vessel runs from the hands through both hearts, and the Mexican Frida holds a miniature of Rivera at one end (source: Wikipedia, The Two Fridas)."}
+{"prompt_hash": "2bced17631bd96f2118dde54fe36d2361a4fb484a88ee62135b3777db94ccd22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ae3d0e5634499c8d496780053d7d3f6bcadfbc78fe1977fe8ad651c0eec6b54", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4c4bbf14cc120c7d15e38deef0cf3a948459e436e63688d03206642148b154e", "verdict": "adds_false_claim", "reason": "'in a fifty-year-old paper's small collapse' refers to the Los Angeles Times, which was first published in 1881 and was about 143 years old in 2024 (source: Wikipedia, Los Angeles Times)."}
+{"prompt_hash": "fc0f28874c3a9775f59dd68269075741d8f64714432d3d98549732440d1cc6e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2158cc9b82e822b5fe1151a12cbbeb061dc20e7e21e3f27c76dd081c3a8b4989", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "015152c7def6704c157e7df24c8941c22bd128b70b37e849ef607b053923a6ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25956553ff264c7a5139549940db4ab80cb5e74fd98765f9a7c6cccb2f7b78fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "636bd5d98b8b58b4bf0cc0b30c1262b35c7365966c5b978e0bedeb0834a85e35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "765158eb62374551a4a9792e9596c87b75bd571a74fa121266ed0a0765f130bd", "verdict": "adds_false_claim", "reason": "The story says the two answers differed 'not by a sign flip but by some stranger wrongness' and then blames Priya integrating lower minus upper. Reversing the order only negates the integral, so that mistake gives exactly a sign flip."}
+{"prompt_hash": "66777df81489944bd5e91383536c2368f664cde93289ec8e809ec40e8c08ddb1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "651dd5f6c4c2fa35111d4ce8ec56bbc875f932fabe064c80401ad265dc056dae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1c6d801a57830f29e4de9cc7af967b9e1c8997fa30518516a2da43a71d640988", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "230ff4f772923c41ea8f09c7958e6480be3bcf65c5cbaaa21e53eaa3702abbb3", "verdict": "adds_false_claim", "reason": "Priya's mom, endorsed: the missing 13 percent includes students who 'graduated somewhere else, some moved.' The adjusted cohort graduation rate removes students who transfer out, and a transfer who graduates counts as a graduate; the 13 percent are students who did not graduate within four years (source: NCES ACGR definition)."}
+{"prompt_hash": "1e75b4012d1cb3e45a83c60cb4390d09eb57e649e67d16fbd8447cef8a25f105", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "346c5268b8de53475b55d974231698526235fee9cea0247418d17783dc078f1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c242c5e13f24944fbe47ac2c06aff66920fe45010f5f50691f9c0374e9d8dfdb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd68e1eee1f880a1555b54c5cf9ac09c413830c9d13d06e5aaf8643b2433dbe9", "verdict": "consistent", "reason": ""}

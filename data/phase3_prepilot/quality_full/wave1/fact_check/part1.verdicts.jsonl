@@ -1,0 +1,40 @@
+{"prompt_hash": "7ff6462409d295263beb6b7d6b628c9cea6b2af712dbfd3b2d80eb7b228a4ec5", "verdict": "adds_false_claim", "reason": "'\"Nobody answered.\" Three words.' \"Nobody answered\" is two words, and the story's lesson is about counting sentence length."}
+{"prompt_hash": "e83f25f477fe12346a75e0206a9b245e39203bf150f6c1ca6d336bfefb0c892c", "verdict": "consistent", "reason": "uncertain: 'In the mirror behind her, her bedroom door appeared on the right, but ... it was really on the left, because a mirror flips things.' A plane mirror reverses front-back, not left-right; the scene's geometry is unclear. The stage-left fact itself is stated correctly."}
+{"prompt_hash": "889da287d03c3d28aa6ec66bdc9f04250f443a2cd9c1410a8e25f5b054e5960b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9aed56fc84a6573c26c101af2d4502cb88379d801e2ea25d7a92752c1c2a1cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d76e9fc87a374a97be5482d87104ccdf5663bc3bd98077c0ce76e1f955381b92", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62750e497dd62f3dc027553027601f236df56cfd980cfc7c0db45ee53b304b18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fcb0865130c485632813314ff24a07a06c7e9a6d5e260dd9366fa447067d405", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df75f5b7403e01254900884f78e2850ca573cdc4aea7b84630ea90954c640301", "verdict": "adds_false_claim", "reason": "'Spontaneous combustion in the engine, right? That's what makes it go?' Marcus said yes... fuel burning all at once. A model rocket motor is lit by an electric igniter from a launch controller (per Estes/launch-controller guides), not spontaneous combustion, and its propellant burns over a second or two, not all at once. Lee Ross 1977 fact confirmed (Wikipedia, Fundamental attribution error)."}
+{"prompt_hash": "991f93f34f5b86ec3f09419fc4212f1432a6b0328c3e05b38e7b8ec1f12a1029", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03731b63c0fc4e47044cdd9c189263026fab12dedddddb60b505ea247b489059", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79a73f8a506042523530d459c98a9ac9b62b3560e7e0b1e5f55caf0bcfeceb98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a68c85f813c5fca41046727076c3bbe6728e27dbaa83629fb2ccbc247b789349", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c50a840ad8599b4cee7425d45457b586f53ca7e1328030728ae9c579637b170", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27f4335d802debb6f38f8abd06f507b7d718293ac6051312b464f21debbce2c5", "verdict": "adds_false_claim", "reason": "'There's a winter league with January tryouts. New year, new cutoff. I'll be the old one for once.' With a January 1 cutoff a December-born player stays the youngest in his birth-year group whenever tryouts are held; the relative age effect depends on birth date relative to the cutoff, not on tryout timing."}
+{"prompt_hash": "fb22bfdbd31eb6e618c523f3e4cc512286b09f9220a243555878ce594d6add68", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8df1a05e685ebff5f1dfb3da443454c5ed6854378a1d380cce7b40db3ad2d742", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9dd355a7a189a4ca180a3e5edd9ad66dd9cbe49f69dbc5d07cdbd450a0ff7a93", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b73196bdb8bcd5c8f20c2a54a6c91341828514ff00d9617d5ce50dc3074351b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a212162ec06753f708a3663e5bf8b8891749d462e5212dbe6a96b0c70a92cefe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d4e4623fbec70eb2b4b0416bf30fda481ec53e5a6938c3f2ba67208d7425887", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "caa7916b66376227983c9f4bde7152cb5987341f3f0f40d384e5cf0a0fccc884", "verdict": "adds_false_claim", "reason": "'the little generator in the garage ... coughed to life ... the generator humming in the garage.' The CDC says never run a generator inside a home or garage, even with doors open, because of carbon monoxide; the story presents this as normal. Naismith fact is stated correctly."}
+{"prompt_hash": "1c69f51e6b0d9fd3500e6e5426e642f7e2b0eb45d83787ea06bf8af976098614", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38cd3d2dcacfb19ae1435636fcb603cb266c6967193ec50440e62fd7d7723af0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc2192b638a88db7bc2397c37937124373b0b836069ef2d158b0fc827ac85905", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27b89877ed7fbe7b4ff2ce36f5900b2fb969ea5379b25d5a1c3f41dcbd279807", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "557c35d729a9108a6b1da81ac045022fc8e328b0458878333c126ac4e84a89dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ac49df59bc1e6060a60df37ade1e28aa05b2be446bfc0d87eb439097b9b8acb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e4a36a591c78903774ec1421605dc4500058fa16a940dc9f9ce8a83bbdf1a65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a3b91864d5720358f1e43273d61c31fc6e6cc9d9ad9d4b3073282aba130d1a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34fb3ed0dbae7b41d66634ae427b1a58dde37256b1cf9cd23e2547c4e413577e", "verdict": "adds_false_claim", "reason": "'Four goals to two, which ... was the equivalent of a two-goal lead the whole second half.' Argentina led the 1930 final 2-1 at halftime and Uruguay scored three second-half goals (sources: goal.com, malaymail World Cup history). The injected fact is stated correctly."}
+{"prompt_hash": "c604979028a5910cb3a3ba302dabae995a181183aeeb8862ec6ceafa2a2f81bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b44d41b81dfefd72635c80a14233cbe68d6c6c3835522ba77a9ff9bad3f4d46d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f1ac24d827b3aab479186bc57413a800d6c22be79b05c12288b615c7778c8e29", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02d09317e470de3517bb76472d675892e77bb4f78442822ce0053dfe1bfd3cc6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "233d9057621e01715cc39bdff98685afa8a706f222e3f9913359eb87efa853f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d8b045cfb1cb54d78cb36f113dfefec261a5f2eb2a37cfeda14d82e38e529ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c67e920ec9bbae1384aa58a1757bd2b8ebae63f0b7c49ab7e1b6785a637d9a5", "verdict": "consistent", "reason": "uncertain: Lydia's plan to 'Carry my backpack' with her freshly broken, casted wrist goes unchallenged; doctors usually advise against lifting with a fractured wrist, though finger movement is encouraged."}
+{"prompt_hash": "787098c572d0b762f484400995136885f504abff0c07a525a2994a2929fa73f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02a985110bbb8e4e8c64d62d0702cf7960e3f784aa1ccd8863dc199cc58b6a87", "verdict": "contradicts_fact", "reason": "'Six arms. Every single time.' / 'each one of them six-sided'. The fact says snowflakes almost always have six sides; triangular and twelve-sided snow crystals also occur (Libbrecht, Caltech snowcrystals.com)."}
+{"prompt_hash": "3cee89fd47f2f024b1f6f90266a399b58e8fb4c7ac7ad711d4365a85db33663e", "verdict": "adds_false_claim", "reason": "'He had opened it five times.' The story shows him opening the fridge four times (first, 'again', 'And again', 'the fourth try'). USDA four-hour fact is stated correctly."}

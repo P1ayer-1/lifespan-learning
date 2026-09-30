@@ -1,0 +1,40 @@
+{"prompt_hash": "dbf8899562f1520582b4eebf69f1d4cd10c22d17873192f8c307fa7a6a081155", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d060dfac430ca48bc68fe497910c10ac747abc9937377b500c78086de5f737bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fc825373b4987f59c3d526fde853443d1dd699a6fe55df35eb1b0f7dd56352d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12ee999786e20ce244033e7a72248f4e67a84ccd34183934de85e0c261a9ee7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5887638438ffb22d23e6fa2023ff9ced57ca6ba3baa4fc2ca5cd55333748bed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "846b74e146e795ef2231520f53546040ccf90ea6bfcc06bc17f790847c1244a2", "verdict": "adds_false_claim", "reason": "'Eight percent, plus the provincial part.' Ontario HST is 13%: 5% federal plus 8% provincial (CRA/Ontario.ca). Also: a 16-year-old's stub shows CPP, but CPP is not deducted for employees under 18 (CRA payroll rules); and 'The bus passes qualified' is wrong, since employee commuting costs are not deductible in Canada (CRA general rule)."}
+{"prompt_hash": "669113bee04c3fe1135b2c2c88cb397b8110caf5d4e6308406229022ea6a5e61", "verdict": "adds_false_claim", "reason": "'...how are you, obāchan' is said to her grandfather. Obāchan (おばあちゃん) means grandmother; grandfather is ojīchan (japanesewithanime.com)."}
+{"prompt_hash": "ee18753563153669f548cbc4bc65f7e16664b437bdf29a907e2617a884fb0745", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3134551a23fe82e109a5440bace17f0edc3a68ad182ca1e430afb6e538d278ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "159609d480633a2fb0077ad75522e10954361ac655f12ba2ba185d2982f9d62c", "verdict": "adds_false_claim", "reason": "'his two hundred and ten dollars, left alone, would quietly become more.' The money is in his sock drawer; cash kept at home earns no interest and does not grow, only money in an interest-bearing account does."}
+{"prompt_hash": "ca3f262dc89361e3ed022c459ecf73e2e9f6719ed7d80fc2353650369bfcd57c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1f30c5e1fc7407f740c5512db2d5f506904fd1bb27f7b56f6971d388001479c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "acf86b297a1bb8b0ee2658c3d4a0d18ad3eb1dc6d9452435abafdd700b1cd0e2", "verdict": "adds_false_claim", "reason": "'And I don't have EI either. I have QPIP.' Quebec employees still pay EI premiums, at a reduced rate (1.31% in 2025), with QPIP replacing only the parental benefits (canada.ca EI premium report). Also: Noor from Quebec says her stub reads CPP and Ava's reads QPP (reversed), and 17-year-old Ava's stub shows CPP, which is not deducted for employees under 18 (CRA payroll rules)."}
+{"prompt_hash": "756fe7afa0abac3cb4212ace8a21131d851c9e49480126b0d54d258055f19147", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f02f0e423112bb506f52b3e73831ddf0e5f789777a8c8394eb50c71bf04df5b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff0410c0043fee1bfc16500983818b7660acf71b700340e4e3d01cfcec5ebe00", "verdict": "adds_false_claim", "reason": "'That's not even.' / 'That's the point.' The story presents an odd amount ($35) as the right red-envelope gift. Tradition favours even amounts, and odd amounts are associated with funerals (Wikipedia, Red envelope). The rule about avoiding four is stated correctly."}
+{"prompt_hash": "726a37c035ec3924e5bb0167e4dffc9cdee76b59e43c4c4aa8324e081c5e2504", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab3a6a157e18264225187b2e62a27fb60dac7ba1b256af4e86eaf643bf11ff5e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac6ce1b11972c645a6645a2da84ef0642b28109ee60f6cca0515463450fa0533", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a22f531fc651fb181817caeb1b637061725967050ab9821c8e1a8ae284f4e40c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01ac867f69227cac14c763c38c5d0f6b7dd8caa033571360077d08a7e67eba6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abed9fee488f8c0e3c95176d28879a38591177f304eb1cfbd99c5babead94241", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "170496b55e2acf822c3a2b2435e2a2c33f827f47fc5466ce540ee24b14b658be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c930d4e50938cf9a456e58b59e3e9ed768ad4ec8918328e0fc5136d49376ccd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c043fdadf61e98fac2c00c26cd1933f24674c3c3f7112e83da983f82066dc1e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b406fea99c48c7d3863b44a0c02ca08b1156506c94811c6757deca193a0c386a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aea98560cd5f86b0884a881a4dc0487a331f59e8d995ded18e786e9e2f960469", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50d83f6a57f68cb6d4da79ca33d00ac962ec322ab0aea7a922864d79378518ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5dba654206eca01f66342eda20855ff3a724cb4321a2dbdabab92c6c790d258d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a829c6045e23d5e54013f660854e1215f7768d41c87267c26229a9c56a06c98d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c08ee84b0f846b7c60e3d1bce23329d49092131f27ba892c4f36575c9e78d0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c298e9b8e76daf397f6e15cfaee3e42e53c95e8d8b6d83b3a20c0f5c1a6b8da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f90db98dfa792cf4d74f1c221496c7f02c91d9f47d3cb44cffc33cbae1959b8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e9e52c3fd92c71675321d9ae370f1d9cdf1c0572dc23cb13847c7fc773f4425", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c15da3762a36cc1d2b0b5d7363115b89aa19292262b9628e874b2041f4a48c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03b5d61340ed73a65f4763c86060fea242f53ff2c5e9448989994bc941c131f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b0142ee909ab113309b4d43141894bb3fc1f37f40cba38407ee12ee8982989f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f541f98271f6ba7142b68c5f5b6ad836ab555ac34a0bbc5e437001c07e67397", "verdict": "adds_false_claim", "reason": "'Six point two percent of one hundred seventy-one is ten point six zero two... The number was the number.' The story treats Social Security as the only paycheck deduction, but employers must also withhold 1.45% Medicare tax on all wages (IRS Topic 751). Also, a hardware-store cashier hitting the Social Security wage limit (about $184,500 in 2026) by August is not realistic."}
+{"prompt_hash": "b38d390326bf93283391de2f001a639aec6f43aa4e5009a570468dfe32e599b7", "verdict": "adds_false_claim", "reason": "'You're supposed to charge HST.' A private individual selling a used personal item generally does not charge GST/HST (CRA personal-use property rules), and the store charges GST plus a separate 7% provincial tax, so it is not in an HST province anyway. Also: 17-year-old Jasmine's stub shows CPP, but CPP is not deducted for employees under 18 (CRA payroll rules)."}
+{"prompt_hash": "2b81bec12502e6a5e62e7d7d0e974212cee073eb6fc59ef65594bd7d1fef95bc", "verdict": "consistent", "reason": ""}

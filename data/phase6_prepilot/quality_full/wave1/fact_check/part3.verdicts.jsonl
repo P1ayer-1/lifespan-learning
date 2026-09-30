@@ -1,0 +1,40 @@
+{"prompt_hash": "016e1dc72846cc8b3045f2355f47f882723070740d72421a56b976b09f12f40f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92ff7f1ffcec9eb1e48cfd89076e07aaf37173b9fe778101170efdc4dcee05be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da0a6860d8c289d86b896808bee0814996b1f6d9cd3cd3a776cc22a6fa09a05d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a1c3c5e469040b0d749effbe23f222b32764b7aa217180d08fc46d56b46b4a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c4be72c9c658c5fbb445c1ecf12d5cfad237fa615e90544a1068c149d34d5b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70af7fd67c9784be4a800ceaff77cf7c11599cda0014195a6aaebc826bd247e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e00aa45da14d12ba9573be11f2bf0a53ab5cc8f98ddb5d3efa7d89eeda9eb10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c7543561f0b60e9d0bcd9ef07b28c27ff38d87962d7bc84dec272112ecfb529", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17fd466c0ca40233a76e5602967393593972ea7b64ce5376dab6d143c233ce1e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "acd9cf6ebc03c57a295cdb8b05984d0c485e8fda41f56123b0b5066fb634d0f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95d757db3882081810a4f126f678c2e154660b03e50beb662d9228d589edced8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "488067f9f6e1cdf0fe1e676dfccc434817a087277bf0a855a7b73b4412fcbf48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "807ddc2aa7b5e2f2eb1d5ab5acbd951d5657d1ff0630f93ba1b2931c1906a237", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c0a8f442099c987ca811e56ddd7381d669b3982235dfe0c8718d26993b2314a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50c1a9c65eeb9de231c8d5649c1539d8dbb5ae83b134393595d3b66aa20e9cee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03acf5e01b99773aab152290c4a70a630fe69ae858425716e52526d15cd4eb80", "verdict": "adds_false_claim", "reason": "'Alexia had already put her hands on the wheel at ten and two, exactly as the booklet showed.' Current NHTSA guidance (see coastlineacademy.com/article/drivers-ed-steering-wheel-hand-position-9-and-3-not-10-and-2) is 9 and 3, because 10 and 2 puts hands and arms in the airbag's path."}
+{"prompt_hash": "15383d8d19bb44f22c4246cc36111822e0b5e1e40bc0bb81a1983fa85122d3c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e68b972bdaeeab83269bb0ceba7a2e7865fa67fa2f9df18e84960613f5a791f", "verdict": "adds_false_claim", "reason": "'editors pushing back on the owner over a planned endorsement, and the paper's editorial board overriding it.' In 2024 Soon-Shiong blocked the board's planned Harris endorsement and it did not run; editorials editor Mariel Garza resigned (cjr.org, axios.com)."}
+{"prompt_hash": "e709bce466ffc44c9240b447a94f6ba196dc5d579ba06fb120fbef2f808af765", "verdict": "consistent", "reason": "uncertain: teacher's claim 'Groucho Marx had one [a guitar tuning of his own]'. Groucho did play guitar (Gibson L-5, Horse Feathers), but no source found for a tuning of his."}
+{"prompt_hash": "a61fa5303c36faac47b7e528a534651858d7b541c30ac21de56d6773b95024f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "920fc2f4645a4e735e390e0f0ff3850d69739f6e29a19bfd9409996bd97ee62e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a68f52df90116f51601cca0a70a6f66c988e29069757b63532ed76197428fee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef2cf54bd823b18b2a7ed33ce86baae37311ab63114c9a231d1c453b2e9a7af1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "508eafc5488319b6e3d3a2c5f25a7081f10958628a7a9f3d6810f44f1cb4e48e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83487a3f73e1b6af6a39f72019a27aac5a983b2488fe44611edcdd3a1e78b319", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53dbcd4c6f5b3975031d8ecbd41f670139847ea1ee0382b71e2ebc95b5e56357", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae1842d9cdf6c9946c34a9ac50a8dd2523d0e30d7e420224f3c62ae39a4500a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5a1299b2eb3ee3c18cdfbdc827269f5a7507120cbb280ca4334d068989c6694", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f07211d3625321160d51c4541a12c895056301d3e2381bc50b672d0667793e2a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1f0a17ef3a562791a1e8d148842a2aceeb291b19546dfe6ffb1314dcffeb877", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "043facc2459447a6df3bd15a2478e4f39ba28072490e75c8b1d329bf53938675", "verdict": "adds_false_claim", "reason": "'She sat in the driver's seat of the borrowed Corolla with her hands at ten and two, the way the pamphlet showed.' Current NHTSA guidance (see coastlineacademy.com/article/drivers-ed-steering-wheel-hand-position-9-and-3-not-10-and-2) is 9 and 3, because 10 and 2 puts hands and arms in the airbag's path."}
+{"prompt_hash": "f0cd3603cff10486a3ddb15fc5ab127d57c267b618cdce7781d98f9174230b99", "verdict": "consistent", "reason": "uncertain: Logan 'sat with his hands at ten and two'; not endorsed as the rule, but NHTSA now recommends 9 and 3."}
+{"prompt_hash": "868a7a46eb0923614bff7953fef4aca248d153861a793209428d2c169cd8c87b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "522a5e23c8f589afb844638a48db052cb6c120dc744a2579c3350ec4630b758a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "55d24347d399c91e85ab1ab1481a691370d6e3548b6a79eb993eac3491542eb1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ea8c6dccfbee51527e4f99cefa8fc41906443b798a720602ce9daff756f5270", "verdict": "adds_false_claim", "reason": "'Not by much, a dollar and change on five hundred.' $500 at 3% compounded monthly for one year is $515.21 against $515.00 annually, a difference of about 21 cents."}
+{"prompt_hash": "9e131c1b2202ef4b8e4ee1f59bad656fca35b013bda2ead355e6d32ae5a1d4f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2793b648a14e0f54ee7db5747dc78ae97e63ae18ec6757f6648ace8e863db419", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3f301efbad9d8ef969e52bd78b44d2d30f6553a1f08bb5119580725fbe6a57f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48e69135d727a4d5b1b651107c27517a7e8d7b6cf6565fecc1f4ae2f1edca479", "verdict": "consistent", "reason": ""}
