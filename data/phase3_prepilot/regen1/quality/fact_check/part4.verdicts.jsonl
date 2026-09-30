@@ -1,0 +1,33 @@
+{"prompt_hash": "faf3e4b578df9daf9a6cde4d0b5a087064d602134516ebbc9272d369236b3b77", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7c5c6edfcaa9b64c958f15d8d0279fad187e4ad595f00cdcc83372b76932d49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0eff7103f848e0640b92f0de77a1e74250948d6e7d9f05919fdd4203430e658", "verdict": "adds_false_claim", "reason": "'Yours is steeper,' Nina said ... 'Steeper line, faster speed' is said about Jaxon's slower roll, yet the story then shows Nina's ball was faster. The faster roll's line is the steeper one, so the graph reading contradicts itself."}
+{"prompt_hash": "1b32c7e2fff6d98ac8ae6bcf80bb25a922f1a72f173f693ac24c507499af44b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5a59b31f53015bafbabec56d6b53258062811ae1dca2d6e6f3eb44258df3700", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "afd29d2ebad01324ce502b25a450308076fc52d08e854ea21a58c9f13cb54e5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a896334149b269ec4281afd87b73980a1280004ac16fac90b3e55a55c579dcd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8103d939b874690e296adc50c5ecb269ac46e73113ee4243fcd5cbf1a79a103", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82972aa20bdd05e92b44a96f121960575dfe9b5acb0a13ebf11352fdc79eb4df", "verdict": "adds_false_claim", "reason": "'He's a carnivore,' the owner of twelve lizard tanks says of his bearded dragon, and nobody corrects it. Bearded dragons are omnivores that eat mostly plants plus insects (Wikipedia, 'Bearded dragon')."}
+{"prompt_hash": "49039e97fc1f232d83d8e345a925f5d2e531cfff9ca9d441df1147893b462806", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c420ea3f8a6a2fdb76b518261560486feceefd6f3125d7d1a0cd922b8fec7099", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "344396658dafd24f93709c67a72edfa76621276f25c71e400e1f2b73884da3d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2443ccc7fdf340418953e96441da9dd2564825715a2079e2efa639e58eaa4c69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cdc96934327659fd00ac6ca110286b224aec4c183b3d3dbc433cec0e341c1a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c589b478a6decc1667b1bafe6e429ae95f1b2f3d2efa535163d709ba9ea214c3", "verdict": "adds_false_claim", "reason": "The count table says 'Pizza won in every single grade', but after 'Show Values As' % of row total 'the sixth grade row suddenly showed the wraps at fifty-two percent, winning outright.' Row percentages keep each row's ranking, so they cannot change which option wins within a grade."}
+{"prompt_hash": "710f6db5c8914017c02d30a626d9627b9f85e919b8bd5c103ea74b54a0998e89", "verdict": "adds_false_claim", "reason": "The indoor track has 'four laps to every kilometre' (250 m laps), yet 'two laps up there were equivalent to one lap outdoors.' Two 250 m laps are 500 m, not the 400 m of an outdoor lap."}
+{"prompt_hash": "42751a5dc3296d3093e10b8e20f686832d87d39545984a6ac5312a448907e2e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68b4699d5582154a9a7ed5222d7405b383c48a3c85f694bdf2084bc3a4ff2010", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c55c4b7007207ede206456fd6d945097ef846baf03d167b39cac48b7cf616f9a", "verdict": "adds_false_claim", "reason": "The bug is that the range 'stopped one step too early' when dividing 'by everything up to the number', and this makes 25 come out prime. A range that stops just one short of 25 still tests 5, so it would catch 25. That bug cannot cause this result."}
+{"prompt_hash": "cea9ced08d9a62460050212ebfc03170eb847db2142bde10cb6838e6976ad514", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76f208b11ab78f72051a605966c45a7669ee346d06242b81520882768237c2d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7d9c09ed4db8f960501fc6122d10fe70c483f10892078b2117fd12405ed56c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7bc6b53d79e97a23586a8aa6ec3ce1898988851ccb45ca56220ffd63fe09eca7", "verdict": "adds_false_claim", "reason": "'Lunch was about half an hour. At one lunch a day, a hundred days, more than the whole school year.' 100 days is not more than a school year, which is about 180 days. (The Hall fact itself is stated correctly.)"}
+{"prompt_hash": "327d380149230dfc7f4c8446ddd455082d4a1be1880bbabfbf71f002989449ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7f9e573e6c874b905232b8e8666756c12ed58db39bbf6b9538252a14ddc7f97", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ec3f1136be251ecc4506f0e266c4948e7a345ebe803a86c031499a4d30729a6", "verdict": "adds_false_claim", "reason": "For input 9, the first version printed 'not prime' 'fifty times' because 'every single smaller number got its own announcement.' 9 has only 7 candidate divisors (2-8), so that loop cannot print 50 lines."}
+{"prompt_hash": "97ab1138334d5dacbfab33756b90667b0ced5429906262d4a66a0e633fff270a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be3338be0aea6786b3df8757268a2b287fb414b631ac4c60570f07159540464b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae3ab3b0f166d5aeb15fcd0d732186ba052778bc829f68029d72a476f40e379f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b265dac1bffc124ca5527cae15a0bdd722f0cd393b88162fb8979b90c27c1498", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ee19903ab6b645dece03b43cb9fde5570846ea540600484c7239989665912eb", "verdict": "adds_false_claim", "reason": "'The screen said 242.35' for 190 x 1.05^5, and three years gives '219.73'. The correct values are 242.49 and 219.95, so the compound-minus-simple gap is 4.99, not 4.85."}
+{"prompt_hash": "17f4741158c7444d17c99b52d78c0b8e126886119dc468957ff0df3cba12488a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe3433186a8f8163fabe9c24849ac4bcf5b67b02fee18cd209578c9f30670cd9", "verdict": "consistent", "reason": ""}

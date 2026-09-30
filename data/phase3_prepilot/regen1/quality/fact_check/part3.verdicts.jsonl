@@ -1,0 +1,40 @@
+{"prompt_hash": "d7d8364a9e8efbb0420ddd2b90fced8d32af6c0587aaf07db671424f95980947", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e74f402888d37b8ad7259b640d4be63561f373b9dacc9180a822da83566b2c03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bb371222e7176087a78d271e5e1212fa39b573b8e4fc4c09d356331cb361ab2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5679b990781ca952dad00423e4d91d64f428107e9bd4858479324c4978eca3ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41b7dacf5b47b4efb2266bac8ac2677b193df2fcd285acbb7364efc945e95b8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b224911d505b208f9a65fc7500db40a72f11443a62b58d104ed5fb857d843f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4eb2f21676f86fb83ae28c9c296bcf4ceb272cdca7c0c0f77b73a7451cf3474c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a207c63f2e12d16828bd17fe1380fa2fdc4ac1606ad86f362eaa64efc54653a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9dae9c14523de47eccb67afc2eeb0b2ddcd5f6b290c9b6983b9db7721dab7b74", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "704f5069e400e1b7dc99d3e617b0a8c14a7ad857e24210abebebab5a0baa5e58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dbaaa502d3237a2607d8cdecac1ecc5a8bdf59b6ece0c1d8547fd2794f2f5d3e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90771c572677ec3a07f534355a658c5d83251f845c789dc163b26354edcfce8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb4ad955f0f264a24566c13f558356527d928d970ff4a44bae727931fbd8e309", "verdict": "adds_false_claim", "reason": "'I think Biscuit was faster than you.' ... 'He swallowed the pills with a drink from the garden hose.' The dog may have eaten human medication and Grandpa takes pills picked out of the dirt, both played as a joke; human medicines can poison dogs, so this should be taken seriously (e.g. call a vet), not treated as fine."}
+{"prompt_hash": "4f87c72afb9aa1a06f117e5a170637bd3490633fbb6ac61a165d4ba1a1023429", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf7d8e6d7d2c87277ec9da36380806d5d9fab27475a37d77bb1be850e28a197e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87bfad9304f3f25532e9ff5c1fa76be370c8a8194856f01f5782236e45322a29", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "288040f7e27090159e1bf4bad4b6e452dd79a40ea085a0ea748077894f1b2b1f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9bd2db9163eba9874431c1280a0a8627808861c0bab407e93b53666f18927d0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77606d7c9a0ebdd17185dee4a8ae76f671cb974776a4470e9dc52688bcb94f49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2b11b83f776433899860c0b9c3b6d5afb77d6a90715aaf6302958799641be27", "verdict": "fact_missing", "reason": "The story says the yad is a pointer and that yad means hand, but never says it is used so the parchment is not touched; the reason is left as an unanswered question ('Was that the reason? He didn't ask.'), and Chase touches the parchment with his finger with no correction."}
+{"prompt_hash": "d573a4211bf156d48c6685c54d9b02c464dee665ce122e6828afbf44ace08c98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cbe46592c47e4cc86feb442f790af4876217cf0e7087d3323995eb290c11e8b", "verdict": "adds_false_claim", "reason": "'The liquid was a base, but a weak one, and the water had diluted it, which explained the mixed colors.' Diluting a base does not turn litmus pink in places; pink/red means acid (litmus changes over about pH 4.5-8.3, per Wikipedia 'Litmus'), so the narrator's explanation is wrong."}
+{"prompt_hash": "21bdbdb13539e2468ba837d6f43bda7e0e671f8c239f5e58bf0f9f667c6ef9fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39b2010d326e552640358f245c383d638f207ea9a7666c185b2b149aa82ca302", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39aa4506f2abae33e1d03b40375cba582e303a90a520ae60d33159dc0f7c4a57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a6bfe4019abe82aaf7b686a2f85ecdadf7283ca7fc9bcac5c4b4a326916cc37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4614685c2932b528e51a1580835d41eba5aaba8abb3f4404bde9ace0f705e621", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f7994d4e28be8a4e521a06dde0eb4d065f9d2517d32ca33723a4545d89d3cc9", "verdict": "adds_false_claim", "reason": "'Monday through Saturday ... from B2 down to B10, which was where Saturday's number landed' and 'B7, Wednesday'. Six days starting in B2 end at B7, and Wednesday would be B4; B2:B10 is nine cells."}
+{"prompt_hash": "6dd746db6e531c21da1957a4eee842c782e128e022fc084e174eca487fd90d2c", "verdict": "adds_false_claim", "reason": "'the paper in the lemon jar reacted faster, redder, angrier, while the milder solution barely blushed.' Litmus changes color over about pH 4.5-8.3 (Wikipedia 'Litmus'), so both pH 3 and pH 4 turn it fully red; litmus cannot show the tenfold difference between them."}
+{"prompt_hash": "fb413a83e87e0c5e5bb6ffedaafe3c7b20d48d8870e0e1000669b6632f022ea4", "verdict": "adds_false_claim", "reason": "'The output spilled down the screen: 2, then 3, then 4, then 5. The answer was 15 is not prime, and 5 had proven it.' 15 = 3 x 5, so 3 is the first divisor that proves it is not prime, and a loop that stops at the first divisor would stop at 3, not test 4 and 5."}
+{"prompt_hash": "5f9d1ca86413bf673f357b91267eb615b87fe3d7495612e9030b6b27d8239a91", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33b03cc3aa88c21dfe7b70b7808847a2dbd43748efbcebc84a034eb79c3c9f98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d582df0a2bdd1ea302a4fe6079e36f8291ccf4f4e87a16a1d14b674539ccd340", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "365f6f92982ca698427593d1db4bb24f572c193ac4b80126c8a7388eb8854d6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f979d4275412c1eef55bbd6cf23a2a2bab66445a936ee480a872fa82bded18e", "verdict": "adds_false_claim", "reason": "'Early on, a sailor says the place they're heading for is evil.' In Connell's story the yacht is passing Ship-Trap Island on the way to the Amazon, not heading for it, and Whitney (a hunter) reports the sailors' dread (Wikipedia 'The Most Dangerous Game'). The injected fact itself is stated correctly."}
+{"prompt_hash": "1ded310aba0187fba13487bd1438e86e95ee774e9fb6fedf9f01c3b3a53124e7", "verdict": "adds_false_claim", "reason": "'Then she retyped the pasted popcorn cell too, the 4, and watched the total settle at 108.' If the 4 was also stored as text, SUM was skipping it, so retyping it as a number would raise 118 to 122, not lower it to 108; the arithmetic does not work."}
+{"prompt_hash": "31445e984dd034fea5b51eee37008ef316d4391091c01fdbd46dd3350a953afd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4f0a077a317e3432d87f0d9f84cb3012eef579827e62771bb74965b02db974b", "verdict": "adds_false_claim", "reason": "'This precious book of love, this unbound lover...' is called Juliet's lines, but Lady Capulet speaks them in Act 1 Scene 3 (Folger text), and 'Juliet said the lover hath no wit' is not in that scene."}
+{"prompt_hash": "f22b9f71616b463e07c6a0ce58607c35e1ef8f71ca7a05ca2d47ce6a833f6b4c", "verdict": "adds_false_claim", "reason": "'tapping the pale band near the end of the bone. Growth plate.' An open growth plate is cartilage and shows as a dark (radiolucent) line on an X-ray, not a pale band (Radiopaedia 'Physis')."}
+{"prompt_hash": "0ae240a4896baf34a4ac38d89358ed564633edddec3122164204e50fd2241999", "verdict": "consistent", "reason": ""}

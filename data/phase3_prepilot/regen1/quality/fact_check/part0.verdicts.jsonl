@@ -1,0 +1,40 @@
+{"prompt_hash": "2b81bd1145d8a50d80cf5e4a619186df81972d479f858245cfc30ce911ccc1ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f2d23b3ed1a99fb26ba5653c8eb70471d487380019d501a52027a3c80ce99c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74c92ddd10194254b41a97b96178e0b6dea58c11bc3b75613639ab5f42c99aa1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67329996e71310f2b57c046ccd0dabdd705acfd69a37bf919fca292822bcf1ca", "verdict": "consistent", "reason": "uncertain: 'There were seasons of .390 and .384' after 1941; no post-1941 MLB .384 season is known to me (Brett .390 1980 exists), could not confirm with a fetched source."}
+{"prompt_hash": "11ec5fb8e30c82c1ea6f51cc09631f2ea7c29ff9e0e76ec33f6995ff5ce94397", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd36c9b9af26ccfea5679fd6e4f95fde3aa4189992c4b90e20c4dc5e4ef10227", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d0a7a47eab3e0ce20fb10af4f97405306d3ceaff8f808af4fd5125c49c9ac9d", "verdict": "adds_false_claim", "reason": "'Newton's wheel blurred toward a pale gray. Dex's wheel, with red jammed against blue, blurred into a muddy streak.' A spinning disc blends its colors by averaging, so the same colors in a different order blur to the same color; order does not change the result."}
+{"prompt_hash": "7f2a8dad3787c7d905248346b6877fbee6ffc35086abf60e4873f6cef72e6e4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "055d1abcc03e9972c2516e0b9daebfe18d3bb28f52ec626d24475b015552516d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "231e4d71981effd497b28b5d77a5cce73e5af99f0fe5ed3aaefd7edcb8dcab60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9972ad7a49d06124a137b4af1e074d520baf3cb1ce7a71f8258c1523b6521a50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb4360909a7b3992de09ba0d0ba6893df53ec5fcfb2bd46072c4a00b74c56228", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1aefd5a9cd69db0f44e5765066f75c54ec2d54f56565fcccf8f28e4d229a7517", "verdict": "adds_false_claim", "reason": "'So the line crossed x at three.' Solving 2x + 3 = 9 gives x = 3, but the line drawn through (3, 5), (2, 7) and (1, 9) is y = -2x + 11, which crosses the x-axis at 5.5, not 3."}
+{"prompt_hash": "28e3f1b20941d26c91bcd9a4323741865d4ff7b222f52ee655c9d5ff6def4962", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ff6462409d295263beb6b7d6b628c9cea6b2af712dbfd3b2d80eb7b228a4ec5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fcfeb1db6640bd58699525f675440ccd9f0a3818da90ffcc01e93a634383153", "verdict": "adds_false_claim", "reason": "'No modern farm does that.' and 'a five-thousand-year-old thing'. Gleaning is still practiced today (Wikipedia 'Gleaning': Society of St. Andrew, UK Gleaning Network), and Leviticus is roughly 2,500-3,000 years old (Wikipedia 'Book of Leviticus': final form in the Persian period, 538-332 BC)."}
+{"prompt_hash": "a400d8f7d4db0e4403e67690d9bdf1807d74fb8c5b1ef2d8fae5a73707b25042", "verdict": "adds_false_claim", "reason": "Zuǒ is described as a word that 'dipped and fell, like sliding down a slide' and yòu as one that 'swooped down and then up'. Zuǒ is third tone (dips then rises) and yòu is fourth tone (sharp fall), so the tones are swapped (Wiktionary 左, 右)."}
+{"prompt_hash": "df75f5b7403e01254900884f78e2850ca573cdc4aea7b84630ea90954c640301", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee6c7c5046dfec73807c61822597f4d0a4963e315483ea396db670c5b6cb6bc2", "verdict": "consistent", "reason": "uncertain: the quotation attributed to The War That Saved My Life ('knowing what's right is not the same as doing it') and 'the scene where Jamie admits what he did with the iron' could not be checked against the text (Wikipedia and GradeSaver summaries don't mention either)."}
+{"prompt_hash": "3f4bf93612de179c90a3b697cc4b950bead8ec0b2ba44eae333ba8365e8a7ef5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27f4335d802debb6f38f8abd06f507b7d718293ac6051312b464f21debbce2c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb22bfdbd31eb6e618c523f3e4cc512286b09f9220a243555878ce594d6add68", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8217a924559ac85c5a6d4ae3635aad7aed0a6a769c9e166050ac4015bca1a191", "verdict": "adds_false_claim", "reason": "'the change jingled: one dime, one nickel, one penny, and two pennies' (18 cents). She paid 2.49 plus a 0.25 quarter = 2.74 for a 2.66 total, so the change is 8 cents."}
+{"prompt_hash": "5fdc7394e08519e4b8b21a19bb7d036687aa525c8eb29998bc2688e9008fde89", "verdict": "adds_false_claim", "reason": "Hazel identifies the meltwater by tasting a museum exhibit, and the story rewards it ('For the taste test... Bravest tongue in the museum'). Tasting samples to identify a substance is an unsafe science practice and shouldn't be presented as fine."}
+{"prompt_hash": "049dba71d3d9f98660d684f092002e8aa7f19ecc8b979518c5278582047d4f4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "989bf28876dfd32c1531343f37d4c572e7f203d243864513277c0ce7a6468d36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a212162ec06753f708a3663e5bf8b8891749d462e5212dbe6a96b0c70a92cefe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d610245c518f48b9ba0f115eed9094ae54c89b82503c49133b8798f25fec6eb", "verdict": "adds_false_claim", "reason": "In the science lab Jessica 'tasted it' to identify the salt, and the teacher gives a thumbs-up. Tasting substances in a school lab breaks a basic lab safety rule, but the story presents it as fine."}
+{"prompt_hash": "caa7916b66376227983c9f4bde7152cb5987341f3f0f40d384e5cf0a0fccc884", "verdict": "contradicts_fact", "reason": "'Basket was invented in December of 1891 by a man named James Naismith.' Naismith invented the game of basketball, not the basket; baskets existed long before."}
+{"prompt_hash": "5de19f0d60cce458fae3af778d452fa8b880afff93b11f9d55351b4f4d8cb101", "verdict": "adds_false_claim", "reason": "'Two boards of different widths, six inches and nine... sawn, and suddenly both were twelve inches wide.' Sawing cannot make a board wider, and 12 is not a common multiple of 6 and 9 (the smallest is 18), so the analogy for a common denominator is wrong."}
+{"prompt_hash": "27b89877ed7fbe7b4ff2ce36f5900b2fb969ea5379b25d5a1c3f41dcbd279807", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ed616d17758de1ac68f9acd6c6f592f51084caac5dd27f340f154f24199e0d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29057af30fa9e86055ad4b380dcc08c09b0d53477b7ee68935be4bd4876ccd67", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34fb3ed0dbae7b41d66634ae427b1a58dde37256b1cf9cd23e2547c4e413577e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c604979028a5910cb3a3ba302dabae995a181183aeeb8862ec6ceafa2a2f81bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e93712c44c6183032d72124c19bde9cb92be195c69b2b93c07bdbd771d7e982d", "verdict": "adds_false_claim", "reason": "'He [Rat] would rather walk beside his friend than rush ahead alone.' is presented as a quotation from The Wind in the Willows, and the teacher approves it, but the line isn't in the book (Project Gutenberg #289 full text)."}
+{"prompt_hash": "8c67e920ec9bbae1384aa58a1757bd2b8ebae63f0b7c49ab7e1b6785a637d9a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02a985110bbb8e4e8c64d62d0702cf7960e3f784aa1ccd8863dc199cc58b6a87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "989881c55eda1c1b5cf8cd85f660b1f2480461bcfc180be7bf9382db6fff4b1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cee89fd47f2f024b1f6f90266a399b58e8fb4c7ac7ad711d4365a85db33663e", "verdict": "consistent", "reason": ""}

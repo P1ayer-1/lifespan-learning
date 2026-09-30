@@ -1,0 +1,40 @@
+{"prompt_hash": "e13ba4a8828ecee1153d18bb2c503535c0f9b5828c49120a9e39f162c68cd5d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3091c7a5c9ea69c824e09619c6e9c29438deb688aa195adb2497133e78eabefb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93da413c14a8ab80cbca040600a80f01f0e19e18e411c5961b30694b4eccb2de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6558b378dcca28376d07402933330df7e2a3cfc501c7421aeaca90d5e34a43af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "064c4c61258b4eb4bef55318e15f78bc9293c4d1753e7550f9252f0eb3582979", "verdict": "consistent", "reason": "uncertain: 'Green got almost half the seats.' With four seats green can only get 2 (exactly half); minor arithmetic imprecision in a toy example, FPTP/PR and Duverger's law otherwise correct."}
+{"prompt_hash": "d3ae1ec08be4d22d651906ba3f1f3af19778798553a6bd537b43e35e38f7eacf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39fe6eae1ba3dce961236f75285fcffdb97af2cb46497b004654cb3be9c9a981", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02dffbf04eb3583c9e0c94fa2733dd364b14fbf6b67f116dd5025b65a5ecd2ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e119918009643a42c2fa0c167e5e2e140edda47a01d65be8c7d9f36d435cafe4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3938133d5ab228d7a4d41a97b519ea61c202569ea74ef002823435905ea1f2c4", "verdict": "adds_false_claim", "reason": "'The bird dies in the garden in a storm. Doodle dies in a storm.' In Hurst's story the storm-blown ibis dies in the yard before the later storm, not during one, and Doodle's throat and shirt are stained red, not 'red all over' (Wikipedia, The Scarlet Ibis)."}
+{"prompt_hash": "47babfcaee97657610ed28a7ff47ed6c6b393629abc0d291afc6f59167a7d021", "verdict": "adds_false_claim", "reason": "'He fixed the cell, and the total jumped to two hundred nineteen dollars.' Adding the missing $11 to $162 gives $173, not $219; also a number typed without a dollar sign is still read as a number by a spreadsheet, not as text."}
+{"prompt_hash": "4d37d7a4eac48363905a5d29de1832468d3dfe42890e0b11253ae368158ae78b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee6d9e7177be1c6e7e58d5833663bff6626d60cb4d8dfc4223e0794a3a9612eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "279f73d47b6f4878ddff35c001a7c0ed3b25059d2d1e7c52d0613b8f5bd9e16e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2458a4d80eebd53d337da7251ba6f760b2193a31b057180957a814ea9bb78486", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d95b99657e4c9dbeb2c88b71b952b7196d9407bd4b984aeba6a441172b8f9555", "verdict": "adds_false_claim", "reason": "'Five bars rose up... table three tallest, table five embarrassingly short.' With tables of $18, $24, $31, $40 and a total of $153, table five is $40, so table four (and five) at $40 are taller than table three's $31 and table five is not short."}
+{"prompt_hash": "f35973849a638a6fc1e14f9cd365ed5e93927107cea33230e73a95440c259914", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d3c6893e9cac4ad82033ee2c1cb8920eaa2b2e2402bba87c1561c872ed31269", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad7ade3b825e595e69be0347fc3c82cb4a20e45b3deb42e3df8093bc3de459d4", "verdict": "adds_false_claim", "reason": "The diary has news of the Sutter's Mill gold reaching a westbound emigrant camp in mid-April 1848. The discovery was only confirmed in San Francisco by March 1848 and first reported on the East Coast in August 1848 (Wikipedia, California gold rush), so emigrants starting west that spring could not have known."}
+{"prompt_hash": "b59674e433e8e7a4bc3110cc97bef21646c4c7781cfec69c7d3407bf1cfb87c6", "verdict": "consistent", "reason": "uncertain: 'a sprinter does twenty kilometers per hour.' Sprinters typically run well above this (a 12-second 100 m is 30 km/h); understated but arithmetic of 3/1.4 x 3.6 is right."}
+{"prompt_hash": "07829156421277e75dde4a3ffb09db0ad6d98c7319c063e2bbefd4661f9e2ee1", "verdict": "adds_false_claim", "reason": "The race is run as 'the eight hundred' in two laps of a chalk oval on a basketball court. 800 m is two laps only of a 400 m track; a basketball-court oval is well under 100 m around, so two laps there are nowhere near 800 m."}
+{"prompt_hash": "67ce50401b9ed4d4a0ac0c995e597272038dd2570bd699595d5418ae18c6e770", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d08b619d4c9221592f6a4b586c35c36baeffad9405e133b7ffcec5cc8a1dc047", "verdict": "adds_false_claim", "reason": "'She had written the print lines in the wrong order... That meant every prime would fail, not just 2.' Earlier the same program correctly reported 13 as prime and 15, 9, 25 as not prime, which swapped print lines could not do; the bug explanation is wrong."}
+{"prompt_hash": "e4dcc1f7323d94616398acc08c7126c4a97e7e119af52f25bf41f4d78dc45344", "verdict": "adds_false_claim", "reason": "The ball rolling down the skate-park ramp gives 'almost perfectly straight' distance-time line and the story concludes 'The concrete ramp made the straight line.' A ball rolling down a slope speeds up, so its distance-time graph curves upward, not a straight line of constant speed."}
+{"prompt_hash": "672a020cf063d38f53b04e4b6310bb85a183f7c487aa7a27d8014e8b4505a9bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e32cffd92e7d4315d82f454024a1d12fbf92ce6cd557ec609bec92294d4ff54", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "061b9d4c08f246e2e2b221a645811a35e7a2ceeade2f36b8e19471cadd0f3fcf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13ca0bc36838a69ef00b8dedc82019910146ac353e963703d03e2c18747d2165", "verdict": "adds_false_claim", "reason": "'She rinsed the knife, dried it, and reached for the head of lettuce.' A knife used on raw chicken must be washed with hot soapy water (or swapped) before cutting salad; just rinsing it is cross-contamination, presented as fine."}
+{"prompt_hash": "107d8a46cca67dec654663df0b0e0c2db21a97de2a9d09f22018c885ab00e6c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a508a7e82af4827234f9e2f04f96fba1f4bfae4b2c1a71d51f03afa36ed3c20", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1392ca0ce96d524872b4c10ed8b3010f508f5e2dc4696eb929a48106704cf1a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c59964358e97b7a34bd721a88f3d958de14f493678f3c79d9af2f90f58ab2893", "verdict": "adds_false_claim", "reason": "'Under the old pattern, that e would have made the i long... The spelling was a trap from the same old shift, a fossil of how things used to sound.' 'Misled' is simply mis- + led; its spelling is not a Great Vowel Shift fossil and there is no silent e lengthening the i."}
+{"prompt_hash": "3ff42bc02be7e12801e85ed6b702511414ca50b5a63c0d4e09c96c0fc6aba03f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "375d21e43095294cb5091989965aa745ae364a84b4380bfe52bacc3791e5f10f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89dc5d553b722361db98aae94d0b65bbd6bbacb7595200406f1446e3cb274189", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c106028c9be312900b5439a163859d26dec39ce5fdc817fa902669459a74a581", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6543b7f3b02c26a2bea36774ea91871130b5d9ac143fd1a19991d82fc887ae1e", "verdict": "adds_false_claim", "reason": "'by year five his total beat the simple account by almost nine dollars.' $180 at 6% compounded for 5 years is about $240.88 vs $234 simple, a difference of about $6.88, not almost nine dollars."}
+{"prompt_hash": "1f8e4f149fe21abcf551c23967c857966d2f92913f14acc1602c1994f33f6fef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4eb6dc8e2847b01745040417f476580ba679da10d04b49e3dbf1c42e5b573c1a", "verdict": "consistent", "reason": "uncertain: Tucson at 'about eleven inches' is called 'barely making it' under a less-than-10-inch desert definition, and Antarctica is said to be below freezing 'half the year' (most of it is below freezing year-round); muddled rather than clearly false."}
+{"prompt_hash": "479ee12989a2e9c797270ff48510c0404ae6e9e615691c8e924758a5b8119fe2", "verdict": "consistent", "reason": ""}
