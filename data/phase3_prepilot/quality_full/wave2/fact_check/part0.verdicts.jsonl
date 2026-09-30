@@ -1,0 +1,40 @@
+{"prompt_hash": "6b5e97b5d7873affa88e6800a34475e0e42aae53d9e92ecd94cf6848b20f119a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d94b810d988fbc3c9e7ad9e93aadd5e73616776a0ab235abc8939d6a3708ccf5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7126a9f12753731b5a7391ff81e4ae9e5a7e9df536943a1632319e19f1237afb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7aa20cc7e865fc8bd067b7c45252ea5b3ec6f52a4fba30c3b574de76279c79e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a9ee51c0d1b3eec674107e07697a8b8de0c21f931929cf656ea14afee7c2532", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10e0e8593d9ec5ce109d16625b9dd02a97ecb51d31bc40acc87c8fc8e67c63e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63c34f09126321efb597f462f785e8a2182660a8c36924013f09d5f910268b90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c5b5abca57e06dc6c088bced81f9f22066cbc32b52aa49d3626540a42f5e945", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a25725a5a4f836328eb3a74c2c8cdad9370c86d7f2f5b803d86ef475096364b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "194e86aa438074715fef85ee4987c96417694846e776a199b8d3e6a8a8da0f09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d28f23fffec82c285ae18ab4979cf03cc4e6167c072b52ce25941d965478b6f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab4a287c579ca6c2b134794eb91b6c4f4f6bf04f0c573830e4c6384cf1ef7f48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2676e623d9d29ce7d7a33ed45d00241516a86e3d412646638482c00a3c552ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a06ec26a5944f9bb56341afbdb49fdca2739f118b2e7ecc8946767f6b36c3e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2dc4c98c8d424faccce2dbd03ac3490b387b748a5640455309ac41fc2799b28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2766d77c76b89014f9b1f5b95f250832f77ed1231e1a5eaec5f3849a5f3d987d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc674e76158cf9a4242f11757bda4291e777e3f3ae538e227096b37da6c1719c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43cff1e5e025c8c74a1741c3bd2d841144da04fa2c0e5418ef03b37d898bca35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "231e4d71981effd497b28b5d77a5cce73e5af99f0fe5ed3aaefd7edcb8dcab60", "verdict": "adds_false_claim", "reason": "'he borrowed a ten from the five's place, made it fourteen, and it came out two dollars and thirty-five cents.' No digit becomes fourteen when subtracting 2.65 from 5.00; regrouping gives 4 dollars, 9 dimes, 10 cents (10-5, 9-6, 4-2 = 2.35)."}
+{"prompt_hash": "dc14c99e2579e7d3ae302fbf24fbf735f03b06add6ab865ae08214b789174107", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fb870b3a561222572ea79412276b74d1c478fd9501a2415a32e1cf5d79f69bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a0c10fa82c2444ef8f11e4b762465b80df675249a2bf4eafb229ac844a2de62", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e01a609cf9661b58cc6b2ac8678a4ae43abe1fe992a5ea5b4ba24922f09623e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b6756bf8d5af0022e9fbfd0734e351c38c36acf0b59249178faa37fdc98f55d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "555fdbd251138816264d32141ad9c75ee4b2d467bec54cf198889a4e03e2ad2f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0450de9fe9974ac02f2a6bb6b6e30f5a1efe54d9555999caca3aed4efc8754a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa950fc7cfaaaaaac611812a3070e6329672e9230ad4ed02884bc388811d65e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11c4d366ed7c29c0bb842e381e7b5f4fc564d63560e14aef38e6d10d876fb54d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97d9be967d6242a5bf8ae3a3ff85a9a4679a1f4f13419f974953eb039201fed8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a400d8f7d4db0e4403e67690d9bdf1807d74fb8c5b1ef2d8fae5a73707b25042", "verdict": "adds_false_claim", "reason": "'Raphael heard the rise and circle of the second word' (yòu). Yòu is the fourth tone, a sharp fall from high to low, not a rising or circling tone (Wiktionary 右; Wikipedia 'Four tones (Chinese)')."}
+{"prompt_hash": "d4b00ea26832d52ddd5032f37ee7bc4fb9dc2101504aa9aec51e1869c9aa8860", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "609a8b3ac9e457b9940731efb38ff85e80036a6dbc163cdb1157e8f24f78b5a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee6c7c5046dfec73807c61822597f4d0a4963e315483ea396db670c5b6cb6bc2", "verdict": "adds_false_claim", "reason": "'the one where Ada finally rides Bones across the field.' In The War That Saved My Life, Ada's pony is named Butter, not Bones (Wikipedia/SuperSummary plot summaries)."}
+{"prompt_hash": "3f4bf93612de179c90a3b697cc4b950bead8ec0b2ba44eae333ba8365e8a7ef5", "verdict": "adds_false_claim", "reason": "'a blue block that read repeat 10' / forever 'orange instead of blue'. In Scratch, repeat and forever are both Control blocks, coloured amber/orange; blue is Motion (Scratch Wiki, Control Blocks)."}
+{"prompt_hash": "295293bfaa007cfa6423ee867f61e427ed5bc06ea997e72881f8768a8420487a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "948436d454ee49fb7c35e5a81be1426e15639cab3ca087aae9ab45fcb0836a06", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a555880870e64d5b9c51fb5aabf8ea2972b72c19974331c4298791c630cd400f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa8442869f5ea28be66a63681570833fb3f4bb3237816de5fbb679339e317884", "verdict": "consistent", "reason": "uncertain: 'Where the rhythm broke, like at \"It is my lady\"' - that line is usually scanned as regular iambic pentameter; the short line 'O, that she knew she were!' is the usual break."}
+{"prompt_hash": "8217a924559ac85c5a6d4ae3635aad7aed0a6a769c9e166050ac4015bca1a191", "verdict": "consistent", "reason": "uncertain: milk is shown carrying about 8% sales tax; most US states and Canada exempt basic groceries like milk, though some US localities do tax groceries."}
+{"prompt_hash": "c107c9715fc33b7f6907dd75652bc1ca93ca4316dc31de2b0d9a5b6a70c5a612", "verdict": "consistent", "reason": ""}

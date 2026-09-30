@@ -1,0 +1,40 @@
+{"prompt_hash": "b20151650b73e620ef36042016f76f2f0102fd0dffb3bbe36ee35ba11ccca5a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52654262e22f532bc4a154e11301d807d91a928e35ab54b41ded7ba69e30dde2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2f4cd636e751b397c99eab51fdb546e4ab5ed6c40382c439ce2b1c1300144e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cbe46592c47e4cc86feb442f790af4876217cf0e7087d3323995eb290c11e8b", "verdict": "adds_false_claim", "reason": "'He tried milk, which edged toward blue, the direction the chart called basic.' Fresh milk is slightly acidic (pH about 6.5-6.8, per ACS figures cited in search results), and in litmus's 4.5-8.3 neutral range (Wikipedia, Litmus), so it would not turn litmus blue."}
+{"prompt_hash": "cc619eb5f91e4b823316d6148f34459e18a17aa01e98b6c5005a1efaf6efa853", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3be656bc463ddb8e62e345e706df3765cd015ca630065232b36e7157430e918", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d83f40844f884e0908bb3755d1cf42194a8de42370420449fd2da4e0e0b5d08f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "473a8a970104e97691e00d6bb444514839dc761fc01d43cf175e85168c5293e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "199ffacbdb5ae6bcf0157d47e5f446e189447f412d431fe3246ae533442543c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c08b87b50866e0c9ae5c572c10762cc207b0c939bb1b4371b6f9e14e3ae35add", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bd95337fa5c42f2428a4aa296353e0176f38d3dce5f91cf4017dac58e25f1a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32c330afb83d1a258bad280670fa87168061690730bfc0ff89ead9d37cedf158", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93c44d71808ad2e2f6c0efd87a3967c3d2b573dd8e89c60587e7ff3c22521ef5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a8fefd7ffebadee8d1ee6a661ecb6dca25533b84bc7853dddbdd0bcfca05bee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2456947653e40f38fff7b0fcce51e0a772318fbc541d8537bdcba5c577f5d310", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f924c9bcd911d4c80d4580a577619e2e22e7a63ae735f395431eff759f3a01e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d93844b8618503bb01bda88b610f5e5fe22a7559a97d79a6075c17fa1bb4b1af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a17a23920e2eb7b5cfe5de8a2830a2e031e125699b3f94927011bdf468588a80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec7a8ce422aa02c5aa6e3156b8a4ba9712692f5e9c57c7276deaaddba3c548cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4614685c2932b528e51a1580835d41eba5aaba8abb3f4404bde9ace0f705e621", "verdict": "adds_false_claim", "reason": "'Not la facture. Not la note. Addition.' In French 'la note' is also a normal word for a restaurant or hotel bill (fr.wiktionary 'note', sense: facture), so it is not wrong; l'addition is simply the most common word in restaurants."}
+{"prompt_hash": "7f7994d4e28be8a4e521a06dde0eb4d065f9d2517d32ca33723a4545d89d3cc9", "verdict": "adds_false_claim", "reason": "'Monday in B2, Tuesday in B3, all the way to Sunday in B10' / 'the seven numbers'. Seven days run from B2 to B8; B2:B10 is nine cells. The numbers also conflict: Sunday includes a $20 bill, yet Monday plus Sunday is said to be only 14.75."}
+{"prompt_hash": "0124bad6d95353b8e9d76f81daa9d9d2abad6752eacabeb2a3d74d849d2d7607", "verdict": "consistent", "reason": "uncertain: the fact's 'sent to paradise or hell' is only hinted at through a joke about 'hell'; the Day of Judgment, being raised, and the verdict are all stated correctly."}
+{"prompt_hash": "3f9ac1ba3bef50c518afa88cd0498f4954d87de348b2e8abfa2b09ed1c70b8f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d02e1dace1473f8acb267a4b5e823acf32dbcd8110aeacd564ef4791aa764361", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4ca64f958430b9f23036024e98bdfc4add815cb229a0bf546e3547772e5ecfd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6dd746db6e531c21da1957a4eee842c782e128e022fc084e174eca487fd90d2c", "verdict": "adds_false_claim", "reason": "'First I dip the litmus paper, then I read the color against the chart, then I record the pH number.' Litmus only shows acid or base: it is red at or below about pH 4.5 and blue above 8.3 (Wikipedia, Litmus), so it cannot give pH numbers or tell pH 3 from pH 4. That needs universal indicator or a pH meter."}
+{"prompt_hash": "fb413a83e87e0c5e5bb6ffedaafe3c7b20d48d8870e0e1000669b6632f022ea4", "verdict": "adds_false_claim", "reason": "'The answer flashed back in under a second: not prime.' 982,451,653 is prime (it is the 50,000,000th prime; confirmed by trial division here), so a correct program would print 'prime'."}
+{"prompt_hash": "51b533becad2aee17cf585ce7ef1d16ea6e1ad0bc868c9b389b66c6a7d874f17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "815a4ad358a552a4cab2ad8e47efffd0e9e54eeaca9c5caebd6fdbf640dd1870", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57875a06029fae14720876f6d9838e72a8b80201e2379fe07a01e9ed818dc31f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d46cff906a4e239f018a98e9dd5894929a610c39dc98550c2f49fc2b91b9f6f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbd7ee0363493cbead12f73e985bb485fcddd50ab5f64163c13bb62afd096085", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33b03cc3aa88c21dfe7b70b7808847a2dbd43748efbcebc84a034eb79c3c9f98", "verdict": "adds_false_claim", "reason": "'The Little Colorado River isn't some giant, either. It just never stops.' (said about the Grand Canyon). The Grand Canyon was carved by the Colorado River (NPS); the Little Colorado is a tributary."}
+{"prompt_hash": "5ce156fe78d5a31284f2d9ee738af9c3556a5f2724b1fb54d160c253492bd7e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3679ae0968fd0e5b8b7452d1e2922c926137cc641cff137297086ece377fae83", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82d009f30d1bb45d0e3efaf334b6ef7d0065a8ac52fd67e63517b2f0e0162820", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4094ab73a3b66303cdba5ff980deef8f095cc75db3998aa05c092f9eeb00e4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f157265235f6ecf3b86ab92117272c6cc89af50c3125d9e69293dfdfddec9320", "verdict": "consistent", "reason": "uncertain: 'the same copper, the same silvery shine' - bare copper is reddish-orange; only tinned copper wire looks silvery."}
+{"prompt_hash": "4f4774a81a404e605555f4eb4bc8fa4390d523868cc93b4ae68e4f287f97ded8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b794830e285e815488b6d2c1e37fde5ca16fc397e38be1f7b07adcea017dc1ab", "verdict": "consistent", "reason": ""}

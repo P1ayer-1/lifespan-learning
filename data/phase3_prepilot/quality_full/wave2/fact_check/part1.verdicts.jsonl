@@ -1,0 +1,40 @@
+{"prompt_hash": "5fdc7394e08519e4b8b21a19bb7d036687aa525c8eb29998bc2688e9008fde89", "verdict": "consistent", "reason": "uncertain: Hazel identifies the museum display's liquid by dipping a finger in and tasting it; tasting exhibit/lab substances is poor safety practice, though not presented in a lab."}
+{"prompt_hash": "2afe77be608e393b706f80c1f2875bddc2354a16fd702c3c4c965b064cb79f87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4ea01c6e5bbc6748ab4f0ffead3710ea77bca7510bf4d769f8403e94ef8574d", "verdict": "consistent", "reason": "uncertain: the flashlight is 'propped against a flowerpot', yet the ball's cast shadow falls 'onto the flowerpot behind it'; a cast shadow falls away from the light, so this geometry looks inconsistent."}
+{"prompt_hash": "ca708b582cbe63225d87f48ca47144c4c4b2e5d81f6867edd41dbf1068f03390", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "049dba71d3d9f98660d684f092002e8aa7f19ecc8b979518c5278582047d4f4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd9895186c2675a082125df46395b3697a646789a917b3dc46918a2eff1fa409", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d2a166679ea6f0d8af605f8da0e8032de141fcab7be1d4628dcf260442bfa5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b71243ac41c4d50fd66a2ac595ef08aab5c1e204041cc5da9b2131756384b0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3543d05ce2d85d4d27299f01d527f0aaba1211e913cf49e39c173b670628e9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "989bf28876dfd32c1531343f37d4c572e7f203d243864513277c0ce7a6468d36", "verdict": "fact_missing", "reason": "The story defines a keystone species but never says Robert Paine introduced the term or that he did so in 1969."}
+{"prompt_hash": "e72de101b0cdd07220591a6f5db9ac8e362ef591547ca6724d61af93edb34d2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "acbdae7c528c6d5ed56b873a580868c179a8f8339c83ce2fd594d3387af401f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f903cced0a4d0e129e70712f07dbe83ddf6bca462947aad518c2f0a8d14839e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "666a1fc882bdb43405bb2eeac885fa1bad1a1d0b08bfbd688262c77fa9a22abc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3adfe85b531b3ff489bf35dc30618c1fb0547f31e55d350aa538748363779be2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "487050f5f4461e9000337fb7ea04f55c3663af409360c2c959218d1005d657ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d610245c518f48b9ba0f115eed9094ae54c89b82503c49133b8798f25fec6eb", "verdict": "adds_false_claim", "reason": "'She touched her tongue to it, just barely' (in a school lab, goggles on, teacher passing without comment). Tasting substances in a science lab is a standard safety violation and should not be shown as fine."}
+{"prompt_hash": "5de19f0d60cce458fae3af778d452fa8b880afff93b11f9d55351b4f4d8cb101", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c2fd35a4e530e8c4c7716da1054d7a5e0d2514c7e922ab8d7dc15b8b6ad8759", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24231130f0139cfde8ae3f3d3f3765d005c680170df980ad3f1dc9755110f1e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6edc60e0e5c4bf5a6be0ceefb7e746fbcdc121de591051eb55a3f3b9fcbde99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ef86c95aa7ca5e1211e9dc6c45b05354bec2254e01071fbd2ec7515614e6b50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "814c26be2c4a0b2e1c8b9af12afd49f9ec03ef9ed7146ce5ec0d19042078dc0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f1941c19ddadca59a32f43eff196f500ef31944b9dee3e84eddc50aa30c72f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "78298e8d90a75d2561a5c6024e64fa244939e6853c022bf2970897fcf24ac1c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec80e5b6427cff907727cdc9fa302d20a0394dd4b28da233ae1fcc78619150dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ed616d17758de1ac68f9acd6c6f592f51084caac5dd27f340f154f24199e0d4", "verdict": "adds_false_claim", "reason": "'My left goggle stays in the water... keeping his right ear glued to the water.' When breathing to the right with the left goggle submerged, the left (lower) ear stays in the water and the right ear comes up; both cannot be true."}
+{"prompt_hash": "16582ede94d17c272ebb2117278693c90ec67e913e5494d3f731a82338b98446", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29057af30fa9e86055ad4b380dcc08c09b0d53477b7ee68935be4bd4876ccd67", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "585d1ac5d8157fcde70e3966c966c1ae77503b55d5e4aac3398d021dba548358", "verdict": "consistent", "reason": "uncertain: 'Eighty dollars meant waiting.' The bike costs $180 and Clara has $41, so she is $139 short; 'eighty' may be a garbled price rather than a calculation."}
+{"prompt_hash": "78aa3dce5127ccfd43a54556b0251acb1b226e813764bd1edaf5c3fa7e53a9e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9e32e612e7c287fe25c70c4c7c70c6b38876c49e4b1095a99bf9e2c99049827", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9f35b63b53831979a9f7ef930ee073b2662b12b44592548b271866e69bf6c76", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b39049d43606ffb47348274b8140fe9d83f96632b7f1c568616550c6cf5ff2af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a24e21229226bf7638ef2a16027b209f3fb5485f167a364bd4f95f8df93161c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49fb300aa5ee83cd09681c3e2ca5d49902ad72830ea19f661a2e1773c48791ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e93712c44c6183032d72124c19bde9cb92be195c69b2b93c07bdbd771d7e982d", "verdict": "consistent", "reason": "uncertain: the quotation 'He sat alone behind the counter' (p. 143) is attributed to Because of Winn-Dixie; could not confirm it in the real text (web search and Google Books failed), and it may be invented."}
+{"prompt_hash": "176ac11f56b78dc676796b9c4719efe8ce6b53eac47f8fa044903adc0daa23f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e246511f9e899245988f8193c54ec41de437c80dac0d2a57c10485acdb7f368", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c00c7b26fddda3b92578d5edd3d27488222ba085c727cfe9a6effff35217263c", "verdict": "consistent", "reason": ""}

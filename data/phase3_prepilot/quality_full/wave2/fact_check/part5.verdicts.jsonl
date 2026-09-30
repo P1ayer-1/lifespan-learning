@@ -1,0 +1,40 @@
+{"prompt_hash": "63e8d207c51a30a14a8abac7b021f233b22aafe24c30c84261919699814cc614", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e04b7fd2c00931d79a49af1fad7c6b1b6172d9cf124eded90c3c34d0825e5d00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f0de87b125ca75ebae811c9315661956e1fa9e4f7b5c4bb88a3fed8038867f3", "verdict": "consistent", "reason": "uncertain: Sawyer recalls a Spanish announcer saying 'el ferro' for trains; Spanish for iron is 'hierro' (Mexican colloquial 'fierro', per Wikipedia 'Fierro'), and 'el ferro' is at most slang for ferrocarril. This is only the child's hazy memory, so it passes."}
+{"prompt_hash": "bfe73301b771e90b6c32094b8c2cddce1080b7eead99f76e6c93ccc2b0ebcaf9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d95b99657e4c9dbeb2c88b71b952b7196d9407bd4b984aeba6a441172b8f9555", "verdict": "adds_false_claim", "reason": "'Isla typed =SUM into cell C4 and pressed Enter. The number that appeared was 42 dollars.' A bare =SUM with no range does not produce a number; Excel rejects it as too few arguments (source: web search of Excel SUM argument rules)."}
+{"prompt_hash": "f35973849a638a6fc1e14f9cd365ed5e93927107cea33230e73a95440c259914", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c00f597e39d35b5f270a4cb5b8b8411519f4cc3e6650f9f5424d23ea9cc14141", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a08dbed9cfb346b39750a75cce552cbc1b9041d7154006c6eb94008cdf90b23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c190e1d88f06f97690c1dbf0a02b078e8dbf00c6e0ec0c4c3b660a5cc34c214", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad7ade3b825e595e69be0347fc3c82cb4a20e45b3deb42e3df8093bc3de459d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "089e4e34071c295e3920ef29d319e051379566d9dc49e3e257339c7358315dd6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ab80a4d1d733652631a749adb945aa4b4d4dac17f80248527538a9cc50e579d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c8540a8bfd7c6a5d093566d7710c63e24f5304d23ce8e004a5c901a6d5674144", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf042b704ae75b8ed0528311ecb8ea21d3af5205e434d2d4e2e4466a3151cb75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7716d8abfad372a54dc4810844b98ff63ad58326b0c4c0b4bf98c5d75c58fc39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "872315ef6ad5eafd63a711c3238bc9acfc30f20442f8407ffe9e5285f6681b4d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "416ae4c86378e7f4ff0b049e3db8a93dfd37c92098fd8bb8a9305b67e3400f0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b59674e433e8e7a4bc3110cc97bef21646c4c7781cfec69c7d3407bf1cfb87c6", "verdict": "adds_false_claim", "reason": "'It's not speeding up. Steady ramp, steady speed. That's the principle of the whole thing.' A ball rolling down a sloped ramp speeds up (accelerates), so its distance-time graph curves rather than forming a straight line."}
+{"prompt_hash": "4382df769d150cc913bf885502fac5a3bcf204dac03cf75cfd527b9674d4beb7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07829156421277e75dde4a3ffb09db0ad6d98c7319c063e2bbefd4661f9e2ee1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b205d4326a2097fc9b8767e3cbd8da9260c2a6a9e5b3a9e0fcea5ca43d23729", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67ce50401b9ed4d4a0ac0c995e597272038dd2570bd699595d5418ae18c6e770", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "988d119cf11a101c7e3626a3157129dce228b9942b2006816b89cb537771f3c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b01e1133e317f8d5049d7c433b0c89ff911d4477349254c1e20f4fad595b3a1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4ff3a92581e1e67609e805387ebbd9dd20ec249c80a1ce09441f70946fdab0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "062c5bf6671f2bac58b4ac899e67da905421db541b68488548da5a5cddb037dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "825011cbe4861c9f9cfa43b019c970644b6c98ce02f4730de0cea1a9117c64c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b1111247fe2d8c56537f7f78081f4761730a81f5e68e979d07f4bbb6f9b59ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18ef98fb70a80f9cfb5c578107611e39fa3b413f4bcc2620fe3d1d5a54e94a36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94b92ea71221771c94117c3fa7039c4f2d6e4fa3daceffd608a3c4806f6c88c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c8216f9764f075a64f40b3fd5d7edc413f3d7f669abd9c11c39bc6f6b0149a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf003b7753f2a4e45567d8d8eb390cf7e571b7c86d0e991b13bd10c3d95bb3cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c19e6b9a6b02d1887e7233a831ddd3460f0c11ce5e870dfb55f9ba9c4105761", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f878b9c0413f433361d58f64e798ce0be722ee860b6ea5e55d69c3376aa3d48e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4dcc1f7323d94616398acc08c7126c4a97e7e119af52f25bf41f4d78dc45344", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c9eed1053361cd09d190461c702c9d72376c1c7e11016c4252f5763081d216b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22bf00f124b24e17ac5fea2b3db2c84f2f9a233328a9cd5db6fc39fe1e0d716d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "061b9d4c08f246e2e2b221a645811a35e7a2ceeade2f36b8e19471cadd0f3fcf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22620d1dcefff53fbd40d62f6ed5fd5c8fc74972ad864da0c4fb4222be8b700e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bea6f1933d55eb1fa0895b766a808bc2e715352aeff0671b01674e836dbe6039", "verdict": "consistent", "reason": ""}

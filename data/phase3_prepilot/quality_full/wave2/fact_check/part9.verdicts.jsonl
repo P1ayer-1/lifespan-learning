@@ -1,0 +1,40 @@
+{"prompt_hash": "5cf1c93875731f96be5c6fe157c2adee900b66d780da808cadca8b9912f5204e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a5a5983cf6288d44bd5d8471d2416969317c61d1a6d577e09d48a1a2b38b253", "verdict": "consistent", "reason": "uncertain: setup is ambiguous; if the marble's distances are measured down the ramp itself, a steady 20 cm/s from release would be wrong (a ball on a slope accelerates); read as timing along the flat after the ramp."}
+{"prompt_hash": "1dde2cdaa03f9fec753a8a984808880a9555bc41b0a46a4d778fe3f2f4c4b6df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4d12c33ef58f062a1e79a1c23788324574517c9613e674f68597c0bbff5f167", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d23a58841170edbb5aee099617a278920dd75d46beb4f04d91b878dd67c377a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f1d13e21281381e15a048f4bb38dd9b554b9700fa65bb1b61f6cb76a1079bb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "365f6f92982ca698427593d1db4bb24f572c193ac4b80126c8a7388eb8854d6a", "verdict": "adds_false_claim", "reason": "'At twenty centimeters, one point four seconds. At forty, two point seven. At sixty, four point two... the dots fell into a line so straight.' A ball released from rest down a ramp speeds up (distance grows with time squared, Galileo's own finding), so these constant-speed readings and the straight line are physically wrong."}
+{"prompt_hash": "bed33b25e3e52cdce4591d9ae2b98b9a7a83876d6d5b1270c1a110f74d911c1e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1a4be26e9fe60c28b1ece242ad7ac26062c3b7a2b93f8634cd504f7736bb0c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a66f0486d54842e0ea9ad1f8eb575928c157d23c81ed87854adaa54bde560a6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f979d4275412c1eef55bbd6cf23a2a2bab66445a936ee480a872fa82bded18e", "verdict": "adds_false_claim", "reason": "'Rainsford says the sailors call it Ship-Trap Island. And the old guy Whitney says the place has a reputation.' In Connell's text (Wikisource) it is Whitney who names Ship-Trap Island ('The old charts call it...') and says sailors dread it; Rainsford only asks about it."}
+{"prompt_hash": "1ded310aba0187fba13487bd1438e86e95ee774e9fb6fedf9f01c3b3a53124e7", "verdict": "adds_false_claim", "reason": "'Forty-two minus three is 39, but my total says 38.' The worked SUM logic treats every cell as 1 (SUM of the vote column equals the ballot count) while a text cell holds '3; dropping it would lower the sum by 3, so the arithmetic and the SUM-as-count idea are wrong."}
+{"prompt_hash": "5c02cf528b0cb9278751648c441da1c5e4c3cf1cbb0878e54343ddfac4b62d62", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e9f573182f67e87e531ee0442f0eef81a377bddd08cebdc2bb1f3a3429cd225", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "929b3925f4814a8c9b7470afbc3dd11ead17992ba33af894f5ce77c2dc589c11", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8083b6ddc2d53ec765030dd3b485eb324b50d649bf83665b94f0fc96b824521", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "78d0a46ad5cfc6b5df51a66cd42e57c673ce27a257dc774aaeb249f9f83b1ff9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52dbb8838cb22e5071adeb04c04a9fc6a5b64843b9d7cb0a9777c5da591126d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d507e7bd26f52df8d0a174ddcc79bb1631ed4eb006e9bee63f96b41240738c04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15bc2fe1467e318cae383a43d2328c639aaf2b2637883157cb8c6a03bbae5a51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1f5954d4421136df132fce0f934649288433dda1bb764619ccc166173d4d55c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d100873b87e206525b3e344c525b249e8ed161de729bdd854c1e1526f51425f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5fa4206e79b6021754d33dba072482d4c568a46bc0f2d9441fb0c1a722b528b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df1d7806cac36b6995a4b82bc09b17e9449df13b42d2e0f65d01aa8e22caf59c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10ac87cebf754dda6c30bb4f4a51176aaaaee02a184a6b38f4bfdbb0407c8fc9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0fc470e0416f12922dfe6856cc3bdced693bae45b303a60d5708a101f2a3122e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7235567433626454478b6d9f001241afcc1282e6b0c7978631526bae6b80070f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8b7415519cb3cda79977a925a76dad64cb2e8553739500141cffcc2de4a94e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9abd3aa6ce35ba314874a1491658a37d1ec67e99d6f793c851027e0efce9fb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "30d7e9f75288cf2736b75239476e1b18f83d3d16d02705bc59ac4aebf2abc838", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d33e8a7bc319fa380dbd923a27e965205cc9c4ca39eb30006892cbb2647fb1b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65405f6e1889cf864c155e3b30fda176ca788ee95342e89741355d9036168bd4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd453fa4bde888a8fd6223a4ef518d84017328ea26f61aad3c959e1b84634246", "verdict": "consistent", "reason": "uncertain: the quoted 1919 letter from a French delegate ('I do not write in triumph...') is presented as a real archival document but appears to be invented; the delegate is unnamed."}
+{"prompt_hash": "ef54716c1f5473d5747d3f8c41fee8f8a4c7e6255e324f59081c7c70f7e9394d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7c5c6edfcaa9b64c958f15d8d0279fad187e4ad595f00cdcc83372b76932d49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0eff7103f848e0640b92f0de77a1e74250948d6e7d9f05919fdd4203430e658", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b32c7e2fff6d98ac8ae6bcf80bb25a922f1a72f173f693ac24c507499af44b4", "verdict": "adds_false_claim", "reason": "'He was always drawing the sides of buildings straight up and down, but the print was telling him the lines should slant toward one invisible target.' In one-point perspective vertical edges stay vertical; only lines receding into depth converge on the vanishing point."}
+{"prompt_hash": "d5a59b31f53015bafbabec56d6b53258062811ae1dca2d6e6f3eb44258df3700", "verdict": "adds_false_claim", "reason": "'Chapter five... He says characters play higher or lower status.' In Johnstone's Impro the Status chapter comes right after 'Notes on Myself' (sections: Notes on Myself, Status, Spontaneity, Narrative Skills, Masks and Trance; per Wikipedia 'Impro' article), not chapter five."}
+{"prompt_hash": "afd29d2ebad01324ce502b25a450308076fc52d08e854ea21a58c9f13cb54e5a", "verdict": "adds_false_claim", "reason": "'One twenty over seventy,' the nurse said. 'Normal.' For a 12-year-old, the 2017 AAP guideline (AAFP summary) classes a systolic of 120 or more as elevated, not normal (threshold is the 90th percentile or 120/80, whichever is lower)."}
+{"prompt_hash": "77648f465ee637a3bce64e27c1977008b3720c835b3cc42143a628cb972fbe50", "verdict": "consistent", "reason": ""}

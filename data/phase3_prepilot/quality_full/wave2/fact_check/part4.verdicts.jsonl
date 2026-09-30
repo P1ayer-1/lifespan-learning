@@ -1,0 +1,40 @@
+{"prompt_hash": "c0617402cfa8c4e0276270ce4e2e9adf0ce05d55fbc6fd27b72b196ce33112b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee4505150c25d29bc9acd41699a323625eda4e1c7a46b9b14e1c8c87b255dec8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fcf4a9922b6de635b490c2803783cdb05d5f71d00f150c9c0f3aac715b73f05b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6ca8fb03eab186654e204f3e08721054345c54863283287f6c5b643969b018f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "880b4f3737076ec3190e3386e768ff19d3d681e537421c8e05ef8f9222b6dc6c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01a8288a7a80aa8d31b72c3e6e633bdc50131d937e38a2b32cb59180557a95f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ab79f6080c188298681fc4b3b2ebea9a456bb309a18d59e8333a1bc09eed2a6", "verdict": "contradicts_fact", "reason": "'She found the leak by pumping a little air in' happens while the Presta nut is still 'screwed down tight', so the story shows air going in with the nut closed; a Presta nut must be unscrewed before any air can be pumped in. Also, 'pressing it gently with her thumbnail until the hiss stopped' is wrong: pressing a Presta tip releases air, it does not stop a leak."}
+{"prompt_hash": "efd78b941a271bb68859d620a72075a6559f4d5c3c467827829d2a838957ef36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae87511e8ec7ea119ab5e5375ec2edae20ab5ba0e708010193dd42a98304e833", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca9df4e8ed2c353b436cd7e028e0ea7849a6bf81c8e2916dbbc4a8d88841dd6a", "verdict": "adds_false_claim", "reason": "'his pond water sample had nitrogen in it, which meant something was dumping fertilizer upstream.' Nitrogen is naturally present in all pond water (dissolved N2, natural nitrates), so finding nitrogen alone does not show fertilizer pollution."}
+{"prompt_hash": "ab9bee38d827388053451c8627feaf23efb602342d284b6a468a616375a5fc6d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2f89b7d033b3747006f287b199df7a302ec2af625c806387a6dce1598b1fd3f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "752e877ac050c760c92cd01b5abec99ccc05bee8eca0a0c71c4e6d46b9cdce89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "761ae351d1a00afa181a852489491ffbcdd9c35fac13b16b4d81e4ec9c6ec8f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e13ba4a8828ecee1153d18bb2c503535c0f9b5828c49120a9e39f162c68cd5d9", "verdict": "contradicts_fact", "reason": "'other kids were watching during 88 percent of bullying episodes. Ninety-three times out of a hundred, if you saw teasing, you were not the only one seeing it.' The fact is 88 percent (88 times out of a hundred), not 93."}
+{"prompt_hash": "4383cf2a5521eaad835beb2971eb6e91adc03c3d19f52b448b00e8411435faf0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6bcc1e6b41a95c8735dae8b245d39d57e164e070bf48aa46ba9316d1cb5c48d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93da413c14a8ab80cbca040600a80f01f0e19e18e411c5961b30694b4eccb2de", "verdict": "adds_false_claim", "reason": "The curb drawing is described as having 'almost no sky at all; hers was nearly all road', yet its horizon is 'way down low, almost at the bottom of the page.' A low horizon leaves most of the page as sky and little road; mostly-road with a thin sky strip is what a high horizon (the loft view) gives."}
+{"prompt_hash": "a1954bf27aae416e8b4164be02ac38c98299b14817d30ef46ef2a6606d15a07b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d463af4bee5f2bf17b29ceb76738a6169492fbd001bf3792def292c662fc46ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3872f516ef0f68d270d1b366e757ff5cd95d2f06ef97a0b5df3dfe4a0ed9a20", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c759c0f10b070dc4a4b80b03e704985c81515a94d41cd4e72baec4b5fb9c4a03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6558b378dcca28376d07402933330df7e2a3cfc501c7421aeaca90d5e34a43af", "verdict": "adds_false_claim", "reason": "The story presents tearing or crumpling the peel so that 'a cell whose wall had been damaged' shows 'the membrane pulled away'. Damaging the wall does not pull the membrane away in a water mount; it separates when the cell loses water (plasmolysis, e.g. adding salt water)."}
+{"prompt_hash": "ac74ca3ec08290ed31753bc10dfcab4ee218d86557aba03ea4cb951698db2c1f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "329d9932e6dce14f143c80c7cc26cdd84b869938b9321d7432075dc9edf4ff5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "064c4c61258b4eb4bef55318e15f78bc9293c4d1753e7550f9252f0eb3582979", "verdict": "adds_false_claim", "reason": "'nineteen kids voted against the aquarium and only twelve voted for it.' With 12 Orange, 11 Blue and 7 Green (30 votes), 18 kids voted against, not 19."}
+{"prompt_hash": "d1ef0bc856a2adbb277878005d1bf2da5a40927a94b057671fab87ddba1bf432", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02dffbf04eb3583c9e0c94fa2733dd364b14fbf6b67f116dd5025b65a5ecd2ba", "verdict": "adds_false_claim", "reason": "'When the top half leaned toward the light, the beam spread out in a wide, generous oval across the upper half', but the story then says summer light 'concentrates on a smaller patch'. The hemisphere tilted toward the light gets the smaller, concentrated spot; the spread-out, stretched patch is on the half tilted away. (Minor: the quarry pool's blue glow is from absorption and scattering, not refraction.)"}
+{"prompt_hash": "cae5845acb1a3350a300734346753b67136d15a51b920adc19f5421b2ac2c506", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7135a30dd2fcb6844b4294d0817dcbc80209592b67b1ff6b431db694bc0d947a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd345a6c82d8061c604be7a12a9481f49ec74a9cdb711ebf032608d1968271c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2a1d0d1e1af4aaaea4120fbf82d78ecd869e803cbfcba6be2d519b0371ee192", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3938133d5ab228d7a4d41a97b519ea61c202569ea74ef002823435905ea1f2c4", "verdict": "adds_false_claim", "reason": "'the older brother finds him under a bush, red all over, in the garden.' In Hurst's story Brother finds Doodle 'huddled beneath a red nightshade bush beside the road', not in the garden (source: story text quoted on enotes/litcharts via search)."}
+{"prompt_hash": "8c8ae4678795e0d2bf98feb8746a4def81fe3a3835904c0ff027d597cc4c4342", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96ca7363c03cac222de62d1d8f87e19d94979558c035cc21584da37db4a204d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47babfcaee97657610ed28a7ff47ed6c6b393629abc0d291afc6f59167a7d021", "verdict": "adds_false_claim", "reason": "The story says 'eleven walks at ten dollars each' and later 'I earned 112 in walks'; eleven $10 walks is $110, so the walk total does not add up."}
+{"prompt_hash": "b01499d0ce0507a4fa06e2668fe6b83436c071ca6533ea22447e51b37377aadd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69d5dddfa5d099ebf1aa3619e901c767207c17247c798d7fd493511bb24bb8cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e798ff8e536be2d7a32d23923d8bc843172524be49cda809e5535afbb77a3872", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee6d9e7177be1c6e7e58d5833663bff6626d60cb4d8dfc4223e0794a3a9612eb", "verdict": "adds_false_claim", "reason": "'around 9 to 10, as far on the opposite side from vinegar as vinegar was from the middle.' Vinegar is about pH 2.5-3, roughly 4-4.5 below 7, while soap at 9-10 is only 2-3 above 7, so they are not equally far from neutral."}

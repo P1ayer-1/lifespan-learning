@@ -1,0 +1,40 @@
+{"prompt_hash": "5dea441929c97a0cc28134f1b82bc9739e1c5ce529397320c6145cf822cf59cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a18791b82c3e71e597c67d6b18e50793a69c8c3ec3229f8ed1fff765a4b40e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e655c3d9d428cd059369c3fc7bfa6822dbb04179f9aa13520320702672d36d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9aaa45add9c8a55a21c17608148fe15b2991ce5efed1c7f0d60ac780b1f59419", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ba3db27cdf7c99bbf57894cee6f2fa777630fda37952de7abd3b08dd0e1c8f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7c15c8111a8b725104a678ed11875bf57a74f407c5e46cdebd6b21bd6d26fe5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82972aa20bdd05e92b44a96f121960575dfe9b5acb0a13ebf11352fdc79eb4df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49039e97fc1f232d83d8e345a925f5d2e531cfff9ca9d441df1147893b462806", "verdict": "adds_false_claim", "reason": "'The flatbread needed ten minutes per side' (cooked on a griddle, where it 'puffed'). Griddle flatbreads such as chapati/roti cook in roughly 30 seconds to 2 minutes per side (e.g. rasamalaysia.com chapati recipe); ten minutes per side would burn them."}
+{"prompt_hash": "54bdd455d99d9d18bf3c7b3b72e6e911d97ec820e500a662b8d7527aa37c064c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "284f6eaa75871b667f8f86b9a2b374f1a3b12417fe807519add5689f2e56ab9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91e184e8e461af3dd90821e52952e0f3d55c49edf6aacc25539476eac083b6d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5326ab292118d488cdbd97fc815aa63a3db7a4935009259e66db4b1aa9b4bba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "344396658dafd24f93709c67a72edfa76621276f25c71e400e1f2b73884da3d0", "verdict": "adds_false_claim", "reason": "'he removed a third of each side, taking one unknown off the left and five grams off the right, three times over, until one unknown faced five grams' Removing one of three unknowns three times leaves none; it takes two removals to leave one unknown against five grams (arithmetic check)."}
+{"prompt_hash": "2443ccc7fdf340418953e96441da9dd2564825715a2079e2efa639e58eaa4c69", "verdict": "adds_false_claim", "reason": "'Dex laid it in off the glass, no rim, nothing but net.' 'Nothing but net' means the ball goes through without touching the rim or backboard (dummies.com basketball terms), so a shot off the glass cannot be nothing but net."}
+{"prompt_hash": "b58f4a874bac6a0a67654feff4a6f7234aaecb46167d43a523f7ce11ee1e37ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b08287183fb6d3c409059663b711ad5e5f8eb1c860806c6fefccbd7f255645b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "690e8616ef01879b17dbcd7a9ba23c733c08babc7007dad9d9dbc9a7bad0993d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83a52a6c32a86c2b62defee0d4b087a2466f54d0483c5928aae3077ea727bd0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41539ffdc8877ddb173f7dd5d6c22da466f5a40ec2929873f77cf07819900387", "verdict": "consistent", "reason": "uncertain: that air-wilted onion scraps show the membrane pulled away from the wall; classroom plasmolysis demos use salt solution, and air-dried cells may collapse with the wall instead."}
+{"prompt_hash": "9cdc96934327659fd00ac6ca110286b224aec4c183b3d3dbc433cec0e341c1a2", "verdict": "adds_false_claim", "reason": "'the districts went six for Purple, four for Green, and one for Orange. Under the winner-takes-all system, Purple controlled eleven of eleven seats' In first-past-the-post those district results give Purple 6, Green 4 and Orange 1 seat, not 11 of 11 (arithmetic check); the story's FPTP-vs-PR comparison is built on this error."}
+{"prompt_hash": "e0401bd5cb2f4ab9138782f3db602d7595ed5cf650c36481294449af2a239215", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8de6162bbf39cd4bc7aaa6f4995cd93264c94365ef3f5c9e069e12f86879f644", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8854f1756cd587d3f24eb90e719513d8ec4ab28e9ed9476fdc440b6f7832b5f0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "66a2517c92a5dabbff55a38b0b85f2b35484e967a94a4daf944c5c3b7277460f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "213145201eeef8b9b2c03ed2ff10966a10cb04721a141eda73735b23eef88a3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c589b478a6decc1667b1bafe6e429ae95f1b2f3d2efa535163d709ba9ea214c3", "verdict": "adds_false_claim", "reason": "With Grade in the rows and answers in the columns, 'chose to display each count as a percentage of its column total. Now every grade's answers added up to one hundred percent within its own column' is wrong: % of Column Total makes each answer column sum to 100% across grades; normalising each grade needs % of Row Total (Microsoft Support, 'Show different calculations in PivotTable value fields')."}
+{"prompt_hash": "478ff90e18854142a80fb1a800dc18ebb334c4a31f3280d5f570b2fd5998090c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db77b39126abea54604db4c825f6b567ebb0a232dfb4bf146d432127a9b0b5bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "018a0f48ad0657dd7d60b31734c7437f85a15717849060dbb7a23025954ad43c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6dcda4a97a5ce513fa578405d222f5a3ce6f5e9663e40eca388c720af34a99a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3453e0eb7f6f90b9af61f7e5b188c9c9dc16fbae9dd84444440dc5e1fc992e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a6faa2b4638f23c0d5517fe5f0c67e7f5433a670807c6f47637e6f752b929a13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "710f6db5c8914017c02d30a626d9627b9f85e919b8bd5c103ea74b54a0998e89", "verdict": "adds_false_claim", "reason": "'Two washers in the right hand. Six in the left. Six loops done, two to go, and she was only half finished.' She moves one washer to the right hand per loop, so two in the right means two loops done; and six of eight loops would be three-quarters, not half (arithmetic check)."}
+{"prompt_hash": "359aca1fa83e14d2ef30832c49916bf95339140375ff31a31d74c068d613938a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4b801ba394a0fae80384fcdb5e36d9b6385dd185e219bf977d19a8c90ee1cb3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b03adf37f8fe5a337bd1a33a2c4a7ef88d22c8469a670cad7045bb6e25fa3bdc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6dfed68a6b2482e35116f7404444ea4107bfbfbab0c0475ef75b3c32e0516a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68b4699d5582154a9a7ed5222d7405b383c48a3c85f694bdf2084bc3a4ff2010", "verdict": "adds_false_claim", "reason": "'Also, tin is in the floating part' / 'you nearly picked tin off the bottom'. Tin (Sn, 50) is in group 14, period 5 of the main table, not the separate lanthanide/actinide rows (Wikipedia, Tin)."}
+{"prompt_hash": "1ddbe78ec7482365f4e84a710b2dea71becd3651f98ab602ff2987c2b80a0d4e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b968b2a35201cd251540c4570841a46a19e74880a1c059ec5a83cb95bc3693d1", "verdict": "consistent", "reason": ""}
