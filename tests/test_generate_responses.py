@@ -470,6 +470,32 @@ def test_matching_registry_passes(tmp_path):
     assert out_path2.exists()
 
 
+def test_parallel_runs_do_not_erase_each_others_registry_entries(tmp_path):
+    """2026-09-30: runs launched together each loaded the registry, added
+    their --out and saved; the last save erased the others' entries."""
+    reg = tmp_path / "_generation_model.json"
+    reg.write_text(json.dumps({"model": "m", "files": {"old.jsonl": "train"}}), encoding="utf-8")
+    loaded_a = json.loads(reg.read_text(encoding="utf-8"))  # both runs load
+    loaded_b = json.loads(reg.read_text(encoding="utf-8"))  # before either saves
+    loaded_a["files"]["a.jsonl"] = "exam"
+    loaded_b["files"]["b.jsonl"] = "exam"
+    gr.save_registry(reg, loaded_a)
+    gr.save_registry(reg, loaded_b)
+    assert json.loads(reg.read_text(encoding="utf-8"))["files"] == {
+        "old.jsonl": "train", "a.jsonl": "exam", "b.jsonl": "exam"}
+    assert not (tmp_path / "_generation_model.json.lock").exists()
+
+
+def test_a_registry_save_that_flips_a_files_split_is_refused(tmp_path):
+    reg = tmp_path / "_generation_model.json"
+    reg.write_text(json.dumps({"model": "m", "files": {"x.jsonl": "train"}}), encoding="utf-8")
+    with pytest.raises(SystemExit):
+        gr.save_registry(reg, {"model": "m", "files": {"x.jsonl": "exam"}})
+    with pytest.raises(SystemExit):
+        gr.save_registry(reg, {"model": "other", "files": {}})
+    assert json.loads(reg.read_text(encoding="utf-8"))["files"] == {"x.jsonl": "train"}
+
+
 # --------------------------------------------------------------------------
 # clean_story: the deterministic backstop against titles and markdown
 # --------------------------------------------------------------------------

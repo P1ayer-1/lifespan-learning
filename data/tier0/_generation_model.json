@@ -1,9 +1,14 @@
 {
   "files": {
+    "D:\\Lifespan\\curriculum-learning\\data\\phase3_prepilot\\regen1\\stories.jsonl": "train",
     "D:\\Lifespan\\curriculum-learning\\data\\phase3_prepilot\\regen2\\stories.jsonl": "train",
     "D:\\Lifespan\\curriculum-learning\\data\\phase3_prepilot\\train\\stories.jsonl": "train",
     "D:\\Lifespan\\curriculum-learning\\data\\phase6_prepilot\\regen1\\stories.jsonl": "train",
-    "D:\\Lifespan\\curriculum-learning\\data\\phase6_prepilot\\train\\stories.jsonl": "train"
+    "D:\\Lifespan\\curriculum-learning\\data\\phase6_prepilot\\regen2\\stories.jsonl": "train",
+    "D:\\Lifespan\\curriculum-learning\\data\\phase6_prepilot\\train\\stories.jsonl": "train",
+    "D:\\Lifespan\\exams_prepilot\\raw\\phase0_stories.jsonl": "exam",
+    "D:\\Lifespan\\exams_prepilot\\raw\\phase3_stories.jsonl": "exam",
+    "D:\\Lifespan\\exams_prepilot\\raw\\phase6_stories.jsonl": "exam"
   },
   "model": "z-ai/glm-5.3@openrouter/Baidu/fp8/reasoning=low"
 }

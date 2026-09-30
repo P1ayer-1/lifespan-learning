@@ -41,6 +41,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
 import time
 from dataclasses import dataclass
@@ -449,9 +450,71 @@ def check_registry_model_consistency(registry: dict, registry_path: Path, model_
     registry["model"] = model_id
 
 
+REGISTRY_LOCK_TIMEOUT_S = 60.0
+
+
+def _acquire_registry_lock(lock_path: Path, timeout_s: float = REGISTRY_LOCK_TIMEOUT_S) -> int:
+    deadline = time.monotonic() + timeout_s
+    while True:
+        try:
+            return os.open(str(lock_path), os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+        except FileExistsError:
+            if time.monotonic() > deadline:
+                print(
+                    f"REFUSING: the corpus registry lock {lock_path} has been held for over "
+                    f"{timeout_s:.0f}s. If no other generation run is updating the registry, "
+                    f"a killed run left it behind: delete {lock_path} and re-run.",
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+            time.sleep(0.05)
+
+
 def save_registry(registry_path: Path, registry: dict) -> None:
+    """Merge this run's registry into the one on disk, under a lock.
+
+    Runs launched in parallel each load the registry, add their own --out,
+    and save. A plain write let the last saver erase the others' entries
+    (2026-09-30: four output files lost this way). Now the save re-reads the
+    file under an exclusive lock file, merges `files` (refusing a path
+    recorded with a different split), refuses a different model, and
+    replaces the file atomically.
+    """
     registry_path.parent.mkdir(parents=True, exist_ok=True)
-    registry_path.write_text(json.dumps(registry, indent=2, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
+    lock_path = registry_path.with_name(registry_path.name + ".lock")
+    fd = _acquire_registry_lock(lock_path)
+    try:
+        on_disk = json.loads(registry_path.read_text(encoding="utf-8")) if registry_path.exists() else {}
+        disk_model, model = on_disk.get("model"), registry.get("model")
+        if disk_model is not None and model is not None and disk_model != model:
+            print(
+                f"REFUSING to save the corpus registry {registry_path}: it now records "
+                f"model={disk_model!r}, this run is model={model!r}. One model for the whole corpus.",
+                file=sys.stderr,
+            )
+            sys.exit(1)
+        files = dict(on_disk.get("files", {}))
+        for path, split in registry.get("files", {}).items():
+            if files.get(path, split) != split:
+                print(
+                    f"REFUSING to save the corpus registry {registry_path}: {path} is recorded "
+                    f"as split={files[path]!r} and this run would record split={split!r}.",
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+            files[path] = split
+        merged = {**on_disk, **registry, "files": files}
+        tmp = registry_path.with_name(registry_path.name + f".{os.getpid()}.tmp")
+        tmp.write_text(json.dumps(merged, indent=2, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
+        os.replace(tmp, registry_path)
+        registry.clear()
+        registry.update(merged)
+    finally:
+        os.close(fd)
+        try:
+            os.remove(lock_path)
+        except FileNotFoundError:
+            pass
 
 
 def append_records(out_path: Path, records: list[dict]) -> None:
