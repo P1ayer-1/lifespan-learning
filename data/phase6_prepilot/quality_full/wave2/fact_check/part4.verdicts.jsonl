@@ -1,0 +1,40 @@
+{"prompt_hash": "4ab8a8e7cede6202a5346f381c899160846608be38d67258c0ecfd1d20ccf705", "verdict": "adds_false_claim", "reason": "'blocked on the thrust stage in the main house, with the audience in a single dark wedge facing the action' / 'composing for a single viewpoint'. A thrust stage has the audience on three sides (Wikipedia, Thrust stage); a single facing audience describes a proscenium stage."}
+{"prompt_hash": "0767646d2e737f799266dcdcdba6cdfdb354e08b19dbd119f83cfddcbc59edd3", "verdict": "adds_false_claim", "reason": "'She ran the letters again from the beginning. Serine, histidine, glycine, leucine.' Read from the first letter, UCC AUG GGA CUU decodes as serine, methionine, glycine, leucine; there is no CAU (histidine) or GGG codon in that frame."}
+{"prompt_hash": "23868f1b60e1c7233bd04f67ba3b0bdd009b4a45d95360194c8e3cdef63ffe11", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "776a2a4fbcd245d1553974897037c62eb1a46c47f047fd77dc7f8e38e395b3de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "065300490cf649b882e8e0b83360a90881b7660014c6450ed86aaff0e056bb19", "verdict": "adds_false_claim", "reason": "'the red of the lower half and the blood at the corners of her mouth' / 'the corset is grey because her actual corset was grey'. In The Broken Column her lower body is wrapped in a white sheet, the corset straps are white, and there is no blood at her mouth, only tears (NYU Medical Humanities, medhum.med.nyu.edu/view/12902)."}
+{"prompt_hash": "cdf26da0e2ab1e3cfe9b403ddce36436a479a1f8f48c6b12650112a8fc8dfeed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8376deb7fcbeb21b78e5c504d6c93176d14e24f0845c7cf65c3cb9ff18c9c24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c01d268157cb673bbe712e3cd887330375ffde19882602613c42c89623863771", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc7dbe1c8d8729adf8a5614e09c054973e3bd0d2e91f8688ad421cb57ae42431", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0fd153a369c9b48c41148613cedafe6fc6bbc5ef2c52c2e09a001e7f459272de", "verdict": "adds_false_claim", "reason": "'a single person deciding, on a Thursday in March, to walk through a particular door and press a particular button.' 28 March 1979 was a Wednesday, and Commons divisions are counted by MPs walking through lobbies, not by pressing buttons."}
+{"prompt_hash": "748ad3650d0511ce204cb40fc42c89f2bb05d95932d4a7950f5513f2235b9af3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a481a177e84a681a41df35f2b1050bf07ff52bd054bba189de5fc3c58ed21511", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62da6041211a8f2a2f4746cdd58e6ee1b589559e294a8a94a1d87c721e4b3182", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27f24b439f6d3579a86c89df563c34601182f50c25fae10db1db60bd70dd361a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3656f227afca745696952b4e8bace7f093d55af62c2e83c4801fc9aa5727d283", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bacf6d386acafca1d2a3819f79b328951bda3d8cf0e29eac6ea98ae14ee3f34e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bfcefdc7188734b72a642274ce683afd580a1d05b2cef1662ad67ae7d6aa926a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57d0adbc14a2f0ff2047f7e72e05c0a50e44f3315e5e75904d33f813d974b742", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4cd7763badfd64fe81a9fd8661a82b5c4ee8e67e200524cb618b9dd005d558a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15bde9cc066d05e74c99ddb02eb789990117455962faececd9de76c2512ffb39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "745e8ff02eea0ebc3839b95f93f2c2f8faffcda35de5c7fb155081c73d1c0347", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38e6ee9f9a379d658ad2bbf34a8b00f8773b684b10d0b5b626454d32ff1bc2c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a91e14d879b18fba825e45abdce8d8c61232de44f8d8a728a586ea89c2be4809", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa4f9f770592ccbeb5e8ab810a3a92d2342b986397b6a42daf398fc326b8899e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80de69407de12d2b870f33d345334130475715c3f34cd1607ae32a7b50d18051", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9d6d46e8b276420f1c2cd415bc8771d3e10878bd8648d62efb8d77ff3240fbb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0db38b85f5239ed35c04cc47a31a1c99dbe4887f4a82148c75969f3f465ed8c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2a9f1280421ae29a159a6424c168869fda6392b250ff16dbbb84581225c57a3", "verdict": "adds_false_claim", "reason": "'two moles of water for every mole of oxygen'. In CH4 + 2O2 -> CO2 + 2H2O there is one mole of water per mole of O2 (5.0 g O2 = 0.156 mol gives 0.156 mol H2O). Also 'how many sandwiches... Two... Right.': two slices of bread make one sandwich, so the limiting-reactant analogy is miscounted."}
+{"prompt_hash": "f25022754c55a56cc258054b47261bbc0e011a2c5f0355d24884bb82bae6a068", "verdict": "adds_false_claim", "reason": "'Fourteen names had NULL beside them, and at the top... was Mr. Halloran.' Halloran has an order (the 1998 plum tree), so a Customers LEFT JOIN Orders returns that order row for him, not NULL; NULL only appears for customers with no orders at all."}
+{"prompt_hash": "b5354c46269d105e3007697aea74b395c8646f635f1c65dbb71002579ac837eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d4fd2953b483ab182630661aeeaa276414f99fe358c8a3bde909c801e1da5a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "785f6000ad5d1be754a8d2334906262d8ac5533673f40659a0be3836ae6b78e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "253224636ac46c0ccdd4b3b43276e36ab65669f2c0962bc0dc96f6f8ed7aca21", "verdict": "consistent", "reason": "uncertain: 'the flowers hot pinks and reds' in Self-Portrait with Thorn Necklace and Hummingbird; sources (Wikipedia) describe leaves, butterfly clips and dragonflies but no flowers, and the monkey tugs the thorn necklace rather than a ribbon."}
+{"prompt_hash": "749db8408e1da6d29e6106935ac9473b22203ad717db0dde6619f50d785d1b7e", "verdict": "adds_false_claim", "reason": "'Isabelle marries Heathcliff to escape her brother's control'. The character in Wuthering Heights is Isabella Linton, not Isabelle."}
+{"prompt_hash": "7ffc8a4a4b5afdc8ca1b3a2f39620b448df2ca6864f749437e976be37e580efa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "30d802f6d7c198da6469594082ba9cb9c132ce3dfcc2bf2e242226cf154cc73b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d908aaa51196eb7693ed99c2f34ceba0cc8ef35ae99d489cedadc3d04531d8b", "verdict": "adds_false_claim", "reason": "'the aluminum frame that had been bent so many times by deliveries that it had gone ductile, soft at the corner'. Repeated bending work-hardens and fatigues aluminum, making it less ductile, not more."}
+{"prompt_hash": "c2cf3ce71cb5869123993228a290ffac9b5fde392940667796b4e4922d861c61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85a3d7cfeeebd072087f56962073fe187149ab49af7e30d8994d96c76dc2103a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54f0f4ba8444ad14e40aa0d5e18f0bd7a2cabb1cebe07158952c5cc6d7248f9f", "verdict": "consistent", "reason": ""}

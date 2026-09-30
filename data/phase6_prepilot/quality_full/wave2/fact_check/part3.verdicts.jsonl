@@ -1,0 +1,40 @@
+{"prompt_hash": "595662e3642b0f3c55090bf56c5162587c69385b7b271e2b188a37dbba9fdff0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f2628102d72f0b4e8333339b9ec33db40292b13e9a999b93279add75a37c8d8", "verdict": "consistent", "reason": "uncertain: 'In the seventies, historians stopped agreeing about it' overstates the timing; the revisionist challenge to the classical interpretation began with Alfred Cobban in the 1950s-60s (judged on knowledge)."}
+{"prompt_hash": "ea89a48480b89f30dd701f22c72f1e18de237074a0ac35943a0f7c8e5b5e8b15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c81d529295f85fcd83a3ace404ea23f58cea220f1b30c13ef5ebf9264455b90b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23a41c633ccc656bb82fd3b77c265163bac7063c82cae9efae4f4c5c6575b597", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7baf1469eb8bb832afc7d692f07c2d700963864d617ac85c887561d04a47eb31", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aec8172b6263b81dd315fd335fb83880cb31c402f03e082936731a62eaa15f36", "verdict": "adds_false_claim", "reason": "The story has Annabelle eat rice and chicken that 'sat at the back of the fridge... for five days' after reheating it to 165 F, as if reheating solves the question of age. USDA says to keep leftovers in the fridge for only 3-4 days (usda.gov leftovers guidance), and reheating does not make older leftovers safe."}
+{"prompt_hash": "4593e98c2cda45653ba4735d3a584c1733abceb84535eb3d3e0023b7b6a14b95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58cebffd5b342d78bd82c2a39722a4fc9e89abe05fb1e8aaefe791319d532db6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96e691227eafdb8e08cbebc02cea3327e0a746da46a122e413270487f096de63", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "66a83df60d09f448324d1a8e469267b8712607cd2a8e68bc9e2395b44a10cae4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cc6d2b5f2199ab47b6310aa12df812b67d4285d23d46eec61e235bd72c5b29b", "verdict": "adds_false_claim", "reason": "The story says 36 g of hydrogen reacting with oxygen gives 'Eighteen grams' of water. 36 g H2 is 18 mol, which gives 18 mol H2O, or 324 g of water. The mole method the story teaches gives 324 g, not 18 g."}
+{"prompt_hash": "190aad6f41f238c244bde6485f92cba7c0c49081f8ad4b1b21469381b372ad38", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9844ea7900d06d4514e0f51fe70f6152491e7d70711158bee706cb6ff4db5eff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "217c7f9ff8bd90102c7e6cee7e4cdeb3863e29ef1b3a8224448720685644a5ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d170035d69b31761aada5a3ba8643a6462d7b63cfb980899df2b0033d8de4f36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67c4fc5f57f08a444f91beb59eec64a1af2696a0b08694b025806f2d0d8588f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6204457071485bfc06af6d8cef7c49c93e08efd41f4250d2cacfb197a2ac5e40", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45890ab886754ff33e2f53af8e236520c5f6249d5acedfe163152dcdb41d0cef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e88d5e9e8a725010defb3bd7b2740b18ee5f4be3140a20a202c331749fb5165f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cfb30cd3402061e7b0d547fb3082ec5dbd4c97e38abc86a691f74eb10dfe456", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f5772ef865144fdb9a9a2ddf2c58b150f252d852c71276f0a267949865d5683", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40ef10d048d5712c1ce28e5673de4514a6c6f6baf6d01651a28c7ddca3875bc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41c22fcec983ee7187f55bc05959bc0e4c06081994dde40db6e31d98fc186b85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5eefa38df8d93ebf8aba1c1552df31b394a5ed0719b2b95fbe255eafd97ad1e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe50c4f152863851ca823fa5117be5e0c37dd07f2123b3cc77b1c310d28be86f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61b60f0fdb703b6797bff9bcb1c54dadab7df80441c15320b54cae1d760dcb55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64208d2c58d12083ce6115a069736dd00a6a9108effcfb0f07d39b968a46e33b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c04ab974c873d4f67f0672c0c9682bbefd1dc07cc4fd4dc2d3580ecb373461fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7efb4a3d70820b9a8602982380294d0685e60202895874c290ce3f95a1c4fba7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c11fba7d9a1d9ed412d41a06ff34f4bbf4b84142c1d21978b3c854d033030f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff28d135ec48def1f1bc41fec7d895076027207a783b298d1a6970b5601a7295", "verdict": "consistent", "reason": "uncertain: 'poured a third of it onto the slab' (common tabling guides say about two-thirds, per MasterClass/Alphafoodie) and a knife-tip test that sets and snaps after 'ten seconds' (usually takes a few minutes)."}
+{"prompt_hash": "ad7428277f0520a22ef2314fd869cc413d32aa7686de67f0e26dc7a2ba9def83", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63b037c1b29f160b144746fdb87ff37eaa66d922d11e451f80ba3bda4f055e73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37d3122b50ce275eba88fd1718d8f21023e4e87f670afb2ec68b95d65e4daa53", "verdict": "adds_false_claim", "reason": "The story presents cooking the week's chicken and rice on the weekend and eating it from the fridge through 'Friday's dinner' as a working plan. USDA says cooked leftovers keep 3-4 days in the refrigerator (usda.gov leftovers guidance). Anything for later in the week should be frozen."}
+{"prompt_hash": "b4939d999d8fc21c172c7f3d6d4b2599dc535e3840f091372dd16b91e646e13b", "verdict": "adds_false_claim", "reason": "'the maid who packed Jane's trunk in the middle of the crisis, working while Jane wept' (and the mother's 'The maid packing while Jane stands there'). In Jane Eyre, Jane's trunks were already packed and corded before the wedding (ch. 25). She leaves them behind and flees with only a small parcel (ch. 27; Rochester later says 'your trunks were left corded and locked'). Source: Project Gutenberg text #1260."}
+{"prompt_hash": "becc724e013af3a1ffc4e998438dfbbbc1334ac8dd8d96f0a5774d4440854346", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05e4e99a9306d1afc9401a239b5a967d29c91efadbda2897f2f3a625a18dd3da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "724242444fd348e1716576be0d8c415ba192a567dce3dce4f864a152ba719b68", "verdict": "consistent", "reason": "uncertain: 'The mitochondria... That's where glucose gets broken down' is a common simplification. Glycolysis takes place in the cytoplasm, and only pyruvate is broken down in the mitochondria."}
+{"prompt_hash": "b023e62000871a6ddd1a254cb33d20ddc2b18b0159ee8dea3b9ae346adb85f2c", "verdict": "consistent", "reason": ""}

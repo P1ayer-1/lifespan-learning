@@ -1,0 +1,40 @@
+{"prompt_hash": "f8cc56d7d66692afe854753355a91bf87f0402f00726c36ea6d4b419305456ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac44bf577b985144c93cbaae440d1c14d6ec06e6797e62be3775e24ed81d88ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97d23cb3600d046a0996ad8d62a0a68648b93e72143fc15c6fc423d522196850", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f779256ef3fd7ee7bbf5c6c55b1cc9273a2ed598f160026cae8aea7390073091", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "221e39a116328f4e79ff4e799d9c29b43d6c9b5a08b7aca1d096529e12711e45", "verdict": "adds_false_claim", "reason": "'He asked the youngest the four questions as tradition required.' By tradition the youngest child asks the Four Questions (Wikipedia, Four Questions). Also 'sundown was around 7:40, which gave him two hours and forty minutes in the small room before the Bernsteins needed the lobby' is wrong arithmetic: 5:00 to the 8:00 booking is three hours; 2h40 is only the time until sundown."}
+{"prompt_hash": "d5ea9deca35d6fe1b012b5d7ede4da168ff288f70e04da5463a012e216ad1bca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4491aeb0fd8cf6d5d88208bfcf067ee71b719c09166d860c096ec5b88f2f2117", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9cd9ad6cb5707e8ff505711f3c4a537a97819d52d24b807ed46bbd984ca2e1e", "verdict": "adds_false_claim", "reason": "'The answer unfolded along the cold blue to warm pink line the demo had shown.' In the cobalt chloride equilibrium the solution is pink when cold and blue when hot (NCSSM and Temple chem-demo notes). The equation is also misnamed: 'CoCl6' is not a species in it; it is [Co(H2O)6]2+ against [CoCl4]2-."}
+{"prompt_hash": "5f7449df052b0cb7ab146de7844db51cde59fb96a38850d08bb8e6c251095fad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56014df55b912ef1a1a96518d4d87e242eb0cb696caad8588eede7967e2c7a12", "verdict": "adds_false_claim", "reason": "'She checked the arithmetic twice, dividing 585 by 58.44, and got 10.006.' 585 / 58.44 = 10.010, not 10.006."}
+{"prompt_hash": "0314e54c9ce3148af0d253ccd9ff8818ba0c5a4e7ca37577cc544cf5602adafd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2053b87476cde510756e507a0d4eb127f94af2b0b9d3f3bba77051256ee5c55", "verdict": "adds_false_claim", "reason": "'...the desert horizon, the coral band of the dress.' In The Broken Column, Kahlo wears no dress. She is nude except for a white corset and a sheet wrapped around her lower body (Wikipedia, The Broken Column). The injected fact about the nails, tears and direct gaze is stated correctly."}
+{"prompt_hash": "9395763a48c8b2e4c74eec561054e085984eedcaa6dc683f70455ebbd4189d5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec586449d5e633db4dade6f9d8f0dcfd0f3da0a6b82a20ba0193285b366d4b58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a938812380c7b27ed21b224d70a29dd0547caa5476c58fe1ffc820f38c5a1ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1475b5cf257aef17f2bde014de9629a9351154a59a22e5484c720fea4f8b0dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "954b44fda16bd54ddf8b47efc2f2707543c9aac436bc3c56004ca49b845272e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a001a2d51e8e39069f1a13e502eac0baaa5e93b66aa5e8777ed04ef1e82c05c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3962f6a96bbf0419235c759f77e46a3a31a11c8a5e48b5179188757230aeac8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de5c0f46c6ff15572252ec1cdf64f0c842c8f4c0e65f300e282289eed1c1e33f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6fd74aa17c16a088134b5b1c04bdb108a4f35e879f3c4705582e107cba14a340", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb20812afdb9de0939940b969d02047fadde07679f94e2d832ff0e1d9f0a92b7", "verdict": "adds_false_claim", "reason": "'Minus 18 degrees Celsius on average, the narrator said' about the Moon, and 'the Earth did, at minus 18, before the blanket.' The Moon's mean temperature is far colder (about -60 C at the equator per Diviner, UCLA), and -18 C is a hypothetical Earth with no greenhouse effect, not an actual past state of Earth. The injected -18/14 fact itself is stated correctly."}
+{"prompt_hash": "1f78af41ea8eb870d03006514c3f13cd5f51311db0592ac1d7f92467fbda00b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecbaa49a30496aa7f87a65e522447bded48d63c2921ebfb76d5ada33c5fa728d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5649fe53d9b59eedc1485b3637f8c06fd5dcddc8dbdc1e3ff51ae4d8bab7edc1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d65be04376349b6a9b06b09e9ca57060f051be17372a3314bea2f61bfca29c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61f2eceebba758336c29dc910e51c69d8dff92fa85215182e788347da55dd9e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97166aaa47b02cdca1eac6606b43e03b0d9ccbba0e43ed9ba013b5d2b28b03ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cfdf1a7fe4b26a95789867fa0c3a26592a584a93f9d5ca1ac66de412aa99ee3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "660b7c7a51161068b802697e629e0e5f44f4b45475148a1ea44f3adf6eebbac8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed8f792cc7f6a79568aaea02a864232c2ae0d22d5939214fe49303b7f68f259f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "518157316562c2a5a04bc52214a126fe926c0b96150cef4a37b440cdc6959302", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a78d4bd9622bcc310c50bfa471e9ac404529d7d881fb31aa5688d49f7ae1a0c0", "verdict": "adds_false_claim", "reason": "'The Second Sex, Simone de Beauvoir, the translation dated 1949 on the copyright page.' The book was published in French in 1949; the first English translation (Parshley) came out in 1953 (MIT Libraries 150 Books). The quotation and the 1949 original publication are otherwise correct."}
+{"prompt_hash": "82bef4438ca61498686345817bc2b521bdd84c26e96abe5a6e79c4b4801cd26c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36faaa7e77339fc730b85562ba575c027aea46c3dfc61865445f476ed0ec3cd0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39ec666c4401c4c0d39fd49e9eafbc80bb9c1fb960da93f4b34b78d501407f3f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "402a7c3ca0d1c3592a7c76c204ebace70e2eb9a3caf73fc00dbf5a58c58a9306", "verdict": "adds_false_claim", "reason": "'She began to drift left... Madison looked over her right shoulder.' When moving left to merge, the driver must check the blind spot over the left shoulder, not the right."}
+{"prompt_hash": "7b8cd350d4a1f86900aa8f6731247c973555369f2f87c2346ae8c29717ccb06e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2a21f206909f670a8d7a0a4fee25c71710b20d01dd80e61cae430de02a44e92", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76e92ee614d6d2e672f951ac3581b6c6a5ca26f0811bee92d6adabcf7db00fee", "verdict": "consistent", "reason": ""}

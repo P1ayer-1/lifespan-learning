@@ -1,0 +1,40 @@
+{"prompt_hash": "a545cf0fc380123938ae97306cb2d990eab7df3b2cd8b06540af5cf3fa9c4d1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ddbea2f284a7806b5ed0a9531d057d96c688c71e75651abc8b6d6db6d92dd7e7", "verdict": "adds_false_claim", "reason": "'the laundromat unit, nine hundred and ninety if heat and water together came in under a hundred and forty' The laundromat rent is $890 ($60 less than $950), so a $990 total means $100 of utilities, not 'under $140'; the story's worked total does not add up (and leaves out hydro, which that lease also excludes)."}
+{"prompt_hash": "ae16476918a7c6e2359d5db84f9247fbd996a463355e666e687d337fba1f5ee2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3ab3d7f776749d5ea6f4ca96afc21f2716986d62b7e2d0a63d3625c5c9bc213", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd283221a0f410501e185d5be4e22c730d77003a48ec3e5583040e05d990cd47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6b5fdf481555aec2ff567f4c15b078f3f57f32cfbddedf05091ba5262e40b9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df58b2e29af207acaa82b463b46fd02e72503f8b8bdbe78a7da470b3e3468f37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8d39cf9b67b696517011eba81a2dc928faf74b90f91ff77c3781978ef2975f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f55b21f3b8ebcdb420fa2c9c8a13a464a974192e52362bd551ef804ee3488e90", "verdict": "adds_false_claim", "reason": "'it's hilarious because he doesn't clock that they're con men for the longest time.' In Chapter 19 Huck says 'It didn't take me long to make up my mind that these liars warn't no kings nor dukes at all, but just low-down humbugs and frauds'; he sees through them almost at once and keeps quiet (text checked via search of Ch. 19, storgy.com/Goodreads quotations)."}
+{"prompt_hash": "8af966a7c0af83445a88def888f092f63a122366ebecec96376afe2f9615ac4f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56dc0be26f239d3d08a1ed09657ecc96048db9980a4cc0f92333652594df5530", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36c75a2288990f7f2ee7fe8837b09d6f05f4195c7d5b671b4d7589b3a468a83d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a5c145827e1b3b24441f48c4027994ee9b5f4927c842f67632a214dbb00fb85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd084dca3ae2a5d86df2191bf4ce025571f08aaec48dc9acb8b934dd028b23e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ff3bfe89d858f63fa6a1df1dc19cd0781d832841893d421d1b513ff436bfc73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a2180cc3ea4747db33b34495639e853a4030f1419282a5b3b94d954504d2280", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c40ba867f015700175b16c3572bf09c34585fc745e2ba9d0c665f0e4e89e86c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d975daf1bec43209b85ea847cc8d957b27c3597f7bee4f8fb59e67f8e967702", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4478ad543886a8854f964d2515cf797507df9e53a723dbb08b7e06c4ecec2462", "verdict": "adds_false_claim", "reason": "'The problem arrived at measure 194. Her recapitulation bracket closed there... Twelve more measures' In Mozart's K. 332 first movement the recapitulation starts at m. 133 and restates the whole 93-bar exposition in the tonic (Wikipedia, Piano Sonata No. 12), so it cannot end at m. 194 with a 12-bar coda to follow."}
+{"prompt_hash": "d69f7f3cad9afb550730be0d2034c5c91cb241e4f655db0aca7194fed0cc01ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "786f51bc75bbe176b80403277a021657a39cfbfd510391d65a1bb0cb82a9f134", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cc28afc63a44d6c2ae1ba7988185a4e8aec1cd26a23d27ff51c86479e514ab4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ee22cccfb0ad85589d7b2479b12787a8f33f7c0864829688c60a07827141eba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33ac7299bcc150e2b2a9bd0cbf111e3d0101450f76107cfb96d0613525d4e8cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9833dccbe3848b36f8aba07a65a6a79fd052558724b59888498767ee0ff9935d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edb1928215833b07977d9521be1147abc648edee9af7d75cf1d6356579d9e2c1", "verdict": "adds_false_claim", "reason": "'the American arrangement: a president elected directly' The US president is chosen indirectly, by the Electoral College (Article II and the 12th Amendment), not by direct popular vote."}
+{"prompt_hash": "507c6056315b8142e8c2112cebe869ab121a9ac935526f07d27fbb5b6481ce4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2d8a13ab2dda6f7114dfc91bae2c9d7cf6a992e5a3c10d0dc16ffb15809e03d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e66867095ce3f0bcb1d3fb0a9838a6cac0aa4a823fee74b8e0486479f87234f", "verdict": "adds_false_claim", "reason": "'This is most of it. This one can.' The can holds 890 mg x 2.5 servings = 2,225 mg (about 2.2 g) of sodium, which is more than the whole 2 g WHO daily limit, not 'most of it'."}
+{"prompt_hash": "809f5880dd71cce6e6e1b976d7f4a87e134c1ab5133345f29a58b8b2693964c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9fdc2545347062b201980d97b82483e3a60ddd997fae6c8ea49641c933482fd5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d56b1cb057a0b6adb56dda659b6df8749e48ddc097478dfa0179ec1584a9966a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "820ad68dd49534c9faa8f9202941da5fbbbdbce9611d6b184d96e37b96d14391", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "626a5fe6049463dc3eec534f1d684d2584d00e54eccf947a947946a6473615f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87f61edf2c644d1b939414996fa885462f677bb14980f579d6a3c51522c0f022", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e769fa225a88df0bb99cf5babd13ea1817f020e3ab170ed6b6b51f13b81e1dbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2048b18399795298f3e9ff95428ce93bf1fb03e8f4e216c17b93a1c696480718", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c18a824f3626acfb8ba7a663cc25d4065846a06769120178dce5afab491eab7", "verdict": "adds_false_claim", "reason": "'So the list was broken before, with the four names, and broken after, with none.' 'Right.' The same NOT IN query on the same data with the NULL present cannot return four names on Tuesday and zero rows later; with a NULL in the list NOT IN always returns nothing, so the NULL could not have caused the four wrong names. The injected fact itself is stated correctly."}
+{"prompt_hash": "fb18fe75dd5717789d3d902a3a739492dccac635a79bda184bde9b397cb4d5f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dfbaeec95ed125ff6c527f6bd6fd38e41bc3d4fc11b9a167172ac81005cb0843", "verdict": "consistent", "reason": ""}

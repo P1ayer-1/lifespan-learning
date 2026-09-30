@@ -1,0 +1,40 @@
+{"prompt_hash": "6c9d4c44f34b19ab4b7e9c9d0c85d5c9272c63ed955e01f7ff44d24626fccf41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3555265b4756a5cdd5d2a3bd7ff70be1cbc9449d9cff72f7960dfa337553d458", "verdict": "adds_false_claim", "reason": "'monthly carbon dioxide measurements from a station on a volcano in Hawaii called Mauna Loa, marching across a century.' The Mauna Loa record only began in March 1958, so it spans under 70 years, not a century (Wikipedia, Keeling Curve)."}
+{"prompt_hash": "3ee1cae8d0c502ce301c0ff2aa356650090ec649a8666d5ff9cdfb4baa64ff74", "verdict": "adds_false_claim", "reason": "'watching twelve twelve-year-olds... Coach Reyes, who had handed her the mites' Mites are the 8-and-under division in USA Hockey; twelve-year-olds play Peewee (Wikipedia, Minor ice hockey)."}
+{"prompt_hash": "886a5849299a3583491aabe32b79d1d5770b0d02e3ee785ecceaf23665dc48e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "afb37326b825e2664069c4765f2942672ac2a3a94b6b871484d04c610c361337", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46bc82d9cccdf01ce645122fb0a4f5e1138e3cecf92854f313d9ed8e8acb3e74", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4077a8a7d7bf63727a9ff43c4c53c3ac164f1bbf8b25be7fa1a65aff36063d82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b60424bc040b8a1f38f5a992f8abd33bcc51b5818e07ec991a899d12373bde3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3420f7d701234c198c18d307131ab86b83e23c21dce03f9e039ede333e77a0e1", "verdict": "adds_false_claim", "reason": "'Keira drew petitioner, the student's side' and the unanswered 'Schools aren't Congress. So how does it even apply?' In the real banner case (Morse v. Frederick) the school principal was the petitioner, and the First Amendment has applied to public-school students since Tinker (1969), so the story wrongly treats that as an open question (Wikipedia, Morse v. Frederick; Tinker v. Des Moines)."}
+{"prompt_hash": "be6c5e73d77eb96846af5fe0b5029d35337304cf9057d08278670db3ef004d6c", "verdict": "adds_false_claim", "reason": "The worked example is impossible: a cubic with f(0)=2, f(6)=11 and a critical point at 3.5 with value 4 has f''(3.5)>0, so the 'second derivative' could not show 'a peak and not a valley.' No cubic has a local maximum of 4 at x=3.5 with those endpoint values (recomputed)."}
+{"prompt_hash": "0d094419f8b2fafd2a0941fcbaef5dd88601f5070aefda1b89e0341b80c8467c", "verdict": "adds_false_claim", "reason": "'Black, wings folded, hanging dead from the thorn necklace', 'crowded with monkey faces', plus a butterfly at lower left and 'a single fuchsia ribbon' on her forehead. In the painting the hummingbird's wings are outstretched, there is one monkey, and the butterflies are clips in her hair; there is no forehead ribbon (Wikipedia, Self-Portrait with Thorn Necklace and Hummingbird)."}
+{"prompt_hash": "aa32163c23ab3950f03207a11c0d33e2483ac0d8d152645b3a97ee783e4d591b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba00e249e66cb8bf04d0a6c1768cfd3145eab6b030418e20ded2beda5bcdc8fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e138a2fc83e19dc5339aa0788b761ca960676ab86ede3d601f067c4869c141a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8876d76770849e5401cd0ebd312a539f457f58a7138796e26b4fa7c01bf5be6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4528e29fe4d273c5a16d318e707ff89bd7d8d42b290c857e7acb100f444a5cb3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "588619a60c177e0a493e83a5cfb4a7191a4fedf3da0f1cb79beb62525fccdcec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5311655bc3d9701d280d178a72890abd58331facb1d509718de1d82b460a4539", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a9867ffe2ce73e2bb4df5d19e4e6f21ce4b07e0e70eb88f7f574fd68dfae65d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f9e20997693563f0c88dc85019640b8e14e2a885c582c276f7fb67d5ae8a87a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3019ecb92b38c8e5e5f92f609abfbde5c716525460203116c5a57fb5f3b7d369", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3afa37c3667077982347a8661c6600c2ea958d230d9bbbf587f6f660e1fa52f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51b939c0801885bf951af1b0bcdb1a9185bf7707c19a5b023b27303d06786067", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22d8d10caca2af07331c3f8cfa854fc70d0aa318d0f3dba0ee87306ab9241928", "verdict": "adds_false_claim", "reason": "'He swapped the two values, ran the test again, and watched the bar turn green.' Swapping assertEquals arguments only changes the failure message; it cannot turn a failing equality check into a passing one. The fact itself is stated correctly."}
+{"prompt_hash": "38611c142fd7c73e0f6d608dcec458da35bd3238e5ecee181f816080543c132e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea0f02b9c897a4465c0cdd961fa34065fc827ce66c9eafbb70aed1d52fe80c57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6681af4caca52fc3f4878430ab984dbd2c580417b74607d0a5266639b70a4a08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "357e0a11007bdd98c0f8dc59c68ec51ef45169fcf734afb09f3911ea0a60e3c3", "verdict": "adds_false_claim", "reason": "'She wrote the signs in like weather reports, plus, plus, minus' The derivative is positive below 4, negative between 4 and 11 and positive above 11, so the sign chart is plus, minus, plus, which the story itself gives later."}
+{"prompt_hash": "0ff3756be8ec4e58e66984954b1b56d242afb709c09e1ada5229ffc1bfee9486", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f24f77356728e5ec55bf1324b60fd23647b955dbbc385061c7d56771c1cdc7f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "455654cd99b2a48fd242a91b0da831c23e2b7fd23739e7f4589778e7a72ab7af", "verdict": "adds_false_claim", "reason": "'between \"vermilion\" and \"vernal,\" sat her grandfather's word, which turned out to be \"vertigo.\"' Alphabetically, vertigo comes after vernal, not between vermilion and vernal. Also, six halvings of a roughly 1,000-page dictionary leave about 16 pages, not 'a single page'."}
+{"prompt_hash": "6d7697fa9b679c9f81ac42c0f5670581db28411fbaa16eb1e2c078e13374ebac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4feeb9eb14d3a0ad95249af52ec9f7527f59bcc3e3199aa4f9ae4cebec4c70ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96b6da7943310035b728b846cc923d93068e2eaa071a4d237ad1cfc0bf170896", "verdict": "adds_false_claim", "reason": "'128 over 76... The first reading was fine, under both thresholds.' Under the same 2017 ACC/AHA guideline, 120-129 over less than 80 is 'elevated', not normal (Wikipedia, Blood pressure)."}
+{"prompt_hash": "a67fabc57d8ce7b30400e0cf3ede152c1de19651b7fac5357841e2d1dc60e2ab", "verdict": "adds_false_claim", "reason": "'You did the complement backwards. You just wrote the same letters in reverse order' CTAATGT is the correct base-pair complement of GATTACA, not its reverse, so only the T's needed to become U's (CUAAUGU). Also, 'The fourth one. In DNA it's an A' is wrong: the fourth base of GATTACA is T."}
+{"prompt_hash": "f5d5433ef6089d4ae3fdbca726df934b84b061ac82bc6bfe4f301077aef1abd9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c676168582b4116a455c8fe7917686cec4ebaccf57271cd194e6005839ceeb5d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de7a8cc6a96be93eab11d678fc84453314f4bc8376895e855531638d3b47ebf5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "922d1cf115985708a600a87eb2db1e056153a54f7d4f622a041fa2d73925af22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e433aa602c551101d49f85ecbb89508403d78bc5cfea9e666661b7a64a0939e8", "verdict": "consistent", "reason": ""}

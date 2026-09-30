@@ -1,0 +1,40 @@
+{"prompt_hash": "1d7b8bc7900c300ebf3dee9c4defac8fddf917166083863f7dae60b2375e710a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "801a06a33f5c4cefc975a0540a3bf5df242df5fae8254226e5f5532d796c2e5b", "verdict": "consistent", "reason": "uncertain: 'He dissolved a pinch in water and got a pale violet'. Dilute aqueous cobalt chloride is normally pink; violet and blue usually need a higher chloride concentration. The direction of the temperature shift is correct."}
+{"prompt_hash": "c38c80437448b1f3c72a7b4a7b7bea63de86368bbf37cfc5e14a070420264bc6", "verdict": "adds_false_claim", "reason": "'I had cast Dev as Filer, the complainer' in Pinter's 'Trouble in the Works'. The sketch's two characters are Mr Fibbs (the boss) and Wills (the works man reporting the complaints); there is no Filer (Wikipedia, Trouble in the Works)."}
+{"prompt_hash": "d75ec159e606b4f504a44d2bd1d0af7844c16ec5e4e6eedcd90049be5153bf1f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8f42288a681e9a2a7dcf85dee7aacd498107ae66cd3d23872b5c6295741c193", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4aa8be8a8ea924c7578a6d2dd0f34d1a9ac5643cddd200b490a54d79e256292d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31816aa2c7dcf66dd79e970836c417387662d2cde79708251ce657be5ab75c2b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae53894144e1713ab01ca8d9d84a2144f0874ef0ffaf711e498b8e065770caf4", "verdict": "adds_false_claim", "reason": "'Eight hundred against five weeks of five hundred and forty came in just under. Flat B was legal.' At 540 pounds a month, five weeks' rent is about 623 pounds (540 x 12 / 52 x 5), so an 800-pound deposit is over the cap and Flat B's deposit is not legal either."}
+{"prompt_hash": "ba8ce870704f6b7598683ebef2f7c7046c00f68ebbbfaca7a533fc08de96feef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6dfc45ad882314d2c6b82187a23eb7a55f3ea5fa91caa7917278531e13dfa58c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9be0b9430deb4705d3943aeb7aa8797d9bcce92701c03a231ee04f5a0e1cd1b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1830c95c63de6f5e81e1c9bbfbc7a54c0bf1a5aa511b985febc42cf2a48ce21", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a85e9a3c2dc120b1a8939f283882462ef88548dd73862c5298a3f47f78c97afe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21d4877bd8ce0aef14612db89d662c99367186aa209b186f5083260a6d8cb258", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b596d136091171d099998744faed85e99bf4334c9f700b6452994fe0ce963a60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ae8ba3d65414c9a9eca653e3e8500b98082fa689454da947f3fe8a36c08d3e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1cb148bf1a57684a7c81dd0aa2758c309b3cf52fd948ad943515ef76834d170", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "408f7ba53bb2fd9ade4e88ce68573119c670c7eb864c48ff4f3c2d516aed80bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76b71ec473287fcb4e87ba86fe871cdce2d4222edfed992ba22be27b6322d917", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e75570037c218301e2a11d20c38a452372b08fb6d8cb09c432dd44e63024e828", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "863a07f5b0d9a0427b594773657d53e9a8bdb179ccf49eb321034f43cf808f23", "verdict": "adds_false_claim", "reason": "'Rambam says cruelty.' In Guide for the Perplexed III:48 Maimonides explains the meat-and-milk ban as gross, over-filling food probably linked to idolatrous festival practice, not cruelty; the cruelty/compassion reading comes from other commentators (Guide III:48, via Sefaria source sheet)."}
+{"prompt_hash": "e9b8d69dfa0a34b389a186485f21e52d6924f8f5b43dc95a4a5a6398a9cab1a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4889e8be84e1415fb4e774f139838dbf17bc9f9a1abed43aa1425e33440fc936", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08c6a1e53acea63442ecd277cc1c69b493fae9f302059c60079d059fa16f98e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb3ab3be83770ce5f3408150d3a8ed441ac7eca8b8070f30bfe79bd6e21758cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a2aadbec92cae53bc10544ee53d28caa9778929a097c3f831810df7293f6bdb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "adbfb3a793ea7aac02ad6272dcb47d6a951b7a37b185432a06eb11903f148a11", "verdict": "adds_false_claim", "reason": "'Forty-five degrees down to eighty-one, seed, hold' and dipping at 'eighty-two. Close enough to hold.' This mixes Celsius and Fahrenheit, and 81-82 F (27-28 C) is the cooling point; tempered dark chocolate is rewarmed to and worked at about 31-32 C (88-90 F) (popsci.com / foodnetwork.com tempering guides)."}
+{"prompt_hash": "2a46823bb8b3280ca94e4828dd5542b8dd633abc7d48983032e1d53acd7a4f02", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e1bfd7914911a4e1eb80d60a41df6d95adc3d38035ccdc885bf5ca16670aa0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5fc2ac165937d3b9cd253c72a1aa481b80939540a017a26c01a4018a6606cc3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "55d54617e85c4c86ae4ba08ef6c7b06a0919deee27b83b5fc34b35900d507aae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ebd37770c2e067aa1ef56f48ab7787de103f93e30ae711381d2cd42653d92ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2e1ca1d0d472d3f263938ebc53ab83fa3854e49c750222ffb0bfde6e7039054", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad2f1ece77646d97c9f69c8d813d79268502543ea1c0479d4537fcd46b64f3fc", "verdict": "adds_false_claim", "reason": "'They got to the maror later, after the Hillel sandwich.' In the seder, maror is eaten on its own first and korech (the Hillel sandwich) comes right after it (myjewishlearning.com, 14 steps of the seder). Also, horseradish is the answer given to 'what is that green stuff', but horseradish is not green."}
+{"prompt_hash": "427b454d3e848600a72ad88d26fdb514f6e4cc49374ca3fd87891706e75f4028", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "afd908635f1b1855ba99b5e8afcf1c09c20e1cb3741088df2ebfb8dbff791846", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f9ea653b53c8edb51f899f0c8d02265d5ec2c786eea690f345df5f513574614", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "981aaeb3efa5e15f17a323d99adab66160ea42a69767bd1784c16521e715a504", "verdict": "adds_false_claim", "reason": "The story places the end of the first theme and the start of the busy transition at m. 22 of K. 333, but the transition runs mm. 11-22 and the second theme begins at m. 23 in F major. It also says K. 309's second theme comes back 'in the same key as the first, no new key at all', but in K. 309 the second theme is in G major, the dominant (Unisa K. 309 analysis; K. 333 analyses)."}
+{"prompt_hash": "23996f0f0e459d9d5078d34ec531c4727ae60d6c563ad2ab69584ab72c78c671", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41d613d9f19275bb578cbf1313a931d1eca5c184e52ffee2d119bdc669f691a5", "verdict": "consistent", "reason": ""}

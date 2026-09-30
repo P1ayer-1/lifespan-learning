@@ -1,0 +1,40 @@
+{"prompt_hash": "314f116b5c37c3fb56052f4e529e861ad9d274e10e03b9333924abd083882e95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aed9fe66c3a7bf40f2c3a256d6abbae1217115ed32483c43a917e158a119c544", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cece62427a34c90cf1216cb291240c4a4996e8da9fbdce96790c02ca679908d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "35686eb9696f69229e146250e245238e5662ce9b466e72a421623d75b98e62df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f1dd1db671be91b2cdee34decc299d87571db85f5c0f739f94fcbfe08d4f06ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "877880bddab306b1abc9a3ff5d283ae89b017de89fe02bcea21a248d29d715e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b04023f3ccce3555af752ae70c4733ed79a3a19266d3742ed8d8a1247a8f035c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c6312f4ba96e1fa4ca235e296240f05fed92bf52fc905630919988c6ff788ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f133e027e9b1678f51dce189f8dde62172df96b7a193e0f020fec6b71966800", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca3b26eabe7a918218821feedcf08c6afe33f8dff3b933a00734a9a030fec73d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7babae377731d980839615b509838186886973f9fd33122e16bed5b3dc42f865", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a57316c90bb0232741f6ef6647b6687c599f701d5c575956f1c93515693d012c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edd7bcc79bee58a6618123daab6f55bcef7b5b50714b1f264badb8c5234531f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "760f5adfd299bdd53259725f63b312e0e0046452da54456877b839048fa59932", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4737c04395d11960bd06168608334978aa3c63e861a1f3247362a149449b4e6a", "verdict": "adds_false_claim", "reason": "'her uncle, who installed them [wind turbines], call the job a sinecure compared with the refinery work... safe and indoor and dull.' Installing wind turbines is outdoor work at height, not a safe indoor job; the story presents this uncorrected."}
+{"prompt_hash": "9580c21d315250fea4addecb9dea829643c90c009544b8fd42b6b9016efe3a3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "469badc89aedd60b5c8b7923be595f3c0439476e6d212d4de9eb1c941acbd18d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7ff3e5736b41fc9df92ed4bd9d7cda80fd703d33075c8ef1531f1c2c09be189", "verdict": "adds_false_claim", "reason": "'It compiles. Everything runs.' / 'The screen said null.' With 'public void Book(String t)' the class has no constructor taking a String, so 'new Book(\"Persuasion\")' fails to compile; it would not run and print null."}
+{"prompt_hash": "74ae76de74fc1aacf4cafc40693be6d8e7c2835ec131781732a0748a7992882b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8581bb214dcb6ef42ec904f310363fe5a347a9596e3a006613ef2537d2d8bc19", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "331eca773f3342311878eb67a2616f5b9ebbba41f8ddfb84de783cecb3192101", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6720c8f98108a0bd62d39419ec780eca3efbfbea5150aba6d2c1cfbe80782396", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f1a412d0ab53fe7a3344da3f347e0394d25ed3c55ae91a261b91505db54d6f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13bcd4cde8d8c5c22eb0b193c4ce825bba3c30bd7853a6100e092027e14d808e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f53716af5138fc331d4d2bd6522927a08c54434f4cc79952bc4e85e0b87ea55f", "verdict": "adds_false_claim", "reason": "'Nineteen feet four inches.' ... 'That's half a foot of margin of error.' A 22-foot prediction against a 19 ft 4 in landing is a 2 ft 8 in gap, not half a foot; the error is never corrected."}
+{"prompt_hash": "9e976e51e97e083891baaa82a9ec79060a360daf1d6fabf55077cfe1a5efb69f", "verdict": "adds_false_claim", "reason": "'thirty years after publishing those volumes, Thiers had signed off on shooting Parisians in the streets.' The History appeared 1823-1827 and Thiers crushed the Commune in 1871, about 44 years later (the rue Transnonain killings were 1834); source: Wikipedia, Adolphe Thiers."}
+{"prompt_hash": "c45fe29b1f81bde3b3b55844aaf152637d5deb64dc054c5de52ff55f4d4f4b0b", "verdict": "adds_false_claim", "reason": "'a lopsided triangle, sliced it into floors, and labeled them from bottom to top: exposition, rising action, climax, falling action, resolution' (resolution then called 'that last narrow floor'). In Freytag's pyramid the climax is the apex, and falling action and resolution come down the other side; source: Wikipedia, Dramatic structure."}
+{"prompt_hash": "5e6434949733dab870693593611f3667ab14facd4003c3f4a06924df5bc13444", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fce7072585b469576816afa04919fbc528c7721426adf980240cc10897bd6c48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7bdfe4905c685d252500b6df3f2efcbcacba31c9d0ec75ee58961d4c171a49c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ee466c6b94a25518f33b911feb2e8ea4b1e24af71fd38630e829fca9a1d2a5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d57f2fc1168c5bdf4d58804dcbb79e796bdd9dd38655fee74b45c22df5975a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f06e6cf31408bc89abd3897a61659b5e0f8d9ad62c61aa48da5f77840dfb788", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b54e3abcd090fe6a48f05a380145513fcc42797c68b94513aa1cc5ea4db84877", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7147f27df9cab0abc0d54e08968dc8f5c36f1d649a1f29d92798ac29375e04ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "866e5a3e836348083a764c2808cb5cd550c30480eb48636b7402c1289fc9d3f8", "verdict": "adds_false_claim", "reason": "'the official answer: twelve meters... launch speed twelve point four', and then 'Air' explains the ball landing farther than the recalculation. At 12.4 m/s and 30 degrees the vacuum range is about 13.6 m, not 12 m, and air resistance shortens a flight; it cannot make a ball go farther than the prediction."}
+{"prompt_hash": "04a38f15e45ede6fa6cdb99cee2030fc363b1b4c2a6d4703abdee9bca9e160dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3999266f099fb8ef86bbc0cebe3222bbf966fd684c96a0c7a5810024737bb70e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4088b7156cf6cc3ade9b6618b15f4f73040fb1cf21c4043b98d19fa408e6b9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "629423b7e6edc64a5751d0afa1f70066b826b09c19cc802c656d290c1f76ae1b", "verdict": "consistent", "reason": ""}
