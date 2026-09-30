@@ -340,6 +340,26 @@ def test_activity_facts_consume_the_rng_exactly_like_term_matching(tmp_path):
     assert rng.random() == control_rng.random()
 
 
+def test_tagged_activity_facts_serve_only_their_own_goal(tmp_path):
+    """One content_key, two goals: a prompt for one goal never receives a fact
+    written for the other, and each goal rotates through its own facts."""
+    import random
+    bank_path = tmp_path / "phase_3.json"
+    bank_path.write_text(json.dumps({"phase": 3, "facts": [
+        {"content_key": "learning_math", "activity": "to add fractions", "fact": "Fraction fact A.", "hook": "h"},
+        {"content_key": "learning_math", "activity": "to add fractions", "fact": "Fraction fact B.", "hook": "h"},
+        {"content_key": "learning_math", "activity": "to prove triangles congruent", "fact": "Triangle fact.", "hook": "h"},
+    ]}), encoding="utf-8")
+    bank = facts_mod.FactBank(3, rng=random.Random(0), facts_path=str(bank_path))
+
+    fractions = [bank.sample("learning_math", "to add fractions")[1] for _ in range(4)]
+    triangles = [bank.sample("learning_math", "to prove triangles congruent")[1] for _ in range(2)]
+
+    assert set(fractions) == {"Fraction fact A.", "Fraction fact B."}
+    assert fractions[:2] != [fractions[0]] * 2 and fractions[2:] == fractions[:2]
+    assert triangles == ["Triangle fact.", "Triangle fact."]
+
+
 def test_activity_without_its_own_facts_keeps_term_matching(tmp_path):
     import random
     bank = _activity_bank(tmp_path, random.Random(0))

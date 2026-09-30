@@ -107,6 +107,29 @@ def merge_facts() -> None:
 MIN_ACTIVITY_FACTS = 6
 
 
+def _tag_row_activity(facts: list[dict], assign_path: Path) -> None:
+    """Tag each fact with the activity text of the row it was written for.
+
+    Phases 3 and 6 split one content_key into several rows with different
+    goals (e.g. learning_math: fractions, congruent triangles). Keyed on
+    content_key alone, a fractions prompt could be handed a triangle fact
+    (2026-09-30 review: 380/1000 phase-3 prompts). The writer's assign file
+    lists the part's rows in order, each with an equal block of facts.
+    Parts without an assign file (phase 0) are left untagged.
+    """
+    if not assign_path.exists():
+        return
+    rows = json.loads(assign_path.read_text(encoding="utf-8"))["activities"]
+    per, rem = divmod(len(facts), len(rows))
+    if rem or not per:
+        raise ValueError(f"{assign_path.name}: {len(facts)} facts do not split evenly over {len(rows)} rows")
+    for i, f in enumerate(facts):
+        row = rows[i // per]
+        if f.get("content_key") != row["content_key"]:
+            raise ValueError(f"{assign_path.name}: fact {i} is {f.get('content_key')!r}, row is {row['content_key']!r}")
+        f["activity"] = row["activity"]
+
+
 def _apply_revisions(keep: list[dict], act_dir: Path, lines: list[str],
                       revisions_name: str = "revisions.json") -> list[dict]:
     """Retire and reword verified facts per facts/activity/<revisions_name>.
@@ -134,7 +157,8 @@ def _apply_revisions(keep: list[dict], act_dir: Path, lines: list[str],
             hit.add(key)
             i, r = reword[key]
             if verdicts.get(i) == "true":
-                out.append({"content_key": r["content_key"], "fact": r["fact"].strip(), "hook": r.get("hook", "").strip()})
+                out.append({"content_key": r["content_key"], "fact": r["fact"].strip(), "hook": r.get("hook", "").strip(),
+                            **({"activity": f["activity"]} if "activity" in f else {})})
                 counts["reworded"] += 1
             else:
                 counts["reword_unverified_dropped"] += 1
@@ -170,11 +194,13 @@ def merge_activity_facts(phase: int = 0, base_dir: Path | None = None) -> None:
             lines.append(f"{g.name}: no verify file; skipped")
             continue
         facts = json.loads(g.read_text(encoding="utf-8"))["facts"]
+        _tag_row_activity(facts, gen_dir / f"assign_{g.name}")
         verdicts = {int(x["i"]): x["verdict"] for x in json.loads(v.read_text(encoding="utf-8"))}
         part_counts = Counter(verdicts.get(i, "unverified") for i in range(len(facts)))
         counts.update(part_counts)
         lines.append(f"{g.name}: {len(facts)} generated, verdicts {dict(part_counts)}")
-        keep += [{"content_key": f["content_key"], "fact": f["fact"].strip(), "hook": f.get("hook", "").strip()}
+        keep += [{"content_key": f["content_key"], "fact": f["fact"].strip(), "hook": f.get("hook", "").strip(),
+                  **({"activity": f["activity"]} if "activity" in f else {})}
                  for i, f in enumerate(facts) if verdicts.get(i) == "true" and f.get("fact") and f.get("content_key") in activities]
     keep = _apply_revisions(keep, act_dir, lines, revisions_name)
     bank = json.loads(out.read_text(encoding="utf-8"))

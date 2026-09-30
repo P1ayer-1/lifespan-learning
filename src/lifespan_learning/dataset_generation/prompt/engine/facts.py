@@ -215,7 +215,7 @@ class FactBank:
             # so adding activity facts leaves every other sampled field as it was.
             for key, pool in self.activity_facts.items():
                 pool.sort(key=lambda f: hashlib.sha256(f"{phase_id}|{key}|{f['fact']}".encode("utf-8")).hexdigest())
-        self._served: dict[str, int] = {}
+        self._served: dict[str | tuple[str, str], int] = {}
         # domains that actually have facts, when a bank exists
         self._with_facts = {f["domain"] for f in self.facts}
 
@@ -253,8 +253,14 @@ class FactBank:
             if self.facts:
                 self._legacy_draws(content_key)
             pool = self.activity_facts[content_key]
-            n = self._served.get(content_key, 0)
-            self._served[content_key] = n + 1
+            # Facts tagged with the row's activity text (phases 3 and 6, where
+            # one content_key spans several goals) serve only that goal; an
+            # untagged bank (phase 0) keeps the per-key rotation unchanged.
+            own = [f for f in pool if f.get("activity") == activity]
+            served_key = (content_key, activity) if own else content_key
+            pool = own or pool
+            n = self._served.get(served_key, 0)
+            self._served[served_key] = n + 1
             chosen = pool[n % len(pool)]
             return activity, chosen["fact"], chosen.get("hook", "")
         if self.facts and activity:

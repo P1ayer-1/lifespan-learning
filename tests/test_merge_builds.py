@@ -89,3 +89,40 @@ def test_merge_activity_facts_is_phase_parameterized(tmp_path):
     # phase 0's own directories/output are untouched by a phase-3 merge
     assert not (act_dir / "_gen").exists()
     assert not (facts_dir / "phase_0.json").exists()
+
+
+def test_merge_tags_each_fact_with_its_rows_activity(tmp_path):
+    """Two rows of one content_key: each kept fact carries the activity text
+    of the row it was written for, read from the writer's assign file."""
+    act_dir = tmp_path / "activity"
+    (act_dir / "_gen3").mkdir(parents=True)
+    (act_dir / "_verify3").mkdir(parents=True)
+    rows = [{"id": "learning_math#1", "content_key": "learning_math", "activity": "to add fractions"},
+            {"id": "learning_math#2", "content_key": "learning_math", "activity": "to prove triangles congruent"}]
+    (act_dir / "phase_3_activities.json").write_text(json.dumps({"phase": 3, "activities": rows}), encoding="utf-8")
+    (act_dir / "_gen3" / "assign_part0.json").write_text(json.dumps({"part": 0, "activities": rows}), encoding="utf-8")
+    (act_dir / "_gen3" / "part0.json").write_text(json.dumps({"part": 0, "facts": [
+        {"content_key": "learning_math", "fact": "Fraction fact A.", "hook": "h"},
+        {"content_key": "learning_math", "fact": "Fraction fact B.", "hook": "h"},
+        {"content_key": "learning_math", "fact": "Triangle fact A.", "hook": "h"},
+        {"content_key": "learning_math", "fact": "Triangle fact B.", "hook": "h"}]}), encoding="utf-8")
+    (act_dir / "_verify3" / "part0.json").write_text(json.dumps(
+        [{"i": i, "verdict": "true"} for i in range(4)]), encoding="utf-8")
+    (tmp_path / "phase_3.json").write_text(json.dumps({"phase": 3, "facts": []}), encoding="utf-8")
+
+    mb.merge_activity_facts(phase=3, base_dir=tmp_path)
+
+    by_fact = {f["fact"]: f["activity"] for f in json.loads((tmp_path / "phase_3.json").read_text(encoding="utf-8"))["facts"]}
+    assert by_fact == {"Fraction fact A.": "to add fractions", "Fraction fact B.": "to add fractions",
+                       "Triangle fact A.": "to prove triangles congruent", "Triangle fact B.": "to prove triangles congruent"}
+
+
+def test_merge_refuses_facts_that_do_not_line_up_with_their_rows(tmp_path):
+    import pytest
+    assign = tmp_path / "assign_part0.json"
+    assign.write_text(json.dumps({"activities": [{"content_key": "a", "activity": "x"},
+                                                  {"content_key": "b", "activity": "y"}]}), encoding="utf-8")
+    with pytest.raises(ValueError):
+        mb._tag_row_activity([{"content_key": "b", "fact": "1"}, {"content_key": "a", "fact": "2"}], assign)
+    with pytest.raises(ValueError):
+        mb._tag_row_activity([{"content_key": "a", "fact": "1"}], assign)
