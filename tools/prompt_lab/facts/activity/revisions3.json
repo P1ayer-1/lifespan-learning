@@ -1,0 +1,10 @@
+{
+ "_note": "2026-09-30: retired. Outdated since MLB added Negro league statistics (May 2024): Josh Gibson's .466 (1943) is a major-league season above .400. Found by the pre-pilot exam fact check; the fact-bank verifier passed it.",
+ "retire": [
+  {
+   "content_key": "sports_statistics",
+   "fact": "Ted Williams batted .406 in 1941 and is the last Major League Baseball player to finish a season above .400."
+  }
+ ],
+ "reword": []
+}

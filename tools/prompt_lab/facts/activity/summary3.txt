@@ -12,5 +12,6 @@ part6.json: 120 generated, verdicts {'true': 103, 'false': 17}
 part7.json: 120 generated, verdicts {'true': 106, 'false': 14}
 part8.json: 120 generated, verdicts {'false': 19, 'true': 101}
 part9.json: 120 generated, verdicts {'true': 110, 'false': 10}
-kept 1384 activity facts for 66/66 activities; verdicts {'true': 1384, 'false': 236}
+revisions: {'retired': 1}
+kept 1383 activity facts for 66/66 activities; verdicts {'true': 1384, 'false': 236}
 activities under 6 facts: none
