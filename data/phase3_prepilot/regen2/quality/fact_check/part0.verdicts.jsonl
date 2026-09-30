@@ -1,0 +1,40 @@
+{"prompt_hash": "11ec5fb8e30c82c1ea6f51cc09631f2ea7c29ff9e0e76ec33f6995ff5ce94397", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd36c9b9af26ccfea5679fd6e4f95fde3aa4189992c4b90e20c4dc5e4ef10227", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d0a7a47eab3e0ce20fb10af4f97405306d3ceaff8f808af4fd5125c49c9ac9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1aefd5a9cd69db0f44e5765066f75c54ec2d54f56565fcccf8f28e4d229a7517", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fcfeb1db6640bd58699525f675440ccd9f0a3818da90ffcc01e93a634383153", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a400d8f7d4db0e4403e67690d9bdf1807d74fb8c5b1ef2d8fae5a73707b25042", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27f4335d802debb6f38f8abd06f507b7d718293ac6051312b464f21debbce2c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8217a924559ac85c5a6d4ae3635aad7aed0a6a769c9e166050ac4015bca1a191", "verdict": "adds_false_claim", "reason": "'If she started on the first blink, she could make it ... reached the far curb with two blinks to spare.' A flashing pedestrian signal means do not start crossing; the story presents starting on the blink as fine for a child alone. (Also: milk is tax-exempt in most US states and zero-rated in Canada, so the taxed milk and 'Candy too' answer to 'Do they add tax to everything?' are misleading.)"}
+{"prompt_hash": "5fdc7394e08519e4b8b21a19bb7d036687aa525c8eb29998bc2688e9008fde89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "049dba71d3d9f98660d684f092002e8aa7f19ecc8b979518c5278582047d4f4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a212162ec06753f708a3663e5bf8b8891749d462e5212dbe6a96b0c70a92cefe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d610245c518f48b9ba0f115eed9094ae54c89b82503c49133b8798f25fec6eb", "verdict": "adds_false_claim", "reason": "'She touched one to her tongue. Salty.' Tasting a sample from lab glassware is an unsafe lab practice, and the teacher praises it instead of correcting it."}
+{"prompt_hash": "caa7916b66376227983c9f4bde7152cb5987341f3f0f40d384e5cf0a0fccc884", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5de19f0d60cce458fae3af778d452fa8b880afff93b11f9d55351b4f4d8cb101", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34fb3ed0dbae7b41d66634ae427b1a58dde37256b1cf9cd23e2547c4e413577e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e93712c44c6183032d72124c19bde9cb92be195c69b2b93c07bdbd771d7e982d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6ca6236396ca6afad4637e1c90c665d220c62996ebc4110cc28f1ebec495e88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62c6c58ed5f6cc9e28bcd0421e7db19cd7ab763f2ce97b7a4c0720e7bbff16a8", "verdict": "fact_missing", "reason": "The story says wind makes cold air feel colder and names wind chill, but never gives the reason (wind carries heat away from the skin faster); Noah's question 'how could moving air be colder than the air itself?' is left unanswered."}
+{"prompt_hash": "6f378e2cd0c2e37eacb83df364347b82b47323a4ac6aae83ea4708bcbf1fde65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b848fed31ef49f1d46945a303bfb203e6046b9ace544ab3e557e4ae55e6b16a", "verdict": "adds_false_claim", "reason": "'Lauren walked the ball in a slow circle around Priya' (who holds the lamp). In the Moon-phase model the ball circles the observer's head (Earth) with the lamp fixed to one side; circling the lamp models the Moon orbiting the Sun."}
+{"prompt_hash": "9e7338c7cf7902dd7a7d3c1dc00edc531f34ffd498e00d64a8d95f08274dbf7a", "verdict": "adds_false_claim", "reason": "Rose says 'V. E.', then restarts 'V, E, S, S, E, L', and the judge rules it a misspelling. She changed no letter already said or its order, so under the Scripps rule (spellingbee.com/rules: may start over but cannot change letters already said or their order) the restart is legal."}
+{"prompt_hash": "d0eb73e324a700bae704cb8863375427851773ebe6ccc9a07a79e668028607c3", "verdict": "adds_false_claim", "reason": "'a purple forever loop wrapped around the if-then block'. The forever block is a Control block, amber like if-then (Scratch Wiki, Control Blocks); purple is the Looks category."}
+{"prompt_hash": "551059317bf6097f696811d1530aa540023d186798f31f04d9be0a07c0126cbf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5eb837ee821e91f12d3df4b6dabedc6aada77d399ec77064304a789d66079ed8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca9df4e8ed2c353b436cd7e028e0ea7849a6bf81c8e2916dbbc4a8d88841dd6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3ae1ec08be4d22d651906ba3f1f3af19778798553a6bd537b43e35e38f7eacf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e119918009643a42c2fa0c167e5e2e140edda47a01d65be8c7d9f36d435cafe4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3938133d5ab228d7a4d41a97b519ea61c202569ea74ef002823435905ea1f2c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47babfcaee97657610ed28a7ff47ed6c6b393629abc0d291afc6f59167a7d021", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d95b99657e4c9dbeb2c88b71b952b7196d9407bd4b984aeba6a441172b8f9555", "verdict": "adds_false_claim", "reason": "'The 4.75 ... came from a single cell, the one in row four.' With data in C2:C7, =SUM(C4:C9) adds C4 through C7, not one cell, so it could not return just C4's value; Priya's error was the wrong rows, not reading the address 'backwards'."}
+{"prompt_hash": "9d3c6893e9cac4ad82033ee2c1cb8920eaa2b2e2402bba87c1561c872ed31269", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad7ade3b825e595e69be0347fc3c82cb4a20e45b3deb42e3df8093bc3de459d4", "verdict": "adds_false_claim", "reason": "A trail diary dated March 1848 says 'Every man on the trail talks of it' and travelers were 'already calling [it] the gold rush'. The news was only confirmed in San Francisco in March 1848, reached East Coast papers in August 1848 and Polk in December 1848, and the mass overland rush came in 1849 (Wikipedia, California gold rush)."}
+{"prompt_hash": "07829156421277e75dde4a3ffb09db0ad6d98c7319c063e2bbefd4661f9e2ee1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d08b619d4c9221592f6a4b586c35c36baeffad9405e133b7ffcec5cc8a1dc047", "verdict": "adds_false_claim", "reason": "The loop checks 'every number from 2 up to the one the user typed' and flags 2 because '2 divided evenly by 2'. A loop that includes the number itself would also call 7, 3 and 11 not prime, and one that stops before n would already call 2 prime, so the program behaviour shown is wrong."}
+{"prompt_hash": "e4dcc1f7323d94616398acc08c7126c4a97e7e119af52f25bf41f4d78dc45344", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13ca0bc36838a69ef00b8dedc82019910146ac353e963703d03e2c18747d2165", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c59964358e97b7a34bd721a88f3d958de14f493678f3c79d9af2f90f58ab2893", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ff42bc02be7e12801e85ed6b702511414ca50b5a63c0d4e09c96c0fc6aba03f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6543b7f3b02c26a2bea36774ea91871130b5d9ac143fd1a19991d82fc887ae1e", "verdict": "adds_false_claim", "reason": "'peeled off six percent five times, and landed back near a hundred ... the little difference had to be the interest on interest.' Dividing by 1.06 five times returns exactly $100; subtracting 6% five times gives about $98.21, and that shortfall comes from taking percentages of different amounts, not from interest on interest."}
+{"prompt_hash": "4eb6dc8e2847b01745040417f476580ba679da10d04b49e3dbf1c42e5b573c1a", "verdict": "consistent", "reason": ""}
