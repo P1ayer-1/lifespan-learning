@@ -588,6 +588,7 @@ def build_provider(
     upstream: str = DEFAULT_UPSTREAM,
     quantization: str = DEFAULT_QUANTIZATION,
     reasoning_effort: str = DEFAULT_REASONING_EFFORT,
+    workers: int = 8,
 ) -> StoryProvider:
     if fake_provider is not None:
         return fake_provider
@@ -602,6 +603,7 @@ def build_provider(
             upstream=upstream,
             quantization=quantization,
             reasoning_effort=reasoning_effort,
+            workers=workers,
         )
     raise ValueError(f"unknown provider {provider!r}")
 
@@ -675,6 +677,7 @@ def run(
     upstream: str = DEFAULT_UPSTREAM,
     quantization: str = DEFAULT_QUANTIZATION,
     reasoning_effort: str = DEFAULT_REASONING_EFFORT,
+    workers: int = 8,
 ) -> dict:
     # Prompts first (no credentials needed): refuses a mixed-split prompt file
     # before anything else happens.
@@ -682,7 +685,9 @@ def run(
     prompt_by_hash = {p.prompt_hash: p for p in prompts}
     split = prompts[0].split if prompts else None
 
-    provider = build_provider(model, fake_provider, provider_name, out_path, upstream, quantization, reasoning_effort)
+    provider = build_provider(
+        model, fake_provider, provider_name, out_path, upstream, quantization, reasoning_effort, workers
+    )
 
     registry, registry_path = load_or_create_registry(corpus_registry, new_corpus_registry, provider.model_id)
     # Directory-level model check first: it names the two conflicting files
@@ -812,6 +817,12 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--quantization", type=str, default=DEFAULT_QUANTIZATION, help="Recorded in the model string for provenance (default fp8).")
     parser.add_argument("--reasoning-effort", type=str, default=DEFAULT_REASONING_EFFORT, dest="reasoning_effort", help="OpenRouter reasoning effort (default low; GLM 5.3 cannot run with reasoning off).")
     parser.add_argument("--max-tokens", type=int, default=DEFAULT_MAX_TOKENS, dest="max_tokens")
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=8,
+        help="OpenRouter requests in flight at once (default 8). Throughput only; never changes a story.",
+    )
     parser.add_argument("--limit", type=int, default=None, help="Cap on new requests this run (use <=20 for a smoke batch).")
     parser.add_argument("--max-batch-retries", type=int, default=3, dest="max_batch_retries")
     parser.add_argument("--poll-seconds", type=float, default=20.0, dest="poll_seconds")
@@ -882,6 +893,7 @@ def main(argv: list[str] | None = None) -> None:
             upstream=args.upstream,
             quantization=args.quantization,
             reasoning_effort=args.reasoning_effort,
+            workers=args.workers,
         )
         print(f"written={summary['written']} skipped={summary['skipped']} failed={summary['failed']}")
         if summary.get("pending_batch"):
