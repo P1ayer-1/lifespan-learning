@@ -64,7 +64,7 @@ class Tier:
         
         return load_content_types(paths, allowed_content_types=[ct["content_type"] for ct in self.content_types], tier=self.tier, rng=self.rng)
 
-    def generate_prompt(self, name: str, gender: str, verb: str, noun: str, adjective: str) -> dict:
+    def generate_prompt(self, name: str, gender: str, verb: str, noun: str, adjective: str, side_characters: list | None = None) -> dict:
         content_type_key = self.sample_content_type()
         content_type = self.content_type_registry.get(content_type_key)
         banned_tones = content_type.banned_tones
@@ -105,6 +105,7 @@ class Tier:
             domain=domain,
             fact=fact,
             fact_hook=fact_hook,
+            side_characters=side_characters or [],
         )
 
         metadata = prompt_config.get_metadata()

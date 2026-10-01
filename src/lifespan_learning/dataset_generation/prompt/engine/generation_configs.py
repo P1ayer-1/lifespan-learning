@@ -1,7 +1,7 @@
 
 
 # dataclass for prompt configuration
-from dataclasses import asdict, dataclass
+from dataclasses import asdict, dataclass, field
 from .tones import Tone
 
 @dataclass
@@ -29,6 +29,9 @@ class PromptConfig:
     domain: str = ""              # description of the knowledge domain the story turns on
     fact: str = ""                # verified fact injected verbatim, or "" when no fact bank exists
     fact_hook: str = ""
+    # Names for the other people in the story ({"name", "role"} dicts, see
+    # engine/names.py SideCharacterSampler); empty renders no names line.
+    side_characters: list = field(default_factory=list)
 
     def get_metadata(self) -> dict:
         # get tone key from tone object

@@ -1,10 +1,11 @@
 from .tiers import Tier
-from .names import NameLoader
+from .names import NameLoader, SideCharacterSampler
 from .lexicon import Lexicon
 from .facts import FactBank
 
 class Phase:
-    def __init__(self, config, tier_configs, name_config, tone_registry, feature_registry, rng):
+    def __init__(self, config, tier_configs, name_config, tone_registry, feature_registry, rng,
+                 side_sampler: SideCharacterSampler | None = None):
         self.config = config
         self.rng = rng
         id = config["id"]
@@ -16,6 +17,8 @@ class Phase:
         ]
 
         self.name_loader = NameLoader(name_config, rng)
+        # Own rng (see SideCharacterSampler), so the shared schedule is untouched.
+        self.side_sampler = side_sampler
 
         self.lexicon_path = "config/lexicons/phase_{id}.json".format(id=id)
         self.lexicon = Lexicon(self.lexicon_path, rng=self.rng)
@@ -41,7 +44,9 @@ class Phase:
             for _ in range(tier_count):
                 name, gender = self.name_loader.get_bio()
                 verb, noun, adjective = self.lexicon.sample_lexicon()
-                prompt = tier.generate_prompt(name=name, gender=gender, verb=verb, noun=noun, adjective=adjective)
+                side = self.side_sampler.sample(name) if self.side_sampler else None
+                prompt = tier.generate_prompt(name=name, gender=gender, verb=verb, noun=noun, adjective=adjective,
+                                              side_characters=side)
                 prompt["metadata"]["phase"] = self.config["id"]
                 prompts.append(prompt)
         return prompts

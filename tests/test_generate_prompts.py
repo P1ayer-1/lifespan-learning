@@ -395,3 +395,75 @@ def test_render_with_and_without_fact():
     base0 = {**base, "phase": 0, "age": 4, "framing": reading_level.framing_for(0), "reading_level": reading_level.reading_level_for(0)}
     p0 = story_prompt.render(PromptConfig(**base0))
     assert "No paragraph is pure reflection" not in p0 and "Assume the reader" not in p0
+
+
+# --------------------------------------------------------------------------
+# Side-character names (2026-09-30, engine/names.py SideCharacterSampler)
+
+def _side_sampler(seed=0, n_peers=2):
+    import random
+    from lifespan_learning.dataset_generation.prompt.engine.names import SideCharacterSampler
+    names = {"Female": ["Amara", "Chloe", "Ines", "Yuki"], "Male": ["Jonah", "Ravi", "Tomas", "Chloe"]}
+    return SideCharacterSampler(names, ["Lindqvist", "Addo", "Tremblay"], rng=random.Random(seed), n_peers=n_peers)
+
+
+def test_side_characters_are_deterministic_per_seed():
+    sampler_a, sampler_b = _side_sampler(5), _side_sampler(5)
+    assert [sampler_a.sample("Mia") for _ in range(20)] == [sampler_b.sample("Mia") for _ in range(20)]
+    # and generator-level: same seed, same side characters
+    first = _generate("train", seed=4, phases="6", per_phase=5)
+    again = _generate("train", seed=4, phases="6", per_phase=5)
+    assert [r["metadata"]["side_characters"] for r in first] == [r["metadata"]["side_characters"] for r in again]
+
+
+def test_side_characters_exclude_main_name_and_never_repeat():
+    sampler = _side_sampler(1)
+    for _ in range(200):
+        people = sampler.sample("Chloe")
+        names = [p["name"] for p in people]
+        assert "Chloe" not in names
+        assert len(names) == len(set(names)) == 3
+        assert [p["role"] for p in people] == [sampler.ROLE_PEER, sampler.ROLE_PEER, sampler.ROLE_ADULT]
+        assert names[2].split(" ", 1)[0] in ("Ms.", "Mr.")
+
+
+def test_side_characters_recorded_in_metadata_and_named_in_prompt():
+    records = _generate("train", seed=3, phases="3", per_phase=6)
+    for record in records:
+        side = record["metadata"]["side_characters"]
+        assert len(side) == 3
+        assert record["metadata"]["name"] not in [p["name"] for p in side]
+        line = next(l for l in record["prompt"].split("\n") if l.startswith("Other characters:"))
+        assert all(p["name"] in line for p in side)
+        assert "use only these names" in line
+
+
+def test_side_characters_leave_every_other_field_unchanged(monkeypatch):
+    """Side names come from their own rng: without them the generator gives
+    back exactly the prompts it made before they existed."""
+    from lifespan_learning.dataset_generation.prompt.engine import names as names_mod
+    with_side = _generate("train", seed=9, phases="0,3,6", per_phase=6)
+    monkeypatch.setattr(names_mod.SideCharacterSampler, "sample", lambda self, main_name: [])
+    without = _generate("train", seed=9, phases="0,3,6", per_phase=6)
+    assert len(with_side) == len(without) > 0
+    for a, b in zip(with_side, without):
+        meta = dict(a["metadata"]); meta["side_characters"] = []
+        assert meta == b["metadata"]
+        line = next(l for l in a["prompt"].split("\n") if l.startswith("Other characters:"))
+        assert a["prompt"].replace(line + "\n", "", 1) == b["prompt"]
+        assert "Other characters:" not in b["prompt"]
+
+
+def test_render_without_side_characters_has_no_names_line():
+    from lifespan_learning.dataset_generation.prompt.engine.tones import Tone
+    from lifespan_learning.dataset_generation.prompt.engine.generation_configs import PromptConfig
+    from lifespan_learning.dataset_generation.prompt.engine import reading_level
+    tone = Tone({"key": "curious", "description": "", "behaviors": ["Ask gentle wondering questions"]})
+    base = dict(name="Mia", gender="girl", location="at home", verb="measure", noun="shadow", adjective="sticky",
+                goal="cooking or baking", features="", tone=tone, grade="6th grade", age=11,
+                min_paragraphs=3, max_paragraphs=5, framing=reading_level.framing_for(3),
+                reading_level=reading_level.reading_level_for(3), audience_noun="child", phase=3, kind="experience")
+    assert "Other characters:" not in story_prompt.render(PromptConfig(**base))
+    side = [{"name": "Amara", "role": "a friend or classmate"}, {"name": "Mr. Addo", "role": "an adult such as a teacher, coach or neighbour"}]
+    text = story_prompt.render(PromptConfig(**base, side_characters=side))
+    assert "use only these names: Amara (a friend or classmate), Mr. Addo (an adult such as a teacher, coach or neighbour)." in text
