@@ -1,0 +1,40 @@
+{"prompt_hash": "ab4ac3338dc638086d731faf0b0439a18031166c3f27957ea94c17d8870e1a3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8accd83258cf8c6339f51cf4a88486d5b6c3eba3992c6bf1f79fc34bbde8910", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19fb216582708adb81e2394e287665c88c50f4378e8ddfa8f9ad9babc950bd0f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f23842668d6faf293bac9932717418f136a72b264371cf78b72a90bbb0337601", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/SAT (digital switch March 9 2024; module 1 sets module 2 difficulty)"}
+{"prompt_hash": "8dabee42216c209530dd9224ac6027077489d5b3d34cebf1fe3429eee2a03910", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Emergency_contraception (ulipristal effective to 120 h, so ~3 days is not too late; works by delaying ovulation)"}
+{"prompt_hash": "6ad6284a44d072a5158b8b081a61fe426a6cba2baa2be40cc468f8f2230a1c2d", "verdict": "adds_false_claim", "reason": "Narrator says the potato salad, out since 1 pm, was past one hour but under two at 4 pm; that is three hours, beyond both the 1-hour (above 90F) and 2-hour limits. Injected fact itself stated correctly."}
+{"prompt_hash": "3ca8a0d455aec08967986259b13309b445cab03ba98298e04aa4554f610ddd9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5263ed2bebcfd17e729ab4de89ccb2b33e03de49a63df1c4c2f46e524c5c2fc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47e3687e725b9cf1414484258ac630519673f0fef69802dce0d074e7114552b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6f414d10003060b3b7dae3e0257c02ca647f466739c84f5dfb95c18a991a205", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Ringelmann_effect (French agricultural engineer, 1913; replicated by Ingham et al. 1974)"}
+{"prompt_hash": "14d5ac51c84a7669a2ae5f29558f970ae820fe05ce9555f60919ac5beffe31af", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Jean_Jaurès (Histoire socialiste 1900-03 shaped class-conflict interpretation into the 1980s)"}
+{"prompt_hash": "3e783d3501907a5328d71f393fa97a5ee787ab3390f75553a9b55df7a5ed2a04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd8edee4727ef472095c7924324d0972526e0f9b514ab23edb35e788f3dc7e78", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d51b0b94a193ff0f2c60871cc76844c31274e9802d676e3e5d9ff378328eb711", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/At-will_employment (Montana WDEA 1987, only state, good cause after probation)"}
+{"prompt_hash": "9470f83e3ea476b2c55e1a32b3f848c83ba0fc445315cd4e56ef471b8894bcbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7bd09678cb90b0f0f41fb7e67f3eaa45f8e26c9e80df480aa237740cc3dbb5de", "verdict": "adds_false_claim", "reason": "The bibliography the story treats as wrongly ordered (Evans, Marino, Okafor) is already alphabetical, and it then has the footnotes reordered too; in Chicago style notes are numbered in order of citation, only the bibliography is alphabetized."}
+{"prompt_hash": "dc6fc25b4253780e57d58be33afd66ea29a1367b51b4d6b301186b6844ff3e35", "verdict": "adds_false_claim", "reason": "Story describes both Fridas in white dresses; only the European Frida wears white, the other wears a Tehuana dress (and holds a portrait of Rivera). checked: en.wikipedia.org/wiki/The_Two_Fridas"}
+{"prompt_hash": "63f05d0d5f7c132eae9c4639a9d3cca44d14fe794d1673c651f1dcc33d907e4e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b042cb99555cc772f17b60d475198640aec555614998871e9ddcc94957d3b3f9", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Peter_D._Mitchell (1961 paper, 1978 Nobel in Chemistry, initial resistance)"}
+{"prompt_hash": "fe5245aa565c2e51550a6b084e357cf01fca00fc73a3ef38d6ffc31fb0b8aafd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "520777393089e4626e6a170c51e687fda8b84bd40dafe2e765f561d1958a56c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71645c90fffb7778088158de07b8bd7af10f097a399936acc8fb3dd7787a5d97", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79e269b5f51dd12cd7bdcc789fc9019352c920fc44491164978fdfc3d06b0f00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6610a54d14e50eb094327635c5f657671df77bbab92a62853524331042885785", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ff1ccecea1a8bfe820872ffcca0307b14686fa7038b03f7f7ca229ae0e24b67", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a396abed6508de5f9d7a4499cdd86891793d44afc2b7137acad02a5833560a1", "verdict": "consistent", "reason": "uncertain: pasta needing about twice the box time and 12-minute eggs staying runny at a mountain-town altitude look exaggerated; boiling-point fact itself stated correctly"}
+{"prompt_hash": "411d01a933d6c8ede9f97e0ed6ad6abe9f69a3390082cd5dbb6c8b4ed08e5431", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0df07e54d876a1a7476da44b77835c50bb0804da9ad12b39538022dfc6bcdae3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df72dfd6695cf3f59e6fbc490bb2a31af596abf30f61c77e74befbd2c7c01708", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "706ef70c75512c0ed8df9ff95dd08ea764f52fdb91a181a4b04afec5202249a1", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hans_Krebs_(biochemist) (Nature rejected 1937 paper; Nobel 1953)"}
+{"prompt_hash": "e66fc1a83288c51c75c55260af1a2b56eec5d1bd51dbdb1cb425a06eec5e7d6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8882fce677f542d01d526b4ef72777ed095efbd8e67288f26ebb5913aa3b3cc6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "762f6ae678b4348a3ed9a58235ccc52d74e02370da72a618c9ab652a923da13b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f19fa06f4effee67e605b731feeb1debbd017f40f31546cd7eec38f54cd77a6", "verdict": "adds_false_claim", "reason": "Captain says the FIFA 11+ warm-up takes ten minutes; the 2008 Norway trial programme took about 20 minutes (pmc.ncbi.nlm.nih.gov/articles/PMC2600961). Injected fact otherwise stated correctly."}
+{"prompt_hash": "dfe2020348eb21c2bf8a5a7a1f6eb22a21906f9f443f1fdfa6cc5ce8af402efb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ed9f2e2985daaed0a1a1970c0066d67e6444bc8a666987bce2d0c461ec9a681", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "504bd53edad5fbe981e69da400579d113448dbbe9a44426558de2d5e449ecbec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b603e54e5f603b0822a571d38070c0258a998e0f8ee2273062ca785f5344869", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87a863bfdc4094d2efd0fb00350867ef840afba3869193552e6fece4334dc0b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d71e210aa26bc2e1b36b23c5babcfb29b6d672c8dda6ec772e5e97c3171813d1", "verdict": "adds_false_claim", "reason": "Story has a 17-year-old cleaning the deli meat slicer at a supervisor's direction without correction; 29 CFR 570.61 (law.cornell.edu) bars under-18s from cleaning, not just operating, power-driven meat slicers."}

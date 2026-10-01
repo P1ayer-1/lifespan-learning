@@ -1,0 +1,40 @@
+{"prompt_hash": "b346f5e352e1c282cae1f9dd19cee6b2db7d730146eda6bb8507a28f041d5520", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8be05ca8f2884416c30f9185f82041d74d985d52bb482ed15294270f659aca1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5f6989c9b1477045a7505049aa4d1ea962d62e356f396093c11ba029ef18422", "verdict": "fact_missing", "reason": "The story only hints that the bowl is still damp; it never states that clay must be fully dry before kiln firing or that trapped water turns to steam and can crack or burst the piece."}
+{"prompt_hash": "3a6fe88a062ebfee9244820c4e069f7702b111f55f7a19ec0e07a5882021ba60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6f31bba7658e842eb7e17423d056ca5f8622dc650a844611ea0ff4860f88a65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6f016607dddcc2efacb853049c67b3e81a305d2bdc1727e95957fb4c420c15d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f169210aaf1d95e0cd5b9efb320e02bad52454faa54a7b0daf5c9848b9418fc", "verdict": "adds_false_claim", "reason": "The story offers a paper strip 'through the loop' fluttering as proof that air flows through the valve tubing. Valve tubing is a sealed pipe, so paper cannot pass through it and air inside it cannot flutter paper outside it."}
+{"prompt_hash": "048a96df2ecb624c0a0437e513a8e2a29adb9bd53333355c8667c20d5f744887", "verdict": "adds_false_claim", "reason": "The story says the cotton setting is far above 200 C. Cotton is the three-dot (high, about 200 C) setting, which the story itself also says elsewhere."}
+{"prompt_hash": "78a18608ad59a330f05ca5cdbae3a468abffa50624911502146afd82ee9cde14", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3da26eaea34fe64dfe78fdca79a089ace4c937791bdeb2ec55b4ca852548155", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf51ffde7200b9bf6e9d82b75bcdebeb0be0d1c6e663db68e636f6e74ab110d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af891752c668509bc4d037294c43f1b627cc42b1824f75f6b67483dc73e57d6b", "verdict": "fact_missing", "reason": "The 4-7-8 counts are stated correctly, but the fact's attribution to Dr. Andrew Weil, who popularized it, is never conveyed."}
+{"prompt_hash": "602c63521cb463189624f41d614f988f92abbba8b4843d534fba240893408a39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3da62ad624ae2bc1e7a40cb9ce83fb3891657f5a6d95f8259ba9d695f285cf73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc92d3a4865bdf41569abb09eceb44496ebd776f974753ccdcd647d61c0f75c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15fd3941540b11a53752d5778208fa5891bee05b29164a609c23e8b643396805", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "049b3fcf142504b5c2f25d930f2c344cb42a43a2aa5610e3c5ab26aaa336af76", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "460f0fd442fe7bfb3d7599d848afc60360d70de5c824f57a8af8e02c12bfb206", "verdict": "adds_false_claim", "reason": "In the story, one spring scale clipped to the shared team rope gives each puller their own reading. A single scale on a shared rope measures only the total tension and cannot separate one person's pull."}
+{"prompt_hash": "e880128921954069cc090cb2c6d1f30f2b042f0e50d4890fe24778885dd9439d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56fa99cf9a13eaf319d2d1fb68dc04fc38fb8541b298f43ea3370df819138508", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7410ca71fa1f323b1f9799081638531308a0880792e06d1742aca164904d919b", "verdict": "consistent", "reason": "Regional bise counts (two as the default, three in parts of the south-east) checked against fr.wikipedia.org/wiki/Bisou."}
+{"prompt_hash": "e3224119add28f7ad09bcdabbf423c74bf6d3ffe682a54128ceeda9b584a0c20", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ce723daf4099f52b2efab038cac78351a78586830fef3ddd3dc1b89c34289eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5036001620d4a0b2ee4dad368d4726b9da022dc3911f2663087923ba374435c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd04e997e576989f97436e84a73a9620e3784cc2bc9bc818530183b9fdfba8cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2fc15cc7dd0081555e74abeb0c587c4c3c141aff2ead1bbae3caeb1d89e2680e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ead8ee205dcac37086de22b9ca7225be4db9adf69799ed272a32509ec7d7f46", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "702dc41849aac40dffbb4f049b623b68c029ff1c9e75d7254394a830271e3275", "verdict": "adds_false_claim", "reason": "The draft used periods before dialogue tags, yet the ending says the writer's punctuation was right and needed no fixes. A spoken sentence followed by a tag takes a comma, so the draft did need correcting."}
+{"prompt_hash": "dd3e290c7c8564a1740b4d6ff6e8634c2534e4a1f4681df8541a70b37cf3228b", "verdict": "adds_false_claim", "reason": "The story blames swapped axes for the line sloping down. Swapping the axes of a positive relationship still gives a rising line; it cannot turn an increasing trend into a falling one."}
+{"prompt_hash": "e8aa853ce055c6039db673a6c12c216877cc4a6a2e83e02bca2a3fee68e5b8de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e329d5ff6cecc5375b0323d9ecdd9cdc1b6c2f07a65f5523cb30a56c75c4f857", "verdict": "adds_false_claim", "reason": "With Grade placed in Rows, % of Column Total gives each grade's share of all respondents and does not normalize within a grade. With grades as rows, the fair comparison needs % of Row Total."}
+{"prompt_hash": "c2d6c7e48f9e7181210027ea7b25c422858451e7eeb5eab6dd478938ade79e83", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18d577a685aee11492152c0e4a129b814d38c443558ba33111aa5dd17f813c8e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18aa1523a5941ed16b33972db43f6147389058789789dc91a8fb2ffdf11691de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "510f72747cf64a3a07aea77ef951c912b7414d9c8c6e26f71b9d08a6c7be49ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0517ffeaba75464ce5bfc43e8db47ecf4a8ac4f70cc610ef90f69bf3dddd9a81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e944c5104009a5df7a2ebb98c521e13d0de26af601dcba33ec61ce517bf40bf8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "010e5162283b71421031b1862b48ca4410af76910b6a620ee90465a4cd048fc6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34d46ebb652a82f76e150c02cec1b35393f2bb89739649e64e3f0c03fbcbcfbe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0beef60052e1606706ed67fb907b73f0b6324d488e70651b59a450166ab694a2", "verdict": "consistent", "reason": ""}

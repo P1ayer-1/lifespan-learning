@@ -1,0 +1,40 @@
+{"prompt_hash": "0445a9b45d4ba93d89f7273c859ea8a14060345b0bddc1d62643ccf0816d0057", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25cf9a00d295391e117986fe7bcc5cab07ed9f497cbc4d20e20ce20715425426", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98dab96c51a4b7c684a5d9e0e7baff6e0083b6bfa91106448132c0117ed28cdf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a0ab4695c3792c1b5315f32fbb3d0d434fbd0c42ff313afaa82830e72a088d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b94f0b3256885f05aa430cc4bd8ba2e554c57f75b0f9e65f355d1d176c7196d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "804c3781afb2c9708b98e84e9c275e4f5491c876401e3ec122f81a0cd46e8dbf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7121e89e796a436d08cfd413fc4cc2b9b8f4af7377f92e3719fe89dc8264b10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c53d06d1d2b96c4896bea48e34baede0ceaab79140d469287758e8fc2f520468", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "293c2a86e7c249e6c24bbb7d3e2bc6b2f367213a11096620945d1e663fc640f7", "verdict": "consistent", "reason": "uncertain: chicken doneness judged by juices running clear; USDA advises a thermometer (165 F) instead. Not stated as a safety rule, so passed."}
+{"prompt_hash": "974ee785e1185268a08094f76b04d1e261de4c0c47e2988d3b22fe6584b08018", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "754a0ad2f1b699d24d5cbfb689ca9f40f99e3135846ee15b12f23b14e8d53ead", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb97b06247fa7e8d34429763ef9896dffde6d839fd82c372e56fd7c4c0d97dc4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57dcaa4c5715c7da55a585a2a78e42ea601415c9b494aed3edd84f1b514d0890", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e1e2cd75e6402581d7fe97042b2d851104b4cddd9afb2b134a02e39d9edbbd6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68625ee27ec4cad25031ed5a369fbdf62d90dbf2293be82e21ad4d0a4024b9c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b2e5bbf3f029cc9944ca9aaabd620357079f41eb8f5dc0a186163335512046f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26e8d3fa0608e1053371601c32b672416d654710263223ad1c3005ceeb25eab3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8323c3cde7013070be873aeb60309c9020c802179320cd701cd605a06a624e84", "verdict": "consistent", "reason": "Snellen as Dutch, 1862 chart checked: en.wikipedia.org/wiki/Herman_Snellen."}
+{"prompt_hash": "491dc64e14c91e3c3183b040f5cc2334441218ce5757bcd36fbcd420780a43e4", "verdict": "consistent", "reason": "Torn-bread custom checked: en.wikipedia.org/wiki/Table_manners; other table rules framed as one household's customs."}
+{"prompt_hash": "c5f028e07832c392a532702963dad9a18feb486eca1865fd044a911da99b66d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5df9e931231b57a524bc71ee9e2b7ac2e23d20dc11dfc83a7a3a71b455236af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b99cfc00b6553b37e2168b7fd7b1ea2857d653c3cef0db7e7269c91c7f64d8a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7265d834c365d9cd1e1fc57d179bdf1b2fac060e2127e046db045eaf30f4ac8e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77a67f78428246a0dab7582093f9aa7e92f67fba8b4d22a0b72ea246960b7519", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ecad5e6622f60ca71bc74e76505cd4e8b1fe438ad76f1559850e6a95091814d", "verdict": "adds_false_claim", "reason": "Story shows the left-align rule moved above the centre rule still winning on the first try, contradicting the cascade it then states; with equal specificity the later rule always wins (developer.mozilla.org/en-US/docs/Web/CSS/Cascade)."}
+{"prompt_hash": "9b2b5ebb1abcba6822900da68907ee97c9be373aa972d71db25338d655688afc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15c4f16cf701ed76e9238830bf82736b39b6dad42cbccc01d90830d12b59071e", "verdict": "adds_false_claim", "reason": "Sample FPTP count is impossible: a party with 31 votes cannot win every district against a party with 40, since it must out-poll it in each. PR remainder also wrong: reds' 11 beats blues' 9, so the last seat goes to reds, not blues."}
+{"prompt_hash": "3281c7455aaf98942f93fbbd5ae38465f597ccf41651c98dfd20bb0987636d24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0bca67e18f75dc000ed612fb7fc46a8d976cb967bb4419a34b4b6bb137f6e30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "100cb381d06293659fc314e764eff7db84adbfe4f6e229b0ca3c570174e91a90", "verdict": "adds_false_claim", "reason": "Mischaracterises Macbeth 1.7: Duncan is at supper, not in bed, and Macbeth's 'proceed no further' is a real (if brief) change of mind, not a lie (folger.edu Macbeth 1.7)."}
+{"prompt_hash": "d43ebd50447320f94f329525a87ea5d2426547f6f0a5958437adf3ca7506f926", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae7351508d7a3aae06253210637e897428fa9f8a013f9b7b31ea8ea79fbf4990", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f76f4231f249c9d98350cb1a5b26e9d87f09183fa431f99049263e718ca477b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05e81327b3c7544cff32a4b558ccef26bd343eb0170b6b9652313343277cf73b", "verdict": "adds_false_claim", "reason": "After smothering the pan fire she lifts the lid at once and fries again in the same oil, presented as fine; safety guidance is to keep the lid on until the pan cools, since lifting it can reignite the oil (usfa.fema.gov cooking fire page backs the lid method)."}
+{"prompt_hash": "d1312813363d9ee682a13be12f8b29d7f88188bfb92f3905c284ffd26c2e1f8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3173ee17a423c5d1dcd1b9df950608d473e2cce197a1c27f535ae2d2e3503b36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c0f77ce68bd55bf58f57a8b6f61996b9016b530bcab6a3bdcd0c2f0fce6a24d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "487dc0b793da2c70dca8797b5c1d3c71af03871c011482e37ccbd6ac572f452a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb2d48d21539ffb5daa9c93430fdaf2f63e350f423478e94d6106caa91b78e73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9123b4514763717b4037bfc2bc55aa0c203934658bd8c41fe41e0c64e63f9825", "verdict": "consistent", "reason": ""}

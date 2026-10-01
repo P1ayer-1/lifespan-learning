@@ -1,0 +1,40 @@
+{"prompt_hash": "34dc428c888a0735f67c9a8f31ee21ab032e84d550c30fcb1a8f69545c0ff7be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1e682e6cd5d8694f0059561cca28c349999a6a3011572624777b1dfab0805d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ffd360101e536a3fcd4b0fdd7aec77b428b5410a4c4487a54adc77c6dc1aa55", "verdict": "consistent", "reason": "checked: PLOS ONE copper bracelet/magnetic strap RCT (journal.pone.0071529) found no effect beyond placebo"}
+{"prompt_hash": "a74ccc2cb8fbdf462450a4733e4f11683b5a6abff24d086dd11f7ea7379da15d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58612072ef662992a4f6b4081aebd6e0c27f24a18efe676aa1efa838e40b86a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "897429081175d3e4256389223ca4caed1dd40f83263f83194eb58233555089a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c5f1882cb3d3272e7a694f4e8e22edf9734b86d813b070d35a654ad0492d8d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7387b96e65f0b47e243a5bcabc4f5ade5895d97d4758e28841adc98a16635617", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "162c1bee0f8afb800dafc6e5ca73a1a52b460bc71a045ac29f038648867c61b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3212a99bd66bba76c4f2199c01e0ce623a26f10f7fd2904964e033c56134f5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a90258ec0e18f27c6d0d696ae777a0050a215761e2becf789f20342dde6e938", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a49f5b536bf14154bbc6966d1ace24e8fcb88f49a409c3ca73e5324680e96afb", "verdict": "consistent", "reason": "checked: Wikipedia 'Sefer Torah' (yad means hand, avoids skin contact with parchment)"}
+{"prompt_hash": "f2a0a5cd0146d89355eb34f8a40bd0485ddd13cdb5739ff13f460b8eb95e767c", "verdict": "consistent", "reason": "checked: Wikipedia 'Litmus' (neutral purple, range 4.5-8.3); uncertain: cola giving a paler pink than vinegar implies litmus shows acid strength, which it does not really"}
+{"prompt_hash": "c80794c682eb959872dafc1580db481136d71dc57e48665b2ec741a7c98f1989", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e823f01bae9dd203fe0424ac8d95d2d57c0f4f452ce4313b754268b90ed49997", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e871135ed1d4a78700d1f1b7719dd2f0cee19a04fdaf59bd48be93c6ddc9cbe9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39140adae8bc956271c71f2582d18c40ecb0ceb5a99a7f8c1fd5d16e0067716b", "verdict": "adds_false_claim", "reason": "Says the cousin is thirteen and a half and will turn fifteen in six months. Six months after 13.5 she would be 14, not 15."}
+{"prompt_hash": "68b5976383a47369dccb4b7ef3f9aa76153899937a1b0841460f2fcfbde624e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "530009284b2e0353e2d0bf1689209fba47bdd0d0c91ff4ec8f090325a84dc76d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eab65bc58477fcc660bec052d640731f08225b188e6c44b90fe36707c7da3893", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "66746b15c259ff2aae6be924e004b2c576ed47405e7802cd56c0059180e6c5be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77e76b3fe64d30143307de6760ea5ba411f8d6af8bc30bcbd1491e5b71664ce3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d447c2cbeaed51ded866084f46e5abce1677f4cc3815efa4539ff5a62850aaae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31e50f1b9e1cc2ca0b97e0b180f706ce3f7e53aff5a8a3416af365b79fc01a2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22c971ae077d4c3a4d796f5ec364ec2d9826c45466ff64e4e8fc1bb9531ddce5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96a07ecfb6a8d0818b7e8a39cc21093dad4eaebed3b164d1825cea551b8afffb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eeafe55a730580c1b5317754952faae77fb9bb3485a0e332bcf3cd332b5f62ce", "verdict": "adds_false_claim", "reason": "Calls the PivotTable field areas 'three empty boxes' and then lists four (Filters, Rows, Columns, Values). Excel has four areas."}
+{"prompt_hash": "ddd0ace6f976d24b683335d391cc3fa0fe97c084aa212e5ae1eb00ba0a6a9398", "verdict": "adds_false_claim", "reason": "The hallway test shows Amelia unable to read at 20 ft what her mom reads at 40 ft. With 20/40 vision she should read at 20 ft what a normal eye reads at 40 ft, so the demonstration shows worse than 20/40 (Wikipedia 'Visual acuity')."}
+{"prompt_hash": "3f6072617b6517dfe09082d571589c1154744d576203023e79a40f99dda65c3e", "verdict": "adds_false_claim", "reason": "The uncle says on-base percentage counts reaching base 'any way at all'. OBP counts only hits, walks and hit-by-pitch; errors and fielder's choice are excluded (Wikipedia 'On-base percentage')."}
+{"prompt_hash": "fd31055dc3389291fe0094585f4b0c07af0d1ec4ad5c27d1131e0de71fb12ca2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94f2356d7359f66ef62e5724e63a268ddf550347af5ed83cc5ab070afa70e457", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27e34c9c630b69fe3a28c7d0e154f86304f0a35ce68e249ec48d353704c197c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a42a887173664c5e96fb2b7eb095bb25ade086eed4d615109a22acf6005464f9", "verdict": "consistent", "reason": "checked: Wikipedia 'Oregon Trail' (1843 provisional government granted free land claims to settlers who worked them)"}
+{"prompt_hash": "062cf0154acc72e2567028e71700c8ccdb33e081b3460df2ab54fd684c5bd7f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8c3d621e8ea21886b8c3c9fa436624cb97a14ceb03df15c896ef648cb8417f7", "verdict": "adds_false_claim", "reason": "Testing every divisor up to 7919 is shown freezing the program, and skipping even divisors makes it instant. Checking about 8,000 divisors takes a fraction of a second, and halving the work cannot turn a freeze into an instant result."}
+{"prompt_hash": "fb0b3ef6de33454990e4b6a531cd367cc1a6dd86e19d9afa5f47395df3e423b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "586f85ec0142a9c4ed19ba1017c04b194a9f6d92fed5f4ed9b205c7d2e6c9516", "verdict": "adds_false_claim", "reason": "Says Juliet goes straight from 'Wherefore art thou Romeo?' to 'What's in a name?'. Several lines and Romeo's aside come between them (Folger text, Act 2 Scene 2)."}
+{"prompt_hash": "6078e86f37f961303a7735fc808e3cc595d706a4663f33687f5c5a81ccc72434", "verdict": "adds_false_claim", "reason": "Folding the thin wire back on itself gives 1.4 ohms, half of 2.9. Folding halves the length and doubles the cross-section, so resistance falls to about a quarter (about 0.7 ohms)."}
+{"prompt_hash": "ae78d8cab9023cd26b62533df84589754984cfac90bbecf37b57f49303750632", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f63fcbd26204e659f8f6c0d21464a663353a5c823b1e586f971baf2b8165640", "verdict": "consistent", "reason": ""}

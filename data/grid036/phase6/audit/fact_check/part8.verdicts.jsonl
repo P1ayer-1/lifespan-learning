@@ -1,0 +1,40 @@
+{"prompt_hash": "ca4ade7a84275c6fb2f00b551bcc6c1b56bf5b927b3330db905b5f3ef8d53715", "verdict": "consistent", "reason": "fact confirmed: guttmacher.org/state-policy/explore/minors-access-sti-services"}
+{"prompt_hash": "be689771ae2d7ce937b2db97ed6723380587d62e73e29c5668771972348c23d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ca8cb8d104c7d45e2bbbc3936a85354eec79e216d6bb9b342113b6ab983e080", "verdict": "consistent", "reason": "AP 2-D: Selected Works 5 works 40%, Sustained Investigation 60% (apstudents.collegeboard.org); 'the other half' is loose but not presented as a number"}
+{"prompt_hash": "3f304fe924e5e695063744f005a26855247fa0301d113ce8f75572f6865ad9fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7e4201181a17a4d51690b6200d34ec103b9e923ad0bb3a51ee70d59488a2bac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f27d141c608b8d22a5755cf1f3e2cbd9e0f2d7b6aea326a80df0c9664eaa3ffa", "verdict": "consistent", "reason": "uncertain: pamphlet showed hands at 'ten and two'; current NHTSA guidance is 9-and-3 (could not fetch NHTSA page)"}
+{"prompt_hash": "9c304e12d5fa716d3c64f27d6261a39226a2fbdc2056da70a3f0dbf3dab22145", "verdict": "adds_false_claim", "reason": "'looked... at the little cluster of sharps beside the treble clef where the new tune began. One sharp.' The K. 545 score keeps the C major key signature; the move to G major is shown with accidentals, not a key-signature change (cf. en.wikipedia.org/wiki/Key_signature: modulations may use accidentals)."}
+{"prompt_hash": "7271c3faae2a427e80d1fb92ce13979283a8cbc4a50883c9a785305a75c66edd", "verdict": "adds_false_claim", "reason": "'the animals are placed in a vertical line'; 'wings folded'; 'dragonflies stacked symmetrically on either side of her.' Monkey and cat flank her at about equal height, the hummingbird's wings are outstretched, and the two dragonflies are above her head (en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird)."}
+{"prompt_hash": "4cbf2bc0fb5537fe3dd7f0b9f3eed6eeed18eeeee2a6fc1a9e5dbeb3a4859484", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9f2be19dd5b102bfb1e77155c65e7d3da85d65b7dad6eba4f9995ae60be082d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c493f0b8e627fc755951fb14a6380486a80568bab5bf15255f98bd1e742440d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b005f2357e6758954f3a829dbabf85bc2bfce9efd7b7e9546d4b6a57c91a423", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5dd8d335b8ae78d38d27f33a43ea869bce23e4b7a7438c744dbf517e1bf8eb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "393cb5f77d1b63b215b6155f09e54174acca4955f3caa590ccb3b46ef08f60d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c21f37177109c2c3445d3f49bde140ed4c589d26a328d4c437710a7df590165", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54b0441841c373e9391dab8aa57932ad525272d039a1b1d2bb3937cd7bcc192d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37f44ac74a69619abe57acbf000820732860d8b44724029dd21e8148ef456ac6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba7bdc376e87fa018205da9b953211a16cad8109110c522fa6e0b9115d67a562", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "844241b8c57b9cf20d58046f8f6977df3469b0f6ed08e6627f6a388ec97add73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7243a52a61a499d15147f89ccf40410c44296246e94f1c8893235496e7e63b63", "verdict": "adds_false_claim", "reason": "'Ella wound the weight down the pendulum and set it to largo, as slow as she could stand.' Moving the weight down makes a Maelzel metronome faster; it must go up to slow it (en.wikipedia.org/wiki/Metronome)."}
+{"prompt_hash": "9c1cc6b35130eef7de3df151f512e576e260eeff63e730156aa2bcb93d08315d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01be5f7313610ce61e9d63b55ab5b9e75b47389c3bd53e62c1e285547861e983", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7031236a49d0714bee3189a4a3ce69624dad9952c33a3ef76fd22c6dd85d47c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96cb9df2c40039662f873d92cbd26d58ce8ee7f8f26a1cb7f029b123699e20e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2551f9b5af246bc181eca6a6637dc09cd6fa1ee48b87578fdbe329613e800116", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b46bdff83fd952202d08c16268636fe6becfc52e6a0a91b17e2b2835f05a16a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6267775e39bd81546eb5d1b19cfabd8ecdfc0118fd3c3e4abdd599fa43b96ca5", "verdict": "consistent", "reason": "uncertain: 'likely letter' inviting an Early Decision application; real likely letters go to applicants signalling probable admission (could not fetch a source)"}
+{"prompt_hash": "222598e2f77ea0e57c14dfa8f7e8908c09ad1a6d8bf3b55b577f407bb16e4594", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25970d37f0c58795ebdc636d3591cc4d0958cc86bf203ad80e92c9491fdb0ad5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48138efaef59f196f5c6eeef89995e68a94e971b831569a63ede1295ec409fa7", "verdict": "consistent", "reason": "39 melachot from Mishnah Shabbat 7:2, linked to Tabernacle, listed items all included (en.wikipedia.org/wiki/39_Melachot)"}
+{"prompt_hash": "7730af4b43d88d890aee91ba4b3e00fd68724fd8d4b4009f351cad3ff48665b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3db4df8b147fca883d017b8dd28e0c3d8d56321a54aca66c0a0e1127e77b8693", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "685cc59d8ddbf86068187cbbab4ac4d4868ad827ae33b5b9870eaddb8f87458d", "verdict": "adds_false_claim", "reason": "'Hall only gives you the first number... He doesn't say how long the real ones take.' Hall's study also estimates about 90 hours to friend and 200+ to close friend (news.ku.edu 2018 release); also '50 hours = five school weeks of lunch periods' is wrong (that is roughly 4 hours of lunch)."}
+{"prompt_hash": "cd13b8e689143a84bdb38609d0d51654465b306d6f5574cda435ea706787efdc", "verdict": "adds_false_claim", "reason": "Japan's pyramid described as 'wide at the bottom, narrowing fast.' Japan's pyramid has a narrow base of young people (en.wikipedia.org/wiki/Aging_of_Japan); the story itself later says 'the narrow base.'"}
+{"prompt_hash": "aa5f52ef9d6aa3300b9ec2ae61de34169bec7e753d8aa9000463747b2fde5a55", "verdict": "consistent", "reason": "uncertain: European Frida holds forceps per en.wikipedia.org/wiki/The_Two_Fridas; story calls them scissors (some sources say surgical scissors)"}
+{"prompt_hash": "355ecbb46dad1979614e55ee30ad6e6f39e933885b2a847e644320e9f5191c9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50997951f5c92908e86daa1f7014140598c02f2526c77d39521eac58bc34f694", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f369f6d91341e907882114d7346692424561c94b28af04fdc49f20adc5a3427", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7621395cd4950022ab84b2910e65b37d9fde7659836350481217e267f231341e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d04d00c4143f62b6b5226f005844dc959659a8952e1ef0c203b6a9b247b43598", "verdict": "consistent", "reason": ""}

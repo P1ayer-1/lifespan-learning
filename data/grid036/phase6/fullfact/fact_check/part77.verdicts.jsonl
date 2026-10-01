@@ -1,0 +1,40 @@
+{"prompt_hash": "d8a47460697546813476993ada8920f7edd96421f259b82ef5d5646faa68978f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a80284598817fc40db37aa7c8db3c5f3cddcf2e3b74c25be98e855f2fa5cc93b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80cd00f5192562146b98a89e5372510375508a9ba9bc4badfe4db6c885ecc95c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d00fa97ed3a682c7fd5ee952cce171076160a47370b95ca05409665586d2e26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f7efa5f3a3e7cf3d086100af95da28432942ceafcfd33792de7ff0a75ea4cad", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Pocket_veto (unsigned bill becomes law if Congress in session; pocket veto if adjourned)."}
+{"prompt_hash": "116f5690f29e4468e47aa4862be52129f1ad002ec0e10b5a658a4ad51519bf92", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50aa1c95aa01c2fe4044308fd940f8c9d103172078ec6359b3c238b02cb37038", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd6898109ad06b0ddf9f67185302b2ccd451b301a8aa05266446ba81c9006f73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85e75d6b48bc4dfc74e69ad0aafdc74ef1f55836d2d8896af7dbf3cde8e88862", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d18d468b29c3d7614bd00682e46ef789f9133a61cc6dc9cd27e10faa4f62af78", "verdict": "consistent", "reason": "Rent deposit held for last rent period is the Ontario RTA rule the injected fact summarises; no other claims beyond the fact."}
+{"prompt_hash": "7344fcb803ab3fbe566f1dfb6ba1d4646a6f6326f280dbb56870f743e05b2d43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3df621320c73916a9a417c09bf62027b947ffaef7917da70780e472c88c85c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39dc37fbfaa5f937d66ad923d5452297a2260fde797ac97b985b772a0aee5258", "verdict": "consistent", "reason": "checked: canada.ca CRA payroll page (CPP, EI, income tax deductions); CRA GST/HST calculator (Ontario HST 13%)."}
+{"prompt_hash": "1b73b610706929cc26956103b8b64c52ec4654752a892ec138f3dbfdc44c9235", "verdict": "consistent", "reason": "checked: invid-project.eu plugin page (EU Horizon 2020 funding; keyframe tab for reverse search)."}
+{"prompt_hash": "691a68eceeaf78c084be8147a202a570b860d61188ba6b770955d9b053b65051", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f343c39e8c8e70d7ecd5dc063b69c3abf4206c970240a3cfb1061ae0820aa61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbde0388313d09ca9ed4c42aaff514d9da7e8c2902d45a3fef453c0085973da4", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Passover_Seder (order Kadesh, Urchatz; charoset as mortar)."}
+{"prompt_hash": "c30d24effc7fa7c238b34b469aaa6159665680012d64bd8008f5a8749fcbdf46", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Pomp_and_Circumstance_Marches (Othello 3.3, Othello laments lost military glory; graduation processional)."}
+{"prompt_hash": "9c9bf341d894fca620fc6cf7f4d63317ed8e834f379fd643de3157b3bd50d19e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c3646684c1daaec9be05a8097e20859e3db9da51caf8897f49ea8033e113745", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Two_Fridas (European Frida holds forceps, Mexican Frida holds Diego miniature; 1939 divorce, remarried a year later)."}
+{"prompt_hash": "b113bb78056068fead5e3335fe684e140923f40cffc4e0e57ce81ead7a900d35", "verdict": "consistent", "reason": "checked: scientificamerican.com why-does-lactic-acid-buil (lactate and other metabolites linked to acute burn); causal role is debated but not wrong at textbook level."}
+{"prompt_hash": "16ad4b0f0b2a754ed8d02d47f51bda391ebf978e868a2f6027ab469570567a8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18fec238599c714e916c16646e5f33dcef92297b26869f9958ac80e4c2b933c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90f694b68d9709af5df6c0cc4acf61e70a4d25ce622ae9a0e231ebef66f007a5", "verdict": "consistent", "reason": "Recomputed: 5.00 g / 84.01 g/mol = 0.0595 mol NaHCO3, 1:1 to CO2; 8.40 g gives 0.100 mol, so corrected value is smaller as stated."}
+{"prompt_hash": "91b70dd48b102fd86a40a4b02457a016a3e4f2c72666a35174f7ebb4ad62dc7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01cbe7b862589f081d5bb99bf2a9921cfbcaef462b54bd186d1b4d590a35129a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37dce01ecb2d3827634767128184a4982ec789b4bf938fc7321056cf7dd64368", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hurricane_shark (hoax from 2011, recirculated during Harvey 2017)."}
+{"prompt_hash": "e557ffe8c5ecd88524c6b0554ae6d6cf85bb8e92b6001b3e6e13f02eeb0a3b63", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Reading_(legislature) (second reading on general outlines; clause-by-clause in committee)."}
+{"prompt_hash": "8f7c967c43a36f172b20c4cef4add2a34168079fe72030266fee22d905539f9e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "466480ebc7c9766ebc01e934238a0b003d91ce041ff1d22ab7b651ca7edabe42", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hypertension (2017 ACC/AHA: normal <120/<80; stage 1 130-139 or 80-89)."}
+{"prompt_hash": "315032fbd32ef676af8906898840a632bf8a9eda0db04a81f07acb952da25cfb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab7833abe8bb434f5874b7be149fea1b3bb6abc6d959ff0ac7eadeeb7561d02a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Early_1980s_recession_in_the_United_States (unemployment 10.8% end of 1982; Volcker)."}
+{"prompt_hash": "926b9824d365ca84633a892a9eabb8c0dff220397e9a674934d790bd29802544", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53e3f8f4b18a9ebc263eccce5d5f6f9efa3f4e8775a67ddb0bbd0eff8c0ff356", "verdict": "consistent", "reason": "checked: bls.gov careeroutlook 2024 education-pays (99 vs 08 in 2023)."}
+{"prompt_hash": "4e7686cd951a4e2f3728ca734d5b02bfb467593848a80023919802731637558f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Stanford_marshmallow_experiment (1990 Shoda, Mischel, Peake follow-up, SAT correlation)."}
+{"prompt_hash": "f179e977c14a8406ae7efcca12769314a7058c155322e3b2e4b002a154710f09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf75ce2c9229374c8c9eaf207122900800f6048ee6351ff9a197fe0c3486d168", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff41b954a39e9f9be611d70d078cb9552bd051e5c6daa9f7268cfbc5a06db604", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88a972e20a636fd76e66d65d773936b644115faa0475c7eb8b85e4df44654b5e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/National_Labor_Relations_Act_of_1935 (farm workers excluded, no NLRA protection for union activity)."}
+{"prompt_hash": "b88137ba8d46eaebbc334315fd2e6b2816dd9bc914c731ec4a0aa718016431f6", "verdict": "consistent", "reason": "checked: gutenberg.org Pride and Prejudice ch.1 (\"four or five thousand a year\") and ch.7 (entail to male heir)."}

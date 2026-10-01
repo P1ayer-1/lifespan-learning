@@ -1,0 +1,40 @@
+{"prompt_hash": "48dd4561b90d3c27b76e0c0ee10f5fa8cca598f5437b5c6995c7d0ad8b2f28d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "14321e8b841a1f15abd3b94ecd419bc91221182bc9239b0b185de15af2e22f96", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31c42a589c914da844eb205958cf7b975efea0a918ac049ebf689f82c3d5c83c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98a6dc0bfc1ca417c80fa296161c6e32dbd3fa3bb120b42685b14a5e343f4710", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d882dd3d917beec321add19287912a00f7d6bf66d6814b1f922a87c5f7892e4", "verdict": "adds_false_claim", "reason": "The story has the grandmother's Shabbat day of rest include a fast. Jewish law does not allow fasting on Shabbat (fasts that fall on it are postponed, except Yom Kippur); source: Wikipedia 'Tisha B'Av'. The scarf-over-the-eyes star trick is also not a real effect."}
+{"prompt_hash": "b6bea9458d080c9da19ac746dff1a2cea5f06bd867c2f3b64d1ecc1350ad0610", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8718f465e8adbc908a189fa7c8524e39459cd555d00ad254f870f4ea9d2dc51", "verdict": "adds_false_claim", "reason": "The story says Raymond paid more than the list price by bidding $110 for Marvin Gardens. Marvin Gardens costs $280, so he paid less (Wikipedia 'Monopoly (game)'). It also implies every landed-on property is auctioned, but the rule covers only declined ones."}
+{"prompt_hash": "56790af9c68c9e3eb4e2858833efe36d66744ea520088b639266cc0a4a81d69c", "verdict": "consistent", "reason": "RFC 1855 (Oct 1995) says caps look like shouting, says to ask before reposting a private message, and separates one-to-one mail from lists; fetched rfc-editor.org RFC 1855."}
+{"prompt_hash": "c617de6f81cbbd361cb4daf497fd40f1748bf127e5c5ef87e4134eb514a79a9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3159016fedf068c8370dcba7851d90835a1693eae38cabbfc6e2965d279aa93d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53bb048f11bd8a45a9fcb8af3732a934a4604487f62ee86464b2a49381ebf36b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c76eb4bb69e5ecaba9aa811daac747de81f2f196cca6a0ac0df2aa3f57a5226", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "733fcb0c1d2ec838a37833adefb30d6c8e5afb843a908076fc6e529b862314ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7261abb68108ce7816d909ac8e0e6b479724a7532862eb9922be4f47434912ee", "verdict": "consistent", "reason": "uncertain: 'nothing eats the hawk' (adult) is a common textbook simplification, but great horned owls do take some hawks; not confirmed in fetched Wikipedia 'Great horned owl'."}
+{"prompt_hash": "3e8280a8e24cd7073186894ecab1b43fd80b06baf037bceb6c919ea1ae03db7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3e504731ed95d527a1bb5a17babb8edbdba014606efa02b221b00b0cd1b2dc6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf2d3e937e521958c42afa884dec14264e910b55384097ccb4807bcdabe7745a", "verdict": "consistent", "reason": "The follow-suit rule matches Wikipedia 'Whist'."}
+{"prompt_hash": "2537cd8c685721ffeabea06d4899f24de2cb60092c84f145adc6f135becbcf97", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "055429fbba754597496cba42dcab9506426e0acf6a14ea30502770204ace0ed1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae91bddcdf78bcc64944003c55c8593b35c995a72987fd89a230429034beab10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d36e90609830b087927490fe0c85ab02900b8e7e00baf9d668ce479206901f86", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41d41359d94bebcaae010143ce774cc1fe54730225b59db64a82faf3135240c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f925db9ad5d304cb2e4c6d04da6235bd0334d6fe66b38593f62958530f2bdf27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f513de85032fdf0876fdd19532b998f0ca1282adf29340326eeaf18c0fefddf2", "verdict": "adds_false_claim", "reason": "The food chain has a rabbit eating grasshoppers, and the story endorses it. Rabbits are strict herbivores (Wikipedia 'Rabbit')."}
+{"prompt_hash": "40953ac0c0e58fdb9be1496cd9294c5e6359e49e24e3a5f243be7af4f4752561", "verdict": "consistent", "reason": "Wikipedia 'Corrective lens': plus lenses for hyperopia make eyes look larger, minus lenses make them look smaller."}
+{"prompt_hash": "9429f3a55c17a663b222faf57003c57f1a3779455bd26e3f077138f6a8f7771e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15aebe2d3c9faa6c4c84f0472e17c31cf947dfd6868bc447b7354895c3819d89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea0cc9e55e9d5b3fce22786dca161ac06bfa907699ec3813a1da628ef54b77b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9f21c57a128573dbfe6855a4a22cb6f3782a59cbca519820d80891021697efc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e65fcb0901a69ce86a912bac0d188247799ce28608694e85d19fb47ea47f2097", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "232ed854052f42b521b2753e5996d19cd5f88576c417b6df65b349093bd29153", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "604e1cec80c2185b1d7b7c65e13d3e16493ef81286e4d9ffb99046aaa21077e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1e5ee0bdaf001d8661f2b2cde7bfc9d75bf9611e038304b1b19db2fe3c44670", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4adad6e71066a8e18c3a820ccf468306ace1ad26a92e4b752bcf30e20b00f015", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8337e0d4044bee6079a6565b29fa6bce0a78dc37bfdae7fe7e887f78ae6dc5d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d22490310b8e679408334cbf3965d744ad28f67c60aa11d84479c6d7336548cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d35f79af11c94917100f11f867ff941c6e847033e229609b425e5bc5888c7c1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0731afeac2364545bd9d4a60f21f2c4ae235f4ecee7613d6623825db96453139", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d123a1c378965015b38d71a9020aa4e017fe3058502a1957c6a495c9d2ce606", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f1186499967830a24c4554a40efcaef3ca86b26636003953313035625099707", "verdict": "adds_false_claim", "reason": "The bread is made of only flour and water, yet it puffs up within the evening, and the story calls it 'just flour and water'. Bread needs yeast or another leavening to rise like that (Wikipedia 'Bread')."}

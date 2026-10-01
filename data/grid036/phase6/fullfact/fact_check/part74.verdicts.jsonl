@@ -1,0 +1,40 @@
+{"prompt_hash": "7a5ba6c95d278d97e38ac0d705e27673bd45b8b5b1adb657a3c304dd5ec817bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b3e08e2b3ef3cc0b55e6e70c189c6ef4b7aee3bed3fdae98c25835632211568", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45104186a7b3e92b2add7d2b9496d900b02adbeaac99f87e7f6860f863d050f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1598a34afc4978c2fe686cb47b7adc7253707aa6c53154a99f6fd6928dda6ac", "verdict": "consistent", "reason": "uncertain: Lily's 0.3325 estimate with rectangles 0.01 wide matches no standard Riemann rule (left 0.32835, right 0.33835, midpoint 0.333325); method unstated, so passed."}
+{"prompt_hash": "20288660c6784deaa26b3cf6b840fa046c42a74dd45ca689789c15d1050a5a38", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3cddf91f702ad7c790627be7bb520b809663888fcbb73090a0157e98f27d58f", "verdict": "adds_false_claim", "reason": "The story has her speed up the metronome by moving the weight up the pendulum; on a mechanical metronome moving the weight up slows the tempo, down speeds it up (Wikipedia, Metronome)."}
+{"prompt_hash": "199ab57f387e950bc566b7f62a7bb78f1a4d2f9ebd8867a8271d577276c6502a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21f757d2c124d7d3106c9b6a8f5de733a1e1bb70b67a6062bc43134491d07125", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d51f1cbf8a765589858b6a4833989e7f5cc29f6b4964ef9006f5da0bb3ae8cd6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89511e30f31decd28bc351786ee2cbcea0457075ef97fe2b7a3a39d3eedf1680", "verdict": "consistent", "reason": "checked: Wikipedia, Tinker v. Des Moines (Stewart and White concurrences)."}
+{"prompt_hash": "8f1d20a4f43164b698b07ebe64912ed4556bba490c0145df534c68f66152043d", "verdict": "consistent", "reason": "checked: Wikipedia, Pomp and Circumstance Marches (Liverpool premiere 1901, trio is Land of Hope and Glory, North American processional)."}
+{"prompt_hash": "9d87b474bbf7e15bb1a87666bdeec8bdf7d68756989c4ce89047695a931dcacd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3181043fb9fc098a780782c6c9af36620354c216b2eafb9eaf26551a4f22331b", "verdict": "consistent", "reason": "4.65% monthly compounding gives 4.75% APY (recomputed); uncertain: roughly 110 dollars interest on 1100 at 19.9% over 12 months is low (amortized is about 122)."}
+{"prompt_hash": "867303e463f299b4e45e3a774673528b6dc8f772788a40b5daf594e4126a83ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6bc4aecf7a860fcc9b2348387cdab05a207c1e6fd40862b8f8d15938d78f43f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4e24d2c0a629e8278331878ede7c72b6b496c55a465b5661166982617c4b2d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "779f6278e322b59a2c3d8c72aa7bf2e9ca43f69519a3043d143bc5b78007630b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c09630ae31c87ca9978433ffc44186042491485ab314302dbb4c0027616f6038", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd23b78b72674fd6afac1cade6cfb81fe4d1b5b447b5577a3adb351b0fd25b22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a34065c0be435ca0a4b3fd4b06e94ac62ff22360b8f538110d29e56d77aa6b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc08e5b7f96e0efedc72da819a533a85fafaf2ee274fda42b0eb577ae5879eb9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f7ab30e1d6eb414475939f2290752cfaa04eb32496defa75a31dd0e70e78767", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62fa6585b18dea779ceed2e47217c913c8ba7b1ce7818172bcca45a27d1a6789", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e46c871035e78ec0e4ee3a0ca0718e098b83aa2f5852449d9f563b6cda013d52", "verdict": "adds_false_claim", "reason": "The story says question 34 of Aron's list asks what you would most regret not doing if you died; that is question 33 (regret not having told someone), and 34 is the house-fire question (Greater Good, 36 Questions)."}
+{"prompt_hash": "728dcf0c2716c8d6d89b6c2e391318db472ef7393bfabf470f1fa803b1729435", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82ec3f8c0957486d3ac126c703cf63144068c8d162dc39763bcd1cc3c4fc3e33", "verdict": "consistent", "reason": "Two-thirds of 435 is 290; 30 short of 260 recomputed."}
+{"prompt_hash": "bef20fb5d78eec4947c72f3ad425548518b9a66c472c4112867881551c6bd01d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1b0ea117df0668b634a0d7a57c533a757371e5055f0ff59b38c0ef87ecde596", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9fd2dda88458ab119a796c089dd4dff266b3fb602dd7b1f6ac711903d4b7335", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25205048ea43350e73cba2b6d4000ae0963898909f93202bf3ae7d5a78b14a80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aedea2f5af9869c0ce1e63913c31b932be9a6f04b6c262bddba99af650069991", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81a2354ea0d8255e8479961f512e5254081b5529b3fec30c4697500a266b41c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88c76b30aefd1a976cfd014ed70dda0359e775aa3837e8514fda076bd9804a3f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b74a2eb0d3c4dd7b1361993354e7a28ecf8e577b1a95c43915721446f28ad97", "verdict": "consistent", "reason": "checked: Wikipedia, Mauna Loa Observatory (continuous CO2 measurements since March 1958, clean free-troposphere air)."}
+{"prompt_hash": "80fc537cecf00c348c3be54643ac6a65895d41b8bfa9135ad4b93901273a44ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "290a478a92541849efa25d7d31f26ef2c09b3055630bb8427aff5bbcff6bcdc2", "verdict": "consistent", "reason": "checked: UCAS personal statement page (4,000 characters); three-question format per injected fact."}
+{"prompt_hash": "1ae355a417b466370dc9b2ab2c4426a75558909460019fe23e87285b19176fc6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb8adef9291fd371d846d4c65eb59ab79a34d57367d65d057e537eb9b4d2060e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9584a24f41905f06241b268d67d28df8ce03c782780e91b9401696a53afbd7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4beb83182eb30c58784ea65ccb1247c8a8c199e25acf7764e488a6d64bcb641", "verdict": "consistent", "reason": ""}

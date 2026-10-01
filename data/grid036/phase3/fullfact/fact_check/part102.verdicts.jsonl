@@ -1,0 +1,40 @@
+{"prompt_hash": "95af47ec8a852840f1b357de28a7d55a659062e399a6488b0a8b284d449f7ae7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02c51e395a0ed3531ec0c0365f99a1c29c3c952bcbe096ee812b43edf503d939", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abcaaa6894b7a6041f51024b2346f239654ef1a51000297220ea8f922927b742", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e83510f24155d9aeb4c5c577c5e1d948666d34b00865e521d459424e2e9256f", "verdict": "consistent", "reason": "Snowball tempo study (Patel; data 2008, published 2009) per fetched en.wikipedia.org/wiki/Snowball_(cockatoo)."}
+{"prompt_hash": "24a435783f478f27435d1e67ce53b504313f6ca9c829f0103e24b4a2bf0f2246", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "862e6d1d2d1f5bcddb07cc9e5648fe41cb59116af1f6cc79bb3fb0e58c8131da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1d9cfa6199d3e776763a1470e085fbe866ca941288cefc030a4df92cd82cdb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3c0a34aee3d2b2acffb158f7de0cbd57ce16a664f09a2c74222f82adb506248", "verdict": "consistent", "reason": "8,000 ft cabin altitude per fetched law.cornell.edu 14 CFR 25.841."}
+{"prompt_hash": "7b3a23c242e49c4803a998446608d8438b9423a3f5f3d1a03c20a150b3475a95", "verdict": "consistent", "reason": "12-month First-Class forwarding per fetched usps.com/manage/forward.htm."}
+{"prompt_hash": "cf72d6736732bbfc3d7a8633ce3f42acb017b6e065dd1e23763df37e585ac03b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4692500fe49f780876772c09881bdc3be018ef6dfc710db8df89091a37f3c285", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fcaff2da93fef4a8bf44671fa2b5f0e5e1dc4a84fe731210ade03a0b7df9ff69", "verdict": "consistent", "reason": "TISA 1991 and APY disclosure per fetched en.wikipedia.org/wiki/Truth_in_Savings_Act."}
+{"prompt_hash": "07fa2ce0621d712844c0d176471f356d54e445c73f29ac10279d9ba982bdfa71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edc7db1b0b681dddbad5b8cd9d037e25fc33a2ed6ec5b19120aff7dfcd017558", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27fbd09502dfeaa3f869cd66bad59a6fe5b339aebf23d300d0cfa27522a9a461", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9abf914248cc988286ece8a04757c956b71e8162feed39faaeca958c53e93226", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50b06cfce07a8ed19dc9834dc6c7f478bb9e66ed4144e1603da13d70bf96664a", "verdict": "adds_false_claim", "reason": "The winning word is spelled with a double L and the judges accept it; the correct spelling is 'pavilion' with one L (fetched en.wiktionary.org/wiki/pavilion)."}
+{"prompt_hash": "07c7707a8ded92868505330cde45e495b71faf7c9a278468a1e969975173437e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22b91cab5b0f242736da7ed396b46aef587fbe0f85815aa95bad98077efb4a1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "782ddbb47936a6e2b5c8162f109f808ba17f9128ad2a1b2f870900ec69f92481", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f763a2cd4432745d21d41ec394dfcf054f9c23a3091da6b90ca6843fae753487", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "462ae0b00484876ef0b892991c71286a302978a22eb2e8d266bfcad27e72ad90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ba6a50f060a55d870950208f55024648912076aa39c74e3b1f5118f2af1e881", "verdict": "consistent", "reason": "Propaganda Fide founded by Gregory XV in 1622 per fetched en.wikipedia.org/wiki/Congregation_for_the_Evangelization_of_Peoples."}
+{"prompt_hash": "86ebe40337406fa11c6314524265054206a03c8bdd2c6814a9f2cf0d8a5220dc", "verdict": "adds_false_claim", "reason": "The story has a ball released down a sloped ramp give a straight distance-time line, i.e. constant speed. A ball rolling down an incline from rest speeds up, with distance growing as time squared (fetched en.wikipedia.org/wiki/Two_New_Sciences). The 3.6 conversion and arithmetic are correct."}
+{"prompt_hash": "f0118b65bb87bca7c58d73e95433871c00d29f6214767e0c93c6a56705c39c33", "verdict": "adds_false_claim", "reason": "Devonne's listed scores (28,3,25,6,30,2,24,14) average 16.5, not fourteen, and their median is 19, not about fourteen. The Moneyball fact is fine (fetched en.wikipedia.org/wiki/Moneyball)."}
+{"prompt_hash": "362be5349b8f169740a0070ecd578f54f43fddb629f24de8ae3ef06cf5c935ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "446b7f4f364dd2561d6ea0e864e56bcad01a1f05f5438e6dc031b36b4755b32e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4eab29d4e3a5f3ae56860d78d5be9429bf6c09d40815c7bde624185783e060f1", "verdict": "adds_false_claim", "reason": "The story says steady drizzle, not storms, carved the gully. Gullies are cut mainly by intense storm runoff (fetched en.wikipedia.org/wiki/Gully). The Grand Canyon fact itself is stated correctly."}
+{"prompt_hash": "40b5226ebc82922fe717bb13ad6a8cfef1ecd27d9df70af142750a6053f16ce7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34a0315cbe9f6ace0ade34cfb85134303e3f0882c0527182aa9c4a5e916e5ee4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9bc6164d0886b88d832676394637d98d80ba271f7621970ed09e0031d765a626", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c65a02cf23987435a01e9a988eb8bf6d9a047fedaa8e258096f3139aa607cc92", "verdict": "consistent", "reason": "Tuckman and Jensen added adjourning in 1977 per fetched en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development."}
+{"prompt_hash": "1a4f9cba4586bd3380f81fb3f9ccbcfa96f077608fac5d1fc732a4bae667a1e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d23072ce1e00af660d977101d10da210143bee743b78baa9c79b5489f4038ab3", "verdict": "consistent", "reason": "Mendeleev 1869 table with gaps per fetched en.wikipedia.org/wiki/Dmitri_Mendeleev."}
+{"prompt_hash": "f54d5ef86294d3b413949d4c31758c1e17ea12516bd97726ffbc525676a8772c", "verdict": "adds_false_claim", "reason": "The stream table shows fast water moving pebbles while fine sand barely moves. Sand around 0.1 mm erodes at the lowest velocity, and gravel needs faster flow (fetched en.wikipedia.org/wiki/Hjulstr%C3%B6m_curve). The deposition fact itself is stated correctly."}
+{"prompt_hash": "ec43df0769926a25223ed29f1c367a0bc5ab61aa19eed5436dd6fa8e6d49b46b", "verdict": "consistent", "reason": "Maelzel metronome patent 1815 per fetched en.wikipedia.org/wiki/Metronome."}
+{"prompt_hash": "051d8a9240b985cdb3d2cf1d9df97d7e72b91376cb7f724b7e3f4dd1e2a3e17c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac5a16c5cc6a46e8f2f45045940984a6cfccf1605e7a56679cc38766517ea782", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c62c9605f3698a5dd3a231627c64e9e19bd22027eb68e198ade8f153e25c856c", "verdict": "consistent", "reason": "Snap Map launched June 2017, Ghost Mode per fetched en.wikipedia.org/wiki/Snapchat."}
+{"prompt_hash": "206e2e2ced26742c4d3d3974752b164e9ba9fa7d1e12a113270952d991e36a99", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "c248a6a64f929651db747a8c7776f1553b052a0ccda963b75c09e5ec0946515c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d6dd178bc2108f123bdff0e02a0f4522c38ef98068993a821b49b379c6c5272", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5869b5de2dc43ed3ee1e4edb383fa13429612ffbe73b9687c95b523ef3a7ff9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3b39d9f56f716eddca4f65b0adb5d86252c9c4c0a27e88d767da70c01089324", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ec9258fa94fae5c4bfe9c4d73cb43ec115929d3fb6125e396a492dbbe657494", "verdict": "fact_missing", "reason": "The story describes the online disinhibition effect but never attributes it to psychologist John Suler or to 2004, which the injected fact requires."}
+{"prompt_hash": "94e6d75248847a35cae7a74e745ab13d0d3ccebb858b2132eb2bd288ddb9a2dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0baa11e8ff86577959d188578ded82008dde35dc612b6b777e5be13861a23fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b3836bd3718ba7a35c78417d6a790545d1f6a9516988601b5d4ee6ac9084ec1", "verdict": "adds_false_claim", "reason": "In the ruler model of the shaduf, the cup end is said to dip when released. With the counterweight on the other end, releasing it makes the bucket end rise, which is how a shaduf lifts water."}
+{"prompt_hash": "b4609801c54bb386a7ddd224b2c792e746ef5532438f2a1ef0d4247f5a152ee1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f45a42e66b254a26559aa034c0ee7f4729a100cb939547109b4cc6dfb0754e36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d55cb1d4f0b5489a6a5fee0f7d61c5b8fef0528e604383649139a190fabf1e80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a09054cef23c07970df675f286f1e30b24b7f52d1bfb5611a013f33bc16f827", "verdict": "consistent", "reason": "uncertain: the beekeeper says too much rain doubled his honey; heavy rain usually reduces foraging and yield, but no source could be fetched. Tulip dates match the injected fact."}
+{"prompt_hash": "eeb94fb075522f45ad43e11ebffe6b6bb0a1d2ceb0f2ec7cc8fdb4de0a336b5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c98215ceba51399eaee328b2ef30e6252e086715968540b514769ad85a1f0ee9", "verdict": "consistent", "reason": "Checked against en.wikipedia.org/wiki/Wave_(audience): the wave began in North America (1979-81), and the 1986 World Cup in Mexico gave it the name Mexican wave abroad."}
+{"prompt_hash": "5710faeac46f1de423bac06196c5679bc92917d2ce45673f72a877816041aa64", "verdict": "adds_false_claim", "reason": "The score is 2 after a miss, then 7 more catches make 9, yet the story says it touched ten. Also, an if-then-else checked every moment would still show 'You lose' whenever the score is under 10, so the screen would not stay quiet."}
+{"prompt_hash": "e344b8b234a1f8b8a190b01f19c8038b88e97dfb5c857a79881530c2440e1ea9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "363e12c8a5efbdde2b528e550b269787cda80dfa767efa335a750c6964499c05", "verdict": "adds_false_claim", "reason": "For 1/4 + 1/6 the story writes 'four twenty-fourths plus six twenty-fourths'. In fact 1/4 = 6/24 and 1/6 = 4/24. It also calls 6 the 'only choice' for halves and thirds, but 6 is only the least common denominator; 12 or 18 would also work."}
+{"prompt_hash": "3b99870ff029745468375d9f5730a5c01fd5f8c7055d0aa45f851f861716d313", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c8e8999a66d5321d92c04bb61431979414846c7727f13bd6ee63a02b78fde992", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f03a1f6ec7d5b3f72ca6603345ffce26356e1595a08240ebf7de372bb65b969c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "261729087919954e4b2c1e003cdd93f19f6cb5f218b791cd37f9275bb4d223ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90e0bf2e74cfc34dc26cda1a4f22dc18e7b2021449794a9e74ef0857d3dbd1b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "179f580933d02d5e98d99783e48d49a1e4e3f50cc7ac6926d5631e27b77beca0", "verdict": "consistent", "reason": "Checked en.wikipedia.org/wiki/Feeding_America for the network of more than 200 food banks. uncertain: the logo described as 'a bowl with a swoosh' could not be confirmed."}
+{"prompt_hash": "58cf2ac3034d20e4ea99963f04530eaff8ca025e407f5eb8ab5539fe99611b87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3f7b44c5683a3b3baad6296a594131ae1be56390783b0e50517a1526626e411", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31187ea3bfa8c7feaa8150d320682096feecc82dbca93b2b18ee39e0a6592d1e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "792a2de398aa47da19da48f52496fd0a564faa00f2cc1808b1ed17a655dea707", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a79de0d8bb12780449b57efb88bd5d0f8b8fa214b8a93d987928a8cfccc80857", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc3254c342f7e4bfe2f5ac9f4734e8c93d4a803f69f802a557068d6775fdb2a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db455e7a10a12e84473890c5768ba07259a0af078cb6e0a108d8ff93c8b30fed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f00b6d42917609d7f3643a1ff8e74108f31098e906fb6e8afee28867fbba276b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9e1fd0f402d27154e8c5eeb958729f365f875223fe6e5e5fc395a82e87f618d", "verdict": "adds_false_claim", "reason": "The 3,000 feet measured on a 1:24,000 map is horizontal ground distance, but the story calls it 'three thousand feet of nearly straight up'. How steep a slope is depends on how much it rises over that distance, not on the map distance alone."}
+{"prompt_hash": "5946ed3aba13d6bd67d2851a32c28f9cd0c082d56eaceea446e2d215c0236805", "verdict": "adds_false_claim", "reason": "The story says 1/4 + 1/6 comes to one half both ways. The correct sum is 5/12 (3/12 + 2/12). The worked steps 'one over twenty-four and six over twenty-four' are also wrong: 1/4 = 6/24 and 1/6 = 4/24."}
+{"prompt_hash": "b7d9160c0fe0329a893b560efad3a3f20a477b97ad05bb050619c6b978768aec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "922a78fe3a94a87cfd53dc0cb9fe8cd1f81b46cc16ac833c9eb8c2ad606b24ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c95f85137027eca57333397399b185a767a676bf6fe5f40692b5ea24f2d6b012", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c485337fdb0770aa8e20100aa7da6d493f3bb33c9a639f7d945982416e71b1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0972af73f48ca888eef208dc3ba3887be65f1e2d8ccea7d064e1f2070cf13f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c84fe7e5514cdfd81a6eefc84f71241b601aa35ffec21a3d3e25f6c6e5c5676", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff7b4d330528366d49f680542115555e1cb7be293a9f6ebe3d81813fe472a447", "verdict": "consistent", "reason": ""}

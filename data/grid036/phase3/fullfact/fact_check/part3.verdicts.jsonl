@@ -1,0 +1,40 @@
+{"prompt_hash": "c5a911bd854856ce081e31c7fd2556d0f45b8b277d071da2cb9161883bd09b59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f91d062905df78bd509e3553918c98cdbe3c26956f15f13bcd198f3892123492", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "397a1b6d7d7ab93ad1506c4d1e37033ad21fcd659412648e1688a13d187f086c", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Puberty (body odor can precede other signs)"}
+{"prompt_hash": "9a04b2e0826fe02959d8da8f9b6e034fcc800746b5915e3620819f87f19c9089", "verdict": "adds_false_claim", "reason": "Narrator says the one-degree point area covers half of New Mexico. A 1x1 degree cell there is about 10,000 km2, roughly 3% of New Mexico's 315,000 km2 (https://en.wikipedia.org/wiki/New_Mexico)."}
+{"prompt_hash": "feab84cb66d97d2d993c8e3d02af3d27aca7960312d577cadd295f6d45e2cab5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "465b430bb8a814bfbc89f16a11c41f5e2f066d7b1f2e9819bb7bec794fb485dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b3ba8c40a4d9c1d4a66fe5021c8a4f161dc4f0f4dafc8dc3c5a660b956756f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "791934bad412fc4a9d371409f5a2e920e1569723cb4033b2f9139446e8cec50d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec499cb50e7f589714909b347bc8986a530abe23bd0a0200225386420a5c1a0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc18eeac5379ede816eee861ce6f529353c0f55c35aff941fbb5b4eb7be36819", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Bicameralism (all provincial legislatures unicameral)"}
+{"prompt_hash": "559156a580639d8e28f3e0555a1fba14f44fac552c1db46db86eee50d5ae0a5c", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/The_Great_Gatsby"}
+{"prompt_hash": "a075bd9c89ca014fea6513ce4ef7c7d7f67684687ce186a31169c7db8e4907d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b2bcdf6ffe0ffc9ac2ede033758adf36b470f20041fc8dd6d5d17d9eec1f125", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6562865445a06f01636d12c98cb0d467a3bcb311bb8d65051d647d4cea00d6af", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Hydrothermal_vent (Alvin, 1977, chemosynthetic base)"}
+{"prompt_hash": "ded68384fe845f19ae7aa009adb47998fc582d6b4243c425b8f1fa91cbaf78ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59ad1e7bcddacf1f53fb29297233c5003f94d73a306666a0051ff0b234c430b9", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Presbyopia"}
+{"prompt_hash": "628416a044aeff247f6f0fd1e11db58e05010ffa235fb993ba98ab191bff59c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd16089528940e1055a885c94fe41b8f4150da1981868583d9bd8f4b304b3655", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/1930_FIFA_World_Cup"}
+{"prompt_hash": "35b9e42c34ce0e3281a9643dc3a0f6877686058351aa22ac1bfa7abf93b17cfd", "verdict": "adds_false_claim", "reason": "A traveller holding a boarding pass for Denver is counted as eastbound from Boston; Denver is west of Boston. The 'evidence' also uses departing passengers who have not yet flown, which cannot show jet lag direction."}
+{"prompt_hash": "49037fbd5085af55d82c6fb88d025da5fa3ae62356890097f7b7ea2ce4db5d1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e260b5064df32ea2752d6b660cdc0b3dfc847679ea8a7336a9df0d89ac18940", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47664cba4d12d52ad3828da1882a682a4d0c1cadfb7c321c8def537a43a2ad8c", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Subnivean_climate"}
+{"prompt_hash": "01d2de40e9f67756907575717c9605387e82252cf3d32a62bbb589f5c949d80d", "verdict": "adds_false_claim", "reason": "Brent sums his season as two for seven; 1 of 1 plus 2 of 6 is three for seven (about 43%)."}
+{"prompt_hash": "0eea296be1371a89f967e1b58f616ecb137e447bd108dbd9273148e8226fa060", "verdict": "adds_false_claim", "reason": "Book is said to show that every organism has a fight-or-flight response; it is a response of vertebrates/animals, not all organisms such as plants or bacteria (https://en.wikipedia.org/wiki/Fight-or-flight_response)."}
+{"prompt_hash": "8b5101779f94c0e56d2c4d501233554ea93fab8165c7858e594de6bbe3160738", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53396967f7207498a49e1f886851f96ffd6348b243de6f45378aa2b309072312", "verdict": "consistent", "reason": "checked: https://www.eia.gov/energyexplained/gasoline/factors-affecting-gasoline-prices.php"}
+{"prompt_hash": "e59103b7f11305bf7bf550669fccee2ebf74f5b5c297f420bc7189433bf5b89e", "verdict": "adds_false_claim", "reason": "Ending says the plotted line shows every answer the two-step equation could give; a one-variable equation like 2x+3=11 has a single solution, not a line of answers."}
+{"prompt_hash": "f77ab522ea65126806325afa8cdb89fdddd640799010a5cde7f0dc1492ebc406", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b28775952d59b7bf5511fcb09f3fc9b3dca58ac9bf86204f39af3622574ca7c4", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Front_crawl (bow wave trough, one goggle in water)"}
+{"prompt_hash": "d48a544d3170a44c35deb45db494b26ff6a6c04456f4eba830c2744131c7bf7e", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Mail_forwarding (one year); uncertain: child's guess that letters go to a dead-letter bin after forwarding ends (USPS typically returns to sender)"}
+{"prompt_hash": "648780bee8f962e5dd02019b2818dd139c084600e3d64748fa2cf1d5d0eaedd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "077a668fcf19e5080199561987fb37f8657539c6dbf0e2b30c73ec7de1d1b167", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "322279213d4736fb127c02f02b94f1b9bd14d8c286204513a9f2bb630f48885e", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Diwali"}
+{"prompt_hash": "95841d7bcecd499ec5e9d9bbd213ddec2d28c9bc97c9cc355005d04568a6aff8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "801f11d40720bd35abea24bbd0d7a5ed23323e11e149f1b86fdefd582c8ebf53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22878115bc70f919acc77a43d8317ecbc0954a6e520553554c2c87c066928ab1", "verdict": "fact_missing", "reason": "Story shows six arms but never gives the cause, that water molecules/ice crystals link in a six-sided pattern (https://en.wikipedia.org/wiki/Snowflake)."}
+{"prompt_hash": "48c495027308bdcaa6405405958df735353115e09f7b5650e5e0961a31eea8e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "260c34fde07d561b7b50d16e1513cbf404a7c966e71a40fb730954a6db8e5415", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Pikuach_nefesh"}
+{"prompt_hash": "af36d9b858d5f959db0738a2725aaf97dd11399c3d87f8cc020f8a7f80f98011", "verdict": "consistent", "reason": "uncertain: child applies the fridge's 4-hour limit to ice cream in the freezer, which USDA says lasts longer"}
+{"prompt_hash": "27fbbff3234ce719d546129062da51c8548006436a5ea9b5e49f65352af3ea82", "verdict": "adds_false_claim", "reason": "The shelter scanner screen is shown displaying the owner's phone number; scanners display only the chip ID, which is looked up in a registry (https://en.wikipedia.org/wiki/Microchip_implant_(animal))."}

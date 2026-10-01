@@ -1,0 +1,40 @@
+{"prompt_hash": "82cc0de29623744937e8c5ff889063d89980fd00e77ebd3737b19252570e4913", "verdict": "consistent", "reason": "checked: Wikipedia 'Naive realism (psychology)'"}
+{"prompt_hash": "e62e4ba6616d1947afd4b1178ab91512cd54f6c00ed2e0576d390811d73ec277", "verdict": "consistent", "reason": "checked: Wikipedia 'Veni, vidi, vici'"}
+{"prompt_hash": "73b04d1ce78eaaf7ac8bcd4153421d7657e38a4cdf5930b3b5f65c6181c91e1d", "verdict": "consistent", "reason": "checked: Wikipedia 'Theodosius I' (elder son Arcadius east, Honorius west)"}
+{"prompt_hash": "c6962337b301181809fcaeba8b6924c51a9c23682580efe0e0302a3bbb72e58f", "verdict": "consistent", "reason": "uncertain: the claim that one print with commas produced brackets only holds if a list was printed; print docs (docs.python.org functions#print) confirm the end='\\n' default and end=' ' behaviour."}
+{"prompt_hash": "58988a587ad10b9ebc021e05fe5e57d72ac8e10f37aacdf093ccf302d3e361c8", "verdict": "consistent", "reason": "checked: CDC common-cold page"}
+{"prompt_hash": "2d03e3fad7132a9c5a46bbceea417cc19fa866c5c6679607d34db4b5d9dfe1d7", "verdict": "consistent", "reason": "checked: Wikipedia 'Vaisakhi'"}
+{"prompt_hash": "9ccb3296583dcbe8b1c32c412a9ef7430d90a989ce862d610b3d2fa087162010", "verdict": "consistent", "reason": "checked: Canadian Conservation Institute humidity page"}
+{"prompt_hash": "2eee8758f2eeda4dceb8d866e20c230813d07af10ea40b4c78d7ec064d1b5b7e", "verdict": "consistent", "reason": "checked: Wikipedia 'Wayback Machine'"}
+{"prompt_hash": "a36993c00dbee86351aa3b0c61a87309f282a5df74cf02aae56989edf3006acb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19e35f626b6a14f9a0aff3583c70173d3cb182bbd1cac6ff982da5e2e0d8d461", "verdict": "consistent", "reason": "checked: Wikipedia 'Airplane mode'"}
+{"prompt_hash": "70e70878dbd368f7215252b07512e39e38064f323ce263b89a5ee7a71eb7a231", "verdict": "consistent", "reason": "uncertain: Grandpa calls the day 'cold as anything', but Wikipedia 'Super Bowl I' gives 72F and clear skies at the LA Coliseum; he may mean his own location. Date and score match the same page."}
+{"prompt_hash": "67ad9adf31add442e324553a4abcf6d26a16482859bcdc74cf23c75e3b52db8a", "verdict": "consistent", "reason": "checked: Wikipedia 'Rip current'"}
+{"prompt_hash": "ab47ae2b119314d93f3bd385b4a0c796d157cf8aeca35acec3197e78c3af82af", "verdict": "consistent", "reason": "checked: Wikipedia 'Pitch (music)'"}
+{"prompt_hash": "60cd3a7a909b97d49860988dbaa474937a4febd3f45146583a6b8ed887a243dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d84f130a44ece44b21d9bea6b4894c5388a7604538113f57a65f2378682524f", "verdict": "consistent", "reason": "checked: Harvard Health 'Blue light has a dark side'"}
+{"prompt_hash": "4e855cae8c77af83e81abecfca9a31e354a55dce21568b136d3e091c971dfb57", "verdict": "consistent", "reason": "checked: Wikipedia 'Holmes and Rahe stress scale'"}
+{"prompt_hash": "bbe9ecc296e894c239fe38826fd2b1a5d04ff5d7816692b831494986cd8a4240", "verdict": "consistent", "reason": "checked: Wikipedia 'Batting average (baseball)'; arithmetic rechecked"}
+{"prompt_hash": "2200973c17abbf0206553b5caf03f4a365ee004e6e7079db7dc435b326b39eb4", "verdict": "adds_false_claim", "reason": "The fix of turning off location services and resending the same photos is presented as removing their GPS tags. GPS data is written into the file when the photo is taken (Wikipedia 'Exif'), so turning location off later does not clean existing photos; the metadata has to be stripped."}
+{"prompt_hash": "0e0f152e5244b59ab02f388e1341b6a8ec3b9a394860462c1c1fc255caf9d82c", "verdict": "consistent", "reason": "checked: Wikipedia 'Chiaroscuro'"}
+{"prompt_hash": "409d87fc668d9ab63c2c08118cb29f3999beba60eb5de15f0851f9c3fee6fed5", "verdict": "consistent", "reason": "checked: Wikipedia 'Frederick W. Gunn'"}
+{"prompt_hash": "dbc4bc8391f8dbb689480cee9f2c9e796357a78e7686c445dc533cd07759678f", "verdict": "adds_false_claim", "reason": "The resolution presents the cow chewing the tuft she just swallowed as cud within moments. Rumination does not happen right after swallowing; feed is stored in the rumen and brought back up later (Wikipedia 'Ruminant')."}
+{"prompt_hash": "2ac48bc71c711c3acfd6644b74492a0dc2e813d357137b7f257a7fafb1c98520", "verdict": "consistent", "reason": "checked: Wikipedia 'The dress'"}
+{"prompt_hash": "5de52eef9c8e065ef29af30e6561a6442610d7fa2bb70481a3e3ec76517de2d5", "verdict": "adds_false_claim", "reason": "The story presents an invented line ending in 'died that night' as the exact text of Where the Red Fern Grows, checked against the page. The book's closing line says part of Billy's life 'is buried there, too' (LitCharts quotes page)."}
+{"prompt_hash": "e2f3eb2d4d512feeb28a5f26bc74abe438af05262f65ec7e115c284a1983955f", "verdict": "consistent", "reason": "checked: Wikipedia 'Mediation' (ground rules step)"}
+{"prompt_hash": "8a2b1972b55b193f3206a4864609896ece5947c92078bb2984afc9dcb0322063", "verdict": "adds_false_claim", "reason": "The Spanish sentence for 'my dog is small' is spelled 'pequeno' and presented as correct. The word is 'pequeño', with ñ."}
+{"prompt_hash": "4b9ce871d6d2c3d65e1e1e59860efd09ba7c2012a0944b2e15386d6c15c1f428", "verdict": "consistent", "reason": "checked: Wikipedia 'Alfred Marshall'"}
+{"prompt_hash": "49b7d322ad81c6bb473d04ad679c24d2ff40af93584cbb99f66b1eabaee9daba", "verdict": "consistent", "reason": "checked: Wikipedia 'Shark tooth' (continuous replacement)"}
+{"prompt_hash": "4a480c9d99f5a5730f08c0e0646f2f68e4ddea371838f2bcfd5d8a14d499df17", "verdict": "consistent", "reason": "checked: Wikipedia 'Wave (audience)'"}
+{"prompt_hash": "7ef011a4353f9d44a4c5ea78a2fdb553e217b04dd89d986d60b5892beabb48c7", "verdict": "consistent", "reason": "checked: Wikipedia 'Alfred Marshall' / standard supply and demand"}
+{"prompt_hash": "9fbb700b14c75ede2621fd14ba21ab9b93d25ee70cbb5bfb3bfbc1678e1e8776", "verdict": "consistent", "reason": "checked: Wikipedia 'Oven' (oven thermometers); 425-375=50 checked"}
+{"prompt_hash": "ef47d0195761dbff9346478ed035efca496bcefb46188cee405ac3516d3b99fc", "verdict": "consistent", "reason": "checked: Wikipedia 'Inuit'"}
+{"prompt_hash": "9ea85bdbce7efb27f2da59fff2d85c3c2df8b9dc8f90c47c542fc84c85fbd0f7", "verdict": "consistent", "reason": "checked: Wikipedia 'Beat (acoustics)'"}
+{"prompt_hash": "a57ab180d6e6f8052c36c078bdf6598624dafe532bc91bf3b0ef68c2b326c0dc", "verdict": "adds_false_claim", "reason": "The narrator says yellow and blue sit next to each other on the six-colour wheel. On a red-orange-yellow-green-blue-violet wheel, green sits between yellow and blue."}
+{"prompt_hash": "3be9d5ffe1218097ffa9f62d0e8c2b881058e42d0e232bb58af84383dc55fe24", "verdict": "consistent", "reason": "checked: Wikipedia 'Opticks'"}
+{"prompt_hash": "574639fe3521a078e5929469f6087aa1c44ab774b9b95307a7c2bce75ce1cd03", "verdict": "adds_false_claim", "reason": "The narrator says Hailey drilled 'rendezvous' until 'the double s' stopped hiding. The word has a single s (R-E-N-D-E-Z-V-O-U-S, as the story itself spells it)."}
+{"prompt_hash": "9345c6eafc394d8316935149838eac8f0c8c408e47c3723746619fc2dfaa1866", "verdict": "consistent", "reason": "checked: Wikipedia 'Substitute good'"}
+{"prompt_hash": "55431a6594a7b9269931a52f9abe22ba1aff9e29046308f8047a4bfcd6d87ab4", "verdict": "consistent", "reason": "checked: drawpaintacademy.com light-and-shadow"}
+{"prompt_hash": "e1c9a2f20bdfbacb583acbb79535d9c9ae2fc1d633e68d4aad5bfa04bb710804", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a278beca71e851b8047c55716b1291ff7a3e753068a3813b1a5dfcac57f2c8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb459c1dccb172c10ac48369f6e93fa02b79e436921bc622fa4b5e7a77ccbcd4", "verdict": "consistent", "reason": "checked: Wikipedia 'Snow shovel' (cardiac risk)"}

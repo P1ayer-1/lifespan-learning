@@ -1,0 +1,40 @@
+{"prompt_hash": "aa652608f6978b309f76a69c46ca5fc476c2c661d5a003c8f5959ac55ba3bac5", "verdict": "adds_false_claim", "reason": "Story says the same trope melody learned for the Torah reading works for the haftarah and it worked. Ashkenazi and Sephardi traditions chant the same marks to a different melody for haftarah (Wikipedia, Hebrew cantillation)."}
+{"prompt_hash": "24e997eb4c0e26286c0a6f937c6fcce047073b6c1c3ccaad911c70a5bc8b16e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27dc3850751ddf869509d3fd2de2d9fb0c9cfca6d4db5a60301863376bf022bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ba29939f882caee64c41b31c18db41b76e507214ecec0636cc6df467a0fcc4d", "verdict": "consistent", "reason": "Murraya win, basketball juggling records and first African-American winner checked on Wikipedia Zaila Avant-garde; bee founded 1925 per Wikipedia Scripps National Spelling Bee."}
+{"prompt_hash": "f0d37b07e19728a7ac4f53b5a21b982281090fcdb3c181cb263384eca98034da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ea7e9f0dd6327f689aaa5214b0baf76a75137bef05034258637028ee6fa6e4d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff57854774074d09bedaee82ef0a235f1b498f383f29c9ffd29147c767ff88aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae191cf2d8aa1ed8fc36765e893fa0e730c8d23a8a32da05248473644789901f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd0e5bfd62c6ae2feacc108dfd484a99f6cf644eb6821b4b1227eca89ab8e8b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc1ed372c20cc2a6fff0405a934c5d84e9a9d72dc8aededceee3a5352359386a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "423a0350af4909fe4016bf738f24e2f17b3a93c136de33a3039662311ec65421", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1807563234a106eb9d2c868182240680c007405bab69e6369c0fc7148d01258e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "002cf25c0bbe4c41f7bcf75723465a502c6b5ff417aae5c55127029b2e372925", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f947e174aa4e7cf25e73881a80294e4b50cf6417105751adad3384207b5d36b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fea338a7389c271d1fe525673bcd98ef94bfe610fa29b5576a9d2799ba4edd43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5137e37c50e76dbe4dd848dbdae544e864c3044a374fc506a005e68f94cac691", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73231c7792135850e01e6aa5ac097ea92f6e3ff3f29a640a00d685273a9b7b49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6db35e953e0abea4dab14595e37b0ad6b2ac4fa2aaea224ca4c9f0f643ed83bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a953381606ab0fbcff13f5895d4af838feac211766511392cd2802e88d49b0d4", "verdict": "adds_false_claim", "reason": "A character says seventeen people picked something other than the aquarium. 27 - 11 = 16 (9 + 7), not 17."}
+{"prompt_hash": "d626a685517a566901d19451f98c477ee9c46c71c90a1d8e6bcc2ab682eff522", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f96c807e53d985d57b0a911d48662597e5bdba5882b610457977482107ecd01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "777240df0d2ae530cbc25bba7d2e1e6716eb68ca030b0866a530b168a38bc8f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "113770351178e6c309200909ee4a542843b89ef6931ad69bb10e09752c729e39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2fda18d96c5fdfd6a5c85f3b03d3a0c9a57b9bba3ee04b4fb32c4019df1d2376", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0263ac56e5d827d3f6e1406c5f35c2bbd2d6d8c04fe635a9aadf1bc264be9fd5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6687a6d83a4568e78247fba73cc0da4df9a9d5bead21b22d50c9e036888c77a", "verdict": "adds_false_claim", "reason": "Narrator says the adult pond frogs were measured from snout to tail. Adult frogs have no tail; they are measured snout to vent."}
+{"prompt_hash": "71c0a510c4b039cd5f3f4221c578843c2e525449bd39c72ff8092f8272d1cfdf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f0fe5f4bc5ccad69d0b3757d70b31c03a08351ea1ae775bad5655ca3911e03e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fab83e15abb15e791c7a60762f524499a425e77c33d00fabf888d3e81d61747c", "verdict": "adds_false_claim", "reason": "The teacher sets up the microscope with its mirror tilted toward the sun and students look through it. Microscope mirrors must never reflect direct sunlight into the eyepiece, as it can damage the eyes."}
+{"prompt_hash": "e8bcd678bb40294ac831e2e03467fe98af81fcb8aded13ff72ed1f46c1904d1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f368619d8fe8c73984e64a1b17a990e73210d2a91f182a9d2fb3e372655e51d9", "verdict": "adds_false_claim", "reason": "The bug is described as printing 'not prime' whenever a number does not divide, and adding break there supposedly fixes it so 97 prints 'prime'. With that logic the loop would print 'not prime' at 2 for 97; break alone does not fix an inverted test."}
+{"prompt_hash": "2586f9462feae2cdc5471d05028808f8d0997bf8def7d94e56b575df2ca41d57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9c70f60b98b9a605c5f8d7831164f24801ab8c6538952af747e522c21ea8829", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a35f0f55e294cb9d8519d4ec3b61b9f220d414e5dc6372a0bdd3efda3f10503", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8de1fb0a835e6567ffab9f6b8f784a7e238530b244108336b8bacff7b4d61d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18e56dbaf6a5114e71634f67ecf1518ceb73a49b4338f638a548ed72e87b827a", "verdict": "consistent", "reason": "1948 New Yorker publication, stones opening and angry letters checked on Wikipedia The Lottery; uncertain: readers saying she 'cheated' is not specifically documented."}
+{"prompt_hash": "fcaf80142758b7b16de432cb2f239c55c4bf11e764d7b54da8d9b98b3fafd44b", "verdict": "adds_false_claim", "reason": "The story says a third plant with plain water and no fertilizer is needed as the control, and teacher and judge endorse this. His existing plain-water plant already is the control; a weak seed is addressed by using several plants per group."}
+{"prompt_hash": "a3c632e0395877224cb8f47dd4da3efe7f02d6fcac4d118a0d2320d7658198cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38f9487909520f10350af45abc9a4b29af1a0ab9f259b17b4600928424be8342", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1fb98556f706b380283e2f81a0b402e4add87939d689ea5e4240ef7faf01e1c7", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "4840890048ed6e58d3ce208143240ace468771f4da09ab195527b75f3c767ac2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "806faf488e7cbeca7ceb325f3f9ced48f59659440fea8b9dccb26fd68e71efa9", "verdict": "adds_false_claim", "reason": "Story treats the unpaid promise as lacking consideration; an exchanged promise to pay for tutoring that was then performed is consideration (the real obstacle would be intent to create legal relations)."}
+{"prompt_hash": "3f92d5f2fcf13ca40cd5ae66731a04fa0f9243ce30f504382809f276757a114a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52228555892e143dbad555896202663a89fafa74d42fe37b0cff54879de21059", "verdict": "adds_false_claim", "reason": "Rochester is given 'mill money'; in Jane Eyre his wealth is inherited landed estate (plus Bertha's dowry), with no mill."}
+{"prompt_hash": "806463d7120759dc0d9a2f82c52af060d246e1a61ed5d04cf8e33d3889d38fea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6abdf4a5b28ffcc716513652b61ac912383bc873216f28610efbd5f61748006e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9880df213c1e30d0ac3d49e74f3e215455bb2a2537dc72299838c2afbdbc3ef", "verdict": "consistent", "reason": "Answer key 'in the twenties' is defensible: Wikipedia 'Cellular respiration' (fetched) gives current estimates of about 29-30 ATP per glucose."}
+{"prompt_hash": "53e92e2aba08cafccb053edf5ef73ce1863f5f73f8593144d4eeba1b50128909", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34357d7506c3ce2fd1e3a6ae42517f24a9de988c82fca6fea5f9ca24e200221c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8694c56deab3f6700cd188117c60b8b685eea9c19d600a1047cb9cc92f53bda8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "900dec55f9d1a24efe990d73493e30e0053efdae274f163c53645ecd3e286e58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d53dfbef998a6b1eea4b30ff250caa040fb7e86a578871e70a7960c0d10cebca", "verdict": "adds_false_claim", "reason": "Says Ramadan fell in winter in a 17-year-old's early childhood while it is now in April; since the date drifts about 11 days earlier each year, it would then have fallen in summer, not winter."}
+{"prompt_hash": "ee409ceefe895a73cf5651995c3797c8c1b5ace8543575cb7057a5edece28fab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87e963b2e538c8cefdba05e565ad2d29fe288bd9efd4a2d7ee9ee28f37b4d961", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c8d93eaa11ff8fd1eaf4159acad11960e6348e2597a23fdd77139998a4515ef0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c5db6e376d02c8cef1f8841984c3d0bca8f6bc8d47f6c4a840a9b00044864fdf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "86e36447fe72c9178a0bacf120b2ab0739d0207ecb228c7662fa69480af59f56", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "589fa2a2afd67c89e8fc998250b0e1b9dd13b419c9428b505d51e63d0cae8b0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a756eb6ee22670b94f1aa10a056a83339461e6c09774ed58182ca1b21ff3cf7a", "verdict": "adds_false_claim", "reason": "Tally is inconsistent: Monday-Thursday go in the fridge and Friday-Sunday in the freezer (4 and 3), yet the story says five in the fridge, which would mean a Friday lunch held 5 days, beyond the 3-4 day guidance."}
+{"prompt_hash": "0b1c38fd86609b7f2188931e6e12db4c2201edb4ed667e217ff4cfff06a9cedc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd6722fd2291034c1248f0944ad4f9f7968202c0d88780f4478e9255f46553fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0dc4b0556002e6523b4ba07ac315e8d434c62c74bbbe2e4d6186aab962088356", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38111da79b0310d65d47bd40a90555517eb9c2c7bbdc37f7fb14e0ebb22e6ec0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bcab9a02a03d590a84102ca8d6da693960411c642f9ea8a5293171da0d4df98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7686fbec1190b7d927a5c2a0a3fda403391cdc731c085748be7eecc9603893d0", "verdict": "adds_false_claim", "reason": "f(x)=3x^2-12x opens upward, so x=2 (where f'=0) is a minimum, not the maximum the task and characters treat it as."}
+{"prompt_hash": "e0d43750cdc7952d24ce879645a95b39906f470f0a7e86a3569bcb2337a332c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "745068cbb3cdd33742bff00f481696af273b3a4337b0bcc023b876a676e96a81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05bd0abf540423485954072ae83128b6ab144a200d65f2c1c03bec7e760cc42d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6bb7799511f383033aefb159e79efe854ca0da552aa95ac8c5a498011ca74ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe3bff124c316e6610d57219b77fffa94ae7333d053e0896a62845a8ee2fffc0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62decc5601c9580ea9e35111d810a21c1b28d17ac20803dea7e4a00dcbd660eb", "verdict": "adds_false_claim", "reason": "Narrator says the inscription has four words; 'TO THE BUILDERS OF THIS TOWN' has six."}
+{"prompt_hash": "26002cc5f6f1b5b034710d5021fd48c45edbb38838a77c4f49df18e051c3555d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e80b59792deaf8f9717c18bfbda0d95631064f682b2f2e4c7507162b2847ae43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6942c40cea37f7ef607074fbb5d8dd374555b22223fed34075e2ce170d5d46db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c48adef43f536a45b33c5dca8955372ade7bdc17309cf96578d012f360def26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc1036d1b31abe8771299c46d19333ce4d0cd75d481176b8dbd44e38d3cdac5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49936c0f9636167f371dddce1e236f986da86089165b64e00095e6ea23f047c0", "verdict": "consistent", "reason": "uncertain: whether a paper learner's permit counts as a List B document; USCIS M-274 section 13.0 (fetched) lists only a state driver's license or ID card with a photo or identifying details."}
+{"prompt_hash": "d04ece561ea11dabe891be3e5cc9fdf02d052d488125796aabc888e8a8a965fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71ab4e0efad894b3f31838e793490256ed630ff11404fbb25878ec80b30beefe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "236f37c0aeb1dacb3478ed68d403326d872c76098b93d51f968feb5e063d7ef0", "verdict": "adds_false_claim", "reason": "Story equates 2.5 m/s with a brisk walk that can be paced out; 2.5 m/s is about 9 km/h, a jogging pace, well above normal walking speed (about 1.4 m/s)."}

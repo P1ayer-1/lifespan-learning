@@ -1,0 +1,40 @@
+{"prompt_hash": "bb4c4b5d0426ba476d5f6419b776eb3ea278023e4d17255b3107bbd81aa01a85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e58e6481363b28d284c1ea86850cb088c05d1e7254a5efe4ccb6b1963bcb335", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "16d19299289abe75bc9e9edb37cf29a7866f6e1b0e30ce0584a0a62087bc41a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b76a8581efb90a1cb5c67a11c0312eab70177c10674857f9422b14c3c8ee17d", "verdict": "consistent", "reason": "Soviet declaration of war on 8 Aug 1945 checked: Wikipedia, Soviet–Japanese War (fetched)."}
+{"prompt_hash": "a69bbdae6367b0d5e9d97e8d56746dd83ee9313d1417a1ee2f82813096dc895e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45e96c30a4793139c71d7541898697782a3b938c2a25e90c58c8a5701f57252a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "170a10ad94b0819ab1a3d0475bb18d1e95e92e0ab9900c52debd1af7500e4378", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2586466698271c8aed3df43aba294792a1f5dfc9df67e61881626b8a0f6bfd0e", "verdict": "contradicts_fact", "reason": "The story concludes that because he is mimicking her, he (the mimicker) should be the one feeling warmer. In Chartrand and Bargh's study the person being mimicked likes the mimicker more, so she would be the one."}
+{"prompt_hash": "8a4ae767b702d725e76cefef00dcd0e9692afee091f7453e6e2c942e27cfc57c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc79525ec9cd0caca605ca722396ba3cee14705c7389e5cd429c78816c8ae34a", "verdict": "adds_false_claim", "reason": "The story says the Montreal receipt's sales tax rate is smaller than the home province's combined rate of nearly 14 percent. Quebec's GST plus QST is about 14.975 percent, higher than that (CRA GST/HST rate page, fetched). It also implies Quebec workers pay no EI, but they pay EI at a reduced rate (ESDC 2025 EI premium page, fetched)."}
+{"prompt_hash": "4c1884d75db2aa58f3329db059f15c142508a0ad8ed69b17a976cccc29c0e02d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b0d494b9f2b4daa073c37c7bc036d15174eff744ef08a6e1837a5b5eeb99642", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "051c33557a21ed36d75456df04769849075ee918ac8c1aa937728b9d187a1f55", "verdict": "adds_false_claim", "reason": "The shown arithmetic is wrong. A twenty in the envelope plus a ten, a five and five ones makes $40, not $38. The story also refers to a 'four-dollar bill', a denomination that does not exist."}
+{"prompt_hash": "b101d3c70b2cf6505b28ed0c50a8def729de47811a96302bb8458956a0077cf3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "193c70d1197ee144a2ef600888c4fb24fb366c2ea2fc06b73c6f7385a9d7a083", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8fd9a9690fe1a276e2a2812de17648804417d5372679b39996e6c4ae6ea3592", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efe9416607c245a6317c4ff083a8bcd3c8a60a1923b1b21adb291c798f850435", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e10d2be80f2f5693476b87b3792e6840a8f20214791928554426c519f1c874fc", "verdict": "adds_false_claim", "reason": "The story blames timers that run slow for dragging g down to 9.64. A slow timer under-measures the period, and since g = 4π²L/T², that makes the calculated g too high, not too low."}
+{"prompt_hash": "e3f8962c5c80415605bde238e9abdf102f61731c2e8411b7f17eeb2ae1b18806", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2988ed7f785616aa7d839c802db1a51a122eb7e7ed3c3ecb31c5304516003edc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "424636266bb38ee4122056dc11dffa9f32dce8a615fe94a6f07880b891ad742c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e60d66dc3d2b11d783cd85c401adae25140fe02d9823fbeb0026c7494a0ffbf7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4250ff28c54b61e539c30939dacbfcb2069348ea12f334bc6ffdb817f89887b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a597802cef1bdd64f89a2bdcca2adefa0af50fa1b40c8af8b19b2549ea61bd02", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57b1951febc637f5e395d0b36b169e1ebe2a53be35799d134444f219f3db4e78", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "488a2ab11fd4aa2f33a68b85caf1967bc0a3d04ea5f69af57f9b3df24f52c610", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efb40f7e7acaeb220e9cae6ee7cdf1015698f4b76bb6ffe255aa6078d829633f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53297b036058544197362fdb8aa9684183016afe4eb047e60c63c7bc12814673", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "040c0e8111f3b3744b091f5faf920071a3f742300772994b064b1f42476b1f66", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38e13c433429d12dd7e834ddd3e16de9c1f8167c9b15bda1a091ecb6973e3d7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d07149d800d8ed41a9425c3e87cc248368dacd7304fd8129094bafe59ba8ce1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c5e3d06a9d808ef09c2c6c3ef195b35b512dd76ab0b7797da2e3a888e084cafd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9456675989c293b65cef8965d8f7f91b4e5c356dc21bd55402462110f6c9d5ef", "verdict": "adds_false_claim", "reason": "The story says C sharps arriving in the transition signal the move from C major to G major. Modulating to G major brings in F sharp, not C sharp (Wikipedia, Piano Sonata No. 16 (Mozart), fetched: the scale bridge cadences in G)."}
+{"prompt_hash": "a8b7b9e720d0b07fbe012b094c3cf4802ad731d560328a84dccde210b33c0da5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8d7f4d392bad91a138ee91599a0cd1546980085deb7beb7d41ab883739c6f8e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84707608584f47f581fdfc081424e0684c83ce071bac35b0e25cb4828cb17d13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17ec5386bc51601699693c27473f5e08e8aaee92a56cc861bedb0699992dcd55", "verdict": "adds_false_claim", "reason": "The story reads the last-century CO2 graph as flat at 280 ppm for most of the record. 280 ppm is the pre-industrial level, and CO2 was already 313 ppm in March 1958 (Wikipedia, Keeling Curve, fetched)."}
+{"prompt_hash": "98caa262fab193dbdcaa20595dc540be65fd99a2844bc598a6884f4ae977550c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b8a90840f57d17bbcbe57dfdf061c4439533072f7cc20a6cfb215642d596fb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e65faf30bc10c872613d5cc39cf339d248cdf9ed532d13eea587500da75f6f1b", "verdict": "consistent", "reason": ""}

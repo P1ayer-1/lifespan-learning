@@ -1,0 +1,40 @@
+{"prompt_hash": "1a4c0c168add6beb8ffdebd76711a4af6cb0569796bb08eec44dfc790c38b1c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ace03bd9c39a114522bb4d78e26a15b1dfe533d248e976d0e3ab454474f888b5", "verdict": "consistent", "reason": "uncertain: a committee-room amendment voted via division lobbies and Royal Assent the next day are procedurally implausible; stages after committee per en.wikipedia.org/wiki/Act_of_Parliament_(UK)."}
+{"prompt_hash": "81fc759e127a8a577817b6c730e5df6a420ce2cf614c1fd585b8ce45f4386972", "verdict": "consistent", "reason": "Values checked: en.wikipedia.org/wiki/Holmes_and_Rahe_stress_scale (residence 20, schools 20, in-laws 29)."}
+{"prompt_hash": "f15302061ec9cab053800b45208ca048f3b06ab2a6dd505555ac1f2ca7aa773d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2bc951f6fc33dc585fc0e987f5b931d2bdbdc444aad4daf2289e0970db9350e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6dc63be3ca8d56804e03e1219f0f4afe349c46b9776247730cf13f4f8f69542", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00057fe3628383197f307b645af0476440442f36e0d8b009084004b6bfb97d91", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be55fabd5b5485915b3c5d6a9a22da8e36245234691f39fc3f80078521cecd2a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d8950a3d71ab680116fcff88ac0e87824102533a95bd21172aeaff809b4e7aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abfbdc843d8b29109605ed0871abe0b5d21386845c9530dc56bdd1ffd9b58b9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eeda3c3899d84ef46ff89eda724c8bf7789760a31b3301920c00a68b28a2e96f", "verdict": "consistent", "reason": "NO2 darkens on heating, forming N2O4 is exothermic: en.wikipedia.org/wiki/Dinitrogen_tetroxide; the misread book claim is left open and the demo shows the correct result."}
+{"prompt_hash": "5ece5829520fcb335ce4d362e980bd51f0db30338e9ed5bf6767c7437f8826df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3156b18e9d4d5a362b35bd59e030d130d1350ef924da2468dcc483e2d78b391", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59d112368ae0210b37616f6204a6ffc35a0cd96c49c97cdc116b0e2fdabb6fbb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b0db659d4d4893987b4b2cdba193cb00b79167a32e531226d5947f829b9729a", "verdict": "adds_false_claim", "reason": "The story says Eric's NOT IN query returned five names with the NULL order present, and seven once he deleted it. As the story itself later says, a NULL in the list makes NOT IN return no rows, so five then seven is impossible."}
+{"prompt_hash": "a9d99db0013a8fabb4dac4587e0baf0c463253bc113155200485265a55bde230", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e948826fdc0c410c3029e4ca3d313c291b912185c5a8db85b5a6965f8ffcc6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d4e5d835ed3b2bfba80429835fded7c0aa49319a9751779d527e0cf6858d5bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17574493b71df92b5914c161900895d6be7e01768c555bc9853be291ef742e0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de1dbafedf96169f140aac8fa12467126d57a61ff641261a31de197740f19469", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82ce59590b25a6e800173e69dd7d1f726c0571dc7c495d67366cbbddfbf2b1b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "318612d281f05476e1f0a2d0dcc960697d2b7aa46b0964ef112f06bd4273e6ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34b51c100e067d65f87806de82c417e458e06c9282ede1c6903259f6f128eaa1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6561302fd3bb772c67c77eae5d4657e2b1453bd58a49c33778711de9883d2852", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98b5aab897826ef870365944ede1088d405a7f8ad291bc3bfc3a8990cbaaa2d3", "verdict": "consistent", "reason": "Coconut offered to Holika fire, Phalguna Purnima: en.wikipedia.org/wiki/Holi."}
+{"prompt_hash": "64069d0bea8a5299648140294990184c2a98e5f0acc9d8586476595633dd6649", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cdcf4331bc4210396020c198271b8614358a7e46983839b1c25402c673720d65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e27c5bc6600a8604647dd33791de0560aaec92a4f93a65145086ce4ad391cac4", "verdict": "consistent", "reason": "uncertain: the agent says lender-required insurance covers the loan if the borrower cannot pay. Required default insurance protects the lender, not the borrower."}
+{"prompt_hash": "2355963460603f4a9288b5937ce28586353fcd7b3dbaa95f20eb49efbc3caa5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ece30ad0162edf1f63eee07465256deee6061536a96db4c843c3fc907b95e7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d349ac823b4721ebb4043b2f7fd465a819fc69702f7b7668134eb50f4f1aa49", "verdict": "adds_false_claim", "reason": "After an offensive holding penalty, the yellow line is shown moving eight yards closer to the end zone, and it is still third down. The first-down line only moves when a new first down is earned, so it cannot advance mid-series."}
+{"prompt_hash": "212634310ce1f7c998562a59c7763891e45c8ab0dd02cdba6e727322933c3259", "verdict": "adds_false_claim", "reason": "The exposition is described as having everything in its home key, and the second theme in another key is treated as an anomaly. In sonata form the exposition's second theme is normally in the dominant (G major in K. 545): en.wikipedia.org/wiki/Piano_Sonata_No._16_(Mozart)."}
+{"prompt_hash": "6ffd2364f46a08edc0f36e3efc975c439110db0d9e585d03287f60fb57cd1b38", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06fa5cbc979d1997a5a35db0ed910d6a0e0447be7e6f542d3523e4164735b4db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8dca6948d2bd50f9d825bf0ead785428f494d685b019f09dbca1884b650f5b44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0901f76ee04e87a2897ad90e0d52399c01174129ab1c26787e49d3c52f94ca87", "verdict": "consistent", "reason": "45-word count and 1791 ratification checked against the text at en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution."}
+{"prompt_hash": "5953988e7cb9aa9de282e54e94544b95044f37c947d16956d4a867b9302936c7", "verdict": "consistent", "reason": "Gaddis at Yale, 1972 book, post-revisionism: en.wikipedia.org/wiki/John_Lewis_Gaddis."}
+{"prompt_hash": "bc6de5aa32a1dff88e3d754673ce12d1868ab0319abe73defeafbeedb60d13c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e2b1bba2a0455c4ca76765ce58ac60c1866440fe2d4a50de2426bcea35bdc1b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11c84e2b7f3278600d2695318f3b09de18cc12ca8d9388b1b701c48a4cafa421", "verdict": "consistent", "reason": ""}

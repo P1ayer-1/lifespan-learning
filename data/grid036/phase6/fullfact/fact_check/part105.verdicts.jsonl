@@ -1,0 +1,40 @@
+{"prompt_hash": "e1f2df8d735981fa727784c07ff6a7c2eaefcc847d596fec7967dbc0837f5bf6", "verdict": "consistent", "reason": "checked: Wikipedia 'Video assistant referee' (2018 first full use; four reviewable categories; offside only within goal/penalty reviews)."}
+{"prompt_hash": "bd81d0232ad23412dae730479f6c06b1c9615542028b07a9b7a61e5b9e7c6cd6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6bc0b3af64d4a309c71c246d5298a5f0936d4b524ea0eba36dec052d9162bd36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57c5c8a83e28fe860adef2de5f9cfb1656aaf2ee5fb9767d8205e499ef461162", "verdict": "consistent", "reason": "checked: Wikipedia 'Mahanoy Area School District v. B.L.' (weekend off-campus Snapchat, cheer suspension, 8-1, 2021, schools retain some off-campus interest)."}
+{"prompt_hash": "d17124a732b795d6e33312d3b1b598500fceb0f10c175e594f87d72cb4f2a5b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2cb4f8a702738546011704b15075d18e3e39735a385f347a9d1e2b9cc3e055c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5af7b187492765f66bee99e383e995d23dc1dfa8d9e2a774a1ca9474d2cc8f16", "verdict": "adds_false_claim", "reason": "Narrator says the Currer Bell pseudonym kept the author hidden from everyone for a century; Charlotte Brontë's identity was known in London literary circles by 1849 (Wikipedia: Charlotte Brontë)."}
+{"prompt_hash": "4896c5eaef00d31e6b7037f0c1329bed438c6842d2822ecfbf8ddcf4637362d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2a942a297049fedd02021484a36de92de3f12262dd8f54184f4427124275ce5", "verdict": "consistent", "reason": "checked: Wikipedia 'Condom' (perfect use 2%/yr); 13% typical use matches injected fact."}
+{"prompt_hash": "b4af77c290bfb6a10f94237d362a7a207ee05abc5d604985426e1783c223f9c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "843a18f9b132a68bf6c25462fa13919a8760b69dffb1e501b5241a9c208bf4ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3737d0be982f7bb4d1e949ea56d1c91d010e78171b72a852a3005f7d106fdf60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a7d65b51c937cab50b4d2336b615304126bc267f79e6a958e4a86dc4cbccff2", "verdict": "adds_false_claim", "reason": "Narrator says a 62 C reading is eleven degrees short of the 74 C target; the gap is 12 degrees (and USDA guidance is advice, not law)."}
+{"prompt_hash": "90dd6084b1ad735ef3a2a42d0dd8a3a07f5ad9813a4e155dfa54b4599698ef00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "647aba4ad6f3a97e10a3abffef3891d5e60bb7563090fd00d72d288a934c07aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e2425bf8e5530726d17509c2d4dbee3c67c19281600d4177f313c000b328b68", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cd5b16294e1359f7c2b59d9815c18ea0d0bf20a564fe1688481aeb67cb1a2bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf7a8063ad59a28c02ff8044bf1648a52d526457117cc551840a6677d586ed82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c3146bafe81604f448033130101468dce504f8f1b7f5cf23d9031ca4bf07671", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b113d2209fa5892d54724a77c44404664298878543f3ac41039c7763957cd1b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37409bc57b0ba92b9c306b96b6eabe5aef07621e4cd759d218ed68c7654904b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a4916360c8b3fd67806f357d4bf21fd6195266288d4c0fdb150da31d9906138", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0a6efbc2d7f0c9a95911f8c4c7cedea901d45640aae59c97bce675b2447ea29", "verdict": "adds_false_claim", "reason": "Protagonist credits physics with landing rovers on comets; no rover has landed on a comet, Philae was a lander (Wikipedia: Philae (spacecraft)). Field arithmetic 1200 V / 0.06 m = 20,000 V/m is correct."}
+{"prompt_hash": "6a7a21265412aa0c77ba073ded66e0e3b4d335c5713e5f1eb541fab69ddc9c21", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee3c516ac556ebca00c0568ce5bddade26055d1b60d60f5eb06f9bd68c51f3a2", "verdict": "consistent", "reason": "checked: Wikipedia 'Early decision' (binding if aid acceptable; withdraw others on acceptance; aid release clause)."}
+{"prompt_hash": "c20b6f7b2ac43e6ba40cd4c1fceb1058eec11671c2ebc764cb23aafbfa065a40", "verdict": "adds_false_claim", "reason": "Story has the cello's open A string reading 440 Hz on the tuner; the cello A string is A3 = 220 Hz, A440 is the violin's A (Wikipedia: Cello; Piano key frequencies)."}
+{"prompt_hash": "b48b448e738912d18b9152ed3866b73a026c2c710ecd95116f68afdae6ea92a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08c307e956f63bee0a452ef2769e11ff49b2f1640cb685864e53e3fb07d04a11", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8821763b35ab30cb20568f5bb93094c58de2271acbcff380b63bf397659913c6", "verdict": "adds_false_claim", "reason": "Narrator counts sixty-two cards in the shuffled deck; a standard deck has 52 cards (Wikipedia: Standard 52-card deck). Binary-search guess sequences and 10-step bound check out."}
+{"prompt_hash": "b46cf1b6830f78cf3d5e388f0b5e0bde33a605fb2406151f309a78dee4c6a68f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad7a2f5a1b14c4f9c563074f33502eff425dc2d19adf5d1d53f3d75ea4d58d27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6adf1690e5137a1811db7818fb4b83a181ad9d0349b5c0b9ab7507be87831483", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97eb9df3d13b79d8c6ecf936fdcf50e4ee5a155652ff6bc11a09da11dbdce8d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61f19a70353e073f93039b3b78f7b20cc74882c3a62596ea485a7e9c89598ac4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04f87ecd6ae4bf12764794c0eab72b466db09a243ffda6e632818e4a64a1f623", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f20396ae94f0fa48ef20787395a0324e33a8d00cf2d83ac51a4757d9c9b7020", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a20c76b0e0d3a8498a191668525a928042b5fafa4f4300b44dab6f797fd53ccf", "verdict": "consistent", "reason": "checked: Wikipedia 'Bon Festival' (August in most regions incl. Chubu; welcome fire; river lanterns guide souls back)."}
+{"prompt_hash": "5ac738fef6b17fbcb71ab2446fdf30e29ce7c8bb0cdb0dca34bafe9b25efd8ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7f6d431db21adbcb74019b2a2a5fb8a98814c616d289aa404cee96186cbbcc1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb4369ca8f33f35ad7e0fb9313712bd3409b12f147a95e429aee1622cbd6ea9b", "verdict": "adds_false_claim", "reason": "Story says Albers kept the same four squares for 26 years; Homage to the Square paintings use either three or four nested squares in several formats (Wikipedia: Homage to the Square)."}

@@ -1,0 +1,40 @@
+{"prompt_hash": "14d3ef1d8618d6711fa780dd3e54e922f11b57b8a09456383c1703290114d3d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "afba4bd5358329ab7aca355d6d3de111e80705eae4431c842ea069bbacf8951b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dbb35e764a1a11750f47fe54e63d218b6c1295a77514897b9a7eb533909073aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c12c1a0b9afb74593cc5bab2ade307dc538f5b94077ab7279dd988d971c988eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d1c6e3620bc705d5460cb0f438afb5393ba576091e32ef852b42415e348c53a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2acf2041748b71a4ddd6309412c01f2282926f468aa18e07b5d8f78f4e17991", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f95a1323596e8cf950f7ca75be16a6a45563571535298e792f428b3b379ce1ef", "verdict": "adds_false_claim", "reason": "The narrator endorses the grandmother's claim that a 22.4 L box of air weighs about as much as a small bag of potatoes ('she had it nearly right'). One mole of air has a mass of only about 29 g."}
+{"prompt_hash": "a1992c3bfe60ce829e0e0cc88fab70696453dd601fd44c629d803e178b2fc72b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51c78308884d75ff8f20b7616e208a87fc414a5e078c8abf866b4ab4fcb87ee9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98ded4d97849642f382a9d5c054e867243abe829bce6f154e94c674350f4b649", "verdict": "adds_false_claim", "reason": "The photo shows an Indian voter's ink mark on his right hand. Indian election rules (Conduct of Election Rules 1961, rule 49K) mark the left forefinger; source pages could not be fetched to confirm, but this is the standard practice."}
+{"prompt_hash": "0f01e71061e94d52605d21f1af1f3206036bba303dfdb9b5b5758fb1ca72a5e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3508d03306fc21a8d5d1ecc0ed5623ce79269f5d64b1de382eca301a5812022", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6f487f5dd3ba17ebce1c3dd9aca50cf6800922cce2909ff768d43badb990d2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e3b2d1e386c95b83c1f775ef5aadbfaad8bbcf072a1a1799a29143db86c954d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fddf7e778e30099675683137dd480e28540c204f9469d46f1bc6f227c68e88c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "611e1788c8c6e223411b2fda90b887236d5e9b3487a4afe94ea123457c3c7bd0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98aa2cb11dc856d4addd094a1e9ad218bbadc114e39a980c0ad377100483ed9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "932ff61890df7fa8c6e14fe2b4e757d9947eee222c7cbb2670269b4f9b735c51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0eb9aa9c0494beb3105e928f310b4d9ea74be4dde12388c903573b605de604e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50fa0778bac2ec3e32c9d4c56815c65a9bf7f1b4e54e193323663d026b0bbc9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0154d838511d74343a405f3716d1dafdc4510c6be0712ddac704309eb4ddcdc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9825051f8ee5ee074c32eaeb93c18c03eeca2b611b990d5314528d736cf371cd", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird (monkey, black cat, dragonflies, butterflies, dead black hummingbird)"}
+{"prompt_hash": "16d5dd786889ff8a291fd9a642dbad5dc22a8ad74d51eeebe436c7b091d5bbf1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34946d3a4768b1c6811bb26db3a996436ede4971b618fbc1fdc7734e082905e3", "verdict": "consistent", "reason": "uncertain: 9-and-3 steering hand position replacing 10-and-2 (widely taught, but every source page was blocked or 404 so it is unconfirmed); hydroplaning fact correct."}
+{"prompt_hash": "9e04d66e1f5c67d74f9fb74c2c52c8073aef2e3f77a8cbb24090c418507df150", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "544171d0d7f3cb5a06b2fa0e300b365328063c109c8191483ba3a54f5a3c997c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be2d330895165cc272c2a77cf2333028fbc07be323a75a48a1d08b94604c7206", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cba90f37344f11737cf7a9aa648e12b7e06ae81e804bfa491dee4a95a070186", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d862ac41efe689c7bfbcb93181bcb06365e53d29755c9ffefd0dc1fc95627231", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bdbf4cd34198d6038ddc76223ccd3131f17b979c553ba0bb4150ab936bb721cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed472d9586362798709f4e5fe3823fb185f94695be95fdff5fd0efea92c3ae8a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6505ef4b0633bbde05be63f9e665e8726ba297cf1f036362de78197f785a0497", "verdict": "consistent", "reason": "uncertain: Blake paraphrases Nelly calling Heathcliff a demon of a child, and Gutenberg text (gutenberg.org/files/768) shows no such phrase from Nelly; her confession of mistreatment in ch. IV is confirmed there."}
+{"prompt_hash": "2b30b9e8200a7b312d799730da8a4942a4e3dc8a494e9ea007444be836a55dad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aaa78f4e83638ee212039db452345da62e4febebb8ab4a6cff5e2f7be2d710a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa4d995157f3c4832676371983caabd79eb18d90354eccde6525698474243c52", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "457c0043006fcd14ef8d7d2722206f2e20418e5706fbd273078875e9b36131d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48d405be0411738706a57b78efdeeafb9d3c6fb186b360d14dc23787b4903fff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ae777ec518fa7bfe7af969f29203737ec83fe74a1e8b6b7981c1f6743d4e0be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46baaee117768c0bfc74a2e81dd7dea4f5b7c1be59190a307ec4ffaa41122b92", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Demographics_of_Japan (constrictive pyramid, narrow base, middle bulge)"}
+{"prompt_hash": "965339d7489215e8b9adb80cd897cdba8a19015b25f0478eeb468445cadf0c6b", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "2acf7f68c906ef748d5ae00cbc19fb037279197815697a304299233b0f03a1dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1ba637fe688c1c295572f15b814c30d735776b6ad2e8b73cf5bc772000fdca6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15041910c588dea3740c341cf53dab230f082b7e75914ec1cab71d6010f803f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13e2b4ae487f4ed5fd680caeeb0f18a4e91ad8b123bb293d7935700c000e50d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84c64975ed51938620736dd222cad9b6de6da4d6f919c2826596568f274fba8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6b8beb2fcfa8adb86bf466f85e4a674f9aa0414757797c3fdf87bea45dea6c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d166ee6f2125b4efc77b70382ff5c77c3c357a0c2cefaffc20a35f76a6f60c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1936c410de39f83c335743b095da1e85947e56dc866887da720996eb2bd23d63", "verdict": "adds_false_claim", "reason": "Rami glosses a Pareto improvement as 'both sides gain, nobody loses', uncorrected. A Pareto improvement needs only at least one person better off and nobody worse off (checked: Wikipedia 'Pareto efficiency')."}
+{"prompt_hash": "da2f316bfb7d1d688fd65c5b65762b4532fa9a85dd1e03563ca1999887ffe5cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "935c5226fd0577683b2f933f0c5c7212c04d89c886284b900d5570d659e5aae5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2dee885142a58f4ba466250a1b1cb1f3af98f51eaf0aa02d3cc18528b2d11366", "verdict": "consistent", "reason": "checked: Wikipedia 'Tempered chocolate' (melt then seed and work near 31 C; six crystal forms, form V)"}
+{"prompt_hash": "603fc614b062b2133a9bcde584f4136505a72c87846f68195bc71ea0a595e2ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79d7d49c3f25b38132fe0e446dd090d74eb8ab22b659380e87e2a09411226e97", "verdict": "adds_false_claim", "reason": "A student's uncorrected list says the woman in the car with Gatsby was Tom's mistress. Daisy was in (driving) Gatsby's car; Myrtle, the mistress, was the woman it struck (checked: Wikipedia 'Myrtle Wilson')."}
+{"prompt_hash": "9b525442b6d76e257f069f193c818a4785370a71d74e098806fec045847439eb", "verdict": "adds_false_claim", "reason": "The story treats only Claremont as rolling to month-to-month and the other Ontario lease as 'renew or leave'/needing negotiation. In Ontario every fixed-term tenancy continues monthly without a new lease (checked: ontario.ca 'Guide to Ontario's standard lease')."}
+{"prompt_hash": "59c296a6a006f01a76ae6fe9f20e25cb8574b4ca0933407f133599caf4d6cc1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e1057bd5d48694771271870ea6af0f7a3742257ab5658fcaef16cfc7600acf9", "verdict": "adds_false_claim", "reason": "Describes Kahlo's Self-Portrait with Thorn Necklace and Hummingbird as off-centre and small against the leaves, with red thorns and a single tear. She is frontal and centred and fills the frame, the thorns are brown with blood drops, and there is no tear (checked: Wikipedia article on the painting)."}
+{"prompt_hash": "90a5bbd884d17f6b179724fb6cebeed114b318d7a969fcc60ec451679f69119d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47361c0d05e3afba2208ecb0cdfa3e048d24e8ef360f4157ddc41ebd881c0d7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7bbb6fc086c41abe3f0c0a55704d00bd3e2644c66c249b7f560dc7a464c11cda", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3046c97ccdadb4a4e59d46952b30be43713f5c8ebaaed2b40810f76381387079", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97e9f0f94bcecc67d1034d75043ac2eddb94494e44161c7771b6219fb27d043e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01f60d99261d707b45f80c95d564d21f9bb7d553feca8a8c28a196ff24bb0eb0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "371b8facbb941c57a498befd4a5eb83ed28913e2ae5bbd8580bc51197490044f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07c84fc3d7d265d37c08f8cb9f7adf39c4557189b1ca52b1a285052a1adfe6d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a68e738549b65e71045e305ccba505c5f3a7291bfa754a3d1301e0a09e2bb23", "verdict": "consistent", "reason": "checked: Wikipedia 'The Murder of Roger Ackroyd' (technically true concealing sentence; final chapter is a suicide note)"}
+{"prompt_hash": "a9c64ecc9c68c17daede8c45a4a952af145a8f4d86fb5054700fd9fc2b293404", "verdict": "adds_false_claim", "reason": "The bar-line count does not work: 15 internal dividers give 16 bars, but the story then says she excluded the final double bar and counted sixteen dividers, which would mean 17 bars."}
+{"prompt_hash": "db8d3693c082943910d778c49a6a32dfcded2f5a7eda1e5016e8ec0ade5d0eb2", "verdict": "consistent", "reason": "uncertain: the poll worker's 'third ballot is the last' spoiled-ballot limit is a common state rule but was not confirmed by a fetched page"}
+{"prompt_hash": "3f480914cff105f7d793fe2552c58f1e84c2e216aac224ab4f0f2ae81f829933", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ceac0a96da8bb5cdb138b32e44e71d015c86f0508d9aa339a55c7c5c0f92595", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5ab7baa8d8a5c82b596ca0564820f327e060a712056d817365c3991cc4c6333", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d161f075339bfa6e9a09f03a26ae92d4481b92681a876d302bb563a8ab04bd92", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19ef3f012fa8f353b138bf253a818c2b847ae96b6b1cd21b538f9325f7576dbe", "verdict": "adds_false_claim", "reason": "The story has Section 1 involving document review: the manager checks a Social Security card and she picks 'her document in the grid'. Section 1 is the employee's information and attestation only; documents are reviewed in Section 2, and a Social Security card (List C) must be paired with a List B ID (checked: uscis.gov I-9 Central pages on Section 1 and acceptable documents)."}
+{"prompt_hash": "526acbaaa650e8ab2a03092f762ead12e64e7dc839d13040e001299f1ebefe78", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "166b4959dd6d7d5d91070515ca6afb72e5df3554ac1af517d757e60b7e27d0e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08b8b06d8ec9f6d3e3221478dfe4520646471f7b8df90a87935b7c8906cf39b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26d574baec563c9a82b1094fb821d891d2523178e42fb9a7e50bbd7dd0b8c284", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51b332035dcdbcb700765ee8ffff1ae4becfc9fd029f28a570a75a71115e101d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00fe86b52510033bd54ae34e81ecd082cf30f01a40ed5caae8f02259c500aedd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07010ff8e7d8f73e7715389e95b1d17b96825771fd661bd130de3ae3557f7a30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90bbf36edc2aa8a7ea698d963961ce7436f0b0cfd11c4f307be33c1d0aeb6874", "verdict": "adds_false_claim", "reason": "A class whose only BankAccount(String,double) is a void method has no matching constructor. A test that calls new BankAccount(name, 100) would fail to compile, not run and print zeros. The bug as described is not how Java behaves."}

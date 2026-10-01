@@ -1,0 +1,40 @@
+{"prompt_hash": "d43f2abd24f5522896980f9630ae216a0cb3066fa8dac80e01c5f0fa4a0987f5", "verdict": "consistent", "reason": "checked: Wikipedia 'Contra proferentem' (ambiguous term read against drafter)."}
+{"prompt_hash": "7460384f971ec8294d46b86a432e75d2419d64cf149bedeeb4ccbd2e9b0d0b41", "verdict": "consistent", "reason": "checked: Wikipedia 'Inverted pyramid (journalism)'."}
+{"prompt_hash": "7ba4a9df4e4211c9f92084d675cf8c70f7ff0adba8bd24dca8e8e3a187f80c27", "verdict": "consistent", "reason": "Integral of (x+2-x^2) from -1 to 2 recomputed = 9/2."}
+{"prompt_hash": "b9e6b78ea30c09d11b2254d6633a7e2dbcf9bb1e4a5b28d0f9224c834cd6a859", "verdict": "consistent", "reason": "checked: Wikipedia 'JavaBeans' (is-prefix for boolean getters)."}
+{"prompt_hash": "41079f8c1feb012852da16f61abcdd49e093541a3664c1be101985fd8dfbb0db", "verdict": "consistent", "reason": "checked: Wikipedia 'Impeachment of Andrew Johnson' (35-19, 36 needed)."}
+{"prompt_hash": "90c712c6021c3fcbfd2779dd7ee2e4c129762bfd8d07cc06905bb2d0ab59b944", "verdict": "consistent", "reason": "checked: Purdue OWL MLA in-text citations (author-page, Works Cited)."}
+{"prompt_hash": "35d159ba23cd628df7a45c97fe29fd4f624e669d51ffe9c1ca77c05f08cddc27", "verdict": "consistent", "reason": "checked: Wikipedia 'Great Famine (Ireland)' (1845, Lumper, political causes)."}
+{"prompt_hash": "44365f684050510e5ab4e41970cfa50520d67b7ff9ee7b7e359946840148b143", "verdict": "consistent", "reason": "checked: Cornell LII Wex 'infancy' (minors' contracts voidable)."}
+{"prompt_hash": "155584ce3a8bf196a697c1a7ea0c3fca63e6e97fff196969a39d43a75a656c26", "verdict": "consistent", "reason": "checked: Engineering ToolBox boiling point at altitude (94.7 C at 5000 ft)."}
+{"prompt_hash": "744c4f394a87c8707741366a51a298256200d4dcaeb71abf5a2b7899337a65b7", "verdict": "consistent", "reason": "checked: Wikipedia 'Common European Framework of Reference for Languages' B2 descriptor."}
+{"prompt_hash": "aaf41b0e2dfe2942b03163472d240acddfe54243c8803aeb5ebe12860c43174a", "verdict": "consistent", "reason": "checked: Wikipedia 'A440 (pitch standard)' (ISO 16; some orchestras use other pitches)."}
+{"prompt_hash": "9e524f6e5bd21184017d71b55331701d73a58f438ea5947096e9d4bd279d769c", "verdict": "consistent", "reason": "checked: Wikipedia 'Continuing bonds' (1996, Klass/Silverman/Nickman)."}
+{"prompt_hash": "fc19eb0b4bce966b1ee452a18efce31db51009030801505036de30106a8728f2", "verdict": "consistent", "reason": "checked: Wikipedia 'Gluten' (glutenin+gliadin with water; longer kneading chewier)."}
+{"prompt_hash": "a9ad02f7c3ee0a8f261ed06eae7b329debdb2a4efd1485d6008e9c37847af874", "verdict": "consistent", "reason": "checked: Wikipedia 'Charye' (Chuseok rite; rice west, soup east; bowing)."}
+{"prompt_hash": "960fdfed03dc9c49070ee42a283e7d2ff5ee09fe2a890dacd53e36251454086f", "verdict": "consistent", "reason": "G7 = G-B-D-F resolving to C is standard textbook harmony."}
+{"prompt_hash": "72d24421b240d2f1b8c5687b7245fd841467a167538ccc38995b5b5d62d98e5d", "verdict": "consistent", "reason": "Lease totals reasoning is consistent."}
+{"prompt_hash": "2293464f0b582e0bb5a037d65280f775292479dd87caa08eab449c972e83a766", "verdict": "consistent", "reason": "checked: Wikipedia 'Untitled Film Stills' (70 photos, 1977-1980, B&W). uncertain: the specific maid's-uniform still described."}
+{"prompt_hash": "4aea6bbb17668f3ad143da8f3ae809f667e5c84ad85b8fb29af446c9a25577d2", "verdict": "consistent", "reason": "uncertain: waitlist-in-May timing not confirmed by a fetched page (injected verified fact)."}
+{"prompt_hash": "b7714a822fa33bd0f08dbf51f003c1aef725b6464f03802b77913714b859f9d5", "verdict": "consistent", "reason": "checked: Wikipedia 'Syn-Propanethial-S-oxide' (released via alliinase on cutting; lachrymator)."}
+{"prompt_hash": "4a328fbfb197d1f05969624dbee8b66af6c750f79c735ffa06406e450e290942", "verdict": "consistent", "reason": "checked: CDC teen driver risk factors page (almost 3x per mile)."}
+{"prompt_hash": "f596fd467a3dfa394992e1b91723cf55e9f1af73af4f6a68859e8357e22cada6", "verdict": "consistent", "reason": "checked: CCL article on SBI model."}
+{"prompt_hash": "273e3c6d5727f14c41a1ea75bd0a1edc32c84832b53e9d8fe1ee3b922046c98a", "verdict": "consistent", "reason": "checked: Wikipedia 'Greenhouse gas' (water vapor most abundant, acts as feedback)."}
+{"prompt_hash": "5598e7fc1c02eca43b90f5677caa706faea80ad27afc6c502775f228db36ac38", "verdict": "consistent", "reason": "checked: CDC chicken food safety page (don't wash; cook to 165F)."}
+{"prompt_hash": "05e4a3c5a7778e97a9fcaecb00f56273a7fb440ef94ad47763d3990c6868b6af", "verdict": "consistent", "reason": "checked: Wikipedia 'Offside (association football)'."}
+{"prompt_hash": "79ce2093a7d752b112cece4ee428639217001c46122d6ef52a1eb62ec24cebbb", "verdict": "adds_false_claim", "reason": "Story says Jane Eyre earned five pounds a year as governess. In the novel her Thornfield salary is thirty pounds a year (Project Gutenberg text of Jane Eyre, ch. 10)."}
+{"prompt_hash": "cafa31c41c4547735c4a39921c77ef4d9b07fe3903d77c790aa4c6d890524c0b", "verdict": "consistent", "reason": "checked: Wikipedia 'Digital elevation model' (raster terrain used for flow/flood modelling)."}
+{"prompt_hash": "9732b5eb80e8ca7dd9df1b2d62d1c888034bb938c0f1d0cd3b2fe6bc5469fcaa", "verdict": "consistent", "reason": "Opportunity cost of forgone wages is standard textbook economics; 4 yrs at $19/h full time ~ $158k recomputed."}
+{"prompt_hash": "ea94bea50a631c98ca072255e2be3c91331febed797ebae04ef60361f857ad0a", "verdict": "consistent", "reason": "checked: Wikipedia 'Montreal Protocol' (first universally ratified UN treaty)."}
+{"prompt_hash": "b09d8fe2f18acdf425fcdee4b5de54f4a8091cb64dd7c1dd1310e779f815f18e", "verdict": "consistent", "reason": "checked: Wikipedia 'Overtime' (FLSA 1.5x over 40 h)."}
+{"prompt_hash": "7e8dac8c156e6aae928879753b17126733970c7cf295fc55026ba5de52071abd", "verdict": "consistent", "reason": "checked: Wikipedia 'Food bank' (bank = warehouse, pantry = direct distribution)."}
+{"prompt_hash": "3832a16f1b1cee7ca28a415990c018c1035bad57bddeecd13b7638aaee4c82aa", "verdict": "consistent", "reason": "checked: Sefaria Mishneh Torah, Murderer 11:4 (parapet duty extended to other hazards)."}
+{"prompt_hash": "040a8f9844c1318ed1960b2b23c79879e7d57a2b0799af329abc0432d3c6c2b7", "verdict": "consistent", "reason": "checked: MnDOT zipper merge page (backup length cut up to 40 percent)."}
+{"prompt_hash": "f6c61d6f8b693c7f1627f7fb6f5b68701c6584c4e62c64c038020e4cee485719", "verdict": "consistent", "reason": "checked: Wikipedia 'Federal funds rate' (overnight reserve lending; transmission)."}
+{"prompt_hash": "432da89689c56f47130ea745d33fc847f125aa6569031123388c0c5eaf38c1d2", "verdict": "consistent", "reason": "Averaging a year of bills is sound; arithmetic consistent."}
+{"prompt_hash": "50cb750bd43351d8d2e8d1612fa4d0b690700b6b0f09a53148a7c26e58b3252d", "verdict": "consistent", "reason": "Deposit arithmetic recomputed (3 months > 2000 GBP implies ~3.7 weeks' excess ~ 570 GBP). Fact per Tenant Fees Act injected verified fact."}
+{"prompt_hash": "d24f2f04f2ab48f8624ce93b7e6fc17927ea3425c66309f137c367da0b2384e9", "verdict": "consistent", "reason": "checked: Wikipedia 'Ziad Obermeyer' (2019 study, spending as proxy)."}
+{"prompt_hash": "60b5584641b6840cad91d5b5c9bf4cde3398ce49e34d20ae81287159c76bad77", "verdict": "consistent", "reason": "checked: Wikipedia 'Vacuum permittivity' (8.854e-12 F/m); E = sigma/epsilon_0 and units N/C are textbook."}
+{"prompt_hash": "283cf6ee53aaeff0d3776305da519471c4a359eff77878c3956c39a7a055834b", "verdict": "consistent", "reason": "checked: Wikipedia 'Headlinese'."}
+{"prompt_hash": "19c1fe4805a4604e176dea53d04a3bf4a05216a894320ffcf1d8d659f754ed01", "verdict": "consistent", "reason": "checked: Wikipedia 'Head of government'."}
+{"prompt_hash": "70ef5843e4b8129215904d9590c8a267c01548472282f9fa05cf898b5588f049", "verdict": "consistent", "reason": "checked: Wikipedia '1st & Ten (graphics system)' (ESPN, Sept 27 1998, Sportvision)."}

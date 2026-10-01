@@ -1,0 +1,40 @@
+{"prompt_hash": "02bb1b537c4f1fa65a4460e969bf6520949a26ab7e38331727e3b547ee3f1ca5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4045f8f3e00094219049d9de5cf11f3f105735e66a47b9f2b1ba1bf0cc9fdd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8f91891bb3001c5c840772c1bca70b3d36d5c7ca1b3c5bcbfcf0f2d19717f85", "verdict": "consistent", "reason": "Tilt range/period and current mid-range value backed by en.wikipedia.org/wiki/Axial_tilt."}
+{"prompt_hash": "718e1ddeb54b0a9f7a77db0e1b683c2bfe087272412d9e6ae42530f6dc069f6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8465f5134b79ceb98dccaeea0881e75457f0064d0d70d5fcfa90d1d831d2e186", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70238af6ef0390ecbd2548290c789d35a35d33b34306922b6f58c78bdb8dd5a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84f4e8bf084e4e1be74767dee5249f02293c055e09b1fa9c868cd8d3f29e3b83", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b7cce53f6b62c2aa01ba786fa0a020fa61e1bb43b266b312a5ee4e0e52879fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47af46d785c00ca7f8b4ad2b6a05e55252cfbb1f942e890826e1cb635cf683bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d66f84cf6f031a07f9e4fc47c8a73ebe7de7c25f5e4249d7786e1fa591b7d3ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d28ad2030e953a95e09d7a1028ac18596e87506a57b8190a8ba57c5a3d80cbc1", "verdict": "adds_false_claim", "reason": "The story says Blue held half the seats plus one under first past the post, but 5 of 10 seats is exactly half, not a majority."}
+{"prompt_hash": "9bfe15455b59e12bcea08f0d5102c8e5dc3a205a5eff349699390d1ea208b8dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54c66891b7f1dddd3021751fe102fd8f27e0ac2ea7c5ce980ed27a5cbb515bb9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3dd182ca5bf3f4060472bdaac2e6dcc4b8084142dfe810e6c9cb1d13df810a80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed000176f6d7f511934982d99073c9f3def316aca153c56aa5b3e9326c1834b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ce8b1b5ca9f0c9c3ba5698150fb42b8195f837f5f487c6cccb66d1ce74d7739", "verdict": "adds_false_claim", "reason": "The story says 5 is exactly half of 25 and that a loop checking divisors up to half of 9 would miss 3; half of 25 is 12.5, and 3 is below 4.5 so such a loop would find it."}
+{"prompt_hash": "400c5f414af9598ef7894d1ebadd8ec2bb84b416eb625b7d375ff4f05fd24710", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8830f3c28bf6b31902f11ad1f5e28562a0871a38409b5d47b92259a34992e66c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbbb02d0806824e649f136e9e7dacef7868eb88a38c9bf7aa47d3d7425a4d64d", "verdict": "adds_false_claim", "reason": "The story says Jayson (41) and Jaxxon (38) were each off by exactly one cup from 39; 41 is two more than 39."}
+{"prompt_hash": "5b01a8812624ad3ea1d015d561d135704e6cb5ac84aa1a7ff8a3f89fc9717cfa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c617ad9db0abcd240e9560c7f8338fe8035345ee2e04f986dd94c79fcaa5f4a9", "verdict": "consistent", "reason": "Tybalt addresses Mercutio as you then thou in 3.1, checked at shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.1.html; pattern simplified but accurate at this level."}
+{"prompt_hash": "1c8e20a64e4c6de6320d960f056ca37c90c31e9684dca6393b9feeb91a1980b4", "verdict": "consistent", "reason": "Warm glow sticks brighter/shorter, cold dimmer/longer backed by en.wikipedia.org/wiki/Glow_stick."}
+{"prompt_hash": "6ac28ae4a72a3f30555a2bf1872b6b4ac64d502e1aa4cbe9254783be2a5d0430", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "35466163b8a6c1a0dca73dbb5d02486e4cd6c657845c6ac40083d4781dce326d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1fd7a7d3f4493d0a0966b6c81d271feed695a159f1dbc9cfdb5d58a3cdccb6c2", "verdict": "adds_false_claim", "reason": "With day one on Wednesday, the Saturday party would be day four, but the story counts it as day three (it also calls the party tomorrow while the day is Thursday)."}
+{"prompt_hash": "966263d58702e91e0542c7b2316519fd939a29c8380084a9eeb5cfda3eda31bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "927efe69c2c91e79098a5d030d7da7372068a22d9263eb8126e21ed4657fb82d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdcd157bcafccd7b3a9d80e7a0f9e3f5d9b1bf6757cb2e44da220b0981163f95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c73bb267007890723cb6fde65a9a68757f666fb9a2b950d64665d73af2e7c89a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4086786a8d20cd4c72bf40e2fa67bf6a84594fe8ff05c9423c7364d46f57d4c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "894b4314c246bcc73ea9d127cdc9b8587fc2a2a5c2bbd0ce0f54cc86604688ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7232246fa0a8cea032cf5bebe29ecdac34f5f5a7327fb848677fc659ab3420c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a00ec2e958d71b174b5953e42c72a188043713258783d24438c2179c4e9b954f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "587b2c2f951999f26001be8345bb5772b5864620d16854d7f90dffe6ada13e02", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ef6dbd52b90ec995f6ed7717c7a38822bcfb2e8b319ceb9938c92bf8197bfb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c5a8661b79ed27756687ce09ec9b39d860fa5c702971ffd187db39a795fee802", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "892f16537fffc3050c59baedf20914f066d4cfa45c2f11e8580d3b46a8d71355", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2fbcd0af8dde2ac6aab762826471e816437622782311d3c06324cc63a68f3b5d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f44793022c793e48c51a585002838b7b464be913f592c22c7f49b7395ac26ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8dec71843ab029dc6222882622a8ddb3ba35c5da2322ac65e8300f94ca8a3ef2", "verdict": "consistent", "reason": "Random (e.g. coin-toss) assignment and in-group favouritism backed by en.wikipedia.org/wiki/Minimal_group_paradigm."}

@@ -1,0 +1,40 @@
+{"prompt_hash": "428b0477ef24760ec63eca3fff256577fd3f48e9bc8c20704f5ac5cd06b9a378", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d88ffdc1aa3636ba6b1eef5bcf857b5544cabcd7a98d8515e7efd20b088c4be8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd9c27bd4b675877331b3e59a63ec86096d52231c2ea322bcd11880ea63755bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "331b8dcd1d9282d5ac884de5cf57d39da837160495eb9d1aab7c38d677f83af2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89467949eaf0c89f0c627c32d6b943f1c87cd20aac1de5526471ec188ead37f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "386ac6d1417bd03182b800d7b95794b25385728636465086ef19b58438825884", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e6d7c61780711912e77be36c942368904f4dafe68336dfb6a0e4715f9332167", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5b97a32b6700a2b6b9cfa32637b81c47877340a8a29cb483f7b64842cb02e5e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80d1329b4da62974fb72088fb03b479c52f6c7b657e6f376c7cb5802be91c922", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36ec29e08bb2ebdc099fabe7e8e2ce5ca23796c5dd14d837e432fbd50b4e31c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e86c38c028f0c9131d500a4468355b6bd19be1d5954987537f25e9ba46e4f81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a812ebef2f8426acc021ec791adf4cc93dc092b34c0719aba46e926aead84188", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5b21b3479151fb1bcbf64a30df35a212710f4bce3f09eef33f616ff160b2518", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e63b97165e9b6573d13464c23216b1029fabb246bb291430348d440aa4b0aa1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25f53596911ae00b8bbf77d867bcd575b48ac91dac89481679cd9079a5b0ac23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10124dc9ff3de46bd0bbd2a7b42af5175375ab5ed5fdaf82fc6b0e7791c95ab3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf67c6fe9149ab85cdc1ff49744e272c7b2533519e56a4a7a8d383a7486097b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28ace2478e0cbd43233992b9a35344259f2186a69c7f556f52d199cffa576f58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f5da60263c1567f30ac63a443197d6367b9a0acb4e7a6b2634777ff6e5f5824", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2213ae81273f40f0c7af5b32d928d27327c1a4c9b461351886a9865eb8f99eb7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4a0c9638aa1a3e5c4c645d5b5f5044a9ae43a353c22cb7b14bde4dc8b02d94a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68b0a09b1057930471aab9a3eb75794b857becced621951ca03aab254be8eca0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c5cb6c0e600fefe51d289e36a3129cb5d2a79c7f28682212178b9f4fcee0b75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b342987175fa989c5cc790966c9cc6da8e5ad6558b09081b7c3a65a11171e494", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95fc402f6c1102fd1d6531691c82a89d2731cc1831f77e3be4fb063c4a30f8a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e7ebcbb652e98af6980460da90c8aa59c5ee059f700df23e83e0324ea9a3344", "verdict": "adds_false_claim", "reason": "The story has the plant on the sunny windowsill grow tall and pale. Tall, pale, leggy growth (etiolation) comes from too little light; a plant in strong light grows compact and dark green."}
+{"prompt_hash": "d78c93b9f8c1339057a7282f8a4f6b41ff0a273208b2fb178918cfdf2e742d13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92050bda3cbeaa139779f3eba7c90291cf78b23effd1e2d09685a488a367133e", "verdict": "consistent", "reason": "uncertain: Angad's claim that Egyptians watched migratory birds arrive just before the flood; Wikipedia 'Flooding of the Nile' (fetched) names only Sirius's heliacal rising, and no fetched page confirmed or refuted the birds."}
+{"prompt_hash": "08ff42cd4108f14827775863d470e9d57ecd0976eee88bc9c618e79a875c1258", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2521347a5a52e5c806ad98054106d7ea887b02e24a0a6da45a7a2f304f284aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90ee0dff0b3c0058777188f0a8321db0eaa7d10a49f6280121a0c18d2abe92a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d8bc69dd8002393801a96534371c494f860d69de28ee1de50d87d5afc37db47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8ba14be2d5259fb03b3ce8674a13978f263ddfc7effd788a0727ef49ca10015", "verdict": "adds_false_claim", "reason": "The story calls subtracting before dividing the wrong reflex for two-step equations. For ax + b = c, subtracting b first and then dividing by a is the standard correct order."}
+{"prompt_hash": "3b6177316a15b392b0233d9e78bed5933461b41765118320a2e6fc161d8db369", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9acd7d48cec05369da8e830f803d1a8ecdc48798dfcb5798bdc8ee5042b9e26a", "verdict": "adds_false_claim", "reason": "The story places the 'enchanted objects' line about the green light in the last chapter. In the Project Gutenberg text (pg64317) that line is in Chapter V; the final chapter has 'Gatsby believed in the green light'."}
+{"prompt_hash": "a55e637f2dabdca6e442c79593eec71de659ee2d61bf59a66c9c585ddfb6a4ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a573d24eed01d1f048d2f6f17be23d00211ddcca336fb54fb245484c886f96a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e1271fffefd603b9c139af47e17a9610e40c144d170452c1154608c0f63bc27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ed54db31ff263cbe2802c3e80c599d6bb8cfba168a107b980c1f4e6e98258fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89bcb0a2e13b9cd9368544ffc9be16d979cdbbbbf2236f5c8142d6b865ad1c6d", "verdict": "consistent", "reason": ""}

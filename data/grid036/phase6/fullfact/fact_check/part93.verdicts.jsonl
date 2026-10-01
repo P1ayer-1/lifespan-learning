@@ -1,0 +1,40 @@
+{"prompt_hash": "64d0b99fffdb815742c538c31b1ed1007aacfdf4f2e37f1186b111909d59afbc", "verdict": "adds_false_claim", "reason": "A 300-student poll is given a 3-point margin of error. For n=300 the 95% margin is about 5.7 points, or about 5 with the finite-population correction for 1,400 students; about 1,000 respondents are needed for 3 points (Wikipedia 'Margin of error', 0.98/sqrt(n))."}
+{"prompt_hash": "3dfc1e402adea1e8c706e46e70428e0f686a2e9c623abcee964bf113f9be65f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97c07588e2907eb906fd4d79501a407341812cc5605136979ced37f5524b45f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf069db1e1e6795c05b796931b936031522ae04edc106f121eacafc792c3467e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a375f9ea64402764b0588ceb7d87c841042a01e510d8a2cc7047928cdb3f916", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67be477e64dd691dc52d9933d7aefa3d62e428a7daf7a88d0689b76289923f16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc53eb55bddea0e8b7afa4c977bb3d2db04769c9e8af2e343ae43af021066777", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac594dada3adca09e06388571b01b632889b3a884ff999f9f07bd4791a9c4e56", "verdict": "consistent", "reason": "CO2 rose from 313 ppm in 1958 to about 425 ppm now, which is more than a third, and the curve dips in northern summer (Wikipedia 'Keeling Curve')."}
+{"prompt_hash": "f4fe78cfbfd1409286aba7f8b2a952cd9483c1ebe5b4b95d17906c0e36b38094", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88669d59fd22c322722230a69c2ac14c97117b30002a314463080afecb6cba7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76dbf5fbb0b7fdff76bccd73576e7ed1041760c3600644aa6f3345dccb18365b", "verdict": "consistent", "reason": "Mishnah compiled late 2nd or early 3rd century by Judah ha-Nasi; 'Nasi' means prince (Wikipedia 'Mishnah'). The 39 melakhot are in Mishnah Shabbat 7:2, derived from Tabernacle work, and the Torah gives no list (Wikipedia 'Activities prohibited on Shabbat')."}
+{"prompt_hash": "9ea4568877e226beb554c1f538fb911e1fdcdcb6866864f09cf53bcbf2d7cc17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eeefa27d1c7e3723987a6376d9986ceaab3d6a9a941ef5d256becce2aebb716d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "039bb3d37d12c06fa320700b6d68f7be3b4f589208184a8aae30bb474dae0bd7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77fa4fe5fc11104262032e9fcc8b05b52c4472d1599728f2b94a0415f2ca0224", "verdict": "consistent", "reason": "(1+0.0465/12)^12-1 = 4.75% APY (Wikipedia 'Annual percentage yield' formula)."}
+{"prompt_hash": "64f1cfc7e216ac867c99052ae5227154fbc2358f4dad171fb8fb2731b98fcb6d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c1f876f11a5f5f603335f0b168314d6596d377b3b454cb53fbd8c4e75586c06", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f27421dff62a9235bd7df0d184399c081b569620e82866632841657fb996dfee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b687d2aa802bebb4c0518deef1b19d36d7c2ef16746aa50181b1a0e6103f34d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9dc554f1c18c4d9ce0f8983b9dd34131686cf76ef26aac055f07da571992eb56", "verdict": "consistent", "reason": "Rand 1946 arbitration after the 1945 Ford strike in Windsor; dues are required of all covered workers (Wikipedia 'Rand formula')."}
+{"prompt_hash": "18a3f80b7a2e5f940abff31e2f1fbbac77196b271f2a6f9a03168543b025e1ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69ea178066736dc20dd0b791615beae8c4f41079423002cb141534bb52bb86ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bab9caffa27f01149adc73159747324b6c4e8991a75f9c4585e233c6a023844", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a588a95cf0e7aa765c2b2716a6a8d342a6bfca217d3b6eb45b28e79a5873d80", "verdict": "consistent", "reason": "uncertain: the wording of the three 2026-entry UCAS questions; the UCAS personal-statement page fetched confirms only the 4,000-character limit."}
+{"prompt_hash": "885f4371ae7944b59a33679c015391d33b87b1b63954dfa3a7b1f68a80a23fc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06f2b4fb1d64be14b3d84ac516753e85dc9f9a06439408ff4488619aa8a4a32e", "verdict": "consistent", "reason": "Karenga 1966, Dec 26 to Jan 1, Umoja first; a mkeka is the mat (Wikipedia 'Kwanzaa')."}
+{"prompt_hash": "8b4c7c204675a4d28744269bc8c8df7811a98ea70ecc76de766fd1e614ccf091", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ece955648531b77facffec31707d8726492c3ada141507c073819f71aa912fa9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b4b54bda9976cce2eaca94c6fb3207342f354f04d8a2bb187359bd6f49db38d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a113672a7f066e494c1861406b01b95d08f0faf2c98d882c91727cd3f280a12a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "425d06d7805c6bf6de4f3e119473279484c39a6bf9fb5cb271b7011e232814f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91879bae3f0413e36689ea85659252e1f7f344f91331e021cf85700ed81c23f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3752fa2dcbbe455a4539225390f274efa2605a2a5b5b0531339c0a06a1d16de1", "verdict": "consistent", "reason": "CIRCLE: 50% of 18-29-year-olds voted in 2020 (circle.tufts.edu, half-youth-voted-2020)."}
+{"prompt_hash": "6249e0bce6e48a1bb42abb0857e354f4c209cfe68143087b9039edb6544a879d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7d7903929e0389ca33927a5a8b0885fa6bbe5e2d6d53efc97ff70023f288db4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d39f30324ff7aeb5676ed384891690a9c174ffbc6fd6b1367b5489017c01fcea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23683256d79375075ae1c78a1bbb20da0f3bfb96e7d8f36f4021778fd07b6fb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24e228537923147b551244da1c42c09374c32d660e828f7d86a01328dbb98170", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "265f903ddacdfb2bfa0140294f984742e990cf37ea8d5ba23c374e71164e12ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e9f8e1f0f96cb33ed7bc6ce364536ca75afe9d2fc20222db09a68267519df6d", "verdict": "consistent", "reason": ""}

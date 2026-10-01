@@ -1,0 +1,40 @@
+{"prompt_hash": "dc82316396161353a779554beed7f83080005405dd29daa7fcf50abf8fc60a6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5046491b2f181af520c1e9ee0c38739257a75a53443844bbdfd9aa212ef682f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "301758621d25be54f75f0da2247a36eca0b2c0c50602db33f0de4e4ebaf547d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48209c9ffa389dea9c7c5cd57a5124ac573bd5e6a5c12cdb165fce28f32bd834", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90e5c0ebb2ae170301da718084d58f748092d95b6ea6e2482a1d28f729014e4e", "verdict": "consistent", "reason": "uncertain: the description of the sky as cracked white could not be confirmed; the Ionic column, opening, corset, nails and tears match Wikipedia, The Broken Column (fetched)."}
+{"prompt_hash": "541cd4ed0992a1a4d1387847e5d2c3bd133739b83208257e0eedd44d7c485bef", "verdict": "adds_false_claim", "reason": "The accountant tells the 17-year-old he is already paying CPP. CPP contributions start at age 18, so no CPP is deducted from a 17-year-old's pay (Wikipedia, Canada Pension Plan, fetched). HST fact stated correctly."}
+{"prompt_hash": "79109eae92ec5495e4cf8e8cc6a0d87717c65786e2ee392dfd708ad2709ce34f", "verdict": "consistent", "reason": "checked: ontario.ca 'Renting in Ontario: your rights' (fetched) confirms the standard lease rule, written request, and that landlords can't ban guests."}
+{"prompt_hash": "f7e602f61f8ba805e7c45c70e8f69b96ae3b28aaa94de14cc79dae297751a929", "verdict": "consistent", "reason": "checked: Wikipedia Charye (fetched); the table layout is presented as family custom, and rice and soup go in the row nearest the ancestors."}
+{"prompt_hash": "9d31c5746026e86baa26ec811ef49b0aaa78105ab1bd71a139927a90b7d5b566", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa5e789578094b56030e851942be55734dc509a6e56e2c27697285c039baf926", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8801b91031ddd84db3d45d3f1277e3dd25f9713ce313e30e946dd8174e5be49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d93ef42d29331885e87ee2dbf27a54ba75789fc8c5491b6aa032124f7e4f45d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "14223aeec39fe7e65faec129db5e258cba77d04db0eb66b8a8c1aeb36f98b387", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "851345395b35526a85b4de347d43e746065b65f90f40f6a8fec64a666905e561", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4c6627cd33edefd84804e4f316694a7efb27998f88e7f8631aeeee9c994ca48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03bf37642aef5374eb336f419186569783f46aa0a9e9f75cb7d97c5115860189", "verdict": "adds_false_claim", "reason": "The narration says every step of making ATP happens in the mitochondria. Glycolysis, the first step, happens in the cytoplasm; only the Krebs cycle and electron transport chain are in the mitochondria."}
+{"prompt_hash": "d7e46b5b963dc6348cb5bc932e6252adb59b1e632ebaa62cfcb1924ae1a840f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36cca91256b6492ed99c097137fac1f8723e08104b9c2dc08b5fa0558612f087", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2363419d67156fd0bd66ed9e17c3e4daac56c641835890d993d0902e484864f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a3773e688cd3466d562f1cc361747ac445e0ada58d3b75e6c274b0d9e0d78a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0da6f6a61053829cbe593e860a36135d2a2caa4ec80a9ef3daabe58998ea5526", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8721455c154f9aec3d319ee0b5f4b69af7631421f730a571a99fe29248ab4ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c31a830913420335469ff07f5c04b9f0ac9d4569bf98937cfd0b60e8aa8e9f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b4a4ca015be619b5f5c8342d2b248182312c3000c9525de4c2f528592a4471a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7448454ddc58d2724879ade748f7c55c04bf176ad14a81a0f62b5960fcf75975", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c4769b60faa2873eb928532bd81d2ebb9b662f90a7d5006d0635dfb79144570", "verdict": "adds_false_claim", "reason": "The plot blames the wrong range predictions on swapping sine and cosine. Range is 2v^2 sin(t)cos(t)/g, so the swap gives the same predicted range at every angle (and changes nothing at 45 degrees); also, if 20 and 70 degrees give 2 m, 30 and 60 degrees cannot also give 2 m."}
+{"prompt_hash": "1a845f33981a54787cb938caac44a292554d7149594efea7875c2d66c73455bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46de900289d44196c774646d27e226561bfa278e7116c143369a0eccfe39ef4f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e38cb2aca75ecf936beec99acb94605e824532ecf39d7c811d9006f53977676d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "740884bc0981976adf1c9f724a305f3049870cd0611500625c51daef4d021632", "verdict": "adds_false_claim", "reason": "The counting is wrong. After he drops one of six choices, five remain and all fit UCAS's five slots, so Edinburgh and London do not have to compete for a last slot. The UCAS fact is stated correctly."}
+{"prompt_hash": "b3a3577f4dce4c5e17399293ede79a75a2e493dc1ccdc6d04b1dbf2268c6f91c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bad96d994f297333cfd77fb2a4fd081aa3212931f47919da33308f1b0ca30c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d610969dc3c6741c2e4bbea5048f1d126a8f3a2b21b30b4d41bf370d296b2bf0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e74a443504cb5a62ef9aa51fe3278ffc75f1c7b2dab2a4f1a1b5ab168d89bed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70088920c56eb02b2228f5f62c1b43dfad8412ee60a16cb08a349d88dd6f96be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef96bb9b7ccebf0ae0777ce7d7ccba25b105d45a40cde14ece1c4bc66999c874", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b97204223e8339fd3517122cb934f4ddc66769435267f9f058ce1c3b7ab648b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb17f9716aeeddc5f1607cf6dfb66dc882a066bd7163eb9c6ce25aaddf3b006f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c710915fc38cdcaf54b782c9275abb6b77f852808f803764ddb2dd4bfb8550c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7343c0d2e17f214a033b29db9df6538110a396c2aaf91a0fb417ea66814a5c25", "verdict": "consistent", "reason": ""}

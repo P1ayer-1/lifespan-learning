@@ -1,0 +1,40 @@
+{"prompt_hash": "b39840f54994680502986756c4a7aaa0eaafe7bd42c0479baecacdf4b6fa5fa5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ed4ba301d1b582b07b762f48733beeecf5b9168e6341136131ad260ce9a3224", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a23bc63c6f6442ab75bc9e99c26ae760aad71e20e80775316b214227cbcecd81", "verdict": "consistent", "reason": "Monsoon mechanism checked: education.nationalgeographic.org/resource/monsoon/"}
+{"prompt_hash": "77e6a99351547d15c50c012ca47d785dd7c9bdd7be1f7fdee4c8ac7abf73cd97", "verdict": "adds_false_claim", "reason": "The babysitter carefully arranges a blanket around a 7-month-old's legs in the crib and this is presented as safe. AAP safe-sleep guidance (healthychildren.org, a-parents-guide-to-safe-sleep) says no blankets or loose bedding in the crib before age 1."}
+{"prompt_hash": "fc38fa5bf5448402b1648fa4c65ce58918c3ebb8a5c0f39582fdce72b8492b0f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "122cd3f9bb77717a894bfffb62e65eee8f23b0c026ecb187b2ba0e7228105c98", "verdict": "adds_false_claim", "reason": "The story says the 5% threshold explains why Greenway got only 6 seats for 11% of the vote. A threshold gives parties above it more seats than their vote share, not fewer, so the mechanism shown is wrong."}
+{"prompt_hash": "83775a3d04bf2896333c8da4b9fff3fdc7d77ceab7c2b897af33d90882e3f85a", "verdict": "consistent", "reason": "PolitiFact 2007 and Truth-O-Meter scale checked: politifact.com/article/2018/feb/12/principles-truth-o-meter-politifacts-methodology-i/"}
+{"prompt_hash": "6f6bfd4d31db648753f968dc75c5fef94367fdd72427bcc8bedba0f22d6e60bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0838c1c44a12874f0e1db0c7b0eb0f1e3eaaa5b1c09545006e57e1f46e9debb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fc17ec91b2b253e918f18b050e27f39448a23662ce77e8dac6e206165f463b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b054c1aff61453119a8e04971d2b90dac80541f336ffaa10d02461aca555c4d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cccca3fa2a2b6d1b4c321fe8c4357efde7384f5a28c449a9cf5cffe4ea192044", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7485fd1d2366f6f6db76e31871f47918b98beca6586fe749de8a81919d7bfb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d2f66e23e336c72a97233381af1a731f1bd539ec625dd0ef69c862e21ead57c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91aa58206ff1607e81b812e77a5651139656fa01ded61c25a83b9b2aef88899c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad89957dcfd352187650fd2396df6ca60ac9c4e8b31bbc25442b113e58871157", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b422fc7cbd3e397e30de557117430aaad461e8bf9230a697f51cff8bfd236ca", "verdict": "adds_false_claim", "reason": "Sara counts 11 days between Ekadashis, and Grandpa says it comes again in eleven days. Ekadashi falls on the 11th day of each lunar fortnight, about 15 days apart (en.wikipedia.org/wiki/Ekadashi)."}
+{"prompt_hash": "6e54b5d97eff23c2ebc0f61b40c70b6d46cf073dc38e7971a341db1f9d74280a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f4c10cd5c20fdc1f2b657d46c4b156638a38d85db84f514701a44baba80de6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49e7715fd8e0b0a84f51b21ff57d8688e9a7c72729b7938c9f465f560ad97ac4", "verdict": "adds_false_claim", "reason": "Zack is described as fourth, one place behind Anthony and two behind Karissa, but later Karissa and Anthony are first and second. The rankings contradict each other."}
+{"prompt_hash": "70bcb9e152f01de11177bf86fa58fec309350b689f924cfa2c23de86963b90ae", "verdict": "consistent", "reason": "Growth plates show as a dark (radiolucent) line on X-ray, checked: radiopaedia.org/articles/physis; closure after puberty: en.wikipedia.org/wiki/Epiphyseal_plate"}
+{"prompt_hash": "df036b79d69a8633c3e72f4385777a50d1e2b3b2f602aaeed977bb8b37a8649f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03ba9f460d2a44cb39d0d08bc116078709184c7d92dde53222e854bdcf01daeb", "verdict": "adds_false_claim", "reason": "The story ends by saying unspotted bananas are the sweet ones and the spotty ones are plain. Brown-spotted bananas are riper, and their starch has turned to sugar, so they are sweeter (en.wikipedia.org/wiki/Banana)."}
+{"prompt_hash": "51ad11ee907096bd5150980919ee4cac97fe5bdd26301c9e8e59ab2604c7a1e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6f8b6f04567c7278e8f9ce3dc36b2e851d1b4e70f543867889c645b23e9832e", "verdict": "adds_false_claim", "reason": "Rice starts at minute 0 (18 min) and the curry at minute 5 (15 min), yet both are ready at minute 18. The curry would finish at minute 20; it needed to start at minute 3."}
+{"prompt_hash": "de3c5bad2bad8ce70d0e9b2ec8cc0268207fc97c79f1f24f69c542ac20f19d57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e22d96dde33bd52cc670bba3630da67a42dacd85c4e6e1861986083814157c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "786df84c1e025ce6a7b7b08e4417ce2912951779d0d1ff01104cbebdaf070ab3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5175f158e3355f408619aab92a6cea27e1c6b5e42b3b65c8062681aae762fc3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "55c801ee31cbae9659d46f8c0008b4a04b0eac53806adc1337a8503ec8c4ac0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72902743e48f0f79441d0336423b91941eb79c924a387d84f147ae054dbb9c13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91b31b52b33cc7f764426c01b73aba63be10f16cdb457d8272cb33667e7bcdff", "verdict": "adds_false_claim", "reason": "Rosalie has $6.40 and says she can afford four baskets at $2.75. Four baskets cost $11.00, and $6.40 buys only two."}
+{"prompt_hash": "f01b3dbb6293dea4a8c0f84277cee30cd5f1a74e70c6db55672690483b77ba24", "verdict": "adds_false_claim", "reason": "The story attributes the line 'Hear my prayer, and hear my speech' and the phrases 'thou art fair'/'I love thee' to Romeo's balcony speech. None of these is in that speech (folger.edu Romeo and Juliet 2.2)."}
+{"prompt_hash": "3607072372401940c4c25bb019bf2bf5011309cdb446ca2c5645daa2d7715869", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6039d9a65704f30abfaf821d16d1bbc72cef75ff2755dcde1b09c572c1eb4ad1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c43f33d9e1c457dbffe2dc50ebac9d50d123cdfc4666ecae7cd44ad9a93b464e", "verdict": "consistent", "reason": "Shiva lasting a week checked: en.wikipedia.org/wiki/Shiva_(Judaism)"}
+{"prompt_hash": "6e8df5751e5cd4a64f28a3071a332e28d2df354fbf4a91f57928fa4b297bdf08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d56b8a651e14da8c2ec4d25476227eae00736d32893e5f0fe78cb926d0f49959", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "430f5952cda809405fcbef4c8135c2c08ba1b42c73972e69bd6c7b5cc33adda8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f640adcee148fc78c47346ffead9e92c088fa83759463b9ed783408801b9eba", "verdict": "consistent", "reason": ""}

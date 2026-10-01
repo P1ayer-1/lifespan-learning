@@ -1,0 +1,40 @@
+{"prompt_hash": "bb8ffa83383ea53f3a94c02bbc5c500f3b73145dc05ea8b8e88e70e2faadb4c4", "verdict": "consistent", "reason": "Sabbath \"cut off\" wording checked against Exodus 31:14 (biblegateway.com KJV)."}
+{"prompt_hash": "b662a1fec035d081b1fca65d4ae68ee8c79fbab76c8a6be2cba51fd6ae5e04ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9472738b454f11e8ad76071d4a590110cd40e6203b16d10d41bfdd4fc63e8790", "verdict": "consistent", "reason": "uncertain: that the first movement of Mozart K.310 has a repeated exposition (believed correct; Wikipedia/IMSLP pages fetched confirm K.310 is in A minor but give no form detail)."}
+{"prompt_hash": "ea92e5ed966f22c6f6079f2c5dfb6f315a1f0328a8c0c5ff125bd1af4f30e52d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f44eda5f03cce2a3862475b4c904753368c8d3c9f631d469347d55339b537ffb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cee7cbe4cbded7e8c9ab4ed1affac1e0f1a2e0f829810cb9d90c9569440c23d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a522dca423a902fded023d38b23b5d3facc3f12e1df75bcb2f9a133db64b1b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f8914dbb21ed463fb0cbd01fd4fee7494a05658a3dce3d41aa3b24b16eb8707", "verdict": "consistent", "reason": "Champ de Mars festival with an artificial mountain checked against Wikipedia \"Festival of the Supreme Being\"."}
+{"prompt_hash": "3df294d5a5f3f19307a2d20a85d94fdebc93633a6670ac866eef6a9080ae3ed0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "241482c820cc6cb2ede62de5e6b5959877cffa18388633737f2081e90e4d0952", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "909383ddb458d031b827819f2826c1adbfb922099effa98eb7512288e15632ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7de4c5d64333be5f2f6d7e2912654171ba57fa3b5c2998801b6ef9ca93cdb95e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7f3530595bd3fe3011336b267d1ae5cc4b46a8606f6f011576ed43bf754520b", "verdict": "adds_false_claim", "reason": "A character says the summary \"extenuated\" the article, meaning it made it sound better than it was, and the story lets this stand. \"Extenuate\" means to lessen the seriousness of a fault, not to talk something up (Wiktionary \"extenuate\")."}
+{"prompt_hash": "c3290bfc636f62f69997ac2293e34b188e2d97460aef841488cdff0d57428064", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27cc0716d5a6fa41ac64272906c74a9b0a747df19d7cab2b7155e10eda16a64d", "verdict": "consistent", "reason": "uncertain: the story says eleven pieces, two cut and one added, gives nine hung; that only works if the added drypoint was one of the eleven."}
+{"prompt_hash": "bd224ba501da39e86da86f852e02769a5b294fc677e7b85c4651031277038ce8", "verdict": "adds_false_claim", "reason": "The narrator describes the integral sign as a stretched S lying on its side. The sign is an upright or right-leaning long s, not a sideways one (Wikipedia \"Integral symbol\")."}
+{"prompt_hash": "90d3804be7f867f16240599b38634e8bf73e2d1024b2dc47a59ba13d7b74d89e", "verdict": "adds_false_claim", "reason": "A 6-point lead with a +/-3 margin is presented as meaning the lead could be anywhere from 3 to 9. The margin of error for the gap between two candidates is about twice the per-candidate margin, roughly +/-6 here (Pew Research, \"Understanding the margin of error in election polls\")."}
+{"prompt_hash": "768e8b76daa94c23c083aac2f7ac7ed20d7b6cd20d740cd6ed0a7ddafe0d8544", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd53141c490c8a01e7967fc38749a09df304ab3b7e4245329c5600fcb0aafb3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3ab91fb589186b5eed8c5a45022134ccaa8057e6ce9e31798374972f820b318", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98f4b97901f857d6b588a26452bd28965fc1e33cc367e35ea694bc4873d3634d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2bca8e36244ea6c19fe97a7283c723e3545dceccddb9d3845f9670a54a90557", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f72987ee51f81fe0c65484d2b9b6044034413397f72de8023cfb631fab85976a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b06cbe66ba491c65ebd273d55cf5908df194b77e541a24e366015ef7a7a46fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "288d77980679825d9acb2b49e8ac0512fc540fac6700587de604fc9677b74529", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79d75d48b31fc9ce13910ecbeb685f98121f0d92fc795721f8119e8a92524509", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e8b89baf81a03f61bec131d7ea7b48850d7dc634fddf87e28dfb0b938cc6d8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ecfef06ec9386687f5f1fc640a766d6b2ba39854cffc3cc47455ea782aed3a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6006b4aa4c9ab750219e2b9395840094d30b8a80908c8911b3acc31f64a790c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8534d89e3d18504966408783202a473c3c671322082adc9fc442d813e8ec5e5", "verdict": "adds_false_claim", "reason": "A field that was assigned twice and returned the wrong value is called a \"compiler error\" by the teacher and the student. Code that compiles and runs but gives the wrong result has a logic error, not a compiler error (Wikipedia \"Software bug\")."}
+{"prompt_hash": "13491f75b572933f2831c28b9067a6fe4b77ba20542e6a01d867c58c290cc036", "verdict": "adds_false_claim", "reason": "A first-time learner does full emergency stops at 20 and then 40 mph in a parking lot, and the story treats this as a fine first lesson; that is an unsafe practice. She is also told to keep her feet off both pedals in first gear and still reaches 20 mph, which cannot happen. The braking distances themselves are plausible (RAC: 6 m at 20 mph, 24 m at 40 mph)."}
+{"prompt_hash": "a544ba0a3a7b5394d6d7c33f67ee3164f04532f6be26835a8b94003c8a482e91", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f31964b02bd37dad374de2c2d137c00d1b0e4cd78db6fe79c6da0c07804e4851", "verdict": "consistent", "reason": "Plant temperatures of 400-500 C and recycling of unreacted gas checked against Wikipedia \"Haber process\"."}
+{"prompt_hash": "9fe9fe7d6b78af88dd4280efb4ba960d0ef3d6ba9cba58148c80eef114acafae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "984fcd8b2af874050e7009063ac1197fc341a16a82eb633554201e7cbe61b614", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f970842d42f76ba75ddeeb8b35e5d1210bfec2ca4cd490e0e5bb068629010212", "verdict": "consistent", "reason": "ProPublica founding, donation funding and first online Pulitzer (2010) checked against Wikipedia \"ProPublica\"."}
+{"prompt_hash": "e01aaa077aceee3a93ce5354d70eb3a9f572946e4fd3172f640620d2d3939ada", "verdict": "consistent", "reason": "uncertain: the story mentions W-4 \"allowances\", which were removed in the 2020 redesign; the story does not give a year."}
+{"prompt_hash": "0fec56cee8d8bbdd972aa6c0ea5b091da6a71f7b317d8961318b9efb2d236908", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "809cf36c4522ee55de6bd714c72bdeb9cf4c995837332c3b4d62a7b7276e50a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8451a13fd43bb333b72356d2de59ff1d93989a39d2d663c6a3bfd589eff1a064", "verdict": "consistent", "reason": ""}

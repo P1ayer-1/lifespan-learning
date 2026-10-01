@@ -1,0 +1,40 @@
+{"prompt_hash": "103c97042b74ef9d90b5f07dedb26fcf808c9fe7f967938ecfe4797dd7d32648", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b88192e872d6800c043735e2e8b33435d455b905229b6ee085a4f31adbd109a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b93bb9478c0c1acf7ed40248812246f647f0f7f4544b32ce386393b4d209b63", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e3c4f8c729e08055581e509963996a64d9c2ee8d1179776d8331df1ea75fea7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e96aae6dec3e5f20577c883c9fc03d12f7b2669290f77584e8b5f151ece009cd", "verdict": "adds_false_claim", "reason": "The father concludes the .250 hitter with 104 walks is on base more than half the time; that would need under about 208 at-bats, and OBP above .500 is among the rarest marks in MLB history (Wikipedia: On-base percentage)."}
+{"prompt_hash": "2890ed076d89963dfdd5e4a1cf1647ec552832cddaf88c9b678e4a57e4b680d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd088bdcaf8bd3f82258ea91b9c2f3c02f2da2577e86424e159ad9a498f8b3fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bcce94aed75221ce78ed14e38659eefa2a4681669ee7f5fb7db195695b573519", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69e677e2aba3246eda1d5871039ed6a5f0cb4b53f2e98a9e084b09d1f4927b7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e750eb16e236230f8e63cea33450298568ee283538eddcff4b1201beb54faf2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b590bcc4583dabcf548661c8dc4f89c192a7f9033dd2e7538e6ecde43cccc6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b851550d6f142f1f5f0610ef3f0b8616c7896091b45fbb145243fc2c28b436b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a12bf924ac2423a70d7dbca384a83f91aeba5e4835c4112d0da0576580be0b4f", "verdict": "adds_false_claim", "reason": "With only one bulb in the circuit, unscrewing it opens its own path, so it cannot stay lit; the parallel-circuit test shown is physically wrong."}
+{"prompt_hash": "e26c0aab0570953ec0fc93a95f632ed0fa47d484e6bf057c4a841380e0da6981", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4be70e7d9be0f086ba732e97b28a46e832729559caed69ef6bdd5116c8feeb08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d6a9125ccae2ad717663d3359f3abdd1119cb0943bb05260fac36217935f830", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a18a6af1f5c832ebe92bb2ea25da6ccc2784e321eae7ee22f33432e72d72cf6a", "verdict": "consistent", "reason": "uncertain: story says 'today is Eid' while people still fast until sunset; Wikipedia (Eid al-Fitr) says fasting is forbidden on Eid day but Eid begins at sunset, so this reads as Eid eve."}
+{"prompt_hash": "eba41d71ae03159ff5d89ae2ecbf689869a93cfe2aa425ad63a19f71b63aacd6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba94aa89ebe0d2048f1296bc5dc43263b444cde7e2eabe2ef5412cabbb4c1b95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ea08d33157e4e25642b7b762d1287d99c2a0a2fdaf8754a55fd896b2b0712a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2fcb3520ff9c76c43e9ee00b1c4f5e16cf2ae87fea21b1ee9deeb53d09747e87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3403f6c00f17972422f3a6082e3333487e88c3b7c6a341d38b085335bf1021c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a805127b26d2e68d528cd2c1550846015977b5d096aacf513479e1d3649a67cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac4852b7d0a158a4e32775c78634e98a6cc3b3ad0640a6d3a20e4d231439aeaa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a142126f72d753ea4205d34fc59aefa1a621491281eaa12b7d6abbbb21f653c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91eeccbf1f80e39f096dee45376ea617e3ac078d544fdd0138224347234116cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84a7e8a6e947e42a283b8bd425724c6e13f4325b0f1e2e9eca00b3dd97266823", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26c77caaa3266e52f3e7a14973ea2a6cab77206dea9d69bb6a7794d383ae8978", "verdict": "adds_false_claim", "reason": "One day after new moon the boy says the full Moon is a few nights away; full moon comes about 14-15 days after new moon (Wikipedia: Lunar phase)."}
+{"prompt_hash": "6e8e3a64985a42d7fa3e4e03e5ded9165cfee850ef8ca37e9b1b45113b345681", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "122b22d4ad78807b0afa13c75a3f5dfca69ef3cd4eb9636168cee2d091491b9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f467c583960d4d6c7eb4d0232332c613f5f96e6f94ef1f47c6208d4191c53db1", "verdict": "adds_false_claim", "reason": "The final 4.31 m jump against the 4.26 m leader is called a lead of six centimeters; the difference is 5 cm."}
+{"prompt_hash": "6abc7ef6d072efa401391f8b0b437ec3a0f8610d401356c29947235a03bcb372", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2588c2b11e212135c2e0e38ee373a51e983708bbf970c8942209ce3674e86ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df49d66c0f11cf977947069e3692bf3c5cbe2322d23bc7a471a6562996b14e7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "844a8fc086b2902d061265463e292937dc55d559add05a39a7acbdabc2628508", "verdict": "consistent", "reason": "Ducks eating duckweed checked: Wikipedia (Lemnoideae) calls duckweed a food source for waterfowl."}
+{"prompt_hash": "9a9539f6155846bc65498c51ed2b6bbb810401a60617fa75c916574c5ae32b93", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "379e1806e8088c6d591feb98f05ab8a38c3ebc037cfbf01cbc21cb4a9f85b37f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "311852684854dc0bf2bdbd3f9118cbdcd9785838af2e597d794f2bd914e5fd69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c51ce9dea74f547a72ebe0b2b3577bea4f397bdfd5eb25ca7a98d79f3c1fc66a", "verdict": "adds_false_claim", "reason": "The brother is said to grow four inches in about two months; even at peak growth spurt kids grow about 4 inches in a year (KidsHealth: puberty)."}
+{"prompt_hash": "aae6e31f3000ba0c1fe3ef3ee522719c87c0a4ba8b5836b7744b33efda4dcd57", "verdict": "consistent", "reason": ""}

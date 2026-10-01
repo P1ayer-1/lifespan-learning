@@ -1,0 +1,40 @@
+{"prompt_hash": "2b46c7f24df036943a23458431844732c9e1f27b53b191467e936655dfe02268", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e261fa684df2bd86efb2070f2996d23ac6a645607513c4f65addc6edb9fb4b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c060bee6c19621cdfccd8e239bd28871be47f07bcdba7745f45076169d188a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8f9ecaa94c471ab5448da82d280d056837784420584091b18d9bc8326e7f2296", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bdd11e85732ae1320754ac80e205a9a077dd881d9480fe9f6054361b8127025d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84fe5ce3473c478cc10ac00066e9092cc87b8874d391197f80507b492367d99d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0d0e613dddeee9d4f1866853e343d80cd71321db02992b3e6e962402852592d", "verdict": "adds_false_claim", "reason": "The story says (low+high)/2 overflowed on a 200,000-record list. A 32-bit int sum overflows only near 2^30 (about a billion) elements, so 200,000 cannot overflow (Google Research blog on binary search overflow, fetched)."}
+{"prompt_hash": "5ec850c630b49ec8f85c87fcd1a44d4ebb2c59b002a62a755c9cbd601c7b5eef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f0201945654a1eb6b28f08c45c1e4c048502a025132ffdd4acd31f8292958df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7fa3778215dff523fe68078022264b6a0164b410c93ac84d3209b2dcc6db4582", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aafc41e782b000579a82da182157a73e59bcc59382271d8164dbaf58407e07d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0997c2e3338fe04f26df313465181b1a865087f3a84a17b7adceafec1cd53298", "verdict": "adds_false_claim", "reason": "The story says low+high overflowed in a million-item array. A 32-bit int overflows only when arrays reach about 2^30 (a billion) elements, so a million cannot (Google Research blog on binary search overflow, fetched)."}
+{"prompt_hash": "6271d3f9d0b6f6fed1710b89e2a277ee5724b42095ca404ca9b5386b8c011879", "verdict": "adds_false_claim", "reason": "The big bag is said to have more grams for less total money, yet a higher price per gram. That is arithmetically impossible: more grams for less money always means a lower unit price."}
+{"prompt_hash": "d3bf707ec3631fee7ee100e99e58b7b95374d45b6c60d030175292e0db4e4833", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8832d4ede3090fef5a6e09f6e6cefbb044eddf0a6d311cb94962087f41752ed0", "verdict": "adds_false_claim", "reason": "The seeded test smear is said to set matte, which the story treats as a sign of success. Well-tempered chocolate sets glossy; a dull finish signals poor temper (Wikipedia, Chocolate, fetched)."}
+{"prompt_hash": "ecfab98e7019e5d69c0625bf070678fe05c024482b08f67a57733302be846019", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07ac9e0a6835769b10a02416a2b1f210c35bd70ad7fee68f3e2efa4741f084b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9687ae695dcf7fa32fa7419fa22a50cc4476ebdfc0beacc3ba3f533cba8cb34d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "227c317f338913bbc0cd9705fc97528e85f6d1626326bcb336be19e967c67cde", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f86d701ed173480f3c1d91a653659203df0d3e417b7fb17e1ae6601a42e1d6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbf1d376bc3070b25f55c97e502b35ba439292689ba7eb2914dfbbf79be9b166", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "807db80ebab3dba556d84ab89c3d84cfb61162f87c6ae1ae5dba574b5adad468", "verdict": "adds_false_claim", "reason": "The study is said to have followed the whole town / everyone in Framingham. It enrolled a sample of 5,209 adults aged 30-62, not the whole town (Wikipedia, Framingham Heart Study, fetched); the risk-factor fact itself is stated correctly."}
+{"prompt_hash": "bcdb5ea0c110f87336b7e3d9122064b42c54080a3d058b88f83aea84e8b56fb3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6e5bb7a6f07b687005dbf352fe8a5bead1300b4096080f60a653e1ae6e2999c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe7611ab3af18f33f7b24266223652fd03a1c0596660f529fc2e2bcb17d650b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6d1f206d3ab237c7ccd315d190f749df634ea74b260f2244a7e6d34f1be5d61", "verdict": "adds_false_claim", "reason": "On a five-year pyramid starting at 0-4, three steps up is the 15-19 bar, not a 'fourteen to eighteen' bar. The bars are 0-4, 5-9, 10-14, 15-19."}
+{"prompt_hash": "4a6dd11727004cca35f2b8911b3b4ab5e3f292d6ee11639e36645ce95a06c938", "verdict": "consistent", "reason": "checked: Jane Eyre published October 1847, harsh contemporary reviews, inheritance from uncle John Eyre all match Wikipedia, Jane Eyre (fetched)."}
+{"prompt_hash": "c0005b8cc742faeaa1895a9499f02269f7fe06c0ebb73de4d56db9d9198dcf2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4bf4929e3b808d08396cfabc724363a47946d0559abed339e512672a01e0878", "verdict": "adds_false_claim", "reason": "The narrator says participants 'watched' a quiz show contestant. In Aronson's 1966 study they listened to tape recordings of a College Bowl tryout (Wikipedia, Pratfall effect, fetched)."}
+{"prompt_hash": "ace4f18ca5b9ac99695faf700597ff8430fc48ab7aea33d1dd8d861b4333eba9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f53559d8aa7f561b7bfd00ea698a560986844c1745191738f4874a2f8fd6b03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c1e22c39d00752758c2afa3a75462fa43ab498d26335699e6b34df5c342a580", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c75b2cc2ccd04064f125950b4d3ffd8eb56aac0c2790a7c376385ed89066b3bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d71dcecfdc388d6f09d49bbf9801078c126e61184f89770138d6b452d665315", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b22b91f02e48d5c2e817b013d35fd721e56e0e8a91722aa7c5c04d2f51cfe7c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8685847f783fb2a0f79e2a7cfb3273aa295f1599041f93eacd876beb4115340e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1209515eb7d8aa81b3c7d741773bc27e8ff5bbced05b206fbd08fc66396aa6c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6468723132550db4b0635709a7b228ced341c877559230c0fc9bd49cb4ef509e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc1b80be787b32ea8984939df24383041c377a89db64646064c0070cf1561286", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1fd268caebfe8130986df2e99e6b31d4098b17d1aeb98eea4d9b436111ecfd3e", "verdict": "consistent", "reason": ""}

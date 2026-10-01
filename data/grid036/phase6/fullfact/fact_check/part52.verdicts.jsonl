@@ -1,0 +1,40 @@
+{"prompt_hash": "59e3dd5bbf8425fe6cb69be637004a7521f639875401c48b89bef03061f62fde", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "35d7254544285f85836d03a9b42ff91ec21c748acaa0177e9a8e9985d1779c0a", "verdict": "consistent", "reason": "uncertain: narrator describes a print of Fuji through a round window in a kitchen; Wikipedia 'Thirty-six Views of Mount Fuji' confirms 46 prints and Thunderstorm Beneath the Summit but lists no round-window print (closest is the Owari barrel print)."}
+{"prompt_hash": "a5ce2cc0441b5cd2347951049bd10159f5ed6b43bd9f26c695d6946882eefb09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "78893af9ae73737e7f3efc61aeb6d4c3923219ee771709299f4137137ceb215d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51bca03b70f58e22c60f44cc3833f15ffba19aacc10571c1c653170c38071fd7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0335c58a4975af46cd8818e7310d9067daa1809e6ec497ede1d9bcab390d7b97", "verdict": "adds_false_claim", "reason": "Story computes the five-week cap on 600/month rent as 600/4x5 = 750. Tenant Fees Act 2019 Sch.1 para 2(4)(c) (legislation.gov.uk) defines a week's rent as annual rent/52, so the cap is 7200/52x5 = about 692, not 750."}
+{"prompt_hash": "9db62f52f8f4de3add0dcdfc5c3413e4ccd6dae87e17876e62e64f091644068b", "verdict": "adds_false_claim", "reason": "Story says first finger low on the E string near the nut sounds A at 880 Hz. The open E string is E5 (~659 Hz; Wikipedia 'Violin'); a first finger near the nut gives F/F#, and A5 is a fourth above, played with the third finger in first position."}
+{"prompt_hash": "2b2c88c85ce79376e5de2dfe9db7d3406ccda676bc77ec5225d8c0d881586c13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b860a30d41c223bbaa2f84e19b982354a7c60a09272587407e7a830a48ff76b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9448de7cd37298b9612439f8608f1e1df6cbb61f539f50b032bc87f14343c915", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6070764a34b47198cdcc0b7ed3d7692ca98ac6501f4bb25cd99cd9cb666a3c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3cd2cc1dbf04c2c31dacc9c5f1ed3a60c8ecf64cca6eac12ae74bd458a22583", "verdict": "consistent", "reason": "Tempering temps 45/27/31 C within ranges in Wikipedia 'Chocolate tempering'; sugar bloom from humidity/cold per Wikipedia 'Chocolate'."}
+{"prompt_hash": "3cb0a138ec08a4ac532d9457ee51956eb4c61bd10091c91a8d956954a364f7cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60947acbd57b533cb6b375525011bde206943667cc0fd5d8cb109cdfc73798f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df7e8f3f00c9cd268c7b60f1729484ff2ec8265c84a9deaa2aa9ffce549bae43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cfb2981a5679d23e4de7d23bc7f320a030492e32291864318018ba58ce135b82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e43adad814316c0ad225bb5f7c5333b7bb2ad38e6bdfc27b28ac6251f01d246", "verdict": "adds_false_claim", "reason": "Story describes a century of CO2 measurements taken on a mountain in Hawaii. Mauna Loa measurements began in March 1958 (Wikipedia 'Keeling Curve'), under 70 years."}
+{"prompt_hash": "14eb8491b95753b3f42bf8617bd52429f2a90c04164338634b4cde7fb6ff355a", "verdict": "adds_false_claim", "reason": "Grandfather calls 1983 union membership 'half the country, more or less' and the story leaves it standing. BLS union2 release (bls.gov) gives 20.1 percent in 1983, about one in five, not half."}
+{"prompt_hash": "a8cdf31ee41647e302dd3b117f84a74a96a5941c567a84944cf40b6c37ae9799", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e51e492dfc166c5e336aca67a0f84461444c29fd6d10ae69da5ae639e6218862", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3fe8e95a231078e05bfbb357ed9713ea5fe526d291e7b00162bafd429ffc5bc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77924fa042a783b33b204167b0d4ba050ae951d7c9321227e60004c9f8d9d76a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99dfdc27bccfe6f6d28b2456521ca271475be7e2a93ca66bfbb3eecf11f4524f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45d5b5c869dc6a34f046eeca2265782444fcdcd1b5bb319cf09df83e4f371f5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "948c6b06da6ee85c006d0333b703e19e65af2f78acb1198793897d93deddb137", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a215d78027d8e17f041e139db6d2ae16a00f5f10fef703410b3364c31be679df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "630dcc19825532769c3d6c76eb21f864fda5d424845f177a332448729d25f96c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a243d323557764f4348bb587dd38c07c87cfe872eb2f0e1d510251d9a55ab058", "verdict": "adds_false_claim", "reason": "A reader describes the steamboat-wreck episode as a con game falling apart, uncorrected. On the Walter Scott wreck Huck finds thieves plotting to murder a partner (Wikipedia 'Adventures of Huckleberry Finn'); the con games are the King and Duke's. The 'praying for the wig' detail also does not match the book (Huck prays for fish-hooks)."}
+{"prompt_hash": "01bdbb822fa1084d120ee86fb66cfe47e775b2bd87c3e47e69996ead29969c13", "verdict": "consistent", "reason": "NO2 darker when heated; N2O4->2NO2 endothermic per Wikipedia 'Dinitrogen tetroxide'."}
+{"prompt_hash": "fb9e696c24f6415e46c3fdae4d1c23ef784c022ba199f7e5ad6da32a26242790", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71f5bac34cc2a319c2b4b56c666bfbb2175996298eefd36cc7a6c20442cf2646", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93030297f494e4161b7463d26113c213056dbccf5460c1c3010d7007336ca2df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee4f3567c03f5b6bcb66761f9a6050abcdbc521cc723e47420f0400503c94404", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05372fb45032e85b7a03693f6abf1529640b676ed6901ba0021947a6c95ed10b", "verdict": "consistent", "reason": "String tuning G3 D4 A4 E5 in fifths per Wikipedia Violin."}
+{"prompt_hash": "8121913c89f7fbb5ce7ab66933d01a06beac320d0173cbed6968dc3394a00aa0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84a3eebea80a2f44a8726340ec780fb0e11b3343d2b55a2d6a14343337185042", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f5360b90ad331a1a30adb4f9eabb1a40588c3c170617e922bb41e8b9f4d2162", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6338d0e5b521950cc4d174efbd9e458b0fe04e18160167e348298921272d4485", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53f19cae4ef7327f41a3ee12428bcc860f771a837c07e67dc4bab7c1d3f8f726", "verdict": "adds_false_claim", "reason": "Narration says Poe's narrator claims over-acuteness of the senses rather than any disease. The text (poestories.com) says 'The disease had sharpened my senses'; he denies madness, not disease."}
+{"prompt_hash": "5d95f1d9fe84222e52a6ad35be8ac3177a9226ff4c01e9c30b961d234a2b9e17", "verdict": "consistent", "reason": ""}

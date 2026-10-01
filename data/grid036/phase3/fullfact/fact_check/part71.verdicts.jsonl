@@ -1,0 +1,40 @@
+{"prompt_hash": "ca62cd2cfc2351a86a3e36ee52ea9ccce8bd18b1e5235f1dac63ed78f386fa3c", "verdict": "consistent", "reason": "checked: orthoinfo.org care-of-casts-and-splints (do not put objects into a cast to scratch)"}
+{"prompt_hash": "c0031df343d0e14065fd70966ecdf14390b660f73b5edd025164ab69386c191d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b72adad40216f01e2823837285675c2ac1c9079eb5ad938d0b2f4981bc24fd8f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5045a9d6bd283719d0ced491a0bb5d81d11d18a9f5ae8847783357ad4679de6a", "verdict": "adds_false_claim", "reason": "The story places Johnstone's status material in chapter five of 'Impro'. Status is the book's first main section; chapter five would be 'Masks and Trance' (checked: en.wikipedia.org/wiki/Impro:_Improvisation_and_the_Theatre)."}
+{"prompt_hash": "66234587d218dd6c94b76b7f9f0ecf7b7c6a4843c23ab58481bfb24d348569ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a8b970fba0d4621cac7d6d042cfd8a002cf333030ee1c4630070b9664c598ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79a9521293958a947c9f6c18492fac6dc088e13d405d1a89643658d6866af4cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f70710a1da9dd8584c150482f217e10334f80a39c3752db79160d7ef4c39991", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "252aeb6039c431b2b3be5efc9b76a11d9ad139ad3f634434332de98737cbbf0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7841e8d155194ebf20fd328afd415d60350d1a3650f7e005ffa76a2327ff868c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "764ce9b3e38372c9d3b01481812c84b552fe557339766ee71d485a85a4424843", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56fea18af410aa2c1cdff535befce7f454788162ede01733acbfd7cd33baba84", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e890b8744d20f2693e6eb2998a0f758ccb37d5e772067bbeda7e5f91a47d43f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Battles_of_Lexington_and_Concord (first shot unknown; witnesses on each side blamed the other)"}
+{"prompt_hash": "4436fc2f7f1bf544dca3f2d28826f35c6b4b7394b5f7e535106c1253d9cf3288", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "652dba232622125203435dbb20ac034602296cd294561251d7084377c5926d3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8de7d70284b6a942ab6aede03cb17888ea50a876bb3baa0a6c017e6fa823b9b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7e828e2cbc346bdb634f3ab964d03b95c5e6adb62bf2d36ae85006b1dd33f81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6bb90e12478373beb41703fe8a51194b21e4bb0bef03a860d47e086bbb5a420", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "102ddab3bbae3b720ab0c070cdfa2eb38bc92284a22f398ca014e940b76fafb5", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Passer_rating (scale 0-158.3)"}
+{"prompt_hash": "b0d8d1b8a7c7dedb001ba39e24e8bbd7dd828c0efaadc8c35594abaf2f1c05fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26e18dfe122f0e8612e0674ee68ed322aa0142db2a3619f24b7ac41787c6fee1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47ca821b848bd8829ad2fe44dee68a250b0d025381c70b6eaf6854b729f26370", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4071d0e549d7628440113d408f2ba7fa533ff13e3fa8d29fcfbfd95bcf592824", "verdict": "consistent", "reason": "uncertain: the doctor's 'one short arm' overstates the risk; most growth-plate fractures heal without lasting effects (en.wikipedia.org/wiki/Salter-Harris_fracture), but it is framed as a 'might'"}
+{"prompt_hash": "4da1032e9f720a399808461981b402f9de313885ef47586dca0a78604298d63b", "verdict": "adds_false_claim", "reason": "The worked 1=2 'proof' is wrong. Dividing (a+b)(a-b)=b(a-b) by (a-b) gives a+b=b, not a=b, and plugging a=1, b=2 into a premise of a=b makes no sense."}
+{"prompt_hash": "d42df818a9a311f13af4af2ee5a330a3c7e685422668f33690710e9db8fd22aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df9bac365fede0a535a894497085ca2292fd9df30937aebdc3d1f5035d00c3d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cafde3e68d85ab440dc0953bbde8985bbf60b6369c94d261104575723d2bb055", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fab1113273916e0ba6610b735747b0df0d8a1cafc323bf21813e6440ddd4ec27", "verdict": "consistent", "reason": "uncertain: the student says afternoon convective storms are tied to the equator and the Sonoran Desert never gets rising moist air, but the Sonoran Desert does get monsoon storms; passed as a grade-level simplification"}
+{"prompt_hash": "05dc7a54fc2c8d15f6a6754ab69a31364f5c5dabbbd49b43fda71e6a8d521275", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d86e676ac47bd38b1b96bbde2128e5c1d6589739206f66f125cc33eb0d66b24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01f7de76fc6abf6800a04e43439da40645ade84e52c9bbcaa7df63d1b644d1e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f6ba5a84f925059463cda8fcd8458592f2c5f1c034b405b2578a5a4e77e9f82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f919e8665e03c198e5558e538581a475439aec76fddb21cd0afa196e8e72ed71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf679df06230f8544864ffd06645d65754a4ab48c6cbc39315cafe14a47b110f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62aabb731abd2c85dca13d159bed54231e7f8b4651761d09ee6abfdadefeb6c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d166abe50c3601c92220a4ac2242643deac56749093edc83dbfb940307abc6d2", "verdict": "consistent", "reason": "checked: myjewishlearning.com how-to-light-the-hanukkah-candles (Ashkenazi custom: shamash first, then light left to right)"}
+{"prompt_hash": "52eb1fc0d0599631510f10c01322740a3d10ef1e155d09daa295c81877518c34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6eaee05373b4056e81b25f148e30de32062e1fe9cec3d527b4182d5c1ebdc81b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cd20dfc53eaf7deeaf0a478bf882206ab84dc3fe44afc380e57c921df1ce608", "verdict": "adds_false_claim", "reason": "A trusted peer says everything in science is called a theory, and nobody corrects her. A scientific theory is a well-tested explanation, separate from hypotheses and laws (checked: en.wikipedia.org/wiki/Scientific_theory)."}
+{"prompt_hash": "4b16cf407ecc7dca9499745648a62e13719275ec0b6e1ed0cb5f17f87447c30a", "verdict": "consistent", "reason": ""}

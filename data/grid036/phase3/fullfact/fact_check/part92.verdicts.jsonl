@@ -1,0 +1,40 @@
+{"prompt_hash": "a66638187f3ee58e2df74b9edcb18707658ec398232803a489db115f334ceb91", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5941db126fa756a0a33edeb795a16b2c94806f25039a2873003fc59e3a610b19", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4692514b3641b80f3a4913674329427a536cbed6c724355d8d602b11b55fea5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "887132352e36cd680056e96e7e679fea773e938c383cb7e7501f13715176ac69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd9e826c7e2171f75b88050fe038dfae166ad0d4846dd5eef0e5edfc09ce599b", "verdict": "adds_false_claim", "reason": "States Manaus sits right on the equator. Manaus is at about 3.1 S, roughly 345 km from the equator (Wikipedia: Manaus, fetched)."}
+{"prompt_hash": "3e91899ea9c6be9de353c63ca9bbbba80655493b5425c22262b1ecf4dcc1f9a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d9d66d2e366df21fdc4647f26814055936681941924106e040bc08319e38b93", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc08544fc1772ddaf743c2ef56682154c8912a5babdf0e5eadf59f6756b91b71", "verdict": "adds_false_claim", "reason": "Says the old Romans named sodium (Na) and potassium (K). Natrium/kalium are Neo-Latin names; Berzelius published the symbols in 1814 and Davy first isolated sodium in 1807 (Wikipedia: Sodium, fetched)."}
+{"prompt_hash": "09b7544133a528cb05255a512c86618788d329741c64d34d29962018704243ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "649d1ba51bfef2a9b5ddfa2aeb6da6bb536f4c65e1e1ba9d1c4dcb4952c3538a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10f86f08844e952a98fa571765861cea61cd93ba1567053b8811734783fad63f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8935d73f09863528d3a08920e454bf0a2eec6bfc0ee5a03656d119f35f34d1e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1551e7b0793e90669368553da0524743fa9d4b4924b5a01712a71ac505629cc9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88780eb8a7b4e1ba35bfa7bc7a94ba350b7c0ce41ea23509ea2b12b566e12309", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbb9802df45efbc9556b15d9e8ccbcb5a9c061e8bbb444d763044dfb0804a740", "verdict": "adds_false_claim", "reason": "Compares 12 m of rain to six of the middle-school narrator stacked up, which makes him 2 m tall. At about 1.5 m, 12 m is roughly eight of him."}
+{"prompt_hash": "f485552de6f1c5b1a47892f1b5b31bd96a130640243e21f5e1d60b553ce68aa9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e8a88a570c1dc271de102debb3db88ea17e45337c81e180770945e198b6c611", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2cf6675d78a513107305810218f323ef003a0f90483108671608b9500a446c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b22696e784439f46a1c3da92c472ac836adbea95f88dc90e6b9bd083e8eb541", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96044f46e1c6b324c342dd48deadb2ca0b90ebda13a70c88ac0716180d24811d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a63bb5442951765fd32d476d0f6d7cf2726624fc6b7147f1525b30ca3107b0b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb9006089175395aba6952584d227ec5bd46da0b8493da25a5d681105e2be545", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b490fd3e8f1a61c78ee890a6b60f2b1e63b72ccaa0f7b396e925a46bd8aa3a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0490584ba24bd559700da7d74776b3ecc0a876f3364148ab011c15d740d15db6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1573fd0915980697471bc64acc29b970191adb7e99bcc9525276322371f72023", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17fbec67bc10da399de61a5fac9f99f03761ed7f1dd1f88c516e81e0803c4bc4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51dd18b0d1ef3f4be6a70e0145c9a0b53b7e75727691dd186d7aecd8b097546b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15463849449e607f7cba972be08d267840afdd78af13eb3731e5488ffc8281df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bfabf3dedd91a840e33be8f3a007f4ec92de4da07bb972c0707c375bbdc37457", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4138f894c4c3298674c02c7d47df3a895cb9bca85aa8adaf5aaa80e884d73947", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a899bf0d81fe1e35ddea349f7f0c378162fb9971cb48666921b8c579afb5c77f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ff78e55d02afe80eadab9ca593a9a9f4bba0f7ca184886ad1f99665d87afdf4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21941bc83e51a07d258aee1fdd7f723e4ea380f2194a573b6746212d2d67350c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6de09547bdc2c91aca540651efb0742c8ef56fda0c757583920a09cd1cfcb888", "verdict": "fact_missing", "reason": "The story says hot, agitated water makes wool felt and shrink, but it never gives the mechanism: scales on the fibres open and lock together."}
+{"prompt_hash": "f0651c7032a54c6a52ab33f0a904557eef4ac453af56cf83b8062036e5cffd51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "220a654d9ee12d04c9e48835f1cf44ef61e28283e6d26cce6076cf1b6a435264", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "232b2895c88a788948acfedf0ff5ab19b65df26cb35d070f9f1f1b7c85322985", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76dfbf1b9795f362f12e59c94cf28c97c5e4110da8d68487be27180eb93304a7", "verdict": "consistent", "reason": "uncertain: story says the Internet Archive removal page has a form; the archive help page (fetched) says requests go by email to info@archive.org."}
+{"prompt_hash": "b71bb3e45b214187e947c9a7766165ae7bb53fdbbfab6ddd93db32e8afb9f008", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8d3b8f5e8084f3e3822dcffbe71e24db0c2f1dd45a0f15eaa14e2376991c1c2", "verdict": "consistent", "reason": ""}

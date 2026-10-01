@@ -1,0 +1,40 @@
+{"prompt_hash": "adbf9bfcdd7ecf45b17b5a9229b2004457b638331aa572d5e1123409d0b61a3f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "798c95d27805395cb725ad4fef2eb28d8d85fc3a7f95935595d56442226c535e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0855a8f8761e9ac96fea0e07682b04d9f898af46fbe8814234c155f3a72de33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4981d044697d383a1dd908f31530c597d20e5cde54076b41b7015403b1a0e418", "verdict": "adds_false_claim", "reason": "Eli says four dollars will buy four baskets, but at the stated two dollars a basket four dollars buys only two."}
+{"prompt_hash": "1216f13a83dd557131e2cf53ede1b8cc44dde9a4486b4dc82ba9cbab1b1ea786", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29b7cf0ad58d2055f6095bd5c6e6d1ff4c5e449a684064236416244cf94f451c", "verdict": "adds_false_claim", "reason": "The story says the Nile flooded every spring; the inundation came in summer, rising from about June and peaking around September-October (Wikipedia, Flooding of the Nile)."}
+{"prompt_hash": "7eb7ee436d6f8843777d199266ed72643e5333f0e5dc82620953435c993d714e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6e589b756955f14ea2fa8dc030fd0880e29ec675e66e506de07cde510966363", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecf9e26a7e881b82d220ef12d9ad817db826ce693be1093047ed5a6aaca896b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "316ba1229535a93ef280349459a23e4191851f7e466ad1369fcee7846df1426f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63f0c2727baaf1f8f1692d06341d1b62ea7cd88c3d64edd7039a7ad5a00cd296", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21dd48f0a3957a1f6c31111c04c53aaca8ffcdbba0523fdb2e2b706429f1f9e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95fea087a32eab1682d4577ed1227cdc731f04873445c087267abbf579179238", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0a2b585aa4d942d9d698f3efba692bdb561fe1c23a6b9893dec39ae7fe2ebda", "verdict": "adds_false_claim", "reason": "The story says an adult hawk has no natural predators and that the hawk and great horned owl chains never link; great horned owls are occasional predators of red-tailed hawks of any age (Wikipedia, Red-tailed hawk)."}
+{"prompt_hash": "ff59c060cb3ad455eb848cccd14ce924541f92bdd5b99f334a3a653b3e96a383", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e66a114e8a3ac92bc7703af61af1615a1e64db7722f33407c05d87ee30169214", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ada2d40f7cbe8a3a2fd70301e9299c8707a6f57e9cbb6276b5b54c0f2e1ac412", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d21ca2ac0a87a1e46db96cfcf0b303f9172e3b4dc4851d1a5a35a9b296eccb1", "verdict": "adds_false_claim", "reason": "The story uses hummingbirds at flowers as an example of a shared cause with no causal link, but hummingbirds come to flowers because they feed on the nectar, so that link is causal."}
+{"prompt_hash": "884f08167922d9755adcccd79b8854712761396b261a0b6cced9b22bb628d147", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f188a3f24372dc3f947cb4d6ffaf7a1b0c3a0da24358b601cd016233edc19b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52de9f6a73b09e4331e90deff52ec36740d4256acdfcb7115b5423b431541c10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d75fa1e4c557eb0eea645779b6282a500ef1d8e8c097d93102e80df7ca9e65f", "verdict": "adds_false_claim", "reason": "The change arithmetic is wrong: $2.99 plus a 25-cent coin paying $3.19 gives 5 cents change, not seventeen, and she owes Nada 25 cents (20 net), not eight."}
+{"prompt_hash": "4efa199a2e38407f7cebbcf3494de73de9cfa9c340d01384e13520ecc90a9edb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2499539c117e0cf3ed70f3c68b26597d2bfc97ef2b8a2f1818027a992af7f3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1a88bf2402348de99eb8d818fdfc1b4bf435ec8279a96e4bf369ad95ae61f10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc647d1706a5f2c57b311512aacedc83e8ac6141d735ea5942ba80c6dc09032d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4324d2b1a1e5b286b5119cbfa15864c2c81850d7470c30a3542eda367e8f7dd", "verdict": "adds_false_claim", "reason": "The story says four o'clock leaves two hours before a deal ends at midnight; that is eight hours."}
+{"prompt_hash": "82f4053ddd1094f80e04d113e1c06d7661093c3f0eb024c33eeab2c9a50027f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7a09367da068d417d8f97e7784fc0f5fd33d27d5da33fa8e19e78322c28135e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50934d57bf1f991add8916b0a69293f2d9c6c5a1d17391d4504494d48281be5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "503279f4774a7e5710a61dec9e57734efb4b599c6c4fdb5e053b9c06f5c18f1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88d18cf640ae17b617076a16951aa450f8a48e4376e18122a4dbed323ad445a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abff384c74fe28601fae9c5882e5461cc547b6b1b7b8a14dda6712efcee17c1f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f9470aa965dad908453a2dc9a3b1d670d08a650fed02c5250ab69ce3bd9c184", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93a2e2c925450ae214b320cd9c6797806dfa0e03b7b89b1aeee97c8d19b6e4e8", "verdict": "adds_false_claim", "reason": "The story gives a blurry whiteboard (a distance problem) as a sign of Livia's farsightedness while also saying far things were fine; distance blur is the typical nearsightedness symptom."}
+{"prompt_hash": "165b325c45e143cce31b0f5d8d44ced11eed3e1909cebc2253748a2aaa6ee535", "verdict": "fact_missing", "reason": "The story never mentions bacteria. It ends on 'it was sweat all along', but the fact says skin bacteria acting on sweat cause the odor."}
+{"prompt_hash": "08d3de8b4ba69bc1f910c68cd050cc18b3a0dda3ecb37dd73245a82075318702", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de8ce45def4f9ce7e3d1a0d2765400f5e88590fe0105cb3e7f5cca41252d94b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9276368e884a539ea6caa1fcba1776b2dd4429eaa16e69f2cdb45d4d33e86c95", "verdict": "consistent", "reason": "uncertain: the steady rise in foam with more vinegar ignores that the fixed spoonful of baking soda would become the limiting reactant."}
+{"prompt_hash": "a5d689d8bc76a8d76b0e33b5998b7a3f65b3542c5646a6bce237af7773b28599", "verdict": "adds_false_claim", "reason": "In the story's demonstration a tilted pretzel rod flattens into an oval; a rod is not a circle and cannot look like an ellipse. A tilted round object such as a plate or ring would."}

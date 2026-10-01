@@ -1,0 +1,40 @@
+{"prompt_hash": "1ff2dbffb92fbc9db7fbacf50c7de9f656bbe02fec06feecfcc2de051bb86b4e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b7ccfcebb2a2f4ac49acd98ae6c124aeeb8fd42b2707dcec9f92e115b54aabe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6fd705933e17b51bb7e2f374ca3f2887c87034cfc61e680d8fdd8e38dea42a0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8854703502c23bbd8dda3fc16f71a4632e35659f8e23758f528b4ebade7a79a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "704a0a1fe5be019a9bfe6a0c6f53c657104d107f62095775c9bbfa51ce0de700", "verdict": "consistent", "reason": "checked: Wikipedia Dytiscidae (diving beetles prey on tadpoles; eaten by birds), Wikipedia Great blue heron (takes aquatic insects)"}
+{"prompt_hash": "d2d8d41727ff4de573d2e08486e6d1c8acb383661ff7c8a57e04b17307fa1d42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70d2422b9a32d17c5f349991740f737b120812dff280df621ace64753bbe291a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "079bf97aa44ced6332918262d93b6c59590935b3368dce8afc39d2d1ceee7f76", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7753e04797dd78866d42d7bdf0aa44b4a103225e84017ddf68d42c4e8bb7caa5", "verdict": "adds_false_claim", "reason": "The toy-plane test claims the plane's left wing points one way from behind and the opposite way from the side. An object's left does not change with the viewer's position; a person standing behind a performer shares the performer's left."}
+{"prompt_hash": "208691ac175d21bb274422b2eef7dd1768ece227ad6f7e82b304a60407ececb6", "verdict": "adds_false_claim", "reason": "A teacher's claim, never corrected, says whales hear each other across bays because sound travels faster in water. Long range comes from water's low absorption of low-frequency sound, not from speed (Wikipedia, Underwater acoustics)."}
+{"prompt_hash": "d9482e3cd953815a3b20ab7090a73b5f4ffdf349aea3c8b9b830ac262b0414bc", "verdict": "adds_false_claim", "reason": "The story pairs a COPPA explanation with a site that offers parental consent only to users it believes are over 13. COPPA requires parental consent for children under 13. The story also lets an 11-year-old's lie about her age stand."}
+{"prompt_hash": "8e156a509bdf01e78c1a9e0cabac9ca4a5814a49c2a41e1cfff4742461dd5640", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c767ffc84fa387803fa38531f22aeed43b0a21f0e40697cc90a07a7f16bc173d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f7ddaa97759e125caaaba9d58655a0daf64bab9f9b391e8c782d0954e69da0f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d586e45d2647db720e70c05c7aa3c21010f03e424c45cc6b6bf7315c96dda2a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63b441734aeacba980c253220159821cd0280071560a6d0697f802d3854fcbae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cddc1b1e956b956e2fc5d0af5a71034fcd6e5d8ac85b11d937d0af4b12c88748", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ce1d10a1adf47dd296f9297024b1c3b167663090019762ac225e8bb9ac8cd76", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9de8491ecb440eb69217768814c8ba5c56ef94a90e9eda5e1e50cb3638fd12e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "893e7b85599cfd9ce4e46dd8ddfbb796d100bc0b83e832ee60972d6f089128a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9b928879fb7d5cfde4eaf7997489c00e6fa8ae5403fc092312da746ad3c3e07", "verdict": "adds_false_claim", "reason": "The injured grandmother hands her keys to the child narrator and has her drive to the clinic, and the story treats this as fine. A middle-school child driving a car is unsafe and illegal."}
+{"prompt_hash": "bfe05bcc044177a0c5b44c5f00386b909969571d297c7cefa7c535bc0467501d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ad08f6fbf0fd3c82aeaf1fbee7fc5b7e866f49543d0ff893eb08a93bd1e6482", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4ccf4f90b6f869567c1387d05d26cb0d93fc51e9020da6af33d9c779e1077a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0d82bf22c3d2facdaa129c04789ae7d20e41c91ab33364fef1e5ec79aabdba7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89d2f30d5d5d17cfa813defb0f51153b5e22a456ec6d9948d89951fe321ef2cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f7b139b9415355538960d3759e1d5f5e4eb5d5fb263aeebbd36d5038c19881c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "963bd81745df0b5d5670e5d401305879fd875ecaf7d881311f8351f5f35feeae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "951ced0b7e4af2aaf82b680ed105a89d6ff87eb46533dca0a275559d096ac4a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d21c793b0e3008d0d6c456a7553f4d3ece2c6ad8c0a58be22daceeeaffa7c8b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02dc5abd0033fd0058f49d7e518a5b83a2193a1219935f65d72ac751fef2a41c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0800b20114f8e079b6789686ede9b9e35be954e49a669e521ba3b0e8fbfdc58c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71532037eecdf5f0d956aeb07fab97de8081d092042e1b0adf5451e2cc65429e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a24e2e9fbd0d3a6f634f96774ce4470a1913fcf2e0bbfd16ff0f1826617fe8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b13b1b0b75c6e50f3cc3af01ab8f6dda68151589e00d7c8951e0539ed71e6ffc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "55beba109c9dcc3ee28b4adb8918c35f916bd0391d93b942eb1fefb481d661d6", "verdict": "adds_false_claim", "reason": "The story says one quarter was missing from $2.05 when the change should be $2.35. The gap is 30 cents, so adding a quarter still leaves the change short at $2.30."}
+{"prompt_hash": "4d3b6081d221929f9abaa69289ccb19c5693392ac999afabe34ea1af44da867d", "verdict": "adds_false_claim", "reason": "The model moves the ball around the lamp and puts it on the far side of the lamp for a new moon. From there its lit face points at the viewer, which is a full phase. A new moon happens when the Moon is between Earth and the Sun, with the Moon circling the observer."}
+{"prompt_hash": "0a26d30fb7d6e2e7e67e6243279ebb531a03cba86eb2f8479777196b596c1a46", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "454def8e886fa12f3a09ca0e84930dd787b4004318f86443af401cab19ebdb42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8f93b1fe68426ca38dc2bc4e2947aca6823d9b02905b5d7fd806db3ca255037", "verdict": "consistent", "reason": ""}

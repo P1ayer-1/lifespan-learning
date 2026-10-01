@@ -1,0 +1,40 @@
+{"prompt_hash": "8f7baba38a1426e33f2b3fa40555c624fd63f29875027e0762a54f2ddb68d234", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c08952e50761db898325b4be0769538bed09c328d491571b88ec8991c5cd9217", "verdict": "adds_false_claim", "reason": "Story shows the Snap Map dot tracing Megan's walk while her phone stayed with Issa. Snap Map places you using your own phone's location, so a phone left behind cannot track your movement (checked: Wikipedia 'Snapchat')."}
+{"prompt_hash": "339f1b8f60a28a40999a816d323cf69853303c415a9842f7b8e38635d8b39dd5", "verdict": "consistent", "reason": "checked: Wikipedia 'Martin Luther King Jr. Day' (Act signed Aug 1994, day of service)"}
+{"prompt_hash": "ca24b313936da54c823cb0a1cd673e340450167739ad9d64b8c72bfb91d0e620", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68d45d70e836ded4b400f49ed6746083212bed29604f9619b432aae82a43934a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40fb1e2355c5aaf0a1e4c7c22fa1c1f73853524ed35f08ed1c4808f602a83098", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf3439ae875fe4cf465899f7337ff903b957d0798a200126404cc5f453f20460", "verdict": "consistent", "reason": "checked: Wikipedia 'Declaration on the Rights of Indigenous Peoples' (adopted 13 Sep 2007)"}
+{"prompt_hash": "2c33b2ed45ed19a2c8a8d3df3fcfe51c6448d7ac3e233c09550bd5796c1318d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83f9418243fd15d2f9a639d43a094947a6f9587f75ffb8b1dd1e14ed374c9b9a", "verdict": "fact_missing", "reason": "Story names felting and shows the shrinking but never gives the cause (scales on the fibres opening and locking together); it says the cause was something she couldn't see."}
+{"prompt_hash": "2eb77ba07848f6c11566eb03a97886a210b498639b9626cb7e27f3c87c56ff18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5ea89d6ff63f30dd4d020a0fe55951d06bda7620d9ab643b9d62bfd87b9342c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2e6fd3c5ec4eac6448a8b9117e02b184a7cd24c384135d0ab72c41a3170b97f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e079da16251e1086631cbbed8f4110353c705a79b15a3465f85c9d32459151e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65c787087786d60242589ed1c432ac47e036f22e626d25d96ef27d803d286d58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac4b2b5a1d66ee41a25a9f5a20ef255d525014a54164f09945d191bdec942d6f", "verdict": "consistent", "reason": "checked: sikhs.org gurdwara page (remove shoes, cover head); uncertain: a peer says a hat would work in a gurdwara, but many gurdwaras expect a scarf rather than a cap"}
+{"prompt_hash": "58d1a0d411bd013891bd8f0eeb0bde046b9e6d32cd7053e98ac30ffd0d6af073", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5acab1c73bb9b80eaeb7625fa762d341977130329a3e27194221b6609de399d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3d67446d884c4a870e309e2961f6f3a71fc75a9e21f146025c7815939e60fd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "410b9bc1c26e2d67f7bc377fb9a2bb02500062be4375452c0d9f4e68cb7e9590", "verdict": "consistent", "reason": "checked: Wikipedia 'A Dictionary of the English Language' (1755, influence on spelling)"}
+{"prompt_hash": "d2ab3e2c5a94293625f1c1a584ac56f17926b0629049b3407892540c96741048", "verdict": "consistent", "reason": "checked: Wikipedia 'Numbers in Chinese culture' (4 ~ death, skipped floors; 3 ~ sheng 'life')"}
+{"prompt_hash": "f91686a5e8f81a67173b4fbe28037b360bc12d3791e7c5c7b7ce6d2b4d5986dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c994aff2bce6e16de8d96df40c952ebe573d99ccf9ab67fbb252523c83d121b7", "verdict": "consistent", "reason": "checked: Wikipedia 'Panic of 1837' (depression lasted to the mid-1840s)"}
+{"prompt_hash": "63e921584c8682a36de836a26c07aa55fb38c6bb286a39840612316f432ffaef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "457e3a38e9a35525df2be6326f8a361fa9c239f62bb64efa9c60d10e49ad8d6c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ebb160d730ce1349946f4e0731d2ea0547c14c8784938509db5c7144aa832bb5", "verdict": "adds_false_claim", "reason": "A low horizon from curb height is said to make the road fill most of the page with only a thin strip of sky; it does the reverse (little ground, lots of sky/buildings). Also, a stanza is a group of lines in a poem, not a repeated line with one thing changed (checked: Wikipedia 'Stanza')."}
+{"prompt_hash": "ffcf0e0ea4a6964ee9e653364db84785f6aa95e923b6c116021e4f3a1228437d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d0a84e4d457f507bd897533a82a36c0c0e4e70832c5addbcfe84fe0afabbda4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b12b9ac937d75c4a48999eea7db321d1dd31669814448e7dc1916ec1c403381", "verdict": "adds_false_claim", "reason": "A middle-schooler's first 400 m lap timed at 43 seconds is impossible; that is faster than the women's 400 m world record (47.60) and about equal to the men's (43.03) (checked: Wikipedia '400 metres'). Drafting itself is correct (Wikipedia 'Drafting (aerodynamics)')."}
+{"prompt_hash": "fb7bebe3de438d15215da3c0bf2a865c35f6246fd10144c45dfb8d47520f82ca", "verdict": "consistent", "reason": "checked: Wikipedia 'Pencil' (graphite, never lead; plumbago misnaming; graphite not poisonous)"}
+{"prompt_hash": "a019f663e1890ccbd0e159ca4e7e1294f264a78d5a71a22fad6f3e04432c91d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9a5870977714537e7d573ba5b7f0fce4d54475277ca439146df8c7892baa2a6", "verdict": "adds_false_claim", "reason": "The demo says a pole tilted toward the light gets light that is 'spread out and strong', and that the equator stripe stays direct however far the orange is tipped. Light tilted toward is concentrated, not spread out, and tipping a model does change the angle at its equator."}
+{"prompt_hash": "11c19203ab6eefa2cbb82bbc465ee079ddc63d0b64eb34c4c353b03d5fd7cee1", "verdict": "adds_false_claim", "reason": "Axis labels 20, 40, 60 go up in twenties, not tens, and 200, 400 go up in two hundreds, not fifties. Also, a larger rainforest scale means the real gap is bigger than the bars suggest, not smaller."}
+{"prompt_hash": "3a0a04e368e97d2a570d3fc8dfea69b30c17c621dec04990df0c6602797dc57c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57fcae18d4df34b57773b564c945b3c45b3585f08c414587cdfe5bac7721b931", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c01fde8ea3efd128a186280931d7f5c1c0d2363c16d02d95524e4066ce0c5e28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "978ddc82706bb50105eb01716362b07cb44c7de845391d2ad8c19784e589abf9", "verdict": "adds_false_claim", "reason": "The grandfather's 'free land' story is called an opinion, but it is a checkable factual claim (just shown to be false), which is the very distinction the story is meant to teach."}
+{"prompt_hash": "7cabf265c463e9409c5cdbaafe758c3204b446989cb617e1e48348287852401e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3ae9e90312fe686b4639473f01021febc290bfdbedca4eb403cfc28edbe5de3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b654ec871503c891d9f2ead8a117449a36f59c7b0422e35a7c60cfa65358fe68", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27ef3ebf19499389bc2a3e9e40ad65ebf0d580ae0d6c1006355c9af016e32929", "verdict": "consistent", "reason": ""}

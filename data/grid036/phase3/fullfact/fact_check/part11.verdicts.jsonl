@@ -1,0 +1,40 @@
+{"prompt_hash": "b408acc11ca45ccfc6d8e2298b9ae73630148e90f443da98aa170b5a0c2f20f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "159c3a1d59cf2e8bdaa237de09a0f72b01a50ba766be7f43134c42976b2e52dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f16bb84f3a635e1f2480e3f264a09c7020f2f467c68100b8eaec31760fb0729e", "verdict": "adds_false_claim", "reason": "The story presents running the generator outdoors in the rain on wet grass as the safe fix. Ready.gov (ready.gov/power-outages, fetched) says to keep generators dry and protected from rain because of shock risk. Also fact_missing: carbon monoxide, the reason for the outdoor rule, is never mentioned."}
+{"prompt_hash": "b914d876d51f3a27eb9663c6cbe6f093dade665d58f4273890c42508e7fe7ad2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3251aff119ce952bff498ea52a10133011490571b21e42d021bfa2de5338dab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9cbf6e4267a0128c6ae8d473fba1d3b4f4020efc4a1a04bc6baa0b40b9b290b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aecacfc2f9e6613bc276b34c63866f8a72965b316e856d1a20fe66f9a76c950c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a05450cd6f5c77adb9bb05a30797b921b672d580be3c4483cf77b1c6d077ead6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "feb9f6c9a6babba08e56b0ba3dc9640675a9baf5a8a94ac856e256664d340fdf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96be82f002e0748fb209c79e5d1a7331ae571a334217af177c2a76697e2afce1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b44558054d177d2a495cc886adc89e759d284a589e536ee173fa43f648e16de6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a80bc54849532c73d2a306af1a9926e667d609a7a1813a963ea851d07e0608a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d52ad1cf055bb25b425096b3eba2b4349c7ceba0d217baaf0ca84d2ed273a150", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba81d6e618d9c24c7158d31136d3c34a9b95f6c6949a0e5c2e261126aec482ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b222c4837c23854b4c4d9731a8c99031683aac2ee6dca8ecf992f708d8d02ee6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f6aad18ef48448e19476255f723e721c10f4cda5a1fca3faf2bc5f1d009f8d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87fb9a45ad7bdcec77d755a0ffc9fd1dc1449a46d5a7f2a65c8c4d826605c49d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a91229858bf5b5b77a5b76bc1c65a7994fbcf6001ed1cfd5449025e3ba9bd5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5be59a57509730497407fafd3fabdba209c63c46b01b9c50f423dfc2425fcc5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cb778b8c29cdfe6cd1b6f1d508f0755e32d4edc4def1ff735958f1eee061a5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f871cbefec4cc4490baa7eb1d6dd66b743c5aaa20909a5c22491214a2d953557", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf34c8b10909ee738ceff241963664de926e1fcb6d3bb33ebd82ac6f72750486", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b496e86fed09ab7c6fc9a11557e939b9328a973fd986f2dd277ad52f30b3c209", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c15d31d545a3f969ec54a890a28f0d8b0420ec5e2572cfb68eb73b0d36ec5888", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edd116062d30e018a69d66dd47248e28851adde7c9144b88b7543aa5a8415e3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d67381db2489f237bf65424ee720091f3868bc9187c678dc84c68c2ec31071b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88bc5c6bf21349ce6a90736e6a26f9c044107de43e06982535d38bc6119217db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f61dfae1d18a8e5085953483035aba864aa9cc324a8464f0749d7245dc67348", "verdict": "consistent", "reason": "uncertain: narrator says the real book Continuing Bonds (1996) never mentions 'moving on' and has no index entry for it; could not verify the book's text or index. Injected fact pre-verified."}
+{"prompt_hash": "73005f2e529a76f47d97d4118783103e90fda7faa557f43ff744cbde3152cae3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad3c351947d95e7a7157f7fbab266ef3ce22c679dc568c7fd73a149641e35a99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "618fc16026e09718f069640af75f8d5619baa6b3e6a0b7bd8e187da7c92ce86b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bfa9ac5044a813cc412c7057f788d50d3206214761151588370a52ad203437e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da123c6766fca637ee336d579d4c8e86cfbb428125894378a57a2c62bea5e037", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b296a956da9711514c5f44557e77826d046dfb86e6348157b70ea608092409c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0a73bae6ae0f9df8918e4327dcbefc7e0f2b8cc687904f770554081b3577b54", "verdict": "adds_false_claim", "reason": "The ending has the grandmother ignore 'du' and praise 'Sie', implying a child should address their own grandmother with Sie. German uses du between relatives (Wikipedia, T-V distinction article, fetched)."}
+{"prompt_hash": "fb23fc6e59ca9b8b77a55328b5f655ca0e54bb4e4c8713a0aaf82c44f0a14de8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "503efc0502c05564980193087f616fa3dcce73b850120b4e258e037946bcfe0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ac99cac4541eea397222ac9c4e7a310d812806f595fe43d0575769c91bfa0e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa39ca146d273cf9e723450f0a91fccf8c12133a8cdf6e1f499fd168861e2107", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdc67a00f473556e60badc48b1503f12486f81507389aeb34ad2eae9046272eb", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "ad03e44d64a0cea39f233ec72cf6a2e7ece6899af8e2529b36c880a88d89089f", "verdict": "adds_false_claim", "reason": "Story presents a UK bookshop receipt as showing 20% VAT added to a £20 book and says prices there exceed the sticker; printed books are zero-rated (0%) for UK VAT and UK shelf prices already include VAT (gov.uk 'Rates of VAT on different goods and services')."}
+{"prompt_hash": "999bf34765f356eab604a6258043ce33213117714cdb089fceac8ad83b58dff1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70202c034cb0224f84b96949a4c1784f180d1daddc83432e58608d6d9dd8a9eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f4f0fff9d6d7db555ed3055976d43da8cc3c28a16cc52fbb64433a3de551648", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9283606a927f9cc8159e388d7cf8f809ceb18e305cbfe26a68b46284026fb359", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e8f3c698ccb485503f3b4d0af594ec756c01750ce525b8a25f7d3548edfe456", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bfb92935838c99cbc8edd7a574b240bad031542b31a956cfabc27bb4d8940523", "verdict": "consistent", "reason": "checked: Wikipedia 'Stanford marshmallow experiment' (2018 replication over 10x larger; effects shrink after controls)."}
+{"prompt_hash": "04b125a9e6826b994e624f29b3c1c77a24ddbedb657e05c78fc28c09ce0625c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d9d4a6bceb42fcad3b8131f330f430c7b7dab9c844d98cad4b82accddd42b21", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e977cefef6d07e5b9a306968bc5dc343cadab03df2e319942f302b40ebb1218", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "535cfe191d9cb63efab9f64cc6e59827590a3786e8b05d4e0995d5f4e43cb1b6", "verdict": "adds_false_claim", "reason": "Friends recall Eid in August four years earlier and November now, and the lunar drift is offered as the explanation; Eid moves about 11 days earlier each year, so four years earlier it would have been later in the calendar, not August (Wikipedia 'Eid al-Fitr')."}
+{"prompt_hash": "f984bddd9826de1ce9fe0fe0eaa97e43e1388898190f8fe1f4bf46f601c75d6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "058e4eb6eaf1f74c3a9ca531f66a983b98f7fd82ffc6d43be2018378982db971", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1cacf85bccb29bc4d1dc59482c296cc0d720aa1ad465f3c7844bb144d05394e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "573f479df8b057613d8fd337ac124d9b9342a76de2b8c1d4e85a1f924d5f5b99", "verdict": "adds_false_claim", "reason": "Story has Croatia equalise in the 39th minute and Mandžukić score in the 68th to lead; Perišić equalised in the 68th and Mandžukić scored the winner in the 109th minute of extra time (Wikipedia 'Mario Mandžukić')."}
+{"prompt_hash": "fd73aa1106a7ee1482fdd86fd39172dab370f34c41e2b8fbdfb259a8ff1ab95d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7f5af90a9a98f1e995ab6f1b6fc12cda75b34c2c8d2565993d1fe393272b7f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "449009494efa6c1ea094f1209ae9e78bb20f578dc93a67987d711eff8358ab81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7c53e7e22dc55ac63b8a4a315936c47b73d4e22678d4717f1206a15451b8000", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c27a819200d7c9ace37f4e1157f248f207138c32f93c8a5747144c14501b441", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94f7d13596a17ae897cabcbec3db79222991a99a1b632bc5138f6ae2770c77b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb146b4f1d05321b876918b34146e716d2ec55296fe55e42f4eb4b431f9e84e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd6ced03500e91beb52c53cf80944d59ad08b8163095c69694b3683b69a2e117", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ddb4727ed508be4f2bef22cf6d31a3cdf4650ecc8ddd7b18e5ed775b69e2877", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39776e781b99ede7d576a54de5724ea3a20f9cc9a4b01c1ad1082065248e72a8", "verdict": "consistent", "reason": "checked: Wikipedia 'The Two Fridas' (vessel winds through hands and hearts; Mexican Frida holds Rivera miniature, European Frida holds forceps)."}
+{"prompt_hash": "5a046dc0895453d9e830d419e2440da896ee120f2dcd6f2ecda630084d26ba2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8d89678577e19d75e07523faa7264ca81fa467f09aa35193fd64763f12db793", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9926faac917b56a3cb476f3f5f11a34712eca1867073d2dcddc7379b468bfd8f", "verdict": "adds_false_claim", "reason": "The mother tells her to enter single and one allowance on the W-4 and she does; the W-4 has not used withholding allowances since the 2020 redesign (IRS 'FAQs on the 2020 Form W-4')."}
+{"prompt_hash": "e2091774acfcbae194d2fefe0a6e8d1b95a7c4afb279cc4844a90cdd0192614f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8789939f5cbb8aee3a0439bb47426719177a083923ece423b3a5bd0c388b2988", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "029f1815eca493529ffebad4eba169729a8c60722f710bb13f49510b65f65738", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2b702153eb1f416841228504de7b98cd35af809eb84594c2f46e633793ea773", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ea8bc3540e83804c49c8aa6f3eba3a163c8245703c88dae90f9846ab6d49b15", "verdict": "consistent", "reason": "uncertain: manager allows original documents 'within the week'; USCIS M-274 section 4.0 requires Section 2 within three business days of the start date."}
+{"prompt_hash": "a1e068419d477015810d44557a127051f4ebe5d278fed66719aaec18ed93b0a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15289c657e0562f0519ad58517dc8890ea4f42355744b50e735ce5bc0de81674", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73ebc18db9c1a5103c909690e19f7d4b57ab877d4ee303032272f97c645c0476", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f73154adc3ed2a858121fdf52d728764f348c05039ae5709217d99904a6cfb2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d25d538d3f50a02c497dd883f826197b134fb5884353e05496425d8b465210b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eac7c3e9db3db8aa85c816d8d3f97547329466cda2f43d639f7d88f4f6f76be6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04acd543368c332e4ba40de88c5d43b3d39afe08b5221ecdd7134f81b26d0bb4", "verdict": "consistent", "reason": ""}

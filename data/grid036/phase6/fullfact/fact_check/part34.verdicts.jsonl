@@ -1,0 +1,40 @@
+{"prompt_hash": "ac3dfeb145e3e9f1e39622a7592cbf782a835762e23bd0a5afb4193b28e54b40", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a31dc4bd496c949ef48d22d1c3d03aa346cb3c99d9c9999c031508d0e5d809c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3b8e7eddad153429db5eace1633404bf074c5b3173435db284bae3f3b2ca63a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad926c590e70abb42f73ea5e84cd937a138ac54a5de9b27a842d2f01f7acaac2", "verdict": "adds_false_claim", "reason": "The field formula is given as 'E over d' while glossed as voltage divided by separation, and nobody corrects it. The formula is E = V/d."}
+{"prompt_hash": "2e17f721ef9fae948011ac8f94f2435500e356fba5d254c373ca4cb601f77748", "verdict": "consistent", "reason": "Medicare 1.45% and the Social Security wage cap checked: irs.gov/taxtopics/tc751"}
+{"prompt_hash": "2bd2062a7fed3fdfcd5d1571b71907d2473ea960fd68f5c4678cd6ece7074efc", "verdict": "consistent", "reason": "4,000-character old personal statement checked: ucas.com/applying/applying-to-university/writing-your-personal-statement"}
+{"prompt_hash": "6eba2007910a2efc815d2a6c952c8a21595bcc2f715cdb1f9e85b516a690cc27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9335db66b785319c7ab7b4bbc417f0ea57fcb00553da71913879b22a326ff3f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8fa4a737f84ccfb85733307192d54ebd48e7255391482b560cbb5dfea23ef41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e2e8874b2b3740f2d7858de9bcde5a96173dcb61d1c75d326231048971a2a84", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d290d51bb8da286b6cce1505841164121a4bba7f1d5d4b1e693de65dcb7967e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d775cb8acc69c84cc482f740e0ff19f365f258b4baee943b522410cb0476a48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ada16211788358105a976158a4fd4dcd7580418cab4e73b91ab9ebd269d93f81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "afb26e57755b66893dbec5b7bee8731a7aaaca808ac6b2057b7e8888a9fd483c", "verdict": "adds_false_claim", "reason": "The narrator puts the metronome weight at the bottom to get 60, calls 60 the slowest possible tempo, and has her raise the weight to go faster. Mechanical metronomes run about 40-208 BPM, and raising the weight makes them slower (en.wikipedia.org/wiki/Metronome)."}
+{"prompt_hash": "182fb3ef6cc70e0027b9a7c60e58149dad9c4366d44bd56513a6a3c7161d5398", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5613f7a62463995eb8b1cadbed58856e991eef4d8467818186abe525d8c0ccb3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd226c38a8754ce98530ea4ffcf03d029d3a8d43b9b48d7f8abb69a3d60031ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3f553016511bcbdeaa0c9786909f950e8f727cf1ef9f428d4ac4120ce93f29e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47a137b9db1d09a4e7a33e01ea8a2f1c6a8009334c328389f69d63148e621372", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6bfeac745c0ffadec8ead4fe049a40d2ee0b444741a96225a238cd4181a91a0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a6e2ceee80666b7777eff8cd88ccb26442678a9e1d5c6e350caddabd82be9a61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5ce48472a0416255bb4d00bdfe67acfba040ef9754c30f64eb11cf238046e41", "verdict": "consistent", "reason": "uncertain: Rayyan's definition and example of litotes are loose; litotes affirms by negating the opposite (en.wikipedia.org/wiki/Litotes)."}
+{"prompt_hash": "d55bd1d7e6af516e2a118d243443b623eff79e62eb307f7d40264c5b7278a47e", "verdict": "adds_false_claim", "reason": "The narrator tunes the cello's C string as 'a fifth below' A. The string a fifth below A is D; C is the lowest string (en.wikipedia.org/wiki/Cello). A trusted senior also calls perfect pitch a myth, which goes uncorrected, but absolute pitch is well documented (en.wikipedia.org/wiki/Absolute_pitch)."}
+{"prompt_hash": "d6ba7797f9622c432cc9dfbe6b7a954988367d6a4ab2095dd71152cf211732e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5c472f96fa4e73f5f04acc6f48fa60e08beccafea739a59210ed24bf80aeff4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2fbfe8656a5fba37c045c1214b9c522786215c5ed8672442827f4945d4dbce4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "724adb1ae8c98b69256f2754ea09c7634a8a0fecff6ba1e9be9b0d771f07eaa2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56fd40e71b9c6aea1b287e0b5d0962142f8baed0b272014fce6cf3fd3025690d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e63d4831564adbb1792c825ef6044251d438a6805de4100de1b94b737880c0dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5fa68f9119e0f7280734a948931d692a1e3b016e25d4d8c6a6b928f09af32a37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03588bbc35064f7754e9ba3f67c510c996d9fb760989b5049662090311743b62", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c086c99ce25b578ab8d911f1a8f4e6f7c806421264f762c552720cde15507369", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4427a70f47bf1e2650e46502c3ca118f3021b2a807941e6ab97b4990f403bdd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6cd6ffad5144206b6051fc78f5e0d4dd8d13ce346a8d945403b28dc50168491c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec128b58073d2614d6b35ff982daaa22671ab947152c5083307801c846a25da0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c1c65aa2165c7d10fd0d2f2cc22c4bbc5f456108e9a9932d51e366b4a6e703e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5bf10f57a5757831d6e68b71dbf58e82611d4d7ad446c4d707f45657f4e50823", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc7b8a99b54471cd3ca7b4d9034aefedecec31ec4bde72256975fd1388124691", "verdict": "adds_false_claim", "reason": "The Thucydides Loeb volume is described as big and blue. Loeb Greek volumes are compact and green-bound; red is for Latin (en.wikipedia.org/wiki/Loeb_Classical_Library). The funeral oration and war-length details are correct (en.wikipedia.org/wiki/Pericles%27_Funeral_Oration)."}
+{"prompt_hash": "cc2172dcdb9cac34227bdea4ea2d17501e44c6fcae0183bc6e67164f71d58ba3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b4734d5361e8597a2a420dda97e77337aa7768e4c542526af840bdbd4247143", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "5214eb41c05af608345dabcdda5344b37665f90de283efa9b5af10f29b3476a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1ffc57ac44dc91eae845ee3296d946b20417d07aa05c7dfd0afdb11902a293c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f44be93873500be9c3fd8bd6bfcf5b5571546893d4de2a98e5000d3bf1dd5e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "870d10483c3e1f20ed7b777649a4faedc1dce5b3a3373d81316408fd43c2ab10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e00df79cd1106359149082a68a7837a1c4c4c8e17ea847f2fc66fc7dacbee12c", "verdict": "consistent", "reason": "checked: Lima 12S 77W (en.wikipedia.org/wiki/Lima); Sydney 33.9S 151.2E (en.wikipedia.org/wiki/Sydney)."}
+{"prompt_hash": "ec02e9c18d38b6b30439d3f03d47a3f2dfd773357595f86c5bdf6853088340af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b107d8f0eac1e9b822844fa386e230c65afee5a5287feec4bead21c567f21ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "30ca11f3fcb1c3056b70f52380acb7451a3a0bfdf3161cb524e8a1c341a62fd2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4dd255255d3383f40936a701f5131f648cef4facf12b459e25f4ad1f3b1f9ff", "verdict": "adds_false_claim", "reason": "The worked change check is wrong: 4.35 + 0.10 + 0.50 + 1.00 equals 5.95, not 5.00; correct change from $5 for $4.35 is $0.65, yet the story says the count landed exactly on what was paid."}
+{"prompt_hash": "680d8bc7d7ac4c0de71b5c664e2b05b6ae4de10e8cc333b02ce5f3a5291bbf09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4f3286b6b8065754bcdcb820940d55023a5cbd135b526254b4d6f447b6480bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0de5b14bcf80afa09fe985114a79a6a7a80fdf8b08ddaa827e82a9bdc894c94", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61eb7a0d6e820f6b57d51a250cc69923670b1188d543c74550f935adadf7fe38", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0944afb4e116ffec10d21119770d62a344cffb4569ff089a8693d1c47325b900", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7f7df8fdc55e3d2b54b0aeaca5290335d4f1e3d2471caf84b23370300b57dd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "067bf7bd72a7b34417d5a1a2f702fd45c5540c43a2ecd68ac01d8acda8a128d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4737b329b4ee7aca48da66d85617a28bdd1e1e379d7287ec52e7918427fa284", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27340e953a145469cd9f0d053b5fa884bb197ef44ff2bdecd63544f787a11d47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "864c9e8aec68de36f6d829fd2de3dfb3735117ed3187d2bfb60782cefcbc9f65", "verdict": "adds_false_claim", "reason": "The narrator says moving the finger slightly off the 12th-fret spot makes the guitar note sour; on a fretted guitar the fret wire fixes the pitch, so small finger shifts do not change it (checked: en.wikipedia.org/wiki/Fret)."}
+{"prompt_hash": "ab64624f39f224c7667b3737040576dfa4b4a08aefa7eb042852d11b142b88b8", "verdict": "consistent", "reason": "checked: tapping the outside of a cast and cool air relieve itch (kidshealth.org/en/parents/casts.html)."}
+{"prompt_hash": "c5821f942d9739aa2e457883b4eef6fab8b11b10c4a3a7498b2ff092c13586f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "165aecf997103293d22d23ded699822eba56220a5ee7d40a911e56529d6aad8a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43cdce18dbc7a52461b83a9ee0b2226d3c46dd7d021aed779236561013834ec4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68defe40e61f51d43ebe90e0b4afb91669378ea2b5b20dc3909823743efd5bae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d48560b173033c7da3375e9ad193d2340f614b228667624f2a370e11fdc57d8", "verdict": "consistent", "reason": "checked: -8 C with roughly 50 km/h wind gives about -19 wind chill per formula (en.wikipedia.org/wiki/Wind_chill)."}
+{"prompt_hash": "2001427008b366a324081f5253d802e3639ed231c2db2936bac07a0619f45ddc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9348544aa60ab3b6ab80aedd5ac82a5c2396e9b748af6a63c9e8b934e9c0ca56", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "813352f51b596586b1535521b7f3a6a4d221b1f226c0b708cc7fa1f7d70d2f39", "verdict": "adds_false_claim", "reason": "The narrator places the recitation of the plagues (with wine drops) after the meal; the Ten Plagues are recited in Maggid, before the meal (checked: en.wikipedia.org/wiki/Passover_Seder)."}
+{"prompt_hash": "587dcab80fcc0e574e3406d8273b14db6d373289bb96749cecea9ac7e8aedaa1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2b668ea508874fa2e508f2148debd81265849b692d1b5e812e717400a07872e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "beacf53da0c395265147700e88eee73e80fc642f243e13659741b84c15a62570", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b87da155481834f462c548a4cd7ed2f701913e9d71ca98c29d4d48b8672a7b1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cfc9b965b620cf410679e0ebfafa2c14dc7ad0a1a67e55e824b4f19fec4e340", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e82aa5c58d7547fec9278c529a2e092fa478adb0a1a5e36d2781730dd6cf0dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b8815730656a20c5cc08aaec0fe10ebe33e361f2616c7d64a3ba28684f28a43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88c171dcae4c5ba4e26f19c690968a5da0359ab332dc2ded430f6ca2963e9672", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7bc00397f5a84f8b95937ad43b69e98600993c1d62ff395b852404a40ddd554", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c6d168eab647dc4c94edb4e55d041c888060bff97bbd8164f5892750392588c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02e1aa1570abaee80a6c0d13035f24b87ce9174c7b0966e1073fe8468bdccf83", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "959fa9f504d1fa1e5d8c9f0854fe9f60ae405ef0c56e6216b7e472b436437a9e", "verdict": "consistent", "reason": ""}

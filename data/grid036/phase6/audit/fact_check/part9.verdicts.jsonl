@@ -1,0 +1,40 @@
+{"prompt_hash": "8e38ae4946d6dfc8503ed561e3682f3f0f5cec3887cb05d1b9a9d7c034a4e5b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cef6c214acdc7a6fc2e29738990d5e30d9ff9ac72f0131a63875617ec094e782", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c972f5b97479c9bdc702c853fad8ea573e6d18e74c829c61033d5acc9aa5d561", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a80cdf2ecfe006c4d1eabac12b5a4843e568f679f4c0e701461a49981a0c48d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d5c8bd8f4bffc57db02a820fbeea63f179aa9b9578c9e4189fb640d5d5b5d3e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "daef30667450bf10cb72bb60034aa45bc2ef90cfc3a945ef42227373cec59f73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9df724ba0cd5117955f6c306aeb059340f43210a457e8f0775b417ba3ca286b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a525102f12c29dffb65a61c094b21f631803e769821ac5e1f01e52fa4e5e991b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird (cat over left shoulder, monkey right, butterflies in hair, dragonflies above)"}
+{"prompt_hash": "9a62a9c6839dfee7035b045fb56e114bb422705cc362c4712f966cc0f9583983", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9400ce1d144c34d785228275d7bec709e6e837d17b2b22f2120f26bc725450f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8270b07d3e9b96773b56298605b01931bbb3449cf4168484865e23ca91745be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64e0923c52f3db0cb4e9a00a92dd385f6092059e01318faffd03ba52a7f2b102", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33870470e3824ce56ecb97896c55bee1ca4e3ee41c77a6fb6812610f55f78a4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46e13ec76d23e1a0135e5b65e9a78118a3bc07398dd6fa1755bca52390c66489", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "925c02b4c0bf4c9af5dce64928ada2b148bcb616d1888b8cfde2d875ef0e4280", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c809593397f282b029cd48cce79b58546fe9ba39e5af39a02ebe91949158024", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "913ff9fa51d5c3677cdd9db81a512e284d394d7fe630a3abca8737e017fb025e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Jane_Eyre (Currer Bell 1847)"}
+{"prompt_hash": "c17a44ada43f03803f8aba892546cd366bc7f9a4df49fa2976fe01cb16f9ccd4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a118bf8108f3e569fe6fa70a52bf7f66ca026a0f9004f95f9cadf1d07d1c2b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52d6eb572ffedae47f841879e0ea43c306d6585f3a1dfce3b2862a4ed12fe512", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da30070e2f2e1038e5c7f0b97283ef980ea16ee4c4e67f1e8512a68eaef42cd1", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Jane_Eyre (Mrs Fairfax housekeeper, Bessie nursemaid, Jane inherits before marriage)"}
+{"prompt_hash": "ab9fc1e3bee07b72a4a084c4d5e0e6b81c9ca4df7e04b6a9e65837a999cdb6e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63ef3e1498eed8ec4a2d5619e0db610d42d3e657c2775119268d09ec7b0a3d0f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "78bc88231f150cb6994f572661b58569e57c534e268710a3a993947ce00fcbba", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Chocolate_tempering (milk ~29.4 C, lower than dark)"}
+{"prompt_hash": "40c821fcec6d75f9fd3dd06b85eede568e0188527991c9f5040daecf02f43005", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdbd38fae0c1c30e938db9d8bf6e9050f3e4787b26abaae6415650eb3cdfb6aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6635d3279d7460f7b9dbb9a94fa432ac88703d77685b0c0c02615f7b40bdcb35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbcad099ce24bb3bd29da291656a3d95fa30addafc48033b666a28a07eff9425", "verdict": "adds_false_claim", "reason": "'reading the pyramid for Japan ... the bars at the bottom were fat and the bars at the top were thin' Japan's pyramid is constrictive: a narrow base with the widest cohorts in middle and older ages (populationpyramid.net/japan/2023)."}
+{"prompt_hash": "fffb8863820b497391bf70f57fddb77fd92562b513ab5c55561d08351ef31846", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Passover_Seder (15 steps; Rochtzah before Korech; Chad Gadya last)"}
+{"prompt_hash": "ed77183c67ff89a8aaa7d80a5e5e0bb55688717c74ecc1f59ca27b6f2cb67445", "verdict": "adds_false_claim", "reason": "'the margin depends on the sample, not the split' (presented as the conclusion). The margin depends on p(1-p) too; it is largest at 50% and the reported figure is that maximum (en.wikipedia.org/wiki/Margin_of_error)."}
+{"prompt_hash": "c557b3cfc26a142083751bd3e5ea44fbed57e2128c9766b6f9fa1b6572ec3537", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "169df86670c3cf8c3f36659f6068a2c6c4a47138c3f943dbc69147fb0461d51e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0793fa79f393e5fd2f6558ad698b421572db8d1038f8a231832670551f2beb8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1070f584e84073f08a7f09692786018581402048c21a6ba6bca143907d71982", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0dece8cef6031ee48f55df4b740ab342e53b0f3ae2aee3a95bc4b908ffe6fdf7", "verdict": "consistent", "reason": "checked: bls.gov careeroutlook 2024 education-pays ($899 vs $708)"}
+{"prompt_hash": "3f1125ee478f9bdf0b84239221052bfeff0e66d3d903c44937342e59e8803460", "verdict": "consistent", "reason": "uncertain: final caption keeps +/-3 points for n=40 (true max MOE ~ +/-15.5 points, en.wikipedia.org/wiki/Margin_of_error); story flags it as doubtful but never corrects it."}
+{"prompt_hash": "363f53498bdca620200e2bb0af03d31db1231c5c3689da1343a7f922e9f733de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca5c9ddb041025f21eb12447c92b5c0796c9f743e4b3f4318dda665605877c25", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f49a68f801a571d004e9ca4ce67604dbe2f1743691528d1e303bdc418c569e4", "verdict": "consistent", "reason": "checked: populationpyramid.net/japan/2023 (29.6% aged 65+, narrow base)"}
+{"prompt_hash": "5783d72552760fe124b3e89c67d304aafbe01869f65e0755e11ae3bf68afa9d9", "verdict": "consistent", "reason": ""}

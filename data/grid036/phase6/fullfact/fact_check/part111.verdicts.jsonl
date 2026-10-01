@@ -1,0 +1,40 @@
+{"prompt_hash": "9ce696e15edd14122d44d666c149758f8b2d46403cb939b79a4e914fa3b6f68d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10cdc156d881321e45d90aefaf177ee22d4787e0f35f8e8d4c321eb6434adccc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4486249fd4e6751ccf287715a6f42c2d62f96a64cb3ad6159381dac14af3a244", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd4dc2f944e1ffa9f5086eb28c95ac7a1b4f66ffb8aa186acddf66577203d37e", "verdict": "adds_false_claim", "reason": "The payoff arithmetic is wrong: 260 dollars in savings plus 40 birthday dollars is 300, which does not cover the 311 dollar card balance, so the gap does not close."}
+{"prompt_hash": "285ea33e6fa2d12f21e326c64eb58b0bf0b1ed297069be9d97f69ddb8bf021eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4f297893a2856106306e75a19666c4a972cf1ad40de0bd03d70a9a60a470075", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11fcb485346564f8d2695edf47dd69f7f1abbcd8cf8d362b3771cab33c9e6687", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aefde7322f178bc67680e6edeb8fd7fcba9d4d1b390d556c131c5f57220346f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d78c21d204d50901321696e2ce9f31161123a93fbf8a85979a9483e2926ea4ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99a36ff1dab5231ca670e6a80b0cc667e6569f9590ce1e01510c7cd8f68eaa9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67d1782d7ffc46fedaa7dfab1420c48c1cc1c8abe097c6f35e01a4eabc8a506f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0af4a0886dee644e6a9d44f058f3540ae902a10c3a7186977a21408b7f745979", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0b8f6bd7907e5eeaac444d166badc864147cf4b56640c4d7506984966aa5d67", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46d8033dc2009d8c43869b82082a3d92875822c5fd24d824f5d7ff31e3d70313", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c09c74123b56f2cf630d552167882755e0dfc276b035b28424c23b80ed00890", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b922ed367661651776a635a19e487a948caa70113eaf04e926464042e76a44d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1dc1ab8856b27089befac66366589f323ac5b0c70be8210b3e78787a0471385", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f969e301fca26c39fcac76782e855932bbf85a0876c0383fd642cc480728c49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11c01a6d9a1c6b66576a7bc7f254a5058fcdbc1b20c498a235c1d826c7481115", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d4dbb10cf40553e7d2290bd654989d95dcab1da9461fe8df4f3281f41aeca88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74aa013d314907d258d9664a3fecf40b23914452d4e7a94d0d44963bf59bd4eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4924a7e12c2d5cac1245163b00970c31e60a8c39f479fb9577c8511c31a704b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e31e0e6f319954b2f0af96d4cf67ab821ea37ff2a11c94cde09561f2a26de0c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b535fddc3a3ae322842e44b59085c51c5febabe0dca6dde1eb5d975ad6fce85d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bcf6c9be93b69d9e6f137013d6f8f284d49d165c1e8ed1dd8797e6360eef979", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a090bef1799e50baf1a968ae66c43fc40adf9207fb2541f5afd67e59343d07d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d431d7c9b655731a5034e53d09d503a6d6d0f170aa458d0dbebc82d66e33196", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57616e1e8cec8d2a390c92821685f165f4538f3b10955e3c5e51e354f3d45ce5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "116ad08bfb9aa23e1e938dcfd3c4b669eb32cdf164d5bac7fecdbc2bbacce8f0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird (monkey tugging necklace, black cat, butterflies, dragonflies, leaves, hummingbird love charm)"}
+{"prompt_hash": "bb9cda0fa64d391ff467fbbb9e5b6f5f3f4a322f59d8bf781a49122d79657d5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74531431989a03579f63f112cb4b6d5796892bfe155e7445236961efed24b664", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89cde25692d08279f253606bfa1810952991081ab2cc8f764b482d90e2f72d9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63a4917ffeb0b6fd93094a23a7535911174aee31fd99b4cf1c45cb2f614e5457", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1994ad2f4d6fa06b8b30dbb495610464c4efcf9f618ee13b7c6fffd623338921", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8aff67120326619bb841677f7a0e2cda9387470c71e2010a693c59d5b3c99bd2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d16b6b4d672ac7116e6fcff97b2f9a17e392dc9c9de07b5268014f3401f970d2", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/The_Two_Fridas (both hearts exposed; vessel winds from their hands through their hearts)"}
+{"prompt_hash": "2dddd82dae5628ee724e8853db9173642eae84d4c866f2c642885b8b4bc568fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a7fad2a479c73cbefedf6a176c60d3c515fb4e79fbedb0e66d18cc0a35a7bd5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "497115899437ceadd77069bb12415e7df91bbda72f7467ec528735d370bfea03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1909de1798ea72ef2ef8d5b305d4080423070fc58e9174d68dd686572e8d25e", "verdict": "consistent", "reason": ""}

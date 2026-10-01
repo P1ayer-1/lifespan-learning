@@ -1,0 +1,40 @@
+{"prompt_hash": "7d547be876398947ffa0512c5e294c57ea3c8fd44781159da4f73c43d6345119", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93e11167bc38a68ff28b799ee36fbffcc607ea4b37a37e1c3065e84de4f0236f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12a84e2bfc792a7e21fa90ec2a36d7fe38272fe7db2de00677078266688bca74", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Diwali (five days, diyas)"}
+{"prompt_hash": "b48f2b48e119458d96aef84a32c524db49db40c1e712f7942af4c6d30dcf103d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88661c8866d9d7f86378feff61a5139fbaf8a8ce27ad6316feeeacef808fb472", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12cb76eb4257b2b5dd2303cdecf6e820d16b065490816e2360519ccc328893ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09b50f2983b7d63d1ca8f33ec15239fbddf4038f050f15fa570193ef2e6c3b81", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Snowball_(cockatoo) (Patel 2009 paper, tempo adjustment)"}
+{"prompt_hash": "3ce488c8efa6aa3e79c01804cab16abfac9afb520994f924f34793c7369ea670", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ee96a738c8d3abe06825869c46ccbec7fac01e128f7ec4d514d017f39a083b6", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development (1965, four stages)"}
+{"prompt_hash": "6bbe6068fbba4268fb4c1c345d98bb04b86ccfb4347a9b45ef318a5e9856251c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d81aa8223fd1b9fad39a66b30e36314b1c4f5985478f6c691e2e435739dda34", "verdict": "consistent", "reason": "arithmetic verified: 3 m / 2 s = 1.5 m/s"}
+{"prompt_hash": "9c6b737aefda09a1845e3f271dafb96fbd9ac1d32847f32140313fe4fba6d444", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20fa69077d4eac36a8508b2f89097b51ef961b78ecfdebe25bcb10163a791a99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a36f4b4c63f9fb6a32399c81638552764778aa442b6151cbcdfdc4af8ccda66b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2daeda112af38fdd33fb227597c5092a482f752ec7e776e7052df832b2d4c135", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d36a27727a70419bbca934ff2a0630f87bf1cb5acfe6edd726b8805c56c5305", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11395bb0dc305d811dedc40724600da7bb8e9c849bd3e517368659617daaef33", "verdict": "consistent", "reason": "arithmetic verified: x=5, x=7"}
+{"prompt_hash": "ecbf2d390b08e379378ea514220821aba5769dc9d374dc2a30acea0fa5baf0be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83b338f545c75c18f0f06eece02debda13860eaa0ff9e13848895dcf436531cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f7dae58d58524abb71c9e72668c7662c10a481d1f9c0c70cd2157a4ba12ce48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da4e3530577c78073df79bdbec8ce2d60155a57444f8b05d9e428852ec1da19f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Frederick_W._Gunn (1861 march to Milford, first camp); student count is a character guess"}
+{"prompt_hash": "1b155e51883ff833908b75905f00260f154ddd80da42f4bd803129b75fdfeae6", "verdict": "consistent", "reason": "arithmetic verified: 1000 at 5% simple = 1250 after 5 years; compound exceeds it"}
+{"prompt_hash": "885206b01182b5e0d78eef83f6456e6e7f50747405f241c4947c4182b50cdb8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a815bd43fa3b502f8d2c2ffc0804e09d29f9528401eab9d64607d064163cd7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7bc8e482a4f4252286545ba1f73a8110432ea9d3bb8aa6271b3684feb8ead2cb", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Bon_Festival (mid-August most common, July some regions, ancestor spirits return)"}
+{"prompt_hash": "e34568b634764d957792b076577a87c4790a8d33546bb69f49b512068e4a807b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67d805a87550d4d057145f069ddef7488e9003ad7a192cf0b1570fa8681645d6", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Twelve-bar_blues (I, IV, V over twelve bars)"}
+{"prompt_hash": "083ddabbbed3db9558eb6141523f6c6e7313c40f112c1c0c956227fb2e46b97b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c77357e511d7a37f1f619ddc62f407725cb1ec21ffc9c6d96247c92c40ed2b41", "verdict": "consistent", "reason": "checked: gutenberg.org/files/12122 (Morris throws paw on fire, White snatches it; third wish was for death; risky chess opening)"}
+{"prompt_hash": "e3c5851c735361294d946c10ae7d547b45d35dcd86ca3f898f3da89cc3e113d8", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Georg_Ohm (German, 1827); 6.0/0.4=15, 6.0/0.2=30"}
+{"prompt_hash": "d9770d0967b09624d1a2ee3d272d82cfa144534d51677169236bee079160ca23", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Reye_syndrome (aspirin link, liver and brain, rare)"}
+{"prompt_hash": "a9436fb0680916b9191e84583e5fbbeb946c1ac9a0b0192eca8f681cecf776d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd410df6a399eec6461054e2cb0e351ac66a1d7745f0c166bcbee7cdbc446ba7", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Felt (scales open with heat and moisture, agitation interlocks)"}
+{"prompt_hash": "855bf8de059cfe6933fac4bb1f076e89abed7aa48c4e3c6946eb6e612873ee8b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_dress (Feb 2015, actually royal blue and black)"}
+{"prompt_hash": "fc192be6982ab96e102b6f2356791a24bbd02d00d76b0aa871d144736489fd50", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Food_loss_and_waste (USDA 30-40 percent)"}
+{"prompt_hash": "f270d8cd6b33fd761455efc44068ce8fb11a3b790cb6c165d57a9f62b1925299", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72cfa937796c63b57f3e4eb7f4e8b16e4c332e47d49655c8dbf60286b3df7907", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act (1998, under 13, parental consent)"}
+{"prompt_hash": "24150c922419645bd20da1f47dd4fbedee0f30d63aabfb82bf165589f79ba8d6", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Paradox_of_value (Smith, 1776, water and diamonds)"}
+{"prompt_hash": "ac63f96017c5535c894e26c0d7ecec5fa07d7741b896cc728b2853aa21f18219", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8aa7a059cc28fb14451dca4038205f56a92acde83eaebf815cf982e70206df7", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "a97e527e52b96bb13542b97c8f091a104d92990ea252e12e7f8a3d631215d072", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "010931d869239e9c6620d09f5a40254ef4bdaf17ac8f149439257a55a1e1d1e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bff356acc6dfcd2f04d0b4aa2a797ba1b196bd990f25aa536229c373f8311594", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab57bc085fee8b0475bcc94bd065246994f953fb1404cd2e6aa2a1e72f60f9f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d94d02dab0924efd0e19fab5126efd6247ac8d20e43c6810536a1ba08790563", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c89b41eb9e0505d7f27f2b3c83607e95cfa46b6429c4cb625c2217e92647c9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a0b4a6ff8a2cd0c023e0c5b2eb1db3acf760c4eab3f04df78933a8e71457d16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c015ab118d3dbda24de43b73e1d8355ce7afcf26267ecfeace65dee72077dbd6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "786530a2cd68a17e0ec9b0447715e147a825534111f6f71479ede42c3c947365", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07d10dc20f51d1addbdfa8863027c896dc26adb9233afac0260670a56f1d190e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2c8846f6381383c8379ac2e788425c6bcc760de62905152201bf0fe4e6a6a73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d20a2b651c8ae861dd41ab245ce895c55c53cefb149f87c1a58c7c60b484df3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a22d37a3c109ea48baee3937bef14cfda4c7076126a96cb4dad9c147de88983", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d6968e7819d42044e7988b900be7493f018c3e5b8fcc6ebbde4565cd8c95269", "verdict": "consistent", "reason": "Cobalt chloride colour shifts (heat toward blue/violet, cold toward pink) checked against Wikipedia 'Cobalt(II) chloride' (fetched)."}
+{"prompt_hash": "7a4213ad9243d2e363bf8fa9be0bb719c9d7c4278c8e466a69fa6b41b704d93b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1fc7a7dd00b93b2ea9414bad6f7a309e3f6c58f7b4d6354aef79a4dd62349998", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9eac3f8a1a69c0cc1ad8cc6e89828717cd1e569a47bb0712ffa1bcb15e87e6a5", "verdict": "consistent", "reason": "Gray shifting toward the complement of its ground checked against Wikipedia 'Michel Eugène Chevreul' (fetched)."}
+{"prompt_hash": "41124ff27d73b12560c4f66201791b54ba40a6d475c07340a50a77c23442bc5f", "verdict": "consistent", "reason": "False recapitulation and tonic return of themes checked against Wikipedia 'Sonata form' (fetched)."}
+{"prompt_hash": "47140e3c28a83e261f9f57d22b3d62aaa6b0690ea9898570d078bce57345caf7", "verdict": "consistent", "reason": "Covered mirrors, low stools and food for mourners checked against Wikipedia 'Shiva (Judaism)' (fetched)."}
+{"prompt_hash": "91266f549bb27204dd1ba565af8c47ce15bce03435c6b47edb64b73dee877340", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80d89d5dbef24778fa6ccea26dcf5b7da0ae4d70aef902ac83fb9545a89acdf7", "verdict": "adds_false_claim", "reason": "Story says captains avoided the Gulf Stream to reach London faster than mail packets sailing through it. Per Wikipedia 'Gulf Stream' (fetched), the slow packets were sailing from England to America against the current; eastbound ships rode it."}
+{"prompt_hash": "582f419468926c4bf442a9d5560e101a4f94a566dbae32d9f306c0714cbac416", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a61f553f9cbda5bc3e0954d027f2c3b32ea8b76fb522f5837c1e040d4aec3008", "verdict": "consistent", "reason": "Feedback as part of deliberate practice checked against Wikipedia 'Practice (learning method)' (fetched)."}
+{"prompt_hash": "2ef831e60485cdce50bd6b37fb6a395de63f83181c3c949e3df599bebe3370be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f571cfe27e61d1af67d7f738d2ca9592c6cb13bdd435a08c685c64afa1a8d34", "verdict": "consistent", "reason": "uncertain: if Cleary rent is $560 less than Halden, Kiara's 'about thirty a month more' implies an electric bill near $570/month; the line can also be read as Cleary rent being $560, which is consistent."}
+{"prompt_hash": "d4c9c20fe7573d1fe6f258bffce81af9a1e0f67126225d4a6bdc224bcec52086", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a395cb5caa11b94516359dd95e1661695cfd96c4a7cb246c2c796657342e4ed", "verdict": "consistent", "reason": "Chapter 3 placement checked via LitCharts chapter 3 (fetched); sine cera called a folk etymology in the story, consistent with Wiktionary 'sincere' (fetched)."}
+{"prompt_hash": "af120e058b548dedface3bdc60cef2f7ee284bb258acd7ce64b629ce11ae28b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "057289825164a3a881a1a233a923f3bdc1d11b7828f16c0753b0f1b7cf7c743e", "verdict": "consistent", "reason": "Margins of about 3 and 7 points for n=1000 and n=200 checked against Wikipedia 'Margin of error' (fetched)."}
+{"prompt_hash": "8474541bee8f6fc2257e0c91ea707b5c37ac870b84bcdc70189ccda64a0cb857", "verdict": "adds_false_claim", "reason": "Narrator says the stepped W-4 has boxes for allowances. IRS 'FAQs on the 2020 Form W-4' (fetched): allowances are no longer used on the redesigned form."}
+{"prompt_hash": "2bd025c72a1aaeb7c2f42ec12d621d628ea0cca00d17b6777e5f5b6578b47cf4", "verdict": "adds_false_claim", "reason": "Memphis's bridge argument (fire; all who jump survive; so you should jump) is called valid and airtight, but the normative conclusion does not follow from those premises; per Wikipedia 'Validity (logic)' (fetched), validity requires the premises to guarantee the conclusion. The sound/valid definition itself is stated correctly."}
+{"prompt_hash": "7df38110470d635de082ef37c3d9c0d083f2a4b71dbdfd75b8fe0d52c74f669c", "verdict": "consistent", "reason": "Ratification in just over three months and Nixon signing the certificate as witness checked against Wikipedia 'Twenty-sixth Amendment' (fetched)."}
+{"prompt_hash": "01e232769fb2e60c31e2e1d39b3347c9a27f3a6a2db569c6f587515eeb1c82b8", "verdict": "consistent", "reason": "Methane lifetime and potency checked against Wikipedia 'Atmospheric methane' (fetched)."}
+{"prompt_hash": "ff98f88b0050f65c4c07a096e1c6896e96ad20244673815d3493d6347abc6b23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71b222a02d6e5c09ed8ceaf4cd3140fcec95576ee186fa0e3415cc0ebba6cb23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e62736f7d2c22c6458b684e20f6ef804ab1f5f2ff9367abc7850909a8b468ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f150a944bce4f9ca8bc7015fc2f88fb771b2a629f129da3ca781f40830034011", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4bff6010ae93ac97b6a424b52d64a87c3959c5414b11f0b73dbd255f5235213f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2439f2c71fdd41ab837c045c6e93eb9dd2e911173ce22795d343b6af2a18394", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cbb2e890bed5ba3d655394c811b2f869793db86e7355836cb4fdb64db2b14a9", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "bc60098523a3104106bcbddbb5346da19afacf491f25b9f8e0aac9b8cac22df8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "14e2d23cab58575b3570f0d7c417da86c21817a0d837b755f430b82f134c2120", "verdict": "adds_false_claim", "reason": "Story says 6.2% Social Security on $209 ($12.96) accounts 'to the penny' for the gap, but $209 minus $195.93 is $13.07, and Medicare tax (1.45%) is also always withheld (Wikipedia: Federal Insurance Contributions Act)."}
+{"prompt_hash": "c6e1dc72e190c3b0d7b7212b4cfd2e07e985b4708cc194ce8a1c373b9695cf64", "verdict": "consistent", "reason": "verified via Wikipedia: Bon Festival (mukaebi welcome fire, toro nagashi, August timing)"}
+{"prompt_hash": "2207184a74c134cd159d25181fa4e862beab81dcdd904e1b44de07ff5c7a4d53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e265d512b1ab9e12aed3f9f0bcc4d2e3ae60fcd47ed743efd31d57fbe7ebce3e", "verdict": "consistent", "reason": "verified via Wikipedia: GED (1942 tests for service members and veterans)"}
+{"prompt_hash": "657d5c7d43229fc6028fe75479a10dac7aada428860b32db86308e4cda1f9547", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0bfac170c91e7fd01ae35a86c89cec530e21bd1a37e9e54d5f709fbfbccf01b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00d4b685146f57a913c6578b85718551696a33dc25d5f50c763cc19bb72225e3", "verdict": "adds_false_claim", "reason": "Story says a Saturday sale's third business day is Monday and that Saturday does not count; FTC says Saturday is a business day and the window runs to midnight of the third business day after the sale, so Wednesday (consumer.ftc.gov Cooling-Off Rule page)."}
+{"prompt_hash": "15d634dc9e5357857cc932fd9020dff334489b8d2e05d83c1ccf2b0a76daf9da", "verdict": "adds_false_claim", "reason": "Teacher says a soprano E clashes with a C in the bass; C and E form a major third/tenth, an imperfect consonance, not a clash (Wikipedia: Consonance and dissonance)."}
+{"prompt_hash": "7750da131032492cc540d5aceadad4dad4137f913319475ef7da6c16426bee4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a97b34c0fa552a6f109a6a3c687f8d12560e8340ed99c972508cca780d1a46d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f007be13d9ad6ccf7d825e94883516d83e009497d103ddece6f1b8940d503e17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9472dc1dffa98cbe043eac0811287dcd43430d9aa2262467d9aa9021744f5d09", "verdict": "adds_false_claim", "reason": "Isla says one move out of 11.7 is 'not even a twelfth'; 1/11.7 is about 0.085, which is more than 1/12 (about 0.083)."}
+{"prompt_hash": "7e2f5a5b215356aac17568c18d71ae1652ac5608e7dec8536370c8cfde00d88f", "verdict": "adds_false_claim", "reason": "Story finds moles of CO2 formed from 132 g of 'the reactant' by dividing by CO2's molar mass; moles of product require the reactant's own molar mass and the mole ratio. Also 132/44.01 is 2.9993, not exactly 3."}
+{"prompt_hash": "bc44b00a96c8261dcc4495dec64dfe1dd4b9d857ad837c0af98374621cc7684f", "verdict": "consistent", "reason": "verified via Wikipedia: Northwest Angle (northernmost contiguous US point ~49.38 N, south of London 51.5 N)"}
+{"prompt_hash": "a42a6513eab953e0c49638842692bfbe8395211c072757ec613539403ebed760", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d741b0acade52740472ae8bfdb3673e64af424ff642aa2a8990687ed742aa879", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e99ef99d2af92193db80b5448d5ee09c4e33ca4ff9217c36083aebab2f3ae03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "683de66e350d1f6dfd34150475d84249119611a31996d38b7e856b6f92e45433", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c783c0ea7b0d92c202ca541618084ca44f1efe0f341726927c74838f863c910", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3117fefbe57ad07494b10fe79112cf76a670ee1ae5ad0d3d10ececa1ff4c4f6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "650146062d7d1112a434ba85c14d9db5f3162b55332b617ad30b6ce7f577da4d", "verdict": "consistent", "reason": "verified via Wikipedia: Compulsory voting in Australia (first used 1925 federal election; fines)"}
+{"prompt_hash": "d590240a274358d10db64e6b83e2b862b09f062f0f66cd57dbb1e4e588f8e1d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f612caea155c7658b58e43a511ce5c2016f2d6051d813f7c1a548969d5fa93c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e90e38b646b34d56017a36aa554b9951300fe70f471e935d22415c6bdb6c7ca3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8f4be0bfa20a35ba8bc69708198612eaa394a8204904a2bdb34323432226fbc4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b8285aa21b9a319aaf45a730ead39ecccc06a0152a27c70f9ffd69794a49f7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c822f6cdd666134029c55cee8288e28d23734597d2fe1ea2391c7ae331a02081", "verdict": "adds_false_claim", "reason": "Narration calls the speed-braking relationship 'exponential'; braking distance grows with the square of speed (quadratic), not exponentially (Wikipedia: Braking distance)."}
+{"prompt_hash": "f6970295d243c2e71de01361844beb4464e3baad2b1122a3c0085bfb55b36eeb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e99082a35ec983f175941c952072225ac832bd6cad54f0a3ad58ac9c8a3fea0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92871c8f38dc0b5930fb0bc1ff9d9a3b6d97ceab5db24978f6e522d88bdcc2e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e86b1bb20c16358874998354bcb9c7e8bb0be7520fb3a3cae4bb0a1f3715fb5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "298a29eec28f5748236bcd4d8220b2febf2658d4f96a78998cfcfa14e4502223", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c8b19527ce176915ea331b489d855f8fbe122d9831bdb09c8860ca6b8830e424", "verdict": "adds_false_claim", "reason": "Riemann sums for y=x^2 on [0,1] are wrong: two right rectangles give 0.125+0.5=0.625, not 0.125+1=1.125; widths 0.1/0.01/0.001 give 0.385/0.338/0.334, not 1.385/1.338/1.333, which also contradicts the stated limit of 1/3."}
+{"prompt_hash": "889fdb8b71a935df57cd0218ca7702cf105367d69ca2967a68c2f5a1789fe8d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2f3a32ab02d572d4ab07f2089126e7f2a74b60b6075fe881f463900bbc90cd2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8d3c223faff1a455e9dff88b5442ddfecc216b1a249e09c185abcb18002227c", "verdict": "consistent", "reason": "injected fact verified upstream; 'at most eight checks' for 200 items matches floor(log2 n)+1 per Wikipedia: Binary search algorithm"}
+{"prompt_hash": "aa2054b777db008aadd046b8302326323894c5ad776bd5e422f382b7ed2a56a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db8c95f11fcb6229192f8e475e268d6901d00c05f2d2a1bad07ae2f379426a3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bce676077ae8afaa2203f75afd0b783c55b5c6f457b950e4e3b6f9af2ef4cf00", "verdict": "consistent", "reason": ""}

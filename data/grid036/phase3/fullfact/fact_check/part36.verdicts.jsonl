@@ -1,0 +1,40 @@
+{"prompt_hash": "184fd0ad0e853039c5f04fafac761071d672e4fdbd2d241706f58ad2f98a8014", "verdict": "consistent", "reason": "Fact matches Wikipedia 'Modes of persuasion' (ethos/pathos/logos)."}
+{"prompt_hash": "74b0a6887f34e74147fd18f9bad81428e51d99c09c56f160038a82cd0084ea0a", "verdict": "adds_false_claim", "reason": "Story has plasmodesmata seen as a gap in onion cell walls under a farm light microscope. Plasmodesmata are about 50-60 nm wide and visible only by electron microscope (Wikipedia 'Plasmodesma')."}
+{"prompt_hash": "bdddc562e94d779a099cd796b02e1f31ba5cbe7167956445aab0ac12bc5faf0a", "verdict": "consistent", "reason": "Change math checks ($5.00-$4.29=$0.71). Fridge at or below 40 F/4 C per FDA, cited in Wikipedia 'Refrigerator'."}
+{"prompt_hash": "804e0001b08891d17448374e4eeab94f15c7d7bdb55fa70c41fb380547fe6a51", "verdict": "consistent", "reason": "Adoption 13 Sept 2007 (Wikipedia 'Declaration on the Rights of Indigenous Peoples'); Art. 33 identity/membership right confirmed in UN DRIPS_en.pdf."}
+{"prompt_hash": "54da30f566ff90d4d34a41b067f9051e54b8df58c130da11e04f7b4b9f69f452", "verdict": "consistent", "reason": "Ratio 1836.15 per Wikipedia 'Proton-to-electron mass ratio'."}
+{"prompt_hash": "d4714c52bedf2711c6eb6b5023062610701e39763fd707eb9a8ef821aa512b7a", "verdict": "consistent", "reason": "Disclosure rule per FTC 'Disclosures 101 for Social Media Influencers'."}
+{"prompt_hash": "5f83370b6185ba884a373d722af0618f82255adb2c2e17860af53a5a4db3f3f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f80057196ac3b62c2f50029211f83e23e2dc495fa3e98bf4943f0e509bc384c", "verdict": "consistent", "reason": "BCC behaviour per Wikipedia 'Blind carbon copy'."}
+{"prompt_hash": "aa64039e63e3ae1307a41a1e44b7b644dda5a7fcdf2d00b8bdb92560ac20bc88", "verdict": "adds_false_claim", "reason": "The bug output shown for '7 times 1' cannot come from an unconverted string input: a string times 1 prints just 7, and adding a string to a number raises an error, so the shown output and 'text sticks side by side' explanation are wrong. Name origin correct (Wikipedia 'Python (programming language)')."}
+{"prompt_hash": "3a6a10d8eb4a47be31ee6e333127db4374f19ed1c06439c2ca9607b1773e5a8f", "verdict": "consistent", "reason": "Cooling rate vs crystal size per Wikipedia 'Igneous rock'."}
+{"prompt_hash": "a308c9e035cbce28d8e119d759215f5db92d35f630e83e6ec0c3952e8a49c423", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71992ae7d6fcb9e0b8af69b1a8023d03db976ed57db5dbca525c8b5af8451982", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa8e0752e6fea9ba3890daab163e9f02cdb200ab660249dba0e12c8ecc0ea251", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e74acf450c3d9a5901d5b058b493de2917d9082f90d239a44be0f55134e5115", "verdict": "consistent", "reason": "COPPA 1998, under-13 parental consent per Wikipedia 'Children's Online Privacy Protection Act'."}
+{"prompt_hash": "fc22656ff986297e008a1b126a21d842e4eaea3a22c7c5082bb847448290480e", "verdict": "consistent", "reason": "G-D-A-E in fifths per Wikipedia 'Violin'; triple/quadruple stops possible."}
+{"prompt_hash": "c83c3eb3861501be8bf8766545e4d250d8ecdfe0dc20b2963e5628d591896bee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34ab2558b60e2c1f613253aec9c5ab6b09dd00b9223aeffa2bba2eea678b3210", "verdict": "consistent", "reason": "Per CDC 'About Common Cold' page."}
+{"prompt_hash": "14d66a2867331518f1dba7a1bbead7b03389b443881fa769ba0acb95446751b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d890551a61c5145d2df07afc08a95013cd44fa866d306a4d902f8e3ff728e29", "verdict": "consistent", "reason": "Lisbon 38°43'N per Wikipedia 'Lisbon'."}
+{"prompt_hash": "475f6ae00edbb0283da230418ec16516e7d6291354ec8699fe88ebd566edaf67", "verdict": "adds_false_claim", "reason": "Narrator has a distinct echo returning from the far wall of a garage. A separate echo needs about 0.1 s delay, i.e. a reflector over ~17 m away (Wikipedia 'Echo'). Sonar fact itself is correct."}
+{"prompt_hash": "9c9a6af05369a611a7398d91bc2855a7062e8a555a4df2265c74e84b3660d056", "verdict": "consistent", "reason": "~50 min later daily per Wikipedia 'Moonrise and moonset'."}
+{"prompt_hash": "7154b51bf50b297a98e3ae99664c59b373ad606ac48e403d9b7827f0900c62ad", "verdict": "consistent", "reason": "Origin per Wikipedia 'The Hunger Games (novel)'."}
+{"prompt_hash": "9fb3d6ade738256b216f3fd5292f5537c6cc6883ab374d63300cc32e246b013e", "verdict": "consistent", "reason": "Over 1 trillion pages as of Oct 2025 per Wikipedia 'Wayback Machine'."}
+{"prompt_hash": "ae9325806ab1c3d34454169261737dfca1aefd12a89877451fb369f155e2ecc2", "verdict": "consistent", "reason": "Snap Map June 2017, location to friends, Ghost Mode per Wikipedia 'Snapchat'."}
+{"prompt_hash": "fd53c0a44ba81948747bb4bd2f632b85abb01febc205390dea406f7053b6e157", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84e0cc90c8279f0ad13c4b15cd82732c43f19b40342b7f52fbd364217600c24a", "verdict": "adds_false_claim", "reason": "Story treats a control plant kept in a different home (a room described as too dark) as 'same everything' and draws a conclusion from it. A control must share all conditions except the variable tested; here light differs too."}
+{"prompt_hash": "8e1457140868c37d689e1a6201c05ca64400d776e40683034351cee558f37b04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1af6ae491c21c6ac7761b44f9f8406bdd3a6b46945f7b41a1db33af6bd5e8975", "verdict": "consistent", "reason": "1950, Kurosawa, four witnesses per Wikipedia 'Rashomon'."}
+{"prompt_hash": "7914d166968de3141adc5fd5815363a8027df9a5c04ffd5557748dd7fa450d22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bdb1f3c0a44b622b49a49d55f14fc2766643797d37d438cf66062fd3b62046bb", "verdict": "consistent", "reason": "Per Wikipedia 'Shiva (Judaism)'."}
+{"prompt_hash": "fbd4a992192fd10bad1118344aad76eae8007e68db0db5045c53ae58c3e73f25", "verdict": "adds_false_claim", "reason": "Story implies the location pin vanished from an already-sent photo once the sender turned location services off. Exif GPS data is embedded when the photo is taken, so later setting changes do not remove it (Wikipedia 'Exif')."}
+{"prompt_hash": "8a770dcdaf5b3d718ee4eb22fa659a464219606e853faa105a3ea65380e834fa", "verdict": "consistent", "reason": "June 2013 FTC search-engine guidance per FTC press release 'FTC Consumer Protection Staff Updates Agency's Guidance to Search Engine Industry'."}
+{"prompt_hash": "2fb3670548571300e9060f997cae3e6a1167ce48a5df2b8334fa5f9648fe86c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6d7462d7c0fa867cd3a180e70c09cb8970ad0ba131b3737abee2ec1caa7f8fd", "verdict": "consistent", "reason": "Per Wikipedia 'Chopsticks'."}
+{"prompt_hash": "a71ada6ba7176a1108a12a995cab7ec42fda6d8c99fef892cef6844762b32d76", "verdict": "adds_false_claim", "reason": "Story uses three new stands opening when the June price was low (vs. high winter price, one stand) as evidence that higher prices bring more sellers. That is a seasonal supply shift, not the price-quantity-supplied relationship the law describes (Wikipedia 'Law of supply')."}
+{"prompt_hash": "e5084ccf1ce859875f7e8c571e1870f8abc109cc9bb9a8999009e7cddb327299", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae7ff7acc45808c3620e952de70bd4e41e170e3a80a1707af177c1ec8ad91e10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a638032cb39252da5a31f09b67c7b8be7dfc13b55cc5608792866f10ce02ab33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "260d73ecee0742ae7f9fc99af7fbf73a2fa3fd8b756d419d8a641ef6247e2390", "verdict": "consistent", "reason": "Objective/task per Wikipedia 'Stanislavski's system'."}
+{"prompt_hash": "4cb334bfdef2a309b64613d4d316f94d71265152acb7d217b6d828dd8cbcd106", "verdict": "adds_false_claim", "reason": "Story endorses 'every eleven days, twice a month' as the pattern. Ekadashi is the 11th lunar day of each fortnight, about every 15 days (Wikipedia 'Ekadashi'). Vishnu and no grains/beans correct."}

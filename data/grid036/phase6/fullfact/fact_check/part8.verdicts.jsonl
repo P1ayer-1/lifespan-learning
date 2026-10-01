@@ -1,0 +1,40 @@
+{"prompt_hash": "72527ea40d1e233b2d32b89ff948e9472f0ab0261c53c28c303822b4be6101ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1112baa090f7e6a16653f076ddabe3cd5444890f38d69d85066193af4af2f588", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7ca8a532a6a115eb5d8006775f9d1280d46194a1f4ece0410690a645ce42b1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3795ad7bd0b1aa58eea8ad169092750dff8d974c931c0487d0be9f0bb5ea608", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0dce31342baf7cd257a1a5c35dfdb08bdbceb59f943572b5261c008b8e75cb8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8dc75e1125b200eeb676a537968e287572c9dc214ed8176a9981f68ae7a8f13e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb9aa956cff7f7cbefe19777c555f262ad97d772a6ffffa0ec5aa7f8f8b158e5", "verdict": "consistent", "reason": "uncertain: story calls the Lowood porridge 'cold'; the novel (Gutenberg text, ch. 5) describes it as burnt. Red-room as Mr. Reed's death room confirmed (Gutenberg ch. 2); Brocklehurst family in silk confirmed (Wikipedia 'Jane Eyre')."}
+{"prompt_hash": "89c9d999a48457f921115c71945cbb2365afe6de718c65f9e1fa4c19c854cb6f", "verdict": "consistent", "reason": "uncertain: the graph is called the Keeling curve yet discussed as bending around 1950; Keeling's record starts in 1958 (pre-1958 data come from ice cores)."}
+{"prompt_hash": "bfbd98468b575c534657606ca868d24ac714f00c8d3cd652e631f550cca3b24b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95568246dcbe7db90e5aead9046e3bdadfd7fdc1dd611a5f3d5ae6f98304aad3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "270417d6c17a16090a2e949ffa7547e650bce14348c7be677452b60ec84afa3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2d5417e6445193c05e7be22fef712d0b158177d410eb0d82aa68e41a5cec537", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e310a25c512a35cbf1466ced462a8997715fc3c04ad013434601b89bbce8aceb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "364c805bb2f6a37ca872f0d19e216b986dcdfb990cbfef98e2ca42fd407f6fc5", "verdict": "adds_false_claim", "reason": "The story says a gap counted at barely two seconds was about three feet; a two-second gap at road speed is tens of metres. It also applies the two-second count while stopped at a red light, where the rule does not apply."}
+{"prompt_hash": "3e5b89e595eb6a6ed75172a76e806eb6f0782aa6f456989029d9805fc389c308", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1dc97b08568dde3ef3927486eac2b969fe15a1b217777ec3afb7f904d1bab4cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79eb9f56e187a001c3832a75a87f3789da9f0942d110ffa927195db695becb01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "632716ae4df7013f50e13d66e9b5cbe8ae7889a992b0297231f19ebf4e569ad8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8353f9b42598f7d43ee8653a3792c0477ff0cec21d803d9987bff959853e3b75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "743280a7b553b1d9f460b49dbbfec026dad57d9729d90bc5d5d14c221b280f22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd0e7d5dd93d2192104333131a988c4de4d954c598dc7962ab9864de5b9f3788", "verdict": "adds_false_claim", "reason": "The narration says the $180 would have sat in the drawer 'earning its small compounding fraction'. Cash in a drawer earns no interest; the story itself said earlier that the money was doing nothing."}
+{"prompt_hash": "6c635da5f04efed996c0e8b965563664df93112d7ed1c1ca204e725c4ab52fcc", "verdict": "consistent", "reason": "uncertain: an inner join gives one row per order, not one row per customer, unless the query aggregates; the 41/53 row counts assume one row per customer."}
+{"prompt_hash": "7317d4c7af7dacb18f753f7ec9a54eb8c3721647d01aeb834f21a4b97be2da66", "verdict": "adds_false_claim", "reason": "The story counts the dry-cleaner apartment as $680 'and done', but its lease bills electricity separately, so that cost (about $90) is missing from the comparison. Iyad's line about paying $40 more for the Delmore light is also wrong: Delmore's rent is $80 lower."}
+{"prompt_hash": "481961eaff037aa3c28ac8ef101f0cf7beb9b37e77b664ffe807681450d9dffc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c10b07224b023e2e9fc7abddbd1d5549a7da5abcac1f4b9f2d56d755372ed86", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c776fe10282af8afb3ec8ef26e793e114c93647a84614673d2c0b9cb5d272ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f359c573229d405ca126a39126c38c939e0a337414e72cb6b4ecf90849b527a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a0cf53c3c936bd72b0ed2bf5cb0b80093fb5d52ea85a77d56146b8273518488", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d922e1b1c94e4fbf4ceae89202818363bd97432faba26505731ac7893da670c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "448fb70a3dcc7aa2b302f0c2d949e9c51ec76c54759d249bf1e4d09fdb3c8dbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e51e260275842161bf9d08259e1a3ec7322376aaabbcca3ee398c5787cfea795", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2620d90df96e20df9b1b7ffde5713f9574e5c1fa2380119bc80c61ae3014a51", "verdict": "adds_false_claim", "reason": "The cat is described with wide green eyes, looking out at the viewer; Wikipedia ('Self-Portrait with Thorn Necklace and Hummingbird') says it has ice-blue eyes and peers up from the foliage. The critique also mentions a red flower; no flower appears in the painting (fridakahlo.org description)."}
+{"prompt_hash": "1733dd1c810dc102a6e54dcdf55f91e3c08fdd755bfc6e5ae80d3ba2ce32d1cf", "verdict": "consistent", "reason": "Hard Times character roles (Bounderby, Mrs. Sparsit, Louisa, Rachael, Sissy, Mrs. Pegler) checked against Wikipedia 'Hard Times (novel)'."}
+{"prompt_hash": "14d35d0e9f1c720c3a46a1452457dd89f8e8426f2792b3e2f7f5464fd6d9d231", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc3057d4d1cad07882416cadd8854500eeca323bfb78439e8902b2ed4011c560", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f9a5732edb0fb5f8f48bdb41ba6ad4bdf66f3512f7ced823ce9ca78bccfd6d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9700a81c81f46b7b76b4a3d20641aaf886966cc6d768da74236710dd4d4ad68a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ec6fc1189dd992ea910a504a6ad507e5cd5f8b437e102bf3461a02328ec4adc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f21ef2575aa52a938bd808d41190c3dba013c1708d35c013840352de9dff42b", "verdict": "consistent", "reason": "Cooling-Off Rule details (business day excludes Sunday only, so a Saturday sale runs to Wednesday midnight; notice furnished in duplicate; cancel by mail, delivery or telegram; temporary rented locations covered) checked against 16 CFR 429.0 and 429.1 (law.cornell.edu)."}
+{"prompt_hash": "7c71a5e9b9efc5b530d561d640f4a20d5f7b9a4f35ef0bb6a9e7de0e54a00835", "verdict": "consistent", "reason": ""}

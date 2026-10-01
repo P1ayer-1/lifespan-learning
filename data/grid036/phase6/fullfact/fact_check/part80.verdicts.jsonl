@@ -1,0 +1,40 @@
+{"prompt_hash": "619ddbda4345f8514a456bfa51fc7c47f85a8cb4ab0dfed5a1ee13a9bb9c50ee", "verdict": "adds_false_claim", "reason": "The worked problem puts point P 4 cm from the positive plate while the plates are only 3 cm apart, so P cannot lie between them. (9000 V / 0.03 m = 300,000 V/m and F = qE are correct.)"}
+{"prompt_hash": "1b45cb08e7ad16169db37d663fb8b4840292b0d7cdf7b59cbe3e2fd8b89f6858", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4082887d329c4d8ddfdfa87e6b58d1876527184a737167f823373c2033b618e", "verdict": "consistent", "reason": "Federal funds rate definition matches en.wikipedia.org/wiki/Federal_funds_rate."}
+{"prompt_hash": "22f100e25f92cb39cd5b7e5471c45d178ddebd8cf7a03865e6e69a69aaaca014", "verdict": "consistent", "reason": "Compound coatings need no tempering and use other fats per en.wikipedia.org/wiki/Compound_chocolate."}
+{"prompt_hash": "e9e8a36b852665111bd12cae0ede9665306b3430e820bd1e5fa98c24aff390d3", "verdict": "consistent", "reason": "Saucer pass matches en.wikipedia.org/wiki/Saucer_pass."}
+{"prompt_hash": "574dd098b5d10c501792c786b9db43ca3bc7948521c99a020cc4fc4eba76582f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cddf57d257805e82a543cfd6e003497392996c2b1991c1901680fde3b42552c0", "verdict": "consistent", "reason": "Founded 2007, nonprofit, first online outlet to win a Pulitzer in 2010 per en.wikipedia.org/wiki/ProPublica."}
+{"prompt_hash": "1ebe3bd76128a094a7a2bde116ab74c1e74dd88fe74b6ca09c1377fe4c16bc29", "verdict": "consistent", "reason": "Ionic column, nails, corset, tears, accident at 18 per en.wikipedia.org/wiki/The_Broken_Column."}
+{"prompt_hash": "d321dfb11dd7e7b88fd997a8d9b41a439892d62087ef38f26790c00bd6ed6591", "verdict": "consistent", "reason": "Laura based on Rose; glass-animal collection with one unicorn per en.wikipedia.org/wiki/The_Glass_Menagerie (story's 'glass unicorns' is a loose aside)."}
+{"prompt_hash": "a4d712bea1725cb27d199d74ff536f46324f8b34addaac3568865d51f91e341e", "verdict": "consistent", "reason": "1271 departure, 17 years with Kublai Khan, died 1324, Wood's omissions argument per en.wikipedia.org/wiki/Marco_Polo."}
+{"prompt_hash": "cd044d858f93a33557ce8c92d77026ab8e59c6b0acab93bf099816707b0a54e4", "verdict": "adds_false_claim", "reason": "The story says Edmondson's 1999 study was about hospital teams that reported more errors. Her 1999 study looked at 51 manufacturing work teams (Semantic Scholar abstract, DOI 10.2307/2666999); the hospital error-reporting study was from 1996 (en.wikipedia.org/wiki/Psychological_safety)."}
+{"prompt_hash": "ea2d76791ae3554ac98d67fcf20cb28d9485f6e5fc8a7da2142ff42dbd2bc79e", "verdict": "consistent", "reason": "Deliberate practice definition per en.wikipedia.org/wiki/Deliberate_practice."}
+{"prompt_hash": "bd105da1ddc86c92e2a1d8b9f8be00cc0977b9b379bcf6dda08b6206071a6765", "verdict": "consistent", "reason": "1961 proposal, 1978 Chemistry Nobel per en.wikipedia.org/wiki/Peter_D._Mitchell."}
+{"prompt_hash": "ecd026c33f75b4345fbeac5ee492fb760b314ef361c41e7eecb641840baa969a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3266752d5327ddf77ff2bb0d79e09d84a557f19a63cefb0875b045349d6e1843", "verdict": "consistent", "reason": "Abolished 1951, only state, ID at polls per en.wikipedia.org/wiki/Voter_registration_in_the_United_States."}
+{"prompt_hash": "f87dd0c113d5bb310ac512c1f1081409b041d79af4904fab0797e00a8df2c242", "verdict": "consistent", "reason": "Opportunity-cost basis per en.wikipedia.org/wiki/Comparative_advantage."}
+{"prompt_hash": "f672d821d9b81c804c8c6d75cee2c2b84c9158e26c422a964f4af04513aac33a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84bf4a49a27ddb1f4b6170135ca4aaf4fd2cbfe399dc5ea2a2ad2107091e6053", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b2c0952042947ccb3e2b7b4dccd506b94f04417d77911260fd6b6e46ff7f24d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88fa0e6f6408eb27368c1da3f49da1cf854a204ab0f4cb07895f3bfee12be06b", "verdict": "adds_false_claim", "reason": "Hunter reads the table as saying about $70 of the first $91 payment is interest. On a $4,100 loan repaid in 60 payments of $91 (about 11.9% APR), the first payment's interest is about $41. That also fits the story's own figure of nearly $300 of principal repaid over six payments."}
+{"prompt_hash": "868499e38b03fd13e7bbf0f7f96ecf6e12cb11c7092350345dc2241a20b4d669", "verdict": "adds_false_claim", "reason": "Madison calls 'this' five letters. It has four."}
+{"prompt_hash": "4d1c0df7e210887bd4682c35c7acd519a6731c8e9739809806b6435598ca2fd5", "verdict": "adds_false_claim", "reason": "Austin judges the chicken done by tearing open a thigh to check that it looks white. CDC says to use a food thermometer to reach 165°F (cdc.gov/food-safety/foods/chicken.html), and cooked thigh meat is dark meat, not white. The CDC fact about washing chicken is stated correctly."}
+{"prompt_hash": "46d59f89c781844f13aa8831ecf761dd2291182ec808241f8316506c0a19d2e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9de82b7f60787b3d133e2c734e530780c68ab62ff3d4e4cc12150689b1dced7", "verdict": "consistent", "reason": "2001 review by Baumeister et al. per en.wikipedia.org/wiki/Negativity_bias."}
+{"prompt_hash": "656986be15526d08e83d537b368cc0a48aba64086ff22067ee94ac6ab396c974", "verdict": "consistent", "reason": "SIFT expansion and Caulfield per hapgood.us/2019/06/19/sift-the-four-moves/."}
+{"prompt_hash": "1170f65970edc105db8f92dfc8f739358ca47273e3e7981f360a0e5327f28e8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc9b5b3496d901d6652e095414ebc283179c1b455978607b5377bd4370a27a2d", "verdict": "consistent", "reason": "Nature rejection, Enzymologia, 1953 Nobel per en.wikipedia.org/wiki/Hans_Krebs_(biochemist)."}
+{"prompt_hash": "eb31affdc1c0b8cbfe170542409f1b42a06523d57313aa598aa9162282b623fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72e273e168c537e9554d2004afeceaaaa39e96e1b33f2a765c053156a7d5c3d0", "verdict": "consistent", "reason": "Stairway proximity finding per en.wikipedia.org/wiki/Propinquity."}
+{"prompt_hash": "0bbb9b145050462ca542fd608df6cfe24e16c6b82c170668470f76e12b32a9a3", "verdict": "consistent", "reason": "Life overrides Sabbath rules per en.wikipedia.org/wiki/Pikuach_nefesh."}
+{"prompt_hash": "e6f0110baad41750c6611ef29fe919286b90076bbaf6622a101b548642984f34", "verdict": "consistent", "reason": "Boyer and Walker 1997, proton-driven rotation, three catalytic sites per en.wikipedia.org/wiki/ATP_synthase."}
+{"prompt_hash": "2e6ef5f7d1957415e2115557df79539f119db86be57ac234f9a2d0862d489882", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46ee9d20d67be628ec1722262552964c9b89a0a91b4d16fe3332b7799d7831ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b49a24622c6d04aeafebdebed536c96a4a1eacdf6facdfe6b8c62a16a301d98f", "verdict": "consistent", "reason": "Definition per en.wikipedia.org/wiki/Automation_bias."}
+{"prompt_hash": "1f513851ad7086c0fce127393e59b9d9745e94dba49d659af2c8b61a1bff204a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19538ecb98ad79320fbbb04911b13b1d3068e1831f614b8ef6eb84e56492914c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9726bef02bcc84bdce5e84fae002056e9153a9cd3afe85a0c58e817e1f39053d", "verdict": "consistent", "reason": "uncertain: a student calls Snow's map 'basically the first spatial analysis' and says nobody saw the pattern until he drew it; Snow's map came after the handle was removed (en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)."}
+{"prompt_hash": "079bc30b45642830bfff56817482340fba6927a35b0eb071864fc8e4d1a87e4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7c60d8ad0dcc39f674bdc1656f34063644016acfdb1575e8ce4b540ae104051", "verdict": "consistent", "reason": "29.1% aged 65+ in 2022 per en.wikipedia.org/wiki/Aging_of_Japan."}
+{"prompt_hash": "7efb306d388b5e57c846e592210c7b8ac7e2fd2db2d3c3633c281ae6a41e6282", "verdict": "consistent", "reason": "2,165,776 visits in March 2025, a record, per foodbankscanada.ca/hungercount/."}

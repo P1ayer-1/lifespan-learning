@@ -1,0 +1,40 @@
+{"prompt_hash": "61204d6f3e0cc6f1d9912cc3cba61803337929de42bdf0d5f64899a60e68ad24", "verdict": "adds_false_claim", "reason": "The story puts 440 Hz on the A below middle C and 880 on the A above it. The A below middle C (A3) is 220 Hz and the A above middle C (A4) is 440 Hz (checked: en.wikipedia.org/wiki/Piano_key_frequencies)."}
+{"prompt_hash": "0034856db449284fcb5c354bf9006b7d473ce64376235c10034ea05ddd4aa479", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa3c762548981a19060306bd7824967d80811b9ef584699e13aa048b6e552102", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "500e50d8d50776b7f3b3ec4be48b921015d3a9912fdb2cd7cedbabc1c043077f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa7aa7a2a69ea9ed8c538d703c5b3db1602d782e08dcb2ac4ef715a501032a74", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f2efd183987ef59df6c909584cec0b7871f7e05f9bb02e7bb6f550e54e4c920", "verdict": "adds_false_claim", "reason": "The story says chapter one shows Sheppard walking to Ackroyd's house that evening. Chapter I is 'Dr. Sheppard at the Breakfast Table'; the walk to Fernly and the 'left undone' line are in Chapter IV, 'Dinner at Fernly' (checked: gutenberg.org/ebooks/69087 text)."}
+{"prompt_hash": "d932163ea375229628e27f5dce5adf6535b0b5f85c0c3051f26702f108fa39f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60f1710ed98120e2e75864455788ff6758b9f321ade9b808cc649123e67767fa", "verdict": "consistent", "reason": "uncertain: story ties the exercise burn directly to lactate; current physiology attributes the burn mainly to acidosis/metabolites, with lactate only a contributor (en.wikipedia.org/wiki/Lactic_acid links 'The Lactic Acid Myths'); passed as a grade-level simplification."}
+{"prompt_hash": "ea6a5ab465c3f5241fe01dea640fee0c85fe040c44d8018e454fe634464bcfa2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b828c2b2a52b055a18faa10897cc4281dd8e2f0f0036f829a9d32415960fc17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44f14c06bfa96b9bd84ee796eca1167d227a63192237330cb03f1207c339b050", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6073b8dc4e20086ae7fa7046ec5add6ac3f07b79d42d92ec7bc57cb3fc5d323e", "verdict": "adds_false_claim", "reason": "The cream that rode in the same bag for over an hour at 94-96 F is treated as safe and used because it was sealed and shaded. The 1-hour-above-90 F rule the story cites covers all perishables, dairy included, so the cream should also be discarded."}
+{"prompt_hash": "01c0e56b0734b3807238c14409e6d0ea002b538f0ada0334f85f38397a2814bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ac8699521453200041cded1b53c3e6f8daaaff1301724aa625a696cd2e4c2bb", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Twelve_leverage_points (1997; parameters weakest, paradigms strongest)."}
+{"prompt_hash": "ad85efa9f7635fbc7b061192c70a00666b5c4265ebca22080bfec445c7f24327", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c6474f66306c93e2ce6343df8769b28c94fd418ac7c789123ef7a5ef0ad57dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4f79873c9fe64d1db11fd11a2c574d40f5625f0404d9b908e3bd28c95dcf071", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c117ff33568581b0347ff12017332ef3474267d5e404233e2e8aab126a41915", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93d1fb155e1f2d1eae97b392d23d8391c3c0e0bc13b88a49a25a29de8e80ddd1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43a015eb44e4df984726db4c98ec8a7fd68cbca4b0d368148886cad8a487fb2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ac011af492baa35fbef680b8e87bac2e67f51797c2f9a26902f56ca36236df7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5127e23f0472571612000bc4d9d82a5f34366f58c4677d48fbc4b5815f98c0b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a8d2a80ee3ff0761731ae1b9a4169c3afc233656cc69cbe86c558bb45475e09", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Chocolate_tempering (seeding; dark working temp 84-88 F)."}
+{"prompt_hash": "f02ed76fdb2d6ec6c3248fdb637f16ce389be09b801565016b23702d08c57162", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2efd6fb9298eb17996079966d60d9663844081b2fa31c4c4856e007c2469c0e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be5df2cfbac5e830090b0f80022da53166ff3660a663d40e91c651276658a0b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2cd1cd1221bf0a4748287b7196c450875d3be2a8fdc994502832d666a45d0710", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9312884172beee5cd84fc18e7e56df262dc2d6b044741827bafe50d3e04ec2eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d057a7b5c329413e09462d35c83b1776c7753522355b6df0da80604b4d27061e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e9eb69ed05f4b07fa1526dad38765d28da36e2560819741d129eb5aa99bb2bd", "verdict": "adds_false_claim", "reason": "Before her test, the learner practises on the public road and drives teenage friends on the ring road with no qualified supervisor, and the story treats this as fine. In Great Britain a learner must be supervised by someone over 21 who has held a full licence for 3 years (checked: gov.uk/driving-lessons-learning-to-drive/practising-with-family-or-friends)."}
+{"prompt_hash": "ed1cf0c865ccad969530ea1a0b5cd8c3b10684ccb6835222bc17262be293b88b", "verdict": "adds_false_claim", "reason": "The story says de Beauvoir wrote in 1949, 'nearly a century after' Jane Eyre. Jane Eyre was published in 1847, so the gap is 102 years, slightly more than a century."}
+{"prompt_hash": "5b93fc396cdf996435189410a7ff9bcff4afdb3bac0ac89e661b73e049688c2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9fd703bc64a4f992d3b0955a33526482a78ecb5c06b0a1a0b2ddb6fa4509a39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6520ced72030f5b070276ae45ab084973a3ca55951684de83a8e4088e51ce8ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e00c64b83279a4e62ce46d659d866d55bf1cc69765cc416834adc9c7910b600a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Instant_replay (1963 viewers confused; 'Army did not score again')."}
+{"prompt_hash": "3c641237c957503c359f1154fd0daa97f2c49b936c7c975b0ae6a87bad34cec8", "verdict": "consistent", "reason": "checked: uscis.gov/i-9-central/form-i-9-acceptable-documents (Social Security card is List C, needs List B ID)."}
+{"prompt_hash": "82593581ef9bcca61d5bdeef1e61e4343880419d4923da1944f130a96045cb37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "729ccc1cdb0d2c4adc756518a29eb672f22ca83b820e89a35bd7faf8ab1d7468", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cdd4e9f9f077b3d6ce6c818f48b581f460bd2a9eeb8be5b1546f2c3877c936a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6790d24a65cbbd647f89f941331a540edc45feab252add03574c47a71eca698", "verdict": "consistent", "reason": ""}

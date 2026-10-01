@@ -1,0 +1,40 @@
+{"prompt_hash": "ddee927a6b296166676a5fdb0b8c14f06e03e4fb2a7a6465f1bad24f14e9d5ee", "verdict": "consistent", "reason": "Etymology matches Wiktionary 'mediate' (from Latin medius, middle)."}
+{"prompt_hash": "f91f0f9e9e0e782ac70d2d769d63484ea404c8cfb3aa65242b96cb26fbd9acd1", "verdict": "consistent", "reason": "Conch smashed as Piggy is killed: matches Wikipedia 'Lord of the Flies'."}
+{"prompt_hash": "20bb41a6e67e6154f34eaa4aa35ddbf768c2353b1495bb936efbc858191940d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa6ceb67135eb84461449ad17820cd74e3645d1bb45643f13ab3f6674085dbf5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f2ce308343089c8a071b46efd71574799f0e7584ba9e833b5326af660150c4c", "verdict": "consistent", "reason": "Three-step rhythm and bent-knee lead leg consistent with Wikipedia 'Hurdling' (partial knee bend)."}
+{"prompt_hash": "0c1d498b2ae2a6b6ef5991e4e0b1fc2f9ba0768fa3bebac5ff6695d41d64cfc5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2071e85e09211e13f9241c3fe603a740feb0f716c4e50b353fc5770cdf7471ad", "verdict": "consistent", "reason": "Verna, CBS, Army-Navy, Dec 7 1963 confirmed by Wikipedia 'Instant replay'."}
+{"prompt_hash": "ae55574252f4c0d6a8580d2acbad56860d82ba07a5b8ddf4f45505bd5a42d30e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70f97630b07aa4727c3cc3f492126ca5364ca92b5fbe74dda0e2c050aed17c0d", "verdict": "consistent", "reason": "Official rules say Free Parking pays nothing (Hasbro rulebook monins.pdf), so the money is a house rule."}
+{"prompt_hash": "7544ca057da42239a64f54ef6cb58591a75ba3f99870f4f74dbabf2f2cdf1896", "verdict": "consistent", "reason": "Definition matches Wikipedia 'Hostile attribution bias'."}
+{"prompt_hash": "c251ed6b08c49529078bcb2c320e1e1cd277bcd4628494f115217dd6dcb7539e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40d3e91e5b2e4ea28795302a769f4a6a2425a3f70a4bd1402fa91acc1379adb8", "verdict": "consistent", "reason": "Card stacking definition matches Wikipedia 'Card stacking'; 40-12=28 correct."}
+{"prompt_hash": "cd3ab9f8012b7f5bb1dd58f8f89d931b2cbeaee41d6c5003c5fa9e4e8fc9709e", "verdict": "consistent", "reason": "Hasbro rulebook (monins.pdf): bank auctions declined property; bids may start at any price, so the kids' $10 start is their own agreed rule."}
+{"prompt_hash": "cdcdbd324546cf30e3247bc8cea885955b015c8404721a0da72236632d19c89b", "verdict": "consistent", "reason": "Greek eu- + -logia, praise: Wiktionary 'eulogy'."}
+{"prompt_hash": "f519a528f49c27b0ee999fccf29e5fc3e5806c1606041c21812b4f9a782f3d6d", "verdict": "adds_false_claim", "reason": "The narrator says each gap between the circled days ended on the eleventh day after the previous one. Ekadashi is the 11th lunar day of each fortnight, so consecutive Ekadashis are about 14-15 days apart (Wikipedia 'Ekadashi'). The story's own 11th-to-26th example is 15 days."}
+{"prompt_hash": "eaf86b2ab4c3fd58f0dc4b9495891e28a8f6a98ee286fa1075e5735bd7b170d2", "verdict": "consistent", "reason": "V points upstream and close contours mean a steep slope: Wikipedia 'Contour line'."}
+{"prompt_hash": "6a9e09a82c1ede45430b4d08d5846a3b90ed60d6c58371326de86a6a17a6a9dc", "verdict": "adds_false_claim", "reason": "The story shows a Supreme Court justice giving royal assent aloud in a courtroom during a class visit. Royal assent is given in the Senate chamber or by written declaration to Parliament (Wikipedia 'Royal assent'), not at a courthouse."}
+{"prompt_hash": "8535f1afd93025c59efa7997986fd74ecaaa10e53f60da4b6226552f14918641", "verdict": "consistent", "reason": "Small 2016 Binghamton study (Klin) on periods in texts: Wikipedia 'Full stop'."}
+{"prompt_hash": "3f29239cd23af65413874fc94cf7eb4b96c437c031d5857bb2332050f4aac5a8", "verdict": "consistent", "reason": "Fahlman, Sept 19 1982, CMU board, joke marker: Wikipedia 'Emoticon'."}
+{"prompt_hash": "1611affbd3b5f9cfe50a58a0f7825eb319c1e610b6fd7b6fad0daf5f5d95a55d", "verdict": "consistent", "reason": "Keyword auction and pay per click: Wikipedia 'Pay-per-click'."}
+{"prompt_hash": "a84e8b2a882b125fc5b33e495280b512ea506b3036a9385543ac8f4c9cc67201", "verdict": "consistent", "reason": "Rogers and Farson coined the term (Wikipedia 'Richard Farson'). uncertain: the 1957 date was not confirmed on a fetched page; it rests on the pre-verified injected fact."}
+{"prompt_hash": "bc07d956e864ca0d0a6deb7c6dce64e02d431cc470fc400ed3c0eaf56f345862", "verdict": "consistent", "reason": "Wikipedia 'Serial-position effect'."}
+{"prompt_hash": "4b8ad1ff9dca4b1d321ca0a2bc97385ad93bd04e0fce8332d86b2b1a6d763238", "verdict": "consistent", "reason": "Founded 2007 and True to Pants on Fire scale: Wikipedia 'PolitiFact', politifact.com Truth-O-Meter principles page. uncertain: whether the meter's needle sits far left for True was not confirmed."}
+{"prompt_hash": "cbeda66b8324da1d70b4cb864a3f3a7164f70216240efa3b29962dc255ed822d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad5961e2ec699732f270775089c7ba3e73497965f199285a381d41d64e6d8753", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b528976b33d296ed644b4f81ea97aa4d4d5b84f9c75e5a84b2ed072e66d75f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e6a15ed7a58a00e45118cfa72b5b5a2dc2fd7a793c3a511be4ef2a415ea5180", "verdict": "consistent", "reason": "3/4 - 1/3 = 9/12 - 4/12 = 5/12, checked."}
+{"prompt_hash": "c4a763204659d15d890b5e35afa8c5f83f49fc8b891848c30e2c3d214a0ecb35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7d9680c9c970d31cc3c01a12b22f88ea4df43be54a74eeb553407aee9652065", "verdict": "consistent", "reason": "Wikipedia 'Chopsticks' (looks like incense for the dead)."}
+{"prompt_hash": "9854d592f940a760a4291b85df4b17a06ade0fe3d5ac1943df265292525f2dfb", "verdict": "adds_false_claim", "reason": "The teacher tells Jordan to match his E string to the A reference until the beats vanish, and the tuner then reads A. A guitar's open E string is tuned to E, not A (Wikipedia 'Guitar tunings'), so this would mistune it."}
+{"prompt_hash": "c39eccb152a40ae3cbb5319875a3c06e294b8ba0f8f5ba3a55bd3e923dfa189f", "verdict": "adds_false_claim", "reason": "The story twice says Madge gives Katniss the pin in chapter one. She gives it to her in chapter 3, at the Justice Building after the reaping (LitCharts, chapter 3)."}
+{"prompt_hash": "be3afcbcf09f7871afca4ccc138cabcea164202f368b267c490033b9fd6d97b8", "verdict": "consistent", "reason": "Misr, Prathet Thai, Ellada and Deutschland are endonyms: Wikipedia 'Endonym and exonym'."}
+{"prompt_hash": "e3b86d9d0873cd177b28de90c2a16876ef4a99489e5b16b80b0694fe54e046b2", "verdict": "adds_false_claim", "reason": "The story says that on the night Mom took 71 seconds, second place was a whole minute behind first. Dad's times are about 38-39 seconds, so the gap is about 32 seconds. Joshua's 53 seconds would also put Mom third that night, not second."}
+{"prompt_hash": "5b4ef6c084826cb6a07391e2e38884b76e248f9b5cf74908b112219dfab57772", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ffc3678213f529fdf931c4463c356e3fa84c73db8233df1ce54bd70f0bc18ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0981faeba83707b9dacdffd8bef5f3724396011e66a5df5f74171f89fd851677", "verdict": "consistent", "reason": "The A below C is a third (two letter names down). The arithmetic of the intervals checks out."}
+{"prompt_hash": "4037e354f1685dfdf12f48dcc2bc366201fedc7d757797ebf40d7b1af0d0ec28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9465cae9f8daabd3c8bb7c07599ac934c9e142ba1f5a80aa3d5df6120203c1dd", "verdict": "consistent", "reason": "White is the traditional mourning color in Chinese culture: Wikipedia 'Mourning'."}
+{"prompt_hash": "78280354099b3e258a53ba36324b55cf35a7b8ef0b7c7aa19f4c32b10bb98979", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a99729e79a1fa34a929806d394337159b3945313aea5aa3073cea6a0dfb5ee22", "verdict": "consistent", "reason": ""}

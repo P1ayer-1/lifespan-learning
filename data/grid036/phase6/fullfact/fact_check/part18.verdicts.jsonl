@@ -1,0 +1,40 @@
+{"prompt_hash": "532d546269cedb8e16d5f1e40096926b6c6f4714e08b7c6667b0b85cb5a3ef1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d07965b0741cb03c2839f6a978f63c9dd34ad5c69552fdcff7fb7870f53aad7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85b4693340d8d9fcea77efa54dfa9757aed5d66616e3eb1926d216af14ec707f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7dc18a13a200398ddd0313092eb44abb6aec0a2e2e42a0e497734a1a7e105d04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec5949a2b29d7da5018bdc9b3c6e152fcee598dfc8a00cf434971bf10a98258a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c57f01d9987332f1a5d180830b445db929f7770b6cb800c22d696916a9912e36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e649441d6570405cc08c4d2ba24429853a77cb91c01a6cd7de5bec33eafdbd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02d11102810a81dc7c8bc4b27df205a4985c3d4245879af4fe24f53866092e2b", "verdict": "adds_false_claim", "reason": "Narrator says he lit the four candles right to left as tradition. Standard practice is to place candles right to left but light the newest (leftmost) first, going left to right (checked: chabad.org How to Light the Menorah)."}
+{"prompt_hash": "89168b91fb6d306c445708ff913288748fe38762fd4407b58c93da4fd8c6b1c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79a8c08dd627964e4fea110cc574a3c4f37fea73f7b62f38d0ca67c6d32c6985", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d12c17e7f188b2043be069441d8a3ed85550473d22b664eb88a9cc700a616199", "verdict": "adds_false_claim", "reason": "Jane's Thornfield salary is given as forty pounds, with Jane correcting Rochester from thirty. In the novel it is thirty pounds a year, and she inherits twenty thousand pounds and splits it into four shares of five thousand (checked: Gutenberg Jane Eyre text)."}
+{"prompt_hash": "491fba8fd8ac25880f02f12e3437a90b1aaab90cdbf89bf8c4e6c4bccd5a5143", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0569102da2777f4858f76796d750ed74abb2a477d7994b58aa2594380f1c9766", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46aec5eb63eaae65aa4ea1d55c3a7f7891d99c705fe185c8da7923f70c46543d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "767ec55d80eb39a7f7cb3707a59a3d7ae92405dd57aea8c1864249b0844d589f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b91fe7a8d1d86fe8cfef58e7cd4cf33f56402f9d9da53bf8d8c4da6f3395dee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69b6ce215318d077fa39f5de68bb06e402e1aa28cd9e295f979578e83ba6042f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4840c5a04095441723bf1ff3ca68c679f4b727b9c9b1c5d6ac3c13dbfcf689e3", "verdict": "adds_false_claim", "reason": "Alperovitz is said to blame the Cold War chiefly on US economic ambition and open markets. His known thesis (Atomic Diplomacy) is that the atomic bomb was used for diplomatic leverage over the USSR; the open-markets argument is William Appleman Williams's (checked: en.wikipedia.org/wiki/Gar_Alperovitz)."}
+{"prompt_hash": "b3f58e862062e7c32c2f513f127dfbb84886f6d23d16fa3fd8df1e70a50f879c", "verdict": "consistent", "reason": "checked: Gutenberg Poe Works vol. 2, The Tell-Tale Heart opening (senses sharpened, hearing acute)"}
+{"prompt_hash": "f4a242dfd8c112c43ea5d7469d426f00919a30e39b5d7289a472ec72c4bef229", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9e64a6b1af00ff78eeaa1c13ffa354834a7b4866d2ae9504dc762493f60bd89", "verdict": "consistent", "reason": "checked: PubMed 12421889 (Madsen 2002 Danish cohort, 537,303 children)"}
+{"prompt_hash": "5c063b7138d9b350c550d7dec8565f3c1007cfa71719aa7fde67efe969bdb62b", "verdict": "consistent", "reason": "uncertain: the prosecutor quote attributed to Foner p. 212 could not be verified"}
+{"prompt_hash": "8e9fe8409e8485ac4d0d65df29e3cc1e07ac3302b62bf082c237a5691c82faa7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9345299a97f6229393dd65972a9e2ff52e18ee28560b4849fc918e347a21027", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3219f2c74676474d6ccbe98c96d1897261ba217481066830eb1ead9477b7efd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cf7a0e7608517b7d2d95a06ca375f38c558e337d65872d84ea3896f80a136a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d1b0211d856fce29227a473a3a88d64b3998ffc6dd486a8cdbdf3c8d25adf44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9b5f0f4c4283709c1dc998b4f1d0ef3a86a7fc01111e09060a36f0dcc8fbe8e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d978e0c7e7227e6b03d8232b64d7ba20e21dd856c6d926c79aeecf77008429fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "840d54882dea862c1ac4a338fa2525b041fec3a428b4c1b37714086e42bd26ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e9330f37ac970a92ad54e63263c4996a750641915995a37c65a9accb845d2dd", "verdict": "adds_false_claim", "reason": "The narrator says the headline packs two events into six words, but the headline as given has four. Amy also calls 'the' an auxiliary when it is an article."}
+{"prompt_hash": "745a15024f851f02bdc7eb7e9106f2beab4c14d2dae839f782b9611b741b32cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09fe83ec9e9a72edf60becfd5dbdd0f70cc290f611797d11e0a945bbec1a9087", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a51f0e0effcf1610018cb98cb59b19da12a113cadc0242ed905297196d858b99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2895ae43a6a176855cab3fa48fefe89a2fd31adbc0a25c3510f461af625a3806", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eab1478054848e3163e1da9cf9b87f121fa852285c1ffebdbc9ad2fe66265d43", "verdict": "adds_false_claim", "reason": "Peyton dates Carlyle's view to 1847. Carlyle's The French Revolution was first published in 1837 (checked: en.wikipedia.org/wiki/The_French_Revolution:_A_History)."}
+{"prompt_hash": "d7171b7830066c2bacdb3aa67e8e9ba6c4096c744993839d65771ca7ce5c8f89", "verdict": "adds_false_claim", "reason": "The narrator says deleting 'void' removed five letters; 'void' has four. The bug is also impossible as described: with only a void method, calling new Book(title, author, pages) would not compile, so the program could not run and print null."}
+{"prompt_hash": "29ebb241f261815edf162d6aad1e9ec493ec18880f03b15adefa7b2c10d027bc", "verdict": "adds_false_claim", "reason": "Nicolas says Gaddis 'wrote We Know Now' and this is never corrected; the book is titled We Now Know (1997)."}
+{"prompt_hash": "9da5dbc22415c52971f5f8f8111263fe34184d125cb43349d70f0d92ef576eae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5b01fa6fb82ff0c026f9a356a6a096907a03c9b0082d8c00c2f4da57557f2eb", "verdict": "consistent", "reason": ""}

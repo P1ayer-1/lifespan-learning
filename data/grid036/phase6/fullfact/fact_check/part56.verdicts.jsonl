@@ -1,0 +1,40 @@
+{"prompt_hash": "54ed5f1ef59d2a58a35c32648aa8f3ebe1bc89ccf7ff118e03cbd8b2b090d172", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e94ec9147932a8d73a5303552642b186dcb9165afbd3cff4cb7ed659d9ddb0e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Clef (G clef on line 2; on line 1 it is the French violin clef)"}
+{"prompt_hash": "48a00054d46a8c3530086b1861f8bf25f206eac3d7610ac8b116f89ae53829fe", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/A440_(pitch_standard)"}
+{"prompt_hash": "0250c5533dbf02d8d7c84e09cbcfbc61ebb0c7e4ea1a6cd1cfaac18075fe2e6d", "verdict": "consistent", "reason": "uncertain: no fetchable source for the Chartrand and Bargh 1999 finding (PubMed/PsycNet blocked, PDF scanned); it matches the injected verified fact"}
+{"prompt_hash": "47d23b47492e80bcf7ae377b369ed1e39f841051ea71a9fbbb382bc38546915c", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Code-switching"}
+{"prompt_hash": "ffcf8c6da5189b4372838546f704ec0be5c7f620fa4f688677259aad4340ffba", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Lancet_MMR_autism_fraud"}
+{"prompt_hash": "b16ce33c624c78302d5df7b1155f6238d22c422feae1e3c4446bbed41dab755e", "verdict": "consistent", "reason": "uncertain: background titration of vinegar into base where the pink fades and then stays; with phenolphthalein the pink would disappear at the endpoint, but no indicator is named. The mole arithmetic (36/18 = 2, 9/44 ≈ 0.2) is correct."}
+{"prompt_hash": "aa03460305477443ccd0fbb9f4d421ecb7e159e2d9138bcd521e4f5d50ad28dd", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Meselson–Stahl_experiment"}
+{"prompt_hash": "1c78ac25598ef6938dab69bbef79517be950b89063fae7d83bb0c1f83e151cc3", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Two_Fridas (173.5 x 173 cm; Tehuana Frida holds Diego miniature)"}
+{"prompt_hash": "dcb96ba4ac9ca955ab05826e6a608a50319907711c8ed5061b4a6e10024c7022", "verdict": "adds_false_claim", "reason": "The box volume for a 30 by 20 cm sheet is given as 400x - 100x^2 + 4x^3; 30x20 = 600, so V = 600x - 100x^2 + 4x^3, the derivative is 12x^2 - 200x + 600, and the maximum is near x = 3.92 cm. The roots 2.19 and 15.14 are also wrong even for the story's own quadratic (they would be about 2.32 and 14.34)."}
+{"prompt_hash": "bd7bfc6fdb32cbb994169ebd3eb5d74c7340d3230cd4d1a29eac6894f2cae87c", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Diwali"}
+{"prompt_hash": "b6c1d132ede8bfe8ad42f33484aee6d9cff47aa1dc6856ccea9fb5e6d9486b11", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Inverted_pyramid_(journalism)"}
+{"prompt_hash": "36ac91b1eb2f526c3f08dc7a85cf392086a82eb4ab5069d6452740bf117b915f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/I-message"}
+{"prompt_hash": "c7bb514a287de11e2025e86a597879d5f3b0506b4d1942e1b3dd975297630595", "verdict": "adds_false_claim", "reason": "The story has the European Frida in the white dress holding the little portrait. In The Two Fridas the Tehuana Frida holds the miniature of Diego; the European Frida holds the forceps (checked: en.wikipedia.org/wiki/The_Two_Fridas)."}
+{"prompt_hash": "561cc731561271a95883c356086c3c3f99b8ac723c0cdd3e418fb2d0b55d2097", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5322d44668199082fbc5ec80494dacff3000986e3aab1b1bf9191726e780ab87", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Blocking_(stage)"}
+{"prompt_hash": "39a934b1c37581ed2a7f2c45b76d8c78eaf744bff6807b388909c9b3be0f1e7e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Contra_proferentem"}
+{"prompt_hash": "470daa7383c8d8387429693c0978f5533720fd21b60b6af635d0b3de45a766fc", "verdict": "consistent", "reason": "checked: bls.gov/careeroutlook/2024/data-on-display/education-pays.htm"}
+{"prompt_hash": "feb51935450e441fc0a29fbbc0ffb3b17219516a23dd17ec37e327a5375d0624", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Misattribution_of_arousal"}
+{"prompt_hash": "34a6cc2d0572be43d0cff148954ed1b44cd494f0853467e23ad8ca9d4c16b2e7", "verdict": "consistent", "reason": "checked: cdc.gov/chlamydia/about"}
+{"prompt_hash": "21bd95159d77994bf8b106d1045e548e4e2718c98bd4b2889f7538358c414abb", "verdict": "consistent", "reason": "checked: foodbankscanada.ca/hungercount"}
+{"prompt_hash": "1c880521187e9e93bc0e1c36a41dccbc3082c2ac0c9e26d0e6c222b6fbdecdbd", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Two-second_rule"}
+{"prompt_hash": "147367417bfbe4429f9030fdcd03c59f8963c07d5ed028c52ccd7c54e26c07d2", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Tuckman's_stages_of_group_development"}
+{"prompt_hash": "34e02d3d4fe52495284348f717cc755eb4f95de6151d8e37d5ec3629db5c32a7", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Stanford_marshmallow_experiment"}
+{"prompt_hash": "a1e9b267e5fc3dd8b2e6aa77c77b99e0dae889be622c4052fef35dc794757f4b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Frida_Kahlo; en.wikipedia.org/wiki/The_Wounded_Deer"}
+{"prompt_hash": "b42e9775483d050978794454062b0dd953e5c9d4a0e4a2f67b6de1adf2d9caa7", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Maillard_reaction"}
+{"prompt_hash": "d3dd78107c2e3ccf1db1461d3a4bbe620b06efe46d6dcf27611c6a3aa0c0c373", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Metronome"}
+{"prompt_hash": "384bdec13066293339246dfc60f362cf28acecf2d92856ff7401cfd6be6fb648", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Greenhouse_gas"}
+{"prompt_hash": "e8ed77bdf8a24f01469f5c76ab7815f2fc7cd51d21bf44adbc35e6c8faf481bb", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/At-will_employment"}
+{"prompt_hash": "0706444e3ebdba8f16ed2ff0d603b6b00da0c67647c41366f4a7812e2efdec02", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Le_Chatelier's_principle"}
+{"prompt_hash": "13f759327fdc73d43bd9df6c97d12511629edabcf544314fe1a478aacec6e6eb", "verdict": "consistent", "reason": "uncertain: the line about the conclusion and soundness is worded loosely and could be read as a reversed conditional; it can also be read as 'only a sound argument guarantees its conclusion', which is correct (checked: en.wikipedia.org/wiki/Soundness)."}
+{"prompt_hash": "be5e9946957a6e0bf80960ff751d92fa39089b9aa98cf20ba75919fa8dbd89e9", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/1979_vote_of_no_confidence_in_the_Callaghan_ministry"}
+{"prompt_hash": "00ad27ebac361e5dd2654e5ec2d26c51d59657b100eb36415d2f3c18fb3c6c77", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Tuckman's_stages_of_group_development"}
+{"prompt_hash": "12f2f1b4f543df7b28cc13eaf78f65508f0120d7964eb03c459e4ca17703a14f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Heckscher–Ohlin_model"}
+{"prompt_hash": "e4aee7a198d8d42f040a8cc0df0cb19ae517cfd3c4b25815f6340e4760568013", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Day_of_the_Dead"}
+{"prompt_hash": "866b2bd7b0df44d40d73225de9ffa8c71e8dbf07103801d016958659d3940996", "verdict": "consistent", "reason": "uncertain: the claim that the pendulum swung after the Soviet archives opened; the revisionist turn (Cobban, Furet) began before 1991. Thiers dates, his praise of 1789 and condemnation of the Terror, and the Commune checked: en.wikipedia.org/wiki/Adolphe_Thiers."}
+{"prompt_hash": "b3e9a9f9f3dd18b2b511b309eafe50fa2499562221500a1df834937166b53069", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f5eee4e22b90ba4dfa3e151b8a26b1230f2596952c970391916ff6e386b3e54", "verdict": "consistent", "reason": "checked: apcentral.collegeboard.org AP 2-D portfolio page"}
+{"prompt_hash": "07076489bec97bdcf9e7f207441eeea87016995ee28c7f03710d7a11153c526f", "verdict": "consistent", "reason": "checked: law.cornell.edu/wex/infancy"}
+{"prompt_hash": "92ff263a7231b2f4d7e1a2fdf9f567f22ea1e1afb35429ced9a9a056ee05473b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Mortgage_loan"}

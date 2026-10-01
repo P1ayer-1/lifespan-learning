@@ -1,0 +1,40 @@
+{"prompt_hash": "130d7ea7af768e52c997ff216fe4e77cbef2ee5201f4ae12bc392d4ae9649285", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "069da7af83121a514361d31e2fba91a30dbb915c1ccd693f5f86ae7842c8ec9e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "963a5295c32d3473fd7ee7637c70a210e80876a5bc863aa9c5de46f0803b1a3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e36b6d86cb6e881a814a0ec80b0db47aa2f96ceb206bdf48254070492256e2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bfd2050cab0d7e959ad51364715cb87240f6387fa1ce9073fcf20bc0f59fdbdd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24b45b6599ed315da519420e36c78e788c70883b0eeade10acb8b0136eacd25b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc6bcd05090722340a046825f738cd635bdf7a9d5b955bc3465a9b5988ce36d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3605e04056429d92c5107ebb01d1f8b56b395b686f45293af3f5984cdabd9141", "verdict": "consistent", "reason": "checked: Frances Wood claim and Polo's prison dictation backed by Wikipedia, The Travels of Marco Polo; foot-binding before Polo backed by Wikipedia, Foot binding."}
+{"prompt_hash": "512373ca22a7272823aa4e10b5f34286b25f1c3941f9a6b3f83643df37d432ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e35f4128dd70ca8d6c0d86d268d88a80a16b6139bd7b23c929331ddb2b4b0b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "205b3b1c4ade5cf7e979fe2c74f6a293ac55bf809f0ed12c7d344452ecfb0522", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd8557864cb8a9586ed496a0f3c49bd5f1f04c1534200e7884760b274281724d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb634803227d9fcd00922b7faea5d7012e35d628b1d295d3673133fd0d832adc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c2d406a5ba2aa1bf8adc7bd5b4ece8568a60d58c9b183a2110a63a9ecee6084", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c784b0e21a7a6fa5df10300b45fb68c3a8a29ad53b5433152bdae04754b485f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da946784e6c9ec6c44f4345f29c801f5440c2db7ff72f34e18cfdcbd4fca2398", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b6ea9c19ea55b8b7a5ded684f5b9e12c046c0ab591f4acbd4efc58a0ec4ad6c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "092f3f2efe43bd778bf16be0410869edd3b9c93bc05498f8d2e9371f111407e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6bd4b6cf43f5ac00ede31fce338e98f2277ee5f6ad0bb62d3c9308a1c6efa770", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70b9262431567343108db71790e7d8fe69cc23d45d20f97ad99de73b02332f69", "verdict": "adds_false_claim", "reason": "Worked chemistry is wrong: the corrected mole-based prediction is said to fall to just under nine grams. With all-1 coefficients and molar masses 84.0 (NaHCO3) and 82.0 (sodium acetate), ~12 g of baking soda predicts ~11.7 g, so the mole conversion barely changes the 12 g figure."}
+{"prompt_hash": "350a79386aa12ec395bdffa20f3a5264832a1fee3e13729d3a7a9212a138a901", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58b11966cf6c930f82912dc4ee63da65610902807f6e245fc83f6be69802b0ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "261685cd3696c77744386f5ed66259ea5f2d54a157624327e1b6e2e6cfaa7ec1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7436c2fdefe40cd5808e45e14237f13b61d99444a85e53d796e639dfbc8bc70", "verdict": "adds_false_claim", "reason": "The aunt explains the low shiva chair as being for the mourner's comfort and this is left uncorrected. Low seating signals the mourner's lack of concern for comfort (Wikipedia, Shiva (Judaism))."}
+{"prompt_hash": "67e6d4d6fa8b8d1402bb1f489e4d7971f06ed97f77b4b7fbe74a2e04b18dbd18", "verdict": "consistent", "reason": "checked: Two Fridas details (Wikipedia, The Two Fridas); Breton quote and Kahlo rejecting Surrealism (Wikipedia, Frida Kahlo)."}
+{"prompt_hash": "74435e51139ee154b65dfe198ff945a6b15506546b239bea40e5727cd7c91289", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f77cc689f0605fe3ada3477ae47a2936d716792309a3a45fd4e8acaa07bae17", "verdict": "consistent", "reason": "uncertain: Seth treats his grandmother's later recollection as a secondary source; oral testimony from a participant is often classed as primary, but this is framed as his own view."}
+{"prompt_hash": "e09e5f9fb4b3c115926e83f3766f769ed7b2fc6ffbb1203dde771aa44a41d72a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "737a1c4e80bfff1c4be5bb0ad7c0c8aeed58fae33bf6be3dccb4f798f3b55279", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "543573eb73dc65a9bd6b79973a453c4711a5fe47111a3e5004f57f3b0642fa8b", "verdict": "adds_false_claim", "reason": "The music teacher says the 85-key piano's low end stops early. Older 85-key pianos run A0 to A7, so the three missing keys are at the top (Wikipedia, Piano)."}
+{"prompt_hash": "95de29ff1c50acaa01e658c95fee4775c0dc6e43bf38de5393a2d1c9a9f8b517", "verdict": "adds_false_claim", "reason": "The worked example sets the apple seller's opportunity cost of a basket at 3 jars and the honey seller's at 1, then says any apples-for-honey price between 1 and 3 helps both. With those costs the apple seller loses below 3 and the buyer loses above 1; gains need the exporter to have the lower opportunity cost (Wikipedia, Comparative advantage)."}
+{"prompt_hash": "693cc207e1c10104a0255b59774e4d6314a045ee60e3c8d30a30098907257d5d", "verdict": "consistent", "reason": "checked: Section 1 needs no documents; Section 2 is due within 3 business days (USCIS M-274, Completing Section 1)."}
+{"prompt_hash": "9d6810fbeab9dd85732e6206bc3150ba53592fed7b72e8c729357cf31467709d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "966bc50cea692eb3601e4acde4d7c401e3165e60940513b88ac2d6daecc9b954", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b2e26380b6c9f5aae9b01ca4e3ef21dd63f29df15d3f8db34e0f8e11c2b9cc4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7781421c05711befc3994f49be24269c4f5c87c54ef0e4df4e8302e269c79a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8f1745122cc9c7b1584e1db9e24288cf61d522f619c78a4832da48bedf706ba1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2f0890115b8af195f05568beaaf66c1ed0e26cb0420c594ddc7b24a0e60f441", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7fe167eb6a3849c78a06b227a83beee5f7b187bcab13d5e1e37983e6fc40b664", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b164862321e176dbb4874d3ae703d1ac8b6c07f7c440179f307a4fc327a669f2", "verdict": "consistent", "reason": ""}

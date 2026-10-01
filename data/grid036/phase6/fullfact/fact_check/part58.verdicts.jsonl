@@ -1,0 +1,40 @@
+{"prompt_hash": "ead495cfea171b5291320eae110b2c82cd7e1251499f4c7cdbaa446a96b1092e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "033ca21905bfea4c69ee020feda0afe10e311174ad93e47128a6ced510a1e0ed", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Digital_elevation_model"}
+{"prompt_hash": "c15da188e3b202bbb3f3e891ecd49d41fb17be507e9cec17629f1590631fae40", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Deliberate_practice"}
+{"prompt_hash": "0c8acba6f80dcb9c510876193aac1c8f59dd4456960a8b222b65d2047de688ad", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Liking_gap"}
+{"prompt_hash": "2f37aabe48054d19eedb9e75526f89f0bf7fa936c9eb6e8b8271d9c5a6e6c207", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99c044ee44799e9e1e7de46f63005876aab2e80f808d4777c0966fb673b8dfff", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Valedictorian"}
+{"prompt_hash": "156daa6eec873c31238c03b4e1b9caaa1d566639cd60eb6e5a6e195038e30298", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Arthur_Aron"}
+{"prompt_hash": "b71fa24f1314472248ab31166247b96b946e39e2bd5fd2c60d9cae0762f08757", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2af1c8fed201c4a1f649d4898980b999de3e67c6a3a600be688f994914d19e3", "verdict": "consistent", "reason": "source: https://www.dot.state.mn.us/zippermerge/"}
+{"prompt_hash": "5a82bdc5dd7a13abfb36a72911ec5640d384acb183611a18913e9b7aab060b8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "659b3bcf17ab227723695ba1440ecdea1619f97ae6b77ca413ffaaf0e203ef65", "verdict": "consistent", "reason": "source: https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/"}
+{"prompt_hash": "4c41a0dd2a4995cbba91058042787a8b6e10036258d2073ad083d89cc7038dfd", "verdict": "consistent", "reason": "source: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/"}
+{"prompt_hash": "bd980f17cb6d0c5a89036bfee2c73f53248dc0b606a9820ad9a5f625b1b1c050", "verdict": "consistent", "reason": "source: https://www.elections.ca/content.aspx?section=vot&dir=reg&document=index&lang=e"}
+{"prompt_hash": "00a88ae267b2b2f7f678089b6edd6e4750c144d50b0450e09fff16bac98eede8", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Australian_ballot"}
+{"prompt_hash": "4fde3dbdd6ed8d0b093565c9925b18ce07cdcff8087e18d068312b52ddcb1371", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Georges_Lefebvre"}
+{"prompt_hash": "16631273d90a1af9b0f4d36ba7b924344796f8c743f80fe5fe3fa0aaa89a3b65", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Parable_of_the_broken_window"}
+{"prompt_hash": "0bdcfdbac04b400918d193763bb55c06b680f4a2a1f4d168ca7bc56fc3102d91", "verdict": "adds_false_claim", "reason": "Jessica's endorsed analysis says the left (European) Frida's heart is whole; in the painting the European Frida's heart is cut open and the Tehuana Frida's is whole (source: https://en.wikipedia.org/wiki/The_Two_Fridas). Dates of divorce and remarriage are correct."}
+{"prompt_hash": "f492459aa899b3f7028a8def73a918f30499f0f8f6624f349454c26e14df2496", "verdict": "consistent", "reason": "source: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/"}
+{"prompt_hash": "fe7936d694e05fc402d7e9aabc8ad053bed8e1d7f93da8bb3386911b024c8f2b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48acd44f33c915b9f957ac66613928fa5208d9b5422de49d1bcfdf21400a7ea1", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Greenhouse_gas"}
+{"prompt_hash": "f4e2fbd8c44d6cae3adccb45b5f466e74f6f766c323bfc5b49a99a72d2644e5f", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Truman_Doctrine"}
+{"prompt_hash": "f48366a76c634bf5f507736e157b4e283999d530f141d2748a12bcdd576de4e6", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Google_Images"}
+{"prompt_hash": "795d90faab439c46b5010f6a0c700bb71dfb08f33e8549cdcb878d3450997443", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Albert_Mehrabian"}
+{"prompt_hash": "a8a48dde8a5a0e64210d2c3b5cf8bcf1ed90b8f272c5d0b0500073999f72e684", "verdict": "adds_false_claim", "reason": "The endorsed correction says heating a reaction whose forward direction releases heat makes it shift right; it shifts left, toward reactants (source: https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle). The injected fact is stated correctly."}
+{"prompt_hash": "904d00900f7f1f877b037013ed70ee53d181599942afa5809be3408e3e2d6384", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Stage_directions"}
+{"prompt_hash": "280a3a432c3226effbabd73fd3d195e73b1105b1048a5068baea831fc5f0817b", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Population_pyramid"}
+{"prompt_hash": "f048357a2c86add4f3db343abae31ffb7d6bb8b20d595ef754ce7131cfb8a363", "verdict": "consistent", "reason": "uncertain: waitlist-in-May claim matches the pre-verified injected fact; no admissions page could be fetched to confirm"}
+{"prompt_hash": "70f3c32ed5e27ff15907726153b1b71f43d0913594d6d2226dac9add9c070151", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0cf1a68cf4aef474559dcf645b67b63bda65d599ca5329d31ae75032869c137d", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Misattribution_of_arousal"}
+{"prompt_hash": "f8218d281f3b478367e46962c8b2d6c5ad01f615dbd99733e1f44c1f97d1805c", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Blocking_(stage)"}
+{"prompt_hash": "3c14347df22e94501afe6828359c3a7d4175d4a93164065246ecaaefd2e67a21", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Blood_pressure"}
+{"prompt_hash": "192b80c4ee63653fc7b26bc309b2c0be379f0990870603c6d2da5c8e9bb36d34", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/The_Second_Sex"}
+{"prompt_hash": "b11a5aeaaf3fff6c69b2c410cbdb75bb3067c6ab14f70e57970c069f3fc1b74f", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/High-altitude_cooking"}
+{"prompt_hash": "d6be1aaa8edc1820d001baacf11d67e28de29ba7525923828bc2cc37a99ac88b", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Homophily"}
+{"prompt_hash": "1e39fc2bd3d35c48c4dfb5f8cb09e5776a2b8d5b8c8cf7026790ab7b78549401", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cf1c632a139fd5bc24ac08ab806d45abea82af9c01a3aed28e338fd6774cfc2", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Electronic_Signatures_in_Global_and_National_Commerce_Act"}
+{"prompt_hash": "bc81c494b50fff3a421a1711ec0e3980437d434253a2eb2fd81315ca13850fb5", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/P-value"}
+{"prompt_hash": "62b88569f29469425cafa07d0b0e26e38ee1ff442fb36e3513f0a65bffe09c3c", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Help_America_Vote_Act"}
+{"prompt_hash": "eef70a4582b4f2d9df086a95383f38b28e5f83dec3dfb06063f62fbe2949ea14", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Red_envelope"}
+{"prompt_hash": "7dfcf0c7484eee5e8b9d03eff3e4e033a955747ee60bc52b54c17052ac9a8753", "verdict": "consistent", "reason": "source: https://en.wikipedia.org/wiki/Preprint"}

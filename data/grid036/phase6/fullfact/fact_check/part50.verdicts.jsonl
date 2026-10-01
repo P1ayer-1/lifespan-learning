@@ -1,0 +1,40 @@
+{"prompt_hash": "368d514aa41e74c73b10542f7103400949dbeb93c8eed7405d9b14bc058284aa", "verdict": "consistent", "reason": "Riemann sums and the integral of x^2 from 0 to 3 = 9 checked by hand."}
+{"prompt_hash": "e12900d5e9476eba70c34d60884cec9baff588eab8586666576f6c12ff5496d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2bc7caafea00d93f1837ce787f48440a574c5635fd806d523b026700b120c26b", "verdict": "consistent", "reason": "Carlyle claims match the pre-verified fact."}
+{"prompt_hash": "a0195c36cc3dd159289bd6806626e2be9635058432eaf7a6acc11a2127fe250b", "verdict": "consistent", "reason": "Tempering temperatures (45/27/31 C) agree with en.wikipedia.org/wiki/Tempered_chocolate."}
+{"prompt_hash": "e94bfbe36538a5882f519143acfa2bb61d2719c5899a640cab186ea1db1d94aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdf9b12c91ca05328eb8945f729c8f76cffd114c25d0583640e22b85f5324d3e", "verdict": "adds_false_claim", "reason": "Story says the 1960s revisionists held 'nobody uniquely to blame'. Revisionists (Williams, Kolko) put most responsibility on the US; shared blame was Gaddis's post-revisionism (fetched: en.wikipedia.org/wiki/Historiography_of_the_Cold_War)."}
+{"prompt_hash": "c74cacb147724ab6fa44e55ce4b9777a39144e761fd4cd761a6c3df0811fd8a7", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Basking_in_reflected_glory."}
+{"prompt_hash": "2478860db0a242aef749ee4913350bb619d6c37b7ded6b80efb55baac0cc48a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e75769bf3c7dc21939d48349b5e67f5e28a346551901fd0757220ad2375ba2c", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Metronome (Winkel 1814, Maelzel patent 1815)."}
+{"prompt_hash": "3acf753a72f51931a44f2bbf720778fdc21a3dd5e364e05d96d0a10847c44f35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2794d8f89e0000475b7398990f507cea7b2afbc8230ae8baa8a49819cb1edbff", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Chuseok (full moon, fruit placement)."}
+{"prompt_hash": "496c67f0c71ed9cbd4a84aa8894a4385a3afb570d0726111a6ad0d1f0112cfb8", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/The_Broken_Column (nails, tears, gaze, fissured landscape, corset)."}
+{"prompt_hash": "dee2caa408a0872ca4af3595f43b7c7fb7f034fa8713e29c3220ebfdaa6415e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7801e6a925c9da22df2f77d3b2ebef29b940fe24d807f2fe060968348aa1503a", "verdict": "consistent", "reason": "Le Chatelier/K-temperature reasoning checked; it is standard at textbook level."}
+{"prompt_hash": "ee6d0395b09c2ffec183bb98b2516237f007df38e7bb53f7bf1f594cf5dc8aa9", "verdict": "adds_false_claim", "reason": "The older cousin says the youngest asks the Four Questions 'right after the candles'. They come in Maggid, after Kiddush, Karpas and Yachatz, not straight after candle lighting (fetched: en.wikipedia.org/wiki/Passover_Seder)."}
+{"prompt_hash": "6e968bdd4428ab4a192f54d1f57b2925e2cc7d4126a1bd15795200d1a10c47a3", "verdict": "consistent", "reason": "Offside claims match the pre-verified fact (IFAB Law 11)."}
+{"prompt_hash": "055e7f0bf6db5144d50d54d0052360f13c1bf955338c5969210266bcdc570bdc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04792b32954f994ea6b7dcbc87e53b6c440e38abdeb1b85859e3b46b739d320e", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Millikan_oil_drop_experiment (qE = mg, horizontal plates)."}
+{"prompt_hash": "36450d27cd90d118873e82f82fb66d06f5bf6b4f3ade05efab6068025fbfe083", "verdict": "adds_false_claim", "reason": "Story says 300 hours equals 'eleven days of being awake'. 300 hours is 12.5 full days, or about 19 waking days at 16 hours a day."}
+{"prompt_hash": "5f5cfdad1dc28c0f03f54c433bbbaa95f9cbe1c6328412498ee19908d2b503e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4d593257eecd13053c936e64c516a2e564a877466c6faba1a3f9ad2caaf4380", "verdict": "consistent", "reason": "11.7 - 2 = 9.7 checked."}
+{"prompt_hash": "bb50b30963cad9b591e493fba4708b06bae8629d3947d94ac084d8b1e11cc89d", "verdict": "adds_false_claim", "reason": "The worked example gives Country A a high cost for wheat and Country B a low cost for cloth, which would give B the advantage in both goods. Rhett then has A make wheat, which contradicts the setup. The comparative-advantage reasoning is inconsistent."}
+{"prompt_hash": "47bfc46175dbd378d468609439b7314ed1105c6552da0351b58e0481436d0c9a", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Emergency_contraception (72 h window, OTC in Canada)."}
+{"prompt_hash": "dfa3166a6ee1cfbf5ea5d877ca8ef8214c78e95e61ecf03cac222b971ca29141", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3855a744cd3997ee4bd729dcc145702271c9f0d871bd87566d064878660ace9f", "verdict": "adds_false_claim", "reason": "The constructor uses both name = name and age = age, but the story says only the name prints wrong and that age prints correctly after only name is fixed. age = age also assigns the parameter to itself, so age would print 0."}
+{"prompt_hash": "46e7024637151186364650f20b24964afc22b0c829ab2df3466e8f7b6ffb76f9", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Holi (can fall in late February; Holika Dahan the night before)."}
+{"prompt_hash": "c21ced3f28ccab30eabe0035048fa9960464e7ecc2786085c912cfcd0e1490a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4724c8f976c7fb9450ad38a5aa1aa1d664beffa8af30e3cf933adf6f47eaca77", "verdict": "consistent", "reason": "Checked the calculation: $300k at 6% over 30 years gives about $347,500 in interest."}
+{"prompt_hash": "de2ebe1b864c27c8d1b45a457d79e8a0062c69da4cf51de1a9839c9352b66cc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04dc6303d5a2232b608e7ab3640a28effb4060f21c7ae76fc6c529528bd104ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c6ded7726ed00bbc396ab597ef3904fd56921985d83be41d9724361a4a4ff1f", "verdict": "consistent", "reason": "Checked the calculation: 531 - 486 = 45."}
+{"prompt_hash": "e6580fc232144da0640d173cf3fc2f94b02198da1efbc9fbe7bc820b5becd374", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52bd938e8c44e71becc96221d1316c6f4defbe0ef15c5fede8e95dd3dbd359b0", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Lancet_MMR_autism_fraud (Wakefield's paper had 12 children)."}
+{"prompt_hash": "839e9d0b6cae6157f9997726e619df8f7b9da5edd2fc1394eb385995c24d65b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7150613b3595f037e4c4dd21625d80d0c67d2742b12511da311d86babe40b820", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06cb7f4f0a9620c2a0f4e37a523a1e2b5e14e437ebb76762054c27ac5af9a83a", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Bon_Festival (mukaebi, toro nagashi)."}
+{"prompt_hash": "8609cf171aca0307c54a736d11e5461c93b85c10a8d8ae8459b6452f326d8cc8", "verdict": "consistent", "reason": "Fetched: en.wikipedia.org/wiki/Concussion."}
+{"prompt_hash": "a64959cc77c01041cfdd2fa49628c2ddd0fefa97f9b3949f601ace155a1a8077", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad2f48f06ab904ddbee2478f0b67a56ded50e03ea63ad130ae13c94439f66743", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08d9ad1aee7dff8ca825330fbaae3443fd06268a4b89e69c4034246247f1ac97", "verdict": "adds_false_claim", "reason": "The mother's last line says wheels turned against the curb will 'wear the tires crooked' and tells him to straighten them on a slope. This is false, and it is unsafe advice left as the story's last word."}

@@ -1,0 +1,40 @@
+{"prompt_hash": "4ddbd6acd4e866909e61a3b51780e5eaeada328f1ce2577004471d6a7fe520f2", "verdict": "consistent", "reason": "Case details (armed hooded men, 'revengeance', 1969 reversal) checked against Wikipedia 'Brandenburg_v._Ohio'."}
+{"prompt_hash": "20081e23b6b46f8ebd6c7c827497d37dc4f2549eb7e8a2fc8fc97813df55fa7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "133a6b1474bc5702af241f3a4168a9bd0b145cbd6dcc3929314d562c443a2b25", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8781bf5d730785995c9d7eb65a904e7d1fc008e3d00a350cd6708b7b069f2fe", "verdict": "adds_false_claim", "reason": "Story says first-and-last-month deposit on an $800/month apartment comes to $1,200; first and last month of $800 rent is $1,600."}
+{"prompt_hash": "caebf2168b8a73ff6a4898895db7f1fb78d75c07a9733cbace58b7100d4df99b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94aa3388d57dd9a67a179ad3318b9fd7a895e787bbef427f5f1f8164909ed9e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c223565c777654bf60093295eeac250ffb8a3decf18833659b851e4f2a63e0e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf63f71413abd689f6f5d59dc318cfbca7c6dda969e70e0aee3cd3ff19ac4dbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1ffc53049f20efbf25ceda499db9ed490856cfd0e6d3968fa4363ddbf7fe2b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "703e6ea5c4e8398840604a8b0af8bec2b6d756f0f97a7911342dc1fdb3097873", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c026cf237b1a73967b54a49bc10a77dfd63aa7af2699a01bc043bfd9da53677", "verdict": "consistent", "reason": "uncertain: a test that prints null with 'void Book(...)' and then works after deleting 'void' cannot be the same test code (arg-taking call would not compile before; no-arg call would not compile after); worth a human look."}
+{"prompt_hash": "30f4dfd684ac91cfadb26d2039b592b17ceead6928f713ece08b00d0d3213b62", "verdict": "adds_false_claim", "reason": "Samantha's uncorrected explanation says most people who get hurt in crashes were unbelted; with ~90% US belt use (Wikipedia 'Seat_belt_use_rates_in_the_United_States') most injured occupants are belted, belts only lower each person's risk."}
+{"prompt_hash": "830fccc1b04c320517be13167fe088d0af5222a210a5ec2dcc7a542c293b2cff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "141339a31e978ce1d49c352796587c63cb430cfa1b4483281ed4502bb3ee1f64", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2eb56b6874439388a07cfce7566a75a812d5512f775ad5d42e9e6324b8c212d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cb3717b69e754c558cecd464c023e6f950059415f0352d8f7fdf2e607221faf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1185db0a344116029cba3d3d4690fc0ef8f87b8659eeea6a37a710b6a17d8f45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9777deaa48437be5fcfe300811b95547a0a16108a57b9f3bd119eec923799595", "verdict": "adds_false_claim", "reason": "String reading B-flat is 'tightened' down to A; B-flat is above A, so the string must be loosened (tightening raises pitch; tuning EADGBE per Wikipedia 'Standard_tuning')."}
+{"prompt_hash": "2f97467eaa8549b36c508f94ab0ca1e5f5302a5b0379edbb865ad278677a26e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3270b10f47607bb1f363ccbd8173cfae8ca79fb59f395a40320011cc5bface36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "087e6e5e745bb7dc45afcee47d3926d74eebc5a6f7114e492ed135296a7316ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "270883568a4332b93df484104651a38e9f20a61d5bd03d2bfa815aa4c7dc5575", "verdict": "adds_false_claim", "reason": "Biology text read aloud says clownfish could survive in the open ocean but choose the reef; wild clownfish are functionally dependent on host anemones and only the larvae are pelagic (Wikipedia 'Amphiprioninae')."}
+{"prompt_hash": "81bd976f16b9cf416673fa979239f1f36cd969b599e6e2bf1047514c60431e20", "verdict": "consistent", "reason": "2010 hormone claim and 2015 felt-power-only replication checked against Wikipedia 'Power_posing'; uncertain: peer's aside that posers did better in interviews belongs to later Cuddy work, not the 2010 study."}
+{"prompt_hash": "40f4654dd2293758b015ac50280a4a5d02f4628786abd28b1dc3376678f6eafa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "870434f37511ad103374c58347236784dc109986bbb156ad299f8eb472d3386f", "verdict": "adds_false_claim", "reason": "The only explanation given for the extra 0.1 is that some people have no children; TFR already averages in childless women, and the extra ~0.1 covers the male-skewed sex ratio at birth and deaths before childbearing age (Wikipedia 'Sub-replacement_fertility')."}
+{"prompt_hash": "071a29a59cdb9fd673e8cafbc72cd34127e5664060a34b89653d1a8adcf0efb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "839e3aa74b895de03651acf37827ddf2619d5bd91aba29e3c1afa5abeb59e369", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a16f37e18fdff517fdbc9b6132578fdfcee7aee3ab7c85e72cc336aa84650d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37150f582a6a70df21bbc55e38392a26270e2000d369e73198532d21afdcece8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17bb416f2ca503cde75be60054a3ca1b6ef7fe8533f8826fba7892f8632de4a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a17a437354cd1372ba00399867ff9fb9753574546580ba8814252906413f0f21", "verdict": "consistent", "reason": "Acts 15 decision and abstention list checked against Wikipedia 'Council_of_Jerusalem'."}
+{"prompt_hash": "ae8db2394101367ff38a523dc403849179293b25daccb0f448c2b12b2c016308", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0f1a5c3ba2627b61b5a6f6ef25384e8b84dd57ca986dc32d204555ccc4cf6da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "139a673f30b5e49220dfb19b070fb4a78c16546baa3b336c331ae3cf609df9a0", "verdict": "adds_false_claim", "reason": "Edouard's uncorrected account says other labs rebuilt the Higgs discovery; it was confirmed by the two LHC detectors ATLAS and CMS at CERN, no other lab reproduced it (Wikipedia 'Higgs_boson')."}
+{"prompt_hash": "ed734cebd41fe821ecc6d07bff60c77aef5e6371aac339178369dbcd443ea5de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90562795c52a8755b1d6813f38e912221a57d8d33e084b97643d893966617665", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90aa0acae4a1fc8c481638630cf3052106b9d9c5556098d83e2ca197778ca641", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39d9029591cef5e68e897b321264216bb9e4eb34163ac49ff9cb20d2820eed49", "verdict": "consistent", "reason": "1962 first use and silver-nitrate ink checked against Wikipedia 'Election_ink'."}
+{"prompt_hash": "0932f5a009b8404a83df66cedb00ee4b3bda19a06ee5b4e3ceb2fd01911bac84", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "141820bf906a827d648741a016fd04d8e806d892e1eb536433d0a563895b1890", "verdict": "consistent", "reason": "K. 333 first movement in B-flat checked against Wikipedia 'Piano_Sonata_No._13_(Mozart)'."}

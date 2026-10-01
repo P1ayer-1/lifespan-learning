@@ -1,0 +1,40 @@
+{"prompt_hash": "85ce44b0bec940a0aff728290cd6e0a336b66c789de390a3dcba2ff090faaddc", "verdict": "adds_false_claim", "reason": "Narrator says other games kept running because the stop sign stops only scripts, not the whole program. The Scratch stop sign stops all scripts in that project; other students' games ran because they were separate projects (Scratch Wiki: Stop Sign)."}
+{"prompt_hash": "0be8d04c25f12927c2d0afba8630589a05b401ed265d464e7ff34166405714f0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2023e6badc1b54f025728f8a65a42ee5e2e28d1cdb78c8a0dcf7b755cf0ee513", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2dded3d140e818a76fbbcfa7b53a1e3d411fd96d28721cddb09e60bec2a32d2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85b14f8268a68e1e158e8268bc41b3acfab4a79adb13c6ce72c8cab793b72a72", "verdict": "consistent", "reason": "Override arithmetic checks: 2/3 of 12 = 8, 2/3 of 10 rounds up to 7."}
+{"prompt_hash": "cddefce49cad00ca6e64134f35aea0257a46952ba1be70c3ce6089cc1869ce7c", "verdict": "consistent", "reason": "source: Wikipedia 'Terminator (solar)'."}
+{"prompt_hash": "d4ed51cbd1439f354e3b1ceb15d78932ced138425a7970b04f0ad989997c35f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06b0c1ebea215e315e20b1f2844775748922b862e5c632fec426eed97b29b751", "verdict": "consistent", "reason": "source: Wikipedia 'Tinikling' (two taps on ground, poles together on third beat)."}
+{"prompt_hash": "a11e9b3090b389fa8d551316ffbb49cbe2a24ed04a62c4b2a8a3e2bc468d390e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e23244371bb75e008da17d6cab97c0f32951ae220fe8ccfb973bc023d4fb0e4e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58dd1da477f1ec4ac27e3871d271271151ecf0c80f0126a67b3fef7a1d28cf55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce6186941ecc55cb7eb3a6629600bd84cedbf2bd8d42e2ff141de09f45829a6b", "verdict": "consistent", "reason": "source: Wikipedia 'Credential stuffing'."}
+{"prompt_hash": "c4016e3c60b201d9eef9454551b63a95bd0562c583d0a0ce432ad423a7a70dca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd5be45da53cea66fcfb90add30276e04371d6d197e87f776a38b560ba864ca1", "verdict": "consistent", "reason": "source: EIA 'Factors affecting gasoline prices' (crude oil largest component, ~51%)."}
+{"prompt_hash": "be25acde2dafcd376f93da5f3c2dadd411ac2596401dd2ac3d1258aaebd7d230", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53540378242e78da3cad36bb2da543fa3f651f9c34b5fb704d132d53401f533e", "verdict": "consistent", "reason": "source: Wikipedia 'Simpson's paradox' (Justice higher in 1995 and 1996, Jeter higher combined)."}
+{"prompt_hash": "e7ee9a9b6505fe0638e77e8b5cbbb9dcea1fdd0304e319963717b96ccb0b286c", "verdict": "consistent", "reason": "source: Wikipedia 'Minimal group paradigm'."}
+{"prompt_hash": "c9a96d80a55affa9c232099541c8c9c1ebf400cdb8a42f08e12e57fe2693de9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6bf82279b53f30cccfa3ee3a6d56e0c877a5c3d6b16f0ce52c8ee4ec019b779a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "679136e1fa660b96cbbd5fb93101fc6806ca178840a470bf8bcea7acd760146d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "caa0885ddf2023a7e7bdbfb80e97d979fb467c3ac1bae9eb4f5ec7416cf94236", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc3bb7768b2946cc0db716dd025dfbe945d2469357e313f067fbdc0d5c251778", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecd24ecb1d23aee599c73ec63f5d38b8b9cd38c47c2b4764bd8f45d28f3d415f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7be4217bae91062cab802d18f37b3f92461995c5e99d626c6c3a31c97d422b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b53ecac7e1cc1bff51278ff96ed93a3189ce229a4d8b4bef262e7a51723613df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc4361473dee7c5352b594c1ea641589e983c430a9c234cfaddcb99ab0b72ad9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98a93ef76988eb10dbc281fb345bfd0ff7704027cf979181206a56d29394046e", "verdict": "consistent", "reason": "source: Wikipedia 'Flesch-Kincaid readability tests'."}
+{"prompt_hash": "402647e78ee7c30e05bf78c812baeaf716a7737da38d884f5a696e2a7f0a486f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "532eb9c6a0df1badae0ba4ac64e6049c680985ca34616b07b85109bc963b3690", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c5c6aeff8d52e3af47f1e8bd7786a5a7dc187fe03418076a70a372fd184c4e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd18386333bb02da6806fa70b1dc4986cd0912e5431aed441e804cdfca413109", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e2f85b3ec9d0d7e93e781b9e579233d7aafec8b1ab303ae54901dd49b065f25", "verdict": "consistent", "reason": "source: Wikipedia 'Wayback Machine' (over 1 trillion pages; Archive honors removal requests)."}
+{"prompt_hash": "cefeec574a63e2be1ce47245c2a9c7899d5731fb61e64e637a23ee3c71bff1b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13973aad98ce6de2bc9dc60137c22ec8bfffe4ab1d4f785664ec0168758527dc", "verdict": "consistent", "reason": "source: Wiktionary 'hypothesis' (Greek hupothesis, 'a placing under')."}
+{"prompt_hash": "2c3af14ff221b4b6dd9a15f4793c0aebfef05f7ec572d84317dcdcc59f6db954", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "becd434b9f3765798511c983493cbe81d0da2247aceeb41bff7f9a4271efb81f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8d71625b2c3aaf45ae4ded9a791183d449c78744f42f9501bda1496a540acbd", "verdict": "consistent", "reason": "source: KU News 2018 Hall study (40-60 hours, ~50, acquaintance to casual friend); 50h at 30 min/day = 100 days checks."}
+{"prompt_hash": "c03716a67a614a650f0630ba630df350b2906d466347b357a48ecefaa3836a89", "verdict": "adds_false_claim", "reason": "With $14 saved toward a $40 kit at $2 a week, the remaining $26 takes 13 weeks; the story has Connor reckon 14 weeks and the adult imply 13 weeks needs a raise, so the shown arithmetic is wrong."}
+{"prompt_hash": "8e25d179c91babaa34e80a3d57ce11dd99d4efe9e96a39eacfbe9235e6383b95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4919168eb2325f717ec0418fc08298fc00e735e9012e995924cb2886e9e0e11c", "verdict": "consistent", "reason": ""}

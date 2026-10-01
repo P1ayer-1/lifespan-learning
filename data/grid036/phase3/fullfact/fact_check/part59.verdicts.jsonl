@@ -1,0 +1,40 @@
+{"prompt_hash": "a46928f0f050983291b1b1511c44d7f9fd2c9e2860f650bc9188d9c9c89cc9db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76ed1d08ec4e552d8920872f3e9ace2b59447fbdc13c63141cf18470c34d64e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da93c3e5e526a76c2f8bc695458a2e8d74d2d96de84ea9badf00d8ec4e2c85ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa27e038bea6532b918551810a63a518722af8c45564b662d063b4844e07cfb7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9913bad2bb9a08edd4c1496702a09859297a697aa5702889f6630ee7ab7632f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac652e086dbc0fabba4df85a35e74acd31dc24a1f221d63a673bbab85bda9b09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5e8658c4e624f394f71f56d312c821c2855a57850948b2295fd9d46126323c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1c2ad4e3b791f6382e82bf3ec91753275934c3da8ab0bc9dc78bd78943123dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9784f8cb544a0b225c5aa21ed45fa6f53b6f6ba964d6ce4451a742c82ba7d12", "verdict": "consistent", "reason": "checked: Lee Ross coined the term in 1977 (en.wikipedia.org/wiki/Fundamental_attribution_error)."}
+{"prompt_hash": "51f346857813d23cee7777bd893f7d7bdb1df551e5953c58ef7dd6bc1f8df4ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56843c3512eb01727e9373e4c432bc5bf64f599ccd850e0318f1b0dad1048896", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ea594b9d8e9ebbbf59486e0047a7df1b6ad9b26458a3b9ddfcc91c3d697387a", "verdict": "adds_false_claim", "reason": "Unboiled soup in a jar fitted with an S-shaped tube is shown staying clear for days; Pasteur's result required boiling the broth in the flask first to sterilize it (source: en.wikipedia.org/wiki/Spontaneous_generation)."}
+{"prompt_hash": "7df44094dc1e2758ab49ecd86b72066aec04402365adfacfa543ecdf74392e6c", "verdict": "consistent", "reason": "checked: Morris throws the paw in the fire and Mr. White retrieves it (en.wikipedia.org/wiki/The_Monkey%27s_Paw)."}
+{"prompt_hash": "ec5ffa7cbedba915a86c4584e39e69a0342d46e447b0b9286df77e14b6b9d651", "verdict": "adds_false_claim", "reason": "Kayla counts reaching base on an error as on base out of plate appearances and presents this as the on-base percentage ranking; OBP does not credit reaching on errors (source: en.wikipedia.org/wiki/On-base_percentage)."}
+{"prompt_hash": "cf5a607eed3790bfbe78c6f4f3c60cb347ea07809593f6714cc1aaa12942f45f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9b198718d526e90608ae34b3e83ec48343a0bd910a144a658523005a206afdd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a43a9d1fb3cdc7480d03f973b30139d60b55d2c0e2a57652f006e6fc648af7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e117cbbf4f4012b2b3685d41bc1b2611df52da19aa5a184183cd62efb78af3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "364e8027693c9dae10e3fd0ace3d4c73454fc0dd5cab9a86ef87735bd72f1b04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c44b9f3138f9f0d89deeb3c86c7549454e89f1f51047404eb8a7155226c3c754", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4343d949318c4a890a52762c8459161dffeb720ec11b1fbbdbff9dd915310e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b16548262ae9d56d8b1fdeb862d7bc798dad026cebd11df82b57f0ef662b727", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a5e2e551dcf038a77ae31f4e41c19212269b06a28d865a6e96065544ddae4e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db042c0a97533a022fb529b4dec700051f8267c5fb3acd8cd0c3f74523a6dfdc", "verdict": "fact_missing", "reason": "The story only has a child guess that something leaves the broken cells; it never states that cutting releases enzymes that make an irritating gas which reaches the eyes."}
+{"prompt_hash": "e550863326d8073dbd3014b08d7d3bca8c5b00ec0efb3c392a4b63a3201fd1fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c1dd767a6850bcdc96afc66287676f6721b5999728a860f9b0fef0cd521b96d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5df7e945ba0d5aed108675011c7e4c7dab885c9c2034d103d2b92eaa5522e53", "verdict": "consistent", "reason": "checked: gallium (31), germanium and scandium filled Mendeleev's gaps (en.wikipedia.org/wiki/Mendeleev%27s_predicted_elements)."}
+{"prompt_hash": "79243612b6ce8f9fda1285a75d78086397c97da8a8364c73df786b85a73482a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9e743241d0a75c74d2467965444d4342b1d1d38bcd20586c0ea6911bcab04af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60bf1f996eeb91d4425ddcd698e249a53f5216ec19ffe5bb04cdbcd3a8ef3c70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d41076c6e2a4137d14066bdeb3d2748f658b7f678b0e1aeda2419749e145fe44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2948c3f8560146d5409f78cf356f03d62989db5d2417275a05dafc0c4a7e55e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ff232d19e40f8b25312675def54af1e1687ba951ff7c998d748ac528d4dea8d", "verdict": "consistent", "reason": "checked: Clabber Girl sells baking powder and baking soda (en.wikipedia.org/wiki/Clabber_Girl)."}
+{"prompt_hash": "b5f7f04828fb7ecf62489ecf5393371a65902a202b6634563eec086708c11c7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b84225f9c0904e7c80bd49ca06ddef3adb661b1839b73930f2b12e3a7defc33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ef449f7d1effd3f781d112bb15baf9901d134a79b2e356a1b8fb4b36392a1e3", "verdict": "adds_false_claim", "reason": "Narration says road signs in England give distances in metres; UK road signs give distances in miles and yards only (source: en.wikipedia.org/wiki/Road_signs_in_the_United_Kingdom)."}
+{"prompt_hash": "235ac17d3ae145dd44e37eb3878f700eae54d2b8de4f45946f9de0d4b1160c5e", "verdict": "adds_false_claim", "reason": "The drawing has sidewalks narrow near the viewer and wide up close; in one-point perspective, nearby parts are drawn wider and far parts narrower toward the vanishing point."}
+{"prompt_hash": "db55729e4ff4131e5b3e587d228eb4956f8d57c3c8da0602525b3f16bf12878c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0537f84de1388507d5894b9412309665fd287a010000ecf544f27b0db8a7af2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9c62ecf7b7bd240593442fb6ed59ae974ef087ca60c043d6ce3cc98350356bb", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "80b5d9361ff43b3592d34c6f0a38ac16ff05ba95be5fdf7a06ecffa932fea60a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "317b64ee428325eb423ad4580fd262aaec59752619875fdebbeeecc8b038324d", "verdict": "adds_false_claim", "reason": "The story equates the Gulf Stream's 2.5 m/s peak with a brisk walking pace. Brisk walking is about 1.4-1.7 m/s; 2.5 m/s (9 km/h) is a jog (checked: Wikipedia 'Preferred walking speed')."}
+{"prompt_hash": "695d74a73bc0ac88e233fa86633d90c7cf44de05355610e7b932c581b488a2ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80aef3cb956c10b3bc5705400523cb7f1049b5e53ab2d8641b5262307df76156", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87757b1e43b2b6199109f810bf9a87a4d17e2629f108481661ae14fb1e28a138", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70706164efc8afddca593739773f3047bd1079a098bd7617a645fe856b973291", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0bcd89e2d51f15ca7c1d6dc38932bac1039af2ecf5809d787d8d60e5926d378", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c0fe794bf460684270ad0141c9f3768646f4d5df433b4ede8d3b0531c7d757c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e815321c9d5dff8dd3c754e17a2f41f47d60272314fb3e35df445117c4b4fa34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31282f143609ff05af6f69d4c369409471821f0e1f0112988db0091d01184c33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7e415d61089ce01b3d966567a16f2e5fe282e5cd011435c32560874f3501b6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95a2a032b074df5ba7fed323a6ae7e5982deae5863c70664aa89b4a3a4478329", "verdict": "consistent", "reason": "uncertain: Stevens recalling the night of his father's death with a 'sense of triumph' matches the novel as I recall it, but no page could be fetched (Wikipedia plot summary lacks it)."}
+{"prompt_hash": "eb6154deadf313902f0a6be4e9c8f75cfa4e3555715df5c086a3c7d5cec97c61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "671dc0388def926106097bb334fd0b1d93b0b1d944540ee2eada8d26fdd9569a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d17b74525b1c0c08bb13d52864256b8e9a0bb1d47f8aa2c8b3c6598a990df12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc6360f8540156ea03e1e1c79a35a14c2a1a19f3c758907a5da503920f3bb51d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9e19abd7b22af14e814be873d671cfde7a99f7b25ce4b610538c2504f2f4c8f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8f3645c2adc71008384cd2d13a6871daada1517f4972e4c6ad3d61249660c409", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "345ca09d7936bfc7d17e6e5718723d1e8e2c69d8a1599732cda281877368fc65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edc16251216dbb6ce945e38a2911bcfa0dd331b77693347ae5ea61bc3efaf06f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3720b26ecb55da2030e5d47cd7dfd5049a5f13922f6bf958671ef6c5640dc527", "verdict": "consistent", "reason": "checked: Wikipedia 'Dunedin Multidisciplinary Health and Development Study' (1,037-member cohort followed for decades)."}
+{"prompt_hash": "478e022ad256271d23ec3591fec392ade1a7dfda6fb9107e1e01fac186eb2723", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e65622f5983458c4bc547a2bdca680aa3f1cde27adbe5804092c95bb5cf860c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8ef2abfbcada20fe260415554b4acf78c0d56f4f63228d7530ab21f191133f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ce50be7bf18d504f0c2803e26fd7eb08fab956c4d93cfbddf7ae27298e1d390", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e0731d966d900b88551545f5742d6967d64a8bf9eebaa41a033698eada2aa98", "verdict": "adds_false_claim", "reason": "The story calls 'two thirds' the coefficient ratio for burning magnesium to magnesium oxide and says misusing it would yield more product than reactants. 2Mg + O2 -> 2MgO gives a 1:1 Mg:MgO mole ratio, and multiplying the Mg mass by 2/3 would give less mass, not more."}
+{"prompt_hash": "274dabfdc5ef301d41c98cbfc1e3c8c9455627029d49be76a63fdd396870a5e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "905371344441c802839f1def042815cda6091f0c8c1a473833802ec1662e6e84", "verdict": "consistent", "reason": "checked: Wikipedia 'Super Bowl I' (LA Coliseum, 15 Jan 1967, 35-10; grandfather's 'packed house' is framed as a false memory and not endorsed)."}
+{"prompt_hash": "2522fa4d5cd8051643a750c5afc773731d955f0f9320a4c5615298cc8d72296f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f7b79ffdfcd939fc991241900d12898394219279bf4f5fc95b52ab3da58258a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7de20ffe1843193761b180b1ea632e320ecb1eff96d5892da89f2698d92ccda2", "verdict": "adds_false_claim", "reason": "The story shows a US voter casting a general-election ballot on the state website from a home computer as routine. Ordinary US domestic voters cannot vote online; electronic return is limited to some overseas/military and disability cases (checked: Wikipedia 'Electronic voting in the United States')."}
+{"prompt_hash": "a41c56a9b5135fe2a7c38b90116e08d8518baf75691f5706d2ec006f3f23dab8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a4f0667b2060960ae62867b1541cf83d87221cb46f7107076c8ac7cb81c60e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "071436cc0a58f88a0f2a2e45b85b90022d6c92c67e9147849c1d76511af7d494", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d33de349e1e66e1572dc75b8f4c115f1906cf2327b8639b0c7c46b7c368adeb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f196c9490d33fb68373414416ffcf7ee022d72915e3bd9ad22f4383de31e2363", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "972bdbec51f36bfc46e268faf2ef7a839b276a4352c6c5912e055485e87cc5f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "893884670646d234bb1df72003eafe6cf55bb7129505e51aace67e7515c3a662", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7a88c3052a55aad10324c7622550ad13717e806a151a2ff2776a9774affe138", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f435e8024fe8a7c0b5f33a853dab389ce222aa33bf912ce840339ff592f65c9d", "verdict": "consistent", "reason": ""}

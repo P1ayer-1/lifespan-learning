@@ -1,0 +1,40 @@
+{"prompt_hash": "985cd0804cbb41502e8d578f1010675249a2fd5ff849c9e56cbbf99268ff658c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e72daf39ad96912b91ae3c43a9c6792d422482a5c1442fe0fe0ab757501eb7e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c54f515a7a3108f80510e91d2469e1290bef7bfab7a8c88f0a4f2a539b97dc37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "347db7c92792300aaae6e55fb28b14e47b27ad8cb898ae7f1dc5a8dbaf0e585f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4c9f16381f0fa2e9b48cecf75f89777aed46173ca0d86a9250918d7666656ea", "verdict": "consistent", "reason": "checked: Surah Al-Mulk has 30 verses (en.wikipedia.org/wiki/Al-Mulk)."}
+{"prompt_hash": "e35adbdf144a240777719c22537ae9ce8af4a221b64611938b2f7c925fd6bb06", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cff76ffab359ca610b0a3c074e2c1bc0c5456217bb2072764a8ab7390ed54440", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "420063d5109a841e0a0b94faeaea462e1dcb8e7b461fa9a76df5da293423c8bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3ba8b295ce188f1561acb3e9dffc51d374c9525a7fba72a0c25935ea39bffba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "862625e30fa88cf3e2b5b80888c38d6cfab8b0a63b3eb731f9b018e51a0de27a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9560a2d343f52830bf2504c01ac34657cd21d0886cd33574bfaac425560bfb5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9c92b7d779f523883e060545e4c30ff9d672cdf891e13232796a49a4a1ea47a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "701618295e8b176f284c26da780bfda99b2d268f1b1e080c82f4d764d42c54eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "684ae4c109bcf416e95d0cc4c4c5b26417472a7f976fdc373888e6491ac8d323", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cdabd0a2f8dc0c14783cb90b4c634ddc3ceab88a0d71c4d145f88877fd641fbb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2eacf35f023a35ec10cb0bcf80e358c936210d1c154add67797e131f57db3dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec9fcec369b69f80f4a532dfa0b218ba3708797551f2d1827ab1ca63e89c2b29", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99230367c4e49fc2c0e721f40a5d997d398b1ee1ed83034023dc0f34a54111c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1246ce098b2a0796622138d686ca31c0200114c29eb12c7e40d279bd2b179199", "verdict": "consistent", "reason": "checked: Versailles demilitarized the Rhineland (en.wikipedia.org/wiki/Remilitarization_of_the_Rhineland)."}
+{"prompt_hash": "516fdd897799212ade37d3a9c3e59566b7dea202360c196c1099013d81e0c606", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "605c6e30135efcc9d5ab4da0308729e1d08782e8e71a0a15d8bf05ef137c0d88", "verdict": "adds_false_claim", "reason": "The proportional-representation seat result cannot match the vote shares: Lilac (about 20% or less) is said to win two seats while Amber (about 40%) falls to two, yet the outcome is described as matching the percentages almost exactly. Under PR, seats track vote share, so Amber would get about twice Lilac's seats."}
+{"prompt_hash": "78a2aee6e79f19d919290fc2bc42ed31df9ae89f583e6a8dd55b5d37118ab411", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "588a6ec7b0ec2bbb04e356c97c67a785c1dc6ceab7a1859f4ee04fc5e4634388", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "124e366411306b29f3d8f565d1da7dca6b2cafcf0527732c8f89ca0b055780fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9ac1e2c2c87e993f67a90d6d4ac9328f1b7bf18391fb59fd3897ce32a5ba1cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1009d8d47db4aa389b8dda3451093091d330e261b2324f95edfcbfec8c4ddb3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "008a7ab0c628daf9f28a313b91843c6fc817c5c7e90451bd9d53c978fd133db2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9feee8bfafc9f6e2d84e8d044325b8191aab07f06340195263308da1bfcba9cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd1d11cc655ce2fab08104590dd734e4e3ceffdc96b5f683db33961a59cd3d72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f77a9405d52b69cd568c4bd7d6e6e8ed118c1c22e130d74552aa0a0f6a197a44", "verdict": "consistent", "reason": "checked: Amazon has the largest discharge of any river (en.wikipedia.org/wiki/Amazon_River)."}
+{"prompt_hash": "7abd93c107aa4af4258b7094ffa754c7aac0119de8fcc34809701d152776c6de", "verdict": "adds_false_claim", "reason": "The story presents Judaism as having no teaching about an afterlife and contrasts it with a faith that looks to a world to come. In fact, Jewish liturgy affirms resurrection of the dead: the Amidah's second blessing praises God who revives the dead (en.wikipedia.org/wiki/Amidah), and Judaism teaches olam ha-ba. Kaddish facts check out (en.wikipedia.org/wiki/Kaddish)."}
+{"prompt_hash": "1f75d65213c4a528f243da4d3266fb3d3c50115d7d67f42f11c3a72a2d250b2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c46f87e606d7ad803ce21aa0ef8e79cfdbc6b37984044223fff9193c38025662", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d22d2ea5354a54b272baef3f5f8a0bfc53c2d8d69864c15fe529af0b58a6c39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c67d941a7a51db1881dc82c75b2ce32ee26d043f76ba8f05f7ac0cd639d4139", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53cef1d7091af037bd31709586c8a6de15cf74d4a670a40ee595335a8458872c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e59740662ae1ec430bb6cfe692b49d639e879396f9f7b6ac54c6572f0ab8cc5e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91a661ea550f16224dca6fad2eb70cac996fbc12f7ca543990f5392c0f923905", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "322a835ed5f003ade5eb2d280e4421d8d6577480e6f9916ba799ef563ec22df6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4483061cd10a77c12461aa3ea45f8b5fcf819008163cb95b193f48252c42d952", "verdict": "consistent", "reason": ""}

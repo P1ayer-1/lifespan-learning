@@ -1,0 +1,40 @@
+{"prompt_hash": "95a8844220a17e9eb9b6de1826799edc1926d25d375b8aedd1281626b9254bc4", "verdict": "consistent", "reason": "5% threshold and exceptions per fetched en.wikipedia.org/wiki/Electoral_threshold."}
+{"prompt_hash": "6ecc79bf92bbce5b2e03ffc8e6ecb41a1214a9a3fa13add2625c032f09c13955", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b965546deffc4436b59a33153f4148c844391f3d6293b5bad638de5056772d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c434d4eeeac730ec93516896d016f32f090944ae0063e6aab5c9101fee4749c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d2f28f95606d6dd8e5105ec536d0490bd617944dc4a17d1d9030e3cc1a5200e", "verdict": "adds_false_claim", "reason": "'The thin wire was the killer... now she had proof' (thin wire measured ~12 ohms vs 2). In series, higher resistance means less current (fetched en.wikipedia.org/wiki/Ohm%27s_law), so the higher-resistance wire would not be what burned out the bulb."}
+{"prompt_hash": "7673ba6832f84ec198ba3bef0eedee02f097724235bbaa89eca2edc5b55cabf6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7dab78c28ac60f56c95abb95cdf413c665ee0b9824b640a7889fdc0b29c413e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79ce5f8e41b034dc427e870a72f81473a7e7dce155865cd175eb98f8623d05e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91f4a05403a947770af2a88a941019a2c769dcd911c22a9c5e04b8280d086938", "verdict": "consistent", "reason": "1997 league-wide retirement per fetched en.wikipedia.org/wiki/Jackie_Robinson_Day."}
+{"prompt_hash": "d6d3bb32fd784a4a01f9360b8f45424117b8f6ceafa777caf35aa453ddc573d5", "verdict": "consistent", "reason": "Midnight sun per fetched en.wikipedia.org/wiki/Midnight_sun."}
+{"prompt_hash": "314aef6f32722da4402feca68514c8cfe91b029ec186aef0885022825684c4d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "842ed19661454992d6454c1751dcb57b9db68ee23f09d113423b6cda4fb398f1", "verdict": "consistent", "reason": "Cooper called rival Joel Engel of Bell Labs per fetched en.wikipedia.org/wiki/Martin_Cooper_(inventor)."}
+{"prompt_hash": "bff4acbbc979d01775b443352068512c3b5768b3f13f022ce1a40a20e4a3ea53", "verdict": "consistent", "reason": "Etymology eu- + logia per fetched en.wiktionary.org/wiki/eulogy."}
+{"prompt_hash": "65a4075a7c6a2abe7d0f13913baead5c9dd04960506c00ca7e2ec17501fdace3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e15bc5fb6cc6b6149b60d736faeb6ffae8a2456bd9abf35e586b3dc5c0a1bcbb", "verdict": "adds_false_claim", "reason": "'Lemon juice went orange' while vinegar went red at 'pH two'. Lemon juice is about pH 2.2, at least as acidic as vinegar (pH 2-3), so universal indicator turns it red; orange is about pH 4-6 (fetched en.wikipedia.org/wiki/PH, en.wikipedia.org/wiki/Universal_indicator)."}
+{"prompt_hash": "cc1a0fd316b64ac4a12a66e5a962ccd5609d9862aa29e2f51f2b14552f57416b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94de8919211ed4893acff26e37dbcbce5eab70049c3b5dc2194aa25b8bf693ad", "verdict": "consistent", "reason": "Inuit/Inuk per fetched en.wikipedia.org/wiki/Inuit."}
+{"prompt_hash": "3236a600709f008448861484199b09a40765313b004ca3a740c93c2a6dc28e68", "verdict": "adds_false_claim", "reason": "'You need thirteen to govern alone.' / 'Half of twenty-six was thirteen. Nobody had thirteen.' A majority of 26 seats is 14; 13 is only a tie (fetched en.wikipedia.org/wiki/Majority)."}
+{"prompt_hash": "e7e84e4d696d03651c2842916518736acbd4355c372344583594067ff75ef558", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b287dce24f3fda03b3aacdcbcc314410f9a313175e0bbb72970e4ee5c84b0a90", "verdict": "adds_false_claim", "reason": "'The afternoon sun had made nearly a full revolution around the hilltop.' The Sun moves only part of the way across the sky in an afternoon, not a full circle. The Qingming fact itself is correct (fetched en.wikipedia.org/wiki/Qingming_Festival)."}
+{"prompt_hash": "702225d5a4778d00cbff0da760d39d6b4a4ceeb85961f49e1d72b2a409f15056", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72b46308783f717144912e97cc66a16b77c2b6fa2da7212a8f37866b0a52fb2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "55421f88e7bf2db92acbb60c373bfecf0ce548f8f3e3840a45d2f39ff7b5f72f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "16b2ba0424b6c9ee50f4b9603061e8dcf5688ed7b969316018117d27a1476774", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13cb4a5dad5e42561c1334898dbbfe5276dec93c5a71629d2b67b12b2a87e8c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "caefeff191844f47703967fa7f9270c26224913365641fb647d7a978de9a3d34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32a02daa01eaa04dd53043c3d4ecfeed52539311b972578b51c64e00cc2c542d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "283f1e7c543dd69b16ebdfc65ef823e81d774d74649decdf2fc9111e5f98e913", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22480066271d84bacf80dd6c9c0ee0a02c19eb8882eeb73385f9cf73c014ec68", "verdict": "consistent", "reason": "Strep throat is bacterial and treated with antibiotics per fetched en.wikipedia.org/wiki/Streptococcal_pharyngitis."}
+{"prompt_hash": "2ec6fec68ba89be29b3ee6644f3395affd95f3b4d00ed943271695b5e7f2727f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7aa7c122f28a2bc69130817eae18252ce56631daf7039b84c3bd388d0e8b12e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c57693db19e167ac55e5cea00672c038bc6f55bcefc9e15f112e00b3d84959e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b5574e6bdd23004276c84a42a456bdb0f4aede8f75f9256f2d1c78231299a9a", "verdict": "consistent", "reason": "Fe = 26, from ferrum, per fetched en.wikipedia.org/wiki/Iron; Au 79, Ag 47, Cu 29 are standard."}
+{"prompt_hash": "179c2406ccf46b53080be4de7bb113f55421223249328b254e862fc8c32fc51f", "verdict": "consistent", "reason": "Subtropical desert belts per fetched en.wikipedia.org/wiki/Desert; the pileated woodpecker's red crest per fetched en.wikipedia.org/wiki/Pileated_woodpecker."}
+{"prompt_hash": "89be818db3768f617d85bcc990e3eb73f2b61dc36219fff21a203d2a1402313b", "verdict": "consistent", "reason": "Bleach triangle symbols per fetched en.wikipedia.org/wiki/Laundry_symbol."}
+{"prompt_hash": "06023fc0cc5c86837dd5e970f8413e378504300c34fbd436a71645ddfa01122a", "verdict": "consistent", "reason": "St. Mary's, 1967, van Hengel per fetched en.wikipedia.org/wiki/Food_bank."}
+{"prompt_hash": "cb3dd17e90cc205fc1669608b0c497b8080a6de5c52209860b0d77e64874af9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49d21eb69b3aa45f9bf94944243fc9eb61048e7508921d8a8e354f0a7ce6bd6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ca4360a2e28c3803539e4e486be717d092da6c22416167503c1104715d39bf9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "532b82153a0353cb192d17feb0db04d4de3b67d8ee197ad747b879c762b1a599", "verdict": "adds_false_claim", "reason": "'Fifteen minus seven' for nitrogen. Nitrogen's mass number from the periodic table is 14 (atomic weight 14.007; 99.6% is N-14 per fetched en.wikipedia.org/wiki/Isotopes_of_nitrogen), so it has 7 neutrons, not 8."}

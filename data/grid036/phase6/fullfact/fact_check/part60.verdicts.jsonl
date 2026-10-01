@@ -1,0 +1,40 @@
+{"prompt_hash": "51dcd214da37c0044cbba0df2eaab3d9938ea2837dfd34351755bd9de2e1dc15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1378f539e41bb2de12869fb7387e86f759604904a2822050eea284b4645adc0", "verdict": "consistent", "reason": "checked: Wikipedia, Chocolate tempering (temperatures, seeding/tabling methods)"}
+{"prompt_hash": "7d2fd25b88ee94ae835b4d03c4476d34ffeb8161b772e01bf61f55967b9fab08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f861919413adbe5eb7fcb53b2db8e9e9dc49463f93837fe27c21faaf87240afc", "verdict": "adds_false_claim", "reason": "Story says Gilovich et al. 1985 used Celtics shooting data and Miller-Sanjurjo found streaks in that same data. The Celtics set was free-throw data; the 2018 reanalysis found streak shooting in GVT's Cornell controlled-shooting data (checked: Miller & Sanjurjo, arXiv 1902.01265 PDF)."}
+{"prompt_hash": "85fdf12239b672d66eddf3c7a4d0147410f7e0d5b5700c5ee797395ebc7fe85f", "verdict": "adds_false_claim", "reason": "Story says the guitar's open fifth string reads 440 Hz and the A at the fifth fret of the first string reads 880 Hz. The open fifth string is A2 = 110 Hz and that fretted A is A4 = 440 Hz (checked: Wikipedia, Guitar tunings)."}
+{"prompt_hash": "dfdd07a37fa92f6421659031865f0507ecf2431c0f1cd3ebe3d3c5f9a4e65de8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "559d7f620342b99495cde354fd4fcf3b1b321cea4f9548fe7b6cd46e5ae45ea1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98cd24dd071bb9b66b506b564f033ccbeea057a9d78d315160005451a35d3b27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77c8e63694f4f723d6b87906ae313825a7b30b75b44795f20189e1de84122442", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "789349d7248914f8b9b193fa0c896b64035fe42992d9c979c0371501601ba2fc", "verdict": "adds_false_claim", "reason": "The pay stub shows federal and state withholding plus Social Security at 6.2%, yet the net pay equals $682 minus only the 6.2% ($42.28). With income tax and the required 1.45% Medicare also taken out, the net would be lower."}
+{"prompt_hash": "ca74a90d85d2a0790013214be2cc64a0dd4152bb700a822b313d6d424d32a574", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc497590e80a0767449dce10fb2df5e382aa683e024c3d4a4b7ebc3afd26899a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa4c28a0f4b4d00c01cefb38c3487b38d801c06cc4c9ee536d30db2f5ad5d0eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6663c21dba00b9aac5c16077048bb27e27272622ea8b3be210b82c8265cbe57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "574a889b69887aa112618ca49f4e16f08d625963e0c6a4b4de1fb85a54d7d848", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17a3460cf2b8f4bcce9a48fefde493c5900932b11cdb8f96604fc98b5f0770ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b64b7296c15be376bbfcb57a4b01b674c7c220f6d4c2db833b431d36bfbbe243", "verdict": "adds_false_claim", "reason": "Story says the two functions, which differ only by +7, give the same y-coordinate at x = 2. Their values there are -12 and -5, seven apart (the story's own graph later shows this)."}
+{"prompt_hash": "ae3a7e8083f16c83063c961b8818e2a6e86fed2670091182e8b6d08b3bdb4731", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c1818050466019d75accaad7f04f5799322a885f14c2e38cfff5a7c19b3d364", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41a0c2ce798860967b8e517e385291035249398d437ecc86bd64969412c91949", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d8e5bf5837c3099d4f0f67cba70cda7150a6cea031fb9287124db5aa94d35ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f1957106e51dd0904febd4469591456aa763a28921e34661abf1e092001a622", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a5000e9aeb92fd2cc85783a8d5b4d7953ce97ca73411040db3e945ab507489b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6cf65cdead47d4786640171c552e3ecf579ceced330d0388a5bc5420e75a0092", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2be8f8c1126860600686fef657d168b7a2e31ed446247244a2a283fffc83a29e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e42896ccb24ce28b6cf5b355696391db8aee3b191f63d4e757ebbfa6acb4399", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c3da289c294285cfd15c08162de09b9278e6b1a85f1ec9ee6648d88f24a4716", "verdict": "adds_false_claim", "reason": "Story says Apartment A might still beat B on price if the insurance premium is small. A already costs $840 to B's $800, so adding any premium only widens B's advantage."}
+{"prompt_hash": "27eba60359fea590acb7f62ae925a68c809731be67d81d96d8091a10c4a6d9d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "153ea9857b5c1ce397e97145f8e93ef9ddd2af8e41554b7e0a7c05984aa69997", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3f54cd25c170f925aeab9178cbdb1105f91d18aa2c47bb9f2dd8c91c210fdeb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6a0954f6daa38bc11cf97529e83e1dd671ad157641ddc8d2222ace77767ec3a", "verdict": "adds_false_claim", "reason": "Story calls the FIFA 11+ a ten-minute warm-up. The 2008 Norway trial reports the programme takes about 20 minutes (checked: Soligard et al. BMJ 2008, PMC2600961)."}
+{"prompt_hash": "43a6765c5690ea31304b2aa395c96f4f82fd7e4c7c1c34ea60f0b95feb1fc8cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c075321d39cb1691cc95d50a60b237de212c9be8ad959451fd5f0bd13e8d37f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d8d499bf88b8db50332e3a16b3abb5b4a68dbc0fa764e15ecbfea9b6872098b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3834eba75151dfca2383611036f6cb53f4c284ee2ac9acea2886fff74654ab01", "verdict": "adds_false_claim", "reason": "Story names a panther cub on Kahlo's shoulder in the thorn-necklace self-portrait. The animal is a black cat, with a spider monkey on the other side (checked: Wikipedia, Self-Portrait with Thorn Necklace and Hummingbird)."}
+{"prompt_hash": "db6dc8e7e2551141ab82b86f3a730bf2ed23b9f828fe102de54d1fee9d944ed1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "280d51869cea6e16ac724ef4f96562b7d09d5ceaa6e0575df430f3735535ae6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "056d8ed11e267307de4213b47dd94d3eb0eec4ec0f7bb64c07f02f681aaf2a2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20dedf42f654e8eef3f2e94775b3b0f3a4cb81cf6930a0ba2744dce767cb5de7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f18c600d71c430ab3dad810dcc5e761778c7937ab86290fd9076acbb7349713f", "verdict": "consistent", "reason": ""}

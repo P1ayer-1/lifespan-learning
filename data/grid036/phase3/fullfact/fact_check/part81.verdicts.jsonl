@@ -1,0 +1,40 @@
+{"prompt_hash": "18a337947e93bba34006bc69022839338ed34e9681d2f832b3feac305083e7a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8aa3878bcfd43831911e3489ce537f13c2af1a30741b749321498af7749371d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f9914897be82eb84944c7b41213280fdbc70320dd9a3c6d3aac49fd3aa7b6b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f70d3e7198e4331fcf811384b96f77a521b85a5a6b760a96eda60276d4a2853", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7ec95c13995a1f3deb12ca175e9a22bdb51fdb3235e217c71fb649cded3ed74", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "579dc546eb7ef0c3802e77748398dd7f3c099b0ef4540d3eb1f83d07beb15be8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b85c5e797ab931330c3b49ed75bfd44e4e864f33cbb02e851df9e0a7ac86d2bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df5decd46cbcc6b7c07b595e5e372a90b7e199e5ea0e3638307e90d6ff44cea5", "verdict": "adds_false_claim", "reason": "The story has Lunar New Year move only four days between consecutive years (Feb 10 one year, Feb 14 the next). Consecutive dates shift by about 10-12 days earlier or 18-20 days later (Wikipedia 'Chinese New Year' date table)."}
+{"prompt_hash": "1c1a7b065a67182cdc0108dfdc8bb5189846296e6515e51af45da836447f4ff7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f76a041fbeaef191906f0248c70b3602db519b1b720034ae29bb0ca65fef245", "verdict": "adds_false_claim", "reason": "The narrator says turbine blades 'refract' the sunset. Opaque blades reflect light; refraction is light bending as it passes through a transparent medium."}
+{"prompt_hash": "d47900a0298d61a2829d7b2fbd13c284321ccd81b179f431202e94590c28bd7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33078de800685be0d0872cfe8dafc168d346e67ee59962ad165bd9bdcadb7e18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cee30f4c73af0aca7126458d657e8fb368af120272aef218986a50b4db21bc8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff7b159c67de7aede0259b23f3d846aab98ba15e832d16a75c297efc21251684", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f89c98d1858fb382852478ee8d8e7194c88096d25200f867122348009954987", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90fa5bb35fc56e2e98cbe0d28968a98c307524b1efdd8afb067869d6a39ab3e8", "verdict": "consistent", "reason": "Oregon Trail ~2,000 miles and post-1837 westward migration in the 1840s checked against Wikipedia 'Oregon Trail' (2,170 mi; Great Migration 1843)."}
+{"prompt_hash": "bad16bd9f9737ab7314bffca68104d443a876a328a0efc25551bf50deac4b642", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04c969c71f36ca28a3822923d0dcc862d0a6103ea1098acee9858fc0ad4db064", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54118441fe71d012b768f1df5f9c7306d29b71933db5a870a64a9ec02be38624", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a12766df5a90c7c7cfd7609434009a84f5626a2f61d4c940ea26bdb32642244b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e97a19a0e4edb1ef781fc5ce0d8a54b203eaaa1ae5efdb7ac7defbf60f8b4b26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3dce46355656af695daa7787a2bd7bba885e88855aebd4842144b2c9b874e650", "verdict": "adds_false_claim", "reason": "The story says Japji Sahib has forty pauris. It has 38 pauris plus the opening Mool Mantar and a closing salok (Wikipedia 'Japji Sahib'). The fact itself is stated correctly."}
+{"prompt_hash": "a4228e5405c0eb853d3c946a78cd7dc522f1c369fe88aecde6bccb13cd37e9a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f688fa789ce53a69a6eaeb22628b69120024429cd4b829aad5220e2b4e39229", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5a9642991aec68e98555467e410a6971958c5d9598904d6b0e1495f9752ce4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "168e5c81dd0686aa7a72f4f13ac0868cfcf462078371be774be62361baba69b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "116c3fa3b9a2aeaa7f41145f253f38c9395b17ab54220ea74bc9ee1f99265096", "verdict": "adds_false_claim", "reason": "The model dialogue line at the climax puts two dialogue tags ('asked' and 'she demanded') around one quotation. That is incorrect punctuation in a story that teaches dialogue punctuation. The question-mark rule from the fact is stated correctly."}
+{"prompt_hash": "aa6cd1052f1b467d938c95499fe4ef198a15ea1a3b6efe13cbf00a57df0f8575", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32716834373c704b1ed478cf4ab797a65ffd414896c5bc09f058920f741242be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e8b38dc5879e76ae191344fcac35369d16553f1fa9d9d89d8351c17ed70f333", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d97ef64797c72519a07d272259380b41714f40f5ef4d689499cb0ac266b0d245", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "daf2d3d2731d5b5e66629c4a9328a8671ce13ce57162b148c2b12100d5f97e08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25cda18485131f46e287d5089f08088ad2264ca3b53a8db57dd3f65b72408691", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c40b5c3c1ce36eab2005db23a667e1fcc288a2abb396a5b727fbb5db83f1beff", "verdict": "adds_false_claim", "reason": "The narrator says a pencil wrote gray and streaky because it was 'running out of voltage' in an electric sharpener. Pencils have no voltage, and the sharpener has no effect on how dark the writing is."}
+{"prompt_hash": "d42bca359a511abd9c3e470959f619b105b3927831e8917ee86f3b135f6cb1b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ada5960b8ba84c33144b43b87f9c6edd298db724b839f8fb0e3686be22b3cd01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb455ede86e03eb4070c1542028bc89cbaf9cf0b5b08db3032b6c9d702f255bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85f56a37dec4d6b92caf68a46c093cddbcb317691d8d3b11c5528602f032f730", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6007464a0331ef800aa6420312c4bc824b58c816fab3d19fe243ceaded7b2b99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d12521c8f81c0b4c303030886397aacc3f8e99f6c447054e373f381e096ddb4", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "a0f7eab270fa4dabff440eaed81569f39b82a47f534e95098d4e12978e039438", "verdict": "consistent", "reason": "checked: Wikipedia 'Visual acuity' (fetched): 6/6 equals 20/20."}
+{"prompt_hash": "d657f676d163d85bc959ebfbb07c495eb47edbb214f142168179ceb291994d24", "verdict": "consistent", "reason": "checked: Wikipedia 'Origami' (fetched): ori=fold, kami=paper; cutting discouraged (kirigami)."}
+{"prompt_hash": "445ef3fa953c5b640ab1607322371c64a25c6157dcd03b4b71cf953f0b33e283", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4bcd9f3690a350ef5becb47279d297d03f1c0a40fa429879155660930ffb8e0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1340655e6f3f3115d306dd762778570286b10588c6bac6399c27377f4ec93046", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ac21c3f20c9ff77e0fba72d7c68336e5d5721e1f304b9bef63cae204c047a8f", "verdict": "adds_false_claim", "reason": "With Falcon 212 and Kestrel 218 on an axis starting at 200, the bars are 12 and 18 units tall (1.5 times), not nearly three times or doubled as the story says."}
+{"prompt_hash": "7eb2841a2c1b4308beff281bfeb8c3cae3d21b45be3fa00135df9baaa00e99a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b8fdec4a22d616da8e780e2a0fa0086a1e7484634252354031d4baa38418dfb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73fc98a8e40217de115dd2872160c840be5a2232fce5a7095a877493d024bb0f", "verdict": "consistent", "reason": "checked: Wikipedia 'Etiquette in Japan' (fetched): bow depth/length shows respect, gifts with both hands, upright chopsticks taboo."}
+{"prompt_hash": "f6abeb4a7e67fe0259a64b4e5b1e54758b7a06241ceaf3f9e04cd3560e190f9e", "verdict": "consistent", "reason": "checked: Wikipedia 'Alfred Marshall' (fetched): scissors analogy, 1890 Principles."}
+{"prompt_hash": "7c4802fef59472b51c419d2af8a2084306819635f41e2138850d28394fc424a8", "verdict": "consistent", "reason": "uncertain: story implies 'yes, and' is a phrase from Spolin's book; Wikipedia 'Yes, and...' (fetched) says attribution to Spolin is disputed. Spolin 1963 and 'bible' confirmed by Wikipedia 'Viola Spolin' (fetched)."}
+{"prompt_hash": "5fbed7b4a3b79f5818a1787c05b9bdd3f71553aead850c9bdbc6acbe2abdc484", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8cca35f9e57a606a65100fc01df66f1d3a0c6b1f63d534038c161142364c2eb", "verdict": "adds_false_claim", "reason": "Story says the keyboard has fewer keys than a full piano yet she counts 52 white and 36 black (88) on it; a smaller keyboard cannot have 88 keys. 88/52/36 holds only for a full piano."}
+{"prompt_hash": "76987f3f8a64a9565917ccde026d586e64520a64cbc1e224c29985920a7a0a3c", "verdict": "consistent", "reason": "checked: Wikipedia 'Horse latitudes' (fetched): hot deserts near 30 degrees from sinking dry air."}
+{"prompt_hash": "0812644760a1f8fb32c30e3ed2fbed217f7706f4bf0f52983d1e0a2a6f0cafe7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "564e65dd801f378ac09ecebfc3b8b6e0ca6a1611f37d2d92b30b917012b86948", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9439e61010b79a405e356e1469a1ff9f1916674765c9d211a662354f781e69f", "verdict": "consistent", "reason": "checked: Wikipedia 'Hafiz (Quran)' and 'Al-Mulk' (fetched): 114 surahs, constant practice, Al-Mulk 30 verses."}
+{"prompt_hash": "1a46b2674a166c23500d4655b327bb6fbc4fc72f997311c76875bcb933f1bb4a", "verdict": "consistent", "reason": "checked: Wikipedia 'Japanese verbs' (fetched): non-past covers present and future."}
+{"prompt_hash": "3da67583da3d39b6b12f43cf12eed6a8b4c7f7a9275c9b8f4c3204c7530cde54", "verdict": "consistent", "reason": "checked: Wikipedia 'Home advantage' (fetched)."}
+{"prompt_hash": "9c942fa52dc44e09c891796fcf6ed8979f2c56bc5d37e05ea5ca53b927853397", "verdict": "consistent", "reason": "checked: Wikipedia 'Impro: Improvisation and the Theatre' (fetched): 1979, status section."}
+{"prompt_hash": "1cbce026c289b684814e6c39ec5bad2db774173292a3f7df6f53bc00939a8603", "verdict": "consistent", "reason": "checked: Wikipedia 'Tuckman's stages of group development' (fetched): adjourning added 1977 with Jensen."}
+{"prompt_hash": "13e950e244361e1bbef2b6a2deb704a129369cc81204d2cc26c86ccf6477e911", "verdict": "consistent", "reason": "checked: Wikipedia 'Diaphragmatic breathing' (fetched)."}
+{"prompt_hash": "cbb7c87540330bb375b84ba81b7d413fd0440ef1a74f25e287bf1126fa3cb2a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7688e7eee7b09e1ccacabc9542082ab258584e6b878d5ec678a9b30a542825fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "affee1aaa8deff7d39143ad58e6ff751bc4dce3331f27ec8d0ddd80937258ab4", "verdict": "consistent", "reason": "checked: Wikipedia 'Tropical rainforest climate' (fetched): day-night range can exceed annual range."}
+{"prompt_hash": "3f6e6945f283d58360d71dac5d72886e5b49a6ac959aec112ee6e56882fd7209", "verdict": "consistent", "reason": "checked: Wikipedia 'Francesco Redi' (fetched): 1668 gauze-jar experiment."}
+{"prompt_hash": "5497a9931cd94316fb6e7bd98dbbfa13cd40274c9f3ba9e5878e0a7513a54250", "verdict": "consistent", "reason": "checked: Wikipedia 'Quinceañera' (fetched): Mexican celebration begins with thanksgiving Mass."}
+{"prompt_hash": "022f83ae312f83b55d468a8783c4953d53706a27d95141a04c31d873be88cdcf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67ad0059563abde58bbdbaec730cf855f3a864bad6905440a0fc58b44243cc94", "verdict": "consistent", "reason": "checked: Wikipedia 'Al-Khwarizmi' (fetched): al-jabr, c. 820 CE, Baghdad, Persian."}
+{"prompt_hash": "d2b0457869d962513c99ab1cf6fa9d9f9451e6dd883b11c10ec2e6dc91c249d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "016fdfeff04079f6872b766b54bb29c95d0ae03bbdb6977bc09d2a607c42aaa6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dffad221ee4d2834814aee540dbf9ce6a7a1e2ea08416b7984398c5e2cb791b9", "verdict": "adds_false_claim", "reason": "Graph shapes are wrong for a slowing ball: the swapped-axes graph is described with the shape of a correct graph, Leighton's upward-curving (speeding-up) line is treated as right, and the corrected line 'rises slowly' when it should start steep and then level off."}
+{"prompt_hash": "d51c3e2495feff3c1cfb9579eb5893c05ee0315557eda9040eb7d7d9580a2a06", "verdict": "consistent", "reason": "checked: Wikipedia 'Hindu funeral rites' (fetched): cremation to five elements; children and some gurus buried."}
+{"prompt_hash": "c940e9cceb3a3cc15de8856e9252b9b5e05a2ecf68619fedd912cb077f54c9f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b52b9a03c0a9a268aed0e70ead8c74ba668235d8c3290650e7c18a7d1ce5a9e", "verdict": "consistent", "reason": "checked: Wikipedia 'Delayed onset muscle soreness' (fetched): lactate normal within an hour, not the cause."}
+{"prompt_hash": "ff442060957a1ed7dc0ada358cc8375992ca9b6304cc23aff0008e849475c83e", "verdict": "consistent", "reason": "checked: Wikipedia 'Micrographia' (fetched): 1665, Hooke named cells from cork."}
+{"prompt_hash": "771f2e791bd6a38c8c6121fbd811fef9a891e8b4aa895bbdde19820d6cb56835", "verdict": "consistent", "reason": "checked: Wikipedia 'Golden spike' and 'First transcontinental railroad' (fetched): 10 May 1869, Promontory Summit, days not months."}
+{"prompt_hash": "6f0899520eda00fb998d22b0fb7198dbb20efa4afd161da21cffc57dd6a9ca15", "verdict": "consistent", "reason": "checked: Wikipedia 'Freytag's Pyramid' (fetched): climax at peak; 1863 date is the pre-verified injected fact."}
+{"prompt_hash": "9ce362e90fa5b9d0352c738336375a8e9a67b53f8a185a6ef2326df31bede223", "verdict": "consistent", "reason": "checked: Wikipedia 'Moneyball: The Art of Winning an Unfair Game' (fetched): 2003, 2002 A's, OBP, undervalued players."}
+{"prompt_hash": "b5b38e8374ca47d71648e65432979c4715541dd1e296ca8cbb50f5584ba52e99", "verdict": "consistent", "reason": ""}

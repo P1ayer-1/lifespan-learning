@@ -1,0 +1,40 @@
+{"prompt_hash": "91ade58dcd736dec00ffaa96d5776a4b2c3fc7b4609b89316c73536e73180639", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e74134775295d1d8d959ef6d03e19e3155623a332b848e28839eedbfe00ec92c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19e4e06e76ac91483dc5d3b99919b37758e624f48bb25e275d259fe2db597558", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c10f16d47aa7feb4394a7b94559e3a4f5c2de62caac35b82d8986672edb6817", "verdict": "consistent", "reason": "uncertain: the child says the snow surface is 'zero degrees' and the tunnels are warmer, with no unit given. The subnivean zone stays near 0 C while the air above is colder (Wikipedia: Subnivean climate), so this is right in Fahrenheit and wrong in Celsius."}
+{"prompt_hash": "5906b925c6bdbee8132b1a88568fa5cecec0704e01fdd0346dcb057577311e24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02fd75df74286c5de2fd0670c4daa475189da18bd7b095766863b11f5071b1b2", "verdict": "adds_false_claim", "reason": "The chain has a hawk eating a fox and labels the top predator 'climax'. Hawks do not normally prey on foxes, and 'climax' is an ecological-succession term (Wikipedia: Climax community), not a name for the top of a food chain."}
+{"prompt_hash": "a1b8297166a95f8ee51a388779b3d5a4d496665ed6f4dff8174f65dea98d15b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "905388a0cd122206f47e715518341850ace347e30406455b4a5df24dea19efd1", "verdict": "adds_false_claim", "reason": "Grandma lights the holiday candles and then serves the last meal before the fast. The pre-fast meal is eaten before candle lighting, which begins the fast (MyJewishLearning: Erev Yom Kippur)."}
+{"prompt_hash": "46bfa9c6e7e16ea2bdbe55c874483e9785781a7e28f066e853762f6bf66a798a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19160de276028e129e3700ac74ab21c45ffb06d1b9ef505822dc852fea5b79e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f53ebe4892f91d68eceb42842e6856893e9abe1f2f7b47ef46a51eab53978695", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b966e55dc90342799ac4f3d4e9b509b9a2a45ec66be2940832f9ae410389892", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5309107b6f5f19c344bfb68972a54e3309d2fcd41cd591941c20a9daee6e5c22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "193e9494fbb0a5e806d0a35bed8da3f28e1dbffcbeb6419209d175ff1369a6fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdafc44b8325f00d6bd02e10d339c09916320834408e4945836cc561f2317f2a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c09d623ab7fab3ab1057fd5a92c2e012a6bc381cd1414c71041778f9a077555", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25ceccd615b1f525dbc2985503ef5a9580f6e19fd1a5f4a695759496cf8c209f", "verdict": "consistent", "reason": "uncertain: a judge says she could give royal assent as a deputy. Only Supreme Court of Canada justices can do this (Wikipedia: Royal assent), and the story does not say which court she sits on."}
+{"prompt_hash": "4309165105fb9338a782895fb2514b9b7ec4091e1dbb2a83e52a649ee591bcaf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4cccaa890b89860ac448eae9ec7dcea77ded7ec68c958f10433de64e7c050935", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "42abc3eaeb25a30d1d0dbbe5a5124467b03f16a6052a27c50b4fe5798bcc8d6d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cba2cc75a576800532a8aa81b90e86071ebe316c64cafaf2cb6854f5f312d773", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc2bcb391b0ee29af8ab8b28e1f59af96c19231272993e74406a31cfc9427c15", "verdict": "adds_false_claim", "reason": "The story has food allowed again at sunset on uposatha. Under the eight precepts, no food is taken from noon until dawn the next day (Access to Insight, Khantipalo, Wheel 206)."}
+{"prompt_hash": "93d3043bbb3212411aed14615040d8eab6ac6eca0ac3facec34a74346052234c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf36852a1f6e99f2a58dd246442c54aef29d0a428c8e98f816530a4bfe725a9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b9595c3f572fcf5ef77c546472b4b88f87dd342962ef775074cb78392eca5b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a307776f98ceef12d6bc3290b5a89a8856f5e19afb1fcab3f7d23ddd3a064086", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1c6af66877b2c91b88d9ab2dad0bf4e787f8d048a25cb7617118431195ebd97d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6772c46dc338c68a38c23ce068faa1a402998188016b72a8a60d5621877b00a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "512fbddcb3bb40b740511b3f0c17c8a41492b9df9fae5e99343a27a0e3333462", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6dd24198c9fb34d7085037354c3f6aaa194d00996c3a687ebdf36109346e0c25", "verdict": "adds_false_claim", "reason": "A science teacher is quoted as saying a whole pond algae slick is one organism. Algal mats are made of many filaments or colonies, often of several species (Wikipedia: Filamentous algae)."}
+{"prompt_hash": "1c81591671d6489527d637a3bf8679df380250007cb1cebb91fdc9687e2173af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d0c60a31fbc7646a742e8fb33f99e3b0ce6e161f073fdf9e64203bc89fa90fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf5de2b931d33dcda32ae5bfafcfba1d546d5466730a8c4fe2d320cb37ec9019", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5db156efbb26f12b854606ae7c8b600bbdf43b4382bb7bd760d0bf4700d60251", "verdict": "adds_false_claim", "reason": "The narration says Naomi's everyday hoodie is not flammable. Ordinary cotton or fleece hoodies do burn; only the fake-fur one is singled out as a fire hazard."}
+{"prompt_hash": "e958e200eec89ff68638e329b3cb6d504fd518f5aa9668f183ca96bd6968fcaf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d463e7f8776d7515bb77d9274e2d617d699070b4d22ab97ab7f380204369f459", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee435aa850e327689d5d7a0430453783ffe265d426fe87b27c62753e57b652f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cb19926e9a21c23c2c845b1c44b27b6e752aeafa5e46a97f74a255e36918513", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa493e58d0c73e4def6f2a0d410a27eac2aeb0f2322a61200c889b8c6bdd0955", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3d81b5236fa560304b5e8ea207e98f441ad4dcbf41eefecbb13061360552b7b", "verdict": "consistent", "reason": ""}

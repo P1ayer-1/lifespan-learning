@@ -1,0 +1,40 @@
+{"prompt_hash": "edab73b2eea6cc2721de4aaf35c7852064062a287cef6605d91bde0ff4562feb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "855d7f4b875f7dfef24b1d45e9c83294d6b5d4f89e061e48dd4bb358317d0023", "verdict": "adds_false_claim", "reason": "The story endorses calling the dragon syllogism (all dragons breathe fire; Jasmine breathes fire; so Jasmine is a dragon) valid. It affirms the consequent (undistributed middle) and is invalid."}
+{"prompt_hash": "81e07501aa30832fd58f9974ea48f5ffc3caaf0dab118b326815850ac6eddeef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81d0275855fb96c217bf18f4f50a1ff5067fb31518c448ccc1985f26e7f28623", "verdict": "consistent", "reason": "checked: Wikipedia 'Alfred Cobban' (attacked the bourgeois-vs-feudal social interpretation)."}
+{"prompt_hash": "4f76088431c42aa41334de4708f746e58ebc0bc2a3e4701ee9bfbfb800252586", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "102b4bfed3d7a06eaaa6471936ac16ed835d1104f3a3f3353eeba3968c3ea663", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d06a0328f9e9016769d50b0e7f546fbce33b8013edfc8cdb5283a5aabec32fe3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71974664bfb502e630fffc1a80257f7b40b9379245df06c46a76dae3f3e118ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9a760ec324d466efa0034badafcc31411ae1097abd67b038ffa9c28670ff1c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0fa24d13bd47827ef15ffde4ef75d48f5e447079eade8fcb7e9d61618bf64475", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd395335639da8df0c4e0d756f60dba2a365ba33dd64386ae0d8e0b04d017012", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e932ed8e393c8637e457b01fbc91eb54cac83c7746cc3e990a2aafb60c1eb626", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b490d1bac1f166fd50ecf345933a57ad26faf82d5f9b0ed736c4990d77c68ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39f1d90927e61c122abcb6f1c99f1e0d8ebc4056795fa926b050ddd13fe680af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e94de21285685ef17dbaba95cf4337eb52a5ab9f29eb1163a71f398c5fd231dc", "verdict": "consistent", "reason": "checked: Wikipedia 'Adolphe Thiers' (Histoire 1823-27; chief executive 1871; suppressed the Commune; born 1797)."}
+{"prompt_hash": "1255348228fbaa07874ce313e3ba0c1fbd3f017ed4dd96b41462b1b083168c25", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca1bef1864063909c1cee8db0547cfd6ca133a6f4682c4ccbd8cd4d30f158900", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "427544bcbcc4e6a51821cc0d09ef278544c102650a723012f504fe490df4d2c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c7ed40fdcfe91329aa2434ebf643cbc1f1c8aa6cf4506a1a17602f41dadf5a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "86a4fce89623b4188bf2f4f20528ed035f9bee2429e2f3ab98788deb0b3140e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8e5624b4625f5997cb3d8b1b6d01ef6c7583f8efd5cbee8f633873ea7a2aca6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7090b59a52c3764ab91d338825cc09f3934352ac16a6fb4dcb243f3c65da45e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40c9f700c6d49517ec7ce8c08396774d0dbfcf0a31c1598953c7b9f556861796", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d92b7b8e158a1d75e6ece3457ea478612f12d5631672d43172a97d78898078f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b20457646f4d594e232744ec207d2aa822c3f309f553a3b2a4412a7a79cc6c67", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "356ffa0005c8fd97ed935499734c62ab5537b08925e6179fc8923518c2e566df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72facbc3a72449e08d1ea1a1a0d0d3dccd7e78b3f9ea63cebfad721b3230db37", "verdict": "consistent", "reason": "checked: Wikipedia 'William Appleman Williams' (Open Door thesis; US more responsible)."}
+{"prompt_hash": "caa936b24f5174165c5a4e299d6da1c03c6454b0e7db161b15092d64ef5a5af1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca1b960b29caf59a19a916447f3210a1e316e3e248a3d458baf1287b691deff0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a88c73f73e5c9fda00c3506b54127ce60ebea0ab2f16ba660d654456ee48e635", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da1a210e2832f481ae985e05a47387e19dc2d46d370fe2bac9d88f8a0144321f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71ad9a90422c3a97c7200ed273f5d9cf57aa91564e7c3048738bfcd2dbed7df3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5a1fef916622c077d9d402b7a07309e8b6936ee63dfa0a38747be3b3340f9ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89295374933d01ad8bf0c377af88259e47a87136e708d78f2f881b7fbf102fae", "verdict": "contradicts_fact", "reason": "The story says the study's liked person was the one being copied, not the copier. In Chartrand and Bargh (1999) the partner who did the mimicking was liked more."}
+{"prompt_hash": "3bbb0af90348583bf46cbbadbae6c9b3688d5459a35c4e46bf6b51712abf5049", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1c9ac6aff4ba6902134fc1aee76c13dc3f407320942bbd47d811c6bf8c7fe371", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f91890c84d7f6e55753fc873bffb0215124b89cca0bc404caf06dea6a8a829c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5aa4b40529ee4df59c78bf882cb7eaaff1b32fa81e77ad2d67ac731a12e34921", "verdict": "consistent", "reason": "uncertain: the Tehuana dress is described as warm reds and golds; I remember a blue/yellow blouse and green skirt but could not confirm it (Wikipedia 'The Two Fridas' and fridakahlo.org give no colours). The vessel, the forceps and the stormy sky check out against those pages."}
+{"prompt_hash": "57ef2133397f719726ac42c366b59da738f83e1ef2e6b2d20a8b91323b3b1ae5", "verdict": "adds_false_claim", "reason": "The story says a G clef curled around the bottom line made the notes read a third too low. A G clef on the first line puts G4 on that line, so the notes read a third higher (Wikipedia 'Clef': French violin clef)."}
+{"prompt_hash": "6ec941a3d1e7bb81bd4527303f0a9f72c106ba61209744d380092303b34c4e1f", "verdict": "consistent", "reason": ""}

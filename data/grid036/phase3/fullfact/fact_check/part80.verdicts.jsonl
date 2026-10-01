@@ -1,0 +1,40 @@
+{"prompt_hash": "e47f2e56f26b20c2bcbb7592fd746571f3adfe226822430d997a897eedba597f", "verdict": "adds_false_claim", "reason": "Narrator says light refracts off the pencil's painted surface; light reflects off an opaque surface, refraction is bending as light passes into a medium."}
+{"prompt_hash": "8b6f79e317b6dc522e3a544cf754ec881b7ecdd4be6f59a57614de43cc84e0a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cdf9e655f0f08507e8dfd5cc6aa1f2405b7b19d73bd7d06f186351aade02889", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d756ec8982046ad63cc3f0d9ada40e76287c54edfa08d2d311d57195bb36dd9", "verdict": "adds_false_claim", "reason": "Story says 'la note' only means a grade or passed note and a waiter would find it odd; 'la note' is standard French for a restaurant/hotel bill (fr.wiktionary 'note', sense: facture)."}
+{"prompt_hash": "a7b08361893e3f9b7ef51190ffba91535174645730a070a542a8918a5942f68a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33085b3bd6e37764fce6b0a9c400454c54c04673860691ceccbb9fd8e8bc68a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a314e70825de1c8a7c777d9885740b60c53e8dee24eff8358608771adbd0ef73", "verdict": "consistent", "reason": "uncertain: dry papery onion skin layer used for the slide may be dead outer tissue showing no nuclei; Hooke 1665 fact correct."}
+{"prompt_hash": "24e144680774611c0729a04b302be15933a3865bcbc1f63565875625c2bc97d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d333876e921de75c90f34dd26d688766f4fe728a8905a19bf40d93e652ce0899", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c3ba7e2b807588c3ea4b2874688bed1b70a2c8aaf400a5a6623ca32698a47f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a4fd4831d3752e953859f663cd7c55f32beb0ccc391ea51b476989a1d3cdc49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b427bd83fc74841bfc7a73553db98fd34f451184aaf0d13a14c52917f95114c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "279b4c9048a392b9a8db9c4ef447092530cb891f3ecd80e98195230aec92d185", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94eafad338ab7e161127b5961f4ff4264fe00b88ffe6f5fec6066668327d01a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8705f5820d4835bfcba35bfc5fa7e1f2d5e2679f303811b050087c8e600f6c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bee1f54a418df3fa6ecc173b3af8a926c99705aabddc1e6e50fcd51d79de41a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c8b4e1f57f7bdd27cfe6381be9383d014ef6d574e7e79bf588e2f52252a3c1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1499fe96b517a9e93809aed2665cdbc1c3b0488edba72b3c9d53927bd406a226", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59cfb5ab3d353e97a896c1f20b4a1ea15cdc484b3e157ddec095a9392cee4187", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77223c0ace8377aa64d4e4784baaea0b9a70df88833bb2769ce48afeea0c9713", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13d49987c790b84b7243c40fad2e4d478ad9607a3d9c8566dea55ee96a78cb4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e6c06baa13439aed8f96c2083e48443baff726ecf07a1034be4885e4963e250", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1457410b54e70e062c39c63fe7a1837b4df3c6865196c1877dd049f3397381b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9967cb47657c45b8b76842a6cdb03ce6363ba0e61902fe0c34beda380ec37b33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "868da38d601e24e3eba64bf755a583de922ad1aaee7838492767dc759ea43957", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3eb6ccfe746cd18e5039411566080c9c17b202cbf71faab9374bd318bc41f7f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10261d62782e00ffe1f3db1ea91d6d39fa8bacb305bc77ae096675b08d355375", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fbb58978cd7c8255e8abda4d3f137d60561692df5c646e93b56ab8a7e26c70cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cf1a51c1ebee4bac2c1308346328986b0ed6efac0af0b8f0d236c77ed473dfd", "verdict": "adds_false_claim", "reason": "Narrator says a loop of pipe visibly swings into the air path when the valve is pressed; the tubing does not move, the piston redirects air through a fixed loop (Wikipedia 'Brass instrument valve')."}
+{"prompt_hash": "ad6461ddf7914c1a0827edc1a9dc0b2ae8ec55bc038c017907698ca3eef26fb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2529a4875e9ff4f448156eaa2cf5621830682cfa8d7248fb09f6405ce9def8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e931ba5a5666d24276a77f8cc27745e9e78184aac4d8ed9970bf785cd23049f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "113833392ded44c994f34fd365ed8419ceb9a6a634ff13903022ef5f18b6a6f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ca342cc3cc5a6ca609d10f25fc4f7ceb15014e9dd5d9a97da09f09829b95274", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09e7a002485681c53bfc7a7c929af124da740f05d2bb1a7d030dbe8a0bce91bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f63eb4a500ecf838ebec21619dad4e1c9a2e34c3a23475097c9ec7fa9df8554b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "804cb9c378a0fea09c2469cec9f084e8d4e4b45c89234f4e5642d8f5b72a6a65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03a4d13ba8e9e14860a449a63629b18a5dfb544a3996e301318f36dbc6081fcc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4936fe258eefafd987d42131acffdf693bb8fb4c6f566227b5a45ebd71b96ccb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ffc14ee909213fa16b70c0864db02db9b3f90681186a51aff6b02e23472d713d", "verdict": "consistent", "reason": ""}

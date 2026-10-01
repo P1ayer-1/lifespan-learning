@@ -1,0 +1,40 @@
+{"prompt_hash": "76632c4d4c08f1f54bbf485773c08ee2164f5d28ecfe456391db8d5cb644f4dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "687f2b1216bcc6a411533f6931ce3d338cd3b4a28d563ffaa57d14f49a548373", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "186c077ac7290acf31194b55640c07ccf1be8d3de70219a55cc0beca02536014", "verdict": "adds_false_claim", "reason": "The story says a Gremlins re-release poster shows PG-13 and treats that as a sign of a re-release. Gremlins (June 1984) was rated PG and was never re-rated PG-13 in the US (checked: en.wikipedia.org/wiki/Gremlins)."}
+{"prompt_hash": "243e9b37cb3ce15bbe293ea790610683b20c5317c8054e05ea615c38038de905", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ec086d4d58f9e5c82548c0a0ad86a9f1fbe61da6f941eacf0f05cef1f7d5e74", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ae9fc7fda671afe98a12f9a9785a2b004c71308035ed0e88ec03e78028af759", "verdict": "consistent", "reason": "Al-Fatiha has seven verses (checked: en.wikipedia.org/wiki/Al-Fatiha)."}
+{"prompt_hash": "6aa2bae7fc74c4a62bc233cdde0fadd6ccb81d29b04265af7781c031f2f63702", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e939455fc657178bd26d05abb939ff562f10b0991cde64f0814c2846954f386", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d21d9d2581632819b115f4c535a800ee184992ffb6923baeb06805c385fab55e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7fc0e1b193862c86e9dfee0214cc3005c04f6bcb1847d5683069e84671d7c3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da9dab4e09aac2ea0a2e77e008da82d84d89e03e2dfe61c75f5508c97f7dd843", "verdict": "adds_false_claim", "reason": "The story says filtering a sheet for blanks gives an error when cells hold spaces. Excel's filter does not error, and cells that contain spaces are not empty, so they would not be counted in the pivot's '(blank)' group."}
+{"prompt_hash": "1a49448003444a53bcdeda73d301dc23bf5b8f953eac0af7ff3d338f39766850", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "486335745fc566c1cdfcc53934c9a4a233cc8aa56d1b9315223e7d75312c008b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "789d4a6b588e988177c283327809523736bd227b9b2f45088635d8e92e8a9d6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e82c86926473a2b58dcb35110bc29547ebc37b536b4ecdb8e64e859449ac646", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1c9a7993c26c14986ba61e792a8921de06f34045284058283eacd46f2af8e1b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4279ffe4660d4549ae09cefce935385afce431e507ffda882948a4d61577493b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "738ed4e585aeed71c45e32edb9281631a079b9c1a73f961800b3fc2d87ab07ed", "verdict": "consistent", "reason": "Minimal-group in-group favouritism (checked: en.wikipedia.org/wiki/Minimal_group_paradigm); pysanky and turon (checked: en.wikipedia.org/wiki/Pysanka, en.wikipedia.org/wiki/Turon_(food))."}
+{"prompt_hash": "c43145e6af789e59c108b1b328772b3dc24fea9813d9acb319ffb6e9bccda406", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d583843bd00728e98aab3128fb76d409d44c532bc1aa9a23b33b2983302a5cbe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c770229c1c14007dad14b9fc9065b602f514f8fcce9de05f7b19230786a8cf95", "verdict": "adds_false_claim", "reason": "For $200 at 5% over five years, compounding beats simple interest by about $5.26, not the eleven dollars the story gives. The story also calls the APY the smaller printed number after saying it was the higher one."}
+{"prompt_hash": "fbed688a83ade5fb4426a661133faefe5cbced2745aeb1b3962d31d8e08a09fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab4bf3c53d7ad13b5858427dba5a3707cfbcd2cf73cb690dab0f60f6eae9e65d", "verdict": "adds_false_claim", "reason": "The story says the adding rule would make the image shrink only 'a little' when switching from the 40x to the 10x objective. Adding predicts 50x to 20x, a 2.5-fold shrink, so the argument against adding is wrong (multiplying, giving 400x and a 4-fold change, is correct)."}
+{"prompt_hash": "3a0bc32bce07f84b53ff3053c491dafe3a63f7ab301651cf277443db2d44dde1", "verdict": "adds_false_claim", "reason": "The story says 999,999,929 is divisible by 9401. It is not: 999,999,929 is prime (trial division up to its square root finds no factor)."}
+{"prompt_hash": "97da26976300e7d74c0e31d6e7e907791a52fc2a66f8185a90fdd52fad354b9b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0461205df0dddf493cfd560fa40c9e6c3edcb38d57dfd38a7b530a5c973048c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2c233203fdcecf90840400f113e2534a4f9a1f6aeef09b5c0826b5b512cedd1", "verdict": "adds_false_claim", "reason": "The story puts Ulysses S. Grant on the five-dollar bill. The $5 bill shows Abraham Lincoln; Grant is on the $50 (checked: en.wikipedia.org/wiki/United_States_five-dollar_bill)."}
+{"prompt_hash": "d818b488d0e7d456c6faa0da60010ffcd1cab534778dd69973a72f792254f7bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed31af34ec93ac6471afa743609a4a95aa792239d2e757ccedfa40cdd7b4dd37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cae940fcdafbe08c6954b8f3e6881587821f95fb4397662fa649431b69d8a7c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c91fa3cc349a831d63ec6a840571bcafd74b79d84bd6384d961efa2eea4f50b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67bdd62d57c29bfed9a2f5b97e4cdbe13e8bc61f8a476e24b9e7c1108670496d", "verdict": "adds_false_claim", "reason": "The story says that if the chair votes, the result is two to two. Only three members vote (Kevin, Emerson, Joshua), so a 2-2 tie is impossible."}
+{"prompt_hash": "44c2b5961b9a712e07f181811ce5c7ae684f7f9b6eacbad3888aface3f7fba48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5465a2cc6b307aca5cf2c22d0ca887c30ed92fcf2a353fe9c98d74e498562157", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "004f98c7d2a96486060432a545500302c09bf1d2355582d036f5740ef60641d6", "verdict": "adds_false_claim", "reason": "The story reads pH 3 and pH 9-10 off litmus paper colours. Litmus only shows acid (red) or base (blue) and cannot give a pH number (checked: en.wikipedia.org/wiki/Litmus)."}
+{"prompt_hash": "db81b575047d86090bf4c8a2bf850365fa8a442522a2944cfb18d3ceb8d69d7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a7ce6788ac20aad58a374a20463d838c8d28aefcee8cb155d5df23ff6093d04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7eae8467843e344e510876002f24908f5e96e2d3b02bc636dcfb3810a42c0a3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6acce616dc863f3d00df8aa96969cbae1fb8d2fad46d09efb99a2294923551c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c897784a23d45cb541e1640ead799fef666e48f1933ebff6e48a7890c26b3a7d", "verdict": "consistent", "reason": ""}

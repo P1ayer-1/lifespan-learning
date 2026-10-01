@@ -1,0 +1,40 @@
+{"prompt_hash": "a83b6d5ffb3c54cb7519b1c17cd211e6a5eaf122cf04483e14043937c9d2e540", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12175ec03baff07494d074bf6f4ad8fa64dd476d0929edd66433d3636466bd6f", "verdict": "adds_false_claim", "reason": "The story says the plotted line of y = 2x - 4 crossed into quadrant two. That line never enters quadrant II: for x < 0, y < -4."}
+{"prompt_hash": "9654a6aaada622c1cf8c4c99182bad159da9ebe8a2212f541020a8aa0d99b180", "verdict": "adds_false_claim", "reason": "The story has every pillar lean toward a vanishing point. In two-point perspective vertical edges stay vertical; only receding horizontal lines converge (Wikipedia: Perspective (graphical))."}
+{"prompt_hash": "3a7ce7c3caec65b825b6e664b4482fc2dce927d1dbe890ba109a74d3b9b9e5ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc35662c459e849701c9a90b5f37dc35adae66683461522ed34c45da1329f6b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b15736969cf2e7c0a1e10de98fceba6cf9bf17e5fb5945b2fb316633a439ae08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d24399bb5a9f7793b233705153e2a4976eb8a4c2a608b589f2b112ccdbaa09e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e4c94b93657457d20d93acb70b7f2b4e2e994844cd7833e890ff77d5d75419a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "595d8f8993624f962ac68d69f3f24bcc07bdbddc7c12db343723c5cf9cd1a627", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41a2556064f499b2335fcde4f970c00a029b5db5c5dbbd4c29d1e33e15cd1c6d", "verdict": "adds_false_claim", "reason": "The story endorses sorting every striped rock as sedimentary because layers mean it piled up. Banded rocks such as gneiss are metamorphic (Wikipedia: Gneiss)."}
+{"prompt_hash": "70be714a18da3becd8947d0984be35fd2df029806e1e0d04f5e629df5edfd302", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a18734e36e5f5f0ba745ad3cefb487959744bdf3489fd1f615fa97b028ac2475", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17fa2dbf860152dc5ac0c5e0b738c7de861ce8b4f8e444e5a01dfff54592c54f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "768d0ac7f04bb7d08ab053fe0498f9c7e9622997d755e0c92c2182cb1f234df7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e45b2dad3bc069b3ce8868d0557573fe7f81be09c37c39f47a9c84bc46d0b5fc", "verdict": "consistent", "reason": "source: Wikipedia Chinese New Year (mandarin oranges given for good luck)"}
+{"prompt_hash": "64ecfdcd1652663bce4b63d78fb663ebc60b87761685231a5e43e26cda2eaff7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee7486f2d3f91922b948ecf0ce815ea2a47339c4483dcdc35f63df18907d7864", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1166d6dc9a73bfebac91fa411168184043c36f51532245b3342227126795067", "verdict": "adds_false_claim", "reason": "The story says a 50 m long-course time explains a slower 25 m short-course tryout, so she is not actually slower. Short-course times are faster because of the turns, so 32 s is truly slower than 29.1 s long course (Wikipedia: Swimming pool)."}
+{"prompt_hash": "25c43ae91e753b09e57d377253ce8b3c7e2d33fe2bbc55e30d66b76d9d16c1a3", "verdict": "consistent", "reason": "source: Wikipedia Tungsten (melting point 3,422 C, highest of pure metals)"}
+{"prompt_hash": "0952144b756a077c858ef1ee759c04994dc116a5cf1f0dc5638c95085023c00d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e1c505dfad31c2490066c4ff972cd7d9d492de88bedfb842c0709db9b01a00f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f0444a07b7312dd18883fe483556547fe636f83f7595a092bf3fbe3e243d63dd", "verdict": "consistent", "reason": "uncertain: the story treats a 200 ft hill as matching a 40 m hill (about 131 ft) without reconciling them; this is an internal inconsistency, not a real-world claim"}
+{"prompt_hash": "49608768278272cb382faf12ad92052795430c86cca694748b96a70d81ab20f2", "verdict": "consistent", "reason": "source: Wikipedia Internet Archive (web archiving began 1996, Wayback Machine)"}
+{"prompt_hash": "6cf0efed3dc53e2340e7d77774be1ddade41e7c777d2e15cee9d3ffcd194d8e8", "verdict": "consistent", "reason": "source: NIST SP 800-63B (no periodic changes; force change on evidence of compromise)"}
+{"prompt_hash": "a289bab16dd4499d5c19c429c1a9ae00834dadd563652d72413c43b84d4b1602", "verdict": "consistent", "reason": "source: Wikipedia Emmer (emmer and barley used for Egyptian bread and beer)"}
+{"prompt_hash": "c3406511f0f65348b5fba195f4113338acae5de43b3a427a2ddd3a1f5f1eb738", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d089a6827d318807039ed3fc3d59826d000240dadb4e7a24572e08383d9ef3c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a4a9d126c60308badd924d83b4afe674039e5cf94cbac20799f14f1f04a790b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92d6477e8a8f5aba3b72a82ec97e598788aa228858ca4f592a7d9a80af888329", "verdict": "consistent", "reason": "source: Wikipedia Joseph Goebbels (propaganda minister from 13 March 1933)"}
+{"prompt_hash": "565ad3dd40604b869de8937b3588f368fb2c0a5946374e58afb30089fdde038f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6a9bcd0b620cd8ef224cce24e997b37dc842401d94317f3d7324fcb3192da48", "verdict": "consistent", "reason": "source: Wikipedia Roux (darker roux has less thickening power)"}
+{"prompt_hash": "f9c9185adac75ee3dccc7346d461c185cf0872b421c353b954a9ced1f23750d8", "verdict": "consistent", "reason": "source: Wikipedia Jet lag (about one day per hour of time difference)"}
+{"prompt_hash": "4f021668a1267beb12fd00116d9a2e23beeb6f02d082c73f7f777a06b13e56c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67724c0046b73373b375622726042bca6d2043667f997b4b29441729d95ec780", "verdict": "adds_false_claim", "reason": "The colonial militiaman's account concludes the colonials fired first. Colonial depositions said the regulars fired first; it was British witnesses who blamed the colonists (Wikipedia: Battles of Lexington and Concord)."}
+{"prompt_hash": "85323718d96bc5a012a7fed94d9d9cc1e7f289c49644252197c5f975b4687111", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce6b5372026834a58b67cf1d2d6d61d85491b10517cb484eab6240c6e28999fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f82b8759d582e2130eaed1fd899f2f9ad10f582cc1602a71d05dba394ad88886", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4092410a91bf85d6527238b77f5001f49005b80e11979ee5d087a813bc81e65", "verdict": "consistent", "reason": "source: Wikipedia Yellowstone National Park (March 1, 1872, signed by Grant)"}
+{"prompt_hash": "25b8b6014886382e8413ad696a0183d33665c108b77a709fd11fa377ce815960", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1a6cec84fbe12230ce30e0e615cca7027e20df4e28c15bc8274f87f51de0c50", "verdict": "consistent", "reason": "source: Wikipedia Tidal locking"}

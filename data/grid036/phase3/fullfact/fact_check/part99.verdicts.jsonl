@@ -1,0 +1,40 @@
+{"prompt_hash": "80aae789f37ba2d567e368323329d1d22d9b660c5b9d3c0693c261cb48f74eba", "verdict": "adds_false_claim", "reason": "The order 'Un crêpe au chocolat' is presented as correct French, but crêpe (pancake) is feminine: 'une crêpe' (Wiktionary, fetched)."}
+{"prompt_hash": "e1d9dbc37fa86b4a482bb89eae1521963af3ec95e4d99ebe0864212528dd8b2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "659fb655e3de93b135a15bf61c3ba5235ddcca75324807b3d75047bca01f7b86", "verdict": "consistent", "reason": "Scarlet Ibis details match Wikipedia 'The Scarlet Ibis' (fetched); date matches the pre-verified fact."}
+{"prompt_hash": "a9cd17d7c1337bd95cbbbbd1262617b1c7bef24f30b92d2bdd6bac4470301314", "verdict": "consistent", "reason": "uncertain: grandfather's claim that hedgehogs come out early before rain; Wikipedia 'European hedgehog' (fetched) confirms nocturnal but says nothing about rain."}
+{"prompt_hash": "3616a1ea3c11e8a734418a131e7afa53ee6739944a902fd6ce9119dc525bbcec", "verdict": "consistent", "reason": "uncertain: secondhand caption claim that the Inuit drum makes its deep sound when the hide is heated by fire; Wikipedia 'Inuit music' (fetched) describes the qilaut but not heating."}
+{"prompt_hash": "154fda9664582e462d249a3a5426bc703885eaba4239a2169cb15b03a15bd533", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "589831bbf28c4f50f47c44e76d30114a9beb1004baffdee148bbe009e69f1add", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7826759d27f0380da76b8923c970b3fc8b47baf22f079888107aded86d16e796", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf638368c374ffa4fad605da7af4aef299ad30ea64ca060859b47688f4b13a7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69c1690546e7d110b3dde81083ca0226e82539c980d17d4d7fdcdc564b927759", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "86aeac5441e55d8ea129d62b4abcacf41b44010a69c380d0e7c75b091e066624", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9e7d79890b2720423fe9bb817fb05f4fc623837680328bf9595846d0bbc39be", "verdict": "consistent", "reason": "'robust' from Latin robustus per Wiktionary (fetched); Zaila Avant-garde matches the pre-verified fact."}
+{"prompt_hash": "1f5e3b38f536dfcb27fae433fc3205d5842133ed8a271e5cbf888c29acc4e218", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2eaa169caff12a36e54f196693541e5a4907358b5f1247ce2ac4413f46c2b006", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d083e762d04b7ab7202d10ec53e9798437d60db398443f86c347ca9b9ba5b46", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1f5b7a584f5cac4bcaebb55695ef2f4318a25b0de3148fe49fe1cc849aa21fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d437b41bba5668dea7e10474730ed01bb93ce9f12641555b0d551a26e087211b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5220de30985b7c97462d9ed7ba9904b265f3efb61f7b98440bfa3e59b5caa9ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d8f931043b226b39cb6cd02e9df7c1e1036aaf2f0c34c1fb6842c2d700b4294", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "555cbc69021461fed5bbbc81bced5ed8894e4202b8c85406e5770ec6ca78f432", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b3960c06de8fc55b4a24793b2e87d95689ccb55399ca98134b254915a6d775d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0fe9d3ce1e9a41b5ca62e460eb017dc33959ad6d8cf5881cdf3608481f9bd1cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9c844193844ce17888132f18f24b49fca11a500daa26da99f014e6ba9b3dac8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "736cad4053bf6308dc5e70711dc6db05214581b08c0ba7960d9d5b8ab0cec9f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b578a79c533f65e1fd8f864a9ebd8ce7e7c95cee6b70afa2c41b2ec2d9ba9496", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dee73a2c542f1f19bd72daa534dc70104dcceb6f0923af4ab3a734fc084314bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b119b66a104479a032ab3ff5fc63e77e0ce63aafebee715bcd30a214100f5c36", "verdict": "consistent", "reason": "Score, date and later adoption of the Super Bowl name match Wikipedia 'Super Bowl I' (fetched)."}
+{"prompt_hash": "1ec16524d006eaecce43d6f28543e8b9ad88bba3f0a3dbe511e137c5f8726f70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e00af5c139391fe8148a6bf858bf815af7bcba80cbe2072558541527b87d4764", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5debb7493c7f8137744068f77b3c1d996711955628b1b1447330b351ce2cc6d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f026747f16671650063755d144339f7552a3994ed69e78b418653adcca39fe7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e60f1b4c8f2ed5bbf7dc1ff243a273f8f77b6ba4d71eae41507c26fdc3942be0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c595cbcae37000839bcec3d3dcd4de27b2daa5a3221747cd162d047be8132e01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e8f582d53f251ec04d37ac3d575242c865fbdeb8e2fe4e7c94d2fcea769295e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d770b8135e41f0d9c702cdd7a2a7b345f90b89c8952ab0d4119eb690a3a057e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9564e6b2eff6fc714fb30a44a750df904d57169ac5573d4aefd9641e8f551a7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99ab5484765da713961ea22ecc7863137253be2c7f7b8a53af27411e1ef44074", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4f9f9490bb4caffcd0b2538ef6ae0bfc90422280200a2944222b3be242c767e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "934b69f1d6f68b549aeb84274c0464bca903aec11c3884a7dcbe348cbc7c2232", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3df4499445aa7eb47238b708898ca864d2f5b051a85212f220bbe23ff99c5059", "verdict": "consistent", "reason": ""}

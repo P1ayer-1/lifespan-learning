@@ -1,0 +1,40 @@
+{"prompt_hash": "4e98ffafcdd589fdb5b777e680de51e12830d16550aa2650e4afcf0dc52ee617", "verdict": "consistent", "reason": "Valve order (2nd lowers a half step, 1st a whole step) and pulling the slide out lowering pitch checked against en.wikipedia.org/wiki/Trumpet."}
+{"prompt_hash": "dc0c438b8078ae20b03f92e8e0d6451e413afbf1623871901342109f8775c34e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e13d7e24eeddcef55e64649500c7187df112f82f6b55a8ae28a0bd88d4dc7cd9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31b4e2a876e38aa904f9347ad34294b6638a87a96681b9831a8e5ceca389fb6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e8a37cadf9b1c073a414160dec21b198a26468bff29b73b3062f62355969fac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b0dad9538b403bd51a6c99b97e680c6ff064cfc05e90a2eb1fe90fd2756f4c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "788e845b2aae21f04ef4026843a284a978f110c73aabf05927d4fc49fe17058f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fc7ef1ba48c291f275367b94c33e03d5743405d2777508537cf884132ced84b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b94adccbfd00369cff3f8386163572c8fdc1c788b9f4e7a1c0014dc3a90d79e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb1ae98bcd23c6e3e3da2345900266e1c8f7b4f40e9268ffd36b691077237e58", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f59e2a4d9d05d96c50900c32412284c2500a4dfa29d0cdde882eab77e1c8637", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0046db4cc8fddf87a3eb6d2fb740e5abe0e91e66550e26e8265a16c7fd3185ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dae4e78d45d61b8e9af34855d2eb897a7db1b4e1215be6c034522af01fcbecf5", "verdict": "adds_false_claim", "reason": "Narrator says sliding the metronome weight down slowed the ticking. Sliding the weight down speeds it up; sliding it up slows it (en.wikipedia.org/wiki/Metronome)."}
+{"prompt_hash": "284ff7b9ad85e9cb8fd8cfe2914c4127e97bb3ee9804287ae2bd4bf465948465", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "891672a71431913ef71a78f9642d5655a681dd74e778535b568dcc17c1ad0b30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1d2f86462d3984e29f04ba619c6b8f777852b494153468e8c184924a804dcb0", "verdict": "consistent", "reason": "Rudisha 2012 splits (49.28 then 51.63) and the record still standing checked against en.wikipedia.org/wiki/David_Rudisha."}
+{"prompt_hash": "43fbef34538244dcd64a3e4f1883ecce4068021f816e7bb88917c3e6864ea24e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43e126c8510a8788b82b41542294cf9deac0d4040b02e2b663ab697855d315b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61f4b3d51359571b53457a1f0d010e8fa9bf20cc0db38c797cf88d237523b22b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6217330e5471a25708523c7e4d98d4d77403102023d7d752896c322d36ab7b2b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "374b25f4e787c75aec49418312d6ee248556c02a5cbc1efcf1ff53ee020f305a", "verdict": "adds_false_claim", "reason": "Story says a loop checking 2 through 12 on 13 printed 'not prime' fifty times, and calls it twelve wrong answers. That loop runs 11 times, so it would print 11 lines."}
+{"prompt_hash": "e062429334dafce4f3f6c4663d6d2b7ce1f10d633ee5d07e3dc47d35894bd1f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64d8e0c929bb59dc4a51403854ff3392b4ddd17101d8023c427b2b5c86d87cde", "verdict": "consistent", "reason": "Her three basketball Guinness records checked against en.wikipedia.org/wiki/Zaila_Avant-garde."}
+{"prompt_hash": "7a26b244a915485f3254b720e9fbe010ab069ea435560de3f641c7d3b6d68366", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dff6e046ef61cf9684bd7a8e8174143fc450d91b239bf69dc17a3f90992481c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d7bcf50e27a44996adf79dd59c56754c3697269ef00aab5480594da190dd1fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb9331063dda36c57dbe256dbf247c61db27b6f1d79c7b8a57005c1065d171cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e878e59554e15662d5aa9c72cba5d10cf01a6f5d1a04c1707427573bc7eee85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "35b0850a068ee42e17bd6ddfedb8f1939bc5ce6e55c74c4b9d6087648c994d3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2fe7dcbdf0c5241e348edcbf3ead116b4a6be8809ceee66b8b30c24ac4d60b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "75f92009b3ae714fb47701ed3173782c7a6c5186c37848d9f4baecbe45b5048a", "verdict": "adds_false_claim", "reason": "Story says the average of the six times (3.4 plus five rolls near 2.1) came out close to 2.1 and the outlier barely moved it. Those six average 2.3 s, so the outlier raised the mean by about 0.2 s."}
+{"prompt_hash": "ab823859c9b7922bee37d2376d3264deaefc0a346315a07ac6ccf8fd34f4bdde", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e61b724cf95e5d751fb89360492c9b11aa628d58c23a8f4b8821244dfb4abf9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b1efed1710486373a1a97344e000c5323f07684b05f24d454be37ea5671b4eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9abea22dceb0471dc4a7e99cd20364a2a7541528464b1106228c076e78e39eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bb377a878731904db067526d4826d41ba663c8e423fee55bc5814fdc103c24d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48893db354c81790d83724ae5bbfa7c4baa5de48623642b457d4d538fe5a6d46", "verdict": "adds_false_claim", "reason": "The bassist says the blues is four bars of I, then one bar of change. In the basic twelve-bar blues the IV chord lasts two bars, bars 5-6 (en.wikipedia.org/wiki/Twelve-bar_blues)."}
+{"prompt_hash": "a40a87b631e8bb31ecc23aeb2e2fc3ce908defbe23fb01d28eaf219bb68e3ee9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8dee5641e74f852bd4e9c0af25f9ebc884d5f568eca332c1b91bbacb84c2d38e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce77b0961c64eb8dc1b40d150bf6f4a9efa623cfc3343239f92034492e07be55", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "bd213f58e50fe22be0716308157378f676ae96b45917f77292db49af47c28229", "verdict": "consistent", "reason": "checked: the claim that the doors were locked to stop breaks matches Wikipedia, Triangle Shirtwaist Factory fire (fetched)."}
+{"prompt_hash": "2a1041a173ea9fff8de4422c23abaaaf77354e84e5e05d75b3e9a6f861c80e6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b64950ed0539bee8016a347c2e78f8ef069147b777f07e2638aa6f0a00547f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18c36bbb21d272ed7e23d8d94d51cc0939f2d32636da4969feb455c058ed8804", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2cc05e181262d327296bb940eb18e14d0fd0218e34cd018b1831da2ae197c7fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b49c8b05991fab218296055fa511d48ae569aba66d896865ccdb74464d31970", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d389043463161bb74d8e18731e6f36bb3a1bb06a83426d664fa226591dbb07e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92a8e23838f8b4f1a5051b43b072ee81e311724ff82f70677b4eddf26b5bc873", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed7dfb413cffeee1a79baf7cb61f82a5a7c466bdd71518111e2a3b6c22c34748", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e6e8c5bd17c1d7bdd159fd345f0356579a93bc1ece01e6bf27a01375b785401", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cce7f74ace310c9081169e35bb953fccdc7f75b66ff3ed921bdd0ffd7448270d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e73798c2ab06f4b8a679b1862e738ba5090e6d45f1917b4a15615db0b023da0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97605e6a87f09a75733d69928fb3b400d0ea481b590e3a529c9d290aecfad415", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43d44f28bff671659e28443d0aa18fc2bc3e5b1e8f2fbd7ec5789e5f7cde7144", "verdict": "consistent", "reason": "checked: the six-step return ladder, with step 4 as non-contact drills and dropping back a step if symptoms return, matches the CDC HEADS UP returning-to-sports page (fetched)."}
+{"prompt_hash": "cdadbae2c9c28581b5afa63a058c5f0f58c0b9e1be79c63798d8719438d94321", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e07bcc338a1ea1b08605e8b8812b27ede53616176c1a8f768a509d5abad96aeb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc8d4eacb0a7f6dc39166a6f77a442eb7ab65a0ab124b02ee4fb5a4004ef0434", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04d24ca000f108152be95647a4a1f365a84fcad9434a2f75b7a5e356fe937f3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "590279f9d84c6bad5e61f016468d79092b2edfda8a6e8e832214c9a085d633a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edc469ad04c8c6ddd3f3e96a716c4527b3de974e6c8b0e6b19e9b821dd7e485e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b06eab640a171a1ebe14ad581332123c7aedae00e66ac6210b9e3db9bbce40b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a0fdd1ea734af5817520c17e45c2544e20b59eed4bd479457a9e3ec2a4b5913", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba213568270d73bacc5c956b559c80ed07cbfef7ca06c30dac11f48a5ed63a8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fc217c402bb84b438191a2480b95f4787e62a17900d7eee4e2d849e0b044741", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63042840b2008738decf70dc598b3d409b6762e39c30a460fc208a6b207ad44e", "verdict": "adds_false_claim", "reason": "The story treats the first movement of Mozart's K. 331 as sonata form, with a development and a recapitulation. That movement is a theme and variations, not sonata form (Wikipedia, Piano Sonata No. 11 (Mozart), fetched)."}
+{"prompt_hash": "80a6331956c0feff127928669a0dc6111357652aa3c1ed5a78c5c98af737aa7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "526ccdb41536fadb90b3f8b148b0f69e19fbb2c863936dbe6f1f9a98b748fdb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "622c2ed3f2783bd2ac93fef710515910b69dd7bf727810e3dbff9be8fe0a8ab0", "verdict": "adds_false_claim", "reason": "After one fault, the instructor says thirteen more are left. With up to 15 driving faults allowed, one fault leaves 14, not 13."}
+{"prompt_hash": "5f729cf6e8dfd6d746886a3bc47bb17999f6083552261200b4823f19de50d9bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8213b4f3a74151d15def715b0080dad533d81ff8df30cbafcaf5c7a2b5fa915a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aeb1436a7af6704aed55518ee7b33a4f0acfc3702fcd6775f0ac6afc35c27ed5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4fd1f596494b8ce9b33b88dd0d900d8be0ca745a1775ae90844c78066f02043", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90b3b5c20bf6a775a5a539e8d5d698d4ba60054dd244f5cfccd93049a3616902", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71d7a8cb52101b8ebe0ae56f69577d2fafcdfbeb9cc10c6e40387b7bc3f3273d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a06e732f6f0038d00db3867f8ac0a6f7a3e827c22f5439d5b72984d7ac2eeb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d13402b80355403d364c114e7a20479c3a11e9f3bf4d150055575c832ca9fcf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3db5fde66fdfb945a3a55ad8969a1aa43e91c6d05cc77f5eb1c42d5133497bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7c54814ef6ea89e970bd5959359710eabe1c1e8eb99ddff9b04b783ab647a77", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b58dc82ba92eddc277d7cd3a6ea33acbacd8227bf91d4aed6d8bdde85677909b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d58f17f77c72229d370e952a5615fb2cd16f9bfcaea5e7e91a99d7536c47f9a6", "verdict": "consistent", "reason": ""}

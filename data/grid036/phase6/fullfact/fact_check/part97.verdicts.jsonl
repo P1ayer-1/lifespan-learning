@@ -1,0 +1,40 @@
+{"prompt_hash": "18e2b47c84e612c223246c454f2e031f1ff11955d3b00b3f68d9b65673fc7072", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc6ad3284f6d855e992f63085ce542f72b274d00fea1da3dc35d6707ba1d8f2a", "verdict": "consistent", "reason": "88-key standard piano confirmed by fetched Wikipedia 'Piano key frequencies'; 52/36 split is the injected fact."}
+{"prompt_hash": "c394d1c46a2cee8e886150d915cd0fd60af22ffc2b3c86032c4ea0bcd7c64e36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "144be681a60fd43922d23ddad05ed95aa29962ef7e7f72501389067d5eef2013", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08e24032fc84224aa6e8d182d468560559b54bed971b500f57e6ed896f716d73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2920da6aeb7b8019c59805bcd1f53b47f18e79894809e55a7ba9f183d2e1f46", "verdict": "consistent", "reason": "Fischer 1961 thesis and controversy confirmed by fetched Wikipedia 'Fritz Fischer (historian)'."}
+{"prompt_hash": "8cb38e7d480c2a80c36b8f08f6c95bcf4b0c94ab8c3da1c6a70866f78b3121ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ffa89ad067830edef1fc5627a7d116bc06ececd1477691ef8f767d1ba3a2d4bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "909374c020368c5b4a752ce0b8ce012db6bec061c9ebd941d58dfff6926ca705", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dbd0e42ec4ccafa5f37735d01e4913bbfe3d6bdf7f031a0235897c3a9b72cb8b", "verdict": "consistent", "reason": "FLSA hour/hazardous-occupation rule and meat-slicer ban (HO 10) confirmed by fetched DOL Fact Sheet #43."}
+{"prompt_hash": "652f8eb8e968a49e2c3a9cc214392972066649e2a6f41360966736ef68476cec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32e04d4087263e9c369fc6da0e884a404ed84fbacd9936a8e72d7e75100de453", "verdict": "adds_false_claim", "reason": "The story places Jane Eyre's 'free human being with an independent will' speech just before she agrees to work for Rochester; it is in Chapter 23, the proposal scene, months after she became governess (fetched Wikiquote, Jane Eyre)."}
+{"prompt_hash": "498e192cc8f6893d0bb4fd0dc1d44ff03153631988f97fc6902e1c501b6fa175", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e0cb31629eec08638805e4e1e84fd1c337c441c589271e631267a18d9b39901", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf49cfb9e35aca1a3d1564bfbf3a86a874cdfa4748b2422115ab5a6293619387", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "757c0fc38acac8df8b0bfce5ee95285a62be2524be52293e4e715ea409037896", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "707b1a70e359ff2c0d7867891cf9ca7bb9636e543433ccc9a330073013bf8900", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9867c87e58a920900d80bd1b05216cfec9a072e04e06a498612f06e2933dfe5a", "verdict": "adds_false_claim", "reason": "Arithmetic error: four years to graduation plus two more is six of the seven reporting years, leaving one year, not three."}
+{"prompt_hash": "5a22ac57b471ee10ddb084832f1a5d6965e1caed00002ad71e8b04dd07c95a28", "verdict": "consistent", "reason": "uncertain: story conveys that more frequent compounding gives a slightly larger total but never states the formula A = P(1 + r/n)^(nt)."}
+{"prompt_hash": "42867330043a411bf05999d4fb0112abdd80bc3d6744ce69627cb521ce0aa3af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d6576daff7f0af9ca0d71bc763f226aa4b8f533256f5bb877918dc0d6a87096", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c94f862f58b3c0c7709150f9b796d2500deb1f4c1defc4e78e055fc282651b9", "verdict": "consistent", "reason": "Cialdini 1976 apparel and 'we' findings confirmed by fetched Wikipedia 'Basking in reflected glory'."}
+{"prompt_hash": "8329c3f39cc3ab9dd545355f4376f50df3cb37ecab15e25df91ea342a1c025fd", "verdict": "adds_false_claim", "reason": "The narration says Lockwood mostly invented his illness; in Wuthering Heights he genuinely falls ill and Nelly tells the story while he recovers (fetched Wikipedia, Wuthering Heights). Also loosely says Nelly watched twenty years when her account spans about thirty."}
+{"prompt_hash": "db1667f14cb600080a3c93d81701622f6778a86f6a0e1cf5654cf782fd9fbc1b", "verdict": "adds_false_claim", "reason": "A cello's open A string is A3, 220 Hz, not 440 Hz (cello tuned C2 G2 D3 A3; A3 = 220 Hz per fetched Wikipedia Cello and Piano key frequencies), so the tuner readings of 440 and 880 for the open A and the octave above are wrong."}
+{"prompt_hash": "c40684ee8ddcb2dcd5925e18f14ae06328aafe150009c7e752e6791147b376e2", "verdict": "consistent", "reason": "1997 Chemistry Nobel to Boyer and Walker (with Skou) confirmed by fetched Wikipedia Nobel Prize in Chemistry list."}
+{"prompt_hash": "e74d50d69e18c0092ebf99cff5b5dddaa2cc7b81bb2271854dc748ff201123e5", "verdict": "adds_false_claim", "reason": "The story says Booth's 1961 book came out more than sixty years before Hudson, a current high school senior, was born; that would put his birth after 2021. 1961 is roughly 45 to 50 years before a present-day senior's birth."}
+{"prompt_hash": "6a291a68f3e5ce808a1626710675ea5609766436ad8d8588afb13675d8a9915a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0378b6cbeed32e7d4cede9e1ccd34007ff73e3629ca9f032d019af4a2e704f86", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc6c6104d39dbf146a2fbc53fb1cb1ca1048a7f44e65dacd68e76d38e2b9033b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54253161c6662bbd1aac04bec1af86995e8b6c3a0cd018a14b49020a080aa2f0", "verdict": "adds_false_claim", "reason": "The banker confirms that buying a one-dollar item with four dollars in the account incurs a thirty-five-dollar overdraft fee; that purchase leaves a positive balance, so no overdraft occurs. Uncertain: tetanus severe-reaction rate (fetched CDC Td VIS says only 'very remote chance')."}
+{"prompt_hash": "71dbd597d786a2a4ec0c34504d85e6b0676f86938d7934d699b010f1b8268a2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9169132e91984d7e102222f98e771666ff35c74a7ad870fa624ef006d218c00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28e79d2772aa631a8db3580bff949c3a68915a28f65909675b97b9fa4e8b7e36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27796168157275409b829b872f22099f45dfc4e1592898e3642fa292526c2bbf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b0936b7964b77c85d80d42bc360d0d4492c71360d1bf9581a1e2c09122894e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "494bede672ce30d68734eb128a3ed63f9789b2fadab4bef949380caa73ab856a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bcfb0ce57d698658aec800fd030830d13a34583fb2c18518a2ee9120bd5876c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8591ad06cc77b4134c0a2a1972fd6cc1b44387b6be7914bd4a089e739b81381", "verdict": "consistent", "reason": "uncertain: the book's three authors are called psychologists; fetched Wikipedia 'Continuing bonds' confirms the authors and thesis but not their professions (Klass was a religious-studies scholar)."}
+{"prompt_hash": "c8ff251e45a288051895d38a8467d581521f54e4655c8c71f7b5a6d09ffc4252", "verdict": "adds_false_claim", "reason": "Reading the mRNA in the wrong frame is shown giving codons with no entry in the codon chart; every one of the 64 codons has an entry, so a shifted frame gives a different amino acid sequence or stop codons, not blanks."}
+{"prompt_hash": "23d9362818f029a4a87718179ec7f89f3253564c04ec2090a90d0082fa3eec0a", "verdict": "adds_false_claim", "reason": "The narration says chalk dust would sublimate off an eraser left on a radiator; chalk (calcium carbonate or calcium sulfate) does not sublimate at radiator temperatures."}

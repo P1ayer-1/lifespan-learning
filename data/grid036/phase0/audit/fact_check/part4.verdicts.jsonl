@@ -1,0 +1,40 @@
+{"prompt_hash": "f2b32d1fe4b5f926aa6b4e9b9cef59ae69b652ead08ef3cc15261a7f856325fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31202e8a99801bfb51f806a78dc202c6259ea2cf7c09fba15c92029a87da1067", "verdict": "adds_false_claim", "reason": "'Ten teeth! So clean,' the dentist says after counting all of Jake's teeth. A preschooler has 20 baby teeth (source: en.wikipedia.org/wiki/Deciduous_teeth)."}
+{"prompt_hash": "122d9b7fecf3daeae4bf34eba07aabe71ef0265ae1c5737a5d15712d14e9f183", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e4eda8f2936793e42abd484536fff235609893d7613675c5c924c524bcaf81d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5dd14b699318d99c3923bc5d7f3613642f2cfaba2e07ec619d351e477b15a203", "verdict": "adds_false_claim", "reason": "The story has Ruby eat breakfast after school pickup, which contradicts 'Breakfast is the first meal of the day'. Grandma's 'That is because your tummy is full' is also wrong: being full makes food taste less good, not better."}
+{"prompt_hash": "f4d773f523c1eb0159704a268c004534c991ed17ea4145d88e67410e05555a50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff270800cb33c81cf7936ced4d1ffa2e3089f3acc801c00a945034a9dfb76cf1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "700b1b8834415c8e1f6722f2974c6e2baea133e83856887199c2e98b18fec157", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d06b7fc4d0e013502c0963781f8ab733d9dc28186245884f714e3b56edcc7e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f72d698188f7b63c9dd67c5b85984bc7238e8121abdf7082ca5400e90dadb0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0686c6709402d8c77acee3a1e712d4117dbd8116ef6b21109cd98580e502141d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad452f0c66489baf68abf0de519e07e044ea21139c8f53ba46a2c4e154942a48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f096bb6761fb6fcd5a5d5f0df56e78427bc6de3cd3d656a3e7d99eb4d053d437", "verdict": "adds_false_claim", "reason": "'The little footprints went across the yard' (prints that 'looked like little feet') turn out to belong to a huge horse. A horse leaves large, horseshoe-shaped hoof prints, not little feet (source: en.wikipedia.org/wiki/Horse_hoof)."}
+{"prompt_hash": "13a289c240f2462fc2216d7039aad13630ea59e674723590d4f66e3a9ef39866", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d71e306f715bf112d34929254343cf5334ab3f25357db5dce9567821a26e2de4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6f63ff858180cc178feff3a5c5ff3c9c5bbc4c8a336cdb70214e822018aabbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "282da584bee5f77f38ab95e2f0009343eaa0b5907ad9906c48ae821c09d7f7ea", "verdict": "adds_false_claim", "reason": "'It tasted plain, like nothing much... The sweet taste came back!' Holding your nose removes the smell part of the flavor, but you can still taste sweetness with your tongue (source: en.wikipedia.org/wiki/Taste)."}
+{"prompt_hash": "76af523b30f74b5df5094472291725b9821b1665f57d1f3102db8f5d4bc5fcec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ceda55b51b6e89666c02dd6837efb702ebb458eafee80e91066a8ef5de4a4b7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cdef297fbe6b11f2dca6b163894417ca9f47d8fbbe82c2e02fa8504fd41a0abc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbe5cf2a4c37b02022a5cba2d651e6a26f3c620d5ca08c9730b02e45a943cca0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c5bbe5b679b6edd1b05293a172f2213d508ce9e328894cef9047a4f53b71ede", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94283d96a1c754fd3d5e52278110c36d96bf6c59f77fc00f5d8689e8b23606fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f6be8b4955a75089598f8b0e69abdd547cb0d3541af660828dc3d2b79c78086", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a55c0bd4e1b4fcc0dc537b31f07c700b735f3695b874db684d417abf56a8c8e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f62cec0fc9b7ae090bb4bfcc540ea5628736fd1df81834c5175c664991ebb70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1785884e472a2865765525b6baf2d20e2fed342618b68cd1bf8bda67a5f225ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4578f9130bda9829b9b103642e4a9bd0fa263f32bb5b2117f664900d4a657567", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1e6ebe0fa7e92804d9f1156595d0d1a9f77cd17be334900287083b0662251c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22a809f3bd2eebe12743c19bf2c1fc2bfdf19f1fa0ae59df8132ac1bb9a47261", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a01eddcbef70425182e5e860265672954edd133fcb068f857c82dc25951eac9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca812f6625baf54e4edd0753c3bbe04848ad0154232d9f06a02ab289134accda", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80bbdfe9b37fc728b3bfa7721c205b7eb5a53f17cb3614d097c8ea18ea1029ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "620869cb8ed91b9629c6b52e1d54c765415b3faf5c94291b74374b91a5e4c8ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67dddc58d4cd11f0275c139633c75ebda1c6bbd42c92430a9c81ced6fa0dd49f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6303903a9138b8cf364d6c70142c5115ccf0b82147d7ce9927db3054a0b9ec3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d780a3387038896ae0ae5f48d581df71d906d9b272c2324542c08a10035fa49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef56ce6df541e6f4bf8296cd7e4cf2f0b1b2f17b4460ac953497275b488c4ea5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9fbe590c8f89625a8a4201da3bc150cb9435910002ff459ae67d7582873146de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8b4236ecd950fa53074b4551f798e938b120ce623b6e36543fab11b48a8f701", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "e5612bed4df956aefff18acd3d15874b4ef747cd77993559a72732bf44e217ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c673a54b9a1a7c16062a681737a82118ec74472e76eb2a17d15f351cba1e12b", "verdict": "consistent", "reason": "injected fact only (Internet Archive figure, pre-verified)"}
+{"prompt_hash": "1d952fdd437f6281c97d360cd1e38fe0e224c5bf54699319fafb324ffc15406c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb077aa540db4fa7820e936c7d297f2c8d0781f1f7ad746a0600df19f8531a2f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a548feee05def5154203383f8b583d95c6f2cd29b08466b4298c4080f60ac674", "verdict": "consistent", "reason": "checked: rfc-editor.org RFC 1855 (Oct 1995, 'Netiquette Guidelines', upper case = shouting, personal mail reposted to groups)"}
+{"prompt_hash": "5d441c46ec932eafbb3fd552f3060a6d9b844454d7d3f42820a64ec57d7137c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4007c5debc3fa4d638be98a1e3146ec22e0c54bf2b699912d401f088579387a2", "verdict": "consistent", "reason": "checked: Wikipedia 'Complementary colors' (RYB blue-orange pair; mixing gives gray/brown)"}
+{"prompt_hash": "edade633944916efdbeae1e64c9045c23745f458ee4f451007cdaa291284779c", "verdict": "consistent", "reason": "checked: Wikipedia 'Opticks' (1704; seven colours joined into a circle)"}
+{"prompt_hash": "bf6b7d6598734f28f670fc304dcf32def05a3a457d4a1122a5f61baeb84d35a7", "verdict": "adds_false_claim", "reason": "The story blames browning the roux for the lumps and chalky raw-flour taste, and presents a pale roux as the fix. A longer-cooked roux has no raw-flour taste and its colour does not cause lumps (Wikipedia 'Roux': cooking removes raw taste; darker roux only thickens less)."}
+{"prompt_hash": "021c63b8ecd43e066170c2084e612389fe41aa2042315c3a9e585fa280a2c99d", "verdict": "consistent", "reason": "checked: Wikipedia 'Grey' (both spellings valid; gray more common in US); bee dictionary is fictional"}
+{"prompt_hash": "858f35aca38f7e2d4de3d1673837e00205e5232a8c7c237cf42e777aad0a14af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "78a120e5cbc0b17a4404b536ffa74ef3f70fde1dc4f7374b09c1882236292724", "verdict": "consistent", "reason": "checked: Wikipedia 'Bruce Tuckman' (1965 model; adjourning added 1977 with Jensen)"}
+{"prompt_hash": "de678bfaa12bab03055042c731726d7ddb12313cb00bc8c9095390d4fde89657", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a42056586de579ab98be33b2f447c1dddbfb1f45281432712caa4e8720ecd0cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c859b50d3f3f8f2a5ababc1aa5627a894f8b0f903227f0f976a4cfd73449ac95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96324c11aec1ae76cf9b0676e15a354f3ab4b8d75640a21d2c6cb82c154ecdbc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0070c9b5aeeb7de79d767ad43a46460629af6a22eb02cdd52e566c1ed0309f72", "verdict": "adds_false_claim", "reason": "At $3 the stall cannot sell out (a surplus), yet raising the price to $3.50 makes it sell out. Under the law of demand, a higher price lowers the quantity bought, so a surplus means the equilibrium price is below $3, not between $3 and $4."}
+{"prompt_hash": "48a2649ccc6738a3d0c0667777827bfb0970c8efe93c5fd70ffe470dde109581", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68489cadecc985e8a73fa1b6daaf37c694736799171747687eef586c0aa7512b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "860ee1b665b3e3bbfad1cf573cad82b4245684df5e2373f445b990aad8d2de1d", "verdict": "adds_false_claim", "reason": "The story's triumphant line says the 1892 Stanley Cup is older than cars. Benz's Patent-Motorwagen dates from 1885-86, before the Cup (Wikipedia 'Benz Patent-Motorwagen')."}
+{"prompt_hash": "d28c54e535bcc638c8b9fb477dfd5f6904dc68bd361d969324ec773b7b780343", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b97f311fa093ec94477700e761fa1127e953324729c8a6fb2276b3d9b36d7d99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f8c0426cdf5716a26b8743e2ed64df9d74bc1219e98993ef283b0d9fd1a94ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5bc073174f82f40b336a2ccdcc8920158934f406ee617e4615834cee45189259", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c9cd64e65f5b7173b705670b66e5e7f50bf202f42d97e3f7c3bc5df76084cf4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f74e299741c0966b8acce93815f6036a3e017d93b986c89f948864ea7859933f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "876fd70e2aa8c3f409403d72360ff8608be1a36eacbe3a4e3967cb94eb9f589d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cb2d67bc6421f929dfd32dbc356c28cb45409eb3bf96c07dd5c2cd18bc136ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a25d605c19f04a1ed0a4d6f9a30a0f9fe4d710df3961cd936504ec10e5ea2051", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa16df247afb82a96a6e9f54f4fa7e022bed33d7f0253493f6b137a80a71efc2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e803664b57c9ab973a6d4a371d79f28b59c30605524fbe26695f146945007318", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4f1c86d6d2fcaee1d60057d3f2cd32990da1a28491f05a85c5391e94b44ec78", "verdict": "adds_false_claim", "reason": "A child rides in the cargo box of a moving truck among tall unsecured stacks and opens boxes while it drives, with no comment. Riding unrestrained in a truck's cargo area is unsafe and illegal in many places."}
+{"prompt_hash": "8137eadcf3c47a1859e05910edd8c576aa421b8940884643672552a2cccabc11", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de0c6fbeaedc239e6fc75bceef169ab4384336ceada7bbf7ffbb5d9bbc3ba8c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5602b6bc40addd9ea206eb0061878c4af18ca1f5a212b748af3b1e58f3e653bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "933113695f90fa6e8684cf735eee0b70dadddbed3ea6fe89b93175ec93a089ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0f0fb101882d46c95fe43cc6c79607e3f4f63cf6e1fe0644975b6de09d26f17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c09f08e3c6338ad0f46ab4e2ad189ddb55f99f63c9f8f35757e696734066a052", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "423da24d8d99300b651182b071198f27cac12a23083fab1d3b7e0c8d6679094b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ac08f434b005f46e8333696db3e8d03b38ea0ca76ddacbb5a2030a979416f4e", "verdict": "consistent", "reason": ""}

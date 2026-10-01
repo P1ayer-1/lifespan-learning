@@ -1,0 +1,40 @@
+{"prompt_hash": "0e20120bc62e80aa29538f8c8eb7169a5fc0a558aaf901bfeb703b95ad586b59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1181ec7cea12e98a3970326835f96ec2943625c442cce544b5847130f2803463", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "809cdc88fa636399f5c59e86000b5d217795d87dabad2837020f3a3f8972b3c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbdf7e2e6f6532431c612781b77227fddf46667f7521884d1c53d123d8647c18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ddf592c50fba36291ea177ce5db939e2a590293822e6b86d86261b1fbd86977f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "276a101e3dcc524537fc004ee05e5743f945d3643decc2a6007d638ff54a443d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f33118e3c6341b787d4451e7d76574e905ca29ed30134cad90a9625f51c85e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9807b623ccfc740893f46d9075637b119ed669ecd5f933c7e11a6e0288076242", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a18c2ad879730bd0e5275b81e3a320049a0b2443553e449b400e581450faeb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3056a80dcb4f681dcbb6741d002a4533d502294999428c53e64ef396c2026687", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cb8cccde494266262b80ba8ea91847153bf62cb004dc35ec0f6be01c3b742f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c6602031d415ff5598da47f6155fcc11bb4abc0c2e0ee7144f3b7eba8440568", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96a475255b6232c83b0353f24d6a7280b6e721ee01972bc29c0e116d966d7006", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ebf5320bc8cbf56ebdff84c1d5c1f33371ca1ccf3c3f5110e1ffa963418ce05f", "verdict": "consistent", "reason": "Electric Slide as a four-wall line dance checked against Wikipedia 'Electric Slide' (fetched)."}
+{"prompt_hash": "4c9ce7e6b77f10aed3830b7bd0279b52893c008cc30530733ce5e52c18559997", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1240d4c34167e4d86b6af71846914248d4c8467e407733c63312309a8946ff6", "verdict": "consistent", "reason": "uncertain: a character says a potato battery gave two volts; Wikipedia 'Potato battery' (fetched) gives about 0.9 V per cell, so this only holds for several cells in series."}
+{"prompt_hash": "19a4f1ce004cba7123ae28352fcf2a7a323b33b0ee306105fcbf4dd219787c5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e62c57967a9494efc2281fce75e9f39485829910690f0d3e27192c91049d6111", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b70cb20e254c1ad0c2bdb64f6cd90df541ef18bf16a50e6f804bc33c1848c88", "verdict": "consistent", "reason": "uncertain: 'Ana waruka?' is taught as Wolof for asking directions; Wikivoyage 'Wolof phrasebook' (fetched) confirms 'Ana ...?' means 'where is', but 'waruka' could not be confirmed."}
+{"prompt_hash": "ad1449696c789985b26b18f568bc4b95dc65abad6a87790c0eaea4549766fd44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "671e80dbb9f5527732d160eff0c8dbb469cbbb2bda889a9481cee681652cb012", "verdict": "adds_false_claim", "reason": "The flu-day arithmetic is wrong: the story counts the next Saturday as day six, but it is day eight if illness began the previous Saturday (day seven even under the first count). The story also says the party is Friday and then has it on Saturday."}
+{"prompt_hash": "ef8f294168fe301ba20f09ffa1025688872aeba70a5d7da6d0a148c84b58ba55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ce1e9d9774c790af4f6c8eba030739ef546a08d89f43c5877c73ef156c28689", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb08b209787e8c66ec140221adefa6e3d3e215c8e066c5c0782a454d762b1faf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18a596b8063a4d9f5c908a9cb98b48cab4f5db90ffbd34f5fd2dbae19825e66f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "842a8447f854f4fcba246517deb55aaecd47cf195a4ba00fe7c53a1dd81722d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cde3803c5fe3f39acba855f05814f3ca793057e11d20b0d7618166fa930547bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ca91c7134bd571b055f7d98bbcf57ece2758f6eea053fb119dab203e1c623e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6715057aaab0a88d371a19ef19fd8eada35d674336ffb01ac00210c3b360971e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9113c952c2bdfbdae898a87187e122d79b09a3d7efb478534c7d4bbcb96f88e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63d61cf3c8f47935478f04e610dace9c237314efbe2683c15864138cb080ca41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdc14043a867939eed353f9321efcfb129a676bc73ad8a6aa7a831f1b089e8a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bf123d10107d29408e967d3cc619bb7e98caddf6ad6786b95574c4617756724", "verdict": "adds_false_claim", "reason": "A character's guess that migratory geese fly west in spring is confirmed by the plot and never corrected. In the Northern Hemisphere birds migrate north in spring (Wikipedia 'Bird migration', fetched)."}
+{"prompt_hash": "5e605e470a9901dc91936eed714053d5748c18aea5b671e938f4e7a5b700eb57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3bb96015cc08b81e4001c8daf7355e46727a1c03742093a33e6e99ff6a30f17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9adc1285dfbc845fb2efd37482f1d394dc03254f19c23388a20ad3e242afcbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a7244c579bd17ad14a641ed1e911ad65b713631a400e862a40d7df0d78c6ce9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cdde3a927a58a190e493da34dc2438f3c9c0f40252ce07e8dc60c4ec4522172", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1d2b53cb87d049863191f36ab8835136590feeef863e3a1ffd3a0aec85e7aae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37afc836ca0a510a1a3274d4032e3354427694fdd7315044a2ab13c1b5c8a26d", "verdict": "consistent", "reason": ""}

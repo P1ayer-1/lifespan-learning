@@ -1,0 +1,40 @@
+{"prompt_hash": "bc2f680e539bba4a47ab74bc49c2a848118730d0d1c558d36f049de1873bde81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33b17f39c455bc88e620548629f7088e16f10f967eaa132a714ee428a93111fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21d3e1925f2f953417331b26cefd4959ae5142f8b94e85a740c250369da46ba0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e99c168161048f1540d329c9e581cde6d24a2151e1a333d7ed38bdd8215a86a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47320d1c5d5adacca9709989c34bf5e4e504f11e56087805648497a3eeb9b4d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07646efc140c8013fcca50244e424cac216a60cec890ff109155d03a4961b41c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f76a9b60d06513e24a49b95e9a9e7ce5e6388364489ebb2a5a0120ae97ab48a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "741680519a0afa4d512c919754c12162b1ce44831b65d75c400551998fe04976", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2f56a1d013d21b264e0544289fc16f6974170722d6f6f81b68b95a88da7fd07", "verdict": "adds_false_claim", "reason": "The tax preparer deducts safety boots from employment income on an Ontario return. Under CRA rules employees cannot deduct work clothing such as safety boots (canada.ca line 22900, other employment expenses)."}
+{"prompt_hash": "f6f571ff492c4522e6c4904afb9e07fdef09c81cd91e6275a641d9533b01fc0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "535d8ed45d8daf37c8c23044594540ed1b2f841872c037a4871df2deed5567b9", "verdict": "adds_false_claim", "reason": "The story gives 135F as the target temperature for a pork roast and treats any rise above that as overcooking. USDA calls for 145F plus a 3-minute rest, and Health Canada calls for 160F (en.wikipedia.org/wiki/Pork; canada.ca safe internal cooking temperatures)."}
+{"prompt_hash": "c3d40093aedd04b03ae1459851489faf3a3ff8aed0be174cf8d88ff0246ef7f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4ae321b2362f9aaf825adff6240f2df4b04b8a625efe88c8a103ae743ef64ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "083659cbccb4238cebd1a0133f157be3fad4d8ff691cb67e5fe2a8d50282ee3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abadea313ea60129a2398917eb1f622fff5783a78c3cac4e6eabbd8b084751bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e60521731204eaa1edfa017b80849f1b4632a4908046be50f102076d92a7365", "verdict": "consistent", "reason": "Haystacks show details checked against en.wikipedia.org/wiki/Haystacks_(Monet_series)."}
+{"prompt_hash": "d4e885c3cc6512c65acfcb4e9e9f54659228a855fa796a3c6e8e4136245460ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0449fab8a60bcb1798174aeaa09cc5f7a4f0a743209bbbd37b9b2853d84b9528", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "158c22f18858486502b1ad1a69898e54767f1cc0a810b776c4c5548d1417f2e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38c4ed088ec0edf3ff5328aad30c1c4eb6962e351f653c9e8845e175b6399c98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d45639f7720d0e80ecc9b19cd8968de95033d5079c6218604839d31734c17c5e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aef914b2ff16ddc3f4d52b648b292b7e8bd50668d58ed4dfb8f911c0e6d9c051", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eef7075bf3c4e9a7d54df3d6f3f26d80b265f2115a095e07f4148f83c8fd19e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7283bc73ba5375a3189574587fa477fd358941b6eb00c3e7d4dc2b0ec314714", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a9c8a0300e694fc3bbbbf40bee9e42cf22dc2301a33b07d3103e83a3d61b0e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ed56fdb5ccf86bf837220d1b5710a6fad7468af57132090eb77137d1b691132", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e629911edd4532a1379e797945209264bab70c9d5ac639204cdbb08053d7b182", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83e6eb60c01c105eaaf18d98a2a05bef829916a8b962839d2f67222502e26a02", "verdict": "adds_false_claim", "reason": "The story makes the student's lawyer 'petitioner's counsel' in Mahanoy v. B.L. The school district was the petitioner and B.L. the respondent (en.wikipedia.org/wiki/Mahanoy_Area_School_District_v._B._L.)."}
+{"prompt_hash": "6e4863804a616807001f60dc9ad3e9f37a453503b3a0c46f19e60fdb02881597", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "399d2369b5786dc40189cca9e3c7bceff750c52b469a7c34dfbd08eb91106ea4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "afe077b75404aea3d01851ccc4cbe0331116237c53416705a7390162d1f72871", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a2a8afa67c4229e27b7839898ca8d77916de6298ca50557be5151de222c8ac2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d1321135f0204fc377fbfeb10c38e0dc29806ee85aa6ca987766e32f7680b9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5916c74a71685d236f1246533d2e371a22d791f443e37f0765738adcccf0cc9b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "831a6ffab3e29d5756a1d1be00aa0d21cbd092e88aad597c999f4f228f0ce625", "verdict": "adds_false_claim", "reason": "The roster is described as alphabetical, yet it puts Nguyen near the front and Kowalski near the bottom, and it presents Hartley, Higgins, Herrera as the correct order. Herrera comes before Higgins and K comes before N, so the lesson on sorted data teaches a wrong order."}
+{"prompt_hash": "8f1741935a388ffc1351c68ef4ba15f20a1fa35d27b1fc132f3c31d82e82e618", "verdict": "adds_false_claim", "reason": "The story says Quebec pay stubs replace the EI line with a parental insurance plan. Quebec employees still pay EI premiums, at a reduced rate, in addition to QPIP (canada.ca EI premium rates and maximums)."}
+{"prompt_hash": "4bb1a90f432625d8bc004f94d5a5acb57c2765be0aeebfc768a96c576dafebc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cc9f7daff610bab3be3bd88aede4dba23bd459c424a873c468b4fb073fb16c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d688cdc867e9e0c1082fd9398f17bef1268157781f0fde253f3378eee364e7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d6d507b5574270bf36609a5d58ce2f257910b01892828c0c4b2daabaf2f8b17", "verdict": "consistent", "reason": ""}

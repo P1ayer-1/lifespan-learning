@@ -1,0 +1,40 @@
+{"prompt_hash": "18cf878e6ecb96ba0c152277c598308b6ec719a5c6fda9650cb89247ed707cec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25c2f03e365ba4fdab7f79e5902755b3c3eae77bfddd451322c7c2a6d0753666", "verdict": "consistent", "reason": "injected fact (Popper 1934) stated as given; no other non-common claims"}
+{"prompt_hash": "d6b7a1d697a6356acf638111d1edcf880ded00e39a86c1a49ee776cb8b56cc4d", "verdict": "consistent", "reason": "checked: Wikipedia 'Gleaning' (volunteers collect leftover field crops for food banks); 40x6=240 correct"}
+{"prompt_hash": "3b2a322bc7a2b0d93e49ba7a9021539c89eb482361971eabc0ff2738cc0ebc89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c42e03ea774240d1c3c2894097fe992f905b95cdc343a204643fccb5519192e", "verdict": "consistent", "reason": "arithmetic rechecked: x=5 gives 12=12, x=0 gives 2=2"}
+{"prompt_hash": "1e16b65edac4c479bcf55dfa00f7d3b9a9a817dd39be8287bfe58beced378ab6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8775a0d2b2fde869c86e078905f93bf8cedb617b145b7a450d4e779538671dc1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d9f7f1a24f81d5159cdba97ee2ed3657991babc07f9622c02f67363107788fc", "verdict": "consistent", "reason": "injected fact (Redi 1668) stated correctly"}
+{"prompt_hash": "e607a87181d1066940b54a0efbfab3667eef9a59b112230d764f9a0993a78e0e", "verdict": "consistent", "reason": "checked: Wikipedia 'Dual process model of coping' (Stroebe & Schut 1999); uncertain: mother's hedged remark on the researchers' nationality not confirmed"}
+{"prompt_hash": "83d5ab188eb47761853a93d050fefca5406416a6d627bd2a0c874a99e7cac304", "verdict": "consistent", "reason": "checked: Wikipedia 'Bhavacakra' (six realms; hungry ghosts with huge bellies and thin necks)"}
+{"prompt_hash": "41d8e324b337cbd939b089545035e0d9d0b3e4fc8bbd2dd96212048a58846008", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5311c2d545a8520213947e64e7cc884f0e9486a4c5e6245d0eb4b416ecbace2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2080bb2d8d47b604e2d027d55313caf7d7d355adfbabcab8fb8755387f38505d", "verdict": "adds_false_claim", "reason": "The story says a bond, unlike a stock, cannot be made worth zero because it is a promise. If a company fails completely its bondholders can also lose much or all of their money (Wikipedia 'Bond (finance)')."}
+{"prompt_hash": "00a8847649a08e144864a6de53e36ccc04b9d31d395617d1635f8e14a479c143", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ab28d8d0574a43c01a24f12d0d05e33bde537819a4bc980b96f4eceb6cf0dd2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e375ab8e101d4176b484707a92bd8842dfb27d7881288ea54c6dd024196971c", "verdict": "consistent", "reason": "checked: Wikipedia 'Cylindrical lens' (acts in one direction, used for astigmatism, axis orientation matters)"}
+{"prompt_hash": "688d355b53d83345cb986bf08799eeedbbfa3ffdd053ad12f85be96399d47346", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1391e93c76c36046c77e850ee16cc9407bd7adfca1923445b30905b833e1e29e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d561cb04a58cf76a3030911b08dea4ff329a6ec25500f3272ffae296b1e4c5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1565f412f32e78329776b60275c1d5880260955a1870fa4b0d8087b0685a47a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31dbdd27eb72b7397ed4a6452e28574d302cc7828815305bd61a9047cd97b6a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c71e3357dc5b605601389b7cff036c747fb23e3c19826b76866e25bf337af358", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52d05f34d9e35d5c96070c2720a89e30310d3ef8a2de6f7f6528847c758e75c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48cebdad4b85bbab8cdff6bb481a912a2fb0e027dd58e036298a248b9dca3a2c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65cd13e85c1057e8e544bf38a306ea84b4572dc1788df7642b603cab4d9c2cea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48fe8f90c97f41bce3e5a1f37f1aad117a3b7067d081c4821b208f66a4148308", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68fc769af2ede8b4f03fed6f385033056416d6d72b1372a84b60cd7648494915", "verdict": "adds_false_claim", "reason": "The narrator says 'parallel' has two Rs. It has one R (and three Ls)."}
+{"prompt_hash": "b65d14c81c493300d47fc0b027ceb10897f1233929c5e34d79311d095a45200a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1358e612bb728af766054c6cb5e73738caab6301d516429c4aaa0fd58ea01372", "verdict": "consistent", "reason": "checked: Wikipedia 'Monsoon' (land heats faster, moist ocean air flows in and rises) and 'Kharif crop' (rice main kharif crop, grown in Punjab)"}
+{"prompt_hash": "f778c896fab89a373904163ce4d13f54caa6ca0bd980a95028f8e46e350a0b7d", "verdict": "adds_false_claim", "reason": "Valentina is said to be fifteen seconds ahead of everyone after a 68-second first lap, but Kamila ran that lap in 80 seconds, only 12 seconds behind."}
+{"prompt_hash": "3f947d535487c9d33651d494eb00ac1c661d5529bcfdcb937a7c16da10cf6b0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26f95eb50c30c15ddb5a70d25c11446e21464b45c6b9076d9a705813c91a29c6", "verdict": "adds_false_claim", "reason": "Topping up a powerless freezer with room-temperature bottles and tap-water jugs is presented as making it hold cold like a full freezer for 48 hours. Unfrozen water adds heat and opening the door lets cold out; the full-freezer time applies to frozen contents."}
+{"prompt_hash": "0db1796b12ffab04c097ad116262cb48ffb51cc525b1a823b768f1199ccc37d7", "verdict": "adds_false_claim", "reason": "The story says compound interest gave a few extra dollars over simple interest. For $200 growing to $220 in five years (about 1.9% a year), simple interest at the same rate gives about $219.24, so the difference is under $1."}
+{"prompt_hash": "f6a91358ca6f6bfda61f6384b25f123caf25b7b629dbf51e8e54440b1f32295c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5a660d8373a920ab8008a746de24748d90f24686a64ca638e6b01d1105eae68", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69650638f173feafb8f760b4b3512a82639beb19730f00f33dc5d414bc792af3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fed7d48b5065a449d9e2521837cbcf62aa8157e2dbdd0822fb3077d53b0b0012", "verdict": "adds_false_claim", "reason": "The story says Hannah once sweated through a shirt with no smell because she used no product. Using nothing does not prevent body odour, and this contradicts the smelly shirt earlier in the story."}
+{"prompt_hash": "824f2da1cf550bcf8a4489f72c55c5a823e387d50f4b93d49e5cc677f17c2657", "verdict": "consistent", "reason": "checked: Wikipedia 'Tuckman's stages of group development' (adjourning added 1977 with Jensen)"}
+{"prompt_hash": "ccf8c7eb858a242155ce8389c1e23859648ef2370849b2f0eb4e2a246502558a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1327fe9cbcebc0b98d2879493d55f389e8408600f07b2c6578a8bc47b5547283", "verdict": "adds_false_claim", "reason": "With grades as rows and themes as columns, '% of Column Total' shows each grade's share of a theme's votes, not each grade's preferences out of 100. Comparing grades needs '% of Row Total' (Microsoft support, 'Show different calculations in PivotTable value fields')."}

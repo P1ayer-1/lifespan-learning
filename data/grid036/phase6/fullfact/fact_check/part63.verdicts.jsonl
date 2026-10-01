@@ -1,0 +1,40 @@
+{"prompt_hash": "c6aa08c69da7deda167350684a8b44e24387fc01761cb76b18369b73599f45ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "555c1338eb11247fc6d0c9df01a33de37025832e57ba5a30f5de8b56271d049a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c43127ad35097659a3c9af57f35a126974cfeeff57f164dcb178de0b5eba668d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c5705c18232832cbf4f0b4da1da3d67fc0632c1e684efb8083ded97e85d0f5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cfcec41dad9e6b8348ee2ebd45458d1897b9251efdcd4e41201c96db2838949b", "verdict": "consistent", "reason": "source: Goodreads quote page confirms Charlotte's 'I ask only a comfortable home'."}
+{"prompt_hash": "5bee1c884d16fda3b7eed8e306efda2a6f0d27230ca98b8d7e107f4aec5bc72d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d97ba0cd79121c4f8f67d8f986418caeb34a0bbfd278a43277a5b6b43d03bf4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fbf947689aa0e94fa820b2161ce5d5b142fe77bd6ceb7265140b2962654a8d9a", "verdict": "adds_false_claim", "reason": "Narrator says doubling both reactants should give the same gas and that a limiting reactant explains getting less; doubling both reactants doubles the limiting one, so yield should double, not stay the same or drop."}
+{"prompt_hash": "255d2455c8e7f670dfd3149e4ff8c6e287f44466ffff9a4ca99e0c30294123d2", "verdict": "adds_false_claim", "reason": "Narrator calls the right side of Qatar's pyramid the male side; by convention males are shown on the left (Wikipedia, Population pyramid). France's pyramid is also not wide at the top narrowing to a point (populationpyramid.net France 2024)."}
+{"prompt_hash": "51549b68dd7627e9b1b9a4d2e4d656d0a0e2b2fbbd4ec36c21e1e362c4c06995", "verdict": "adds_false_claim", "reason": "Says n sits in the denominator of the exponent's fraction; in A = P(1 + r/n)^(nt) n divides r inside the parentheses and the exponent nt has no fraction."}
+{"prompt_hash": "969a1a70d339675b1e6bf7ab6d798689428658598d03011118b58243f9d15899", "verdict": "consistent", "reason": "source: Wikipedia Margin of error, max MOE 0.98/sqrt(312) = about 5.5%, consistent with quoted ~6%."}
+{"prompt_hash": "7d2538379eed48f671f754bbd819ffa62a45688484eaf487e1dc4fbfa23a4c01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af9aa620802bf64a6a0d7c9eadaffe3ccc3ad5426b3895cf6741d8d39f01a45f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6736084045b476f3abe6a636e2facbe156f8cef86b73155f85fc06169d0be9b4", "verdict": "adds_false_claim", "reason": "Counts Monday to Wednesday as seventy-two hours; that span is about 48 hours (DOMS peak 24-72 h confirmed, Wikipedia DOMS)."}
+{"prompt_hash": "6e5eafd775a5cb210685eecd368420da114b9f8978d1f0ec6f023738976e984b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f10d28f2e1ad1b5f5154ca5adac600ef4e07d23eb65d9f14030393a0bb2fcc4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd47f230a558d3af4d6800e818e92a78cf03ccfcfc4ee400cc5e5f2a7e04d35c", "verdict": "adds_false_claim", "reason": "Places the development around measure 40 of K. 332 and says it fragments the opening theme; m. 23-93 is exposition and the development begins at m. 94 with a new melody (Wikipedia, Piano Sonata No. 12 (Mozart))."}
+{"prompt_hash": "ff642ea887cc8146925e5d5685550d7f0c1358ecdbea62962aea95457724caff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4bde59c9db80d7340de55606b1e13ce1ff37ec0eded3fc3e0f22476115a01061", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d35df1cec488ad428af4698beb3daa6c87cb6706c91eb1768b57b1e38bde89d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ec2c13cd2a46c8f7058cdf8341abad4c014d99d8f90cac4529917ccb325bb28", "verdict": "adds_false_claim", "reason": "The pale-blue solution turns pink when warmed; the standard blue/pink cobalt chloride equilibrium turns blue when heated and pink when cooled (Wikipedia, Cobalt(II) chloride)."}
+{"prompt_hash": "8ea429542fdccfa7278275d9ddff6ae5f993d5be496770a62fb7dd898a4a4cac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4a5b1e195fbb7ffad3d5c777a033ba8eafb5515e68323cbbaa0c509970b9920", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "daac1ba0448b28cb2de8ae4c296e3a6612e4d72a6214f12afed5317c3b7f051b", "verdict": "adds_false_claim", "reason": "States 7% tax on a $980 laptop is almost $90 and makes it over $1,100; 7% is about $69 and the total about $1,049."}
+{"prompt_hash": "8d631f9a03730dcd69f2376fd20092767ae8d738cf1ee09dc26417df9647784b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6529d6315ba0585baf3aa53d5c5b77dca1834d26a65f8ff8ab86e237a2ff4d8d", "verdict": "consistent", "reason": "source: Wikipedia Royal assent; assent is by signed letters patent, story's 'signing it' is a simplification."}
+{"prompt_hash": "66ebb9f21081136d5cc6adbf80eb28c2ca2a4f04af8583e3d40bec5bf005a9d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b407a6b59aca376810b0dcef7a7709b80e5c4001158627018c48e3f0aa358e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d48af3a6be2714f13449a108156aac4020ae4db68a332fb2ae98565a2dc74a0", "verdict": "consistent", "reason": "source: Wikiquote Jane Eyre confirms 'I am no bird ... independent will' passage."}
+{"prompt_hash": "1a0807432325a9dc55cce2445b5af74773601d08d3880bdf960f0c12d2595d7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f3147a37436382d2876dcf6cc00b2c07341bf4d53ec3897edc9d0e0178bed6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab548e1198585a0a19a48c239d8d41889bd2c2367da54b06592a235a8ac424b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b75e4b02fe8d6a88c0732fd049b7620e3477e90496187f17d134a5d6a48ac3e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aae743bc1a44c87a884ad023a651f45666b3b301ca2c404d196f05534f702348", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cdbb32e3709f1e17c42e88bd386fc0654025495fb32bb3c420d4c29ea64e84bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d362be9f5e5240c99ccdda465528c42a833cf7e558e7708d17e6d6d7cdbe20fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcbc5d72b0b170aa8781dcfbeec21889392cfb00d0105989a56b77cb3adf97ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a44592559c44d0675779991fee8b9f494c794e5768e6d1b4e8f57dae02ad1b21", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6811228fe2f021bf84eb1040adaccf9fd078c9c4327ef09172d939f7e88b2f65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b1cb1b8eea7d1f7508f963e525d513aa10485d04716dd927c4bce73e727bc71", "verdict": "consistent", "reason": ""}

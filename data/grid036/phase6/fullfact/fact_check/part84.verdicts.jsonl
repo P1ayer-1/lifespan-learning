@@ -1,0 +1,40 @@
+{"prompt_hash": "8f54dd547c5b2e0bcf504bba22652cee10c8d0bea59326f6220dbce72c073fac", "verdict": "consistent", "reason": "injected fact pre-verified; grandpa's -40 F in LA corrected in story"}
+{"prompt_hash": "615cbd2ad22fe0de6e1374e709c49cb025690cb8555a3eb6af7a990ef0d32e13", "verdict": "adds_false_claim", "reason": "The narrator's 'proper' reading of Commons procedure lists introduction, committee, report, third reading, skipping second reading. A UK bill gets a debated second reading between first reading and committee (en.wikipedia.org/wiki/Reading_(legislature))."}
+{"prompt_hash": "4a08020652bee58d5f00e709d198b6bde46fc1caf9a85237e409591fbb16f8e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1216d117dc7dd7134e9579240a8015973aa2f171748654f6bb9cdba757eee8e8", "verdict": "consistent", "reason": "injected fact pre-verified"}
+{"prompt_hash": "4b5f3e7a02dacec8db5a6fc08c327b13675c3f10e5f6bb695def3fb9393d211f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c82732479e4d658fb10be3d7f50cbaddc7129868045fa512ce0a156ad254754", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aac19ebe8c8605010db0ae1559e6308dacf204a5496ba9c9af9698e38899c761", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Brandenburg_v._Ohio (revengeance speech, holding)"}
+{"prompt_hash": "8b0beb884639cd702385ff764b6ac7034ab699d7c37e33cf2f5aadacbe2cc3f0", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Right-to-work_law (Michigan repeal effective 2024; Tennessee RTW)"}
+{"prompt_hash": "a74508c968ccd7fb4f3436b97173e55a7a4afd4f3522004a254cd4b4d398000f", "verdict": "adds_false_claim", "reason": "Grandpa says the same trophy is still handed over and never replaced, and the story ends on 'It's the same cup!'. The original bowl was retired in 1970 and the cup awarded now is a 1963 replica (en.wikipedia.org/wiki/Stanley_Cup)."}
+{"prompt_hash": "f93162795ee16c1fccf942c02b421f9c5af8b28d3266c2d2387146113f0ee402", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b011c62405bd0b7155d32c45b485c7499018aa5ebac06b6c39ab3978b14c2d63", "verdict": "consistent", "reason": "checked: news.ku.edu/2018/03/06/study-reveals-number-hours-it-takes-make-friend (50/90/200+ hours)"}
+{"prompt_hash": "e66b1a7aac0cdb867fc068ea387481428b1f1f731b3a07a4c5686814d28acb5b", "verdict": "consistent", "reason": "uncertain: Higgs 'waited years' after good data is loose (3-sigma hints Dec 2011, claim July 2012); character paraphrase"}
+{"prompt_hash": "4e9113ef862eb98994f2dc0c986aed9707bbf83bf9f91991b31ee7ae940a77e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0bfb8680bf3e052e3c61118029a8b103b72787168f95d10418bdff87c3f7f88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac6d8449c7fa045ec3e560d77e46c73b54d0b265f0e405fac8da1775487c854a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2548d79a4e37efadc65533f585c6a12a5a61e0d1597993ce71b0399b62fe066", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43421abf26021c3c4bf22617776e9cf230af108b2cbe05b93080211f6866477e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7db454b702e2150693f53bbf5ec3acd9b1531cc6bd950b7ede0bfc2a90cf1e9", "verdict": "adds_false_claim", "reason": "A rider rolling off a 1.5 m ledge is given a 2-second flight. A 1.5 m drop takes about 0.55 s, and the 3-second fall for a table problem is equally impossible."}
+{"prompt_hash": "b5b8d6b214a4be8cfd3bec7e8e278c9843a1b53c2483a054b8799cac2d03d1ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "42640e04ddf185c86f9b5ff398936a917e5b7137d5739b97d3378937fd5038d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "281eb44c5d35e2a0470469f97b71987d11224ca2c930e40161a3f7bf0871c907", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9c9eb9ab4d9e97d881535af35bc0c34703f30a8f557d2b71aa042e44d531c7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9be6502765f00801ed0a616c1d6cfd14711a3a4bb5eeef172a3b5956c9c8783", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "332e7cdabdd71339114b03b6a956c3a8e1a70819b95dda57944b2b0ed6df5773", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "788c0b0c19d05da3d982c4d92b04446708716bd8b515b3cc308f16b2ff10ef97", "verdict": "adds_false_claim", "reason": "The owner, left with the last word, says an unwitnessed waiver is worthless, then accepts a mailed form that nobody witnesses. Liability waivers do not generally need a witness to be valid (law.cornell.edu/wex/waiver: waivers can even be implied)."}
+{"prompt_hash": "9301f9a168f46edf424574b0805fa24a66ceb293f3509e567ce12e2151a627c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a5bdf40bf066ef19a41efe5d350a37305d3048ffdd6bd9393d3258ea31a8484", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e3e9027665ed49b2931488e8f5daa8b19bc669eb4a3def1e64ea9fee5d2bc38", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91b2d829d19db35a760c03151689d40ddeefbabf8a6ae2e71c5dc0bc5c94923f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hot_hand (Miller-Sanjurjo reanalysis of same data)"}
+{"prompt_hash": "1fb8da9595b94d7421e3a54b8e56f5f43fb721025de5a1fda537520a994f6931", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efc44c299a676d4f27794dde8ad4dc9f0fc56c7fc295977668400f3854ac57ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7110d1dbf0c5e79accd75c8d016a38652c78a34bb8a0e0d2295b7d57458371d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00725af256c04c344fd948ecc32197bf12c03ca6154da6327c9a8838633ba9ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d486b634e2ffa996033cd8f63ee59b3799290e7d8e7b80a9006202c8cf369b1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "588b442d6da4f17b631276ba19013a22e74596df69560e170dd5d4f5a2ed79e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45a613b1928a6d7d68d0855a04235fba3c016fb9a1366423d5bbd2ea1f9431cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00e84f7de2449f97cc667f00c4a41ae29f4f256d2a9861f3a5ccf88078b24138", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "acb00ccd086cd49cbea9f73266a9dcb6c504f2dadd2a063eff9062458d627f09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59d9f8f7547e22b584dd728851eee234839751a6cf9517c3c0c37a919509a3dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aee76e3786111b3998190b5372f96f6d7b71cae362e18a15be74b341e78cafda", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Montreal_Protocol (first universally ratified UN treaty)"}

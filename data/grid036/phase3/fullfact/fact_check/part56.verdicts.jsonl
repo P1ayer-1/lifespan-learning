@@ -1,0 +1,40 @@
+{"prompt_hash": "1e05cbefd926fbde84ff51ee126610816fb61318034896cecf539f2738f65a95", "verdict": "consistent", "reason": "Outdoor time/myopia checked: https://en.wikipedia.org/wiki/Near-sightedness"}
+{"prompt_hash": "d2e70faebc35586a181382ba335b9793ee6181b20c371b4aa4e4f987e05bc51d", "verdict": "fact_missing", "reason": "Story never mentions Japan; it shows slurping as acceptable only in one unnamed family's home, so the fact about Japanese custom is not conveyed."}
+{"prompt_hash": "15a1bd571ed84fca87f5e07a1b5a00f61d7900a5e4f4b1962f37e4629247221c", "verdict": "consistent", "reason": "Lee Ross 1977 checked: https://en.wikipedia.org/wiki/Fundamental_attribution_error"}
+{"prompt_hash": "7dba9d6d049176b8522c5c60d3324d57cd58cb071b57ea38adca44b68cb7934d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "728fdf933c175c3dbbd6324e3b6ac5de419495330b52193f23515a2cb98b59b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb0d67cecf85f17500498d153f3b85fd74df4de4f05caaced573205829171feb", "verdict": "consistent", "reason": "FTC disclosure rule checked: https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"}
+{"prompt_hash": "ad4127ae5ca351cc86f8aaa9f64385bcf45717ad527f1119b728493871d41c7b", "verdict": "consistent", "reason": "Kharif/rice checked: https://en.wikipedia.org/wiki/Kharif_crop"}
+{"prompt_hash": "21e0b9d700e907bce3ec67fd12437928f81b501cae77392db83a2525ee39c9f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "857287cf4f7244d50439fe58d1581c075aa622a3db29a0eea5555b3b794e2ee5", "verdict": "consistent", "reason": "277 mi/446 km, over a mile deep checked: https://en.wikipedia.org/wiki/Grand_Canyon"}
+{"prompt_hash": "da12e65044cb7127c6345fe4d8bf7221b8cf5e0a623eaef7f95ca49b15da3fe9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e98045a1679211a908ab17da26e6f37d893d3cc60eebc8097c4ae97614f61f3", "verdict": "consistent", "reason": "Drafting in running checked: https://en.wikipedia.org/wiki/Drafting_(aerodynamics)"}
+{"prompt_hash": "eee65bcff7fe250a75ce152cbc9117e5daadd325330ead423810c400321b6197", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af5d77911b4400a29da36429887ff29c909d95a827b03a38f1b052479cfe542d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "55dae57a835c978474273b8cd0d9448a89f71e10337bf17041c1b6895dd31aaf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb7ce6fbee6a2a2b065a4818471da24e10268c7a9a91962762d1bc257481462f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63ea7e996970c880e565150aaa0566e59cc46073b5dbb8dcdc006262baf4d421", "verdict": "consistent", "reason": "Galileo inclined planes checked: https://en.wikipedia.org/wiki/Two_New_Sciences"}
+{"prompt_hash": "251d352bdc1ee265b974a59c37db37c1ed39e65091a01ae6598ecb1c54c2cfb1", "verdict": "consistent", "reason": "Central Italy c.1290 checked: https://en.wikipedia.org/wiki/Glasses"}
+{"prompt_hash": "1be6e100f89618eae0ef075d0fef8e6a21de6d113aa61bc20fd9f9762bc43cfa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9efc1de323646ca8812f9cabe22c198d08e29248054ebd7347857457aedd24b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5865a732da49a601ce479625bd034d4483d730fe5ebd9f053c38161e4440500b", "verdict": "adds_false_claim", "reason": "The narrator tallies a three-to-one vote whose 'one' is a member who abstained. An abstention is not a vote and is not counted for or against (checked: https://en.wikipedia.org/wiki/Abstention); 1876/Henry Martyn Robert fact itself is correct (https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order)."}
+{"prompt_hash": "aa3dd799007b060633b199398eb8e20ab7e8e2556ce77481dcf616a77bf91642", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e64e12ec24b85c8cc6e0273abfe423bcd48957ca373d03525ba807c8e54c8cc", "verdict": "consistent", "reason": "a tempo/rit. checked: https://en.wikipedia.org/wiki/Tempo"}
+{"prompt_hash": "9311a963b2e9c85b380ed9ec3c7859069338b9e5fa9bff0d2c007374e7adbb6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3665633442da30291cdd48e0b2fffd0bdbc2ced6f007dbbc84b7a2bf8b474d1e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32263acb82fdcabf3eaf446db1de0da6146de7f1411a39425d2a313f00a3d087", "verdict": "consistent", "reason": "Snowball/Patel 2009 checked: https://en.wikipedia.org/wiki/Snowball_(cockatoo)"}
+{"prompt_hash": "d943555a50cb4f57285db2a3da3d2973a796cb3df830fd5da50f612790d4c266", "verdict": "consistent", "reason": "Naive realism definition checked: https://en.wikipedia.org/wiki/Na%C3%AFve_realism_(psychology)"}
+{"prompt_hash": "9fbdf4a03de2e3c11ab724bf4cb0b7fc765b7bd12273ade6fe578ffac5f9f23b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb425926149ac9d4660de7debeb1f3da0e14ab4d5a959e0c081af4a28d916b50", "verdict": "consistent", "reason": "Stop, drop and roll rationale checked: https://en.wikipedia.org/wiki/Stop,_drop_and_roll"}
+{"prompt_hash": "c6f8dee1e0e0b04e665d12abcb596964d1654f8d4bd242f66d3f348744a8fe9e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a9dda6328039d2859a1db2673e8697479d03edbbb66cd7de8379b8219241392", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "676c45e3e442aaddeb6d01742bd9bd2167c216f5ce380f5050c5fc7793c80998", "verdict": "consistent", "reason": "23.4 degree tilt checked: https://en.wikipedia.org/wiki/Axial_tilt"}
+{"prompt_hash": "ab86f07f73cad355d54e830878007e6e0a0d5437f5d75957d356d35055988466", "verdict": "consistent", "reason": "Unpointed scroll, practice from tikkun checked: https://en.wikipedia.org/wiki/Tikkun_(book)"}
+{"prompt_hash": "db3247f3dc27adfcd701d6d6da3c81266ef6108957e8efeabd5fa1618fcda648", "verdict": "consistent", "reason": "Holy Trinity c.1426-28, Florence, single vanishing point below figures checked: https://en.wikipedia.org/wiki/Holy_Trinity_(Masaccio)"}
+{"prompt_hash": "1b4c4cff8e70b50d87b96130bc85674478aa6fab454cdd6622422fdc2adbe98b", "verdict": "adds_false_claim", "reason": "The story gives Augustus a reign of thirty-one years. Augustus ruled as emperor from 27 BC to AD 14, about 41 years (checked: https://en.wikipedia.org/wiki/Augustus)."}
+{"prompt_hash": "74134ada71aab259bfcace8b42c17b79289b8000fefecf0ee92b959e7d96f95a", "verdict": "consistent", "reason": "Card stacking definition checked: https://en.wikipedia.org/wiki/Card_stacking"}
+{"prompt_hash": "de2f4642289869c6cdaecb41fb6139499a9cac806faf7b1aab5b6c37ce4dec6c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c524d2f0918846dc429c372d3b1b97549cd479701d8e9d8b153ef9f54cce2d72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32cc348a415c4d8b1b1f47799bc7aa8e55b3d0e089773b4d20103f6b7aaa7635", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6998340f459ab7cc8f29d1daa84695d806e249a76d2555c10506c74d13a51a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b239f5a19fccd69955907bf8fa0b31d61239948ce403922d274ac0627e0ef2b6", "verdict": "consistent", "reason": "Hongi checked: https://en.wikipedia.org/wiki/Hongi"}

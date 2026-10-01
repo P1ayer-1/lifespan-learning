@@ -1,0 +1,40 @@
+{"prompt_hash": "ec091f700f257c989de61460e3384bb4b83c92c3a0b458bbb9d9645cd37e566b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e8eca668d69df0de03ee14323ea6ea22246a8506a4061c504fdb807e7353ee4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29845c37cc8883cb821b85bff3e55569643339600b103253d039165c17d84461", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ede178dda1a5e7deb8d78225203f3257a732ecdf02ce02554545893bcf6a9ff", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/International_Meridian_Conference"}
+{"prompt_hash": "a24e05822058325beaff519f01ad59824808154e5e316e7d9337b310cd73a904", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82d4c229d1438425e4cea05907bea1cac118561708cc328c2caf9d807676a1e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6095c74568a0b363431bf5f17f0874e35aab80dbc48fc281c37c720eb9f9a484", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Full_stop (Binghamton 2016 study)"}
+{"prompt_hash": "61b3930014a29b7e683cc4e3a7b10275d0da942ba76e913f12b8028f949a9653", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07ce50fdb297911348a023a311cf953e114d9dbce01a03ddb381e5b0eb4068af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa29638f5fa1c8481a083a47e7bc4bb61ecd4b8148f7d10209a31a5b7681d535", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Peer_mediation"}
+{"prompt_hash": "47c96ae8f5df94c62c8f23bebf5a4cde24f839ab7dd1409c925128bed0c263d2", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Voice_change"}
+{"prompt_hash": "3b2d7e3097996cc97820a562bbf8d355491de5b8e0f51869b0f29166584c3dec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "636e3dda98800a1ab2587996046dc49d6c1910dc1748c31b67486476c48eafb0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "099c653da3c7cab32d3ecea33cc2d4eb8d9c13a20e0b92f5a43869b4a8dcea7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b6f576113f2f4dead970cbd572cf3a87918ecc988e1c4d921b82a13e34f0270", "verdict": "adds_false_claim", "reason": "Story says two lines with the same slope but different starting points 'had to be the same line'. Lines with equal slope through different points are parallel, distinct lines (checked: https://en.wikipedia.org/wiki/Parallel_(geometry))."}
+{"prompt_hash": "3fc8240564246fa70aeaca1c00a737f23635365274e71d5f87747dde1b01c1c0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Refrigerator (FDA 4 C / 40 F)"}
+{"prompt_hash": "7159d976fc8ddfc7cf3e1cacc935e276a945f442c9491ce80a9cc108e3ae3949", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Modes_of_persuasion"}
+{"prompt_hash": "8de8f85df30c52d54662db155a521373456f45d82ef211c76b033e404901236b", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Igneous_rock"}
+{"prompt_hash": "e740eb7ca60235963fee11dd44b8cecc7fb0ac36c01f7d47acd95414c0a18494", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88d48c69a929c0dafd02d497dc89160cc0dea470fff69bf9a56be75522bdbe04", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/J._J._Thomson"}
+{"prompt_hash": "8a99aa951b376ed7f8483a781f0edac4b4fde04c79d12d11be961008913943b5", "verdict": "consistent", "reason": "checked: https://www.cdc.gov/flu/spread/index.html"}
+{"prompt_hash": "f843895ea1b46f6693471a3b5144ce15aa7bf03654e5688a014febb19d0d35d0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Cat_food"}
+{"prompt_hash": "e241cfab8cd15a53fde9d7a5eb017b3e05a32615709524378bd0e131eb46d266", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Chinese_kinship"}
+{"prompt_hash": "e0dca5951458075335070ce863281d9f5a08acfb5780e7452f188df508743993", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Peer_mediation"}
+{"prompt_hash": "5d979861e3c50f853bfeb941254f69129226812769cae2d1dbe04178a7516734", "verdict": "adds_false_claim", "reason": "Narrator says sunlight 'refracted off' a puddle. Light bouncing off a surface is reflection; refraction is bending as light passes into a medium."}
+{"prompt_hash": "912e744697d3bf6f8a7b90f0d3e306a177eb9b2aefa67ddcadfeae81e2fe8c69", "verdict": "adds_false_claim", "reason": "Three friends splitting the whole $2 bar each get 3/12 (a fourth) and pay 50 cents. Three fourths do not make the whole bar and $1.50 is not $2; each share is 4/12 (one third). Also 'ten twenty-fourths each' for three people exceeds the bar."}
+{"prompt_hash": "37d4db2b07c4e5f4c9a7fb9b42d12aa6fa73bbd2e4e5aa557c92813eaeffee46", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a299d31d6eff019552ca153579f89728b8430102652b8d9f00ee1b78e3f4c5b", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Light_pollution (80% of North Americans)"}
+{"prompt_hash": "832ae1c89b63181273b1e2308c0063a0b9bfa1ee4ba40a7304bda2bbc8af2b8e", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Conservation_and_restoration_of_cultural_property"}
+{"prompt_hash": "c79c97cf3b5ff6ad0d788f8c92849ef09a8d960028c9e8123ab8dfd23c8e14f4", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Genkan"}
+{"prompt_hash": "2f9cdbfbdf4dccc4eedff3d1fbb7883cba01e0d9835676cf37b74bcdd7a55b4a", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Multi-stage_fitness_test"}
+{"prompt_hash": "691d4f14e40a6e1685be87f7ad766ddacdf08a217d7100133be1542212ac3ef1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "502badd8e50a041842442bd4ee7003c38c9e765cf2c91be3232555dc6a135276", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Ossicles"}
+{"prompt_hash": "2b3565f1efcaf03cb16ec7d11bb75d62f2886087826f21b4704cd6d09530abf6", "verdict": "consistent", "reason": "checked: https://www.ftc.gov/news-events/press-releases/2013/06/ftc-consumer-protection-staff-updates-agencys-guidance-search"}
+{"prompt_hash": "5549c911d1f55467350c24e023bac1840356ae9cf8da7b80a4810a8a619c9ad7", "verdict": "adds_false_claim", "reason": "Book is titled 'Bridge to Terabithia' (no 'The'; checked: https://en.wikipedia.org/wiki/Bridge_to_Terabithia_(novel)). The story also invents the 'correct' wording of the novel's closing line, a fabricated quotation presented as the real text."}
+{"prompt_hash": "25607a56240e9552483bed6487810311203881ed7d2e482ffca924004bccc9f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a65fc23d713fdb9a399428a152a180dd1225da028e583f6a796025aca7d099c6", "verdict": "adds_false_claim", "reason": "Jeremy says spreading practice used the 'same total time', but the story has two hours crammed versus 3 x 10 = 30 minutes spread; the worked comparison is wrong."}
+{"prompt_hash": "47f828379f4f0a265fb54fbae282c0b05096c950c794e9dd3485587149abac80", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Baking_powder"}
+{"prompt_hash": "1e52a7b6406abbbd522d27de7ab0d40f640d58ec9471f2d7c2e4968bb16f7e3d", "verdict": "consistent", "reason": "checked: https://www.aad.org/media/stats-numbers"}
+{"prompt_hash": "ac020db6408f10890b3fadc70215caae090387728d13db143456fd667b4ff868", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Minimal_group_paradigm"}

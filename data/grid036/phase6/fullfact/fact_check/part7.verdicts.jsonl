@@ -1,0 +1,40 @@
+{"prompt_hash": "34ff6d2b292732b53309a44bbdb62eeaf0fd4f97aa15300c46f19cc062e8ed4c", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Supercompensation"}
+{"prompt_hash": "8bbaecf014b72a38ad43d8849f23f1365b1d5891ce7a95b42f547d6678686e9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "874f1f928ae0c5031d4c1036ad94b84afb558d6594cc41d7c14cbf805106815d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cfca34e34cf6ba0c40a54d26ee0151a80b6e91130ff1d3548d837f42b0ef1af3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1ff43af040cb67f039cba52dededc3d08fbdf7d023f1ebf232e51efa01b9095", "verdict": "adds_false_claim", "reason": "The story says she ran milk chocolate 'four degrees too hot', but she held it at 31-32 C against a 29-30 C target, so it was at most 3 degrees too hot."}
+{"prompt_hash": "af5f3a12d41cd27ff154712b659e7f8d1e7843e68d9d2a6238d458697bc3c62e", "verdict": "consistent", "reason": "checked: https://news.ku.edu/news/article/2018/03/06/study-reveals-number-hours-it-takes-make-friend"}
+{"prompt_hash": "9016c27c4be01753759a4ee81e457606737a28372c907310df6ef0972033fcbd", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Preprint"}
+{"prompt_hash": "8f11eef27b5683a1718890cc8ffa9be1d9ede7e64015bb9291113a051e4848ad", "verdict": "adds_false_claim", "reason": "The story says Canada 'invented food banks in 1981', but the world's first food bank was St. Mary's in Phoenix, USA, in 1967; 1981 was only Canada's first (checked: https://en.wikipedia.org/wiki/Food_bank; https://www.edmontonsfoodbank.com/about/history/)."}
+{"prompt_hash": "9a0e64db6e9057a96b2ce075c29d92967a10fd54bfa84dc9e0600426a4792dd4", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Olympic_symbols"}
+{"prompt_hash": "117bedadfbafaf585b8d7579501b03fe4290af00d67fb3fc9198246bd9bdaa0a", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/The_Limits_to_Growth"}
+{"prompt_hash": "24450d0aeafa60e5260c8ba72f56c9ba7b8fea1226130faa2518f253b57d9494", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Automation_bias"}
+{"prompt_hash": "699f4ef26054cd82ea8edc09469f0e3e1d843eaa1f96a8ccc5bc2cef19e1b63d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "936fb64cc75e13154d4b76ffa9bea984580fd06d16d138a27aed2489ec0585d8", "verdict": "adds_false_claim", "reason": "The frame-shifted reading of AUGGCCAAUGCC is given as UGC, CAA, UGC plus one leftover letter. Starting one letter later actually gives UGG, CCA, AUG plus two leftover letters (CC)."}
+{"prompt_hash": "9bbff25fff3a98b7617fb87b1fd294f4f8131daeaf36099bca8204714cd86a98", "verdict": "consistent", "reason": "checked: https://www.cdc.gov/seat-belts/facts/index.html"}
+{"prompt_hash": "9bf9f9f05863b7bbf6c6d1b925c90eac6f42d014970dda498f0806950768e402", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Early_1980s_recession_in_the_United_States"}
+{"prompt_hash": "917ada9a7b253ae2f51b4e410279fc23bb763427ea6c43e7ec5ba474300ba7a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6cc5978ad0da5d940809569cff0984f8d85f118fa7569d09163d3edcf6b23039", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Frida_Kahlo; https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird"}
+{"prompt_hash": "7456958c7d974ee26775b10ec66a33f59e24f9b36b47a2e4189ec2546e59cdbb", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Faster-than-light_neutrino_anomaly"}
+{"prompt_hash": "5060a69b251f7d1585a5af21c48d3c77ec6677ed354b9946f362235e8673756f", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Sverdrup"}
+{"prompt_hash": "7d9d65199adc1fe1561b926324ac9f949454bf896f7f6574f5ef01eb29e1aac6", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Chocolate (form V tempering)"}
+{"prompt_hash": "e01636804964510c43ac4f7848603e72b7f0d3a9e0fd9a421cfa6c90d4eaf46e", "verdict": "adds_false_claim", "reason": "The table is described as showing the ammonia-synthesis K only 'nearly folded in half' between 400 and 700 degrees. In reality K falls by roughly two orders of magnitude over that range (about 98.6% from 400 to 600 C alone; checked: https://en.wikipedia.org/wiki/Haber_process)."}
+{"prompt_hash": "a6d907c2b42f17c79da6a0527d31ba180b168f065d807ed5e149e41ee494d7b4", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Patrick_Soon-Shiong"}
+{"prompt_hash": "b253404582301d96345fd31ee514709e64df46f631d5061ecdc77b06fcfe8c70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cda25fa3df934ddb8fef901e97e3a8f9e21ad86cbee101cbe6d6c32c5f2c45f8", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Chocolate (bloom, retempering)"}
+{"prompt_hash": "e97fd0a78586524682f82324eda5b8076d8c71ac67adc74de01d8f18c29f2ff8", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/1979_vote_of_no_confidence_in_the_Callaghan_ministry"}
+{"prompt_hash": "4d26ea8264c2a30b845d2d132de92c232bbf401e8262f77c9eca1c32b5f596e9", "verdict": "consistent", "reason": "checked: https://www.bls.gov/careeroutlook/2024/data-on-display/education-pays.htm"}
+{"prompt_hash": "4e176a64814d65974c1a03941c4891e1e84efac66858c2855e2f6070a25e8eed", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Delayed_onset_muscle_soreness"}
+{"prompt_hash": "255d847ffca1b187eea9a05bc4830a2125d6cba21b77e80f5d2d024459cf49a0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Acrylic_paint"}
+{"prompt_hash": "9cfd380db1fb6d5257fc34edefea09b8ed992c08f0f58e97b4703578ec3ef986", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Google_Images"}
+{"prompt_hash": "225f9f10b520328e96faa78d9ba89a8dc88e88a457bf7bc1a40dfef458a92456", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Negativity_bias"}
+{"prompt_hash": "20ef64f5973250cbab72be27aee87a072a608030a21a9a720bab5abb1437d96d", "verdict": "consistent", "reason": "uncertain: the story presents as fact that Rose Williams read The Glass Menagerie. She was lobotomized in 1943 and institutionalized for life, and no fetched source says she read it (https://en.wikipedia.org/wiki/Rose_Isabel_Williams)."}
+{"prompt_hash": "005d34bf4acabca2a5df98d16114f6e302180b373cf7700c830acb010f83d7af", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style"}
+{"prompt_hash": "26e1435f38ce21507a82c9744caf105e77b2058f80caf8ea96287c4fd51fde47", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Motor_learning"}
+{"prompt_hash": "a95318ac7bc04ddaab36e957ab8a547b950a83f825872421bcb8d9069df556a6", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s"}
+{"prompt_hash": "041ad0b6dadbcc39748aaabb5af40459d9e9a50b90d7b4389ab4740591d8a175", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Peter_D._Mitchell"}
+{"prompt_hash": "db70f173716ec64634160b2df57ffb7736101038b0e470971ffa4f8417a93581", "verdict": "adds_false_claim", "reason": "The pay comparison of $9/h over 6 weeks against $11.50/h over 4 weeks is said to 'come out for the smoothie shop', but at equal weekly hours that is 54 against 46, so the camp pays more."}
+{"prompt_hash": "73f3a7650af4a9a0596dc7669bfe3f9217394e78b9ab3a29559366e6914bfa30", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Roger_Tomlinson"}
+{"prompt_hash": "cfd7c6317b08a645d7bcb4ea4e6ed8da83fb5ca7532adb81c9ed8b1eb540761c", "verdict": "adds_false_claim", "reason": "The worked launch speed of 14.8 m/s is wrong. With 19 m over 2.8 s (vx about 6.8 m/s) and 1.4 s to the apex (vy = 9.8 x 1.4, about 13.7 m/s), the speed is about 15.3 m/s."}
+{"prompt_hash": "1a2999c2bec181c0a38815a42ad88bd3c03fd0f8bad99342ca87738173fab7f1", "verdict": "consistent", "reason": "checked: https://www.cdc.gov/food-safety/foods/chicken.html"}
+{"prompt_hash": "e308628be54c9b45edd6ebba592d78bc72ed06ab33c2ca5087bbaaaaa3c3a560", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "bfb6ff77e945d4ce898b2a71368329975a16c0a87c0124d541aa4159c83784e1", "verdict": "consistent", "reason": "checked: common knowledge (mic feedback)."}
+{"prompt_hash": "1d4630a60bb8d9853e77cd47390a45427717a408d022a36781164d0e2297fd7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91beef74965996842d0174fa821f4bdce42b5c2f6ae9a4cceb7cce15028dfcba", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Lyme_disease (I. scapularis vector)."}
+{"prompt_hash": "10098f3a48695b860caa445b86ba478b9c2ad57c326597ccb25f3d5b2690dc61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b75f98b53a7b640f7a8bf542a85eb09f24581175f343d382f604a83439fe66f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c8c96490418d4932496d1b533c5bd5d4717257b6982e1db7d567911814657588", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Chinese_classifier (zhī for cats and dogs)."}
+{"prompt_hash": "e1143075964cd1d1fa2cfeee06f0ba50a6d712e21940a816acaebd2f6c0476e1", "verdict": "adds_false_claim", "reason": "Story has the thinnest guitar string tuned by matching the tuner's A440. In standard tuning the thinnest string is E4 (about 330 Hz) and no open string is A4 (en.wikipedia.org/wiki/Guitar_tunings)."}
+{"prompt_hash": "157f8f36c2a5dea87c63e19a9d481e0e46c28edaab80eff457717cc555865095", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Scott_Fahlman."}
+{"prompt_hash": "25c2d6b0f3346cc29bd12b88af3a4c08db8d4a40e4dbc1b0b15963604abe9eb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "62ebe897cdc42fc95f61c4f8b89e0afef894fad6c17a27b06465de4d07bcc293", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Havdalah; overflowing cup custom via sefaria.org Shulchan Arukh OC 296:1."}
+{"prompt_hash": "b52fe7b4965d5a5957ad10a95942b8d5b783f9dd5d84bd5c5411b09ddaceeff9", "verdict": "consistent", "reason": "uncertain: story shows slippers worn onto tatami; Japanese custom is to remove slippers before tatami. checked: en.wikipedia.org/wiki/Genkan."}
+{"prompt_hash": "36af9e3fc6601730085cd93f38fce3ac5311ee354d580e59ba84d5e2ad5dcf79", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Sally–Anne_test."}
+{"prompt_hash": "912350d6e1edaf15e36b85f7d6ec49464b3544e54210aebc7617af8abf6938c8", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Percentage_point."}
+{"prompt_hash": "7c4fe6979bc8f3fa0047d8edb12f590fdf345cdf73a7185639e15a7b7de52073", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hydrothermal_vent (Alvin 1977, chemosynthetic base)."}
+{"prompt_hash": "049ffd2fee2c132aea7811ac8824741cd4fd2a3fb60262d9b4ac80c894d778bf", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Diaspora."}
+{"prompt_hash": "c3f915b09f965973c3390ce27f60dd4bcb9554e92b3fb3f479806c1457c3b578", "verdict": "adds_false_claim", "reason": "Story says sound in air arrives weaker because it is slower, and offers a louder underwater tap as proof of higher speed. Speed and loudness/attenuation are separate; the loudness demo does not show speed (en.wikipedia.org/wiki/Speed_of_sound)."}
+{"prompt_hash": "ca05b35f9f666f9a347a53357a93b91d65a5d7fc8e594d7aee09282eb18e49c7", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Conducting (downbeat)."}
+{"prompt_hash": "6097497057134c6b4246320437742c3bae687582d71196d8f90257b947d34481", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Sports_physical."}
+{"prompt_hash": "2e48112bf370d6a4138e353a80af17007c47cd4075bb93b76f0062628b1ce73c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4528661cbda0258eb5f076831cea1b51988abd0175cb5eeb23183a63ff6ce89e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "333e0b1d7eae457a7a889f26de3a129adcf32a1aa8fd0d1c7a8e2f44e61b132e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3878f13ed4808d2b1548afee4b23f5a2e37cde59f46b8c99841ce5ad9564311d", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Bowing_in_Japan."}
+{"prompt_hash": "6bef24b643c80a2054bf93db63f67232fff19d8045921b1cb5b210a5536102f0", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Slate."}
+{"prompt_hash": "16929ce5efc07db1af256470ef6d0327fb01c9503d252039da5456d4b85d862f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Battle_of_Adrianople."}
+{"prompt_hash": "b5b278eb4387bdb230a1f1056f6e8df90d42591a25aa22c06c9eec94b0d36734", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34b089f180c4d99ceff0ad870eb9cc08e4f50732b1399a47c56012104bdb0c74", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Root_nodule."}
+{"prompt_hash": "f2e2209d4d84fd7baac1b227533a99eb4c1342a7e9dd30a2b228ff2200360287", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd71103f72d0059a41ea7f8c2e32044b42d8dc7e78e62ae3be8e3f7652e41d72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "545cd0cc5542ca399dec2ba70d2583fd0face65cd29586cb4aaff6eb3ea969db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e74a871bbcfdd1eaeb322a3f9887b4fd2bc505c5fa275a899ba6e1d2a9f8b59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f987e3941d460f186673b7f5309474578d1c0826ab1503d973cfe1e30c14762", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77e748fe78244df0177540603d5658ccb7261b0c5196a2296b93e50e67e42ec0", "verdict": "adds_false_claim", "reason": "The score block sits in an if-then that checks touching a cloud, yet the score rises for dodging clouds and reaches 17 with no touches. That code would only add points on contact, so the shown Scratch logic is wrong."}
+{"prompt_hash": "ee8e3247737a70221277dae18dd9bd3d986342a6593003a76a9d02526a9a2746", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Rust."}
+{"prompt_hash": "d7dcc307461c55c1ee1da57efdb751b2770a1e44647e5f544b0d0e2764e1c24a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Parliament_of_Canada (three readings each house, royal assent)."}
+{"prompt_hash": "aaf2df52dea193a253fc16455b0ab781f214ff5e936468dcfec1a7a5ae3b3213", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0480730556f1058b7162bc2bdbc7756d50a3856d16fb94c8e102cbc4727cd69f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce4629a3d96f223c1e765830b4fd8acfedc5e79581e4f50bfa4dc582f0b730f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97820a5952991a429b2fd0bc07b1f771582c1e7a4bb0465f385f8b33003e8340", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cdb76ef071da7e8f7a0e74dcfa536de96042c52fc33a49147ee093bbb5ed7afb", "verdict": "consistent", "reason": "uncertain: doctor's remark attributes a child's bent-before-break arm to wrist cartilage; greenstick bending is due to more flexible child bone (en.wikipedia.org/wiki/Greenstick_fracture)."}
+{"prompt_hash": "12d54b439d3e47cc97db04779fd5bc4b6509e9e4e0aec845f52148a2e78d89c5", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "a907ad84ca5e411042fd4863e287bdd2f29e9852d9a9f2880438694964bf60fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "638973fa437493cd9f9d0f2268f6297c364811a46ee84ecbc9ace6159f96963e", "verdict": "adds_false_claim", "reason": "States as reading content that pandas are nocturnal because thick fur keeps them warm at night. Giant pandas are not nocturnal (activity peaks morning, afternoon and around midnight; Wikipedia 'Giant panda'), and fur does not determine activity time."}
+{"prompt_hash": "8a25fdd817b47316be40d1e28b8501d827ea6187a755ed3e8ef6f3f5471b945f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9fa58c73fd0138a32e9dba339f5ad282e650fb5a71e68056b1f672933cb6ac68", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c47530ce5fdf08e6e5f36e16c244e5bddc118344157c570fe02d0a59d2efc9f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b53716d816c276b3bc06addd07a5153d120b1305f35361b361cf18cce7ddb3a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63fc1eb1b560964fb166a2d0be7e81cc7e5337eabb8005c43f973960fbc60958", "verdict": "adds_false_claim", "reason": "Narrator says Emilien's 5x = 25 for 2x + 3x = 25 was the error the letter warned about. Combining 2x + 3x into 5x is correct; the warned error is combining 2x with 3."}
+{"prompt_hash": "791543ad935e3ff192dbaef1575acf1ac87b27db53d57e7a6e3ce005a8fa7877", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5fda90c79bfd0bb495407d7e88e9e9965e5f5f487fa1f9b12c5e6437450ff5aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2790c449e5e230e2833de42a1ab8761e019c6ace9d6b24c6b483b6d789fa487", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f689b3f185ef175ba047d4a5bfeac8c36ffbd170187a0ae85617f8280f835849", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed53d45ca4837bb265907ead47a49ed42b3132f93e05548dd961573e2b4ea498", "verdict": "adds_false_claim", "reason": "Calls a two-to-one vote 'unanimous'. A unanimous vote has no dissent; with Karen joining it would be three to none."}
+{"prompt_hash": "ba51d9262afafb1c1d5124b388bfcebdc6f1d1ed6f161600c1bccda268461566", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "facf6cddb3e68493b0187dd08fe4b53d313b88b0427a9ab608b4a71f81f9bcba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e8419310ab0a3dc2ca7a914a244ebe9ca7607128dd5eea3856a0f38427a8fd5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d419ae6b83db7e009965dc57ce23d962d1df06ca0fb9042f198dd78b94338edc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "929beaa77606c0f56ae8d69ea2daa1158c7014174497da52b5e2d00435f68d49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b042fdc4e5f8a8102c0e924ef669d3ea366b599691ec54450acd33a2e8e68cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcad8a76d5b534fcb71fe8b3dacae980075c866c4a49a15c0a3611f101f8d7f3", "verdict": "adds_false_claim", "reason": "The 'corrected' statement ACB ≅ DFE still pairs B with E, though the marked angles are at B and F; a correct naming must pair B with F."}
+{"prompt_hash": "ffb633a7027a7d45ce345feabd7221ff01fbcff417f7ef5a5063487c5bfba433", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f54683c9c69b56f17d43012d83866f4f3fca8757c543ab4fcf406f894dc02745", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11582d732b3ca26a7a03810556e0a234396cbaf8f22b2344f1321b71edef8a0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "668c5737ba64d201b66896b25a448538cfce7d7ec12574d14a4df9ef2d4b96a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcb938b167a0788e52a98922adab0de04814ec9303176a93f5f1b959a33c19ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cf6db4df2e2cce340ef499188967237aee9154fa6925e4c9c449b01c5bec2ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58af50a1e85f269e3c929f1dceffc9ecd8f02c6ea387fd8eebd216ca2b5cd427", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a40997accd2ebee5d152859200ab16097c29e530434c51e7686ad99eb649e3f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9abf0712f0723e74d1bd116e6db322d25bae0774dca78c1bfa58019548078233", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abfa9b0aa3fb01019e0192391368ab16c9df48aef5c9b4b054eeae5dce73c9d1", "verdict": "adds_false_claim", "reason": "Graph example is backwards: the desert graph's axis goes to 200 and the rainforest's to 60, so the desert's taller bars would mean more rain, not less. The larger-scale graph's bars understate, not overstate, rainfall."}
+{"prompt_hash": "34e94d860bce09fa1d4165954fb5184391b8e5562902e17b8dfe643bba685c47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25d5a41e5c41d98f41e3356ec2355c48fe42cc077ead763369206f9ffad9d907", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4cd0d3457e0b44315397afc48a1f4533ca8a0fe23f877e1fc4a1f12b37a9e52", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dfb819d536e1a4b56dac4d0437467dac36d9e7334d6720ef6828bac0778a680d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cab1265b10994eaf1fee12e0490bc4ba6ed5d87578399711a96b49004560223e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7e54c9484749df9f761cb695e7f181c7b15c4b8706b4a58941878f209993922", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e6b18242cd024b9d3e8ed053dd9071c7532c44691c7084338eae0a9774d4853", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2608b0bf717998556bfa3f3f2f8c9291cb2d0a064613a344fce57631b158d34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "acf89d78cf7ef2668d1cad70066c896ea9ec0c44deefb5d2d1279702f2d0cea6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "384c59b2b41350041158352335898abd31a3bd508144818bedd1053e7e3fa426", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "967c3d0f5189e90d976ee6f8127a661ed7aa76f6a7d6ea5a5fac6dd0994fad63", "verdict": "adds_false_claim", "reason": "Presents 'knowest the sound of art' as a line from Romeo and Juliet 2.2 and endorses paraphrasing it as 'you know how art works'. No such line exists, and 'art' in Shakespeare's 'thou art' is the verb 'are', not the noun."}

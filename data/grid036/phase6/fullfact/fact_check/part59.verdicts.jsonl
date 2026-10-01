@@ -1,0 +1,40 @@
+{"prompt_hash": "1d635072b9cd82fa3feb0d2f14606a1932121759c26818ed40457ebd262e27c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40ede0d908d657544d93fbccefdd19d134d3a8d0fa19782c1636f1c6b3e6fa3a", "verdict": "consistent", "reason": "checked: ncsl.org/elections-and-campaigns/preregistration-for-young-voters (18 states + DC allow preregistration at 16)."}
+{"prompt_hash": "341156601316d618783d1bba62134d462ad4092582dbee3a343b2647dfb9cba8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e838e49c3e324409e6d457014480489d000f2793e323b854152ed83273d2791e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f599822d03bdcf05e09c46044a02d6ff28213c9caa3a5b9e28577b4912e1ae4", "verdict": "adds_false_claim", "reason": "Mariana, presented as the authority, illustrates the rule as one payment per child (five kids, five envelopes). Zakat al-fitr is due for every household member, parents included (en.wikipedia.org/wiki/Zakat_al-Fitr)."}
+{"prompt_hash": "a938e0718eff64d099ac2a3c3e63540120a2510ad76212aa978772c88b52fa4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2641bedce0f57a4fd0045e74674361be5f799a795db9e376900ad094664e4181", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34dc3973b620e3ccac05c1f966f46a71cace2ac9d7dc4ca8110abb5e7b6ba6f5", "verdict": "adds_false_claim", "reason": "The doctor says Aquinas himself named it the doctrine of double effect. Aquinas used the reasoning but not that name, which came later (plato.stanford.edu/entries/double-effect; en.wikipedia.org/wiki/Principle_of_double_effect)."}
+{"prompt_hash": "795662e5ba506d63bafd7b4fbb4653ed602ed39fc800746badf203aa19a8c51e", "verdict": "adds_false_claim", "reason": "David says a sandwich-shop dough mixer is legal for a 17-year-old with training. HO 11 (29 CFR 570.62) bars under-18s from operating dough mixers. The only exception is small countertop mixers of 5 quarts or less, and training does not create an exception (law.cornell.edu/cfr/text/29/570.62)."}
+{"prompt_hash": "37634cfcc045f676657323184faffcbbd37eb3e92c7f9603cfad87235cd3d17b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Schenck_v._United_States (anti-draft leaflets, conviction upheld, Holmes quote)."}
+{"prompt_hash": "68218615e721c4714f6ba52066ad5ca0d910e0520b45bae1257ef75f14d49622", "verdict": "consistent", "reason": "checked: gutenberg.org/cache/epub/1260/pg1260.txt (thirty pounds salary, 'I am no bird' line, third storey)."}
+{"prompt_hash": "39f5d6038e7ef21d5aaef6edfc38e930fef1869179f94f4dfb60a97121ee1c1d", "verdict": "adds_false_claim", "reason": "The narrator says Deuteronomy 5 has the same 'Remember the Sabbath' opening as Exodus 20. Deuteronomy 5:12 opens with 'Observe the Sabbath day' (biblegateway.com, NRSVUE). The reasons given in the fact are stated correctly."}
+{"prompt_hash": "e386966a13b5eca787f7b9196102229676f86414c4542b32a8668b8e5c133114", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38668cd1258b5caf5f04b3d59c2e9f817de2b1263f90a2b815598e9ffa1ec23f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbe04bb8020f44d5b1ed9c181d92a9f606e10f24b9abeff10e04e6c2e2fd3a45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f270b02ebc55e0c7abc8e9bd0e3c0aa629836a4b68205bbec745ad4fa61a49b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2988704275d35b367266024e2e6fefe4aed0f78775eeff8315f9b2c4449c277f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f77ce3ecd1c0f8579bd1fc9e02c9373b4d9e6d6cc1ce8d173ca0fcd754202dd", "verdict": "adds_false_claim", "reason": "The narrator says Brooke halves the remaining range each time, but the guesses shown are not midpoints. After 'lower' at 70 she guesses 60 rather than about 35, then 55, then 42 on the range 1-54. So the worked binary-search example contradicts the method it claims to show."}
+{"prompt_hash": "18e9cf8d748bd2e30f87ac55bdf2b2e3ea5729bf7cb29bd9d4a052afdb9e47f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f50eb6899974048e5d4cbabf4bcca64e1bd26b785ae28038e750d88b569aadd8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92342b81610a0437af1079262cabed3c7c37a57c0775bcce5922a6b15977c57d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bf738d171899aaa0a1a1c17d42eb1c934f5b9d7e71a94baf55e9cb9d73c9d4f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "306effc14942debc2c5dff122567ead45b4d8c3c68162c8fb2fe18f0ef073534", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c88cdb088cd5c3994607608eb6987de9301f200e38636775eac3436912e12039", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b8b1c5f94638309a44b88cc65dd561ca0794459d25876a6190678f034fae23e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "119fe45c69a4e400b8aa5ea4c4ec7342070a911acfa17f5d362be133be2a04e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e445c2897ab7de0c481b9664b4429cab18a7a271451e0546166d55bdf956ac5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5999d686d774b449b60ffabba452c5db6852d02b9bf57de3e38f2925e2c5ef50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2b5bdde3c163df5060d372ece8038c3e4a85fee60a6fc924c91ccd3a00c3925", "verdict": "adds_false_claim", "reason": "The story calls the first-night (December 26) dinner the karamu. The Kwanzaa karamu feast is held on December 31, the sixth day (en.wikipedia.org/wiki/Kwanzaa). The black candle being lit first was confirmed on officialkwanzaawebsite.org."}
+{"prompt_hash": "c0c4d2611725ec5ff82567292e7dc94c8cfd0326bff5514d2256a3e0a72c4ab0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "650753d115c06a926389d3f5d009dfc84631420b59d99e2ffd721fea88f8fd6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ca01eb3f9676518b0cae64ea6e921d1a5c125a3d3755ce6d94cc2358294913c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b859027be38fe0267fee792265314215dfcba2512ce6b55fcfbb4a73734f71e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c31393d05aaa456e28847ab99a19c5c3df37ff5dee2ce31fc06f40f2534b719a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "476b3e4fa5514a0b2b021f811afd10f6a2a015d4508ed68715b11bdc73500555", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "071cc5ea5edcb532b89145e238c407d9c3c217ddeeb004737cb8e2e1a2306c7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87229a995b7f7106e4049291b41b39f8b0ddfd51dd04b4c9c186dfcfee4207fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8551861360f43065d4ba58c590718aecdcca91276d636e69aea1da7a1c28fff0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12da9ec68b438fbd9dd7441c78a3041d55c4407756b11d6a244244bdcbbce1a1", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Violin_Sonata_No._35_(Mozart) (K.526 in A major, first movement in sonata form, second group in E). The work is not named; K.331 has no sonata-form movement."}
+{"prompt_hash": "0c260a469c3f40b2c22a1017c1de63359bc63ad9649f7201f8bbee24b4720260", "verdict": "consistent", "reason": ""}

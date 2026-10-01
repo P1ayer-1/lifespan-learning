@@ -1,0 +1,40 @@
+{"prompt_hash": "6a31e014cfb9d6dbd8ed359072a3240d548053bb92e9240f922c8cddaaf02428", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd22e884cf0915dff044dcc31f883ac7073d483cb1f16ed15979227e77f36c20", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "823c813f831ebc6526b96e559977c6f997844fda3540856cf835de143fd1f825", "verdict": "consistent", "reason": "checked: Wikipedia 'Multi-stage fitness test' (level change by double beep; out after two consecutive misses)."}
+{"prompt_hash": "12d1ccbf9958d0ede74e143af24fdcf8d3c800ce37e2a7d272f194464060feba", "verdict": "consistent", "reason": "checked: Microsoft Support 'Convert numbers stored as text to numbers' (green triangle, left alignment)."}
+{"prompt_hash": "4900641fe150e61910503daf076aa6726e8857bb13c054b923aeacbc55010f0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cfe62766688952bd33915a0f32451aa05618ccd9720aafcc55f16b3efea2d87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d11fe85055b85a7885de87b9f0434a72bf532c9c1b96521592f9e0e7214e263c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "713c88c403eb777ffa8f74247b83b029d23c8a20a3b53828e6e9f919dba349d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ac353d4ef7e779eed63280bde2f1e129c74f46f9744eed68f3b1578a9c290ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f5181033162ab8ec89b7e70b2f1cfb70b0cae4ff3bb3cb34c0ffb98ef5e666f", "verdict": "adds_false_claim", "reason": "The story treats PG-13 as an enforced age restriction that bars a 12-year-old. Per Wikipedia 'Motion Picture Association film rating system', PG-13 is a parental caution and does not restrict admission of under-13s."}
+{"prompt_hash": "3b64242f69618ca12019c21d5f6dd4556ec4878e242f0ac81f12070356fbe9e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f66d798ef8648cd4b48764d0db6c56db7744eacfe23a1e2878f77f2d983e79d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fa3ccb78299bed90a6177a8a66be6cdb417f6a6002db4c75c362315b5aa8cd4", "verdict": "consistent", "reason": "checked: Wikipedia 'Electric Slide' (a line dance)."}
+{"prompt_hash": "f13ae7ef03ca8656a3db92cb1c2d304767d5130a5dfd9f69ae895a50cc952be3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6ed5d621375d56bbaca4e24fac4acb8f51654a23958275606ba0fc92f6d12d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "675f48c9d35ebc5ad39081ebff26a77cfad8663281d5b6b780096de9b6baa383", "verdict": "adds_false_claim", "reason": "The story says the three 20-minute sessions (1 hour) were the same total time as the earlier cram, but that cram was stated as two hours, so the comparison is numerically wrong."}
+{"prompt_hash": "11b57d96ed8772df16e7fae20ae27f9a6228d819257de413d9abf2602a786665", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "224499012ef77199c15f48d918ebf4dc1ed3067e7e492da56baa534ee5f1e57b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e181a34dd346757fc72c82d4e184b9d32c8d7df8fe10389124a50a379254b1c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecb32fe230cc9e36a3e6e62a52147800e844187eb6188cc146367e917e50c4d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fae598a25841f6fe38afd3f9cd7ac50951749906833e3f4f6044a6345c32d159", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0eadbe8c9a384147b113cbdeb2a5cc8a13398b4e9d5948b57edff24d3fbee9fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae57a72e91da3ce1a57982215ff4aeb3ebf4e814cc77e8900e36d233ff8e2bb0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4ec67761668594c0820b079181b2a5b9b7fc1fd838c4dfbf5600c483f1b0c59", "verdict": "adds_false_claim", "reason": "The story says switching the pivot table from counts to percent of grand total changed which lunch ranked first overall. Percent of total is proportional to the counts, so the ranking cannot change."}
+{"prompt_hash": "3f3bd996ac391256550da3b3a1313b1b49200c06ebd761dfba6560d02f56cc80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f9e84f94fe4a425ee0c9f53f800b75a06c50e0ec8d6907a85cbb521e7a22061", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79f104e6c83ea05cae8e0175cc9ec78fe668bc3792603bd799e33f4287ab639d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82cf25f159fb3cb9bc5610e262ecbc62e2ccecacf1f4c1d599a497978e19835c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e12a8c7e0cb4fd6425892dcdb55c9b2ff4bcec3ccbd345bc99f48d383184d5c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71ca74341f7c433fc94263d0ba145384a6f4fb590ee8d1534b74a8243dfc3289", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d5ce2f4866befa9e54d167dd370656ec363484958fe5aa95f6ff27a14ffbc01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad941fae88a958797b76188ed84645dbfe40731b93d8c93ab2c6332b397d80d5", "verdict": "adds_false_claim", "reason": "The narrator says adding red to orange made muddy brown. Red and orange are neighbours on the colour wheel, not complements, and mixing them gives red-orange, not mud."}
+{"prompt_hash": "a3602827053e6ebb91e8736eeb0a70a9565de097e42d0db3432405e20a3a5d0f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1958ac8adfe42815c25dde592cd1c04ef1fc194c757035271cf360a457d7897", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cee42b4b6cbccff59f08078dd4c5b1b96d86f3001f0ffa0546d9ff3e7ffae582", "verdict": "adds_false_claim", "reason": "The story says that after 20 years at 5% the compound account is ahead by hundreds. 200 x 1.05^20 = 530.66 vs 400 simple, a gap of about $131."}
+{"prompt_hash": "e4065e6f1b7a1d706e7ad1bfb7628521cc2126cc5c7db6f473412d4f6b81a1e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e830b49357b4e84d50720649ad5d64faac549c94e3530b5db068c6a027a9b12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e21bd5d7e187f713a72ff2f754f5ef4186410c3bd12c557cd35d550a0f806405", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "350c99175eb812ae8550c323298ebded8463bd488a4770a199dc52ad73228d51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34a69a5423235661b3d2c8302133acd5e4f1f840eb1753bff088e24575c30eb2", "verdict": "adds_false_claim", "reason": "The pronouncer gives cayenne's language of origin as French. Per etymonline 'cayenne' it comes from Tupi kyynha and was only later associated with Cayenne in French Guiana."}

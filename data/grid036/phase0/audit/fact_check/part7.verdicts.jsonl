@@ -1,0 +1,40 @@
+{"prompt_hash": "dd03fe6a4d60088b5fc81a10ab07aabaa11772d2bc32e208648556de2e1d992d", "verdict": "consistent", "reason": "checked: 20 primary teeth (en.wikipedia.org/wiki/Deciduous_teeth, fetched)."}
+{"prompt_hash": "335916cec9222955e57d90e851783e53174597f03c4d535765e7e5f3eed451f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e33dcf7921015273f8c10b267acea6c7479db38713b6ccee4ad5551557df3ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89ccfbc3f3d1a19b442948aa41f208dd2ee5ae2839c4b13abcbfda642752b799", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6bb8b13113e3921687c7c07213ec91d430b5c3259a0cf0055f2fc8380980ab8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ca5c27bc7b9aaba5c1188f7d72037b4f12ca42bc1faa3a5b0aa1c4cacb4019b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ad0036ab37780ab1b5a3e8c594f3465273a1a86b260ee80b4d041d02b783b5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ca79603a7b903399d8aae5d064422ad64aa054651e1560184d86026651ae3aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cae490fc12c014cd5198f3a4d9f35ebc6092869585b075ce1380d9e41da48f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94fd2e2cc8af546a840be48345387db2e7f8889b6bec67ce7265123a02d414ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f0741cda9c7b31a3f10c0281bfc91e39c62c8fbfaaec9fe61b82aa4e7f54de3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d9eaaa8a25be03bbb11337bfb02d5b167c09ed6384b571d75383737ffe4e35e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79506a86b4dc5189f71c93f7fd0b932e7dc7c44af2f36f4c53cd50076a7766db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6dd1ab190f337e82bbd5432ece01f41ded95fcc1805dfa9a706bc5703e5bdedc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db1c4acdd4f1b684acaf753ca32e19972fc7207ec37c53a7d05455a21507aa0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ba7117c30ee88315224290f77ff227c8c14c7995e09b3d8e0519c011e90b6ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "143cf62bc0285ce5acb975e68eb29992016a29a78e0f29913d59ab50e83fce26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7af6583e74b6255c4073dd09e8377048a1c611d2724689514d688acc797fc6b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc92111d7af20d14f5214a346125745109e213990f84cfa70671eb6f61ae0406", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da704ca395c019a1cc115c696c01721378e75537ddcd8d831724e4ea584f1eb3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67706a9617d785933d2b643e88f6c7f1bd4c46f51d2590cfb7a5d7f4fbda112f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c469230f244f4ec4b50532bb14285a16d447ed631cff4027599836e2ea00dcb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b74b71e1f6082d8491cc41b8447c790b2544d5a572d23d00d60b4fabe8c9ce2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ec06a888c71de4ab87dc9e8450389ba33b36d80dec01d5dc54097f403fe9883", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9bfcba2d18552cbf1f27f5b84eb2dddddce111b80fcde5f6b7e324460d18808", "verdict": "consistent", "reason": "checked: Bismillah = 'in the name of God', said before eating (en.wikipedia.org/wiki/Basmala, fetched)."}
+{"prompt_hash": "b38975be1e7240ab6d464cb19cf998586b5329832df5cb3789b11b57bc69fabf", "verdict": "adds_false_claim", "reason": "'Hailey watched the team run around the pool... So Hailey ran with him.' Running on the pool deck is unsafe; pool rules say no running on the deck (healthychildren.org Swimming-Pool-Safety, fetched)."}
+{"prompt_hash": "2b77b10fca8b673ce55b8390a4eb72916da00502dfdee7f92c3e1b7ed03cd92d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df5f2cd3c48284e4341956cd7522107ee55108d516eedce99dd59bbc77cb87b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db06a966ce74ed7d5ad90fa967b4e1b9a85fcc09974e496da36da1688cb27769", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d01a691b14d4fb887c94da845485d76c19ec0e70ec2788280c51ed697abb28a", "verdict": "adds_false_claim", "reason": "'Then came a little cow from her farm set. \"Animal,\" she said.' A toy cow is not alive, so by the story's own rule it is a toy, not an animal; the sorting is presented as correct."}
+{"prompt_hash": "ea10bc113306d1e4a21f60d29edc40f4c8552567b1e64812085d4e69b091d7fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8405e7e4e19d8381b8dbba005071e9406959ef2a72e182e8d76adf6f21afb403", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1a6d8223b925b98589153f20ef559680ea8d2b9393d10ebfdbe0763c3b832d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32e10dfe4fd1dd9b77fb02328f9075da1d1575cd88d1cd4e77e5cad62b505468", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02a71f9f27e9e3bb2d7d86dd63f833e2edf424e6c6229127e9ce56ea3f33bfed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0a0339bddf831a6d9b43ee92ffd439112031dca647706facf917d888fb05b53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efbfe78e16b6530b217d77aabf1850e8fd1b3b5174e19a1a7214e4245344df9e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46b87ef0c06f993fba49266992ad7cd1663a69aa9fc9d662ef86ad21e654951f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f1c87cd16fea5b13fa984f99ce82c33f4849a1af34c4486d2a089b197831ce0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71f22508e997d8d2ed735e0af3ea51391fe4b6c87ebf048a0ca4eeba76b1f394", "verdict": "consistent", "reason": ""}

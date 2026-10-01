@@ -1,0 +1,40 @@
+{"prompt_hash": "1f8ed10640287b7afc164e6bd80342a37c040683a66d19772d178cd18702804f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4dd3bb6403e29fb5af69f4b5c46d911057f83518a8dc3c7fe2d7e3db24543afd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ccc30d3b75d80735ff5689eb59675c74515cd70c51c35934d69464bd072257bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cdbf92e1374c5d0b1085b12eb91963695ac72a23ce91a9aacb8816b0c359ef9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce9cd40603a182581cf22d4018d537048c4c73bfac3e94216be73bd01b5d6458", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0bfc352e48bf0b5d78c722b4323bda3c8155dbea4ef9294e6df42d81ab57da0", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Piano_Sonata_No._16_(Mozart) (recap begins in F major)"}
+{"prompt_hash": "7d9ddabf1b6947e4358e82de168a432d0d9ef8f3f6ecc7f8961041c6dbaa8fb0", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/TinEye (launched 2008, oldest sort)"}
+{"prompt_hash": "43452ef6b4814c246e877234675f5df19a3f8e4e80c6c34aa3367dbdaca0f8ee", "verdict": "consistent", "reason": "uncertain: story implies helicase-opened strands are used for transcription; at transcription RNA polymerase itself unwinds DNA, but the teacher's correction plausibly refers to replication"}
+{"prompt_hash": "6d0d419cb56b7de01dcff8329f2abb80ee976760d497ee8c3a61c7a1e30acac7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c453e5aa26dac70436186abddb90f4da80c18800082faf9504255039d4d049a", "verdict": "consistent", "reason": "injected fact (CDC 7% typical use); checked: en.wikipedia.org/wiki/Combined_oral_contraceptive_pill (typical-use failure 7-9%)"}
+{"prompt_hash": "9f8e19ba01ebb3ca5abe52494b3567f7e4c2177587cf4e9ccd37ea968e6185bf", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Qingming_Festival (April 4-6, grave sweeping, food offerings)"}
+{"prompt_hash": "81c08f93b158417092e490acc19b01ba7cce1b3e8aad3ee5598340da777d17b0", "verdict": "consistent", "reason": "checked: bls.gov/news.release/union2.nr0.htm ($1,404 vs $1,174 in 2025)"}
+{"prompt_hash": "65b4b96185486c032b04d82c1562b0bdbcacbe926aff94aa2adb4a954c172588", "verdict": "consistent", "reason": "checked: rsf.org methodology page (180 countries; owner interests in economic indicator)"}
+{"prompt_hash": "5f7179873b3f1702f672d448d6ae30e56ec3fe7c157055d6258a26225b4cdcde", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3bbf6a9c0560c5eb0ba68d5acbcebab5be1a2140a6280678d8a42c5a2929469a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5460167f895efdbf83bde77fc84dd3bb524d811ffc5974c863920eac12a2cb16", "verdict": "consistent", "reason": "checked: ocp.ldeo.columbia.edu/res/div/ocp/gs/ (Seager 2002, QJRMS)"}
+{"prompt_hash": "0eb99e8a68de48c9194a9f5f389a726a7b9cec8b4d2b9c3396a219f8fea143bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49edebba8aa43d11e68f161263c4bd060a8cf8e91fdc7502df4e821060abf21f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d09600b44ebf610ad1b9dec988fd6991f0d668d5d5b3d61b24b472efda5d0800", "verdict": "consistent", "reason": "checked: news.ku.edu 2018 Hall study (about 50 hours to casual friend)"}
+{"prompt_hash": "d219311c66224fe6b88265f0844a7c6777fab12324171c332ba64aec6cb5e328", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Jane_Eyre (1847, Currer Bell)"}
+{"prompt_hash": "2e315e996798f7b668519d487aebab00166df553a9e21ffe48237a7f24d9c661", "verdict": "consistent", "reason": "uncertain: teacher says to italicize Ibid.; styles differ (New Hart's and many publishers use roman), checked: en.wikipedia.org/wiki/Ibid."}
+{"prompt_hash": "7c1ce0b9b0cd4ee29f3985507b8d08a004d96dc6444b7eb777a43b89285e0d32", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Power_posing (Carney 2010; Ranehill 2015 no hormonal effect, felt power replicated)"}
+{"prompt_hash": "fb6e365ca074fac4a7d0624db17bb78f10651eccee54018b4699d0cad3989df3", "verdict": "consistent", "reason": "uncertain: welcoming fire placed on the evening before the third day; Obon welcome fires are usually lit on the first evening. checked: en.wikipedia.org/wiki/Bon_Festival"}
+{"prompt_hash": "4bdc857e413306643cce3ecd523ef28ce801849ee626f8697b3355aa6edf1bef", "verdict": "consistent", "reason": "injected fact (USDA danger zone, 2 h / 1 h above 90 F); story arithmetic correct"}
+{"prompt_hash": "3fffd656494a12c1a1142f25288b9e41941b2472b94716420f915f5ab99e297f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Limits_to_Growth (1972, Club of Rome, MIT, World3)"}
+{"prompt_hash": "d8fdd3b501a1b6aea76adef2849cec586d08546af89b5a2ed962ecc9e08e6e38", "verdict": "consistent", "reason": "checked: hapgood.us/2019/06/19/sift-the-four-moves/ (Caulfield SIFT)"}
+{"prompt_hash": "3f9c105162446dfdd99fbaa5aedb64903c62bf942705633a2e76a0f4d7cbf871", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3330b5364f662b3e5a708fd8262032d6f9ccb618883ce4ee17ea031d732cbc69", "verdict": "adds_false_claim", "reason": "The narrator presents the withdrawn twelve-child MMR paper as an honest small study rather than a lie. That 1998 Wakefield paper was found to be fraudulent (BMJ, 2011) and fully retracted in 2010; the Danish fact itself is stated correctly."}
+{"prompt_hash": "f6165417ffc6c9b83824f894f8c1acdfbdda3ba88246a22d482b0ba2918b194f", "verdict": "consistent", "reason": "checked: oxfordmartin.ox.ac.uk/publications/the-future-of-employment (2013, 47%)"}
+{"prompt_hash": "9d1688463ba60bdf81f46ed450dc1718b0f6f430943fff06230b82d63a18b9c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "706d22355f790e5f22ef11b77ee526f93316b56ecc18fe888308a3c74164ae88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65cc1f1ca6a2f88500d2a85fb53b18399db583fc9b5697aaf2fe918e343619fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6162a8babf9c5de78adab64a67037d7466b1e2d45d2be8e733005e2ae504ee57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0d321d45098822bcf9221a0fdd156f59f1a795910bccbda3645250902830509", "verdict": "adds_false_claim", "reason": "The grandfather says captains steered around the Gulf Stream to save days when sailing to London. Franklin's chart was about ships sailing west from England to America; merchant captains crossed the current there while the mail packets sailed against it (en.wikipedia.org/wiki/Gulf_Stream)."}
+{"prompt_hash": "d7867a4f62697d539c010f71108120757f58030ccce57634c837a4b82bcd8689", "verdict": "adds_false_claim", "reason": "A learner who has not yet passed his test practises parking alone on a public street with only a teenage friend, and his father's note approves it. Learner drivers must have a licensed supervising driver with them."}
+{"prompt_hash": "23ea3eeb54d7bb0ae6dc954f89ff0508b8f8364955d88b230451d883b9641f1d", "verdict": "consistent", "reason": "Tenant Fees Act cap confirmed at legislation.gov.uk/ukpga/2019/4/schedule/1; story's 1,035 comes from rounding the weekly rent down (exact cap is 1,038.46), a 1,035 deposit is within the cap"}
+{"prompt_hash": "4bd8dfcd48036a457cad67d85ec3f001449919ff370422b53536cb15a73a0457", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb520a030f4b4d37368273adbd0bc25402ba68015850c539aa699dbfa7e6b5ad", "verdict": "consistent", "reason": "injected fact (Wulf external-focus research), stated correctly"}
+{"prompt_hash": "5b690729656e45931c205f4b92df54c63400f91de2a6080f8aeeede1d9476ee5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18769ef3ff5627ad2a6b6b24d4e51eb0552d49bf1326ce34234faa72943bc377", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Voting_age (Canada lowered federal voting age 21 to 18 in 1970)"}

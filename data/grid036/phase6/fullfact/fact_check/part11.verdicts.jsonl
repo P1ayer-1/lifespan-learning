@@ -1,0 +1,40 @@
+{"prompt_hash": "f7d1655c37c8270ade011a5111ba952b215952ffe4afc5e1d236417b248bbfcd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44f8f24f472bdd80fb89a26f85602aef8d8a7dca62c4adf65e0b0e3630bfd8cf", "verdict": "adds_false_claim", "reason": "Story says Eid moved from July last year to May this year and will reach midwinter in a few years. At 10-11 days earlier per year it shifts about 11 days a year, and reaching midwinter from May takes more than a decade."}
+{"prompt_hash": "7b3687dc0d20c2febe399cf710db117e00f08db9c1435478f2f79dbd4a32305a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44ee4dc4f4b235b5879329b7d424b6a65041ae27986b60c47f57f9a2223f9a4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce8575429ae08aee563600aff50155d801a131a6b3c51e948894469c9f0478c7", "verdict": "adds_false_claim", "reason": "Ella's check uses 200 V and gets 100 V/cm, and the story accepts that as the per-centimetre answer. The problem has 100 V across 2 cm, which is 50 V/cm (5,000 V/m)."}
+{"prompt_hash": "dcb49bd2b2165f202c12d2f099fac99f94f9e78d1a38204b24637992037f5537", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f95bd1247673a82e3feeee21f9c8555a9e44e36f149cd487ec84ae1266fcedc3", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Cocoa_butter (six crystal forms, form V gives sheen and snap)"}
+{"prompt_hash": "2787f1313009eece25456f6c33a4e0c6078edfe11cf9335010af681e6b79a7d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57d8a90130ee96d5ad4a4b3fd04bd1d84bd4d493d04b39b31062465a16283dd8", "verdict": "consistent", "reason": "checked: litcharts.com Huckleberry Finn ch.16 (Huck would feel bad either way; smallpox ruse on the slave hunters)"}
+{"prompt_hash": "ca3510644d7999cbbc3a469684eb50da6eae783aea673d397966ae52d7c4d9b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3eef83af2b53bbdfd25acf41a0c0f10c01749a500586d4751296fd78c56bf51a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "535f3920304287986e10ed77f6ed3129a1fa814cac2f9141c5dbc69420c066be", "verdict": "consistent", "reason": "checked: canada.ca GST/HST calculator (Ontario HST 13%)"}
+{"prompt_hash": "6f61cb97066743ea9535d283e95e5f7da2fda6e75c7c3b3ddee4ac0ff97643ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a18e5b8974919732931fb6c2290db8e06dff61cc53d8e3ca6ed469f5d9d026ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a26673ec5aa70fecba60b328c8fc1a380208f027b47a99a295b666c8c0299fb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "319f1146ad233346f7bd0ebf4af70aceef09f150335541a80d6ff1909f424698", "verdict": "adds_false_claim", "reason": "The grandmother and father say rice goes on the east and soup on the west. Standard charye places rice west and soup east, with fruit in the front row (en.wikipedia.org/wiki/Charye)."}
+{"prompt_hash": "6606cc6991ffa77b49b442ab68ac6992e544da08fbddb1c3dd0e5c67daa564bf", "verdict": "adds_false_claim", "reason": "The story implies a card payment about 10 days late will sit on the credit report for seven years. Late payments are reported only once at least 30 days past due (experian.com 'when-do-late-payments-get-reported'). The uncorrected claim that a co-signer has a fiduciary duty is also wrong."}
+{"prompt_hash": "e23ace6314a05d7dc1151b930f3469b50e509f58c9abff3103d98f4d65a0f791", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "460fd7a83b1c660096e8858cfce4f002279454ed1c91edfbf738f2839bbad342", "verdict": "adds_false_claim", "reason": "The teller says the first $200 of a check is typically available the next business day for a new account holder. Reg CC's next-day amount is $225, and the new-account exception removes that requirement (law.cornell.edu/cfr/text/12/229.13)."}
+{"prompt_hash": "91d488581103c4dcc7180407731195308215d5468816378598d9fc8fd5d67ee2", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/IHeartMedia (about 855-870 stations; 'a thousand, more or less' is acceptable) and Telecommunications_Act_of_1996 (national cap eliminated)"}
+{"prompt_hash": "a1f33e9dbb7dc8b30e13a5a6cfa1637a38bcce75af89c66a32fe52dc6d064577", "verdict": "consistent", "reason": "checked: gov.uk deposit-protection-schemes-and-landlords (30 days); legislation.gov.uk/ukpga/2019/4/schedule/1 (5-week deposit cap)"}
+{"prompt_hash": "2947ac70c04153d1670261b3336e816d018ef4d008c7b74c9a11c8cbd05f1cf0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b2d3148a806357ecb81323f3b922fe036706531e498db8c54580a5433989a35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95130507d3d2319c65ae9c0f8bfa3e1c464ae3244952db24acd174853b35cf67", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4877e7502a81158b8cc910217ddf8b8e2d829b26d827fe37af76eedb4dd1a1c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb1e5e293f00469b3007116a500087bb2b6ecd30c92c3a5d2be159999e5c3e82", "verdict": "consistent", "reason": "checked: apstudents.collegeboard.org AP 2-D course page (portfolio assesses practice, experimentation, revision)"}
+{"prompt_hash": "796cc58e81d2aa7b306c0a7c001c389b893bfd198bceb934e112a9376ff0eaad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84471715b0c99d93d21a7865d74e48aa90453adae054ea149c87ce682f130a76", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d31ca277fe57159ac9de4087fc9a7d473a15bcc0652255265a2be7f7af5f374e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Newfoundland_(island) (46.6-51.6N, so London's latitude is comparable)"}
+{"prompt_hash": "9c2239bba44552c8561af22e407f2c14a03138e2bc7a04597f76c11da9627cca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0cf84dc880f3f2491dc4dcb24e3f0cd685c98451fa28a1da4ecabbe2dc03aea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e122bb7ea3bd455dc524c9e94dca123b2fcb1c7b78deae7d304a6c74fb40cf5d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef000faba058abee60814dfa7f82bd70ac309cdc2fcc34cd6281ee27cfdfe62d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9079a467fe19da1742a3bbe611d073278b02db200a5b8a6a902f9b4bd0527d1", "verdict": "adds_false_claim", "reason": "The story applies the whole-sample ±3-point margin to the under-30 subgroup and endorses 51 ±3. A subgroup has fewer respondents, so its margin is larger; the ±3 applies only to the full sample."}
+{"prompt_hash": "e94bc7687de166ee688a23445cc0d826080339aafd71192907e2618b77714974", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd13a9297039061efce75cefb4973600c74ffd9815744fca3136ce327d2d4d80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02468a61a90398b591414afa840e1a90142f6e00322a91feabd79f97556a385c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b97d7363192bc982b939165716ec45f4e75713528405400183737b55381d6904", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Schenck_v._United_States (WWI leaflets; test later narrowed by Brandenburg)"}
+{"prompt_hash": "909510fbf774268b654c79f64b36fd44289981be5730aa0c1eb33a46cab98ea9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b21fd238c7d8f39e0fd1edd1bfd62e0c09b38010e35c613500b8c34f52f00f21", "verdict": "consistent", "reason": ""}

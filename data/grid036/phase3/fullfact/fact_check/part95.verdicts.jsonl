@@ -1,0 +1,40 @@
+{"prompt_hash": "9153500555311c3dabb0a877ab8cec2c1217ebdfa32029023b595047fb7884be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cdd791fdce96eac1bbafcda5265e742c756106ded96c436466c72c31e3861ee", "verdict": "consistent", "reason": "Treaty army/air-force limits are the pre-verified injected fact."}
+{"prompt_hash": "902a43ab0ed1607a3da395eb11acc39c8131aaa397fd35cc1444adc990e5ccf6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ebe0b9882406f5df702a691fa28570f19b6bd0e75f90a082940eb7a482cb0b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0dae1b28df13e23b9491cf7d389757493fac543734658ef48874ae3e02c2bf0e", "verdict": "consistent", "reason": "Presta nut must be unscrewed for airflow either way (Wikipedia 'Presta valve', fetched)."}
+{"prompt_hash": "210f8e9f4e9542b6153d17324140930d9e9d814c1c56bbeabd39acb99bb0dd69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ff367e448c6ec3a107cab0a506ac284bb2c4b7e7a3e1e52dc7b8042e9285343", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3c303a2c978d50317b445bd57efff86f221b3dc9ab7a184d3c293eab3c972c7", "verdict": "consistent", "reason": "Hall 2018, ~50 hours acquaintance to casual friend (news.ku.edu 2018/03/06 release, fetched)."}
+{"prompt_hash": "5e105ca46f3121c93e10d23626fa329e97e2d93d06ea09dd76bd183607d479d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad5092995d89052ba314325a3cc8acd04af33602ccd6f5b3b6c0e2f57a85a895", "verdict": "adds_false_claim", "reason": "Story shows a trial-division prime check of 9973 taking minutes and then becoming instant just by skipping even divisors. Skipping evens only halves the work (at most ~2x faster), and checking a 4-digit number takes a computer a tiny fraction of a second either way."}
+{"prompt_hash": "a83c123e675403631a9e1829e5be9274d6031a619c2505b5bc026cf8b2c4fb9c", "verdict": "adds_false_claim", "reason": "The punctuation fix only lowercases the word after a tag that still ends in a period, and the closing example is called a lowercase continuation when it has none. An interrupting tag must end with a comma (\"Stop,\" Mom said, \"pulling...\")."}
+{"prompt_hash": "f2522fcf5b6dd0a52d557212f11c321495435e7850a9ac62d3031a6c78ffe59f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca82af1536ec36ea871884f6ed4f3d3c636ce9e2aa664866a93393285bab228a", "verdict": "consistent", "reason": "Panic of 1837 began May 1837, depression to mid-1840s (Wikipedia 'Panic of 1837', fetched)."}
+{"prompt_hash": "5a34564d52358c6b8aafbdfc7e1644b4cdde58aeda0115bbb553dfb2cb47595e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "593de3599c95daef9ab53b445530df087a4648a269887ffa79e49376036b4b72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a44f5d83abed2a4a8ff9070d80e18c1cf723375d67a866c9eeca4be606051fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "489e34527fe457b89369eef9ca7b6458de5763730d338b239e262caee167489d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdc76a842749db78b9eb80d8dc727993e6ffcdbe4b1eb0818ea30dc8884241cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7dc1a75b4c4e37e2cff3e378f4d91f7a689b151deca69323f2b42888c4bf5706", "verdict": "consistent", "reason": "UNDRIP adopted 13 Sept 2007, Arts. 33-34 on identity/membership (Wikipedia 'Declaration on the Rights of Indigenous Peoples', fetched)."}
+{"prompt_hash": "f472296d1e72668880de4690147c07d9e9a2432fbc91dc108355549c7d681c0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b45447f0856f627a0063eb24cb6ed3dde654118dc04de1841febfede7f263445", "verdict": "consistent", "reason": "Passer rating scale 0-158.3 combining attempts, completions, yards, TDs, INTs (Wikipedia 'Passer rating', fetched)."}
+{"prompt_hash": "218c66ad73b37562db8d1d385d9c232cafa20b3ad39b8dfd11a91993d6330984", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93801c1698f882b4e08e6284a9c6c73b16a0570f2e45bfe631a345f01b037bed", "verdict": "adds_false_claim", "reason": "Power goes out at 7 p.m. and returns around noon the next day, about 17 hours, against a two-day estimate, yet the narrator calls it 'twenty-two hours early'; the correct gap is about 31 hours (or 7 against the 24-hour freezer limit). Freezer times match CDC 'keep food safe after emergency' (fetched)."}
+{"prompt_hash": "0147e3cf81b8ba0902d60bfc8091c131cd630fcf7df1488c7f3e6697df102d2e", "verdict": "fact_missing", "reason": "The story names melatonin and blames blue light, but it never says that screen light reduces or delays melatonin release; the link between them is only implied."}
+{"prompt_hash": "310ca997c1d2d638d20407c58532f71307b0fb02a1dec7810f5455d886ad4859", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c20e5f82d6ddd33420e25765095d32361af6ab30ded54ff1d679c5faded16677", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "090529e268af5649aa22f9ed3244a0275c5e5e417eb7e5673ad026ec013b81e1", "verdict": "consistent", "reason": "VTA to nucleus accumbens pathway; nicotine raises dopamine there (Wikipedia 'Mesolimbic pathway', fetched)."}
+{"prompt_hash": "784838c60e5034f6abba3d6836ad4e3f3fb02547e2a02ef1396066f706ad5654", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2a8b8b9e73a1b1645398425015d66427d61ce356250ba9eeebb2772b7102c5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4757447adeb10fd91da2ce1ecfb2a72234ffb63474d6c97f285286234c61a017", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "991cf7cf6d0e6c14df22a3c699e9e7e163195062711abfa81c3723fda6d7263c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "591195e0d3bbf56fa562ccdd3d1dcc66c25e0407ad20e5a85229969e4c627602", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "029d3eceb684f9b93aacd6f661276f98f7e7081a8febe16d5bd120f040797c1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "588031f4579ff3cd28a13bbe3c42a0f9acafe54109ac873901e74621f1d19c4e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4dd5c8cd81ed4e6a3c83bcef6f685951e40f7665f72806163bf65ae98fa7c3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9be59b4d78893ad622920e4032d6febee048d8fe32562432451b9ba221d1717d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac51796048bfe93344dd81bc0c1e525234c7fda0c4cf40aee346e6af38ee24b4", "verdict": "consistent", "reason": "Weak neck muscles plus large head make shaking dangerous (Wikipedia 'Shaken baby syndrome', fetched)."}
+{"prompt_hash": "865108af8d61b452242c9975a6a19883532cb445c32e36a736aef9f8618851fb", "verdict": "consistent", "reason": "Charter binds only government, not private businesses; s.8 search/seizure, s.15 equality (Wikipedia 'Section 32 of the Canadian Charter', fetched)."}
+{"prompt_hash": "442669dc1bd0a76c6c56f9df78f81f8785e137103f29a499369db6beb4723f6e", "verdict": "consistent", "reason": "Smith's water-diamond passage, Wealth of Nations 1776 (Wikipedia 'Paradox of value', fetched)."}
+{"prompt_hash": "079d83592dc9568d651f84321bf21f8d02f23e2b30ea8dd214eedbdcdffab035", "verdict": "consistent", "reason": "uncertain: the story has an initiate memorize and recite Japji Sahib herself at Amrit Sanchar. Standard practice has the Panj Pyare recite the banis, and requirements for initiates vary by jatha. Fetched Wikipedia 'Amrit Sanchar', 'Panj Pyare' and 'Khalsa' without resolving this."}

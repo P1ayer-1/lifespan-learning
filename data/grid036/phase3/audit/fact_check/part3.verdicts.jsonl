@@ -1,0 +1,40 @@
+{"prompt_hash": "088ef9cb0af3106807970beb7cd505475586414dad626c7be6b32ee63017782d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f0ceb02cd4d993f8fce540016808c2eac4c903c8d438afb340ea4419b1a1e29", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74849f559b75545687ac5c4f01375bff04b246739da1ce3837356ffb6d2f3b2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd50687d71f7bed8036561c2e5e63e3a98deb6fdaef4efe63d719a03873f070f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a9411fec58715e757b05144b7154f774d265a3c2e92f55c676f32de052ef17f", "verdict": "consistent", "reason": "12-month First-Class forwarding confirmed at pe.usps.com/text/dmm300/507.htm."}
+{"prompt_hash": "ef23a3009f62b0ba6583bb62f207be5cb19a8409994690282a33984fd15008ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d046559d679bdbfd9234951203850b40b9ef67500f7922d554698c0952c6e64", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3eecb2995ee5cca1dcb5bd85d3d465723e1d91f53f6f02cd6f658e8ba92a391", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec0ee7a76c5c93646be87bd04b68046c11fc21741fa7999cc1e2bb9c18012e6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b22887c1dac465e3095d92ab63520e9ebf301eda3c42ec3239d98be9b22aede", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "363c3de70b2c828920a1289acf216a11263f06577ac4e040f244abc2cd473164", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6341d08c0c6cce0b60d58dd9e3cde2dd7444f8a89a579fc3d41e939bc6c40b0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f5c074aba9b986a966db10c7a5a9c768267c97e09971dff980d895ee1d1f7fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f5aa3a2a37107977a2a67a8a9a2b9d829f11c73816285d8a620c3acb9013fbf", "verdict": "consistent", "reason": "uncertain: regional bise counts (Paris 2, Marseille/south 3, Lyon 2) match common accounts, but no fetched source gave per-city numbers (en.wikipedia.org/wiki/Cheek_kissing only confirms regional variation)."}
+{"prompt_hash": "605ad40166fbfe4daf796f361c6e7a82b023728a411913683c18b473f3fa2472", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "35f39b80c611f735a72282b95be87386f7a7566b7216a00db8ad448169557212", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "86901f89b80dcd78366eee7ecc9cac1677359ec1f526a6a8e571dd7a819d951b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c0f2df70d031c3a54526a077e8f37a9610a282fe78338f6043dde9328a5b571", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21267ad54f45e6b40febbfc79a1d5044d194f88bb0c3b4ec94137b7b3644d565", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11c549e367e130a9e03ebbe48533c4649b507dc89f9b46148d746a96d5454501", "verdict": "consistent", "reason": "2019 eight co-champions after running out of challenging words confirmed at en.wikipedia.org/wiki/Scripps_National_Spelling_Bee."}
+{"prompt_hash": "18bc24b2df0a44d697b452518da0886de136e58fb83ee652f93364298289692e", "verdict": "fact_missing", "reason": "Story never says the higher octave note vibrates twice as fast; it only says the two sound like the same note higher up and Ryan vaguely wonders if the sound is 'doubling'."}
+{"prompt_hash": "fc1487e164f99eb9acb6ea183c79bc55e8038234512727f0048fc024357131d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "864ed8ff14820472fea86423a71e20d1893ccec8bbf1a31b822ee496ce208f35", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa84098cab32755d0d0ca3f26c5fd6f96774b475ab35f98e99e3608f6c94e3c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ddeba9dfee5b4058a41014605c0ac4c5c14f76fbffa32b0ff3b6b22628b35de2", "verdict": "adds_false_claim", "reason": "'Abdullah's post, she noticed, was only an opinion shaped like a fact.' 'The school is closing the trail on Monday' is a checkable factual claim (Hannah then checks it), not an opinion; the story mislabels it in a lesson on opinion vs checkable claims."}
+{"prompt_hash": "37b8e420102a944c0cbd53d88bae385ed28ac4e9b65dfdaec464073339118752", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25a99a221a8cefe1d40541ac3dc35b3889b43cad7ee9c5e284222c8a1043b9d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e739dbc6ad7c625885c2bb4f998af5f09bd951486200b1c71582c2bd98b1990e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84eb132af9e86f8740a4b85b0123282acd1b3ec76cfff9c588a67d0f948b06f6", "verdict": "consistent", "reason": "Fast from sunset to after nightfall next day confirmed at en.wikipedia.org/wiki/Yom_Kippur."}
+{"prompt_hash": "6b3b5ce1232e0a209733fa6821025227f338f9441d163413ba789d0922ffb6e7", "verdict": "consistent", "reason": "uncertain: narrated code 'Number equals input' may lack int() conversion, in which case Number*i would repeat the string rather than print 7, 14, ... 84; narration is too garbled to tell."}
+{"prompt_hash": "c8e9138eb4ed7832c5f8c27a38a313492d46ee68248f9fe0b605bcb43f5eedd1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f774dc0ed277fff9720738c690105b3b5b1dc6deb0b8c529d17e021a9af095a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5247aced0f7a06b4768b65b7da97469ac8b3567393d319f655ddc9eb8adf9f05", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c110239c215407fb6f8b40ab9b9a0c514cedd90cea386cd02dcd2b7ffc510b7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d21c8c35d9e99f86b2f9d838d7f0778b98bd741cfd6b0e22335b10c556101b87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4bda645c78ea0e5d7bdb7bd65664a3d300374064ccf8cd27e82c3669d1a6dc80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d8c638f693310eb05763bf0d06afa0c0e32f57af3a8d1219f3217f92688655f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a8e912086dbe16f0124292947bf9be4ba6ed39ef82ddffb793f6321b0472e30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cba0f175855d73fb6a1ca1f1a93e560ce8b4f550d763a64312bcc8661fafb29", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "521ab00572b8ce347ba3d2023b4bd3825aed45a390bad1a3bcacd63c838fb71a", "verdict": "consistent", "reason": ""}

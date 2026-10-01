@@ -1,0 +1,40 @@
+{"prompt_hash": "135655d2a68302eda30055c71a6c26610e2e9905c0d696409f19c25a2796bd30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08890e963f28dd49e87f00bceec13b410c5d4fb4a8f23e822f33ad009f2a38e9", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Faster-than-light_neutrino_anomaly"}
+{"prompt_hash": "0f274ee61406352a31d97b8db2e1f9011336feeab3d7170b92013214acb7467e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb31b04723a6c607cbc86f2c87a8bc65fa1b91bd95122f596e62531f06d0049d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a81bc465ef063cd532c252c6756153a3247de1d975adeced5ec8aba01a654ed0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Wason_selection_task (K and 7 correct; <10%)"}
+{"prompt_hash": "e85845acadd71baa14faca91488d2338f38ff7923f12bcd40f00d2f407b8f3d5", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Christmas_in_Russia"}
+{"prompt_hash": "d94c016c8ed99572ae85fe6e59772f3db090eeafd54c3ce911c554808ba721a9", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Joint_and_several_liability; 3x900=2700"}
+{"prompt_hash": "58ea0e94da5081d818a414eac903e0f2ad7bd33461b33aae59abd2d4e85b9920", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Leon_Festinger (Westgate study)"}
+{"prompt_hash": "91a8e345ba0fead0b78436c4d0713a90c5c3ff40dd7dcf28a68f6ef47ad6f741", "verdict": "consistent", "reason": "checked: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html; uncertain: quoted compiler message is a loose paraphrase of javac's '<field> has private access in Book'"}
+{"prompt_hash": "161936290280fbb9cef9678839987b38bba4ea71d1d657ed2d2ec82b23aff01e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13b234259b777db219507ed193b0cb0075420b49f7db0fbe7b14163413b72d7c", "verdict": "consistent", "reason": "recomputed: 60-mo payment $312 at 5% implies ~$16.5k; same loan at 72 mo is ~$266 vs $268 stated (minor, conclusion holds)"}
+{"prompt_hash": "489ed19d7e19419e65fe464add823c8a27666394d000ad411d99a0386f095140", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6f59bf4c14f09eadb0b93fb538c1ea98cb018791400f7b97af05f6c62da3839", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c99af099908985cbb40c7e521c4ae2a91ae3e3a364913c4c88dfb5f999e1a33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "469ab3e3e630100709a75596e690e74e18f1a94014a2ca4205c77e8bd45ebf66", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Hans_Krebs_(biochemist) (Nature rejection, Enzymologia, Nobel 1953)"}
+{"prompt_hash": "dee2c4810494cdb39f405e2590eed3e101ddf7d0eb64f7bda5393805d19af5ff", "verdict": "consistent", "reason": "recomputed: f'=3x^2-12, x=±2, f''=6x, max at x=-2"}
+{"prompt_hash": "88428d106295862af8cd4084beec372fe0a277ed99349c09d1d8968bafb4e656", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle"}
+{"prompt_hash": "7857cb77df68184ab9e2e72e837115945441e86a99802687401455a5d88ab462", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Modern_Standard_Arabic"}
+{"prompt_hash": "64f2830f293e34d5cd91318ec26add36b5ab5014645aafa6554122f0e5108e13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc6ae62e0c86786f4264b04d01aa747ca6f28970d3fd2a9cbe9494ae358fc3f5", "verdict": "consistent", "reason": "uncertain: count of nineteen servant mentions in an unspecified Pride and Prejudice chapter"}
+{"prompt_hash": "1f0ebb8ea313cd8d3229b9589b4138e967c25bac6093605b2a6ff8de27f4b519", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Ringelmann_effect"}
+{"prompt_hash": "68101bbd8323d78d68fcdde18752af456d7ea479336849c11f6be73a934fb849", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "953d649a98f96a9824b1706a2201ee9adcfd8a8d576909cf92f63cd7f9bf3768", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06cba00eecb4e73f1bef2714f8c22d935a8b81966a505b3d888edbb09d082ae0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Constructive_vote_of_no_confidence"}
+{"prompt_hash": "e371e931b8afee97bd783066bc0e5dfb657b416429011dc165c993a51dd9ad29", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Shiva_(Judaism)"}
+{"prompt_hash": "1f235085e04ed59c0cdc134f49f05514d377e126f8814e16ba6159c949d2ecb9", "verdict": "consistent", "reason": "checked: https://www.ontario.ca/page/renting-ontario-your-rights (written request for standard lease)"}
+{"prompt_hash": "4c5029deee791ce36a0b1ec03d283105126283cb62d4fd5185f637ea37871283", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05d5390adfa3446079405ec80fda0eddbf6a97752eb5c9fbb5b6d67e3fc72889", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4c395451ffdcdb16153e03bd893d51d8a37c637d15e2ff57ce2b140c204f466", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Color_wheel; uncertain: Newton's unequal-segment circle only roughly puts red opposite green and orange opposite blue (not designed for complements)"}
+{"prompt_hash": "c1d0a2c95f5a6f215239c1765c1509b09e6dca1a2ce1d392ec083e9a6b342432", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cdf9bea55c6c06c3380be5462c6e893ee1bfcc4098f05c9715a04b6f6c426a69", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style"}
+{"prompt_hash": "ab65706c0059fd9eb31dd7c72921444af99001af69cbc0eccc27e40f7bc9d728", "verdict": "adds_false_claim", "reason": "Story says the first movement of Mozart's Sonata in A major is in sonata form with exposition, development and recapitulation. Mozart's only A major piano sonata (K. 331) opens with a theme and variations, not sonata form (checked: https://en.wikipedia.org/wiki/Piano_Sonata_No._11_(Mozart))."}
+{"prompt_hash": "871f3cf8579d0a475a82760da5ab0b4b8369a739a465c0a8344cfe4481a9cb9b", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Comparative_advantage (terms between 2 and 6)"}
+{"prompt_hash": "0fd703c7fd2fc241f06ff7793646fa8b63c906f387d7d6045321459f993a85f6", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Four_Questions"}
+{"prompt_hash": "88968f3859814ded32d5975442b0a7cbce9962cf847c0c792a431f95f95bb446", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e75710aeebdb2f737ba26b60914f3e447ed99be0d4a00e49f38896aa06125e1d", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Gulf_Stream"}
+{"prompt_hash": "6b487d02bad4417796c09b1b2d5d7656e4ba382ab4755319c7a1127a805d27f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09454da832521e18ad4ecc1070a7facff5338b8cfd2945a8072f8a9bef0fa52c", "verdict": "contradicts_fact", "reason": "Story gives G, D, A, E in fifths as the strings of Melyna's viola. Those are violin strings; the viola is tuned C, G, D, A (checked: https://en.wikipedia.org/wiki/Viola). The fact is never stated for the violin."}
+{"prompt_hash": "8c74163085a843de731d9309390e7ac9a6029c34786202981d87170f2d5848c4", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Paper_size (A4 210x297, A3 297x420)"}
+{"prompt_hash": "649e0120e5e2332b3bc48a2b106a464fbb700815f67936ef7d69d8438ce4dcb4", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "5c9233fdaf138c3e87469f749945d57ad2d64cacfb50b6fcb8ada1520af4eb0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "16b819e1f076485cda602f2808f0b9a8e082a5d6487dbaa1ba60db5d3fd0ab59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8b6943f032838e48fb93a2ffb19b757f6feefe9b3d04897df47f66df2442ad9", "verdict": "adds_false_claim", "reason": "The story says the 12 sits above C and the 6 in the corner, then teaches that the number at the top of each box is the proton count. That would give carbon 12 protons; carbon's atomic number, 6, is its proton count, and 12 is the mass number."}
+{"prompt_hash": "8f4ccccc12ecbe0f0a4a2ec686cea30ca879babbbdb8c6b3f44fc384d6ce2d0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "86b3937dd5ec63828740ea71e91354cdbfaf8a0e6ace5a8fa751da71fe9557c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c72ccb1c808ed05a9d652c25b702583479813b13356957dc2a166474656fba9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17ff9149fe940a0af8957942763a6328afcfdf52dc63cfe65513f14514aba84c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e1e0aa403fda9cba868f1b7f23a1087930be78377255d8643ba5da4820c757d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9a6dc87c1dde6d88196bf7fde7135366bd9c2f436c0804f78c80a3128a53243", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24e9f8b4a39ed6d2707ddef89cac8373668da302ebf8201e636100c56297a58e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ebe3d9ccdede7381af5e6a09942615448db30cfaa52a1b5e05a3129f2aea920c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9664a9a4fca00fff10d2ec0cc20b55dfeb46e7d0ffca72ee4286d537f0093a22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d69e3040654b2ec0890c0ce69d5f159eed914dcfbcdb8246c8939136d0707a53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3951d101d05e9ce72acba2a15bc51771e0539481bd840d68d1954e3c55522aa", "verdict": "adds_false_claim", "reason": "Compound wins by twenty-seven dollars, confirmed by the teacher. At 5% compounded yearly, $200 grows to about $255.26 in 5 years, only about $5.26 more than simple interest's $250; also, the year-one $10 earns 50 cents in year two, not another $10."}
+{"prompt_hash": "b9c9cb80a2ea1022edcd2174e4b06d05ed5ff97202be31a477570b16f8c04cbf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "175ab39a32596916fe668bb65a19013c136eb28083af4a262ea2830742d123ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "847357b409550495e9202e6e49eec716dceffc14fd57d40cc1c2402d918fb109", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1fe73b004374dabe3a72297883b40de6ae967bd1dc3b24a2accb07e52fa11aac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee6346d7dd5de49629a44e295c98ad4b14c23c4935e701beced367b36b5196c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "766709dc5a53728c147fb42acaf8f1094294214bb272d4f8545d929942342fd3", "verdict": "consistent", "reason": "checked: etymonline diaspora (Greek diaspeirein, to scatter)."}
+{"prompt_hash": "5ad8b40d422d01a71b31b5bf60d2f49cc5307358957431010c3689139af4f155", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5476d392febe97f1e8e4762da4f74afae99cf980d90a6ea52662e70f46f5147", "verdict": "adds_false_claim", "reason": "The story counts 14 of 22 wrong by noon, then a final 9 right out of 22. Fourteen wrong out of 22 leaves 8 right, and in a double-blind test nobody could know who was wrong before the envelope was opened at two."}
+{"prompt_hash": "49fe51a518c870476af582581c2b0c9e9e4a4ed6520b2b205f7c73bd76700aa2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a710140f4380dd39d79fe8742017b04de74739ac6feeaa5fa04e5803f06263db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b25f16a37dad5e69b6fec0a0c09ecf1ca8acbf140d717efd6d82a45b6708fe1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33fcc5d71eef00c11e25965588fbb8cef5036dee5d326026a6b4893649ff4b62", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fcb38149c8a9a279a2f05bd342796d276dcf0b943726274847c4a586a6586916", "verdict": "consistent", "reason": "checked: Wikipedia Amrit Sanchar lists Japji among the banis recited."}
+{"prompt_hash": "1e2e39360e18553ea938955933072ada555998d4597d4ca1efbbeb1bdcdecd55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "226fdd96a6f0244064ecff21c91d2e5302906681d2dff9b73015fb597990d52d", "verdict": "consistent", "reason": "checked: Wikipedia Mendeleev's predicted elements (gaps; gallium fit eka-aluminium in 1875)."}
+{"prompt_hash": "7eb60afcd778060cf5330251cc29972d2357d260f303d9b0cf13327b0ec00de0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70399cc78e3f82892750ef286bb8044f1e3d68c3c564f0abf6001a45d7ee09c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f37bb13ba269e85587e7ae7695ef56457a08e0b312272c772d9543763c1965c3", "verdict": "consistent", "reason": "checked: Gutenberg Romeo and Juliet text; the servant Peter answers \"Anon.\" in 2.4. uncertain: the story's details of the calls (\"Boy!\", three times) do not match the text exactly."}
+{"prompt_hash": "446c4b94234cce0c7255b5d292b3d12449a17fd0855ca6c7143f469a50227471", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb96940a59e947faa916e703d65746b3e3b279c5979e2a79d8ae855a6da701d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "835a8ec119a1153c572f10ba3866f3fc0b80bb9b410cd787516adf4c84ee3b2f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c119d22683034f1c9667cea946272c5af74104129b92fd2341095f90e19756f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d80cce17d0deead7b240d77feeb1e33f285b90679bec66b4f7973a0b649d83b", "verdict": "consistent", "reason": "uncertain: Wikipedia Third culture kid dates Useem's coinage to the 1960s; the injected fact (1950s) was pre-verified and the story matches it."}
+{"prompt_hash": "f88fc28c8a12b177da82d49441267431fa036628cfa9d0603080f324040c77d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0b1eb05a3bcb04e7f5fcf5e7a4e42f9b194cac9f8f11b48e082a9cc65adb8c8", "verdict": "consistent", "reason": "checked: Wikipedia Wayback Machine (archive since mid-1990s, lets users view past versions)."}
+{"prompt_hash": "78e6d448cf5e8f84365bf334ebecccbbc4580a5b148b0b2ca73394ab9255f476", "verdict": "consistent", "reason": ""}

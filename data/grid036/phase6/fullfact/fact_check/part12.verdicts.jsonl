@@ -1,0 +1,40 @@
+{"prompt_hash": "71c4da6a71cb86e353e69cb5836fa760105e18dd3cff00eb39a5bb685d842232", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Federal_Direct_Student_Loan_Program (govt pays subsidized interest in school)"}
+{"prompt_hash": "3bf8d1e8234303ed55f21b5d3908607a476974cdfe9a944b404584c73533c587", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83f877988821223f9799cd123ca1f56d56e2cdb93bf7b6e69c9392e9bcbf52ea", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Concert_pitch (ISO 16; some orchestras tune 442-443)"}
+{"prompt_hash": "a00c4d931a2af556ff0e72bae63971c774ad08eeef98b6c0053cf419a3db3982", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1653d5728108fc6f0440350d5f3b4c9ba859b02ebd7bfc39898ce9bffab70b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39c4c38c4b2dd03b5b7a71564afd654895ffdca3342e5b7b6ad94f6d39ab9234", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ee9e578ad419c2f4ab561afc3b6da8388ec78b84716824bf88dad8eb882d961", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b23de03be0282dd1eadf617c61f38192596e8bdeb0f68dd4822bd2d83ff1e1cc", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Piano_Sonata_No._16_(Mozart) (second theme in G in exposition; recap key of first theme not claimed)"}
+{"prompt_hash": "6bc1b4b452f324455b7e7543c413829238015e5490ee219039f190fe9d6234b2", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Texas_v._Johnson (1984 RNC Dallas, 5-4, dissents)"}
+{"prompt_hash": "2679077edd585969475bdadeb2adfd211f6f32cc6568ed6e717cca32b531648d", "verdict": "adds_false_claim", "reason": "The paystub of a teen living in Washington shows state income tax withheld. Washington has no state income tax on wages (en.wikipedia.org/wiki/Taxation_in_Washington_(state))."}
+{"prompt_hash": "2a866a0b71636bf12bda4851581234e775acc9861c78e7e9b0bd04d4d267b301", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e767cdf5bb2bf1cdd56740641d2ce006d078a5d510985562efbbe27aee3f0b1", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Salt (1 tsp about 6 g; WHO under 2 g sodium / 5 g salt)"}
+{"prompt_hash": "bdd9544d99498167fece8133f60c297a794b4e48d75b9f516495729017f3b66a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b938a99b5205b04418840ad53b7aaeb765b1932ca0e45f8ed9eeff35c9eea1ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1474c0088a88c26da89f3e3f90a7f69c06d76519c4538a3ab554d82245cc3959", "verdict": "consistent", "reason": "checked: Codd 1970 paper PDF (engineering.upenn.edu/~zives/03f/cis550/codd.pdf) has section 1.4 Normal Form; left join with IS NULL per en.wikipedia.org/wiki/Join_(SQL)"}
+{"prompt_hash": "0ba2c28f61c905238d75c454fdbc15d4ac82745e0fce4645a7471cc2d4549a69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "935408183d95f7de32d77f3661aa5366b286f943089572e9a38392cef71e4fee", "verdict": "adds_false_claim", "reason": "The story writes N2O4 -> NO2 as exothermic and says heating shifting toward colorless N2O4 is 'exactly what happened', though the tubes darkened. N2O4 -> 2NO2 is endothermic (dH +57 kJ/mol), so heating shifts toward brown NO2 (en.wikipedia.org/wiki/Dinitrogen_tetroxide)."}
+{"prompt_hash": "a080d7247a98c974bace4d4f567fc9c5ff397e1da42feef79a3c7fd7fb5255ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05f22630fce8125c0ef1796e9bbe3f36f9aeb7a01540c42e1b48ff1ed066bb1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "738fff1290c2e95b4621650693a26596293fdf468838775526268689c7519eae", "verdict": "adds_false_claim", "reason": "A station wagon is backed in between laundry baskets placed seven or eight feet apart. A car is roughly 15-16 ft long, and a parallel-parking space needs about 1.5 car lengths (en.wikipedia.org/wiki/Parallel_parking)."}
+{"prompt_hash": "e5ea170a10af204be6ade2c034e4f9416f1ccb9b3095e5289d197a8184e402b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e215712aba49033c36a966b0471c78afe032365efa5a43d09e63439ac75b07b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e17d960c7cf4ff7f5518beeaa3cb91d59c02682e720580560d9a65876a26052d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecbd2b09a405da018d68c21fab1147a7f4359379a40ca5911af9fb407db25a6f", "verdict": "adds_false_claim", "reason": "Vanessa says it took two years to go from near zero to 5.5 percent. The Fed's hikes ran from March 2022 to July 2023, about 16 months (federalreserve.gov/monetarypolicy/openmarket.htm)."}
+{"prompt_hash": "67c1ed49c1a316b3c84eb03e730bef2bc8b3a04864efb2c6fbe756ce86e20f84", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Null_(SQL) (NOT IN with a NULL in the list returns no rows)"}
+{"prompt_hash": "ea6fb0c44587aabb4687bb01d1cf32537138f4758a03503b51d8dab6ee5d41d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e58cf79fe1d25ea284e2381d50f44b11f9e0d8d6cf7a768df3f4e97260225376", "verdict": "adds_false_claim", "reason": "It says each minute at 55 mph is a column 'fifty-five wide by one minute tall', but time is on the horizontal axis, so the column is one minute wide and 55 tall. It also gives sixty per-minute readings for a two-hour leg, where there would be 120."}
+{"prompt_hash": "e4c75c41efc7e98c89d633dcad1582e0a3e624bd1580f1379b0fc0a82035811f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06110a1ddaf57492f65877dd33a27a502f429fdfd816625d2b83d51dd1156827", "verdict": "adds_false_claim", "reason": "The story says the Vindolanda invitation is for her sister's birthday and mentions a gift. It invites Lepidina (called 'sister') to Claudia Severa's own birthday on 11 September and mentions no gift (en.wikipedia.org/wiki/Claudia_Severa)."}
+{"prompt_hash": "22927341915e3ba98595d4eed2320499fcddad307f3068dc13d1a78166b73d2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eab953dc5c7d43e39bce28e41b99350d2c0d3a4fdf4d188d398e528605d45fd1", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Join_(SQL) (cross join is a Cartesian product; LEFT JOIN with IS NULL)"}
+{"prompt_hash": "932446fe444e905b1b21c71e43e8c45b4da83efdc688c5b237236b455b9663e6", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Zakat_al-Fitr (per household member, before Eid prayer, if able)"}
+{"prompt_hash": "e2b1627fa77cd3254cf486cd1b62ede8ddf1c8093c0b58a83f806cb1898309dc", "verdict": "adds_false_claim", "reason": "The W-4, titled Employee's Withholding Certificate, is said to ask for allowances. The IRS removed allowances from the redesigned W-4 in 2020 (irs.gov/newsroom/faqs-on-the-2020-form-w-4)."}
+{"prompt_hash": "8e4430a09634c905bc38cbfb7e2ecf77a5ea4e346b43d5565f29eb8b60540cc3", "verdict": "consistent", "reason": "uncertain: a $38 late share of a family phone plan showing as a late payment on the teen's own credit report; carriers often report only collections (could not fetch a source)"}
+{"prompt_hash": "7b05e874f450efad54b7e44b4b61375cbda4c2500b9cf65ff1f5bced7f708e49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "719b3a8db2b8b4a78297cb5c61d2799e5f99f8af95a6333ada49c38f9cec75ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73c0311c33f1714279771d8370f36e723d9b8ab39a90b5065ed398b3345b8113", "verdict": "adds_false_claim", "reason": "An optics bench with slits and fringes is called a 'diffusion lab', and the slits are said to make 'interference rings'. This is diffraction, not diffusion, and slits give straight bands, not rings (en.wikipedia.org/wiki/Diffraction). N-ray card matches en.wikipedia.org/wiki/N_ray."}
+{"prompt_hash": "3e68565d636c74f9848d0d7bd1370be722815b2b81c25279ce825749b079d95b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Rand_formula (dues required without membership; strike 1945, ruling 1946)"}
+{"prompt_hash": "5a7aea6688d82630b88828bc2879ad3d6f1e40e38ac4b60a45145b8d430f9218", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Peppercorn_(law) (adequacy not examined)"}
+{"prompt_hash": "9500146319824ada4f573306ca3eaa2d8662100f5e6fdcee1c3d0301de06da02", "verdict": "consistent", "reason": ""}

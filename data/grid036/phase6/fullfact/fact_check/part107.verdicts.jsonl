@@ -1,0 +1,40 @@
+{"prompt_hash": "868a55aa4236708104320a4bbbc0188271a15bf44edd0c891f289b5468aff549", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01ae019dfb6671f714112edf41b0f768510f39e20866abf6ed1fc931a84f396d", "verdict": "adds_false_claim", "reason": "The story says the dealer's five-year loan has smaller monthly payments, then gives it as $110/month against $92 for the three-year loan; for the same principal a longer loan has a lower monthly payment, so the worked loan figures are wrong."}
+{"prompt_hash": "74c7e4c5f62c794589412cd680328b6751ab48a169ed679dcf3d91d43ee86990", "verdict": "adds_false_claim", "reason": "Romane gives Ranke's German as 'wie es eigentlich war'; Ranke's 1824 phrase is 'wie es eigentlich gewesen' (fetched: Wikipedia, Leopold von Ranke)."}
+{"prompt_hash": "2d54286ee40589f2b61ee3af181752f5d6a773c2cdb63d5c10396d0699e4c69e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "733c2fc482d29fcedd32c5008ae5d31e882fc3614567b5700ac36cc62ff8a940", "verdict": "adds_false_claim", "reason": "The story says the rings have no green or black ring, so Jamaica's flag colours are absent; the rings are blue, yellow, black, green and red (fetched: Wikipedia, Olympic symbols), so Jamaica's black and green do appear."}
+{"prompt_hash": "e0d61ed48ca69981de2611f5a9674f8f2b057cf227e31d35870c15173b5185e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f09ed75fd37cfe0977735cb9099fe324d62adb1544caa296b3009b0586b5db6", "verdict": "consistent", "reason": "checked: Wikipedia, Jane Eyre (fleeing nearly penniless, the inheritance, Rochester's blinding and lost hand, St John's proposal)."}
+{"prompt_hash": "4f56870fc8b7dea9b7684a66c994a67abed2c1250c8cc20046a7a107ce61389f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "424a90e0d650c10d411df5b4301c2f6c00d451cb57dbb3fd008ef033d4acd0c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a6a73c5cbe7ae9cddbdbcab70b803fc186ea174ba82fab573f994131cd954d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d0ca9c268b1cb0b435a184e5e6dc16b7089538a348bef80eb3b7dfcc713d332", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "009163349da5cf85f97c98c66306d18bd93a0b4d3e0ec3549d804dd28a4ecf49", "verdict": "adds_false_claim", "reason": "Grayson calls the p < 0.05 threshold 'the point-five'; the threshold is 0.05 (point-oh-five), not 0.5."}
+{"prompt_hash": "611e13624b12f83c3f800f37e23db21cc56718b761ce06acff36c5262f8327b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aae9fa86f21e69dce8e44f07cb95b26f4997b55972ccb0e96befac0d46ca9b88", "verdict": "consistent", "reason": "uncertain: Shyanne says 'most' US colleges are need-aware, where the fact says 'many'; Wikipedia's Need-blind admission page does not settle which is the majority."}
+{"prompt_hash": "0b6611d049ecdbbee9062d44e7e98e4000fa4c7216fa192bb07467ab91bd7b09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b6152c342361f797813ce6584686a0748bad97361a251b73b93892c22318237", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "585af31cce91c7c9a77f1579ad3f0cd91cd194a454ee674a486c21c1f008b103", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa515b990585d89553da212f04be9c3d8e5a3837d04c6f701a493d4b2e054c18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6b876d485b67ebde73e303616ce4b16987d533f6c62f9d730aa3a2decc2e59c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb5d7006ae12c3a19e877d0b93de9521c9181ba4ecdd3cba07ff7dad9e11dd3a", "verdict": "consistent", "reason": "checked: Wikipedia, Liz Truss lettuce (the lettuce outlasted Truss; three PMs in 2022 with no election)."}
+{"prompt_hash": "de73918ee3a0c2e6757abc9bef98b109cd15663f09435a1ad2e5b02758410817", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7bca6d7376dff86a6053f0b42043f3229f9be291ca8985d86fbd0f57926999f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a1a9926b2268f1c62747309f9a46c90f2cc344ce91c9cb35ff760d83eb539ba", "verdict": "adds_false_claim", "reason": "The civics teacher says a state senator carrying a local revenue measure would need a House member to introduce it, citing Article I, Section 7; the Origination Clause governs only the US Congress, not state legislatures or town measures (fetched: Wikipedia, Origination Clause)."}
+{"prompt_hash": "9eaa29d486ccb33b969b4f87509afca010c7325fd680674b2e78a219abdef929", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f584e135a133d874895444e1b5dd9d984a335dc842de376d41ffbf2927c3b9a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28e6044c7978f7e05f61ada627e265398b719b81eb06fd7354c4663bef027c47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97faf4f9c45c223242739de562305cb99b7c14671fdbb635fee97e378c379ccf", "verdict": "adds_false_claim", "reason": "The story gives the rise since March 1958 as 89 ppm (about 402 ppm now); the latest Mauna Loa monthly mean is 427.55 ppm (Aug 2026), a rise of about 115 ppm (fetched: NOAA GML trends page)."}
+{"prompt_hash": "5e124d59904abd7c364293012392cfad554f88056ba92cd81862268e65fa982b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7908b3def8836e74f55afe3c8ecce2977587a130985bc9bac6841755327a650d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20e934756ed8c65f3860837581912ea57e56aea18a760571f2cd38218f2ff4f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "735db1b11f93c7995fe971d630978db23c91384a19676b997c8ccd076bc97821", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a69322b390c41804b03ce214574378c6a1cc2d0ad9d180e93b1ce0498cadbc00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6cb6a32031e1cc3e46d0033efb9375cf2c92c7db2b67c7fa31d7af9e013da8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90c203f771a1975f07a711f040d4c23792e981509bdb03484953816afbf31280", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98f4587a4d9d1e45e6860e4d3f031681444e353769b19c053524d1e84ffbd382", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eabbdb7eb30e0b07c03d117f0fdd13598fd5c371a04643b1bf85ace1e9b84594", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca94028c04c3ff8abcfca44b6fb80f33157f5a2fb5142d8ec612afe73d83d53b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15c8ae16a8e136e0784e0fc2f592b91c7a1d910c9a3f42e33ae35b62f41147cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e15867d26caf5a307113764970a56b7d20d4fc93a05f29040b6fe9ffe4bb1e47", "verdict": "consistent", "reason": "checked: Scientific American, 'Why does lactic acid build up' (lactate and other metabolites are linked to the burn during exercise)."}
+{"prompt_hash": "5662f733ff9181da3ee85917039b6850cd05f5fc35c7078de8bd10407795cbf6", "verdict": "consistent", "reason": ""}

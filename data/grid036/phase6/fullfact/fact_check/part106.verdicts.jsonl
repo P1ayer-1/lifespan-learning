@@ -1,0 +1,40 @@
+{"prompt_hash": "063713dab13406029b3b2741ec60ee595f0aadbf4d29b93deb59a5e28066be41", "verdict": "consistent", "reason": "uncertain: senders' predicted tone accuracy given as about three-quarters; abstract fetched from ebi.ac.uk/europepmc (Kruger, Epley, Parker, Ng 2005) confirms overconfidence but gives no percentage."}
+{"prompt_hash": "a73f8252a77300484d1e09fe07a9e07bc61c7782c8c4e01e12f4a37d22ce39f0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "012e7b9700320d0159356c36b3809d70d76e5d409fdbd39eee2693ddbc0db4e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "116194d75f0bc91db74a687a194dedb07436ee2e2f7e724c603d6231fd1f7b5e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b48c245ec1b0eac44e81579c4540abeb6e627ebc54b7a34aca6dec41c9816cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c62c1ba211c98015d82d79e6300a765aa46b6535d88b2d479fbb0f7c49039ffe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3118aaef427c7a02ecd451dd2f4aed946927584a98e4d9a0ad9063d887f75ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7c80cb9b17bfa2aa1b506578df7144c789357c2589e03135c809b690ef46c5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e491ec0b5a04b566be30e596354ad8ba9b785d38bcfd3140a28dee9fe2e90a6", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hudson_Bay (bay largely frozen mid-Dec to mid-June)."}
+{"prompt_hash": "086cf50085bbfbb5fab50eccb45d63558cf0653c75847bde008610dd2d61f4fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29d392da8a00446591cf4fd8aba839f44705027081a0a4f0e406497582b59df5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1bd69e77dab1d5bcfe826d6a74ebdc3e9cd0953fc453108d0b413c6f8cb361e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f8bb07e85fb6b839b9875dbea377cd12ce0c44498060f823de6bb7a77c874dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a16b6fdd1bc750d1505db4523bfd42a19714b802335c426226cad7800346416", "verdict": "adds_false_claim", "reason": "The pink/violet/blue sealed-tube demo is the cobalt(II) chloride equilibrium, and the story has heating turn it pinker; heating shifts it to blue because formation of [CoCl4]2- is endothermic (en.wikipedia.org/wiki/Cobalt(II)_chloride)."}
+{"prompt_hash": "389d346181ce1307139b0d83317be813b85b7127e5f685da9c7e87d1f4f9f3ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7dbfcb822fa8e0f9030fe5bcfc96b3d024bab29bc9007787fcf00c6069e29853", "verdict": "consistent", "reason": "uncertain: the description of the sheet in The Broken Column as blue; the cloth appears white, and the fetched page (en.wikipedia.org/wiki/The_Broken_Column) gives no colours."}
+{"prompt_hash": "dad30c59df5b5352b5b9103707273dd7b8eba5bc0ec0b125496db8d434d7af43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03ae475ae6682fc8366fb7f2f0e0e3cb679f3019955136e3d3998baf78469503", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3caea4191757bac458c2c3ec7d074e41dda449d6723da03bad27c06eac3b614", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1883e15cb73ecaacb9d14a2a4061acbae908f9b3439a5a2c3f21e1dcb1665e09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df73e110bc0f9f81a6d3ebe75df0b051b4e3c8672d83bdf74d45fba3eb26b330", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Passover_Seder (15 steps, Yachatz before Maggid, second cup at end of Maggid)."}
+{"prompt_hash": "78acc0b1218fb447e376ba142a47812ac4829d3becf38ae82c1213c7beeecf00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23bca92a73ca687b864471758d7491d86ee30328bcb5b56ce4d2e21ec50b09cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a731790528c2c43160c153f9440b5157b1b2897a8a1c7cec79e90013f7ee15df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "892aa71ade125ead8dea8db8d9e7709601b05d0f734d72fb60badc999b5266c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dbcb7546f8e614ee84b6cd1ff7627098cd5f44296ef0cde3017e1184b0ca40e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef4a9dce12bedc5cebb6fb5c9dbfcb5072746fe987d812cafa22faf257e7f8f2", "verdict": "adds_false_claim", "reason": "Says Stevens weeps in front of strangers at a bus stop; in the novel he weeps on a seafront bench with one stranger, after parting from Miss Kenton at the bus stop (en.wikipedia.org/wiki/The_Remains_of_the_Day)."}
+{"prompt_hash": "5c34172d850df8dda7013c142dae4969f47172c1a2f747b759a59617e4ebfc37", "verdict": "adds_false_claim", "reason": "Works E = V/d as 9 V over 4 cm = 225 V/cm and 9 V over 2 cm = 450 V/cm; the correct values are 2.25 V/cm and 4.5 V/cm."}
+{"prompt_hash": "1fa252f05da7b051793483118a6e883bce8665fd883f51d4d87afc5e5379d8c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fd0bc249dcf7e9b183448f5d572fc9ebb99d5103117cca404205bf54776ebb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa855dde19c84f0a3d2685ed66737389cc579d3b9957008cf02277711fc5b6ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0414551c45924664c628368620a4fe84c73fe6933a6bc4d80e3290cc7a93d8b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a2ae19a266e2ac07b5fa7a4737ef65ade9638b32eb1e653ebcf504602738867", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd5696a09ed40008af97a3fa2ac419b2a957ef8e4fb37bec6c8b31db21356073", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1077a9cdd660db4ecb0abb48631b209820e6134cf026b4482304e0d4c9049300", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50fdc986995f9ebe22972780e02f129e6e8cd02b8c00a21b5b97362e20502f3e", "verdict": "adds_false_claim", "reason": "The narrator says chocolate seized into a grainy paste because it cooled too far; seizing comes from water or overheating, while overcooled chocolate just thickens or sets (compare this corpus's verified seizing fact)."}
+{"prompt_hash": "2f4f110afda17ef8b43260d90c06961c15c65035b6076ba4b719f99c49425d49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dbff78648a0c12bf5974c85148760533cb19aec0e8a5ec3e9077155669760e00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98c5b1b4eff2c735d2bb65c4533a90363d9dbb8d6b3bf8e29c09ac71724a857e", "verdict": "adds_false_claim", "reason": "Says that in Michigan a contract cannot require union fees; Michigan repealed its right-to-work law in 2023, effective 2024 (en.wikipedia.org/wiki/Right-to-work_law)."}
+{"prompt_hash": "aca3f886b8c01f2ba03a7f0e17c7c7d9b4fa58248583df2a6a53cb3f1c5c6e5c", "verdict": "consistent", "reason": ""}

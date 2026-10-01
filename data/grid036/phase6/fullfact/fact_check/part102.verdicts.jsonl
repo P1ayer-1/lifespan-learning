@@ -1,0 +1,40 @@
+{"prompt_hash": "96073b002cb07cbf639f11b6c4bfb77f60539d3dab117a33dd42ec082782c683", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Harmonized_sales_tax (Ontario 13% HST); canada.ca line-10100 page (T4 box 14 = employment income)"}
+{"prompt_hash": "b46efcc714acaf9edb50dcca633eae30946109ae249f19a1f1fb415727e0b434", "verdict": "consistent", "reason": "checked: dol.gov/agencies/whd/minimum-wage/history/chart ($7.25 since Jul 24, 2009)"}
+{"prompt_hash": "6c27f11d30e2d8a80feaf47bc8016a96d94e84283e4b9004e1b52e4788873b60", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/On_Death_and_Dying (1969, terminally ill patients)"}
+{"prompt_hash": "f3993cd6985f85bb233ffdce626e778b6ed8c66a54c510936bc6ea6d0a719db8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4a1c797a6b74a9616c71537e0c263cc082d8e41ec29952c947d0778399f53cb", "verdict": "consistent", "reason": "derivative of -t^2+6t (+7) is -2t+6, max at t=3; recomputed"}
+{"prompt_hash": "9e1208968db49a9e5473ce5721f8dc02537c90aa2a273dfc4b7eeaab8703ff0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee33a1ae7f012a6837920199b519cd35cad764df04459fd202c2e2bed45e37b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "001cc27a2b25e0ac2ee20f27c4c0386f550fdc770ec8d7524e0e308b8d94c69a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e3e5d37fc5696736d28158eba31cf31ebe5f94c1987b839397eb8826a31c28f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1314c28772f9bdd76cb26d6cef1f11681e40f05a4cfd73fa22d1e901c0f5a9f3", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Venona_project (1995 release, Army SIS); https://en.wikipedia.org/wiki/Ellen_Schrecker (Many Are the Crimes, 1998)"}
+{"prompt_hash": "6616edca3c3e61aa2b26c5945637afc2db0febcd2dd08540b0064bd4a6e0c2a9", "verdict": "consistent", "reason": "checked: apstudents.collegeboard.org AP 2-D assessment page (15 images, 60%)"}
+{"prompt_hash": "1327a839f3cec596fdcb312585dcbafbbca8c39f8f84c6762a4b0ccf6c730b6e", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Stretching (60+ s static holds reduce power; dynamic warm-up recommended)"}
+{"prompt_hash": "c5b87eb2d2980f4671e40b35333323c1b19f0044a544d0f9f4348f874ab1cd2c", "verdict": "adds_false_claim", "reason": "The NOT EXISTS query is shown returning a customer who has a matching order row (zero-quantity, null product) while the LEFT JOIN check does not. NOT EXISTS excludes any customer with a matching order row, so both queries would omit her; the story's mechanism is wrong."}
+{"prompt_hash": "bca4c3ca12766767369df3a8ae437d107be893cf8c1a0b076049e886bee94a9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c96e5517addac49a1513475deb5380a4eea284be3581a2e0283cc3eb6d6e3d2a", "verdict": "consistent", "reason": "binary search ~20 checks for 1e6 items (log2) recomputed; overflow fix standard"}
+{"prompt_hash": "d16b4165c1703226ba8f081ae7357957611fc512c527542341839b8a0f742944", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Practice_(learning_method) (Ericsson et al. 1993 violinists, deliberate practice)"}
+{"prompt_hash": "3d86eb5b1360a585491f82cc48856580686d89c1b7157a8425eb0a1e75b1f9a9", "verdict": "consistent", "reason": "checked: aboutamazon.com/about-us/leadership-principles"}
+{"prompt_hash": "528225d2152a1a5751fce777c35628c6e37f96dc28eb3cd76f7282622ad07d68", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/A_Room_of_One%27s_Own (1929, money and a room)"}
+{"prompt_hash": "bbad3b6658ded762dbc1bc8cc377e44ecfcbb603982765bffecaa8e8ded0f223", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji (c.1830-32, 46 prints, 10 added after success)"}
+{"prompt_hash": "3307683b467be8e53d77beb5f13de9de44acb3cc34c7c99e88642f19453a6a35", "verdict": "adds_false_claim", "reason": "Receipt shows $34.99 becoming $39.42 with HST. 13% HST on $34.99 gives $39.54, and no HST rate (13-15%, per Wikipedia Harmonized_sales_tax) yields $39.42. Pay-stub arithmetic ($412-75=$337) is correct."}
+{"prompt_hash": "d85fca64c59a71af7e51be15a52ebb0353dc295fe2189ae3dadf271fed1cbbbc", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Metronome (Maelzel 1815 patent, Winkel 1814 design)"}
+{"prompt_hash": "8cfed810ed8a33fe57acebb073cbf889c3f5913400f60188a731671539c4ef43", "verdict": "adds_false_claim", "reason": "Eric presents 'a hundred years of measurements taken on a volcano in Hawaii'. Mauna Loa CO2 measurements began in March 1958 (Wikipedia Keeling_Curve), so roughly 65 years, not a century. Arrhenius 1896 fact is correct."}
+{"prompt_hash": "a9c18d0009cf56c6a35aaa3ac09f6947fc0863d63cb270ff3ec001fac260c8f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73081b277cfb1d4f59602c4f765f8ff44fc82142d75bd822e4dc467a502abf81", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Terrie_Moffitt (2011 PNAS, childhood self-control predicts health, wealth, public safety); https://en.wikipedia.org/wiki/Dunedin_Multidisciplinary_Health_and_Development_Study (~1,037 from birth)"}
+{"prompt_hash": "857912d3a782bb8388273086a1e52dafe0fa12f3381ead714432553dbb5422f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ecf1769934a01e07bea22e8595c047a7e31e744f4d8d6adefc237571703e280", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "858258621ed79a0c7f4b7e648fafe5ba6c5747627e0e3158f0b9763187add8b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81f48c8e2d529d960bf707fab79f567d55ac90e2b06d6030604c54a17ea708cd", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/The_Two_Fridas (1939, divorce 1939, remarried 1940). uncertain: story says the white-dress Frida holds scissors; Wikipedia says forceps (often described as surgical scissors)."}
+{"prompt_hash": "b0e7c33dfd2f1596b10decb02c18fd4212f1598638b256c930f44a253a5ccf9e", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Margin_of_error (random sampling error only); MOE for p=.72,n=240 ~5.7% recomputed"}
+{"prompt_hash": "a891c0189393b6202a2402c423a48221d2b79f026c6f0f51c09f38498c0cbc27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4849acaef263a52bdede34ad6e6ebad35432e0df41fc17fc63a1cfe6042ddce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b25a6a44095fd277fc1ce13daefd3a38212c5b2e747befcedf37eac1eb639ce8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "923fafcab75193b64b90a6ff072f420351a2c5f1cebaf67389d90bd51ed9b69d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "513b03a214d3200c4f801ce5fc223b3e5209e26349a221874f6aa0776499004a", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Comparative_advantage (trade allows consumption beyond PPF)"}
+{"prompt_hash": "f8e828680c29f5dc2c502d936da2bb1db4d940bcfee999eee870fcfad46fd342", "verdict": "consistent", "reason": "pyruvate->acetyl-CoA 1 CO2 each; Krebs 4 CO2 per glucose; consistent with textbook"}
+{"prompt_hash": "ba92be1a3d46ea80d4afa79949a9edb8ba48bfdb7f890b60b737d6d3638d3b12", "verdict": "adds_false_claim", "reason": "'Dents are only a problem on the seam' (endorsed food-bank rule). Deep or sharp dents on the can body are also grounds to discard; USDA advice is to discard dented cans (Wikipedia Canned_food). The 4 C / 40 F fact is stated correctly."}
+{"prompt_hash": "430e9a65ed823f87362669c1d471eda56470fbeaf1fbf31791fe2ae9851dc22c", "verdict": "consistent", "reason": "checked: circle.tufts.edu half-youth-voted-2020 page (50% of 18-29)"}
+{"prompt_hash": "b15f0b423a539721081eea85d5ecb4314dd379b870349602a899c0e19d465041", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f561b3a4e0fb4e0c626d6605d75ea94585c3ef674321072b843d3529dbd887b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d1935586b5039add62bf1b42be657c6ff805eb615b14b5059f95e4e0c356a5e", "verdict": "consistent", "reason": ""}

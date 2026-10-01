@@ -1,0 +1,13 @@
+{
+  "files": {
+    "D:\\Lifespan\\curriculum-learning\\data\\grid036\\phase0\\train\\stories.jsonl": "train",
+    "D:\\Lifespan\\curriculum-learning\\data\\grid036\\phase3\\train\\stories.jsonl": "train",
+    "D:\\Lifespan\\curriculum-learning\\data\\grid036\\phase6\\train\\stories.jsonl": "train",
+    "D:\\Lifespan\\exams_grid036\\raw\\phase0_stories.jsonl": "exam",
+    "D:\\Lifespan\\exams_grid036\\raw\\phase3_stories.jsonl": "exam",
+    "D:\\Lifespan\\exams_grid036\\raw\\phase6_stories.jsonl": "exam",
+    "D:\\Lifespan\\exams_grid036\\regen1\\phase3_stories.jsonl": "exam",
+    "D:\\Lifespan\\exams_grid036\\regen1\\phase6_stories.jsonl": "exam"
+  },
+  "model": "z-ai/glm-5.3@openrouter/Baidu/fp8/reasoning=low"
+}

@@ -1,0 +1,40 @@
+{"prompt_hash": "1643e4201faa157245b09c39dff3587db515a03821789795b69b27bd3b157f6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8d99344ec32a3a871fda8dc38b97c27d6429ec79f202209ef25716f1cfd93b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c36dadbf4ddc1ada615ff154cf21a48318b71fc01a28f1faa974b5a741d9019c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7f4040eb9b5dd86ad41da64a1bbd2ac7c3bda2cc1154cae900a898c00665e09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "efbbd5fd606ec5378bdc80b31ff3b7ef0810c2ce01cc98ac17a82662b12b7c71", "verdict": "adds_false_claim", "reason": "The story says longer days are 'the actual thing', not more intense sunlight. Per Wikipedia 'Season', the more direct angle of sunlight (more energy per area) is a main cause along with day length. A 'ninety-degree angle' is also called acute; 90 degrees is a right angle."}
+{"prompt_hash": "0ee894199278dddc32d91833706c5c6e924e00d218da540c334ad8e63aaf4e3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7938007212fee8dfee5ea1ffb041c29b5fdd00a79fc6b6a02275d0465b795a98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be861c8414c84219d94df9d714403f4114390269c2d1bd2eef9e64387fc91032", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c8d25383377ae0ead564275c1915416c0827ddec3df307dba3cc6c8a9eb6f23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82db4977bd5308fa4facf5aaf728ae856ecc126f5001d3f09e701d87e4ec8588", "verdict": "adds_false_claim", "reason": "The narrator says the scales on a wool fibre can be seen with a hand magnifying glass. Wool fibres are about 12-40 micrometres wide and their cuticle scales are microscopic (Wikipedia 'Wool'), so a magnifier cannot show them."}
+{"prompt_hash": "69bc69ab4fa2b296781cc21332d0711455061701ef8010a6ab0583b31887e5df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "643519f8e34095835f5d11849d2c04774030dc911cc606df772a45befaf91618", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9bc3c9febaee2e161a2f24176bb803f466f53284317b951aee68c993bd9f1d1c", "verdict": "adds_false_claim", "reason": "The story gives Jeter's combined 1995-96 average as .300. It was .310 (195/630); Justice's was .270 (Wikipedia 'Simpson's paradox')."}
+{"prompt_hash": "afcb795536eb70bf5862e50d251e2afbd63105b4da648049239fe9b37da7c1e6", "verdict": "adds_false_claim", "reason": "The story places lemon juice at pH 0-1 on the chart. Lemon juice is about pH 2.2 (Wikipedia 'pH'). The story also treats litmus paper as if it gave pH numbers and green shades; litmus only turns red or blue."}
+{"prompt_hash": "1fc0874141a6ada6a04bdede533bd5315ddb9173fd0887d498d67599d8e79322", "verdict": "adds_false_claim", "reason": "The reasoning against the distance idea is wrong. Distance-driven seasons would not make the Sun stand 'overhead everywhere'. They would give both hemispheres summer at the same time, so Australia having summer in December disproves the idea. The story says the opposite: that the idea predicts it."}
+{"prompt_hash": "d482c205787655fc2aaf20a098e1a3d7e6f791dc3ecce3187fe62ad37472a09c", "verdict": "consistent", "reason": "uncertain: Elodea leaf cells are described as 'long and pointed, like arrows'; they are usually described as rectangular. Could not confirm from a fetched page."}
+{"prompt_hash": "f201291eb3ea91e67d617415e3f1c2fb0b69629e2850d8c52faaa47dc0c11d1b", "verdict": "consistent", "reason": "checked: Wikipedia 'Oregon Trail' (1843 Organic Laws gave free Oregon land claims)."}
+{"prompt_hash": "cf21166123032b9e36b0e2176b6f37bbd657b1d94af2fe5e014f6696edf5c380", "verdict": "adds_false_claim", "reason": "The bug is blamed on a single '=' in the check, which made 9 come out prime. In Python, a plain '=' in an if condition is a SyntaxError, so the program would not run at all (Python docs, compound statements)."}
+{"prompt_hash": "d60eedd6d6579aa38fbe9605c6343ceba6fbc4ca3474bcfa7f7989397094b279", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3073587ecf6575a23f28832130a815014484d3d473c770bce291fef6ad28308a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a7f50597f844157a83511292dbf8e17a9541305c9ae1595ae218204fa2eb365", "verdict": "consistent", "reason": "checked: Wikipedia 'Desert' (trade-wind deserts near 30-35 degrees, sinking dry air)."}
+{"prompt_hash": "2e0fc593d6dedf24fc4e857b2675f072c7a27f9ec07e524377bc6ee53fe49a90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d19cc79e29eec05f112443977c6cce0a701494f92789f4b35b56c8a1fd0f532e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a231812e541d52ff9f032b91f4e98407bbaab094c07eda171dbbfcf592abe28c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb0b72c849c9f7c9d9fb466c972b3f330b982868ff134ea8db9fa08b5193310b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "265b07744cef566b54ed3fd9e99e82947f68f1b43e67ead881c7812127771a6c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92d31cbfb9797379102a687db0118fe1311a09456a8b82f4944fea54f4ef2d33", "verdict": "consistent", "reason": "uncertain: a child says 'Every school does it' about sports physicals; the fact says many U.S. schools. This overgeneralization is left uncorrected."}
+{"prompt_hash": "acbaf052978dd8acdb9789d4e960fb1c32c3e167132e75db4e9ad91bbaca5160", "verdict": "consistent", "reason": "checked: Wikipedia 'Homestead Acts' (in effect Jan 1, 1863; 160 acres; 5 years)."}
+{"prompt_hash": "f1747c685b911e01f7199eece61e5f368dc20984fbcf8d7e2fca99ff873884a4", "verdict": "adds_false_claim", "reason": "The story calls the cousin's search the Sally-Anne test, but he did not see the marble moved, so looking in the basket is not a false-belief prediction. In the test the child watches the move and predicts where Sally will look (Wikipedia 'Sally-Anne test')."}
+{"prompt_hash": "921f415d9ac1340e2d1d899d42427e33ee77aade3f4e2839c6d58da52c58470e", "verdict": "consistent", "reason": "checked: Wikipedia '1974 Canadian federal election' (July 8, 1974)."}
+{"prompt_hash": "b2569a4ea27b5490aaaf4a370502c387a99b2897f976172a345147ae0bbac2d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6de87fe66e05f580da012cc833169482af0d40b0e319e3e758aa60b68e44b777", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f566f7b16ecf5397a2e2627585067b9632738c12a962fad882056a034881ff82", "verdict": "consistent", "reason": "checked: Wikipedia 'Oganesson' (element 118, named 2016)."}
+{"prompt_hash": "2a8175f010fe43a84748c5d078ae710f5da2d596fc47a3e3b10c706a019db580", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea324f19c0fd1964d5b46eb4f2042ad4f8a3a4f70b9e633b76bf7be69f191820", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ead6c0cd577b5b5f8da1728ab483da85ba1335042f2c73c518b01d9c9fc9e40c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af61bc237cb2690d34c257a3d50796d1e19e719b970842760315a5bd88e1e7d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b3137c6bcf71f7dd9ed99a01f5f47123cc16d22566d3f7ea02f5f4a43f35400", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f1a26cc03b8d190c3b0f85e5176c04120723eeeb96264c68bc81ee167a0eb90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7e64d424f2555d6ea30c15d514851e732fc2b1f917a95de82355e869652972d", "verdict": "consistent", "reason": ""}

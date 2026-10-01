@@ -1,0 +1,40 @@
+{"prompt_hash": "e89af88b704bb105c8230bdbc9adda79bac7c6d8a18d20d6eb7a0bd664cdc237", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3affb212f87677de86b53c894b436ced36c406a1062c1c030066b5449ff2e1e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77e154d9d6d988b8d66068ac98648963c8003274c9e51b9f54ffcfcf5e2f2683", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "437c067564e02d06bbb6cfcc708643370897b9ba4b7d72125745c65d171631f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc208a01a914d5a3bfd67a799f190bd1612614a7812343013a4465962866b853", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "906a959b3de69c28f860f22933486917f59a1f69e61b101e54715c1fd1d0d33d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46bb88c73f931f7ee82303cbcbc203d86168f1d9d33179326eb06147fd33f050", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0163ab00acede950bf33f2e245b2682f8fc20ff4b610416e3cd5bf89e34665a3", "verdict": "consistent", "reason": "checked: Wikipedia 'Haiti' (fetched) gives French Haïti and Creole Ayiti; calling the French form the same name with a silent h is close enough."}
+{"prompt_hash": "5ce7cf581d61d019cfc3b75acd827fdc10702b3aa3f1d40a8576b9ac3a5483ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3fcae1175cc39c43bf482ae9736f2b74f4e3a4fe2f3441546339698b755c458", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "047c3a90224dba1359e1ab14fa3318d8c06934908797747f7e849e527e45a49e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6da56075a8a99b12bbe85cec0779f4eb3833adddeb9bc1b5773910efef9c28b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "204546424e7fc0b668a93cbcf02ef3f4228b1d64ea396a47f9669d3d2122b011", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4faf41c742b3d8a26b36b9d1966aa575d3c275b6dee430d7c3eeca9bfe30d1ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5707b615781f14b232ec46705cbdbc854ce0d4fb1cee874d6674d9eb9746ce2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91bf6baf6f8b61d9ba86fd32c8979b98c507472a4ccd586a3987bdda7a90072c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6158a1a5911d7b728d65b54fd147c86b8767170f194009f92e717ed6b2e616f6", "verdict": "adds_false_claim", "reason": "The story says Manaus's driest month (August) gets about 100 mm, so every month meets the Af rule. Wikipedia's Manaus page (fetched) gives August about 56 mm and classes Manaus as Am, tropical monsoon, not Af."}
+{"prompt_hash": "403abf44d2917040d8c8f856a5a6f2592dec29f50385f7222def5fe3d447ff4e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87172ff5a5391b9f2f9cec4de4c1b3a7139b139a3f1e2902ea99e1ced25f2a3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fffff6cc9c1bef732042d1b1e2d8aced3b43a8ea08b253d5bc6fec9b903f5fc9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6beb1bb54e0b032d6d6a34f7d1d301460c2be9a704ca478192968a4414f24681", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "deb24f8d647cba31b65a3fecaa5c89e312f7141b535573a45b0093b2790759bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9136d43c84d42d8b46af495bff47879856ec9c58212f39fa587bf78c35e6dae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "920b925e53bb6b4d0c0536754a4bd9e74c3f0557b80340f96cb3126d58dd2417", "verdict": "fact_missing", "reason": "The story never says that sweat cools the body by evaporating or that humidity slows evaporation; it only shows that humid days feel worse. Its claim that the air turned dry right after a rain shower is also doubtful."}
+{"prompt_hash": "4d8bfdfa097468a068008d7eeca55b2259bacd9b01d0e6fc3788647af83e500b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb5c7258424881a1167194ed6e8be673c15d214f3d01ad5f7fc92f6957cd02b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5128a6e4d69de9445e1e2ccfb789fd15ff0c75001e3828d4be3d9e2839b1bab", "verdict": "consistent", "reason": "checked: Wikipedia 'Ulu' (fetched) confirms it is a curved Inuit knife."}
+{"prompt_hash": "fbf3d6119d57924a69564250c39cd31a8d76b83d2abd17b9ac52bddc1c0c9109", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90720085a279f559f648720b23511986162208b1b5df359f1b3a6a150937f786", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8f73ffcafc40e550852659a87bd11f529192b0936b4ed83560d5fe1e1aa0fe41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c85f77f89a18b9dc0c147359715f30ec69f5ab1d13a57fed5293152cc4f369c6", "verdict": "consistent", "reason": "checked: Wikipedia 'Nagar kirtan' (fetched) confirms the Guru Granth Sahib is carried in Vaisakhi processions."}
+{"prompt_hash": "ca57759e468f9e6830efe45a13434bb2a6bca6624e4ead9330f572b5e061a30e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eedae3d7980549813cc067a55d0d2a2bff838e36244586cfdb45e7a1cb2dd41b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f3eeb5801eb1984562d9ca22a9bc1b0b12adc715e69d936d261ed2ccfcb035c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ccc48e87a4fd2b9668ac3ffe20c01980af7a0bbb11c08f41c8ce1891fbfc9e69", "verdict": "adds_false_claim", "reason": "The worked example says 2 hits in 4 at-bats stays .250 after three walks. Walks are not at-bats, so it stays 2/4 = .500."}
+{"prompt_hash": "6e39490d467987100e8a79b837f0a4c44144634f87aacad14d2f3d665b199477", "verdict": "fact_missing", "reason": "The story shows the ball slowing down and stopping sooner on carpet, but never says that friction or rolling resistance takes away its energy."}
+{"prompt_hash": "e595fe993ed239dcf1ba0af1b611ea74ffb3c38ed5139824a44409e927fb4ce4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a865938626f0bcc682dc47e5c63a9dbbd7be9f45552df3f9252c80253fd7a4d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f15a7ac084e26925fdd9d4f0a81e260cba4e6fb0b664df7a76ae0282a70467d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e95fc348a663c762a67a6b611cace69370c2d49ed978b8c512a5c7967a2845c2", "verdict": "consistent", "reason": ""}

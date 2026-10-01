@@ -1,0 +1,40 @@
+{"prompt_hash": "07b3dc417d912df29b4bb54c3c83d54d8cd6dd5343a100ea38552da530a6e01d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0abd7bd4da2cc3e7d856e5180df8d74b089ffb4484b8d04cea71f03939211f20", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0304a6689dbb231fb59bf6bf25166df48bfc19666d82c6e971e35a589f484cb3", "verdict": "consistent", "reason": "uncertain: universal indicator colour-to-pH mapping (orange = 3, green = 8) varies by chart; Wikipedia's chart (fetched) gives red for 3 and blue for 8."}
+{"prompt_hash": "e0841ef87836829241a85f8942921a0fe8bf9284cba62db00d8b57ac96ef4d02", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "148c89918e3301a4b18bad133e1ed64f314f0977fa838b771f3b53b07533b569", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6d9e112b0df9b814d4cd9d514f1ecb8e61d0f86839d5c273cccdfbd255ff2c9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a13bbbf3bc90d9ccf07a763771512f6672ef04383b22c359f23ec9caa354f2c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95fbf8950a69690e9c2bac475ac50a3140dc69c5e3ecaaeb11670bac55652f94", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e9b8d7662728148a2859c6bf2d623087eafa9ecee59585a12eafb30be50c7f7", "verdict": "adds_false_claim", "reason": "The poster's four percentages (38, 22, 14, 19) are said to sum to 132 and to exceed 100; they actually sum to 93."}
+{"prompt_hash": "8d0ea371bb2f889f677631e9fc277739b8b3d8073de08387d2e8cf520222f6ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "859b350196761b064a96efff74298659d69a8b929af4565855371e15388cc0fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2979b4f089f51a07b9fbc849e2287f66b34f98c6f501dd3f2e29c8bd4cd2e30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91263b8f624f4f0f39f92bcbddadd949007370f9d6e2463631775da8ee55a240", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a943b0574820a5471f130bb52b6bc2d60c6851f9c5164aa9ecdc50e610c29351", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1fe5f8ced7b9770aa4dbbe9c74899107df1cb3762e590e3fc16e301f00bbba7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7aee25a935f05d0bc7f156a279cc7654774c11e0d87e69d8a66728f2ea2e5294", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d339a8c8672ee43f0f2ce7f4f19f6a5e5771b7f24c2453ecb4cbc4326e61a734", "verdict": "adds_false_claim", "reason": "Narration says 49 is the next unmarked number after 7 in the sieve; the next unmarked number after 7 is 11 (49 is just the first multiple of 7 not already crossed out)."}
+{"prompt_hash": "74a59f55a5506cc85e29d045d434defde94abdf373b48dbb8067f9820d6eb72f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cac8b0c1d416c8ebc1eaff6c7ad2f06f8c5728f9d3895520d7f9fec6da33bbfd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5378baeb271b0820953c850a0cc8c0cdd85d3d5896af9eb402f750c021a0449a", "verdict": "adds_false_claim", "reason": "The worked step for x + 7 = 19 says subtracting 7 from the left only gives x = 19 on one side and 12 on the other; that step yields x on the left and 19 on the right, no 12 anywhere."}
+{"prompt_hash": "92f190ff124bf7089e56d524531a44c61d7f5b70a183c038ad850bbcf63505eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b0cb126c8f9c84fb8b447a9ed6841dffe17e4dbbdc0be7af6336332b17d37cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4f59fa2581ff710bc16fe3a89c0886ac497310db461232ac95fa38fc8c44548", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "386620cf0881823248a1d8eee6abd914229ebd654d658d4c1866ee045852f740", "verdict": "consistent", "reason": "uncertain: story places the children gathering stones in the first paragraph; from memory they appear in the second paragraph (Wikipedia 'The Lottery', fetched, confirms the stones and June 26, 1948 New Yorker but not paragraph number)."}
+{"prompt_hash": "b95742ea75dad4990f9a774a658f6008469e3d992e401d55e81bfdca945de6f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f20651b5a2b0af8c659e443d6fa6f24f1f3b28f777d68d9b21e6d22fe23a4bf", "verdict": "adds_false_claim", "reason": "The babysitter lays a 3-month-old in the crib with a loose blanket, presented as the safe choice; AAP safe-sleep guidance (healthychildren.org, fetched) says to keep blankets and loose bedding out of the crib."}
+{"prompt_hash": "f24fe8feb28c4c778dc6a0d7b4a23d463c046c5f86fb08d6bc411be0f204e657", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e0a4665db5627e9af4c6013d8b7ce21f67f79c7b227b522f3598e4d5fd0f3dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5685109abc6cc2b085b07c36820516faeece26c859ec96fec42c5613980047e3", "verdict": "adds_false_claim", "reason": "The story predicts, and then confirms, that a three-year-old will point to the basket; children under about 4 typically fail and point to where the marble really is (Wikipedia, Sally-Anne test, fetched). Also treats Sally-Anne as one character."}
+{"prompt_hash": "dc5bc58de2636d769447b777a1716ac5dd9ae1ed371c379f1fc9a0230d5b6477", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9423c03d5d7129f1d9c95383cd6d88e92b15b77933b217c63372f1d5303933f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68864da554ed1cfd66c4061a8cc911297d4df3957720db26fbeb14ac86f81467", "verdict": "adds_false_claim", "reason": "Narration says the 1982 emoticon came forty years before a present-day middle schooler was born; 1982 is about 30 years before such a student's birth."}
+{"prompt_hash": "bf715b333f93dba1fc82f40c9da7384c0874998e91684cc9d86ce22c6798f397", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e26a811f9fde544830a36b27221a5e929bee52ec4ad4b20fd699b27ab63c2c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d647b9456f53355033c53fd77e05303845fe2ac4f1168a3949437f8298d1b3b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "826e573fbb95bae521f9d3d1bc143fa58d38aed2551106f559b25bda20214551", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea21989d8c73894f1ce1d15779ef2e471e6fedf30a98bf841c517f3ab044e72f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f57ae2cfc15d8bbfb3d2613e001139b361a580b7c4e38bbdd7bfce27df326566", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c16315d3e75180edd82dec7d7b8ef8e9242cfb8095a1c98ae2571856f2aa3c32", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd50cba7fbc7d74b6915105a769c7a5f9d08deb0b9e8f339c82b0922b21e4692", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "ac600a3f55e75852e7ac5dbaead369b26998e82425438664293b4b2c4cebab0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc0dd5c631749ee7630397f60008bc80b22c514df06ebf8ab9aafc679c5f4519", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e51740becea2e0629b917b3424a4bef7a231d12af0375afe1de43cac4a2c340f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb3ca4c73fdbea17577152ead1a62f172765201fa1915b990b839f515bd984f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fbfa54632a8777eae81fd87020854991479b044d215a709b36c6da368bebcdc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8394649bad4eb43dbcf6afae230e8bd014287a37ea8f692267f2c5d9d362badf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0cc997059ca1b5705cbe8e9c11500e6bea9287895ffcdf00e43d5b4003174e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7a501157f4df0e4dabfc78c4b388ae79a9749834f4ac0d7c12f356180798acf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93c3f9ac1331e60ca2eaad63f145e9067abbadf198982b59c9943ee21d4ff14e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb9914890528ad83eec95e7ca09ed969b113d12bc7411d729091692117c33857", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "114bc69e14d033c65747285fef04ccd0ca53336f27513f7e3f8b274243db4fc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b9aee19407eb222884f6770ecf2287015cbc84004338adccdc6350c23ecf4fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa52e5bebc0542c4033d4cb15f22900668ac32cbca0da7443d16bc0e5abea31b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef722dcee2639f7b1fe2b9b01d6b27dcb3c2f8f9a2b729c9130a3d11e62eac5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fec5f9c59994d80f345f1f3530add2e489b8cf18c903fe3dfdd3e2be57cc2b00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cf9e9c7e9f81677794cc8dc1ba40b41ff7fa44b35c1e5a050ad89e372b45fef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ceee35d8b28160df03f563fc5456cc709e4067b3dde8a82e2bfbb696489d7bdb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1bd005a53042642145044c9aeb11b92b00de01f301b9ce30bc8aa51060b6ab3", "verdict": "consistent", "reason": "Two-sounds description is a simplification: systolic is the first tapping sound and diastolic is where the sounds muffle or disappear (en.wikipedia.org/wiki/Korotkoff_sounds)."}
+{"prompt_hash": "339ca3490f3aaecdab6b20293a569e05566b602a07d91f568671b1dd42403772", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c49d0ddd0226cdc627f796aafe61dee1f1522fa3847852b637bc0c8b71fd01b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c13102d74c2980642b9738fc482fefb75c0377d8406a212bcd1dff73449188d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00966ff69ac9c4859fd6334699108bd7897a7eb8fe03995da5fb3241f28dd61b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9d486e53c0431a50a73d62dd4bd164b1c04aa8d824b90f76522ff389a106f51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29b7a7f426fed41fc27f13a06266ac961069b6965b2a9b55dfe76788eb44c809", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90f3a09b46be886ee069bfdd1762b47d2016e12fcf455f09e32ba45387eee8b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a992fa846906f0b5c7f1800930e26b5512b0665181fd0d3958b0905f65bbee6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d79b8e70225078b6859f50e392459aced9b3402f0c65c6ea53c519e9cc95415", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad753941e5f1c2e9f08891a367b7ae5addba8af1a9fa936ac834cec29d476456", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a093bc443b7be81b4217ef39962ed023f74411ece0408bd4a4c5c27362322b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af17653f3e64881cf32dd1615c5f914758cf9bb17b8634aac19e85cce561b147", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "985683aaa586b21ceb9f8960418a31f970a696821abbec1bb1ba4135eae5cd7c", "verdict": "adds_false_claim", "reason": "The award letter gives a freshman a $5,500 Direct Subsidized Loan; first-year subsidized loans are capped at $3,500 (34 CFR 685.203(a), law.cornell.edu/cfr/text/34/685.203)."}
+{"prompt_hash": "1a672bfd64d5c97d09f8733107cd4331df454abcea1d32c1dd9e40a7d8040f57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7bdf5550b799aa6f6a2c11aabf95f6691cd42129e401cd1f92209932e41d1bce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "494c386cf9ab360d8c9f7778cbdf1204dccc3fa817046178cad07d66e01b8980", "verdict": "adds_false_claim", "reason": "Seeding is described as melting chocolate to about body temperature, and 81 F is treated as the target; dark chocolate is first melted to about 46-48 C (114-118 F) and worked at about 88-89 F (ecolechocolat.com/en/chocolate-tempering.html)."}
+{"prompt_hash": "2ec9d75679f355dd30f4a750ba66aab242f5ecfc0af50e93840f7e976af225e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a119af7f9bb1547db988e95ab9eda4cfd1f43e5c38de3693c58d3342b2545fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67d380ad3926a0a9907af14a850cc219be95c543460416cadb37c596bba1690c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f01ca7f1d2d61d94dce81f56afb7658995d4d58da4a0a8fc6a2936c04be9b4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "468c69c943a2842305554bd318fd0209e68be61625891932ca697af4ea530857", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91ccd76ee67ff7abcac1ee69a3a4d88642470bede0a3c82e820a0cdb8a3bb67a", "verdict": "consistent", "reason": ""}

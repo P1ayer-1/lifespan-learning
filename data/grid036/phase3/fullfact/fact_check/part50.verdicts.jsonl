@@ -1,0 +1,40 @@
+{"prompt_hash": "ada9b3e2d7b2658c0fab3a5226d9adea0000a39002e162ec1107f51602e7c198", "verdict": "consistent", "reason": "checked: Puck addresses the sleeping Bottom with thou ('Now, when thou wakest...') per shakespeare.mit.edu MND 4.1"}
+{"prompt_hash": "b697006a40945aa7217e8c962e45bd98c7fdd05e43da189c9be92580a878fdd7", "verdict": "adds_false_claim", "reason": "States that deceit and receipt spell the same sound two different ways; both are spelled with -cei-, so they are not an example of the ie/ei split."}
+{"prompt_hash": "f859772493a864ae81ceb5c25cd113642cfd3e717a60f4dbfd1e2acd9d04bb6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0fcad83922c923f71bd54f1e5a261915b085a732d471d2f6c1ad0d7383b291a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03aadf869b97b889bd23dfa3fd76ab61d9e3395be3709412b6ea36453f6d727b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "353a486bcbe88d62b5d2b4606998700ce996dc3efe6f10311c058bd402108de5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0aeaae3bada280c5f7a8d954d464bebfc6b95901674b9b3050b4204cc3456014", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90620eb372c4d3745e615e2f6398894886c1cde675df39c290e1445d633c4f24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5374328e5abb357b2d823e3fe8dad99996da93fca8de7993ed671f266536317c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b40af4550ce4e4547cdd6402cd3afd0d4345b573876ec2afedd1253e164b6509", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac50c9bab5f05833ec4eb032ce7ac0a2d93ebe6ec93852b8e42488ec6aa6481b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad019786136359e79dd04e8d031a4ac396c710ec9f2f86e7274968903325a5ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "995730a2e07b95920e59fda60dde736bcff7db4bfb2941fc6fbcf2f48ea73dc0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33d2fd76fa2818697b71cd9320273fe0566a02b6589d473914658c75d0fb8a7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9237dd766a8b27fd54b9ee2aae9e684c63ac8d09c7e7c808e3da3865ea93ff78", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17ee2019e25727db542613931a55224566c5579f846029c8ae49492977d10ac5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44d3e4742c4863d51cb3057812b77c6db04c34353140a1e7a173c21b4cc135b9", "verdict": "consistent", "reason": "checked: nicotine raises dopamine in the VTA-NAc pathway per Wikipedia Mesolimbic pathway"}
+{"prompt_hash": "0c057a9560df6b4cf4c772195758be392d0341b21f2e28164605567d391388d2", "verdict": "consistent", "reason": "checked: Al-Mulk is surah 67 with 30 verses per Wikipedia Al-Mulk"}
+{"prompt_hash": "124dfd494a1d7a61af131dbb1981a60afcd5800a0ed739b3b03b8eea3f4d4e27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1883594a63d4433af8d3cae09ce8129c6d771815a4cc2dd0e5ea8184ccfe8d41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c03b21beb27f93a479dde731ace7cf9f47e0ace596392cb878ca602f6d82a42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7cce8f4095fc72baefa30c7cb470db42c89fce89ba400cb4a0b961f2b94da65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "415fdfa3391b0506209735f5759f0e2e297af7e1a55198f503cca6c4b796de80", "verdict": "consistent", "reason": "checked: a rip shows as a river of foam moving seaward per Wikipedia Rip current"}
+{"prompt_hash": "4c9714461c374ad15384dbf993bb36b598c935c08d030b090a498ecac2bfa80f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5663b4a94a14493bad896bd4ab661977d2cc05b4750a00dac051b39cc9aaf2f8", "verdict": "consistent", "reason": "checked: Antarctica averages 166 mm and counts as a desert per Wikipedia Climate of Antarctica; Sonoran rainfall of 100-300 mm per Wikipedia Sonoran Desert"}
+{"prompt_hash": "1ffdcb71a60c48b866d17bb64ae3595b1d70c5c71c4aa9a22108b5eac1c91dc5", "verdict": "adds_false_claim", "reason": "Says reading e'en as even means swallowing a syllable; e'en is one syllable and even is two, so that misreading adds a syllable. The Titania line itself checks out (shakespeare.mit.edu MND 3.1)."}
+{"prompt_hash": "677fe39746870a08a795debbdc2a49c39eb6e9a1f28598b95207b39762dfcabe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17c6cae3079ca5f62ee254d90ab60db4fef8a505b8babf22bcfd9dc0cf27a1b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "55f291f268a44d3997cdee18713dc637bb28858e28c06d814e31d5bc64eae765", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45f685f28152ddb045246b176ab49c2d6b681f73891ef1a73e6973a1867f8c68", "verdict": "consistent", "reason": "checked: Pasteur showed that microbes produce lactic acid souring per Wikipedia Louis Pasteur; Brown named the nucleus in 1831 per Wikipedia Robert Brown"}
+{"prompt_hash": "1b0b6da8f0f34220c277ac0ec4e8499de5ef24a5f2b7bd077b868329446f40b7", "verdict": "adds_false_claim", "reason": "Explains a flat stretch followed by fast motion as the ball getting stuck on carpet and then speeding up again; a marble that stops on carpet does not start rolling fast again by itself, so this cause does not fit the graph."}
+{"prompt_hash": "57c5e930c5193a804f4aeadce7b1e3220202398812b4c4aa0b56be5051abb237", "verdict": "adds_false_claim", "reason": "Gives Cairo's wettest month as about 25 mm and Singapore's as 200 mm, then calls the shorter bar the wetter one. Per Wikipedia Climate of Egypt, 25 mm is Cairo's yearly total and its wettest month is about 6 mm; per Climate of Singapore, December is about 332 mm. The example also does not show a short bar standing for more rain."}
+{"prompt_hash": "a5e9715115b712844927722eef0e8a6288fca8eb2165bb56a867d55e5818f0b3", "verdict": "adds_false_claim", "reason": "Has a vet technician clip a glucose sensor to the dog's collar; glucose monitors have to touch the skin or use blood samples, and a collar clip cannot read blood sugar."}
+{"prompt_hash": "3ab483687d14c62014611d1a3be2732eee143398200dd50ac107ff2813d90a3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "642665680566b8426ab366c5d8b4dc574c89c4a5c932da7fed57fd238085c8eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf9033478fa7ffe46e4d7a4dd53b314ef00053e531e791332d83eba9bd25dbe5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a55b439c94195326e2d34e9f295a53e0f4d62fe8c5bb5d1e185c3fceb8f0021f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4747a3a2380e842849b1b5295bad3eb9bce9da96949ffb39075f6ab141243a3", "verdict": "consistent", "reason": "checked: Suler 2004 per Wikipedia Online disinhibition effect"}
+{"prompt_hash": "017853bc6ca0c5f6c4ceeb8d7cdc7639aec2f997b2c7fd8dcaa2e23fc8459bc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5cc055c33e58907a213d1a29899b089b7808b64d243ee3836177adfda810bab", "verdict": "adds_false_claim", "reason": "The table shows 0-4 against winning teams and 9-1 against losing teams, which is 14 games, but the story then says the ranking squishes nine games together."}

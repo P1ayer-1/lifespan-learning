@@ -1,0 +1,40 @@
+{"prompt_hash": "015707c8a17b1357701950e34274a6333f5f0dbdb5e393ccf38dffdd3ed03e54", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Motion_of_no_confidence"}
+{"prompt_hash": "9617a416f7b377fd74156ab181995dd9f2d413c47bd2d6de367f561d8e9a8f69", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/West_Virginia_State_Board_of_Education_v._Barnette"}
+{"prompt_hash": "89f302226898db4cd9f206305016ab8b8abbb12b42660b0c77756d64256ef667", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Refrigerator (FDA at or below 4 C / 40 F)"}
+{"prompt_hash": "685e44901c70a40758704da7a406d8fe0377e50b2bbaac1f9a9053f0e4f1b418", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Square_academic_cap"}
+{"prompt_hash": "6e089e438a35ef741206473667d10723fec5687f668d9bf9d79947676710c3ca", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Student_loans_in_the_United_States (accrued interest added to principal)"}
+{"prompt_hash": "de6cc470272c05c7367901efa7fc50057fd521d928996347ec68c293e7c7ff46", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Prime_Minister_of_France"}
+{"prompt_hash": "b66161e0ec11da72f8d863c688ed07926745078448b8127fdcbc65678cc77e9e", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Dinitrogen_tetroxide; https://en.wikipedia.org/wiki/Arrhenius_equation"}
+{"prompt_hash": "26d096f373ba3315bdc8b73ffc0daa14f97e981b1b88349d43b1a1a280d0988f", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Cobalt(II)_chloride; https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle"}
+{"prompt_hash": "176f9422ca24fe4c4951cbfe2c313c2a43e7c35dff99728d29c2032da27fedfc", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Stationary_point"}
+{"prompt_hash": "3f4708117ed46c47bb71ce98b36a9bda024ae0109cf0b23fd64af24e27d76d7c", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Mise_en_place"}
+{"prompt_hash": "37634f317b26d7ea81cd2775646078ffff0bc73a651b4a17048e6c6e4a68f0f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "641675bfc335bb5b06aadcceb170a6b100b9f3c1985ee0f608c093c8bac98944", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Anti-lock_braking_system"}
+{"prompt_hash": "f695335b93ed0b74b3a539df00e2bbc656669fef86f7d8d6ee76bb9cd5383bc7", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/John_Lewis_Gaddis"}
+{"prompt_hash": "646edc7434fb3b004069016e16e47a5646a3bb98cb96bd0464f034312723afaf", "verdict": "adds_false_claim", "reason": "On the fourth night the story has Sarah add a fifth candle to the four already in a row and then the shamash. The fourth night needs four candles plus the shamash, five in all (checked: https://en.wikipedia.org/wiki/Hanukkah_menorah)."}
+{"prompt_hash": "9c5c978a4a81ce77bf78492140a77127ce7f0e2267a07b81333bd8254fb2e26b", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Day_of_the_Dead"}
+{"prompt_hash": "14dd829d73e430a6f52ae17a407247c30a26b551b0391f958b9324df6ba09f57", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Sodium_chloride (58.44 g/mol); 5000/58.44 = 85.56, story's 'roughly 85.5' acceptable"}
+{"prompt_hash": "a9b33ce6208fb9dec56f99b66b31d42805a2049bf2da6810536636d23f11caca", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Electric_field (uniform between parallel plates away from edges)"}
+{"prompt_hash": "361ed525ffdf072a3196450fd7d1e70b5a05264bef372e5a5eba37636c526cb4", "verdict": "consistent", "reason": "checked: https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/"}
+{"prompt_hash": "3210ff0994c0f4bde465b7d5b6809847d770dc584c42deaf58cb5bff59ba960d", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Olympic_symbols"}
+{"prompt_hash": "cff03a13a03261c0d8f9664b50b42cf2daca3cec7b5338079d00002504df3782", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Amortization_schedule"}
+{"prompt_hash": "14edc9cdc47b2f15f6c4a8253e427932a7dcd3fdf750e0d6b295c8f37fe447fd", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"}
+{"prompt_hash": "d68e1aca140c8b14b8c2113e6c8420c5a884f222967783388fc21fe256fd7ab0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Electric_field (V/m = N/C)"}
+{"prompt_hash": "7b5da54d2a0b4484020959ba52a4c90fbe0738dffcc60733e52e0d20581721e7", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Julian_calendar"}
+{"prompt_hash": "74d1e355d95e08339ef9739a105cc085a1198d47535af7eb3288b47b6b6c744e", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Hans_Krebs_(biochemist)"}
+{"prompt_hash": "f69b59843c5b773c4212b8804787449eeee9bdbf784eb71b7db5e42d731e293c", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Informed_consent"}
+{"prompt_hash": "ad4cd2380ebe2400edd93054caf6487e9d0dd7b8725324f5da22ff73f0585d1a", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Practice_(learning_method)"}
+{"prompt_hash": "2a55b56ce5884f509a2c6fa3d55b690e757e1510873c28d7f72e230bb5ab4df2", "verdict": "consistent", "reason": "checked: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/30-completing-section-1-of-form-i-9"}
+{"prompt_hash": "30cf4b5792243a30879a1e955be61143030d9337b962b18860adbf60283f1886", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Ian_McHarg"}
+{"prompt_hash": "d15a94d821997d02d0cab54b8e32519c6e89aef5f692106230b01fab877b021c", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Progressive_overload"}
+{"prompt_hash": "67ab507c53a180f00c210d19f85fadc689e6a9dfc3e12d718018091ee3e1cac9", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Homage_to_the_Square"}
+{"prompt_hash": "2c9a31482c31dc1b9d486b59d9f9f0de766ba8ad3fc423d01dab864c1d2c4151", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Basking_in_reflected_glory"}
+{"prompt_hash": "37c80fff17a236d0cee6c6248d6558f422fe7825fea4e61cd3c2846bc1e57ef0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Election_ink"}
+{"prompt_hash": "6b0da2770ae40de2574bc52e1280a6315d94abc7ae2398dcae5b28c3167f73c2", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Raster_data"}
+{"prompt_hash": "b4d44add2cf29828ec947dbe51c438f2d6c3bc6c00b41adffa9c0e472e5174e7", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Table_read"}
+{"prompt_hash": "d9b032039db29602b2d4e19ccbfcca07ec6e7548d0cc2a00da0e7674864afea5", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Day_of_the_Dead"}
+{"prompt_hash": "cdff08721bad23acbccae1d386c2edca16f24e97a06a5a3ad7b0f296767da4c0", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Situation,_task,_action,_result"}
+{"prompt_hash": "880301ae6ed578995984e79e0ef996707221992e98fca1073cc52bce58b5c6fd", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Chekhov%27s_gun"}
+{"prompt_hash": "0132730d9cc4b382be1a31da0c84b01b9205ccdc7da95765335e18137507938e", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Four_Questions"}
+{"prompt_hash": "2bb07500350299a7a306f622cbe7b207c99e01aa9c64c82e69547cdfc2877a1c", "verdict": "consistent", "reason": "checked: https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle"}
+{"prompt_hash": "a532bacc61e232589832a99ad7972416e43503f7ce0c4d02e8ecbf2e4c6fa433", "verdict": "consistent", "reason": "checked: https://www.law.cornell.edu/cfr/text/29/570.61"}

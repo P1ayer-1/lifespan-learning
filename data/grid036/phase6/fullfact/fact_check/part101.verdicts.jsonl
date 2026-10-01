@@ -1,0 +1,40 @@
+{"prompt_hash": "1842fa459236c9f946439e113c92b9ba6decf33040bb6b4c0da0db44126e101c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9680146e03559af6c5fb0d5c96c1c8f88bc085dd39e92fc5238041033557b6c", "verdict": "adds_false_claim", "reason": "Says the narrator attributed the heartbeat sound to his own anxiety. In Poe's text he decides the noise is not in his ears and insists it is the old man's heart (checked: poestories.com/read/telltaleheart)."}
+{"prompt_hash": "2b5cec4d2bec903dc4d00bac9acd33b4bbfef1419fe3aebf26aedae08d830431", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f601df4cd04e4d75570ad5845eff5e986b173face3a47dda84772db20adaf88d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ffd3e4ca7a575520c9f06211bc0f2cb0f2c1ed3e21153e90bdf6117c496ee309", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4850197d36c099d6cdf89a9dff16fdc0ad4bbe97b3aaf9cdc612f707ac6e0964", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecddc6cc939666b2606d94177b720c12fc768db0296c9b275a1fcdb460be3a9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84a215c528d77d961f3e459b7082cc09cb6fd8a4670501a3778977fa15617da4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "961f8fb210a39803e53881e8a684b7c9a1e0ed29f9addd94d4fc5a290e617142", "verdict": "adds_false_claim", "reason": "Shows a car-sized cube as 22.4 L and says a raisin weighs more than 2 g. 22.4 L is a cube about 28 cm on a side, and a raisin weighs well under 1 g. (H2O2 arithmetic is correct.)"}
+{"prompt_hash": "bced8f1263f624cd730064196bd83630ef1325510b570d60db74b7c9f59cc5c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b1e2544b18c8ef30a15feac721f870212ee3bc636cf5625b8d6597d95333396", "verdict": "adds_false_claim", "reason": "Places Charlotte Lucas's 'happiness in marriage is entirely a matter of chance' line in Chapter 12; it is in Chapter 6. Also calls 'I ask only a comfortable home' four words; it is six."}
+{"prompt_hash": "fe280c6fa0cebf9739c03c094e210f32f2952a93cbef2141a9f53cb4fcf693f7", "verdict": "adds_false_claim", "reason": "Shows the field-strength readout changing as the probe moves between the plates. The field between parallel plates is uniform, so E = V/d is the same at every point between them."}
+{"prompt_hash": "803117dfbbe95710ad483ba0f63a8b16fbc90b28212f160dd1d1794c926b2257", "verdict": "consistent", "reason": "uncertain: Luca calls lead pipes 'a nineteenth-century obsession'; the major proponents (Gilfillan 1965, Nriagu 1983) were 20th-century, but no page could be fetched to confirm. Demandt's 210 confirmed at en.wikipedia.org/wiki/Decline_of_the_Roman_Empire."}
+{"prompt_hash": "30430ab0248f05dfb71a596f66b6c500bf3b01748f37ebd2b749b50e2629bbdf", "verdict": "adds_false_claim", "reason": "Calls 2.5 m/s 'about walking speed'. Walking is about 1.4 m/s; 2.5 m/s (9 km/h) is a jog. (Gulf Stream speed fact is stated correctly.)"}
+{"prompt_hash": "d644e9288b8771e88e139372a240abc8658934e3d27d00e58027efa01a76fd6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e1b6b75267f0a2a92f853fca0c80be18545a2654370360bc97feb6c8729babf", "verdict": "consistent", "reason": "Saturday polling and numbering 1-6 on the Senate paper are consistent with aec.gov.au/Voting/How_to_vote/Voting_Senate.htm (at least 6 boxes above the line)."}
+{"prompt_hash": "93a8c8d20e3c37ae52ac2883eb8296ba4999c9a86895521b87d0bda4815ceedc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2d30371c0addc8fd4f62bacba97547f8ac966ba9c0b6fea3c475d3a23fcd1b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2af5d90fdca97a2176b6b404ca954925d8905c72e7383db07af2d5c42a1186e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49c6516d8b340dff8e45c6ea9cef2184a3d2067431e8362c151f71b9bf5fc0ed", "verdict": "adds_false_claim", "reason": "Gives the same poll's sample as 1,200, then 1,400, then 'the thousand'. One poll has one sample size; the subgroup's +/-7 figure assumes 200 of 1,000."}
+{"prompt_hash": "f9f4be5eed561c09b73a0e11f379ce8aa8c1c06360abc4cb991fbaa08a6e33ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5ed6a72a8f04a372f678aee75e2cc0c235f318ae42b2ee8fa5a077067d874ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d70eb640fee2bed8392051ee3d1478c66e135e7fba70bab602ecd113c9e900ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef74aa8e88495b0af02982dfc068b4e8c703f3343ba71b0f2f139ffb31964590", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5b0c13f212d373a232bde762f2f8602bf73a70920afdfe4d4252ef6e86e6427", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0de2e26663097da2ec32cdd73bf658be85532461608f723ab2c06eae5a92aa3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a29202a5839dec5940c509468b2adabe9374e9d42297f02afec984b7104babd8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ad579bee16e531a31d4fb7d515d264a1d7ce16fbf16f732372710e8b8e1eaf8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e25d22f6cf89948c890e7160cb037d15d7f7c4afb7e804234e5bc98cf79304cd", "verdict": "adds_false_claim", "reason": "Has the key signature change to one sharp where the G-major second theme of K. 545 enters. The key signature stays C major; the move to G is shown with accidentals (G major second theme confirmed at en.wikipedia.org/wiki/Piano_Sonata_No._16_(Mozart))."}
+{"prompt_hash": "637c12d76f8d72cceac24c9a9e5c1c28c747b2d5fb796912d8b8f70f7a9a3040", "verdict": "consistent", "reason": "Three-question format matches en.wikipedia.org/wiki/UCAS; the 4,000-character limit is on ucas.com's personal statement page."}
+{"prompt_hash": "64a2ffeb7be3de8415fe1886e1be347db1309081cfc942dd322b452245fdd434", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "656ccb69c79d0ab4b2220fc097a4c1a99555744c9240505554636d3c6541357d", "verdict": "adds_false_claim", "reason": "Shows water being poured into the wine for Elijah's cup. Elijah's cup is filled with wine; water belongs to the separate Miriam's cup custom."}
+{"prompt_hash": "b778b29c4150e316f970924f5f21fde6f79eb64e3322ae7271c9cfc94ea21043", "verdict": "adds_false_claim", "reason": "Says Holden's 'most terrific liar' line comes in the first chapter. It opens Chapter 3 of The Catcher in the Rye."}
+{"prompt_hash": "65a32dae65462d0aac809ebdf1b7695e560319cde52ae49589625d694ecb488d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18b3c33f7f6693f1212b56ddc2d5fcc6eef408adea417f64bd30c669bf1cf03a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "745caa4a4bbc580091a3973540abcd83ee0cc67df3fbf835eab90e1c0bd8e9d7", "verdict": "adds_false_claim", "reason": "Calls Wakefield's Lancet paper 'barely twelve pages'. It ran five pages, Lancet 351(9103):637-41 (checked: en.wikipedia.org/wiki/Lancet_MMR_autism_fraud). Twelve children is correct."}
+{"prompt_hash": "7fd10d109e9dab74f841b861fe062a04f74031da33bdf6e73c48b53ba019cbba", "verdict": "adds_false_claim", "reason": "Shows the gray looking warm next to orange brick and cool next to blue-gray metal, which is the reverse of simultaneous contrast. Gray next to orange shifts toward blue; the story's own explanation, which states the law correctly, contradicts the scene."}
+{"prompt_hash": "bb40b7212b8bbd5280ded86fffd5e19223edb89eae37251da920188986237e92", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47f664bdc7f80318406e590ba147d4141f690029874fc4f71db6d4932eb0788b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0cc3ad45e256a57dde4a97e2c15c0b35793bc3381c151f54d7f412c231040ec4", "verdict": "consistent", "reason": ""}

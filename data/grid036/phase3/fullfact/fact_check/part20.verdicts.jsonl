@@ -1,0 +1,40 @@
+{"prompt_hash": "0c76fca26eaa405c680b0030751539afbe7c588285813330538357cc5a4d4605", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b8262733682c3d1e2f9d7ada6ff7c8520046fa07a4731ab3816de7c2ef97f0d", "verdict": "adds_false_claim", "reason": "States a dentist's spinning drill is safe because it stops the instant it touches soft tissue. Dental drills have no such stop; that feature belongs to some table saws. Cast-saw fact itself is right (checked: Wikipedia 'Cast saw')."}
+{"prompt_hash": "39c6294d44fd1bd9efd440302aa9405673206f2066f24fa0ca5a883af7ccd473", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7843b52c575ce58c5dcdd7dde133b8133d212601232d615e481dd6db2ddbb8b2", "verdict": "consistent", "reason": "checked: Wikipedia 'Fire pole' (Engine Co. 21, Chicago, 1878)"}
+{"prompt_hash": "332e3c9424161e21bfba2bc6657dbacc1fc2117f5d50f4d54fae617d6fd11dd3", "verdict": "adds_false_claim", "reason": "Gives an invented passage as a direct quotation from the real novel Wolf Hollow and says Betty hides in the woods. In the book, Betty goes missing and falls into an old well (checked: Wikipedia 'Wolf Hollow (novel)'). The ellipsis fact is correct."}
+{"prompt_hash": "19fc34edfb87912f90a4ef0f2625951e07ab787afd8abe379128cc27b9d9f5a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52f1be918014e2e2bc8f4f933a6df1abbbcae1d3089d493619150bc76490c908", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a6ef92c33150798b3dfcbb41137bbd31077be0f52b407ddb818de0442110058e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28ae98381f292f3c880b8a96b6bbfe54085a87e3399a8c0c58e1e41d5f0c7f83", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "879c9609f1f2431547e392c43fef6782d0dad681fbb3326580ba7fb8acf4e92d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a11c4fbcf01f42e273f2678e85bd11866ab69127b3e043fc63006261d3b9e595", "verdict": "adds_false_claim", "reason": "Shows the elderly woman returning the wai with her hands higher than the boy's, and the child takes this as the rule. In a wai, the person showing more respect, usually the junior, holds the hands higher (checked: Wikipedia 'Wai (gesture)'). The head fact is correct."}
+{"prompt_hash": "91ff05dae941c56baa324aa9eef741486ccbee0fef9ad49c4564fb42ebd3c508", "verdict": "consistent", "reason": "checked: Wikipedia 'Greenstick fracture'"}
+{"prompt_hash": "65c4a8d48c458077937e19e0876301eddbc2a22b82b4cc07b75050f720fbd46b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb0163f63a3aece09aa7f1799d2aa480f5edd1cf2c0c190c72eab5a72bb762ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e70df6c090466f8cc1daf3004240595c39a89c8f00d2b23b9d25d30c7ad75e53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "acef30956c0f02ba67f1d38fc5bc36ed6c2f3e2ac22f03afa1a5ddb681be6d0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d70f6686a9bd750c69636a3a6213262f3b043361e53a7fca7be7966ec05a5a55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2590028f7bfbc1589740aee0b1469c3dcfa1438efca630cb1b9f1616971f5ee5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17d53599aedd4600434d3db46d87322f119c0da96d2d6013eefc3ad7b2c69f65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09aef3c87a31ac804ebb5011e4ae3cb60140f457ddfd7246279615fb272cb4aa", "verdict": "adds_false_claim", "reason": "Says 'tracheotomy' would have started with c-h. It starts with t; the Greek ch comes in the middle. The chorus/chef fact is correct."}
+{"prompt_hash": "ee176a1124d9f870298aac9a4e2290f39c9d630fae027cd9e1e12e1a76dc715e", "verdict": "consistent", "reason": "checked: Wikipedia 'Zaila Avant-garde'"}
+{"prompt_hash": "f8d9de7180330cb2a0281226e374b50ff9aecdf35bf841adb1bf7c8736d9674f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e029c331c36b718ad5179b368dbec5ea19466572d7e71972d97793e0d9218265", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40d56ea04e5d52b913e4551f4138e068b3c7c166efb3d7cf6e7e3fe03b19634e", "verdict": "adds_false_claim", "reason": "Writes the pinyin for 'two' (两) with a fourth-tone mark. It is liǎng, third tone (checked: Wiktionary '兩'). The measure-word fact is correct (checked: Wikipedia 'Chinese classifier')."}
+{"prompt_hash": "c5f18aa0bf053b476573e0e26b0f0f07e098333fa0d10ae11bedd5289f24fc10", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f487bb1fa1020627ddc6d4ea0882504714acc67869c88abe85812480b255dad", "verdict": "adds_false_claim", "reason": "Shows that taking away the heron leads to fewer minnows and more algae, and offers this as proof. Removing a top predator should increase its prey (here, minnows), not producers; the shaded pool is also a confound. Paine fact is correct (checked: Wikipedia 'Robert T. Paine (zoologist)')."}
+{"prompt_hash": "717d2019b3a60d3718d293110a6f94385136d822bd7bcd1fbf6cc3ad12dc0154", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96c8786af70f5e9c52e1da73ba91ee59c57d190a614b3c4009e73f57ab880f9d", "verdict": "consistent", "reason": "checked: Wikipedia 'Names of Egypt' (km.t = black land, Nile soil)"}
+{"prompt_hash": "9a7521979a01c11204590eb6a39b3f64bd27af4100709c4483f7572ed444fef6", "verdict": "consistent", "reason": "checked: NIST SP 800-63B rev 4 (15-char single-factor minimum)"}
+{"prompt_hash": "1f687e768c965d6585f1e99459a66b6c3584fc0ae2e6487c9d26e1946492cd08", "verdict": "consistent", "reason": "checked: Wikipedia 'Sesame allergy' (FASTER Act, 1 Jan 2023, nine allergens)"}
+{"prompt_hash": "f8e3b0b3ae505b9a03eb2614d3494dd1a84610ce7b6cdd4abd6d69cfb97fdc55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "368c864fd5ec2ffdfec9409772fb50a5fb8bfbeeb25db0ee5e71598bb144c5b1", "verdict": "consistent", "reason": "checked: Wikipedia 'Yom Kippur' (pikuach nefesh, required to break fast)"}
+{"prompt_hash": "acfab31e354b82b5ba8223cf3cda0643f3bcf06c370a8fc19a160eb0cd8b3898", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4428aa02a63df33100064b22c2a178a9bda769229c59b9a58a9c207cb2a3af52", "verdict": "consistent", "reason": "checked: Wikipedia 'Reading (legislature)' (first reading, no debate, printed)"}
+{"prompt_hash": "34f3212577e711a83fbae175b505541ff1d9cf2942845190a3c5068b6f0e93e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ade9823353e5f40326e5a902ef14a2aff5bb2a77bc0d3fcbe1a237cc8aafe0db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71b675d159c80b197754d65c3a4bb1344dc16ecac417283307806c99533ef70c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b914acf99e3aa9fc93d6e1e7e5321c85bc33c72a50efa38508ff9cae2d698d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97ab58ea41834e70e90207676f577cd4958083119bd2b77a1772b141f9a47acf", "verdict": "consistent", "reason": "checked: Wikipedia 'Giza pyramid complex' (workers' town and tombs)"}
+{"prompt_hash": "8131ced1b69893ea6ef8c625b3809c6bc7e494714e1f217d892f76b8b757ca51", "verdict": "consistent", "reason": ""}

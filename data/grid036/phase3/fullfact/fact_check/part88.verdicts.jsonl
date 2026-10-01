@@ -1,0 +1,40 @@
+{"prompt_hash": "47943bfb33d3d9b0967df593ab89b6a8f5e473788a8d6a12bd00f622f6737b80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45bd7ce69ea5ac64203d5b25170d144fc11c3329871fdfea653425ca6ed1ef01", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93ebec6105eeec2a8bfd0c55d7ef10f9f202cde2cfeb48403926f8c8db3066ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "52fcebb808f8140767a15e0bcd836c41db2a88a1488ae5aeb439611836e5bfbc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e03a9691432f42f51851cba3a935db51d0be0a332375b825e0217d6d13a6bbd7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0f084fa573e2418ad2311f45c15ec128c92d532d45417b1bf1cc3dca3334a1b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9df91f7892a6c7b3feba60ed4e88f85735896d439f482d9cce14691a55056280", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ecd8612a68e7d81863e970a3b27de2009e5495fd5037f0bd2e2fb60058ce5ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00246d2d788191256c5c3d40adbf348116a580e09e4e6402e7e97b5c96d2f114", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee5eb630833dae3a0364b3503edb0271e36096fc0a261181300b00ae3c20bf4a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hoh_Rainforest (about 3,300 mm/yr) and en.wikipedia.org/wiki/Sonoran_Desert (about 90-300 mm/yr) support the much taller rainforest bars."}
+{"prompt_hash": "ddeeb627f6da3caff6826e503676ba0fed76d96329061ccb04542c440e6d1fa5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19686a4aa99aef666b3499a12ed820f4b11ad1796755fc83704e33f6592d1047", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01167e1e4ca63e7c5e87673e9dbe57044f487771aaaa0600a332cbdb1bfe11d6", "verdict": "adds_false_claim", "reason": "States neon is in the third row and that sodium, magnesium and aluminium are its neighbours in the same row; neon is in period 2 (row 2) and sodium starts row 3 (checked: en.wikipedia.org/wiki/Neon)."}
+{"prompt_hash": "feeca861eda72fca1ec9a0f560e4d32e15f6392b06eba7003c0235594e83e8d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5575a397a9a4b43c79a13e88a79d01be7135f103262e225e43ed5ef429c51f7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b206e60e97fb7786f7bb4fc37be5587865c79c201def9f7ae1ab774d4ce1d50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc7328deaa3210ff425f6760731bd5aa827ec380e808aa554150314e0b898b48", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Fort_Laramie confirms 1849 gold seekers passed Fort Laramie on the westward trail."}
+{"prompt_hash": "13fc7ff31118d30e439d757dedbcf4a2610b1e45c08db3658bf8805886225d5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "497877f1833c2b56cdacca7d621308197b162dfb3b92c147ea80f6024fc0a036", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1f3a5b9aa8eb81d0539826cfd3f987eac05bf9a01dc2bcc4e13a56522075d45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "595ef4c0fcf472a43198ff5dccdb606924b8755a4f33ce91d3f838d510fce015", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eade28a08f1f3309a69e12ef49bf85875fe6ffeaa4dcffbbc4f78f2744cb284f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a64d8937ee91762af9e72591936e5354f414e50efba5ecab8008833980d2b709", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "899f153b2e5e54fc1f9b986e6e50819fb373f0edc11f84a7a60f552e24ba70b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd18f047421460f1977ebde80d18e3fd5be71cb8ff5896818800e62bd3cf6a7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ddf5d3562be347c8eb8c098388f96febacd4472e753694b258cf5c6a6e25828", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "741c86a807837e9eaf41e8e7803cf4700c31fefda1c2ee1329632b4b9c331e0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7899aa152a6b4f79652caf0e8c37f28fb31c6559480566229fe1af929dc065f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f443013cfe2c8ace535af3f38f7ea656502a028fa1cc4bf9e0d5616d9b228783", "verdict": "adds_false_claim", "reason": "Implies the browning of a roast happens with no sugar and needs only amino acids; the Maillard reaction is between amino acids and reducing sugars (checked: en.wikipedia.org/wiki/Maillard_reaction)."}
+{"prompt_hash": "a78fe4b0538b4c195bc23313d9e4fc1821c99c6c9c887ae10a50ea2742862f9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e020d3f1e9bcfd4634127a3e64ed7cd0f52c490fc24c82e918b248d1fa24c8ae", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Pinhole_glasses confirms a pinhole sharpens vision in eyes with refractive error such as myopia."}
+{"prompt_hash": "196397df3121ab3909f46784850b52b3f0a29ead38b972f8014ec1e40847c639", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1351b1fc67fc863a94dd21b608d0c51faefdb73726fe5a5c7a69ad10d55620b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22ca864d744dc07662d496d6f4b316d6ca118d30528ee5ac543a754ff2c1e077", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "836c927bf23b9c6b9161e9bf08e22fbbf6650a2fad6f4e4895f112671b71dac0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cc8c0475c0dd4f70c6e5272e10ebadf6f24b063105584af56b955c2dc596485", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12cd582bc4384ace304981e4c6d13d09fbbebecf3338c4fb8b6b806fb8d8b511", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a258588c8cadbe1d2627ce60128bf4c62311c72e05de37830d04547125ee2353", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "42cc6c05e4c86c0a79a4da6665875a9ee8ab808617afce177401184f9ec0fefa", "verdict": "adds_false_claim", "reason": "Narrator says glare refracted off the puddles; glare off a water surface is reflection, not refraction."}
+{"prompt_hash": "f05166e8395be4109bdf556ddc16e5b45e065fe33151fa89eb0b878e9249e99a", "verdict": "consistent", "reason": ""}

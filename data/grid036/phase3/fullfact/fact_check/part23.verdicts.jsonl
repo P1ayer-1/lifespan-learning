@@ -1,0 +1,40 @@
+{"prompt_hash": "49810fe727d3c06e0e46af48d4986cd3ad2b44c0ab8aee4b1d72279a15e6d6ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5b110e9af497ffb12b55b4627246c4aad8acd4b5eefe0b6e5bed16d3d147866", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb23eedf0582b337a5ed74c9465abf96ba5899c6a46d33a4d5ee70dbb76c87d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c961a24174f2911ad1e84a9424fc2586c1d3b646d5b74d6cff7772a0796b45a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7aa3e9a030e28076f6368a70c4188729d61bc254bd80d14c3a52f69cf25d4b5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59f333c9bbbd54831d2f530d4d27cf4f7210afeb69fd78873667a35b66cf6bb5", "verdict": "adds_false_claim", "reason": "Narrator says Ryan 'guessed wrong' in calling Vaisakhi a harvest festival; Vaisakhi is also a spring harvest festival in Punjab, observed together with the Khalsa founding (Wikipedia, Vaisakhi)."}
+{"prompt_hash": "8d9faeb4722f0688a03a53d4f43c123c955c8db74a5fd956e01d2d187fb627c6", "verdict": "consistent", "reason": "uncertain: savings plan of $4 per Saturday dog walk over fourteen weeks reaches $189 only if she does about 3-4 walks each Saturday (count not stated); birthday chip-in shortening the plan conflicts with the birthday being five months away."}
+{"prompt_hash": "b3004beb325c58d7f560f7136bf0f7ffb6fb178ab0d3630bedc11bcc16db408d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4c00ffd9331f6b72c78e2669a2d8d550503a74e5294c857cc1660f04830e8c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76ecb077bc7a180e2e929f5943e5bfc1f6034ca1546b7059041dbfc954778678", "verdict": "adds_false_claim", "reason": "Nolan confirms the five sixths of a cup is 'the whole cup'; 1/2 + 1/3 = 5/6, which is less than one whole cup."}
+{"prompt_hash": "f094a99006893490b44073d9decad7f810834efd497135e01f34b4b6fbc465d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4915f38f6d6657b9b40f7e8c4286456587ef24506c7fe4184abc1283971a79c7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d385cf35f86516fe591e1190aad0a8a52e999bb7126631db60a3a894bcb0323", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e65bb09141a89c780b8b34ff9b069565412198a5445d6344e081832f0386f40c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c2163e5abee6b3102f39376bf6b1027b97216274f232da209e7d664b96e9c26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "34ce060a9be4fd244c6a2ceecd77a6aed687813fbec89366b8631a901ed83bf9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "064c7a40207f2600a8529472f8e647c0393f6b3228c2517834fca6bd14cb4ece", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "093d004b76d887a1f236c78df753d7536e4e86c06ac3d09a4fa6a838b426aad1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e4c00e3de8882c3d68f4654b8ff9478ed6b21d036fd7c37812c0b2248ac9e6d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73e98669669de295df377bcd25b7349192d0695c877b3184b7e4325eae5a72cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9c791a1caa556a4b397055365d573a851e0d1dc7acdf76903906caf2264ef4f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f05b82250efe35d624197475acb1b8a03486e4ba8bfe0f3c12f5f858a60aaa5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e7d99d9644add9e0e2aca23a26cfc33c0f615f550390c14badb044140de6e91", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "301b17a7dd31d0db64819ff8c58632a69ca0908e40f3de6b55294d664d559a37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e25ffbed9d9cf86e3ad11c4038eb7acb632fcc5c303513bf59ade0a95a4c784", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a2c1f48e19955163ff7704e470ffcaee4ac49b1d3e108d8a9dd9f3a949ee52a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc3480db4a7551e615c3d634fa669737085dde4f389a7975466c7f8ea6ddeabb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cf7ac47cdd48db190fb2ec04a9c466f82ccb58459e3ce3950fb98bbdb1eba2d", "verdict": "adds_false_claim", "reason": "Lucas starts with seven paragraphs, deletes one, and announces five ('one, three, one'); 7 - 1 = 6, and five middle paragraphs minus one leaves four body paragraphs, not three."}
+{"prompt_hash": "23930d3dd0b78df22d2ac0c3b25b3de906ca3b56750af5548f909691bf8e2a6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4495dcf6a19b381ffa4fa4747ab7efd2d396093b9a510a346a87a0988f40b1d5", "verdict": "contradicts_fact", "reason": "The mother's definition of naive realism says disagreeing people must be 'uniformed' or biased; the fact says uninformed, a different word."}
+{"prompt_hash": "06713655d3b45ff025f2f3cdce73377c8c8eb4e458b023fdc372609eae438029", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b5ef1802b18b815fadaf2e0842fc696e936acd3c8a532ab6d072a395246b3c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf7b8c21d5969b0383853a6298995474c7ef9025aed1c34c967cd271b4917c5d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b354985af2db4ee0dc467cbc36e82bfe70178aa48d7a0c3a17486fb5f507d30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba55b77e20798afbfcb13c24450c0cbf8bd18348f2ea0d0c3e8f43a548f2881b", "verdict": "adds_false_claim", "reason": "Lights out at ten with a 7:00 wake-up is said to give 'a solid ten hours of rest'; 10 p.m. to 7 a.m. is nine hours."}
+{"prompt_hash": "abce0b53c66a3ac1913594530ed791fc75c789179d06f51aa9ba27af24e0d4e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98fae988320d32a3a4cf90b6ce0423a56b52f3631279c0923e611c40450ff177", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d94b3dd2705fa129334357931baa7405cd81cf641763dcbebaba8f3ceee6ec3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "792779c84973ba8ade4229b7adf83d5ddcc685c9443c852ffca04c5ec6a767d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac70ba7476279efacf71a7651d53f6ff9e12dae68ad854c09fdcd50324dc051b", "verdict": "consistent", "reason": "uncertain: 'some scientists think' jaguar paws sense ripples to fish at night; not found in fetched Wikipedia Jaguar page (which confirms jaguars eat fish), could not confirm or refute."}

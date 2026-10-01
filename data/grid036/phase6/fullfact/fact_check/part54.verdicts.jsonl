@@ -1,0 +1,40 @@
+{"prompt_hash": "750af907d408e1bffec607e88f73102866a023c68bc550dc2312ef816c25b0dc", "verdict": "adds_false_claim", "reason": "A friend states, uncorrected, that an England tenancy deposit is two months' rent. The Tenant Fees Act 2019 caps deposits at 5 weeks' rent (6 if annual rent is £50k+) (legislation.gov.uk ukpga/2019/4/schedule/1)."}
+{"prompt_hash": "a5f29519516244a7fbeaf2a1bb9b1fa60c555bdaa7ba2a65b9cf67a81b6012ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a58ceed2f32a5fc3b0d16680b30a74c6c527e68611fc9f30a2ac297968b78d54", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4044e25d77f85b3bf0cf7f55c18b0a3f530d651b386a1d21b8844982976a8d18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2876b4b1bb57ecdaafb2f1f625ce3f11f75b500b336871f32ac80476695c51f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ad66d8f6fb448914714ff9cfca5fa6ab6cbfd742dcbc99412b09fa1b87ab191", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf528ba89bb2b3c7a39c4511d119ffedf95c2ba27d93d607bb4f00b1a1a8e31e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "880b25f838c3965f965a5d9674543eff85a3220463555783c718b7c11a84af4d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58029c4256dfde856b6f28549eaea928d9b2b31a7484645943272894e1f3d17d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11d66da5639c1d38b051205efc58a3a175db1d20920178274420a6bed1d7da17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03a5d8670dbc2b14540714fdae8d086a5dfe8641aaa495c54ac021137aff05d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a65042bd6d2f461c54a008f5893b0961d50498d58cc6028a66a942892863271e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "951b316d483fe12cbbd20755005e2e2820b4715a3e6f5ac33de13e98ab55ac4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9735906f43fbbef91654bc7c3a4265b52b54d90503dddd5b06fbc06a1f6e2ad2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5926ded16b3a61fa8730abb8207a8c0ff01075d80ea74f1dad8a70eef005a12b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbd3e4ef0918349d21af86c5f831cffdbefc2f8e0384b8e7b507b6daa4a86221", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e03686417be7d1f2f972b1f907a5a14763e80b1e2b63f839fc5d6bd910a5ef1", "verdict": "adds_false_claim", "reason": "The probe readings near the plate edges (41, 31, 26 V/cm) are far above the 5 V/cm centre value (60 V over 12 cm), yet the story says the field weakens there. Fringing makes the edge field weaker than V/d, not stronger."}
+{"prompt_hash": "bfddea2df431cdf9199462a5bc479dbc9ac33a4ef11737e91fdbc8980d98d0ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd6fd10c6ddf3a4637d81ce7618ae76e64e0d881e9c5468fcaab3237341c9473", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f08f4a16ecb8e915acad8d17fb0b1d06607a60100ede44db4128b4f7ebf829b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd93ad6ecbcdb62ccefc2c6a1ca11df3257e4de4fcdcb45bfa0eaca6dc3f8ff3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b06380bd7d953f02d284c8999a8de65b87fd18a483c50212656ea7c5ee692f9", "verdict": "consistent", "reason": "uncertain: the story says changing 'the constant' moved the peak left; this is wrong if it means the additive constant, and fine if it means a coefficient."}
+{"prompt_hash": "8e323d59985e873a0567aead1c58f059a218b07d381fc35428c1a404ddc79497", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13da602b26f4dc637493f29482ed7d1408321b6a549c8a26c3a2cfc3894b58ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "587a4533d6239aeadbb193eb5b848496b23b173145a03d65a5443f8e061c36a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af8be4198a314ac76c86375a97c4f0008562978fab41e6de4be97f31835705e7", "verdict": "adds_false_claim", "reason": "The story treats the first movement of Mozart's K. 331 as sonata form, with an exposition, a development and a recapitulation. That movement is a theme and variations (en.wikipedia.org Piano_Sonata_No._11_(Mozart))."}
+{"prompt_hash": "83c5f1c015490ad602068afc448e659464ec27254ed25144c960c61c87343203", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5dae0a9ec23cbc232277a9dd71237ed1219f195aa4883f1d15ff771dd71d925c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "074a9f6c43257010dc65534e4eaf76a70138a315148d8ad90d6269178e488487", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9265b11f11b23e9318260ec8f316fda180e93ac2da8b71096350e60bedf17ff1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a24179df40ae04f03e9f6fe428e9201199fcd61e98325bbf06028e8cecf0ce9f", "verdict": "adds_false_claim", "reason": "The Four Questions come after the plagues, the meal and Elijah's door, and the afikoman is hidden after that. In the Seder, Yachatz (hiding the afikoman) and the Four Questions come before the plagues and the meal, and Elijah's door comes during Barech (en.wikipedia.org Passover_Seder)."}
+{"prompt_hash": "c672a491b2063469ef8723849df162659af6197fe4a9a4f99c700f2a53d7d700", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee3fe46e5481a14d35c8de0516c56b98b10c120d1649cd7df20fde2a2144c0d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ea6bc5277fb78ded5dbb60b71816faa89b98566dddcacea8dd7bb994c2f9974", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09f099e8a01464da041314db894bed99ba2827e74ac4f46690a9bdc4fda17d43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74b750d97b9e0cfbb3a0705292e8e371d45fb6aeb792436ef6a372b531d084d4", "verdict": "adds_false_claim", "reason": "The function rises to a peak at x=3 and then falls all the way to x=8, yet its value at 8 is said to be higher than the peak. If it falls from the peak to the endpoint, f(8) must be lower than f(3)."}
+{"prompt_hash": "e2ec9407926c15719e51d03776954f73c8e0014d89ba531d2bc7726dcb5a3c58", "verdict": "adds_false_claim", "reason": "The narrator has her reach the W-4's section on allowances. Since 2020 the W-4 no longer uses withholding allowances (irs.gov FAQs on the 2020 Form W-4)."}
+{"prompt_hash": "20546741d9d83ea4acda01642a2a004e61c9fb77aedc564d9a965efbafce0b90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61f6bbf7b2e5fef87a5c1790ff87e19dee34c84289c0e075f1207108e2f68208", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54e4ee705d7032edaa7294d2c0e8b41eca30848b9cd91b5b9398d751e5c7e6d8", "verdict": "consistent", "reason": "meat slicers and balers are on the DOL list of jobs off-limits to under-18 workers (dol.gov/agencies/whd/child-labor/what-jobs-are-off-limits)."}

@@ -1,0 +1,40 @@
+{"prompt_hash": "4159e99685279d736f469fcc33a7b6d869df6fb13080b88fcfec58d8a5fcb916", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e9bb4c88b29de9a8c0863b699ea6714a8d1d32451d62f313faa3ef9c384af7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1618feeee49cb435a652b388128dc0ee35729f1f4058fd52fe45333e1ae1656f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6a7cafb7562179128092f16354daed9a5081810ecf5f1b847ab6e13b181ce6e", "verdict": "adds_false_claim", "reason": "Eliane says, uncorrected, that Aron's 36 questions start with the 'perfect day' question; that is question 4, and question 1 asks whom you would want as a dinner guest (ggia.berkeley.edu/practice/36_questions_for_increasing_closeness)."}
+{"prompt_hash": "55d1fd487b4748f350aba2aa505ad64a026b1225c9731f3cfa21fe4349fdd420", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0522b3b172d4b0e2bb5794adb8b3d3ee47cbc963f17509aba89080e5cd2c51e0", "verdict": "consistent", "reason": "Seder plate items and second cup before meal checked: en.wikipedia.org/wiki/Passover_Seder."}
+{"prompt_hash": "03c13d4fb8afd4414cd89a198f3ff47acef3b00e1ef29611711451205eb15ac5", "verdict": "adds_false_claim", "reason": "Narrator says the 60-degree launch stays aloft twice as long as the 30-degree one; flight time scales with sin(theta), so the ratio is sin60/sin30 = about 1.73, not 2 (en.wikipedia.org/wiki/Projectile_motion)."}
+{"prompt_hash": "889d6d8c80e2449a1fe355d6e89dd0c3591f77bbd127a28c78f288b2be7bd025", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05cf4b470a42ae5e67bf47749c3b5aeca014e5448f88a608f8bef30c682e9983", "verdict": "consistent", "reason": "Other four filters (advertising, sourcing, flak, anti-communism/ideology) checked: en.wikipedia.org/wiki/Propaganda_model."}
+{"prompt_hash": "88335dbfdc56bd317f130f3c30a47d128ed8fe05c989c0b1988ddc906585537a", "verdict": "adds_false_claim", "reason": "Narration places a strip of sea/shoreline at the bottom of Kahlo's Self-Portrait with Thorn Necklace and Hummingbird and ends calling the hummingbird bright green; the painting has only dense jungle foliage and a black hummingbird (en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird)."}
+{"prompt_hash": "4fa72de6fc059db7571ef263f10ce108d07e013f59757cb7a197d5d502aefdcb", "verdict": "adds_false_claim", "reason": "Story says left-endpoint rectangles undershoot and right-endpoint overshoot for a falling curve; for a decreasing function the left Riemann sum overestimates and the right underestimates (en.wikipedia.org/wiki/Riemann_sum)."}
+{"prompt_hash": "171f6681455ede4d4ca97c9a8340e07ba652a43015fe31e1f9c4623b39a6dec6", "verdict": "adds_false_claim", "reason": "Claire faces the audience as an actor, finds her LEFT hand points to the fountain, and concludes that side is stage right; facing the audience, the actor's left is stage left (en.wikipedia.org/wiki/Stage_directions). The verbal statement of the fact is correct but the worked demonstration reverses it."}
+{"prompt_hash": "a42bc765f4c1b716332774479d6ae510a624b1498904e5aec715ab394d7033c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd01f71099d5a97744fc65aead5bb34dd684601666b4200c1d9ac037cc1164dd", "verdict": "consistent", "reason": "Merton's listed causes checked: en.wikipedia.org/wiki/Unintended_consequences."}
+{"prompt_hash": "f73487120b8707691936a3c78df7622ff2d54faf920665270fd6226ed368a155", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5804b2013687ef547caf20b668801adbbe68043194d1fdd9b5aac53d750c25ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a443a22eeb5db8c1896df7cf14658ce59779027c0ac3e0b5db2ea7891958b60f", "verdict": "adds_false_claim", "reason": "Story says the 15-per-100 two-week fee, compounded over 26 periods, gives almost 400% APR; US APR is the simple periodic rate times periods (15% x 26 = 390%); compounding would give about 3,700% (en.wikipedia.org/wiki/Annual_percentage_rate)."}
+{"prompt_hash": "900ceead4f79167dc21e579479b29179c01b48ceeada04498cc82bf290d2a664", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "270b024c3a903891f860273f0d155c60853c6e040980c095ed8fefe2d53deee3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a4bd1967ea1b04d574098372591937507d3fff8728d0503ece91b01c2948a17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e56916a80527c50c1c5a0ef90ba128e8c2e3a0e042938c0db8ad7dce53b572f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "185dbeb3066d2b3aae29e09b58b2251bacf8d94ea24f1e0450534948cba3a314", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5793f57d49bc4d0feea3db44f28e78be39577f4a661d17378e59eb33b1efe2c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e2601f00cb7296042ff4fe0c34eff4dedd2eba0417185fb9c6e6266d47e0569", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0469337a6113bc33a2c485d0cd4020cd2db072aa87a264dc1420861545cdeec8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fcb6fe756735a9ce47d8b254c4c0351e5e75243d2803475fc4447ec75b143465", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f7ebf56951f47f645eeaac3116510a911ded0eeae64542c11e8577535d79fb6", "verdict": "adds_false_claim", "reason": "Narration says half the world's land is north of the equator; the Northern Hemisphere holds about two-thirds (67%) of Earth's land (en.wikipedia.org/wiki/Northern_Hemisphere)."}
+{"prompt_hash": "c39e789cc5cbc1d763fe66c33751d30f1b04fdbfc18075d1b9abac467f61a7b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4db5e5b1d1a5f50d4973c88e604a6b689c3a8b5ad22364c13bfbda45a3fb50a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70f4923f37f4352292e1f8756d51e3ddc81341cda2d899d3b284fbdca57df383", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96933410c4be932bafa67c0aa29230de781ba77db4e9d4026630c3b4fe5250a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d13c5e9b302ec502ac52739afbefbef3063f39974430c1f82c20d8d153ab22a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36689060a2de3624cff4374d02411c71f112c78962ac40301f510849994c4c98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96dceb87162299d5b8950b2b13fbce5ab090d0938315bd56dba6865817179884", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b505a3dc56acd32e57dbd0ccfd0bb439ac98970a74e85369d316056fda9138a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a171660484cd5127d63e3bd440620f8196279a8de250e32bc03e696b4a0978f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e00db0185bcc344472d01d11dc34e44fb6487acbe213144b8851bb0e28628b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51aeb54b47bf2e3dfb21bee325717fdfd2dc659e9f8a2272ca136036ab772913", "verdict": "consistent", "reason": "Driving-fault vs serious-fault definitions checked: gov.uk/driving-test/driving-test-faults-result."}
+{"prompt_hash": "989c50fdd99f747478abeb4836a6aa07bebe9bba660a34fe3916c577cc3a8980", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0973b3276d5ca3e69c339341feb085507a4ab2232277a0b5aa6cd5944deb75a3", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "0230ba029652418369cba590936765d859329eaf1536f06752eef7bc62fc6f45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fba84d4924281761de7425895678344a09103ad262190581256f36eb44d92e5a", "verdict": "consistent", "reason": "Backed by StatCan 2016 ethnic origin reference guide (98-500-x2016008): multiple origins allowed from 1981; percentages sum to 126 correctly."}
+{"prompt_hash": "b884f6193f24f05893eb0bfd81f75dd69d3be8c2ec9e8c25061a909ec614d96f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "881fe8c4f042cb5bb12d1af1d033629ab25f4368f04e4ebb1fd8317b977d4c75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea0ba317f886a364947dca6ce09b323acb9c9a96bd78bee188ed52dbee6482cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8acdac22e30508a63e040b9c5f5cd20f8bc354c2dc1f34a1f000f9fad0138bcb", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Rule_of_72; arithmetic rechecked (78, ~80.29, 103.20)."}
+{"prompt_hash": "107660be02e2de6a81d7551309cc7d2c7c32636e44a4bd3b853030b9a6018584", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2e0db505b49a1f2e983f3b65e7dc1689214241ab6d3403e36e44b4b259a20d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "620faf428dd746df8b2d7e38a0760c1ec4705118ac286992440328064e2c0927", "verdict": "consistent", "reason": "Both solution paths rechecked: x = 4."}
+{"prompt_hash": "870be574c86a86eec8faa22334ccfa25cef46b04bf7a9aec0b957399e794fc32", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a46a4671e1c11b80143f813aa60e865a38f9b3f14b21c4d218c883ec189b8dce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "059ebf9dbe889c3b3d55c3c245cc3081341a0c9c2ff8b9da6bf3cd8c3fab59bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "341e2daffc10e11a97453c4368787b0492b7f48ac1eb68f15daf9c93076d01b8", "verdict": "adds_false_claim", "reason": "Narrator says boiling pasta water spun in a tight whirl pulling everything to the middle. Boiling water churns and bubbles by convection; it does not form a spinning vortex on its own."}
+{"prompt_hash": "6bec2ca3c068959ef00b9c4f5c3756250dc6c469e6c02fa787856f7d094ae2ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73b08da9a8c9bd82c27e7cfb6e84e3bdd4af3c565df512924e49422eb62d8a1b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7859add62edaa96d6ab2748bb33f97c06457d5e1d8df063b557d536c5b554f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6fa354797f99872cd3e26aa8630396eb8376f6c64eb2bc38d63f09d9d83e03c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dbcebe1634488b896cef44fd3163d31a5b6800a6218f9909371fc2efbfdb0fd4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d10ded0904d896f90a6eb56ee0a728e25bdbdb1ed931a3a8c5311089a955d34c", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Home_advantage. Note: 'more than half, every season' is slightly overstated (NFL 2020 home teams went 127-128-1)."}
+{"prompt_hash": "d17e44e37b66e205c6cde0c0c6a254eba50c59ca8b9f490fcd2ec4aa40ffb16f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24b65a6256eb7d30ad64308be5199cdc4897c1bb5be3706235c80a8fb00b68b7", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Illusory_truth_effect (Hasher, Goldstein and Toppino 1977)."}
+{"prompt_hash": "223a633fe74360a0f1e00e80335e0d3dbe7ddaf85ed9b658455e140aaa6830ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "246edae2aa92da1e956fe91e122acc13e424d86f0ff4e435f7181440fe8269d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "882a5fe2f33e61342206ca45c328d9bd16ffcb21850c78bdce6d62f46023448c", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Hungarian_names."}
+{"prompt_hash": "9a77dfb00c8ed6403cae38d54f6e159ae8c81a507bf9ffc7ec7cf18a65d3bffc", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Nix_v._Hedden."}
+{"prompt_hash": "3271b224a553593f2025f182aeb22b7ea8c81b8c46f752deaee9f45404f8c64c", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Origami."}
+{"prompt_hash": "9202f184c38716ab38b7031f5f6dfa5ebdc5d838b8979e42224990be1ba111bc", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Antonius_Mathijsen."}
+{"prompt_hash": "1cb602b32e3e29d7525514aa694642bf32c50f0c5e431fe0b829be6622fde626", "verdict": "contradicts_fact", "reason": "The neighbor cites the scale as 'Holmes and Rade'. The authors are Thomas Holmes and Richard Rahe (per https://en.wikipedia.org/wiki/Holmes_and_Rahe_stress_scale)."}
+{"prompt_hash": "662029ac3247f4139548397b69e99155e92d4bb5e15b0e94e1c7fab7c05b592c", "verdict": "adds_false_claim", "reason": "Story says that over five years the compound balance curved sharply upward and won by a lot. At savings-account rates the five-year compound curve stays close to the simple-interest line; the gap is small (e.g. about $2 on $60 at 6%)."}
+{"prompt_hash": "d0a7a7d19bf01cb3c27381a35d62175a53f3eda80034d91e8b4c40bf231e561d", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Elizabeth_Loftus (smashed vs hit speed estimates)."}
+{"prompt_hash": "bb6bddc40ad74e0d88c10fb7eaba351eeec672f6cda4b4cf55f500b9b6b94b14", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Darwin%27s_finches."}
+{"prompt_hash": "b850418c4180e7685eac1bf59205e6768d20cbbc8d4ea9a7d228dcf19ab36702", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c12535f0897ce7147ae3d087da98c06deaeb459fa84dbe7ded4b32f5d76cd92e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4795956c638719f1a6888d672a0d30ec9df14ed047abd1afe6608e16c7e532fd", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Plain_old_telephone_service (central office powers line, battery-backed)."}
+{"prompt_hash": "5ab2612e50ea24b9be0268ba900231bbe403687745ff347e023cc059c1e7903f", "verdict": "consistent", "reason": "Backed by https://www.cdc.gov/mental-health/about/index.html."}
+{"prompt_hash": "4cddf151e64f00cac4f7ad93d58d28dcdeb804a1a8f1b84203aa0390e5efb20e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "276137a5f25293ac3b70a1bcd89265c1683ee86fb0d193612a876f9237eef9d7", "verdict": "consistent", "reason": "Iodine-starch blue-black backed by https://en.wikipedia.org/wiki/Iodine%E2%80%93starch_test."}
+{"prompt_hash": "bbd37717da811c1c130f55f90a0c4d6fc38b6d7cc2625021ad12e0cbd8d1de7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e29f126a5e20d5f0e4a42cc18ddffd56543579b0b65f4bde59252953b0077a2", "verdict": "consistent", "reason": "Backed by https://en.wikipedia.org/wiki/Piano_key_frequencies (88 = 52 white + 36 black)."}
+{"prompt_hash": "b4c56b72d500e9b9d42206d2b814e9175939f2374485a5edd2d4c20bab9597a9", "verdict": "consistent", "reason": ""}

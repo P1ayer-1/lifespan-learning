@@ -1,0 +1,40 @@
+{"prompt_hash": "dc576afc6836ee2fccbb3f485b1ffda5365611771c10f4724b96364b465e47e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f258d7f0f73438e01397e3f7d801e4fa260601ea466960f32d567a021d831a12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b451d251187646acea35aae099fcf2f660f1a43e3cc58d50d7b604659b480b6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17e20d21684747c5879fa98f85ff6cf7f48018f4bfd477e43d9077fb09e95fb6", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Anattā (rebirth with karma, no permanent self)"}
+{"prompt_hash": "769f19ffe48cad28c215b49809db916c7bac55f7685fb86403dd2f5b2bf44c72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60c634079a4105904e0c25ad9822409e2bd5feb443456466a8539c303e553100", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7489eb98d835eb83ff4846d057df291ed470109c0ff673e418649f4c483c2679", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f6dc00900a8e8fe513d1594ee8cd198097bd250c7111ac8dd81b919030e94b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b485bc991d6bd9294561290fd6e4dd94a1b1fc3ed44a0407adfc8c75045bf440", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Haftarah (prophetic reading chanted at bar/bat mitzvah)"}
+{"prompt_hash": "e925d5c6ec030c863392e3109ac9bd550760c4b8594ce767899f1d10ee941a9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6997279005241a61fcd68a6963b7e48e20629639321462292ba7c2fe1623e74", "verdict": "adds_false_claim", "reason": "The story concludes the hot chai, like the pills, is bought regardless of price, but the vendor describes demand shifting with the weather; chai is not an inelastic necessity, so this misstates inelastic demand."}
+{"prompt_hash": "182423abc61097118c4a9ca67ae3f5c46fccf7acc703f1b5c3781f0442708510", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85b083617d0301bec21f4e714ca7f4e034ccad0a66b85e298dd4a5494755c5aa", "verdict": "consistent", "reason": "checked: laws-lois.justice.gc.ca Charter s.1 and s.2(b)"}
+{"prompt_hash": "2da094f5a13618e781d4635f2114d3f95b8d796883d3588cbfe658441c99140b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22b47f5babd67d70f7762d2a95f5491de6866c47f64608597936cd82c245fe2e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Rubin_vase (Rubin c.1915, one reading at a time)"}
+{"prompt_hash": "e8a51e6b92aec01d5fcbe7c553ce110a6d098aa4ce031a243a4ec1436af906bd", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Holmes_and_Rahe_stress_scale (1967; change in residence and change in schools listed)"}
+{"prompt_hash": "b0d6a1f355a8cff37a35db4efbffd92e009f76ea7aacb90110cb48a4db0c38aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be11a429f71160bd58f2be3bf0876822bf781d3f4dfe8c726376187e74b4dcc1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec3ec8f8c8f2e8abcdfba5e141deae2ba7ddcbb4050fd55844082741f57e03f8", "verdict": "adds_false_claim", "reason": "The narrator agrees the story never says why the wishes go wrong, but in Jacobs's text Morris explains the fakir's spell was meant to show that fate rules lives and those who interfere do so to their sorrow (checked: en.wikisource.org/wiki/The_Monkey's_Paw)."}
+{"prompt_hash": "2b7e7dbc7e639bb1ba1be0cbde8613c9d407ceb5bafd96ff2c1c8649faf75490", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ebfc6681ea70a6fef454921fbbc2941e3d73b4626bb00a880b1237110795bf1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0eeda639cfbfd159cbb0a3f629d949d3d3397d8f1674a0ce9178e111f5c82c51", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Panic_of_1837 (depression lasted to about 1843-44)"}
+{"prompt_hash": "ce4474b9a843e9f948107335d91ee2e2dd75dccb3171cd6c3fb5c211f438c4fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68517436ab92efc46c9f6ba03b5072ea5b3915e987a878d3a9241a83146f26d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d31196948116d42123e8db6bfebb7934635defce81e5e47217a4c6f1de09f23a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ae7716d069b0d2c43373a9a8737d580e7e91b8b4cc855091c4b86c5e27eb281", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "392f7a7fa75baea5dd6c62296e9a04da847066bb614bb69ef4654e43544737ee", "verdict": "adds_false_claim", "reason": "The beekeeper says the bees used the honey to insulate the colony; bees eat stored honey as fuel to make heat, they do not use it as insulation (checked: en.wikipedia.org/wiki/Western_honey_bee)."}
+{"prompt_hash": "876a060d28e2cc048618d3844aac0494dcfec3d9c72e62e5c67a8340eb501ce4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4a1d6273ba31c375d6fc29d209435e6d00fc3628b987f16e67af9e0579f93f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa44b6b847e2c01f93bdf5ffd1490da8de05f2cdfc39f33d627fb73a72bd2728", "verdict": "adds_false_claim", "reason": "The story treats the simple future as laughable and says French speakers always use aller plus infinitive for plans; the simple future is standard correct French. It also gives 'rejoir' as French; the verb is 'rejoindre' (checked: en.wiktionary.org/wiki/rejoindre)."}
+{"prompt_hash": "18291b59f345061e9b7fd29eb232b2f8c5ec5faa5850413d6e0445fb1eca9043", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8eb3b8e39370ae31032af38341231875e8b70e96ee19c94e973b0773d19f309b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2abad5ac3fda80a2c25cf9ec951afc9e0f49eef75605f8f729d581620799f610", "verdict": "adds_false_claim", "reason": "The story says the black-key pattern flips from three-then-two at the bottom of a C major scale to two-then-three at the top; going up from C, the black keys always come as a group of two and then a group of three, and the C major scale uses only white keys."}
+{"prompt_hash": "33b085aa3685a6c0660cea9eb713c5467c62de640f60bad0b55ecc982cc85ca0", "verdict": "consistent", "reason": "uncertain: Muhammad 'turned his teacup with two fingers' as a Chinese table custom; the known custom is tapping two fingers on the table, and turning the cup is not documented (en.wikipedia.org/wiki/Chinese_tea_culture)."}
+{"prompt_hash": "5c60dca2d0e09add3513cc10554ba6d51d8f01eb4d77cfb8dc3391b548955b8a", "verdict": "adds_false_claim", "reason": "The narrator says members want seeds 'to pollinate' the vegetable bed; seeds do not pollinate anything, since pollination is the transfer of pollen by insects, wind and similar carriers."}
+{"prompt_hash": "4f01e0981ec2b18c1dd6fcf3221e0e8b8fd0c63614aaf264f31783d39b261d5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7af3a91a9d56274191f4a38c5af571e6ddc8e9dd79d7736938ed79f2b5284172", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d492af936971c90c4715b24e1a61105f9b50ccce291d8ac87999911d907d98e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Passer_rating (scale 0 to 158.3)"}
+{"prompt_hash": "c66d5411b2d769ed778e2fb37dd591e392e3c8155e72eb920c8c9ce6f9dbf812", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Inuit (Inuit means 'the people'; singular Inuk)"}
+{"prompt_hash": "652aca2bb4f2a6ca79027ac5a35c590441c5466b92f7b379cc3dad40950c0846", "verdict": "consistent", "reason": ""}

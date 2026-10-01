@@ -1,0 +1,40 @@
+{"prompt_hash": "c2650907f33a932773b0d315d05699623daf872d5c85b905ee2861bb81b4a6c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "237cc1d8ab65d6d27b015f2eef8da74c1fa6e6a3c90a8047fa7b901b5c7fa7e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf59f2fe44f7aa463d0adae663065f58d77e18d6b0aaf6ddd250d295eed45d34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "787ed1661f2f80a0f36a0aa9df5a5cb4bc8387deeedb120da0bf003eb0b58316", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1db3eeb7670699fe982593a5b454dbeb2f918aa7d3ff213768be1e0544a10907", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf278057dba5e443de5664ce6b1d2043ceec2f615deef5c1254a57e2bcf40de8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb2357d51f76586b881e9fa87b380d465ac8967ed003412437f3aa12b268b2c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a6e4092b6d15a4bbcecc4c360d82aa3240229ad6ff7c539383ee39a5c7a3b90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd732e795e2af64c217c7ab809418737b994f16f92294155c4a4026d1f4b7a6f", "verdict": "adds_false_claim", "reason": "Narrator refers to a dance at the end of Pride and Prejudice; the novel ends with engagements and marriages, its balls come early (checked: en.wikipedia.org/wiki/Pride_and_Prejudice)."}
+{"prompt_hash": "4b98761e8d183e3f4c35747a01deae87a3f75fd35abec6a04c89ff1ed749611d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57323af0cf19c1d83a50388d5ec747ff471ef642bb9e5d076b54aed34aed14b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9eee2d023e12d05b398928b9e242aaac05fd9c1d251f34700f4692b8c41c569", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7fe1cf289f916c630c513eb840ee7eead0268f62384e74517d952195f36ba6e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5924eb6d849e8be26690b2b3f1d6e04f39a90d053747e54e96e788514042d9a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9581da63fbdefde136a18441edf4732a0607be897720a02de5ab1520f6df10b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea8e3648f207670737feb5258c835125ff08328bf73fbcaa5ed1bc3f7eee974c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9419bf42fc12095505ba8de15d044dee6b5a00984620b700cb8f673f806058f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "913da52b94c78a78e8c5377c8d55ef6e1daa35c100f9bd33509119b178057413", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e017676b06fc0a18ca33422e5947701e901c8f2ee5ae7f9cab28fb380769747f", "verdict": "consistent", "reason": "uncertain: the unnamed Kahlo (Thorn Necklace and Hummingbird) is described with a red shawl; fetched descriptions do not mention clothing colour (checked: en.wikipedia.org Self-Portrait_with_Thorn_Necklace_and_Hummingbird; monkey, cat, dead hummingbird, leaves confirmed)."}
+{"prompt_hash": "0acb4e3e7b860ccdcb0dfd051e6a45738218998e0260944c6390f3fc089908b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20c25959117b23676c1062a954c87b8868d9f5c1c6820931b626213e79e4a264", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5237adffa9db72b85184c836b1702d6b36981e71bd2d9b3b46849c9cbbc1db6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1874847f5b29002778fd5b86f90202ecb89a68cd6dca2d803d86ad11174c893c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b209af28df8b32f48f80f2241984c1073786ee86995d2b181b4f807f4d3e176d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d1cfc74c64a53b486ad9f058dc7fea0d0beb927bf34d3e20b3bf6a312aa4c71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89c4946c17284af1fa7785077513790a37e7bbf4aaa27379b67c8db8fd82d108", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d3a1b80779246a0017d50034a743a6a97c54ef714abd16a7e9ddf7236b77b9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7fd5285b8f97f8cae9b0b49e6574a596c28e930e0fc21b7480164f762fe2cdc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9078f7028699d50c9765a4593abf1d5649bcb287fc7cd0ee45fb5ba2c9b3626d", "verdict": "adds_false_claim", "reason": "Story says proton flow makes ATP synthase's head spin; the F1 head is held stationary by the peripheral stalk while the c-ring and central stalk rotate inside it (checked: en.wikipedia.org/wiki/ATP_synthase)."}
+{"prompt_hash": "5ba0c97e48f52a6a0c0fc8bc2453938b4cb3a1a0dba2a67317d223ee4bdacd62", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb697bcca3efc83a7d42e65293e8f3c3024382507d0a38037a9960d631ac26c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b792eb561afc26809bf8fcfa415b286802838bceb6f939bbcf84b44a40be6c7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c291558161db2970ff51c22af87b482b920c9c9370a6898a10b0cdb1ec227a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcb94d1e029f8bc7f61d9206f3122536bb2d7e038846089bd562fed58029867f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "861556efe06b8360f435ca28bd52897cc834869e1df37dad1d41cf815261ece1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71f80d1ddf9d020d44dc9c3f012cf8e4ade73e3e422b23181e9ba62526c8b5f8", "verdict": "adds_false_claim", "reason": "An 11-point lead with a +/-3 poll margin is presented as meaning the true lead is 8 to 14 and never corrected; the margin on a lead is about twice the per-candidate margin (checked: pewresearch.org 2016 margin-of-error explainer)."}
+{"prompt_hash": "5b46f308d80eb0dc5a8dfdad41c5bae35902e46c6d014e661dbe20bf48926899", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "843ad62f7818f8bf1a49b38188d5090c488a9dc66eb6b767ba1f77155650e732", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7897ca767a18076fa77d8c1a231b5dc9176b02033d17f109126ea95577da3f95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e953c22a3516c9c397d8fe323fef817a35742fa8c3b487ae129bd13d2184c576", "verdict": "adds_false_claim", "reason": "Narrator says the federal polling station was open from seven to seven-thirty; Canada Elections Act s.128 sets 12-hour polls (e.g. 7:00-7:00 Pacific, 7:30-7:30 Mountain, 9:30-9:30 Eastern), none matching (checked: laws-lois.justice.gc.ca s.128)."}

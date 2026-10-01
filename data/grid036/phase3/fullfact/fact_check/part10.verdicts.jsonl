@@ -1,0 +1,40 @@
+{"prompt_hash": "2781ad1b8c1ff5a387de4fd74df3e3f9b456d9d0e8772f14e6ade09f70631a18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "037ec9043491b3876fc7a43265442b895ddd41da8234a0f04ffe1311298bb17c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c04351fc14299ed65c6addffd5f92f996e7e5910c7794b52d93e2693d380dcc6", "verdict": "fact_missing", "reason": "Story gives the rule (no water; burner off and lid on) but never the reason that water flashes to steam and spreads the burning oil; it substitutes a gasoline analogy."}
+{"prompt_hash": "7b4aa03e4364d22692c8f17b3e1d4d03c23f0219841e8d4107aa6ce88035ac00", "verdict": "consistent", "reason": "checked: Wikipedia 'Near-sightedness' (outdoor time lowers onset, does not reverse existing myopia)."}
+{"prompt_hash": "9cdf5e9f82749800f3d67957bc4cb81724678a5215f81f2fda42211aff768ea2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4f3cd0165bf118dd8668649f7715af4146da36657bb833dd035066a835cb61c", "verdict": "consistent", "reason": "checked: Wikipedia 'Snapchat' (Snap Map launched June 2017, shares location with friends, updates when app opened). uncertain: the story implies location is pushed constantly in the background, which is only true of the later Live Location option."}
+{"prompt_hash": "9c865f4d2cf0ecaf59a64f17740b94327b9c799429605c202a5f10d024b2438b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54aedf5d419a43220e3ae0929c48adad2583c99364de417a41a0e8f594fda141", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33d20de27a4aeeaeff94183b5abcba119b59e80512d5084abb53b7f9c18179d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecdac4a4734275cdd8083e7c01e610d49a561441e7fa190591bf4a502bc6dd75", "verdict": "adds_false_claim", "reason": "The story says the guitar's high E vibrates exactly twice as fast as the low E; in standard tuning they are E2 and E4, two octaves apart, so four times as fast (checked: Wikipedia 'Standard tuning'). Fact's A440/880 example is also missing."}
+{"prompt_hash": "103287ce58f7f2906f7dce5a67badb4e314a40243b790f3de0c8ffb895acd545", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b78159cff5e559b307518e457769c6d02d9953afe85d46d21145146253d3730", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd488856c35ea8aaf435e922caa5975502b2d4852fd95c141b86aa6c9508ade8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a9937d39c0ff67508c14ad2ed206da16cd0069452e0d451746ef642d7d4e9a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "728bc1c66d3fc481c1b752f203b002649b0f01252c9ea47b8966ab056e643fd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "63b7231066065b0763788d998f5593575a9e2b242c86b5aee38c4729888c96eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "271cdb5eeb63726eaf2cece4cac233c41cae89709618aa6573691789324c1147", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b749c70446cf95c243016531ce57782705b9f0e96704f63c8c9832e321ebae42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae14fced6c033d6a8026bf0c6d6e50cb86ea56aaf6d06f7f7ef14eafb79929b8", "verdict": "consistent", "reason": "checked: Wikipedia 'Instant replay' (Verna, Army-Navy, Dec 7 1963; slow-motion replay already used in 1962, so the rebuttal to Grandpa is not false)."}
+{"prompt_hash": "0a8b32d750e56f751eef0fcb03aa2bc0d655c19672f169f0a66414fa667c0d37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8ab2ecff9d768579a98a7479527bf33b9a86a86054c7bdb6933e0afcdba0c24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25e2622ffeee6e3894530f205706d9085e9cc33b4a65f75b0ca0b308cd86e6f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4e073dde3789d75eb64716b22ed970c44974c5d4071dea2aa8a6feeafcde927", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e97a7d565656e06ad5408d39c52526c988c5c7ff5f6386e6dbacc10a6bef8bf4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8df49eaf129d1ee29a2538069b3ac2278fc4f7ae66d48c3b1ac2eae33ca60205", "verdict": "adds_false_claim", "reason": "A character says 272 words is twenty-seven short of three hundred and another confirms it; 300 - 272 = 28."}
+{"prompt_hash": "f58e1d402013c1f1ec7b904c6536d51000a1c1e1e82ec04f4dfdf718e52c097b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ba8b8cd240e6d7b9c48012374ddfa7d0e5699bee3e4f1d8dd570174aa170527", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b65d6a38e97ec470974a95cd6e4af07622ebef22289eed5cfcf3c6e2083af03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f3eb9ad5c673caa0d48f614cdaf0e4379236eba7702fbef09130870c78669f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d84e489af8d2397be50ed7b87c94cd2982227ed4a488d161b908e23aa55f1eec", "verdict": "fact_missing", "reason": "Story conveys H = lighter/harder and B = softer/darker but never says H has more clay and B more graphite, which is the injected fact's content."}
+{"prompt_hash": "35dc42a37e35ccd1aa82f4cac590978be3f19f5cbf101cfcd2f20e875700e0cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a7082595edf95a1336faad3a8f7e1bb3338f2779833ad8e3839f77b63d7278e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "677aec24c462ab5c824f40f31505984697c517f5fbe37615922e8b4ea3ff41fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bb6f4ed8289e9b555f98859f700fa85c953ddb475cfe5b01303ca1724a8a10f", "verdict": "adds_false_claim", "reason": "Change from a five for a cash total rounded to 3.00 should be 2.00, but the story has the cashier give a toonie and a nickel (2.05) and treats the nickel as the rounding savings."}
+{"prompt_hash": "0767f4f63f28f7c6f936dc92c56ad5dbade4dda15fa18331185ebbbee943763f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cb73ab951aff18b1cc9b6035eaaa1392387f6f7da1675db2e558ac1c4dae6eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04c706970c86ccdcb6cba068f00c95b453ecd93e0a2d1a3db5d677524c3fa1ab", "verdict": "adds_false_claim", "reason": "The story says one half plus one eighth, with one half as four eighths, gives six eighths and calls it right; 4/8 + 1/8 = 5/8."}
+{"prompt_hash": "2627fea1d22ff20a09cefae4ee2c7e7201fefb6076f9078f7939ef206ac9ff2e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41869a19f62bec5abfff0a48ad2912b3903a4795ab82bd39b3a4d1f49d4c1c78", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94ed661b430074d4e2c26afdeeb66a3f747c1eff257403319906981e731ed33c", "verdict": "consistent", "reason": ""}

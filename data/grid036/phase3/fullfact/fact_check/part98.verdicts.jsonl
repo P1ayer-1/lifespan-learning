@@ -1,0 +1,40 @@
+{"prompt_hash": "f26cc585cb87cd3341486b7597736605c5346da6d6034767c420fb21a6ee50d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4f67d14a93b7cf761edd2e34f7803aebac6d4618be345d60d32ad0f0acdc442", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc61adf3fc29950760787b0b46f1a2a9ea3e021acef5d5a7d6f2241ec3be32f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba48db79c52dcc37c185dc19d4d21ce160088dddfe2879d0df4f4d5bde449ca5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc5723883f379203d3ab4d3d598c29f275d7b198e3d7938b181c55b9126f10d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0759b206bb0902e3add1356c3b83968af4f7f4b657b6bb6996162a4a02b3733b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41e3835eb927931430c1f650d1a19d37816b9247cdf2b831d18398d3b7ad8492", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "960bbce54373e1cd1a6eafd9199b05d7259967df7bba534d32f5aa8c73e6f464", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87da5bf2f10e98200a76d5aea1573064336b7ad324c89c9635d7f45ddac91774", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c75180336e4cf3a531c01d968240b7daff60d6c2e4c750de65f505dfe042c39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "054afa9dce8039730274dba9842b6da299d237968c6cdb62a5fbdcfdb6b81cc5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b89ae28792796ecf7755585278a3868889462f117e93838f94cfc1afe1afb60", "verdict": "adds_false_claim", "reason": "The fan demo presents blowing air across a wet cloth as making the dry end of the towel damp within a minute and stopping when the fan turns away; wicking, not the fan, moves water through a towel, and a fan does not noticeably wet dry cloth this way."}
+{"prompt_hash": "ea13492721cc1739a7610f62ec7e997983f12c029ced4c5dcbefa6e424977abb", "verdict": "adds_false_claim", "reason": "The story says the US was arguing in 1937 about whether to join the war; WWII had not begun in Europe and the US entry debate came in 1939-41 (Wikipedia, Institute for Propaganda Analysis: founded over domestic propaganda concerns)."}
+{"prompt_hash": "35f039a3d7a4577845afb0a0bdb825bee7bab5a75ae10a890bb42283241fa3ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3fece1f231affee25e35be6319fae9635e8750efd85f2043101bb0a393288d22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b27ab7d676da0cb263c61919792cbda99821116caaa4f722590611d0b3a2912c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "75cd9089abdc266a4cd36ab1969a159d25344afa90dab481738ff0227b66161d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a4cc2dbd0efd390a1e518af733e0ae27c3d8fcc32d117c4b5c5707d86952034", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40807e9a17ab4b52a4fb2c60578171bc6b421e804b85ddd67f61bcaa1cfb0a9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4f3552947caf944556dd6aac70cda05b02502fd332b481d6514b7f32629d927", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f283196528d9fb35ff7ba4d9b4f1941c43f31d5d7fa5cb0cacf684b9e7cc53c", "verdict": "adds_false_claim", "reason": "A character says 21 would be half of 40, uncorrected; half of 40 is 20 (21 is a majority)."}
+{"prompt_hash": "8905469cac6ca930c0f5530fb4aef83d0361e7530caf999beec46ddbf3dd02d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "407c9b41a3b0a4d0bdaccd5a05a018adeca1b0f36498726fce8b8427930eb6b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac04a91057ff03eb006d2331431e0d5b9964f49ba3f28a7230467c53c75073e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cdf8bfc0142ed22f43b7e0310902a0e41042f51e964bd4788c08a663ac35d0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31fd0ed4b0ac936ce17171f4ca6e747ad78e27e1be72e9fd2fc9a7515b6b9d28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "903e44e27d86d6e7f7c84429c212047fadd9279f39e8384596246efbd1bd703a", "verdict": "adds_false_claim", "reason": "The narrator gives laps of 2:15 and 2:22 and a 3:37 total; they add to 4:37. Rudisha splits are correct (Wikipedia 2012 men's 800 m: 49.28 at 400 m, 1:40.91 final)."}
+{"prompt_hash": "441a79f3041241d9d9f265034da38bcf0aee9fed823a4532c70600bbdfa48cfe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "453fb1f60aee48e50db76db2c04cef476bff62098eb8506f8da80071290dc7e5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "254d517fe2650073288d0601464782a6f7e90506e8d890577ae31fec27118a6f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab7755aedf84a813d1620e0103d2af6e0a3255c1880b28a307c2ea653503a487", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f6df723983d9b83ee7103d3ffec0b9a5ff9708171263ccd12cb6758979261d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "75aa864b899dc5eae0f484e1192b058c53b858c8ed029a449a7bf8cd6ca2227e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3425d60f7b3bd269c84ec7a4c0b4dabcd3bbf5328935ab0e5d121c4cfe09acf1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1a299aeb8c3978dbe91b110ea9deb7e53de2486bca8826658860f750ce4e519", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c264e0b8f7a60bd19d75b83c0bb4ee402f5cbaf37a3bcd8a7db0c8931211a360", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05ebb5389d4ad7ebb8e8b5d3dccb845c950d605f2056edb427e3d442d51b73f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bebc0d41a4f151b445d8a68a9f874d46e46589ab0d043f5d825222a8329b7244", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "811b6592c3f77a272a7128bf16f7332613f06f7ccdf938e6218bd8c02b49e3f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71b6c68f585e102f85a5b9fda51015bda7948023ba56294dcd067b86669697a9", "verdict": "consistent", "reason": "uncertain: narrator says nothing could remove the archived copies; the Internet Archive help page (help.archive.org removal request) says owners can request exclusion, reviewed with no guarantee, so passed."}

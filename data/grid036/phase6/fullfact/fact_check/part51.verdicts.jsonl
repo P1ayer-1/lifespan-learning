@@ -1,0 +1,40 @@
+{"prompt_hash": "17f5dd896188b28b4b0011d8ad0c73a208f351bac6493d0b9ce7f1668590ef2a", "verdict": "adds_false_claim", "reason": "Story says using 32 g/mol for methane instead of 16 doubled everything downstream. Dividing by a larger molar mass halves the moles (4.8/32 = 0.15 mol, giving 5.4 g water), so it cannot double the result."}
+{"prompt_hash": "3d35d1b8edccc42e0da2316171129873da4602b893669873744b91bf01019d0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91939196e97a72d4f7ae8fbceeeec7e30947b7f98757fdd932e2fb6afa1a4505", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5dd9c8b12d78114723ca6969cce64044a5c42fb15d1f8684ceccc56f7379d822", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7cb3f0e4446454e3af9e4c4b3a4f1707be60b1d82e77f647c04d9996e7cfaf3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59614690a4dd6b9a5a958f2a54cb00290115a9dbe214c66f3ef5cd81e75d4397", "verdict": "adds_false_claim", "reason": "Story treats overtime after forty hours a week as something only the union contract protects. US federal law (FLSA) requires time-and-a-half after 40 hours for covered non-exempt workers (checked: dol.gov/agencies/whd/overtime)."}
+{"prompt_hash": "67c9da7fc35f82a51c0cb2edd41505e841eb92711d23a466032da331d3069cb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7a006df25a48cb36a9978bc1c554c4f63dac230cfaf12213ca41162d3693f9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9444fe0298fc070178517a0482e96b605b70d9b8f59dfb9850e9097a9b7dfdfb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ac60a8e79d8c2b63e06b54674816f91f2e26ebaf36b8d60a1d70d6ace5276fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1b44e7052b00f5cbcbd00d2a7cd1e93e45b5c03e48de8f5f028ada83f5890eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fffdaf32f965e57a734545ef6b8caa004a7848cd5ba49db5c938b57a5c8014fa", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Cobalt(II)_chloride (forming blue CoCl4 is endothermic; heating turns it blue)"}
+{"prompt_hash": "97b167549baac2f263846bedd07cddbfa24df232993a857bfe00b8961bb3d57f", "verdict": "consistent", "reason": "checked: bls.gov/careeroutlook/2024/data-on-display/education-pays.htm (2023: 3.9% vs 5.6%)"}
+{"prompt_hash": "f112c09e4ce62fae5037774454437818c302a620f7591490a2b6f9fa17e25736", "verdict": "adds_false_claim", "reason": "The learner driver takes out his phone and reads from it while in interstate traffic, and nothing in the story corrects this. Handheld phone use while driving is unsafe and illegal in many states, including Minnesota."}
+{"prompt_hash": "6307166a1437ab91bcb9cd7b35bd67db7a8e926947c303b567418d7ab758da07", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e5a8c2de4c01a53b116e9f5162d9a0ace610ca91b89343a502569d65e2c7384f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "654433d67e2ca85adf5b6f7f8fa9f3abfe3fb730c3b2862827b90eeb679f0e1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ef0f3840dcdabede62f930dacc417acde7effc7863c0f7877830f91743b40be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67c9a7a0da54c1edd297bd1a04b8308fddbff2e548b7573af352cea5c632d2d2", "verdict": "adds_false_claim", "reason": "Eid falls in summer one year and in April the next, and the story explains this with the 10-11 day yearly shift. A shift of about 11 days a year cannot move Eid from summer to April in a single year."}
+{"prompt_hash": "b0e288cf7d22bfdcb893d9c43e4327b2dc9f06158ea3ddb952eed09c5c35e138", "verdict": "adds_false_claim", "reason": "The narrator says the 16-year-olds 'could not actually be sued for anything'. Minors can be sued; infancy mainly makes their contracts voidable (law.cornell.edu/wex/infancy). The story also presents birds cleaning crocodiles' teeth as real mutualism, which has never been documented (en.wikipedia.org/wiki/Egyptian_plover)."}
+{"prompt_hash": "874764b97f5a48451f0e32fc0bd2bafc2d04f2e002e0f449c178f3f27ec69555", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "703d945f20bc1f5d02cb2c5ffb61f6a6a8bfa64f7a31a8562b6992d3526e4892", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a5c82972e4474091eee66f15273143345c593e44e5fb24ad49a07392fb43cd1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "197d5cbb22c8d6c347fba29590db1b9372886809a94365ee38608b00da01052b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa1abb265efb0afb4f79195f674ffb9e2e14f19ed9c739cc5b63b49ae494b96f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9029e8c16562a4060f933357a8f37accce81bd72ee025cb214f9a4c0adf858cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cfc7143e8f7b0b1b7dc35de4bd96420064995125537a10bea457d2770809828", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Texas_v._Johnson (kerosene, 1984 RNC Dallas, 5-4)"}
+{"prompt_hash": "650bc985b58c3ea21a4222c615af532941540ea4390dbc6c623fddc4f67c6092", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8660cf777451ebd950c4b61c0033a7beddbd394e1285e80eac05df3220ad5ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a2607e1028c35954fb27a35575da42226195d9723e0e696356365be0e9e668a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "feae2852a69c8def5199eca9f1ecd1331fcb7415f8f5f98e30bf21f72d5b38ed", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "613941c18543085e9967cf8bdb4161c5fe512592c18f4eb79d601204d893d7d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9a43ffbd10ad66fa5c88f6b7d5528d130a1a5e9f31a3c8fbb3d91af39b83d3e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cab8849c19765c7b79d1f7f800554aeb971d32bf46e51fd4bbc28ad200ae8b3", "verdict": "adds_false_claim", "reason": "The story says one root of the derivative of a cardboard-box volume polynomial was negative. For V = x(a-2x)(b-2x), the roots of V' have a positive sum and a positive product, so both are positive (one is outside the domain)."}
+{"prompt_hash": "d2dde7088c45e8d5a2e748fb7a1c69562be111f7fce42199f259ca131b60f1ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "40904687c28596e46669849f53a08f436cf0933a4dcb8b34e191400b1c5bf550", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "809cf287e1c4b641c57a69bc06ca9080ef25dcf9d7222a2695ffdfe9502d75af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "94eaa3d21ab4a92b70e734fc44ee7d6fec165d283271b57973bc9b8fbf7796d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9bf6582ecc6a945d82084d11e0068690fc29fa364e2a851cc515eff3d2d6cb53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5e8b413c2a5807196c92f842b72d670f8965e720bf50466e30870323843d9b4", "verdict": "consistent", "reason": ""}

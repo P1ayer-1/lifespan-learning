@@ -1,0 +1,40 @@
+{"prompt_hash": "5c92933800bc44f0bfaa2abae89d97338da381544af25fae01e76faebeb1dc55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f799b72b2734be7799fdf60dc7d4ff3f95b764f11c7bb6a7ffdb94cfb142b259", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b68a3185f8a1d2dde7f26db949f46d89e2762b849540b5aa5705b2c5b9d5ace1", "verdict": "consistent", "reason": "Fact checked: en.wikipedia.org/wiki/Yom_Kippur (sunset to after dusk next day). uncertain: water 'allowed in Grandpa's version' is framed as family variant; traditional fast forbids drinking (same page)."}
+{"prompt_hash": "0d15063a948d434c04d1f0d778e10bcf31727af5568cb47805afaf367775156b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Day_of_the_Dead (Nov 1-2, ofrendas, marigold colour/scent guide souls)."}
+{"prompt_hash": "a361f2c01d2196f7331b4177d10b6c48f8404ae13c560c8eba4e05779156e42d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fcd1aff8ab592732cdb0e9ebac5c86c72991844f09fd274095894849439ac8f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f346da3b79bad3fe5bb78918c553f242114f65189f84f8ebc67e5395b1d16873", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Gleaning (Lev 19:9, 23:22 edges left for poor and strangers)."}
+{"prompt_hash": "cc57637f8be64aede10297f1fbce3cef2250afebb04eaecdd91728a363504e4f", "verdict": "consistent", "reason": "uncertain: delegation fact is the injected verified fact; municipal pages fetched returned 404, not re-verified."}
+{"prompt_hash": "6181ec3fcaaf952406b48724224c24dccb149e6d1d80625867ee48db81953195", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b2fce7a1a6e1a1dffb1c0f8ceb1b38a6486f383071f6e1dfe41c2ac2c066a61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "592e19b981aaa5832616c419038b78bf774c0811b9ba9f01e27746d06417313f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0257a3b543842e5455ca8813d7013608b6e184a76e380cc7c9c6c82cadb6ba1e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e144faeca21c4e17d448603f9e366702483258f8c29818da9aaff45d694784a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "454afbe9a54f49461c27e8eaf3239e4fb70bb1ff4b91b3719fabe39df75a31f7", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Ringelmann_effect (1913, per-person effort falls as group grows)."}
+{"prompt_hash": "ba8bb4e4d3c147e643fc8f81c9d3adb0189b4fd178adeaf4609ba736a9404ec7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4be2259d2f2c6eceea39211961f2670f5758c8052c38c8aa48448422ce4ed9a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36003d1e6f65ebfc4de25f5ce26898d48892e3395255911b107f737406ca8dc7", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Proton (~1836 times electron mass)."}
+{"prompt_hash": "8331553603a6b2fd4daf5882539c6ea4472d7c9d471f98254a5854c5c2618199", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e0260131e9af31434fa0431774596d5fd73f65876da8e8e6655f316616d75a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c289ebde6b496b4dd77f198f3b93724bf94a23ad790a186851913b8041f202b9", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Caramelization (distinct from Maillard, which involves amino acids)."}
+{"prompt_hash": "98e289644497bb6204af02f54ef918482be22290e65713cecd778ff1fbe66373", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/StoryCorps (with permission, copy archived at Library of Congress American Folklife Center)."}
+{"prompt_hash": "9efab561e23115e2b819f506ac734d9d027d2439952d0a664260ff2dde433550", "verdict": "consistent", "reason": "checked: health.harvard.edu 'Blue light has a dark side' (blue light suppresses melatonin)."}
+{"prompt_hash": "4352b63bb1f5c248e33abf05985ded9f35b0ae515609ebf5a4dcb6003dba465c", "verdict": "consistent", "reason": "checked: Purdue OWL MLA quotations page (brackets around added words)."}
+{"prompt_hash": "91f9fe2f6c1f2c135d2bee53282168b612e3d78215f35921ebc4810f95e7a8a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24b45e63b86ba7e50a28103e8a96478c0e77f388445fc75e1abd7beac65e2e34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "605d0ea4d5c6af5ff94f413b6d180e37cbeb1e9e4614dc6814e640eee228bf44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dbe3e1dcef504e308cb3c71d4c157b2ef5bd2ce0e7dda2bfcae12ed7b1ea47dc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae6b310517e8f014d7be0ea43b779c0504a84393d3273cf9f95d2892eaec3a65", "verdict": "adds_false_claim", "reason": "ae6b3105: 'Like oxygen, sixteen of everything' goes unchallenged (James says he built it). Oxygen-16 has 8 protons, 8 neutrons, 8 electrons (en.wikipedia.org/wiki/Oxygen-16). Hydrogen fact itself is correct."}
+{"prompt_hash": "4d188f4e1189f246f610b870451f26dbac83a8ffacd12ffb26352e0726153d7f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Homeopathy (homeopathic pills are sugar pellets; effects not distinguishable from placebo)."}
+{"prompt_hash": "2a3d9147f53aaf9cd46ea96aa26de19b077884454f0547bd88601fb202909813", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Celsius (F to C formula; 350F = 176.7C)."}
+{"prompt_hash": "acaaae0519bd19e84bd7192271a3adb562a0e6a0ca6c1a16280c2986e9f49799", "verdict": "adds_false_claim", "reason": "acaaae05: 'she counted twenty-two dollars. One book was left.' Sales shown (2 at $5 + 4 at $3 = $22) account for only 6 of 31 books; 30 books at $2-$5 each cannot total $22."}
+{"prompt_hash": "b8d854e4b7807924dc249c6cd74f7738e5f57c9471a357fd8d2278401d474340", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d331f5fb6f8606e44834c338ce321fad5365336819c2310ac05fc4d9ef68a6a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/International_Meridian_Conference (Washington, D.C., 1884, Greenwich)."}
+{"prompt_hash": "61937f6f8ba45c6f24c635b84f884df6a0fa7faf86da9ad6312d1513d4c52449", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99f39af287713bd4e2a2662e500624e977f826e4a9bfb5f49e6145af2124b5ea", "verdict": "consistent", "reason": "uncertain: injected Mayo Clinic fact; mayoclinic.org returned 403 on fetch, not re-verified. Rest of first aid (rinse with water, see doctor if deep/gaping/won't stop bleeding) is standard."}
+{"prompt_hash": "c6713252c39cd1f665bd3aa7357f0cf869ace9dc29a1876f3339966af0fe2586", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3425fb74e0f6e9cf3a9ca1043afe82ca80d29bf0ef24e737c668e447d4e7692", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20bc26f47e769fba5f7d8322c15e1288280e4c7def3ae24bd5aed8da53f131e6", "verdict": "consistent", "reason": "checked: cdc.gov/falls/data-research (falls leading cause of injury death 65+)."}
+{"prompt_hash": "caf7e3dd3be3e56d201767e001865dc513dca04844b1554bae9b848d5f9200af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da0828b0e8ca8c2068c349bd491787dc41646b9dfaa1b8513111efcb6ab6e9a3", "verdict": "adds_false_claim", "reason": "da0828b0: Paxton says his brother was born 'After. Ten minutes after,' and the story concludes the brother is his gēge. A brother born after you is your younger brother (dìdi) (en.wiktionary.org/wiki/哥哥). Also 'Wǒ yǒu yī gēge' omits the measure word 个 (yī gè gēge)."}

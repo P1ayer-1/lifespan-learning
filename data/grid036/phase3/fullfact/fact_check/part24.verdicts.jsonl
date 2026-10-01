@@ -1,0 +1,40 @@
+{"prompt_hash": "cfcbe6dc8dfb83015c01f256608b4f5ebcdd4794a4c401ec0423844418124313", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d0ffb6bde791f8bb2560ea8e5785462bb8ef13d4dd3ab340595d43bf2a81ea7", "verdict": "adds_false_claim", "reason": "The statement figures do not add up: a $240 balance minus a $20 payment plus $18 interest is $238, not $223, and the story has interest rising while the debt shrinks, which compounding does not cause."}
+{"prompt_hash": "3174d1a6d54ef0319d84dd26b3f8ef8dde69487bdd86e007fd73f992f094039e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "afa3c26b8ced7c487e1fbd771ed2217304eaef4532ea7acb6603cb183417ec11", "verdict": "adds_false_claim", "reason": "The story says 12.05, 77.04 (12.05 N, 77.04 E) lands in open ocean. That point is on land in Karnataka, southern India; Kollegal is at 12.15 N, 77.10 E (Wikipedia: Kollegal)."}
+{"prompt_hash": "4d236bcb2f9516022472275f409d23cae4bff9ba9dfa691b1ebb3d9b7adcf106", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbbdd8a43a6fcbb7a5c891d923e80a8326f5a07481cd7e66f21ba0708ee497d5", "verdict": "adds_false_claim", "reason": "The story says soap removes the bacteria but not the sweat. Washing with soap removes both sweat and bacteria."}
+{"prompt_hash": "29f2be1e7b082f82ad73fa5feb35c267061646153b5fa1f16e9d339e11a35b95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e4827088bf3889405ece01c4d8525bfb7c22b793e735c0cf3c234dbb65ac508", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b349b6594ed42d2d265609451ead42945338303386e8a2f3920630a8f0c13576", "verdict": "adds_false_claim", "reason": "Nolan's count-up from 7.85 (a dime, then quarters, a toonie, then five, then ten) cannot reach $10.00. Change of $2.15 would be a dime, a nickel and a toonie."}
+{"prompt_hash": "327154c9c0cbc19656a79f2ab1aaf28ec89c5386f371a3f47e0c93177a32d384", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8c0f726a3f27f7dda89a9bea165d1f6bf72802ad5ae01237395832b8b2c00b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9aa6947a94c435843b8c5a5b40ee99164ab601e4801c74b636b1310f571d309e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ae481de96ec5c9b42e864f9ecdbf1cbed78f0317d6767172362e298e483d346", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "126d5f30643f812828e1fb28cdb27d00fc37709ef6223e299d726b3fbc6fa88c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bba5c81f79ad923b6402345751bd4c7ed58250878d96fa8ad301c82b4268274", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6938068d06049192d33cdaacc92cf18709ab6ccd94099ba60fdbe1aea3941422", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd12219b9a7f9674c42ab57c9162265f3bb899f654f049fca3aead802baa2315", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2d45c98293b6ed6b422bd3b29189615a3f5eaee8d39103bb806a9c494f2405c", "verdict": "adds_false_claim", "reason": "The story gives London as 7 hours ahead of US Central time; it is 6 hours (Wikipedia: Time in the United Kingdom). It also says 90 W to 37 E is about 120 degrees (it is about 127), says Earth 'revolves' where it should say rotates, and shows the Nairobi clock at ten when Nairobi (UTC+3, Wikipedia: Time in Kenya) would be about 6-7 pm."}
+{"prompt_hash": "127a47ce3bf40ef79464f20d79cdc47d8757bf12b765ea92d816cb4587d29447", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36ada53c441fee253c288ed7fe8d7bd7f5ecaa2c7336a5eb7f93a91738de3e4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b3842acae0dd54ed37ae67b2cb9353a10f53dace8b61b798db9a36d52755ba0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d7d26217deb590d20e47b2141c6f7f4aa0e8bdd112af501433cb3c597f66c9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0519b9a1df9492a93ee25adf7187c08ca40cd2442cbf6e7c2132b422007dd6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "04c5a6918d280598ded43fd7eefc33457562fa3ccf5618586ae9ab77328d2c7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a80f2173ff3dd6d1431864e209d2531334970521778a65cfe23791bd988597d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db81ca13c1f3111082ed689802fba55e6c739ead54494c2d353574c536742af0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a55608001ecd9f5307a8a361f4b58760930de7b474190427ac1839e1e676a16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43b94f3c02ee6d82a9fc365b53109edf2e90696fad19472f1d8436c851683c82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7990bf37d2ba2f3a1b4376709f5f34172fb2ede632f638b0dcb71cce2557af8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d037d3b34e4569266f2f1f894a509822f4d279341dd41094fe38a19e5368ff9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be303cebf755b91224d034b400e8c0a0711a7b82555b49fef65a73575d7e2db9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22156c715f052a78083161ad20ce111730af0f03a81bce020a9b0b86bec8f50b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bdb178b09b856dc4eab0a96e279419e56a11e069ae4878d70aa0ae2dacc51291", "verdict": "consistent", "reason": "uncertain: whether Scratch 3 lets a 'for all sprites' variable share a name with another sprite's local variable (the Scratch Wiki 'Variable' page confirms the scope definitions but not the naming conflict)."}
+{"prompt_hash": "c81755c8a08f2e10ca13b7eeadcbc1cfc051cceaf1eb246bfe1bc46d11a2ea5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6d3d25f17ea4c67da4a6a54ecb79b1f41b3328566adc6f51686244be236eaa8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58226c18832c844b09581a230c1a1c430108a102a9241532d6af28d41fce4c19", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "381e42b7b5729275b4f99153ffaf3cc5e639080c3a8c4a5ff3898583d7c2efc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98cd8064ecc7d0187ba66ae023f94a4fb3fd7f150cd72a2945c254f1e68314f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "089a0f621a1b810cccb3db45d314e0b36f281067b18ecaead6cfa5b2621c3141", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38c2afec19be62c7e2ad7c6605c4f6fae715f69d8cf6ad584ffb3a027192ee83", "verdict": "consistent", "reason": ""}

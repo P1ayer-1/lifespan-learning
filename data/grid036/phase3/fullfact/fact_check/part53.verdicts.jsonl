@@ -1,0 +1,40 @@
+{"prompt_hash": "6bf12b9d4c27083c24c963b4561b9dc7c5a8b21dc408742acaa39c80b5e85a49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a12e8aba50b1681ce1f277e269b92db349dd326c73de984c69c7d961cb6f6399", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b2eb6f6c4fe68d2a4dfd2cdd199a8038aac2b1186224937988f1e51e24318e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7def762aa05e81ab19fce4bc87a19c7ecaa0ba0b87f2a875d3438769b3fbff5", "verdict": "adds_false_claim", "reason": "The story places a servant who shouts 'Anon' three times at a door in Romeo and Juliet. No such passage exists; in that play the word comes only from the Nurse in 1.5 ('Anon, anon!') and from Juliet in 2.2 (checked: shakespeare.mit.edu R&J 1.5, 2.2, 4.4). The famous 'Anon, anon, sir' servant is Francis in Henry IV Part 1."}
+{"prompt_hash": "9ccb171ccdbab936d3d389e08c61f875b866738e67a1bbbb4a465956b495e316", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51f6f9a00bd364c01a9626b849d175b35d308a3fc5fc6e61c69b05be12ad9d9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a7005a755e0e6243a7aba75187a183d3d2e32f1ff4afda81eb6a39ecc1077e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7fda266586529521b1b4c95ee469aac6cf122ecb50f67f1380e79b32edb2900", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f4b5d95194ea933e0e3eaf4823f9f4fe8524f33ccc0b1e6b5afd0d3641a8076", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a12044e98fb530ea075af9055ec07655eff1de51caadd8074b2178386362cd39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8369a226ec7c6c79a4e7f957cc95ddcd7395f0219a1198650ed5dcf7a26d0d9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7095fb88e5e602355e86d95484d1822f577051ea01d00d41452ef275f3eb6f4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e6fe028638b2332263847456388266eb0a081e5693e44778c6bf79fff7bb23a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50894c31d8d155b526ac76204c5b082bb8091408454d2dba23db8ef9b5a56362", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81ea7f8fd0bc04e889666170ce82dcf2f51c082e421bfc571555fb27fe0dd5a9", "verdict": "adds_false_claim", "reason": "The packet line 'Would that I were a glove upon that hand' misquotes Romeo, who says 'O, that I were a glove upon that hand' (2.2). 'That heaven finds means to kill your joys with love' is said by the Prince to Capulet and Montague in 5.3, not by a grieving character alone (checked: shakespeare.mit.edu R&J 2.2, 5.3)."}
+{"prompt_hash": "bb90c849f5341b4f59a46158220f842bf6b064e911755fdbd94daa635696d672", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0df712f8e5bc08cbb915c3a0d85227769126884c327914ff11867cd2b4f605de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "019acd29fb17b177189699d9021c9c925cf2b3d9fffa641409269b78dd1fe021", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec076ec94586f7049cebdf1fc5f935b14c6017a83e0f431930b4e0bb291e3638", "verdict": "adds_false_claim", "reason": "Copper wire is described as an alloy of two metals that can be bent a hundred times without cracking, and nobody corrects this. Copper wire is essentially pure copper, and repeated bending work-hardens it until it snaps."}
+{"prompt_hash": "e90a99ab6ee4b461a1e53de1fab8f0fb8d6eeae5cc0e7a6e07d1273264443c43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b20e17bdf90fd2492fa6a5e0725de0d4c770f1992a02f5683164c1787dd99fec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5bea76571fc5390eb699b905beef4e9cbdfb5d6da82e67ac48e0277066aeb55c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07baf194edcc499f87d81b3407d6941da166a83d68a89a5efaf97890c8b8ba32", "verdict": "adds_false_claim", "reason": "The survey's numbers don't add up. With 61 percent walking, taking away one biker (Joseph) cannot drop the walk-plus-bike share to 49.5 percent unless the school has only about nine students."}
+{"prompt_hash": "a457128ff39989227be81757d6cb62612a256de8e7e5e9c6ac165d13a9d0013f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83c96210eea1b8a8faa4d8352f4092c2f23cac073d7f1ec573622531534eaf3e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08f2be572c0311185fabcf8e12a4b9d90b79c7baba924bf4160ae731e86e0b22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b61bca1d33ca85d9588f161fd7ed344a6eab4673600577d0f93225eca340d3e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f3bf141a145010d7ef05651b278dab910fb34f3cd6721e10ab5ba77c4124440", "verdict": "adds_false_claim", "reason": "Singapore's rainfall graph gives January 80 mm and February 62 mm. Singapore averages about 222 mm in January and 105 mm in February, its driest month (checked: en.wikipedia.org/wiki/Climate_of_Singapore)."}
+{"prompt_hash": "cb2917bb78d07d8446e77a237e7a9c2b6c0958fdcc17cdc3961cf6d7c0af6c24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5a2f2a4773b2f1c1d3bc8a5739d1ee9e76d5942d23920d5839401168998f221", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed43431929d51b8afd642f16ce762e3ab142d69615c3d963fe6d7298ab8bce7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b0230b399fdcff9539aa00fcf2e54f262032e6ff6bc1fefaa1578b93b1e3fa0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abe4b4321e1680a584647eb54f2cd130af0a64207fb309fe85e1f7268d46e66f", "verdict": "fact_missing", "reason": "The story shows buyers paying for berries and heart pills whatever the price, but it never names this inelastic demand, the term the fact teaches."}
+{"prompt_hash": "f7745a9f34c902f8dc108bdb610e18cacc1586031cd51790ff39df63c53950f1", "verdict": "consistent", "reason": "uncertain: a child relays her mom's claim that 'es cansado' means tired all the time. Standard usage of ser cansado is 'tiresome'; wordreference.com/es/en (cansado) did not settle this sense."}
+{"prompt_hash": "907b97921f39d459428c4a1b0ec9f79f419a94290d4894050b54ee14ada38c1b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e53ffbe3d263515c7f6e546b28bdd938096338226e58848a488bd0093991bf9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5a374a0ded6c8af0519e7aeb755f3614ce0e2359fc162d872b53d7600e1c3a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "953079206580a2f14c3e10ef060324e44d7caf865733388973afab693cc10a17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c28f8e954780987318b943b2a801e529827f9bcd7fba0cf2fa4c57199f361f61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e2d00154a7664b36044a6cb34d76b97e4a9932aa496bbbe0a8f1ade60afee1e", "verdict": "consistent", "reason": ""}

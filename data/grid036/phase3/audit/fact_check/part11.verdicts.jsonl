@@ -1,0 +1,40 @@
+{"prompt_hash": "f7664395db9609a86fc9ebffcb9b82cffc244c4396f5aad0effb27586967cde5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02135cbb6a3f653be660ad8468e3e5cfe2b5029688f87894e8f466ce02d3c172", "verdict": "adds_false_claim", "reason": "'sunlight through the window refracted off the screen' - light bouncing off a surface is reflection; refraction is bending as light passes into a new medium (Wikipedia 'Refraction', fetched)."}
+{"prompt_hash": "91cfa4d07576ce510a310925209ae1f66c09156efe1803be3e88820ff423381a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38b588321861392b15ccf1b74bee0c56e4d2861c92c60b7ff1bafd1b452290e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cf04ab1d6203404430e109b9dc27dc411ca51552a0318d38de3cca1aa8383a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b969dcd69be5220571aa5d02834df7d230578f9802f36256460bb942596953e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7548246e7c4f98bbc074d629e33b98be1345472ec1c54e2848d24825529787d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dbcaa8ce66a5ff66424a77b7e91dfbf201189e833025dfe37e8c0dc1d6814084", "verdict": "consistent", "reason": "Lotus Improv released Feb 1991, Pito Salas's group (Wikipedia 'Lotus Improv', fetched)."}
+{"prompt_hash": "ca7a77607eb20c1610e2a3ca9589526d2df085bdca96eabd745471823f606e16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59a994bfad8009e19d14cf200196586547ab676bfdeaa44c0bd086de1f64c35e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "363d97eda97d5c3e211d9d73d4a69b6d6a91ecab97aa5001fc5a489c20936acd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2dfd3740bc2f5dc40e5435ba7ac562ad080efd0e644a50feaf1cb2dbff38a1fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce0fb61190b206a814e35c4cbb7f3e55e33e1e8da97ace2be4ec2d90296c21b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57384450c69f47ef341f040ceafda61ff8df16847f47b930dddfc81cc9f58f72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d89554570a842f3feb3d4ba65e81ff32288ca6cbea34843083ec98f25947c4f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d7d3fa975484e395c1fb43cf8610670c1e1dbcbebc32522c25784d1efa16e23", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e4c449b110e3a70ecdea65622d37c4f3fc9068bc0bd6e80501a06731ab9c47d", "verdict": "consistent", "reason": "uncertain: 'Before that, doctors used stiff splints' omits the earlier Belgian starch bandage (Wikipedia 'Antonius Mathijsen', fetched); treated as simplification. 1852 fact confirmed there."}
+{"prompt_hash": "5182aa6727fce2aae26da6542812cd9f988a80b845e2d2b9c98ab4b3993c5586", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "682c2c7378ceb9e8f6587ddd7a0a23899b85f779e9b60325ace5cdf92a2804d7", "verdict": "adds_false_claim", "reason": "'bromine, three boxes further along. He counted, wrote 35' - bromine (35) is the very next box after selenium (34), one box along, not three."}
+{"prompt_hash": "664ce47092e437490627edef98a8cb7b09a2773ca95d2a6bcda438436ac5d441", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "624ab25a177c99ea187fb973b5d51ae28d81bdb65ac63e37035c54aae5b57c45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ac1a4fdadf8453995603ac73a82c9a9d22653813e476a411dfb3ff15cf79eb7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51330e90a194cf2a1c9b66949a1d80687162f8683ba751e438343cc8eeaeb5c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6aafba02c51809b0f847bb39c48c4c4f16311c00e45e472e464eb60b2e09cdfd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60bd7cdcd12fd2e3a2cd7134eb77cc9b8700706f2ae443980eb6c17841b36d84", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6fa2bbc4a626930d91ceeba0d543ba55bc788c500c7349741ec56d1e6e9d0498", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60d52b4ad23be61b4620532a3b4857e8cb417f84e8964949f251138a3b649728", "verdict": "adds_false_claim", "reason": "'Water in a bowl by the board helps. They drift toward it.' Onion fumes are not drawn to a nearby bowl of water; only cutting under water/running water reduces irritation (Wikipedia 'Onion', fetched)."}
+{"prompt_hash": "490371d33f990d18a936f05810ad6ec2a0a1528aaad341c34b0ac97e3211c11f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6b2301cc85e086115a03587be9c64f5d7f449f81d7dd5261b5235991b856961", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a907c2a60ef03545a92e91650911fad5e70c02bca96af8aa1b9c0a705dc088d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11fbfdf2388b8dcecef27a23dce07e1c5c613fd07f195aee2fe63dcb34e1d289", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76f4c9240faeb44f37f9508e36fd56c15df1bc7806279d78cb58d6b0ae284ae0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64545db20b3d5e5e87b326c0e53252db01b437f9cf75014882d52c8edab72908", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af5dd613d23e597118659cd48c13988c76c1fdf8ae0567266cd4503535385ef3", "verdict": "adds_false_claim", "reason": "'Green had taken seventeen of the thirty-three ridings' with only eleven of 33 ballots - each riding win needs at least one Green vote, so 11 votes cannot win 17 ridings. The 2015 fact itself is stated correctly."}
+{"prompt_hash": "59af4a7e222a5307c76e28c7980d6806c046145ba2f54f1cdacfd836300b1c79", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c9882174eb20d1f3c6910ef5e00a90e61108fa3052841ceddbd90f7484f1a0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f63e21aa5de52e8d3359aa4f384a55fb0ddab0f81ce5d3e9dc94e2b1a6c6582", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c103f9af49aef455d5ac2a3a2ce6a109559b7e6b17720c922f4f57eb784d61cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17a242cc1a7a440f8f51006c5370ad56621fea8c22a0e3f46631ae4b593f31bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a25bf1e6f344dc6ce19ada7554f6dfdbbff675c1ec4224b0f969a8f7fa900194", "verdict": "consistent", "reason": ""}

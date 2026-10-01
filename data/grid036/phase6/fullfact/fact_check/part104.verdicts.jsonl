@@ -1,0 +1,40 @@
+{"prompt_hash": "8e81adedde768690c9d2f3d81901b7b0126855db0567bde52f292b106dfd58b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa6c300dbe07d1fee0c6365cc347c9a150bab433ea000cf9eaa7373d43952f5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7fe8f348d5a6c41b85fd776cb4257e21582dcd7d8f0032c32b3ba2943c28329", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4135a6e385422614ac5070bb99af344fa98b64e3445ad2bd1f9122f379858a61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51ec8cd5c3588666eb40802175ba38044f1e0a2f7c16888e7f38f7d497023743", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc9a0376d4c40425e10facd505cfc4d2e0a7022c6b94bdbe4ed8524d4927450d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5e2469712cb2d105ab4497329e5bd51efda8f987fe307af1457c7babf963e175", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc4f674ac7b746442754835ca22c977d60a18d227b33ab5b7e5a6d1b338791f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c5770c9ae6c741a8678c243b0e9a390404f599e2e2a21b95f132fd947792b59f", "verdict": "adds_false_claim", "reason": "States the Gender Shades gap as thirty-fivefold; the study's lighter-skinned male error was 0.8 percent (per en.wikipedia.org/wiki/Joy_Buolamwini), so 34.7 vs 0.8 is about 43-fold, not 35."}
+{"prompt_hash": "70bc5ef84f96f001b5969c184c29baabd0bfc051b716c67bb02edfd235160c46", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "636fac4ff59862d5e371e1d10bf81edc4dc55c6fe418dd66c3ba39abf7bf7923", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af0652f9401ded2a75b9fa1e048b9e7062b7f5192012c51c31b92f9abdb536e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b81d0b28f99251a6dcc679185801d80752f8e48745495ea6a24d7478bb98bc4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d422eedbbb4927b571ffe01afd09e2c9a2749eb4d7bba3a6977b1724210ed71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0726b53250d9af349104b631beeefbcbc9aee53198fbd9c9f6e1b352b1601277", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Texas_v._Johnson (1984 Dallas City Hall, Brennan majority, Rehnquist dissent on flag's war history)"}
+{"prompt_hash": "ed3a58a81e3f495b659ae3ed0a133b3c1d7259c758e12a1776b4d3ca8884f116", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7be1c30abc49eb428a229bf5790786b81a8252d4a07f60dcb019a8ecf8bc0faa", "verdict": "adds_false_claim", "reason": "Presents Claudia Severa's handwritten closing as accepting an invitation and praising Lepidina's presence; she was the one inviting, and her closing reads 'I shall expect you, sister. Farewell...' (en.wikipedia.org/wiki/Claudia_Severa)."}
+{"prompt_hash": "e2e90b8fd55bc6dd2ac5b14c31f724ddcb2fad8c4c8109fb595473e474c0af42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e5420713c4cc88ae6776a91ebe6541daefc41e67c4c43c909ef5ba58f08a40d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b696000a33a0aa70f7c8831d0035ebd4f6d2e820f4a1400eb5b7dfbbcf6b072", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Good_Soldier (opening line, 1915)"}
+{"prompt_hash": "341f3edaba08ff3cee579fc77601210fe151ec67b107faef8ceed74d5cafaf65", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Broken_Column (Ionic column, nails, tears, direct gaze)"}
+{"prompt_hash": "186f50af315573b0e987754da8b1fef73e7e387e6a9066680cbf058807e89189", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90cf6d9d077a1d31f6c2ec2f809a2437bf2628ca1925817b8e23482fbecac44f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08e9d56ab2144bf9dbaccc6ef00b7ba0694546a9f3f3c6253773e8ae79d3336c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f18302d12672eb7f6c11767c54975a82211ac1ca131afec0c052abb65d436ff0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b58785824714d517a7ec8d7ea4b2ae4d3c4629e2a0a92271b817c523e68b4e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a20aeb3a46fe5735cfc28b100c7fdab8272f64ea58c89458c20914d709d2162", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73b0dd1193417a2b6a24357f1c23b32fd22b15941cf54964b8338c4f52b89b4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "373e09e48a5a59d97c924e7ec994da4f29b9616294603a9c20cb068a776a06db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c55ca594d12eb468bc4bf8b3e665ef8710d050deb07f56d35c1591f42eee4d3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6d6b9f189a5eb5591408d0a4b7c8465de60d478430cd1e132001a81abb18fb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0c88473ba751bee835497a05e495be046e71e3cf36d88ca672e132281ef7889", "verdict": "adds_false_claim", "reason": "Narration says arrows pointing toward the positive plate show where a proton would be dragged; a proton is repelled by the positive plate and pulled toward the negative one, so those arrows match neither."}
+{"prompt_hash": "4903568f21aa5cad952a2c5565400b09cc2bdb072d61aa66c7e20edef58f0037", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a77dfdcee3a06d7215d80129ae23a02f0d58d1eb7bd1f1052e17c91ec23d4af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc845b290d63e45049571ae6bc4e63bc015c924459c3984a117db48632e4b9d8", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Dinitrogen_tetroxide (N2O4 to 2NO2 endothermic; heating favors brown NO2)"}
+{"prompt_hash": "39811a85807281629bb49fb549e942c19a0960312fc79ccde4cfcfab5be39e8e", "verdict": "adds_false_claim", "reason": "Has the student measure a foam grain's charge with a multimeter; ordinary multimeters cannot measure electric charge, which needs an electrometer (en.wikipedia.org/wiki/Multimeter, en.wikipedia.org/wiki/Electrometer)."}
+{"prompt_hash": "06914af837b98d5e4cda64912dadcf2381548e4229fa9063aee0980d3351600e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4b9ca5031c7fcfa2eb5d7f9cef1a458df250c3d7dd59d83f8c4de5e2c955b22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c47bba67d200e9685017db93f4d64a730bc03fc2733c6b452b59b962051f541e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6e38647a204f1e8f8e8ddcfdae436a8df49d8de915ff0eef7ae4d0eff330bd5", "verdict": "consistent", "reason": ""}

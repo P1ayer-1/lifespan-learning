@@ -1,0 +1,40 @@
+{"prompt_hash": "50e1ddc19eacd26011713e2b1a30ddcbbffd8e0ba07c464499bce7f2e0ce3a20", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6ab5c008b4a6ee318697482be295e3b0bc589b9e8c0e644ea41b198d6eb5477", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80f28e230a7a33855954c0bc8afe849ee506f9185feb62fd8e60634af89c6bfb", "verdict": "consistent", "reason": "Hydrogen as smallest atom backed by Wikipedia 'Atomic radius' (H covalent radius 25 pm, smallest)."}
+{"prompt_hash": "875931e223f84a6e99dd87fb545d491a3a6beafffb34fd20f9656f99cc4be520", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ecd7f118c1b35ada0dce122e449646a51c8b1c15eeed9102896b732239d909e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b954948f77629eb91375f27da6b09a1d88c287ab5bcaa9443e5aceb599408884", "verdict": "consistent", "reason": "Chimera Greek origin and k-sound backed by Wiktionary 'chimera'."}
+{"prompt_hash": "9d2a04c22abaca7cad2df242c84d4873c085ece9c42d50e759eb83b5906f97bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2474b223556bf3ae080fe5ad4e27451d52a32b5ce10fa058c44754f8b6137d9", "verdict": "consistent", "reason": "Denver ~39.7N 105W backed by Wikipedia 'Denver'; 111 km/degree at equator, 0 at poles backed by Wikipedia 'Longitude'."}
+{"prompt_hash": "e59d41853bfdb01aa41c50ceb77941143715342a732d8cb4421aa73b16d58a79", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "66973e220f8a02949a17b38fbec1eb1290b19efdb9dbc930f61750587c09f78e", "verdict": "consistent", "reason": "Takeoff ~2 m before vs landing ~1 m after backed by Wikipedia 'Hurdling'."}
+{"prompt_hash": "7662594e26d1364c0b19272db580eaf948dbc311361dcb251799b64c7c77b3f3", "verdict": "consistent", "reason": "Backed by Wikipedia 'Geiger-Marsden experiments'."}
+{"prompt_hash": "4db1f2d2ab6aa90f76ea53de7406e93ca69d41acb103346faf89a8093548f4db", "verdict": "adds_false_claim", "reason": "Final explanation says summer strawberries are cheap because there are many buyers as well as many boxes; more buyers pushes price up, the low summer price comes from larger supply (Wikipedia 'Economic equilibrium': if both rise, price is indeterminate)."}
+{"prompt_hash": "03c9e995f0af7793cf3e51d85bdf42bfb6b7ca706f67641943e6901ee3d1481c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "16c2ae798f62d0c8ad34fe670803fe1e68458c095030009d3a6ee7fc5cdb8f1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cad4439894e2b1ee8c86f6a55bc0263c2e7c50912908ddbb6630205849f6919", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5f8d8d585ee87bf8eb7e2a46c1b703dffd8c9219d7fe70d2369a2e1dd63aebd", "verdict": "fact_missing", "reason": "Story only mentions a reading at the Mass; it never conveys that a Mexican quinceañera usually begins with a thanksgiving Mass (Wikipedia 'Quinceañera')."}
+{"prompt_hash": "efde754a27ad658d89ea0fdb1cd918f83b99c36f59c81ce4eedb51fa40e9f6f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "349dc9bece52218bb01a0fe049de435c4d06d84e53234742d1b5fb15ede8f3db", "verdict": "consistent", "reason": "Membrane pressed to wall and pulling away in salt (plasmolysis) backed by Wikipedia 'Plasmolysis'."}
+{"prompt_hash": "a67bf3217404d40d16053127a5ddec077a64d90e54d9c8d74228880df7c2e095", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "502a955dd00c2da3e94b20074e616bf3de7de77b19d465cbacfc941b1a6398c6", "verdict": "contradicts_fact", "reason": "Teacher's definition of naive realism says disagreers must be 'uniformed' or biased; the term means uninformed (Wikipedia 'Naive realism (psychology)')."}
+{"prompt_hash": "93e7fc9419e64234621aca22fd9ba33a445e402bc23c1c4253c7a44cef0d2166", "verdict": "adds_false_claim", "reason": "Teacher asks for mooncakes at a Lunar New Year presentation; mooncakes belong to the Mid-Autumn Festival, not Lunar New Year (Wikipedia 'Mooncake'). Date range/new moon fact itself correct (Wikipedia 'Chinese New Year')."}
+{"prompt_hash": "d357002622f212d35aed72732d9ea49cf9bf2eb9d45781c924ed1f94b3e7fbbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7407b1fff66afd0d524c10456a8f55fff3ac9f85c3eda438afc25a9f4bad3a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7804147e5b57b0a93896984c9c455f7aa4d21d18ee4c6136a6396d8688533869", "verdict": "consistent", "reason": "Tuckman 1965 backed by Wikipedia 'Tuckman's stages of group development'."}
+{"prompt_hash": "2f75649af40233768aba5b0a1d68120c784cb06d8597c31f907ec3b2445adbfd", "verdict": "adds_false_claim", "reason": "Story says nobody on any team has worn 42 since 1997; grandfathered players wore it (Mariano Rivera until 2013) and every player wears it on Jackie Robinson Day (Wikipedia 'Jackie Robinson Day'). 1997 retirement fact itself correct."}
+{"prompt_hash": "8750c20b83e0fb9a94358c07da8bcab72165987d19e678060795d6406c699f2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cd16e7a088c565950782ce63bf53a4d9baac770777759befbeabd196416cfa1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0c9e2d204a2ade8b2749f1bc449fcb03e70f9feb6bd1dc8604edc181e3f3455", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de93fc9046261914ec06bc91d2d717b7da2ee56ed95e40c38f75c4dbf7b03d85", "verdict": "consistent", "reason": "Backed by Wikipedia 'Stop, drop and roll'."}
+{"prompt_hash": "1d53726554128bd1654440392fe4d026ae5096958fa480b82f1907c5f7657448", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dddabb781f50dd4d9e5e9128bc30a90eca1778df5a67c88c910f60279be9903c", "verdict": "consistent", "reason": "Bar vs column orientation backed by Microsoft Support 'Available chart types in Office'."}
+{"prompt_hash": "ccbc6146f0959356bb704f143e157db9f471e09fddba8be15b818d64f6a17e5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f42566dc2c595f8a24d456d81269d68f5f919f96f931e7e699d1542953194ed4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e886076dae10850b2b4d53e742799861cabc4b5a486394cd80b35dc2dc39d1b", "verdict": "consistent", "reason": "Backed by Wikipedia 'The dress' (Feb 2015, real dress blue and black)."}
+{"prompt_hash": "d661796e2d1258cb068015c29846e737d13d324b14b84c682f4a76809f48767d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b9534455d7e78312d794531dec811597cb568e6c3a7128c8a7b0e855795fd00", "verdict": "consistent", "reason": "RFC 1855 Netiquette Guidelines, Oct 1995, all-caps-as-shouting backed by rfc-editor.org RFC 1855."}
+{"prompt_hash": "1216fd6436f29922a8a084317fcea00d83ce7800221c669ee3127568ac73fe57", "verdict": "consistent", "reason": "Backed by Wikipedia 'Microchip implant (animal)'."}
+{"prompt_hash": "9c690ad900b33766a547bf58b1c158d601ebfcb39181011195c57f78d748a597", "verdict": "adds_false_claim", "reason": "Groundskeeper and story treat carved hands vs stars on Jewish headstones as marking congregations/afterlife beliefs; carved hands mark a Kohen (priestly lineage) (Wikipedia 'Priestly Blessing'). Orthodox/Reform fact itself correct (Wikipedia 'Jewish eschatology')."}
+{"prompt_hash": "aad3472967d49a657ebb644126da431e839331c8db0dae1c8763e5f1ee479804", "verdict": "consistent", "reason": "Toulmin claim/grounds backed by Wikipedia 'Toulmin model of argument'."}
+{"prompt_hash": "ba329f56a073db21fa8cf1b49ebbb7db9173043f828a78234413bdc58a1fd28f", "verdict": "consistent", "reason": ""}

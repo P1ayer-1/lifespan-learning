@@ -1,0 +1,40 @@
+{"prompt_hash": "e929a33fa0a375d0c77c0efef42d6d2ca69d8f6913c0071a2639826b92605a87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abd3adff69b55f749ed5bb55b45cc8dfadfb26e6d0c1387127c8e9b914e10ee9", "verdict": "consistent", "reason": "uncertain: a student says prices 'doubled in some years' in the 1970s US; true only if read as over several years (CPI roughly doubled 1973-1981), no single year doubled."}
+{"prompt_hash": "685620ab48eebac4b0ab4ade0a53445a44b6a0b8960c9bea7659f1eae8d2d9e1", "verdict": "consistent", "reason": "Niger as highest crude birth rate checked on Wikipedia 'List of countries by birth rate' (PRB 2022, CIA 2023)."}
+{"prompt_hash": "d04078a671cb2c71e3e4c8647218bbde58065db40aa2080300a3f98afe93fbab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f5322efabb1d37c579153915550ed7bff894feb12c4e96c41013668824e8528", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4165416b1798ccc007eafd95a62961698292799bddb1608ed0b4c0666e4b9bb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02e48d57718ca481037bb2a1dff208b1108cc2b328771b68a79d471e53e79a17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f22b8bdf0457d2c591a0b7c3fca70ba3a715f66b5fec2976bcc6fe3fd81982fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0447af62299427cad69b2bce5662837c67c002334e6159746555f57d55030c0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15765a7364fe4a114ac44cf56fd34ef421cd3d9d0d2ae7a5a4cf31fd61948110", "verdict": "consistent", "reason": "Urushi needing humidity to cure checked on Wikipedia 'Urushiol' (laccase requires humid conditions)."}
+{"prompt_hash": "d582c280aeac95299e81b381ebb594b2078f314fd961a43297b148f0fb7768e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a151f05f79c6b0c4a3fcc00140de702aeb2f305969b9b33e89fc350c7a5debf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fb7f924d6dce40f12f51990971ab3bdfcee6e94a7d704dd1b75df784c669633", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c15d7f8ba2de3c993d8dea9c9836574db762613842786621ac3a208a6076aa9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b4766ed4388dcfbf0eb49a80fbbc7d60a009ece7051a5cb0e67bd557ac3e75c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4dffc30677c9f30fa82fa499a12a598f08014422f5019a69ce832e5bbcca59cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72a164717cad56fe3a2ef0e750d2359b251df0bed4d2727adc35033321aaad3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03f9d3cf6f80fe8a6b2e29d1e04a2d4b2888a91e1d94c5bbfa18ed492c64de0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc82481be74378e1a47fb90d9fdc4a4989e3cb5542be9e4326452f5bed3834c4", "verdict": "adds_false_claim", "reason": "The story says Form I-9 requires a parent or guardian to sign Section 1 for any employee under 18. USCIS M-274 'Completing Section 1' says a parent or guardian completes it only for certain minors, for example those who cannot present an identity document."}
+{"prompt_hash": "026ac254157d84ccb70ceb54272a35cac3124ba6604bc74984f65718b3c80345", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b042cdcebbf81c190cf228fb807ce1279292a5eddff884423f16a3afda9abd9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45b42f2aed1b9cee5f1009744ee6f44a5c808c02c94083a40dae117031e62300", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb35d716aca8ca7385c1844ddfdd5b89edda69bd98b09fbe3c1cf49ff3a9dff7", "verdict": "consistent", "reason": "Tempering temperatures and bloom from bad tempering checked on Wikipedia 'Chocolate tempering'."}
+{"prompt_hash": "86e04ae2e2bf970a56a3c4e4f38e8d25172878997fcaedeeb7d7db91129842b7", "verdict": "consistent", "reason": "Heat-as-reactant reasoning checked on LibreTexts 'Le Chatelier's Principle' and 'Effect of Temperature on Equilibrium Composition'."}
+{"prompt_hash": "3b9f1be21ad5d5636d160960d102af0341693305f8c04a0d98cc3283bb2f6301", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7420f1eb0b92f0ebf6b7c97e0e5e5132149e8a9c73abc97eb1de4531c3928305", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b8e6dac81f32a32a050138d72e2f2ecc09740c531b411bc886f31c05e2de52c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e86134462d49fec2a53ef3510c116ca585fcc16102e1b8779566cb1ce21312f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ace1353ee204c8e0a995e6f5e2c7d9c703e6875ebf0eac452230e3148533d1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9fe271d392051c7784a45b9151e74f319f5bb10d0ffd7fd1191c7855d5589d56", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41430751296d3488b44444d7f7c13cd7f7a93cb3bf843abf83e61de565e2d0f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "75be7714777d6ea8a54182ad868a7bcf30a399fd22ad47001736164cb81e5af8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cec678fe578fbbce38da38668926a4565c66de6fc9edbc10c034ff30682208d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d6b7f0fe9d58f014485f5765713054f790d5a7db8640b947ec8c723beecc21c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec361f53aeff36ddb0932904e8d264b3114308979ce09be20225f921719ce903", "verdict": "adds_false_claim", "reason": "The story says Norway's pyramid has a wide, bulging base and that Norway will need more schools. populationpyramid.net (Norway 2024) shows a constrictive pyramid: the base is narrower than the middle because of low birth rates and an ageing population."}
+{"prompt_hash": "420eb8cd7a9900773708aa2a8e60edbc8b3a9d9b1185f687e783e3264f088a21", "verdict": "adds_false_claim", "reason": "The story treats the first movement of Mozart's Piano Sonata in A major as sonata form. Mozart's only A-major piano sonata is K. 331, and its first movement is a theme and variations, not sonata form (Wikipedia 'Piano Sonata No. 11 (Mozart)')."}
+{"prompt_hash": "6f78334f86b981fcf3d7997755312a2a37042e908efafe9fb28c4a9815ccfc0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e89060652e8460d284c284b378f1f056f2bb36dd1765131d18effc60457533a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b01666ab189c4511e93521c52b2ff4dce7e93207772279d3b95f4f91ef4dca4d", "verdict": "consistent", "reason": "uncertain: Schlesinger as an orthodox-school example not confirmed on a fetched page (his 1967 'Origins of the Cold War' is listed on Wikipedia); Williams as a revisionist confirmed on Wikipedia 'Historiography of the Cold War'."}
+{"prompt_hash": "d3a42cecd0f50768626d7ac385d9441926aae7d6bf5b068e845d8c3cf5fb2732", "verdict": "adds_false_claim", "reason": "On the fourth night the story ends with 'nine little lights' burning. Only five are lit then: four candles plus the shamash."}

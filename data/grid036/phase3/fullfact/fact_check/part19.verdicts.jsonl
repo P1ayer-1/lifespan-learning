@@ -1,0 +1,40 @@
+{"prompt_hash": "bce41485559567026707a020009274030dffeac8b9b02ad229535d71f3eb1499", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "301bdba5345f1b26ff0b37dd68b87133252caff82b81cf52e241d45caea88d90", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Parliament_of_Canada (readings in both houses, then royal assent)"}
+{"prompt_hash": "3895a5b070e9ea82c9398aa259fec699a3bc5c08033e1022993f37a3150897f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f4bccf838f1efdb78f072c652613ab7d3c232d652e7cb18e7ae37287de432b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "42b42a6dd2457892da88f0359e7d465bc9d953926d8bd3e059579010f1c97271", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57a55d9b7bc8de8ede893bff1149c6506d7c9bf01c2a32a060a7a4da6ea8f064", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a721626d9e45cad11995cf9fc74226b7cf1caef8e4d5e3232624eb25f5abdef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15f8bfd0f88d6588a1dbb0bb09d680f85e61e5965ab30fe3e24fd5b12c94d7bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b5daf1028023d04996f0772f6f3c934f623ea15e5b7a4f74a81c2218beda488", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ec9943b476b4a3f469a5b7f3113443ac1924d644631c34bf76fa69c50fb72b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d2916dd5d1f110477f12c319f58550c6783e6a77c6ad9da021ace62ccf99412", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88e48670e35aa0b2fb5894e6e9ef0abf6e7fbb1d8a58c5ef645a402a204c6e4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81d1d77e48c38f6fe9ffe22fc3b227a497b3db0fed698d2a94e59af7f0857403", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c5d64a54eb91e2a001723e9aec06b514207f176b15297ab5f78cc6f324e6cc27", "verdict": "fact_missing", "reason": "Story says cutting releases something airborne that makes eyes water, but never conveys that broken cells release enzymes producing an irritating gas."}
+{"prompt_hash": "e71da57f746223566e34395a90f4cc7bed04988d7f8edcdce286ab3dca14a2a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "68b6bb7553f27532b092761d62926ecd2b6b0607d9f99e810bba4ded08dee4bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f77a3adbb2a438e3898abb118c7939c6d8ff4183cb41d337f0f2c43193dcbc7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88f51fea238df5c385bc35b11abae5bee90112bf3a2993f7cf41754b0546f216", "verdict": "consistent", "reason": "uncertain: paraphrased first-day 'worth staring at' line attributed to an unnamed novel about Auggie (likely Wonder); en.wikipedia.org/wiki/Wonder_(Palacio_novel) says he tries to avoid attention that day."}
+{"prompt_hash": "8469c5e48cc85e76216e193af7c5da9d4771e9e4020dbcae80f30be31c68ae4d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9309c5610dc5b7ff8cc2fd2514037f359b7d65e340d7e66659e33a977b2ca2ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0f050d5ef6fca1d7e0fd2210cbb8535839bf090244db5639438fe064bcab9f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "908fc2f91292c3e5e8a0919db368c868df3041c280815c6913a136377239001f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b088fca9902b4448fc797551e8e5e7fa3faf8c188b3a2286721ebe967554fc42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8212c94d6ff353dbbe94991d1b599b6f8b7d9aa2facad553b8b5fb3616d1912a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c1f478d383ff0c87792f315e2e183ad8091ab24535264463304775b8a846175", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Simpson%27s_paradox (Jeter/Justice 1995, 1996, combined)"}
+{"prompt_hash": "b33d36f8104db52f5a328b5039ecd47fa98ba218ff3c94ed62af5f799baf6573", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f9b6322831d366d633d61d07f647339d0dbc3be97379b6faff00f6d191f5b091", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d9fd56fe4ab1fee7edaeb940b1ddb1a7928cf7f2d4cef8c65a567d16ca3c93d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05dafab4f58025dc8cc680e0baaec2045c7b41a3f4f726d4579b25946bef0aac", "verdict": "consistent", "reason": "uncertain: speech hook that a volcano in Italy once provoked a war is unexplained and unverified."}
+{"prompt_hash": "e70f9d2945ddb29fbbdb0409bc5d83ee201f9489e34947ea312f66ec71c08746", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa6f53cadde184b1cce9bea62b4c1e017de3d4161ba16d716446fb1a7d09d04a", "verdict": "consistent", "reason": "checked: spellingbee.com/rules (definition, part of speech, origin, sentence)"}
+{"prompt_hash": "c034b7f61ca8cf3856c962160975dac46b95e3637b4b620afea4382ab0289ae6", "verdict": "adds_false_claim", "reason": "Narrator says pressing the string to the fingerboard made the note lower and reasons shorter means slower; stopping a string shortens it and raises pitch (en.wikipedia.org/wiki/String_vibration)."}
+{"prompt_hash": "9cdcbd1252a9d64ccc8ed74090ea0e31e60d045fc086290b600647b4992d5f37", "verdict": "adds_false_claim", "reason": "Story shows the bass pond thick with algae and the no-bass pond clear; in a sun-algae-bugs-minnows-bass chain, removing the top predator turns water green, not clear (en.wikipedia.org/wiki/Trophic_cascade)."}
+{"prompt_hash": "18de6fb941f6234d1b52ce3640e80f4407c451d45aa8dd48a2779a828c726f70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f0cc8e54df41fee2d2b1f4e5299af674762ee384f4b37399892022811006a39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f77139e4a59d1433fa7540b75738cfec1a056ede83463de387c1136b6d65a4f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b5efecf6e58caeeeafabac989e7acad3208c6d886f520f93f9a5fe3e1526880", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8db6ff46c97995565e25031801d2d9c3bfa92453dd6ed80eab589e24dc57926e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "35daa1a73a80b45642e8b307566b5d01cb664e5ed6c3181a9d9c7a81adc4ebfb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "13dba018cdfe9916c762b54e503a70ef11474fd43a8bab5330a6f96b13f9bf76", "verdict": "consistent", "reason": ""}

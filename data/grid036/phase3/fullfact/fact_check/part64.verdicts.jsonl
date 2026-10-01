@@ -1,0 +1,40 @@
+{"prompt_hash": "f6b1de86aff32df067bf4ca7626cfada8d49df6504f340b43d2bc9a39ca75181", "verdict": "consistent", "reason": "checked: rfc-editor.org RFC 1855 (1995, caps = shouting)."}
+{"prompt_hash": "6c6d30100f430a486b2fc6bfe2ce60b3956e5d65e610ae1aa559202a41fda6f5", "verdict": "consistent", "reason": "checked: Wikipedia Shiva (Judaism) (seven, low seats, covered mirrors, visitors)."}
+{"prompt_hash": "0ed56554122b78af522378660d3e098b680c97f5c03bb0b22e198a3616dee619", "verdict": "consistent", "reason": "checked: Wikipedia Litmus."}
+{"prompt_hash": "c2f9ecd006915cff495b3ad29167763ce65d721ab7630b58401f8898af98528f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22202cba95355932d2452794d796b0fb5a6102d194b6063bc152a09a4bb9c0a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "929abad6d9a74ad3f60830f1976505cc9aa4d5833cd326bd629045f663df8cc6", "verdict": "consistent", "reason": "checked: usps.com/manage/forward.htm (12 months for First-Class Mail)."}
+{"prompt_hash": "c5b3951b8c6f935a1d0daf54fb24db394d7eac6379a3c0565e9e20e36eb451bd", "verdict": "consistent", "reason": "checked: Wikipedia Drying oil (oxidation, not evaporation)."}
+{"prompt_hash": "1bbf25fe17a62e659084fe5a09f5e82e053d0070db7eb48799335c36cbe6a88a", "verdict": "adds_false_claim", "reason": "The opening count calls three dollar bills and two quarters twenty-five dollars; that is $3.50, so the worked money arithmetic is wrong."}
+{"prompt_hash": "e36dc41715594b0a0c71d60790cb4101a25fb494fe6b2aea4a0a810562bab8bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0afbef1cb8ce347f4bc3c206cafcb1481680bb55457d747ab6d1ad1bda566ff2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba522c2a18dc52d0da6a502aed7083a2cf67e4d6a66776d05ba2732d98c8c28f", "verdict": "consistent", "reason": "checked: Wikipedia Sally-Anne test (1985, passed around age four)."}
+{"prompt_hash": "5b6115637339cd0bfdb874e250138689909933c0b2df7fea580954e2ecdb4ab2", "verdict": "consistent", "reason": "checked: cor.inquirygroup.org teaching lateral reading."}
+{"prompt_hash": "700a15dbee30873d60b81cad0b5fcbee161bb94142009383348a7184fa07f464", "verdict": "consistent", "reason": "checked: Wikipedia Section 8 of the Canadian Charter (unreasonable search or seizure)."}
+{"prompt_hash": "c77ca9b667e097f6daa43db2af528c8d6034d2e829a6bfe5efead83fe2e5d8b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6298284c0ddeeda0aafce07fd8510755df90ba7b147622f7cebc0f8ccbb2b112", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac5fa5838ba4b10797dfddcaf1d83920d8db25b32264fae88eb4760cdb3cf9b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a886fd4b109558da37368a8a80e8e3b8f5c4c450f8c18ea56238c5e2d9e0bdd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d2793577cf95e4f7a5f00a3945516da0acfc31bd91be71ad5d2d6d5b44bde13", "verdict": "fact_missing", "reason": "The story shows the second lap slowing after a too-fast first lap but never gives the cause the fact states: quick anaerobic energy used up early."}
+{"prompt_hash": "d05ca8e90133f37cb933cb2f98733cfe25a83a4c638f1fb1f2a87a9c8019f766", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1ef23775a983f36349d26ae12871f67e74f43c2d57f754352a1da021de7f89c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad0c0ec5010f55ddb82bf00ab70eae7ec47f59284a3d959328c2eb00d142ca00", "verdict": "consistent", "reason": "checked: Wikipedia Motorola DynaTAC (Cooper call, about 2.5 lb)."}
+{"prompt_hash": "087e65f1fe2f0de71e22d74711bee40f29b3bb5db0230a9784b6e2c79a195f76", "verdict": "consistent", "reason": "checked: docs.python.org control flow tutorial (for-else)."}
+{"prompt_hash": "fedb817cbe5c328b2fbd20bfc0d6b2800aa56809e9ee07f418340fa4336b11fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6009191c385b5ded6d51145bfdb32bcced2e8ccd13516b0f016ffabada0d842", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe0e7c92528eb3d1bf131bafa726c286ccfa4f0f4fa0700a45f828c604a6542c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "111598aaff833ebedc280c3b96fd8eb36b238d0739b34ac4caa243de405412a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "08c344fee2210be8e3a69196c6915aab14e94b669905314d209609be187f5972", "verdict": "adds_false_claim", "reason": "The coin that supposedly decided which item he wore is flipped only after the week is over, yet the story presents this as a valid controlled test; random assignment has to happen before the trial."}
+{"prompt_hash": "e29448f361b5b5d181d57d5d750abe1c9d671a980617e048c2cd6e46dd2ecf64", "verdict": "adds_false_claim", "reason": "The protagonist's uncorrected advice implies a flu vaccine keeps people from catching colds; it protects only against influenza, not cold viruses (CDC flu vaccine page)."}
+{"prompt_hash": "010c9c6d895803442685f7d190d7005ad1e1d28b398eed36975207b10cd190bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f6a3cd31624b60e9acdeda10d3f8c61be931135483382b0679dad0014b85f8b", "verdict": "consistent", "reason": "checked: Wikipedia Litmus (no strength information)."}
+{"prompt_hash": "b4bb2bf95a0393ab124ea3b61b26596754e42c1393a52c50a8f7f0e07b191784", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c40b6854ab0ea135e1ffce4b9463c18df2f6e6a409f075a6ebaa77375913a837", "verdict": "adds_false_claim", "reason": "The judge accepts a speller who starts 'millennium' and then switches to spelling 'milestone'; under the Bee rules a speller must spell the assigned word, and changing it is a misspelling (Wikipedia, Scripps National Spelling Bee). The story also misplaces the error letter."}
+{"prompt_hash": "221e65321a5a1a099dd7b8e9b928ac7788f86578043ef516aa3f81c3d248c5e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4fe35e5cbf2f85a1be52770ca25f7676258b442e5da1901ea361d83883e91945", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b549e8a9402813da2fc06763352f9a767e067bdc90b5cf24b1c6885dde8a61b", "verdict": "consistent", "reason": "checked: Wikipedia Online disinhibition effect (Suler 2004)."}
+{"prompt_hash": "f3149644ab8dad86d4d03409a40e5f1f76fd187cb2b09eeaea668f5edf7cb66b", "verdict": "consistent", "reason": "checked: Wikipedia Bowing in Japan."}
+{"prompt_hash": "58a8b3cc84141dd272b7c016546c808a4d2918fc8a962f4864185abbd7c12405", "verdict": "fact_missing", "reason": "The yad is named and 'hand' explained, but the story never says it keeps the parchment from being touched; it gives a different reason (not blocking the view)."}
+{"prompt_hash": "9c746de3530a4a384847c89178468cf73e350f71be7f01d4f3d2972533c81965", "verdict": "consistent", "reason": "checked: Wikipedia Dual process model of coping (Stroebe and Schut 1999)."}
+{"prompt_hash": "8da821ed238c85d3872c2a1e1b14c142be6289cbdcf3e5b26ee86089b03921a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e10b88fdcb224ef230a5f36c2a612950d04f93fd7cbdf9bd298b5f5fbddd6c5", "verdict": "consistent", "reason": "checked: Wikipedia Congregation for the Evangelization of Peoples (Gregory XV, 1622)."}

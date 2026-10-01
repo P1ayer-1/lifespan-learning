@@ -1,0 +1,40 @@
+{"prompt_hash": "30e09d514875c107bdc7c59de8736db898cd1745e6827783cf9e080851a6f134", "verdict": "adds_false_claim", "reason": "Narration says that once admitted under Early Decision he must go 'financial aid or no'. Early Decision lets an admitted student back out if the financial aid offer is insufficient (en.wikipedia.org/wiki/Early_decision)."}
+{"prompt_hash": "d7cfb01b906cfde8b38e7297e72737b3e3144aa505f28c0787d56755a0eb8502", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "36dbc89720707b40ab034b30bcf67265a79c137a01fed2bbefdf104ef43a2b67", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "843f6527ec29c3f8e3d3a65c07f4bd06087080535c3c031107f3e490b894dfd4", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Pomp_and_Circumstance_Marches (Othello 3.3 farewell speech)"}
+{"prompt_hash": "346284697b1045bdd3dc8c059395f2b05a668f4a3a9b85800ce5ff7a982c9315", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "679b2523a1e9d8035501fae45f4807171f7935aa4520a60b064acf315dcb6100", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Brandenburg_v._Ohio (KKK rally, 'revengeance', Ohio syndicalism law, conviction reversed)"}
+{"prompt_hash": "8d6b92761b4220174c3e10eabdcaed270b4411f3ee9c5d2999d4aec86a2df311", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5824839b819a63e957842af09695ef09982a8a65bea5bf42da441482e96a44cc", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Zakat_al-Fitr (paid per family member by head of household, before Eid prayer)"}
+{"prompt_hash": "12374d32a44d0028d517cbe89af02aa527e9995dd17a50028da9017336b99db9", "verdict": "adds_false_claim", "reason": "The story says her LEFT JOIN failed because the WHERE clause came after the join, and that moving the filter into the join condition fixed it. A LEFT JOIN keeps every left-table row, so an IS NULL test in ON returns all customers; LEFT JOIN ... WHERE order key IS NULL returns the same rows as NOT EXISTS (en.wikipedia.org/wiki/Join_(SQL))."}
+{"prompt_hash": "c4f62f660307a5f7759bba0c947b4d6924e545e15c2926ff89096dbaf93442d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18bc7e047d159e5a33a54502c00d91a84bcb728281198f282fb8c693374d83c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9455e8125659cb40f40588f4d4922d488db936ef627653b720e18ac0974639e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b67c5e319b57de8faad1d58b2c4f7a588b58f7d220a01c4be2ee481487b69f61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85ae51fca852072ce8db2c4ad75c7b9a686690c1a7540f2a07f58c94ee16cf38", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fad2a353af297b21aaded34d691f0c3032e4a7777ff1241be1ca423f2b0ae947", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4f11707f435ab048203a48cd0c5c447f9d059a866a5ea1390d15affadf8b4541", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8f3a55a1a91d845341cb57320ba16a91e96c4558cda5530d5a6f4b0efe77a57", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Kinara (center black candle lit first night)"}
+{"prompt_hash": "7e02a47dd5efd8de0d778da46eaa3756e89402ddee9f7b629ad7a7f8ff78e437", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d98b9491e15698ef96efd6a8e0b47c375f3c5cfa368a21903666086b64ae61cb", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Leopold_von_Ranke (1824 preface)"}
+{"prompt_hash": "43980375c9918646b2ee19b89c14e8f4e0169cf5c444505761c683410fa0e3ef", "verdict": "adds_false_claim", "reason": "Merging left from the on-ramp, she glances over her right shoulder and finds the car in her blind spot. You look over the shoulder on the side you are moving toward, which here is the left (dmv.ca.gov California Driver Handbook)."}
+{"prompt_hash": "318490a2271b9592b62137aa9801e69682ff5ae55f79cbfb15990ef12e740f81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4410f9f06be676185d67dbd8052a1acf444bd5e264e8dcacfa7938a7231c13fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67f4b7e94f8d138b39335647277c2e878b0e192ffb4b1e39c9d2c178cbaa7048", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3e3128c7457545b11de6d775d2a4272029131402a64288a1e784562883dfc59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4f26ca605dd5b722b44bebc56310fddf3cd09c9f84d88c0c0b7cf2e8caa54da", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Early_decision (binding unless aid insufficient)"}
+{"prompt_hash": "d8d44528b026326e176728a85b0c9266df0be1e59dae51a743d545b335602eab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b516eb8f97fa95420230ea9021b85e24559478dab483ea25cd3a721f47ae5ab3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "28ad8ae0a607b0fc471a302296036bb5e2baa2eac38713a918cd6ea1b624e04b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Tinker_v._Des_Moines_Independent_Community_School_District (1965 armbands, Tinkers petitioners)"}
+{"prompt_hash": "31633c2d3a314471f243f4d3cc2d4b94139422abd88356a4198413a9f9b591ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97a6ad640944be2885bcd22f0078180ca0bb98985625e3bb8fc21ef5fa40d029", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4385f0a6c4afb3ae8f282570abdbffa4322c6a9e81aa5d0aab4f999e37ffe1fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "510d5404a9949cbb4e369ec5bb15ba07a1e05d5864172322ff6537b3cfa53ccc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45da67dbcf916000e709c2e955ce49b80538e961d23552af67c7838561a99bc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6aa3646deb98a6ef02b63aa78b8ff68dab3ed678f588fbf69341054500735f70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17e1f77dd5b8f16f34099510be4274fb3094e94f3f970efe5c996450eca08d14", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2cb3e2f72e6d7863e64b88adaffbe7098e7c8471a34e445ea5693d95afc06289", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "613df7d816a38583064bca6982434203e8bf94d6501da515e875e46293068219", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96dd2fa6dfed9b32b481b3c56f66d813257e6d076f4e70abaa72492f63d299aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc636793cec3ae5fc29248d44ee2b6bd1709fafb2f59acc5add904f34988bc0a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e7cfb44161c33259098f27640f1a1760ed6670612298f2eb488f5b690d3faaf", "verdict": "consistent", "reason": ""}

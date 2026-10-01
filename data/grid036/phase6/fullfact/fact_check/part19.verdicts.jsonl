@@ -1,0 +1,40 @@
+{"prompt_hash": "cc09ca9a8a7568c1913c4b56b6f38b768ceb8cc9c315f5a971d249812a9d0200", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c6591b602ad20b7484a903085729e728617636f3ab2e05e3d9d05ccbefaeed0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c9e19f35aeb0b167a3b75fc2bf79e00fd49b62d5e0986bb4da42c3e9affc1e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e93a3797f9c0501f9f436155fa52f94f2bac2c78dd7fa92d4054265d15aed90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a475d6c4c668814f73a62de90b2b797c5fbaff7ab2fc57dc611e674efbf51c28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c715c107e44b678204e349e619f4122ea5a9026a096738ca23376034a8782930", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a5e2a3cc3f6bb2536a80665cfa75c458d5fe1dcb66cfe1a3a3aba7d56184c3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d1da8773e77b5e7c0c81bbb97f8498b78b96ca6bcca20a8d6fb656281184e18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "834b9f307b0cddb534249768a332b9c990f50152c3faca3e94a81695d5295738", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "689df4af31fb0aa4e1404ad6ad0e0d28f802840ea2fd5f8dce344f2f2d5753f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1c437d4b13ee97c3a4ac5fc58ec2381d1dfa1d9886777cd2e7d0b10005a7fa45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3760e9b8cb6e653da204fa2eeedce88753c5ec7fd4eb7224c8c3e7e34076e80b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5fff0979e04716d7b3c40af58e256ba5a430001c05ec6e3bc764abddeb46fdb9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f887d1ba37509c4e21c6df2ae98290d74f44bd5d0b1c24ae4baa0fb4a7c9ef75", "verdict": "consistent", "reason": "uncertain: a classmate says no panopticon was built and nobody corrects her; Wikipedia 'Panopticon' (fetched) says none was built in Bentham's lifetime, but later prisons such as Presidio Modelo used the design."}
+{"prompt_hash": "d8aeb714fccc3c1b02d28183a4ffbf40e89409a80e6b4690a2bf59dfc4e6b247", "verdict": "consistent", "reason": "uncertain: the grandmother's kutya uses buckwheat; Wikipedia 'Kutia' (fetched) lists wheatberries, barley or millet and does not mention buckwheat, though family recipes vary."}
+{"prompt_hash": "4824c519195024df9b9465a84fc261b8aa6b80280b39a31e91a084b77bac1b47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19ac94f10866ca6c8fbf7cc2f585ab0ec8d6c27f2242c77b57bfc3a00d4065e3", "verdict": "consistent", "reason": "uncertain: after the correct octave doubling (440 to 880 Hz), the story suggests that moving the same shape five frets up also gives the pairing; five frets is a fourth, not an octave. The wording is too vague to fail."}
+{"prompt_hash": "59bf915dce98a56e82f416d284e8f977d0a4a97222b3ca7115a6dd0aa6e08729", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25201df6a5fc96f1a3f0b0b81b99b7e6710b5d3809f7478eec41e714de376af3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b834c0c5a794935c91ebaac39c7e3760696dcf6499b744dd9320129df44f87f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9fc467501d1e30e09767292b33f61c8953fa2c77a065b12c506226f0f5894e71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cd5e63c4414a4052ce57a2379490ef0de4947085c838e1fc9843ad319fcdb92", "verdict": "consistent", "reason": "Liverpool 1901 premiere and the other marches in the set checked against Wikipedia 'Pomp and Circumstance Marches' (fetched)."}
+{"prompt_hash": "d2471ccb6d8eda08f746bd9a8c6ddd999af9813e2ed28bfe33d906dac8604453", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad7fecb8de90d2b620b8c18975cc6d144630605a217389a11e54802542439fe7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f76859c9aaabc05a0c02a0ef9f2336738bbf0869430420eacc2c2b7aa0132e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3c35bb1dcdad67afbb153be09607db59cf7f19d64a555209d1b288fbd6a718e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21d4becde100f34f2689d72626c3483fe415ad9343c16ad020792eae8d2a825a", "verdict": "consistent", "reason": "Jane Eyre red-room details and Mr Reed's dying wish checked against Wikipedia 'Jane Eyre' (fetched)."}
+{"prompt_hash": "087cf67718815c1b5922730e71827bfdfa1a39f8c9c43fed652d7db4121218cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dea60e3e1ab0ee982838e69bb54e5b3a83057d2da69e6acb73722d71f9f43a97", "verdict": "contradicts_fact", "reason": "The story gives the 24-72 hour window, then says Tuesday's soreness will peak on Saturday (about four days later) and could still be peaking then, which is outside that window. Also adds_false_claim: it implies warming up could stop the soreness from a workout that is already over."}
+{"prompt_hash": "07eb09144a2fa3a4941859eba07e372505156bf3085d260c16a62ab8ac12fbaa", "verdict": "adds_false_claim", "reason": "The teacher's ruling, which the story endorses, says Chloe used 'avergonzada' incorrectly for 'ashamed', but avergonzado/a does mean ashamed or embarrassed (Wiktionary 'avergonzado', fetched). It also says she used 'embarazada', which she never did."}
+{"prompt_hash": "66f6de59aca017b985ee0ef4a13d838bcf90d623ceacac205ad4f1d34637b67e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf95ae71dbc94d17d3c03f3686bdc9a3757d7c67f00923a8d0170dbce976d234", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c1c3faf940cadfcf790e85e48615fedf26a66c36d03612b7620241fffd4a147c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a0ac45bdfac2f48ac4759e4b99a84a2b490569072f3058481c9fd3be25fb178", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a039b9372c4283cf00a4a342c54d5d706b1e2b599f423d83788553ee96da2a14", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "278f94869f60ca6a0395698f4c77a87ef9a482d76cc111d0fff08830baedc21f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b145b07ae777465398ef2da222a9a88b79519f58a7feda86d135092e3a3a9479", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33dd5320be80f44652c4fd00730da66c4208b4d22183549416b1da0c1d3058c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4295e07f4d7858a7273a67495b9ca65199f19be525147887a375ac505051f4e3", "verdict": "adds_false_claim", "reason": "The story puts the miniature of Diego on or pinned to the Tehuana Frida's heart. In the painting she holds it in her lap, and the European Frida holds forceps, not scissors (Wikipedia 'The Two Fridas', fetched)."}
+{"prompt_hash": "f4c116b4e97707975ba657bd0e9fa6095461f2dc91532f6f7debb3dcd95dba9b", "verdict": "consistent", "reason": ""}

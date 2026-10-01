@@ -1,0 +1,40 @@
+{"prompt_hash": "88f48642590fb660de09f7c8d2842d75537246c1311188539f4e108ee79d3a1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce35a06ee4a87f1dbe1c21f89c09dda5ebad81f7f42984ecf54e81cf16e3c122", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8626171bd2431c7bf114ffa6fcf4df71c2a680c80f5fcae6fd64392f7932a754", "verdict": "adds_false_claim", "reason": "Story says 20 hours a week at $15 an hour is $600 a week and $2,400 a month. It is $300 a week, about $1,200 a month, so the rent-share percentages built on it are wrong too."}
+{"prompt_hash": "3783aadac57a705edd87bf9ac496dd3985ab44886a375582e094fc4dc2a9b2db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87ad41809fd9b15e93dad847bcad790d5a0951965d3273074f7381aefeb48e73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43956bc79e22cbf311d9543bb58ad0d960081b030920bc78bbfcf3d4f005dcdc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3195c3c3834f2e377b135013c04fae9b4380edb6617a0c8ddfe01f77a5484e93", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "070108d7999268123168a1b223bd0bedfdc981621995d93563a7310e558e9199", "verdict": "adds_false_claim", "reason": "The narrator calls a 31-12 tally of 43 responses too close to mean anything. That is about 72% yes; even with roughly a 13-point margin of error at n=43, it is a clear majority and not a close result."}
+{"prompt_hash": "733ea00fe70463b10e91039b4a8f5dfae29c877a8280201e9c7e64f22b59b653", "verdict": "consistent", "reason": "uncertain: a character says pasta dough is kneaded longer than bread dough; kneading times are comparable and this was not confirmed"}
+{"prompt_hash": "ae219d58afaa889d062a120794fc2b6331fcf5c984a04b3f8b5ec28aafb3029b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5494736f1d5997cd2c26263a56411965b5c9f3f6d1f24259cac122e050327871", "verdict": "adds_false_claim", "reason": "The pay stub's whole shortfall is put down to the 6.2% Social Security withholding alone. US employers also always withhold 1.45% Medicare (checked: irs.gov/taxtopics/tc751), so the difference could not be exactly 6.2%."}
+{"prompt_hash": "b1939eb733ecbe8225c7af33262c1e5cf3f9e38fc661584a59a0752911aa05af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8392a311e759a2d49cb3504aa4d15e5bd2fd8eff7acd4da2ae88b94dff0bd61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98469993024ea405afbc92bb25b271ec20338929e36faf27de2bd69ad3b50b81", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Josef_Albers (Albers died March 1976)"}
+{"prompt_hash": "54c3266fa61c285398e52c18ea41b3c4accf901b335fbd272753dd3e7f8efa7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4874215cf9c0ee87652c7c4c20ba317d10e2d50aebe8778eac16ba8d1deeae14", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da6b28d74b7b3d5577b2b6c67d93f3bfd0ecc6cc917dae184c508530bb165246", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9eb37b38063664ec5cb21cd09b2ee4a530df50fc99c9601ae19486a31a9e906a", "verdict": "adds_false_claim", "reason": "The five-week caps are worked out as monthly rent / 4 x 5 (GBP 1,050 and 987.50), and the story says a weeks-in-a-year check gives the same figure. Weekly rent is monthly x 12 / 52, so the caps are about GBP 969 and 912; Haldon's GBP 970 deposit is actually just over its cap."}
+{"prompt_hash": "afdce4bb92afdc2feb4af43568bf875180c0d1f94621fe75bc7bfc117a44d331", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b45ed603e429530db49cf30371759e4f5e11d1b69d8a0e8f2f8240f155c43f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "860791e5b9d93399c62af91f6c6f300413298fd890d804bbfb13680b39607159", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0614bb2054bac828052a320e6455ce43968a311551e33df02c69f996174e763", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c1e9b15e154c34ab827fc98ee5b86ee446ab7506ccf3ef572f9172d5645a58e", "verdict": "adds_false_claim", "reason": "The story counts four codons for serine. Serine has six codons (UCU, UCC, UCA, UCG, AGU, AGC) (checked: en.wikipedia.org/wiki/DNA_and_RNA_codon_tables)."}
+{"prompt_hash": "56328eb45fd42c2ca4fcc9ff83333675c01dac0cc52505fc023b803a49394bee", "verdict": "adds_false_claim", "reason": "A linear search over 4,000 (and later 8,000) entries is shown taking long enough to eat a granola bar. On a computer, a few thousand comparisons take microseconds; linear search is slower than binary search but not visibly slow at this size."}
+{"prompt_hash": "625c0f428bef93aa65a3ba798c2de5bf8fc514a67d9e5e4a2d49766e342a7e3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4cc9ddd6f6d9846b2855971585416ecca7058baccf302f2f5817278b6724646", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bdd9838523d12dc40ecf8f909cdd98aa2ca1d618e9365c3925e48c05ef164c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdf92b699db3d9f7fe4761387e2841c7e1af41c203cdae8cecdd9899743c588b", "verdict": "adds_false_claim", "reason": "A linear search over 4,382 names is said to hang for minutes, and the cause is given as the 4,382 comparisons. That many comparisons take microseconds. The story also has the same full-scan loop return a missing 'Aardvark' instantly, which contradicts its own description of the loop (checked: en.wikipedia.org/wiki/Linear_search)."}
+{"prompt_hash": "7e39c31775bc24e4e75ed6e62aa536d7a49c75ad63517d9248056030064a07cf", "verdict": "consistent", "reason": "uncertain: the receipt shows 10% PST; no province has a general 10% PST, though BC charges 10% on liquor, so it is plausible"}
+{"prompt_hash": "e66fa96f34ad9a9fbce2656c512ffd03bc03c004d056e78e343559b33d259e49", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a259993edf97041c6fb95f9d70000d1eca0b49d9d150b612a0dbbe53c5bafe7c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e98b64995f1a6e9c48bcee8d24831f1d374b96c4191fc9228a35c7ad5e746c8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ce700baad1ffab2eaac4a85d6bd0df16f5acf75400b23a8702f099ff63457f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d66cd7de74393dc4c5213c2c06d6fba2f18413766bf31aa1aa1a82d7258e9698", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "589e776e337794a85aff9fc648e00cc573ec032fe0eac8324f4b686fe1b51ef9", "verdict": "adds_false_claim", "reason": "Seville is put three hundred kilometers north of Granada. Seville is about 210 km west of Granada (37.39N 6.00W vs 37.18N 3.60W) (checked: en.wikipedia.org/wiki/Seville, en.wikipedia.org/wiki/Granada)."}
+{"prompt_hash": "ec173b491f1ae45a0382ae3c7b7bbc22379e1cbe014803f0b2a67cc94b4741ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cbcf4357d06a5becc9dcbed7b05cec09fd2e07a7e8ed5521b8faf8d8f097afa", "verdict": "adds_false_claim", "reason": "The 45-degree launch is called the flattest, fastest angle yet, after 30 and 60 degrees. A 45-degree launch is steeper than 30 degrees, and the launch speed was the same each time; 45 degrees goes farthest because it gives the greatest range (checked: en.wikipedia.org/wiki/Range_of_a_projectile)."}
+{"prompt_hash": "955d9f87481fa2797889bd9b7a56159726d064d27f8640ac93b6869a98747bf9", "verdict": "consistent", "reason": "uncertain: debater's claim that paid blood donors donate less over time; the research evidence is mixed"}
+{"prompt_hash": "96460ef098392a5cd14c0a9db17e74162aba5c58951782446e74e876ec9ef7fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "986a7a25eb26746469b8f5632946bee47ebf9d114d7aee6d479466d1abcb128d", "verdict": "consistent", "reason": ""}

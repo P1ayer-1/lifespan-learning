@@ -1,0 +1,40 @@
+{"prompt_hash": "736825868bd4060dd6b52e79c87c689882b5fc00bc6ba0df53d05327d81542b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9af95d79e16ad67c4bde1c9f2a9f5eaa7c07771567f42eb5c91b90639c5c9d97", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "32f517f2f1efc3ef013f8f86c2f74cce4fcaf8292e63167e1683b27bcc6b9602", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Section_3_of_the_Canadian_Charter_of_Rights_and_Freedoms (s.3 text)"}
+{"prompt_hash": "94a35ca457ba2d51508dd0787348d648ddabd76a31e74930ed164ad81a0334dc", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/PolitiFact (2007, True to Pants on Fire)"}
+{"prompt_hash": "f84a4cee0ea058639c024ad3ddcb77c3c64525cb6056fa7420620ef1afcccae1", "verdict": "adds_false_claim", "reason": "The quoted settler diary says the wheat needs bees to pollinate it. Wheat is wind- and self-pollinated (>99% self) and needs no bees (checked: en.wikipedia.org/wiki/Wheat)."}
+{"prompt_hash": "01bde208ca32d11de04838b00408f9e9e9a7a95f8a8d9936a5a73ec2e8b3931c", "verdict": "consistent", "reason": "uncertain: USFA dryer-fire page did not load (404); injected fact pre-verified, wording matches"}
+{"prompt_hash": "56f141479d809fe5af68ad7f39183a40eb52c1a3ff3540fc2db70ead41338e63", "verdict": "adds_false_claim", "reason": "Story teaches that in England the comma/period in dialogue goes outside the closing quote, so the British pen pal was right to mark the inside comma wrong. British fiction usually keeps the dialogue comma inside; the outside rule applies mainly to quoted fragments (checked: en.wikipedia.org/wiki/Quotation_marks_in_English)."}
+{"prompt_hash": "13027309e90e77d937ed4e74a362fb2ede3cd89f9d5a8418917b337145a3877c", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Remilitarization_of_the_Rhineland"}
+{"prompt_hash": "2d087f526c3bbf43de8e7fb30e9b4aefbe2a47a2b1ba106b569bcdb6970169fa", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/StoryCorps (LoC archive with permission)"}
+{"prompt_hash": "6ec4010a8f5016bd1449840d0fecc2df442d9e4b3fd9a31de6282fa838a76e76", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8d97e15378abd04d3822f14fe1072d6830cb4be0df2834e01ff9ab7f974c563a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Delayed_onset_muscle_soreness"}
+{"prompt_hash": "9189d53cc87fbbcca6c5e473934629ac988d40f64504ff4ce87d78572fcba9a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e16114805ee5301ab0ba54aa283aee8fe44cc9cef4cca4e8a15f3e80f1350654", "verdict": "adds_false_claim", "reason": "Story lists 893 among numbers confirmed prime. 893 = 19 x 47, so it is not prime."}
+{"prompt_hash": "e1c10d6b4ecad6a82c4e673e6e16e4a857e9f55c16663bd04ca2a9a7d9781ad7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3190af248f5eeeda46a7cd383ab3824c8b7048f2ceab0e248003d3db85a84fa4", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Astigmatism"}
+{"prompt_hash": "5537a435aa069fc130cd677c984fc318145c108352c87d233ff50c4fbff00266", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Rubin_vase"}
+{"prompt_hash": "a4fcad08767bafde232c736e119423306735b6eea0994341569d7547ebd33080", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ba046c4d95f76e1f28cc1e99722f84bd8ddb31c0992b923a137d3213986ac94", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Moksha"}
+{"prompt_hash": "8fbbb87f3a68905afa446069a1759917bc011fc9c07f338daa985f45504a14db", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Three_Sisters_(agriculture) (beans stabilize corn, squash shades soil)"}
+{"prompt_hash": "2718c412af6de0f124a568f347ae89c054b109222d17b45544d3949b743de14b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f0ef7371eb4f653c279b8f9ed5fb01a426c894ca0a9c5eab1ddfac76a2dcf7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2887c949892d00a01497ea0201006f72544f33675583012fda1e45fd829e2a09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9c597e9cb11a529c8182a1480756cc70d5282b2fefd1c1d50d7e76cc12281bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "738d8ecee39b147f76f376a7da9c06296b323ade278b2649752681cdefd525d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e86dbc4cca5a499a71be9eeb8549212fc3457d7fdc181d66db53f0f54b157ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95ff2d988baf841de9d4d4fd207174054b7a6c3f2be0b2864642c867b5b97091", "verdict": "adds_false_claim", "reason": "Story says Title IX means the girl must be allowed to try out for the boys' ice hockey team. Title IX regulations (34 CFR 106.41(b)) list ice hockey as a contact sport, and schools may bar the other sex from trying out for contact-sport teams (checked: law.cornell.edu/cfr/text/34/106.41)."}
+{"prompt_hash": "6c1be0409ab14ccdee860c26de75814dc748e9f4566877d5b36747166c902204", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59b4bf96345751da7e7d75bb165bd611cb592f6d27cb0e35837837852b434443", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "766e12f883a3274021879360a23a9dc0e6499edbe0cbd142ff1def92ae157e45", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/S%C3%B8ren_Peter_Lauritz_S%C3%B8rensen"}
+{"prompt_hash": "7aec066231216567c636bce0a464704e24a5c135bdd21d3ba141523007968963", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Home_advantage (2020 NFL 127-128-1)"}
+{"prompt_hash": "31e887ab187efbbd4079ec4ae66660112eafe90a8493e9b70dbd9aa5ab29b413", "verdict": "adds_false_claim", "reason": "Hayden says that in June the bottom (southern) half leans toward the Sun and 'we' (northern readers with long June evenings) get winter. In June the Northern Hemisphere is tilted toward the Sun and has summer (checked: en.wikipedia.org/wiki/Season)."}
+{"prompt_hash": "a135163ea13284723edc130604866193493c477c72b3b156416f38602c68cdb7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a2c8a646a154e080b3ec51953078ca3c8249755b96a82aacc2d2f6c0a4bd36b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1799d0eaf34e04dd8af63c94b7a21e485138e555199c07fdf3956c436d6b529f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Wayback_Machine (1 trillion pages, Oct 2025)"}
+{"prompt_hash": "7535a280bd62b7267bf96c1fb29c41d65ba8241a4a48e259799b4a8a5acd62be", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Darwin%27s_finches (Gould, March 1837)"}
+{"prompt_hash": "23b2959a3c610b037cce7063ccab9efa61d7dd9977028ba0802e0fd5f94d1b82", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Section_32_of_the_Canadian_Charter_of_Rights_and_Freedoms"}
+{"prompt_hash": "1c94468f012ecf4d5e60d410ecb28b37aa5cae10b7d4e87ee5831aba1aecb0e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a190350eb25bf2bb597e39c79ad5da768dd4c1432b5bb48100db125d7f94b554", "verdict": "adds_false_claim", "reason": "Story treats a pinch of baking soda as adding amino acids and turning caramel into Maillard browning. Baking soda (sodium bicarbonate) has no amino acids; it only makes things more alkaline, which speeds Maillard browning when amino acids are present (checked: en.wikipedia.org/wiki/Maillard_reaction)."}
+{"prompt_hash": "61d3f81db1853deb784a4aa48d6ff6b22d514b08178ccd48624e81f227d74961", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Glittering_generality"}
+{"prompt_hash": "1d9f6bff01a8efefdd1117183353111b180930e05ce84fe3f92f027a2f0b1550", "verdict": "consistent", "reason": ""}

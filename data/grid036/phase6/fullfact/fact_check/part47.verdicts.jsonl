@@ -1,0 +1,40 @@
+{"prompt_hash": "1fa6086d9ec67b8499bdbffbb9f3f1665185affb5adcf8a7eeaf749e4ee72b06", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f21868df531d63206f4cdb009cd53cd3bc13b00d42a81757271986fdebceedf1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bfd713f9d6f76aa063c20f19ae49d8c490f082776a8b2163504b5240b4925db4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ac75d535dbd3cdcee6f40be8b9d0c57d33ca1009fb2f41cd422c09dc1cb51d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "147c78673fccfc81e0971566233b579a744e74e9bbc6997db294033167143a88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39fb2a81f90a08886f0bdb102d928aa2f59316a99b5dfd33a9d3a2fdbb875b12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70bbd6f93b241faed8b62564c5cda2927d8334a58188f3fc272b7296c26fb69a", "verdict": "adds_false_claim", "reason": "The neighbour gives the French word for van as 'Fourgonette'; the correct spelling is 'fourgonnette' (checked: en.wiktionary.org/wiki/fourgonnette)."}
+{"prompt_hash": "018c983d1a5947056604a4320f604ccfabe0ad0caab34d614461506bf898d6bb", "verdict": "adds_false_claim", "reason": "The x^-1 working 'divides by zero plus one' to get 1, and Zoe says it 'worked by accident'; nothing worked, since the area under 1/x from 1 to 2 is ln 2, about 0.693. The interval is also exactly one unit wide, not more than one."}
+{"prompt_hash": "4539c51516a78e10f8aeab13b08ac9b8f507940b97d7d208058ea780877ef5d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d39f87df7792dc187f8add63c8276fad565f93816ec4143c7c1f31f554de361", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93519443ade3b3cdc294e448754781ab408b35c55b91a898bc2e7727460606db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f502179d181f90bd4403f0c6a523e88b5004f03f082c570f413f62b04a8fadb0", "verdict": "consistent", "reason": "checked: gml.noaa.gov/ccgg/trends/gr.html (annual Mauna Loa CO2 increase positive every year since 1959)"}
+{"prompt_hash": "61f4e558bbeb833989c478c09f7e145d5a91ba2783b3188057282046cee6786e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "872aa4a7085eed15d760d7ff152617666baaa325786638eed69270ffe0bf0d2e", "verdict": "adds_false_claim", "reason": "A can holding two servings of nearly 1 g sodium each has close to 2 g, which is about the whole WHO daily limit, not half of it as the story says."}
+{"prompt_hash": "949a0d13f3453167dd5dfaa7f9d7d106c2f5cc787683d63a8c785a033a8086e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d42577e107c6a52b091abff2fa4cd40d5f4b07f5ac738e46ac20eec5300783e0", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Schenck_v._United_States (unanimous, opinion by Holmes; the government won). A peer calls it 'one justice's opinion', which is loose but not false."}
+{"prompt_hash": "66b02d25336e3e9a51fcf2c0f831bb27bc18061a0326dcb0832ec1c6d09e3069", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39b1e329b3f4b14d549768efa241cdfb4e332edb13d2610c1e4fad7f346b77d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b79b310860d41d8e112c1bbc5d53694d95f93c4a334ab0438d55a0a37b4bf02e", "verdict": "adds_false_claim", "reason": "Foster calls a 26 percent chance 'basically a coin flip with better odds for the water' and nobody corrects him. 26 percent is about 1 in 4, so the odds favour the house staying dry."}
+{"prompt_hash": "cec37fe73ed10ff1749419d02e79bb66bd22b39c66c6e7ba5a58fc2a2458cdd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53825fcb8c2adebf8b4342070bd845308c840e42610e3d003b04b2a7320dd4ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ef251159bed7c755b2b916980841aa644ce6965f3e96250ad2d4fd172def0d8", "verdict": "adds_false_claim", "reason": "6.2 percent of $77 is about $4.77, not 'six dollars and something'. FICA is not 'the same thing' as Social Security, because it also includes 1.45 percent Medicare (checked: irs.gov/taxtopics/tc751)."}
+{"prompt_hash": "2f3a8a542954f335ef350cb0fe2bd78a34af9b462e8ebe90a4201ec3f58fff65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e989f696385abd3d7e92a5453efd28acad93efc63927598a36e1cef637190d54", "verdict": "adds_false_claim", "reason": "The width-0.01 rectangle sum for x^2 on [0,3] is given as about 8.977. The left sum is 8.955 and the right sum is 9.045, so no standard rectangle sum gives 8.977."}
+{"prompt_hash": "3e85b37cb67371ffc147087fb55e2563cdc3761b34086a4718a7d0edb346c4ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb450ae254eecfb0324ca42a979bdbefe07ef9639769746330d9c05c1675be93", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8705d5dceb015a55c2e4623c0f0ea7452732c6a98092a94402e58a789ced6404", "verdict": "contradicts_fact", "reason": "Henry moves the recapitulation marking to a later point, after F returns to C, and says it does not start where the theme returns. In K. 545 the recapitulation begins with the first theme in F major (checked: en.wikipedia.org/wiki/Piano_Sonata_No._16_(Mozart))."}
+{"prompt_hash": "adc812e5fe0a36a88eada1c16faef896b649bbff8f92d94e5cdaf98cc549ba26", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6eedf12cb5f183073b76cb14b67b60b685e8cab76474b44ec24f18ad289e6b17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8be84b7c133202390bb9bcf38277b3240f38d620c5ca2c589725e4933da2770a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6dddce7881c4d13e2a6c1fcfe8be6d8029e875619455cd793e301ebcf5a71e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e986e048a4a0802515b44990910b7c30582f7cca22f9b012fd14259481fc74a5", "verdict": "consistent", "reason": "checked: rsf.org/en/index (Finland ranked near the top, 6th)"}
+{"prompt_hash": "d846d22908b4c4f4dbd8e9a3a0bc5a67492f378ba706a583cd4623ab830933a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2b2c3a2a4595d7518a3247cf7a5b312b36b706d2c855a34dcc2856b38a0ea8e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Stanley_Cup (Governor General, bowl cost 10 guineas or about US$48.67, 1892/1893)"}
+{"prompt_hash": "d0c2825f8e85e4b5fd3ac239d620d8baa095c9028ec79cbb02b95a84d4a49c93", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c77e50d5a961fedf3981619841576e111a1dac7a2fd4b34e70fb6ef81a77560b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fa0810a66b199c114498a8cd63c69cc4d5aa93bce1235fdfb35a76350f6a8cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d20bb493105517769767595d2d3dba341cae09e55998420ca84ddb43e7cf0538", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "935739a7c3085671b462158248f639ef9d898ee620b1586d8e03574a6c76e2f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9efa01d1cf0b8824ccc40f88adab584b9ad06f9ba44843f512d895d46945138", "verdict": "adds_false_claim", "reason": "The onion that made Jonathan tear first was his room-temperature one, yet he concludes, and tells the trusted adult, that 'the cold onions didn't help'. His own test supports the cold onion rather than refuting it."}

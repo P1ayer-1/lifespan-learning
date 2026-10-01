@@ -1,0 +1,40 @@
+{"prompt_hash": "dcd7cf3230c59adb0a36585c11ac83de6090c1e1df27302e120f27dd937003e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4f19dc7f452ee5f14cfdeafe2ebba7e9d13cbc7f0a54bde41d6398beaff47f7", "verdict": "consistent", "reason": "Checked: en.wikipedia.org/wiki/The_Scarlet_Ibis (Hurst, 1960; storm-blown ibis dies, foreshadows Doodle)."}
+{"prompt_hash": "5b6c6b8f52cabeef16100ee24fbe04dfdf0a0c88bf4857742c744491867dc5c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d292e70a1be0c3887616db0d93546262b4d06eff818a16815777b6cadf58c5e5", "verdict": "consistent", "reason": "Checked: en.wikipedia.org/wiki/Permissible_exposure_limit (NIOSH 85 dBA/8 h, 3 dB exchange rate)."}
+{"prompt_hash": "3867bc9f39fd819f0ed570cfdb9b84b6c7222fffa31a956a7fb101e6dddb5e41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c9d80ee23d98e4ad36b070c0f50433ee3730def39f54e3a5ed0a2a42edda2cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4fdfa8ba1c9b4c0e63c7399f322b8ada67acff8812e08b361c0035a52061b0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8af09484d396f510103f4463b8889b088e8b8855a952996ccd855bd06990e64c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6642917fbdd214eb8dd3cb7c10ff6abe0f86e9d9c77278b9623f2403bb222381", "verdict": "consistent", "reason": "Checked: support.microsoft.com SUM function page (SUM ignores text values)."}
+{"prompt_hash": "7116b013b8ff060b45b5bdb73b068d238a5220088d72c3209047a7bd380aa64b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e94d04f3a9d207c5b25c6c9bf1b2f7d20541acf2bbdb49f0ec8008406cba7912", "verdict": "consistent", "reason": "Checked: en.wikipedia.org/wiki/Northeast_blackout_of_2003 (Aug 14 2003, ~55 million, US Northeast and Ontario)."}
+{"prompt_hash": "fe197830e15aa5c26bb3f56aaaa06962c741f7cb41f5de10a8964ab619f97e89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df90cd8abb3b922a68de87fc5e9b9955637f98203e7b6e7b024d47d19174e982", "verdict": "consistent", "reason": "Checked: en.wikipedia.org/wiki/Metronome (Maelzel patent 1815)."}
+{"prompt_hash": "0d1133b83637d38526425a9522f8bca3535416fb8164cadbc996a70fc328821f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a32cd0417c7843557b42d15c01cc43ec66fb7309fef6b16c0615b6d4d0587a68", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57101a7a7731bebe7423e46d8ca3919030a633c404d63efde77489c6d27bb7d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d216fca461ddf61141d69d1cc27ae86f459b1b57e8195c36cdff3becb72f72f5", "verdict": "consistent", "reason": "Checked: en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development (1965)."}
+{"prompt_hash": "aed296c38585db102822fdafd43f171c6024e09a5efbd0b111d1b8b4718e878a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb273dfb3fd49d2a7439bc03e712709f9d9272efc6c83ce6c8ef5af1f8af75ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b65e3b805b754767100c656a9f798aea5efee06a90e67630de6d58cff2c2fcb5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ed79c67db9e0787388cb30414e82d1b311bbfdf6cc0f0b059bafcd6473f12e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "737f733afe2d5d6027b39adaa0a22f5f4f7cb7336b2c7b8ae250e432acba8142", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "75a0ead82169c050cabd113f0f6a046934414f9bbd6366b7c6befe192131f796", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03605f21ff64ff4f71272a15199f339a35c068148e1b4a3f03f6a8e32eff4b95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd0f7683163110a09505fb74bd8106ab1a56c3b18cb33573f3eb3e5457b7cdd6", "verdict": "consistent", "reason": "Checked: fr.wikipedia.org/wiki/Baiser_sur_la_joue (two in Paris, three in parts of the south)."}
+{"prompt_hash": "8b3ac11de5e12de19c6658c706b3e63d0f41c9f96820b0bd829cf1d17d9b4a82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1528008d0c6527386808e193f11fd322b974b815cfd21ca42c418714144862d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f1d9f1d1b2f08b54ec8ec53a020125e73248907e9e1dc0b0fde5ce681f56a8f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "643f4a07bee69b97ce84b8763de74040e69827826c36423b410cb29348e093cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65992039bf76e64f1838e8bddb1ce60b08d45807543960101c9c2febc3157173", "verdict": "adds_false_claim", "reason": "Says the flashlight beam would 'refract' off the tent mesh; light bouncing off a surface is reflection, not refraction."}
+{"prompt_hash": "73a751b3ce2c6349e2782141ffbf1d4272229b04cffa77cd407ffb3df347c9ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "69122658ae6abf07b0e5f060cc4261ae0f535dd9371fc42dd5223ba3c7c4d1f3", "verdict": "adds_false_claim", "reason": "Numbers in rows two through ten are nine values, yet the chart shows ten bars; B2:B10 holds nine cells (and B10's value was overwritten). Circular-reference fact itself is correct (support.microsoft.com)."}
+{"prompt_hash": "0f718511a442e3c566458aefbd093d76f7050a43c41d01227dec582b355b6506", "verdict": "consistent", "reason": "Checked: developer.mozilla.org text-align (only 'center' valid)."}
+{"prompt_hash": "3290815c2c5dc67d72070b745f6eb9e1394c046a622ba23fbb47a5deec63d8f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba2e0ec13217d55488b9ea90222bf0029c81edc3346f2826c478411a8767d19f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79d78a46580cead02c43fcab75f2e07a659a8a9647d5fa08ac57fb5b05945b5c", "verdict": "adds_false_claim", "reason": "Grade 8 count of 204 with every student appearing twice cannot reduce to 89 unique (89 x 2 = 178); story also says only half answered twice. Pivot-table fact correct (en.wikipedia.org/wiki/Pivot_table)."}
+{"prompt_hash": "9ea12a9890cecd00fc3366ac9fd5e3c52e84dc26e9690f27a4f173f3a9169ffa", "verdict": "consistent", "reason": "Checked: en.wikipedia.org/wiki/Robert_Recorde (Welsh, 1557, 'no two things more equal')."}
+{"prompt_hash": "925c2d73708b9507d4d11586394941ff3c9a7e098631dc5d2a94e200242c8afc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2fb6bbf9a73b954807f725359eb18eff83bd55366ded286ca1ac8e469c6f42e", "verdict": "adds_false_claim", "reason": "Says Naismith's students were young men with no income from impoverished neighborhoods; they were students at the YMCA International Training School (en.wikipedia.org/wiki/James_Naismith). Injected fact stated correctly."}
+{"prompt_hash": "15c81d42ce5e1ec15c6995ad3ff357717b57b4eebeeca148b13a61664450cd6f", "verdict": "consistent", "reason": ""}

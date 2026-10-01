@@ -1,0 +1,40 @@
+{"prompt_hash": "4849a2d2b4196ed7a7a243c0af64f8bb4e653844378f6df28d87e26b36d1e346", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f879c7e44440b1ba7d19beada030e3762d017faed85a73aed547bee4af317707", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Super_Bowl_I (numeral applied retroactively)"}
+{"prompt_hash": "8d243fd8c5ab811517748ec58a09fec87a85cc306dc12f4fecf3b028a84a94ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7bd0900f7408c52672ca3b54798b7d86677d9903c1700c377d6f4349d3ca7db8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eca23966a349f474db1e2f801ec98593e2e28e42acaf28b68cbee91e0c51bb21", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bbfa4878ad89bfd8055b1831a1a7f6c8f3dc71bfcebd87d5ec17a180d7ba9e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec420d17382dae0df241273db806f4948b57f06268742b13ab12a2dda920300d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a4700f1cda7ac9f8a2d90f623f2cfb2362a723e3536634aa1d2d10e72818080", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88229916691b92c887bafcccd044276f8c72b11755ef2b4a4401e4993a500297", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25a941535677f4075cd61070f245da531282cf4b8185fb7f9a524ed9702ae580", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6073a1793c04f33d0df89b87b3271261157e971f3f36a97969712131ac30ed6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c66dcc4e83c057f172be33f00e244dd553663bc3d00a266fb86aa0100942f21c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea11e417a2839787ed256e6f81a182ad9215d0d4de318b109f4509f7a50b274d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e3ee3a9aa2b18266d11e118b49ba004add1f4e5399e721c2b5076439a47e4e8", "verdict": "adds_false_claim", "reason": "Story treats an Atacama annual total of 241 mm as not under the 250 mm desert line; 241 is under 250, and the Atacama averages about 15 mm a year (checked: en.wikipedia.org/wiki/Atacama_Desert)."}
+{"prompt_hash": "d13aa7eeadfa7600cbcbb937197dd8f6730b39690c03545d93105598b19d4f63", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9721820dc653bfdad07190d5b80e70086adc838106c57ee1ae4801ac0cf1cc27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21f283b443d52e3a14a52b750cd79e878f7399146d4e0509b15128695975d9d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17a43c54283daafb04a3fdeb7b398996f7bdc528e771a24830554d350c839799", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d94c385a7f7a852d76298ba99207d80b79122d2cac18f50dfc842b07b5d50ed1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd29400fdccc5b9f2a99fb45a95fc58de48e2dbfb0f0188f3d2a89943a82b94c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f4aee8d5ccbe5028b027a6ff49c7072108c4907e88bfa136d470c1df577b96a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc3de058d9f3dfc140f4567753cb77db61fe867de8bcca3865c1f65b9229bd22", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d0a414e08382dae0ff47db1c3e00eae881c5d0994dddc51af768af1b15fa6aeb", "verdict": "adds_false_claim", "reason": "Story says 'apparent' is spelled with a double r and counts it correct; the word has a double p but a single r."}
+{"prompt_hash": "c705d64ed874b18b3f78671c525c6e7ba81fcb4bbf9b2c342c8a5f04d51bca62", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b649de6fbcd3e53d1ba7caff3a977517124fb1b86a78caa5c471b87ca073223", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ece100fc24712f7b99e1dc259da40658e84199c178c24d279afb3e968410daf7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "231a032bf2cb1ed3ddd39e4cb6670cb44d7d2b6012d47245c8b9cdc10af16d42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8382dcbf6f160aa55605290f9ba22b7c23b4cb79b65d92a38309959b2289e88e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56a632aa4f710fe5e16426a09d4cd352f1ba3106e96752043fbf0db82fb48dbc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ffb063621323ee29afc3714e2cdeee31efb3f42fddd235b3372ab28c0f20e01c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf9d35d5d10d7627cd900b8c6f4dbff663483972c42648216ba94081cac93b51", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64efa5baf392cb1620ba0e5f26552e34020f6b0e49dca10fec2fedf65c4dcf9d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38c24f2fd3ee098a05e57d776928f00dfee1578d2b70848a4c05583f1e7a3829", "verdict": "adds_false_claim", "reason": "Story says the wording of the life/liberty/security and fair-hearing rights existed nowhere before 1982; the 1960 Canadian Bill of Rights ss.1(a), 2(e) already used it (checked: laws-lois.justice.gc.ca/eng/acts/c-12.3/page-1.html). Fair hearing within a reasonable time is s.11, not under s.7."}
+{"prompt_hash": "54b43a30de13a4b55b9b0b39550078df0e4a32ffe3b8d532e4f41dd6655b0778", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a18f16b0752ffda58a69564507db0d323614b9d2334ee37e11fd908d89f0947", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5c3792fef330c1fb0645990a358fd1d36ab3ac345ef30c0d2f8aa5c6d7476b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "46e6af588fb9ce2e29c603c2ccede4ba23b29908d0b995d6f8c252d12ee291a2", "verdict": "adds_false_claim", "reason": "Story totals ten rows of data with SUM(B2:B10), which covers only nine cells."}
+{"prompt_hash": "505d5d440fd27a32d736ad0e43ad53c304f2d2ebceae036ec84cf9fd0177e056", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c51b18403e9c7510a9666d22fc47e45b545fb919c42d7b1dbbdc3a9695c3f8fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bb3aa5ab2ac4bfe93194bc4c693286ce7c0300b6799aa013765ff4ad2983c389", "verdict": "consistent", "reason": ""}

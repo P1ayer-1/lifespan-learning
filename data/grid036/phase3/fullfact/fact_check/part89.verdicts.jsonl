@@ -1,0 +1,40 @@
+{"prompt_hash": "5806d394ee1ef663dd1b5bcaf20ff87e2ad2badf36fccf90c1ca83a6423b0c4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47dba730c1ed75c8b0f2189da3ed6c91886b6df03c8e8abcf4cd6c011b182607", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "690285090b24167896542544bb8eaacd5a12ebf612402114629c7e15f3851b74", "verdict": "consistent", "reason": "monarch entering English via Old French checked: etymonline.com/word/monarch"}
+{"prompt_hash": "927d77ed32ec2148927662081365cf25a7eefa7d535f677b39444fdb8dd9c773", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b2950ded9985cc83a208aea2162cd85617ec1116f3261b56e563a7da3f2a2cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4bcaa1be55b8320ccc8c20383c5a0ae3b4b3e54b99b0c30250e215ad5622bb5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f437059e0fd81d3a44dc96e601d156c225e7cfdd040069da0470ef4a2c89161", "verdict": "adds_false_claim", "reason": "The story says moving =SUM(B2:B10) to B11 gives the total for all thirty rows of sales. That range adds only nine rows, so it would need something like B2:B31. The circular-reference warning is correct (support.microsoft.com circular reference page)."}
+{"prompt_hash": "91a09a4f865bfbb93c72a83334f18c168c4e7b07b34957742527a75d2921b33f", "verdict": "consistent", "reason": "1699 Khalsa at Anandpur, harvest link and five figures checked: en.wikipedia.org/wiki/Vaisakhi"}
+{"prompt_hash": "31e3f3daf186e04d69812c13bf8d79540b365aeada9a3630eeb6244866396b6a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Scarlet_Ibis (1960, storm-blown ibis dies in garden)"}
+{"prompt_hash": "b17bee703f1b223d048f1c9d0f50c1a1976939507b31db8e88c454d347f7da5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89a56dfdc8ee9f3eaad9bba4a3c7bd09ed9df0956625fd0465b529a98c87ed3f", "verdict": "adds_false_claim", "reason": "The story lists demiurge among the French-origin words. Demiurge comes from Greek dēmiourgos through Latin, not French (etymonline.com/word/demiurge). Zaila 2021 checked on en.wikipedia.org/wiki/Zaila_Avant-garde. uncertain: the claim that she practiced with a spreadsheet her dad made is not on that page."}
+{"prompt_hash": "82313967d8f0e5871f185a6dc179bcc46fdbe78eddff85b46868c148e92835d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "647ab805a32cf22c042098ec140b02e299f590acb5f8bfd65e220530d3259b92", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de340622fe5f9c48fb52b23484cadd2d4f0d1eea1d722b7eeb6ae5b552cdb71d", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Monkey%27s_Paw (Morris throws the paw in the fire, Mr White retrieves it, £200 compensation arrives the next day, 1902)"}
+{"prompt_hash": "d9c13cbd2cbbbc5a7070af3de60335866e386e501b3f12d5f3f66cc61f2b49f2", "verdict": "fact_missing", "reason": "The story says the yad means hand, but it never says the reason for using it: so the parchment is not touched. The pointer is shown only as a way to keep your place."}
+{"prompt_hash": "a2661fc74c4540850ea4edbdac538da55f4252452f499937aa5053b58208f91a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fdeef008133c4510170f35f975a8d6fb2630e8a4c5960a1b08895adced88dc99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6b56933e975de3eaf6d7bd371edf300fde50ca30d3af0634824402a95ce2acf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2efcfca1a7458a094b530dbabfd5444bbd9c740b27ac3193b2e2ee4cdb63a5da", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/American_Camp_Association (founded 1910 as Camp Directors Association of America)"}
+{"prompt_hash": "01a5eec987b20224a8ad45fbb866c2f5f45a0ed3c91801f98152de04b049ea6b", "verdict": "consistent", "reason": "The story conveys the dress split and that the real dress was blue and black, but it leaves out the February 2015 date."}
+{"prompt_hash": "b78c980287f414c5205a171a371a442350f5ed2e62e0ae6d877aee59138d000c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "845b4b7db64d2a20288de4865b454b11ab0cac1bc01a4d214e4e88411beb9ef2", "verdict": "consistent", "reason": "107/412 = .260 rechecked; walks excluded from at-bats; OBP counts walks"}
+{"prompt_hash": "d419fc073f9fe136da51bae8ad58e5695c64e5ca5796d48bb34a98200229ddcb", "verdict": "consistent", "reason": "2.4 V / 0.3 A = 8 ohms rechecked"}
+{"prompt_hash": "0a275242c2257f81adb804dd7b85e5aabe9b2acb3b6bdb412c59f51a433b5254", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ca685a6b9f0a28eb7aa28fdaef606dcf055733d744f87f5408223f553958919", "verdict": "fact_missing", "reason": "The story defines the independent variable but never names or defines the dependent variable as what gets measured to see the effect."}
+{"prompt_hash": "0577b01b071e174007be053f0a0380c471544fa0dc8a3f82a5b09d5a8fff27d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "638917154cc33d34ef4bd31b162cc6373d8f11af033a61e9f6441608513e5da0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7227886007c950db9c8c3595ab411d022e7f2dfa301103210bd9443ca2c074e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa2cf9a93b2eb0f26f2984cb38023cdd57e3f84027f489fd5c614a116102f42b", "verdict": "consistent", "reason": "1.1 kg vs 174 g gives a ratio of about 6.3, so 'more than six times' is right"}
+{"prompt_hash": "1bf57ee5af4eeec4094b1f2f2c9f8019b7de90746abd15c98e3a067c0b7395a8", "verdict": "consistent", "reason": "x/3=5 gives x=15 rechecked"}
+{"prompt_hash": "3d3dbbbf7868e4e62f4a58063e3d1a69b709e59e8194ae78717ed97e33e10ab2", "verdict": "consistent", "reason": "checked: aad.org how-to-apply-sunscreen (reapply every two hours and right after swimming or sweating)"}
+{"prompt_hash": "5f34abda2a35c5f488cab55a170e340266a44959b07f89f7495fa78113a4c3d8", "verdict": "consistent", "reason": "uncertain: the claim that copper-bracelet placebo trials involved hundreds of people; the no-effect finding is standard, but the PubMed page could not be fetched."}
+{"prompt_hash": "ddc157b63e5995299517cdea57c039122babe5d4d3b6dc67761c3ee553d89449", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d4c97167f8244f36bc3a04037888091d9f4dc90b8ccf796cc87192d002996cd", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Adolescence (hands and feet grow first)"}
+{"prompt_hash": "1675e06e6fd4a2378df681a69b6347fb54157495430941fd0b63c3dc82720754", "verdict": "adds_false_claim", "reason": "The ending shows the boy riding downhill standing on the pegs, held up by the rider's shoulder, as fun and safe. Carrying a passenger without a seat is unsafe and illegal in places such as California (Vehicle Code 21204(b), leginfo.legislature.ca.gov)."}
+{"prompt_hash": "f9c3b7309950ac8e3ccb142f0e6c538156235f4f37863c94ecc8c90b50526f89", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Fundamental_attribution_error (Ross 1977)"}
+{"prompt_hash": "44904a6239fc42c61ce6a7b473ae969e1c3f2d93c45093467fea11dd180bc775", "verdict": "adds_false_claim", "reason": "The story says the sailor's wife answers the witch with 'Prithee' in Macbeth 1.3. In the text she says only 'Aroint thee, witch,' and the witch only recounts the meeting (folger.edu Macbeth 1.3). The story's reading that she politely begs is therefore invented."}
+{"prompt_hash": "86c202a7cd03faa8538d32cc086545db26cda652d4080e866ff257f398bb0cdc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "908793ea83d4fab1c344f28a117043f2224210a2f91b8924502496ddb095b7e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3406af6e76bad3d11c7514dd3b049c113629e5c3934a90f11e967a3b8b6d7ad", "verdict": "consistent", "reason": ""}

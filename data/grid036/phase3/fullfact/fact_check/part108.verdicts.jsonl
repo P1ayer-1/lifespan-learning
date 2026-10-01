@@ -1,0 +1,40 @@
+{"prompt_hash": "c52bad9d3da15bdd81edea08cad912a749afccf1be1a9ecc0bae52d6e9fcfeac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74adafbd3c5b2fbe5b76105ade92f9ef41273838a6088c9b916dbbe5d2e87c21", "verdict": "adds_false_claim", "reason": "Story says both players average exactly ten, but Dani's listed games (9, 10, 11, 10, 9) average 9.8, not 10."}
+{"prompt_hash": "a97ba172fc5c4a90fda57e10adefc2358d92c470c4d4d6b84776a311c8c1d4c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ef336545fe2830574d91d6f4c3495ddc2eb54e3913f64de34b412a6ad9c818d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02d82479c3a9824c565b0f8deb7c91d3016795c620ad933f9826313ed85cec56", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47515c4bbf28ce8b21d0401084e919ab7c778737c0cdd3d4e3065487bbd0d4d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "837ce9fd3d57a8912c34337a3f23c4580714d47ecfe69c85a6350026824ea309", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cbe2cc2b3d061938c077f297c739af9e35922c204d4a230e38788085566ad9f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d89a1613b19bdd2d458eaf62f022ebc26f61df0b0ddcbf72010a7e3ce5e48394", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74dcfcf3e8cba0a386139b3e16b8b2a82fc256483cd147e1e55f0b4afa4e54f1", "verdict": "adds_false_claim", "reason": "Map description has the Polish Corridor running from East Prussia to the sea; it ran from Poland to the Baltic, west of East Prussia, separating it from the rest of Germany (fetched: en.wikipedia.org/wiki/Polish_Corridor)."}
+{"prompt_hash": "642237ff8de97fa163675aca46378606af4b136446e3cce0b90787d82ed8817f", "verdict": "adds_false_claim", "reason": "Story equates seventeen afternoons with a couple of months of Saturdays; seventeen weekly Saturdays is about four months."}
+{"prompt_hash": "20e97cb217d45ddab976591384885504d481c326f090a67d61952cbce3d8739d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abca11445a24f09d5fe219807ff0cd696ca69f61be7da1c55e565ce8030902a8", "verdict": "adds_false_claim", "reason": "Trusted expert says adding saline activator too fast breaks the polymer chains; borate activator cross-links PVA chains, it does not break them (fetched: en.wikipedia.org/wiki/Flubber_(material))."}
+{"prompt_hash": "5bd4a95ee3fd3e58678b10ad13cd699da598365b80eb52c09de21bf978a4aa61", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "827e07121f02a88984e5d10e04219c4b3169f6408fa871665c0d1af5c230ae93", "verdict": "adds_false_claim", "reason": "Story says nadir is Arabic 'like bazaar', but the judge (and etymology) give bazaar as Persian; the 'Persian words use the b-a-z-a-r spelling' rule is also invented (fetched: etymonline.com/word/bazaar)."}
+{"prompt_hash": "af18bc8a4e6eeaa1982d910bfb6b8d34125f398f80f46f56d2877feb89733af3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d172a05de27bd6c314ebe56839b70c8f9b993780ba21f8654cbb775d241a69f", "verdict": "adds_false_claim", "reason": "Story claims the British Harry Potter edition puts the period outside the closing quotation mark in dialogue; British fiction keeps punctuation that belongs to the speech inside the quotes (fetched: en.wikipedia.org/wiki/Quotation_marks_in_English)."}
+{"prompt_hash": "e3b811d4ffe2b205ccc61f16a00311bd313ef0b7e25602ce46ceba5a2eb6bbe3", "verdict": "adds_false_claim", "reason": "The school nurse diagnoses astigmatism and hands over prescription glasses at school; nurses only screen and refer, and an eye doctor's exam and a made-to-prescription lens are needed."}
+{"prompt_hash": "da8d0f0bad5f5525d8e59c0fa5dbb1f5ede9037b83794593a31b723ee523828c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf6bd4fd44847c8fd9d839b33df4f591ef19bfee878a996bb5c74c119b4671f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23e7ba05aacfe445ec04b72f072dfecbf1453f0f1b5595f7375056015ee45e50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c5ddb2ee35e12f2920de2e9eebf8557d0b8175484e839a3549bdfd4fd890e99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b7da2399e81723d38690a20602ce13d3ab60922588fd024f376bdcabb6d3de12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "72badabcefe71dd9c4e92828f755f513784540bc0e5a18c39c95e8324916e7da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0786a8ff2d72fbef8cfe891cf1a2091543602d8ea0e67743849836a3882124cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "258e52b7573dd461909d74021de78344bce8f9de5d71e4d4dd8ba77220261602", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54cf37a9dd0d993a871e63f6c5e3e7907f0863db8162469a1d728974b9b15ab2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85b1a6f4ebe9120f8fac92f619a54efc4aff2adadb1df958d39443df496b72df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea871ffd4e04e2e70b40dc85ed3198fae57af9d97d76027033ff2f969219e562", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29737b1f252c033dbbc7861a559e8665b676feedc0d74f37328885a8205b88c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10acfacaa9a9ceea337975228ffa0260de12125a895617e1f01e4fbbfcccbbcc", "verdict": "adds_false_claim", "reason": "After one make in one try plus two makes in ten, the story gives 75 percent, three of four; it is 3 of 11, about 27 percent."}
+{"prompt_hash": "816f1f037556f43e51c412371ccecbd18d6b0c8763170ee4dd81c61dfa0892fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ce11c3add2f5a63461c9350e496b0281f32602d7ac09e69dad4de2adab81699", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3fd9f22e46c7e0da5aa36c7840ac5482fe120f2f01bc7157ad32ba72c1b44559", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3d606d6843945d075d121e83ea27a21932e85209c6962ad6b9e89acfc04cf45", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ddae44d5367b0e3d75b64a5e55d69f9a00e7ba87331444a30c488d586364250", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b70d9883760696a2912d311eb3cb911aac3b138375aa6a58fd4e6785de09874", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c716981ade68b86e032514fa255f0a947c5e3707076b11ea996756308027cf70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09d05c8e42efced4e4add2d00b4da5a81ce1a38216816d361b6f77286cf1bc31", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64f7490435b4b378bad45e984ecaa1a6ab5f0d8705b528663ba30673cf5bf710", "verdict": "consistent", "reason": ""}

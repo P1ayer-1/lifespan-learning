@@ -1,0 +1,40 @@
+{"prompt_hash": "ec8280b406804d527e059bb23fd054612caf54384d7826ceca04abd70b42119c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1b07ea201f09291966abe483e109d22a26847908acc4b30937b350099996dec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf3acd3961e45227cdfda77d9764169cf01cc8c8e0ae2c32818b1cbad6b86f8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1e27a7f5e9e44a9da5cb2ffef6ff2506152c6b38c0cfcd95de6cb595333b630", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "628e92637e1d76e7a4bb9fe8a1df9fd9a742e7c89e3d41fa08c057de28f03689", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af12a4ca197a07529865994e8c8b109570922c8551da00b428785b80fe5e70a3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "399c7ec6a3c7d8e69f8892dc5e6a9f9a6937e7a696b795fda62254e5aa1304da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "95c555a3b9bd9e73c7a10c126262374c607650f2f16c750890ea865136702f9c", "verdict": "adds_false_claim", "reason": "The story says the two E strings are an octave apart. Standard tuning is E2 to E4, two octaves apart (en.wikipedia.org/wiki/Guitar_tunings)."}
+{"prompt_hash": "f601940a106ec6185afa4b69be478aa5cd8b92d651f405964ebba2f89f522823", "verdict": "adds_false_claim", "reason": "The story puts point P 6 cm in from a plate yet dead centre between plates 50 mm apart. That is impossible; the midpoint is 2.5 cm from each plate."}
+{"prompt_hash": "80f0f5a8a060af4c0852cf9caef07b3ce361c5cf05c754f95aaf083eb149b8ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5349a341229ca5f7b9db39ae06a61cc8aa3dd64d02208aa06643e19d1120fc8d", "verdict": "adds_false_claim", "reason": "The story puts the black cat at the upper left of the painting. It is on the viewer's right, over Kahlo's left shoulder, and the monkey is on the left (en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird; fridakahlo.org)."}
+{"prompt_hash": "b6d73d1dde29bcab01880b4c0dff4abf9e3d5abbce14b22f134559dcaca43ff6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad7e22cb88c1c8c99a572857b616410fd1324cce1d3f247e93936124ea03d977", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1528c873192b4c529e7312618018ab230f80ecba88988b1c5ee36b3cf335299a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef30aa7525077c1ab74644b264faae209d730fb9cee1167c3e2bf2ef6c0c7ffc", "verdict": "consistent", "reason": "source for charm, year after the divorce: en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird"}
+{"prompt_hash": "e5df3050edc8c40f82622fa50563134d0ac7bbcf94543fe640b6f8be4ffb1a02", "verdict": "consistent", "reason": "source: gov.uk/driving-test/driving-test-faults-result"}
+{"prompt_hash": "1b62259beea1c6080cb5466ffc08286d9517d203892b8c9e74ed2daedbb3e442", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "875bdce723879c00cc48e5cea70cbb642d6b9ea931e371a07f183792a05c5c79", "verdict": "adds_false_claim", "reason": "The story puts K. 333's transition at about bar 41 with the second theme after it, and treats bar 23 as wrong. The F-major second theme begins at bar 23 (de.wikipedia.org/wiki/Klaviersonate_Nr._13_(Mozart))."}
+{"prompt_hash": "5520aa59d41639bb2f36f2c52ef50c240310d753cbaa9fe2e9a6aa3529acfbcd", "verdict": "consistent", "reason": "source for placing candles right to left: chabad.org How to Light a Chanukah Menorah"}
+{"prompt_hash": "06db624ded625611d62afd482cefdc40fe62f82d726aa2b4454f623a897a03be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "058c2087f5117fc7737c74d56cd96662caed2e41d6a0a4c9a618f567d3cddb3b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "907fa78fd64bd0cc235d0421aa63298fdff69ea392b957015c38c6b34273ab46", "verdict": "adds_false_claim", "reason": "The story describes two benches, one holding shrivelled hearts, and hands almost touching. The two Fridas sit together and hold hands, and there are no such benches (theartstory.org/artist/kahlo-frida; fridakahlo.org/the-two-fridas.jsp)."}
+{"prompt_hash": "02e1653c7654973ade49aa68a0355ddf8f020a1e783da22ff50e5aecbea4e6b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76cc1ad7ecb0cfd924c95526cf8771e1a211138771a6aaf42b564a73f9111eb8", "verdict": "adds_false_claim", "reason": "The story has K. 545's second theme arriving around bar 20. It begins around bar 14, and the closing section starts at bar 22 (de.wikipedia.org/wiki/Klaviersonate_Nr._16_(Mozart))."}
+{"prompt_hash": "49de4812e9bd5dac655c26be4c38a9b588393678dde7ebbe48b47ee1e2fe5b82", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Did_Marco_Polo_Go_to_China%3F"}
+{"prompt_hash": "e2d71971f375d4c5fd651fdf57cc0ff28cbf6cd1954094828b513ac08bf39cca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3aa3cfdf5d934b93b51a94c9af860c4e43286d5cbba5cd49dbcc814b8732236", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Christmas_in_Russia"}
+{"prompt_hash": "db86ec904ef6e597dacb3fba145ff9ea96600d31b9ba90c93e4014c61ccfebbf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e50ed67e41a987efd3a59c732e06b757d629d7879363d652550b771480a140f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18e85207c0b98767c7086bcceca4ca08185c0224ced9a0b373dd8fed9438b2d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "38739777f4c2cddfb5152d82bf4de4c9893f7ff4eb30777fca08cc99bf5928a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c51c2d743645c02dee950a06f1b2e49a2e5dd63cc4013aa8fafde3c8dccd6fab", "verdict": "consistent", "reason": "source: theifab.com/laws/latest/offside"}
+{"prompt_hash": "5d29f7b657e0d187bb4304d1c7c45bd25bde360a6dc84b03a947fb2d7b881a0c", "verdict": "adds_false_claim", "reason": "The story has (low+high)/2 overflowing on a search over a million numbers. With 32-bit ints the overflow needs arrays of about 2^30 (a billion) elements (research.google blog 'Nearly All Binary Searches and Mergesorts are Broken')."}
+{"prompt_hash": "51adf2c7250f1c900e2fc4da4dcd3a2a19c426113c99854f378e990c1992838a", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Mayonnaise"}
+{"prompt_hash": "ed71b9606b923dc9997451eccbbaf44da6db3216b307e67c445a37fea3d9c5d4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73d1e5a87458e8a624f530b658048ae04b8793b1fd523ab7e6fee502a1ce23ca", "verdict": "consistent", "reason": "uncertain: the neighbour's remark that Riemann 'had to apply twice' is unsupported; the 1854 Habilitationsschrift is confirmed by en.wikipedia.org/wiki/Riemann_integral"}
+{"prompt_hash": "ceaf9eed456e7239b6b040400af219904ec393c915dd78ba6202d343c35e6f07", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20eefed8dbe40d2d4a2e017e93943fef760ebcc8bea927e351352d03b56d39a2", "verdict": "consistent", "reason": "source: docs.oracle.com Java tutorial on primitive data types (default values)"}
+{"prompt_hash": "d5a2919df9d5f32ec5d24a7889c98ac377dd3fb9a2ffa7f95f5c99fd13d68e8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9bcf9ac9a91cb4642e7aa41f120f347f86e5af0eefa934170d7dd0d739afc1ab", "verdict": "consistent", "reason": ""}

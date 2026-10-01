@@ -1,0 +1,40 @@
+{"prompt_hash": "e1839a9b66851911976d0bed125de81c13943a0a10bda74ad3f58df4b05793f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64fcbd537078d5145dafb51d7e6ffa4ce3b6a4f82d84aa450d90cd3b5a54f465", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b0cc451368b5cd6238cd7b4a8bf077c13c6031a549c24a9b426f773bd7e6533", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c604c7d34816c2608bbca4f7cb0f7e3745d5cc4041b69935e068c09535f20261", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33ef45d5c719e4ba09c05230779056979821adf65e49d8759d887e3bee3e633b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26ddd8c7bbc6f4988b75270e70352a60a194c01c69a2230147929b3026f1448f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "33821f0b10f6af2f099d4024bbb905c20418d4ed8b373aa6cf36e97fb829dfae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d402c19cfb6c5ee10137aa944262622c5a4aa8ad5c2eb29a9d2de366ab76974c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f69c98df55bda23cc1552c3afd068a26ebf48fd584be2b36060e67d99a37c8c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db2f4c6925e525a85233db16ecb912450184b46099e5c20169c54942eb62a45a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb77f7a3c58e004057aea30accb8ae43be3235053019af0331180e7a0f1ad823", "verdict": "consistent", "reason": "Grapes as harmful to hamsters checked: RSPCA hamster diet page (rspca.org.uk) says grapes can be poisonous to rodents."}
+{"prompt_hash": "2a611a7a577a3b26c92f89c3dc84836587e24365e2cc8e062a645fca29b70ba5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6189ee617f740940421410ae1dba4f0d265783318a2f2bf7c564e809324ff0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e015e7b581397ae8bef2c56bbac267bb56d3cb72566f6a80ef3b403599195b8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "216bdbf17722d6fe9db04d1afedc1cb7653c855da7c9b849086dd04c0624369f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad9953c17cfa50c18351504d686fabd6c0640d105328d0ee43b2f4ccce077aac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dc0fb375111420013d1751d611f2a369612f1dd52f7a6aa8bac84d6a8769909d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ac241f4d05fce743ca140926c5a119f4864f4c33026801071ad845f94a9a96d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b89ce88902861ef340a92228097970b673759670110d5849e2e8cdb46567ad3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "560debc5b12e53f5bfc83893abd6cb02202f3b0bdba70c004a70c2698bf8a90d", "verdict": "adds_false_claim", "reason": "Arithmetic error: returning $63 boots would fully cover the $50 deposit with $13 left over; the story says $13 would not cover $50 and she must babysit for the rest."}
+{"prompt_hash": "0dda91c8ca71d2c646d03cc4dbcb2c92aeb0921763ed6ff609a5507d6c38ff31", "verdict": "fact_missing", "reason": "Story shows a small vs large survey but never states that larger samples are more reliable or that chance differences even out in bigger groups."}
+{"prompt_hash": "b5594889bf51bf948f8a5699f4be0ecf7e64ff568de2e3288f918368f605bf4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70e52026967152e0eead69b43c94f74f25f1788782afb5dd06a21ed89bd5f66e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4ff60a43275f6376383c7535518b291398ca488339bd9d40d07f2f94e2bbce48", "verdict": "adds_false_claim", "reason": "Debugging explanation is wrong: with 'print prime' inside the loop, input 7 would print 'prime' repeatedly and never 'not prime', so the described output and its cause cannot happen."}
+{"prompt_hash": "b339a3a9b6aa1b5c6cc2dac40b0e5986b96ef98c46e2954639d07f7bc718eb9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce8c2db91a7ad5e4ab26d245a552a9dd798305b3afb58d40b0b1e63177f930ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b36f25e5b8c88772a1fad458087c089254d45caf5c1264eddc2d6693d4417d79", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84a998535e39eed8d2ee047b402a8d77c3b1230bd09eaae6b5d3222fb2548a31", "verdict": "consistent", "reason": "Dark-grown sprouts taller and pale checked: Wikipedia 'Etiolation' (long weak stems, pale colour)."}
+{"prompt_hash": "8d5b3be9572cd6ee4fdc2a5bd8d2f9b6462186ef81cce48f380519739d36eaf7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff282498671d15927b5b6941bd13e7b1b68d6f5c6f47abefd439494b39de6483", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1ef992efa1b13cab44e1da383623e4c8620ddd20b253536cce404d5314a954a", "verdict": "adds_false_claim", "reason": "Miriam reads aloud a line quoted as Jacobs's text that is not in the story; Morris actually says 'Better let it burn' and 'I warn you of the consequences' (Project Gutenberg text). Injected fact itself is stated correctly."}
+{"prompt_hash": "1b38e0284c088a9d05f9a0c27578ce57ea83809c7aa223b7ab9a5bf6d79bafe0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0698731baa1fffc72ba620c2fda02562dc7a5be1564cdd3c8c252b3993f4bfb7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ced4f35b339f19477ac8c119b736e6e929936eb4ebbc167ff800b2ce50aa5187", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e98c8dee908cd78183f79ae38e1c6781dc35b215a3aa1e57e444507d95f5a14", "verdict": "adds_false_claim", "reason": "Claim that one scooped cup holds close to an extra half cup (about 50% more) of flour is exaggerated; volume variation for flour is about 20% (Wikipedia 'Cooking weights and measures'; King Arthur chart: 120 g per spooned cup)."}
+{"prompt_hash": "844718bd907c3783bde70ebb6f4cedf524a905f955d161c52c08b09ff6b7dd4f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe33951ea486157e595fc7e766c49e387b48596d32458fd545ba1c8a3ca45c93", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1fb8b405cd9e9c957a4b67d8c3f5379832b6b074cf25a010380f13c6abfb7a13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6b325594d69a984d4fcb486d447902c57dfb34d58e367aa7d7eab8ff264b30bf", "verdict": "adds_false_claim", "reason": "Mr. Rahimi says the table thinks there are six grades, but it shows four groups (Grade 6, Grade 7, Gr 7, Grade 8)."}
+{"prompt_hash": "9cc2f895100aa6ea5ff4c650e3aa7c588db340ad4fb66a9c998472e19a0f2132", "verdict": "consistent", "reason": "1000003 being prime verified by computation; odd-divisor rule stated correctly."}

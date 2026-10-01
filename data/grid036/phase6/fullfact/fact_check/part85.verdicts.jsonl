@@ -1,0 +1,40 @@
+{"prompt_hash": "0591380738a03b6fd1f24e059e1d81a19a1dc125ddf99179aad8838951a04809", "verdict": "contradicts_fact", "reason": "Story first gives the CDC figure correctly, then the protagonist restates it as 1 in 12 of all students (two kids per homeroom). The YRBS rate applies only to students who had dated."}
+{"prompt_hash": "afae80fe63006a3bdc856f1b6e72630fcdd93fe8645a641f49cff194543744c7", "verdict": "adds_false_claim", "reason": "The Riemann sums for 3x^2 on [1,4] are said to approach about 8.1-8.3, yet they are then said to approach 63 from below. Left sums with 20/40/80 rectangles are about 59.7, 61.3, 62.2 (recomputed)."}
+{"prompt_hash": "2a8decd7b83471218569a13dfb90a290d02ae59659bf8f75e642fef47d17ffb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "baf10831973818748385ba543662b4af267d45d5676efa051887cffd13934380", "verdict": "consistent", "reason": "uncertain: the grandmother attributes the critics watching to catch Jesus to the chapter she read (Mark 2), but that watching is Mark 3:2 (biblegateway.com KJV Mark 2:23-3:6 fetched). Mark 2:27 itself is stated correctly."}
+{"prompt_hash": "9ca570cae4137f116ad3253bea9d6968d7ea2f1e25e0e00d2f3bb0c5147b7bc0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3ded450e9bf6049098a680181342f69a638a8d8770e346c8f10b1d45e1f10f2", "verdict": "consistent", "reason": "K.545 exposition repeat and recapitulation opening in F major (not tonic) confirmed by en.wikipedia.org/wiki/Piano_Sonata_No._16_(Mozart) (fetched)."}
+{"prompt_hash": "19a37f28ae2d44d94a59c0ce5fec30f7ba6b91ca252d875881b6561e30736929", "verdict": "adds_false_claim", "reason": "The survey's margin of error is given as plus or minus 4 points for a sample of 90 and never corrected. For n=90 the 95% margin is about plus or minus 10 points (1.96*sqrt(0.25/90))."}
+{"prompt_hash": "29782173ddc0fa20f06799cc02d984711e6e2ad0757da3bfc4848375770fc9b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6ed664eb97597cdf4b6004ee2450418ca1b6919672ba895f07a1b6e34217892", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7799384098c6de007c4251446849cdaeb04a9885cae9db56f6ac2c0e0a842ff0", "verdict": "adds_false_claim", "reason": "The crossword clue is given as seven letters and answered with 'circumlocution', which has 14 letters."}
+{"prompt_hash": "5b6e70d71bf9df36a708a255b71c0c874e76c2249f2519790fecd84aaa3e13d7", "verdict": "consistent", "reason": "Opening of The Tell-Tale Heart (hearing all things in heaven, earth and hell) confirmed at poestories.com/read/telltaleheart (fetched)."}
+{"prompt_hash": "dc4fb80818a6156f22424e05d6fedea8bbc37fe569252cebed97cbbb5bf99038", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aba0f8b97cd4aeecd28d8b5dc06ed63749f1debe5328c3caa23eb74e8f66d6f3", "verdict": "adds_false_claim", "reason": "The narrator says no servant speaks a word in Jane Eyre chapter 4. Bessie has several lines of dialogue with Jane in that chapter (Gutenberg text gutenberg.org/files/1260, fetched)."}
+{"prompt_hash": "7a1817a31e5fb4f6009bd2710a154858d848761f43bf045cbd41152b64a7631e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ca7776d1d1b0372e8b1074dbedaaf007a3b6b5bac81d0047e757e4691846b96", "verdict": "adds_false_claim", "reason": "The packet is called a real Supreme Court case about a girl suspended for an anti-money banner, and no such case exists. The real banner case, Morse v. Frederick, involved a male student, 'BONG HiTS 4 JESUS', and a ruling for the school (en.wikipedia.org/wiki/Morse_v._Frederick, fetched)."}
+{"prompt_hash": "334d6ba8f51b8b4e251a5a5111fbe0de21536500a68fe42a7f657aa6efec20c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd943245d2033b9c88e8b06bb64142b2d01907dc662a18401e6e322b402394d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbb7d21cb91ece699856fe80e67e6b58bd1e78144bb67ebaec87f255df2afbfb", "verdict": "consistent", "reason": "Union dues deducted whether or not the worker joins matches Canada's Rand formula (en.wikipedia.org/wiki/Rand_formula, fetched)."}
+{"prompt_hash": "6730f28e9d1b636c30e8f5a86a505b3149def2ee17fc6039a062c5c48630dca4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "42779490a5d46a4145d0bf4c36863417551ca27039ad9979103df6c61ae05a6f", "verdict": "adds_false_claim", "reason": "The narrator says reverse image search as a method has existed only since Google's 2011 feature. TinEye launched reverse image search in 2008 (en.wikipedia.org/wiki/TinEye, fetched)."}
+{"prompt_hash": "c423f2429d2c5ee1e29a06dffcec7bf7f22f92dcd35fd7b7fdfc8f4bb5c7a3fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd633ce8ce4347ce081610bbc604745f7d778a2c56075e88fec6a33b2810c6f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70589dca2fb8486906a169f6916a3cd4093bdf001180d5475982cb853a05d57a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a93e46b1ab60be494ad6879237f7344db8bd9e8a952e68dbb8539e62c00f49f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "97ebbb3366390331d24fa378aa95a33279f3da0ddccc889a7cdb9bdedca1d952", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ce528054a633e1d2273ef02b8c479dedf56b8a10d118fcd988f8a73f585eef9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ce508b089b0a781369b53adcd3a058422bd17dcdb32ec50d148ce708bf82528", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39641ac7ead9b8ec9d1315b726ce4b33dc28f03305a2b8ea1fc28b97743ca933", "verdict": "adds_false_claim", "reason": "A G clef curled around the first line is said to make the written notes sound a third lower. A G clef on line 1 (French violin clef) makes each staff position read a third higher than treble (en.wikipedia.org/wiki/Clef, fetched)."}
+{"prompt_hash": "8005b2d98afc4b214ed3c91d5faf1d55fb6b52aa4ed26c8908a90ed4d2fd2e69", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8bdf7ccfe1204ef98475625c9e8eb1689675e0d38b1b0493f0f645d983f7191", "verdict": "adds_false_claim", "reason": "The day CO2 first passed 400 ppm (May 9, 2013) is twice called a Tuesday. May 9, 2013 was a Thursday."}
+{"prompt_hash": "0e49f25f19da33969e8d289a0d5d3e3928c82ece8eee378f4a7dca7a6fa47780", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5986aa088b391969c62094fffc843b8d9c3064e8ab53fb58f75b8ad7044155bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31b8e0ed35d53792ed3d011ced5a6ab1b09ef9b83d5408d67b3b8acb3c40f87a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96b1c14a0cfd1f34ab8152cf4362cf6a3f3f07d8b095ab6a41727a751dfcc4f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fe013629a786b6fd18d7aa754d5a0d9d6ca6ea28703559b92843c5f9456462f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d424fb0e384e0029b1d1720b2042ce0c20bbccfa80b50c17218d964f3af0758d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39df7e79b7bab600dfd73c5783c52b5c0dccf66236581ded25a134bbfda65ad7", "verdict": "adds_false_claim", "reason": "Monthly pay is computed as 4 weeks (26 h x $11.50 = $1,196). A month averages about 4.33 weeks, so it is about $1,296. HUD's 30% cost-burden test also uses gross income, but the story applies it to take-home pay."}
+{"prompt_hash": "485e8f79ab10df6cd6481a2fa9388413e58a4fabb83b4c7b58d1782d9a07d23d", "verdict": "adds_false_claim", "reason": "The game is said to end one-nothing, a draw. A 1-0 score is a win, not a draw."}
+{"prompt_hash": "d89885dff1b510303132d2fe7f950b91a2dc95482958f7c2c80dc2aec9d6f1f7", "verdict": "adds_false_claim", "reason": "The story gives the strap in The Broken Column as green. The corset straps are pale grey/white metal-and-cloth; green appears only in the landscape (artincontext.org/the-broken-column-frida-kahlo, fetched)."}
+{"prompt_hash": "21da6e86a87c025404bb9b0cdd1715b8b17e366ae9d168d79b4aa8a5fb451f25", "verdict": "consistent", "reason": ""}

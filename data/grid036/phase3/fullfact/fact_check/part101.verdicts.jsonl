@@ -1,0 +1,40 @@
+{"prompt_hash": "3650cc13d1067c6d778d9efe7a1710abb6adce6bb08a6fbde98537cba129d13e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e32b50e38fd973e2da362b01810217451dbafafd42c2669ff531a70de49ee55", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "010218db0c40b1bf7ca76a60ac5ece5fee3eef47a2a940596f0628737a15b9b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67987e832ee870ef1b1318443f78fbe1fa19447db50205f29db9e98a956c59e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4896ce7768746da8989ea842f47efb3af2b2737f410e040e415d100bd6e586ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "444abccb3f89dadce7a2541dd4c2a52fcb505a08dcbe8f949ecf99a2edbe3750", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "202a08d461d3073c9a8a914f284945a24947ff9168dd4fa5528839362b0c0c3a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff55b55af6514a75b31e1cb5255170f65fa299212ac6583e23828a5dcdc3545f", "verdict": "adds_false_claim", "reason": "Story says 9 hours is nearly three quarters of 14 once the axis starts at zero; 9/14 is about 64 percent, roughly two thirds."}
+{"prompt_hash": "5e73017b8e62b99225bbd724462409907389f255eb5c5dc965452baafd8299c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f44185866ba7157705cd84cd7d0ced10382d232cdfe5c68d706e8508a6381fb6", "verdict": "adds_false_claim", "reason": "Story says first and second place differed by less than a hundredth of a second, then calls it one hundredth; official swim times are recorded to 0.01 s, so a sub-hundredth gap would be a tie (Wikipedia, 2008 Olympic 100m butterfly)."}
+{"prompt_hash": "67a43a219945b27cde097db202b014462f9c8610d970abd89a0aae1a68a180fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cca959df36404bec49cb570ace4dbd70eb26aacf80511162dfcf1e8126cee305", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3f04068ba77f37632db25d77863888ad482aba833e4d59a562e888ff3149d3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee5ce3d5f1b7ae1211874a001b638c5eb5ff56c64486fe92944dbe54afa9322e", "verdict": "adds_false_claim", "reason": "Story says =SUM over a range returns #VALUE! because one cell holds text; Excel's SUM ignores text values in a range (Microsoft Support, SUM function)."}
+{"prompt_hash": "65e926acf9f7a1d5f2766398456f01ad9108aa065e779fb10a990ff47a0623bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e60e58f4e0a92baa6c3704f7563e65668d42b0db4b4cd33f420b7d63a9d132d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "606d7701aeccc6380da466c577051907bf4fb78de6974245245848ed8304e64a", "verdict": "adds_false_claim", "reason": "Story has the babysitter call 911 for a non-emergency question about a minor head bump and the dispatcher approve it; 911 is for emergencies and non-emergency use is misuse (Wikipedia, 9-1-1)."}
+{"prompt_hash": "d1bf12e285f20254c3260f3e6277f856e0fdbfb9f8396a67c52ac65f14e2c805", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cea14c5a0521b5769e42f0baac1ec48cadd3aaff5ad9957bde243c9ca19c828d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ab0bd8729fcf1ddc2c4b3b53b9e02cedbe58e502e6ec1616e1a95bb0f8d4cbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "181fc768e332b0b3ad65b747efe0859dcce8234a4ee165f0c8c1c96509ddc8be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9df6c30a850aff4e67d960564f14eaae178481f0da9d91b27b01fe12a6578e3c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5c42600237fca44a373148d88b71633bb0dc133acc66b8c2674a00ae42a4d657", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d21776fc0d7175393ccd21a65fed9ef46f88fac927c46ac2945117eac75043db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ceff11d1c9fe2e83d68436f139cf4096220a35935259fc7a94b71cfa7eee307c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d6863ec8091b75b2df83092468f827965b23815beb8ff6a9c9739dad0177112", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7afd826cba8a90cd03dfbdc9b8065a40d18112858ae7eed731936a195e8c3875", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f360804fd9002f8b84d8ff644902dabcacd81f9eff1d937346a360458ce7239", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9fa68584a716cbe8649a9e3e53c77d57db44126a0701407145ad70c56e359685", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93725b76ea7969a7563872f73ae0c39187591ac10cd5e281b2d8bd900aaf517c", "verdict": "consistent", "reason": "uncertain: Ghanaian greeting described as palms-together bow before a snap handshake; snap handshake is widely reported, the palms-together bow could not be confirmed (fetches of Culture of Ghana and Finger snapping pages did not cover it). Thai head fact correct; tearing bread confirmed (Wikipedia, Table manners)."}
+{"prompt_hash": "7278f9f93d5f6fe622c16b99b15b67c3c155069b9b7801601dcc137339c251d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b81aba5d048e105f948296e0cde515b50a2e2ebf8a8057d04d79d25cf4a1674c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2814343681040d8e11e303caf635ab62ef7fc7ab67ac08bc7d1ce8f4d6e8f938", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b9651ca300e1e186ba3a22e3d4639875a83c66f0f69fc0438749903ebf5fe17", "verdict": "consistent", "reason": "Puss caterpillar is venomous, hairy and feeds on oak (Wikipedia, Megalopyge opercularis). Sum 53 correct."}
+{"prompt_hash": "e9525a42114da79ebaff02e2b46d440409447b7e32ee89b8f5fe8012057be3ea", "verdict": "consistent", "reason": "RFC 1855 (Oct 1995) separates one-to-one and one-to-many communication (rfc-editor.org/rfc/rfc1855)."}
+{"prompt_hash": "1e7a72a3f371b46900e828fb740bdf2a76c52733e592676ffdc919476f10ec1d", "verdict": "adds_false_claim", "reason": "Arithmetic errors: simple interest of $50 a year for five years is called twenty-five hundred (it is $250), and $1,276.28 is said to be 27.62 more than $1,200 (it is $76.28)."}
+{"prompt_hash": "306e7a266d7f260d25a1823e41f89e6e6242955215ed084b8af6c3baab727dfc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93110bd263bc2b96f00c00a67e321397e01cdb9c6323cf820e9784e8b52b83be", "verdict": "adds_false_claim", "reason": "A Python prime program is said to fail because a brace landed wrong; Python blocks use indentation, not braces."}
+{"prompt_hash": "8068083373dc997625c02a257dda684d47679ea1f2c88c59fe8edbad7415ec75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ef7db271d2cc12048ad74c1c4bb5bb8bb6db0c02a8e401ad1223821dd84f8b3", "verdict": "consistent", "reason": ""}

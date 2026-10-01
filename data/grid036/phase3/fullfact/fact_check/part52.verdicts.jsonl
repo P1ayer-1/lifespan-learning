@@ -1,0 +1,40 @@
+{"prompt_hash": "86378996678f468b9753ab74ada6e50965d1a3a4031e561221cc507eb18a2d65", "verdict": "consistent", "reason": "checked: Wikipedia 'Nicotinic acetylcholine receptor' (named for nicotine)"}
+{"prompt_hash": "0286f5807783e2080587cd6a4fde58bd839675b94c0a12e3cb341604ebe391cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e94d224e98944c2b948185951c038b41bb7922b6e9e7b0a400795e60a5888b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "304a25336ab517fb246ca7ea97249891f0693f89e9aae230b0ff15ca00c9b880", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "58373087321510ea2c8132bc4b8787cd833c15fb4ec38bb36d177422904c5813", "verdict": "consistent", "reason": "checked: Wikipedia 'Genkan' (shoes face door), 'Chopsticks' (no upright chopsticks in rice)"}
+{"prompt_hash": "c8781cb027d4828d962ea4f8fdb85bcb9fcfda67922a5ae5ac466b92046c202d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b2e5fd98d9ed0bc60d5dc2e5eee44f73474dcc75d84ba77b14dceddeff3cbd3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9871251449f6722edd84f1e7354c14fd9ce8aaf8242a276e92ce810910d139af", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1b25b564682d3806af96d5bd4db7e328f2cccb068481a378e1839249690cdf6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74ec0367125a30051eef9df257746e07bd8b1330bdf8b2b15116069787a266c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc1f0189cfa2234c7488fcceee2722555ad522c12591b3cb3eb275c0bda8e822", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "369e513e917ed0239bf7c36ae0968e0c03c5af9224911969ea08ee8f6a410690", "verdict": "adds_false_claim", "reason": "The story says one ~4.9 s outlier among 12 trials of ~1.1 s barely moved the average, giving 1.12 s. Including it would push the mean to about 1.4 s; an outlier moves a mean a lot. The trial count is also wrong: 4 + 9 = 13, not 12."}
+{"prompt_hash": "0be312fd18ba46fbc73ad69a02cd0e92d2169fb9a100baf78a5bc93f2210dc04", "verdict": "consistent", "reason": "checked: Wikipedia 'Propinquity' (Festinger, Schachter, Back, Westgate MIT 1950)"}
+{"prompt_hash": "69e67f923367ed8a19ed8040967fa514d3a9fef65af1bbd0043b6a574ef2b89f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "494957ace8eae7a34a12d445d55e01a344a7a018ab4d75b2af46670441ffe7f2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09dda1f41783a0f008830c555bc62bba7786635e0e9d05f9552530418fea7528", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "713645faac95bd6843874a15338538354ce9b519fec99599c45046501ac17716", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "481e821781816be10e02c4fed90811216001a7e8ec235692da0bd8d6ee82fbff", "verdict": "consistent", "reason": "checked: Wikipedia 'Stephen Toulmin' (The Uses of Argument 1958)"}
+{"prompt_hash": "b1ba6deb2b7c619f09d5ce50a6645abf81775c3f934448e1679254f79940ed36", "verdict": "contradicts_fact", "reason": "The story says thou-verbs always end in -est and gives 'art' and 'wilt' as examples. The fact says usually, and those words end in -t. The scene's quoted 'Thou knowest my father's will...' line also seems invented for Romeo and Juliet."}
+{"prompt_hash": "07d6b91da8a25fa61968871b3d8831c1d0f550e9acac0ad0178b58b47e775776", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "335970eee610694ba72c7a53d7eacf6f920cf76fb02e90256986d5fc30ff1e21", "verdict": "adds_false_claim", "reason": "The story says $42 left Luke seven dollars short of the $55 repair. 55 - 42 = 13, which also matches the $18 sale bringing him to $60."}
+{"prompt_hash": "e1dbb27b835634f287ad20618758557861386d750102ca20fe79ad08f5af7da4", "verdict": "adds_false_claim", "reason": "Aiden picks gēge/dìdi for his cousin's twin brothers by their birth order. These terms depend on age relative to the speaker, and cousins have their own terms (biǎogē, tánggē, etc.)."}
+{"prompt_hash": "cbc22bb606cc7a399b83177167500585208c69488ff5138305e0817db18d095a", "verdict": "consistent", "reason": "checked: Wikipedia 'Continuing bonds' (Klass, Silverman, Nickman 1996)"}
+{"prompt_hash": "7669127fcee97eef1442a7ee2f368cba1bd6494cac8d4bac156dd452a63644dc", "verdict": "adds_false_claim", "reason": "The story treats running tap water over a plaster cast as a smart fix for an itch. Casts must be kept dry (NHS broken arm page: 'do not get your cast wet')."}
+{"prompt_hash": "6b46d08ff63f5d4fa341b7702b3dca0e7077bf73c7e4943e5a40dba47925243d", "verdict": "consistent", "reason": "checked: Wikipedia 'Martin Cooper (inventor)' (2.5 lb / 1.1 kg)"}
+{"prompt_hash": "966817d5a9ae648951c745058b7b376985f12371cbc31879c0d629a4741a1b19", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bf82ca570c66266ec12f2d5a743462964d8069d498ee4107d6a29e64fd77acd9", "verdict": "adds_false_claim", "reason": "The story says swapping the axes made constant-speed data look like a staircase, as if the ball slowed. With constant speed the swapped graph is still a straight line, just with a different slope."}
+{"prompt_hash": "1c1e830bd208c4d01915f695145ca580e290ac6e70bb9df4abef7dbf03ee5e09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71c4aa96f6aefc2d39e27ea55920169bb828fde6ef443487dadfcfbd82d3f150", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "796adacad6bc4c4ab4de8979a3dc1151fedd7d8113847ced2d25f984d4031900", "verdict": "consistent", "reason": "checked: CDC 'Keep food safe after emergency' (4 hours closed fridge)"}
+{"prompt_hash": "5260b18161c12cafcafe07ee3330f4656d1e97de2fa2504312e3f5ba9c8e677f", "verdict": "adds_false_claim", "reason": "The story says 158°F is 'fifteen degrees short' of 165°F. It is 7 degrees short."}
+{"prompt_hash": "eb25f0a74d268e7e11803d87f3a882b8230810d9347a248b94bdbffe773077bc", "verdict": "adds_false_claim", "reason": "A farmer's January 1848 diary entry reports the Sutter's Mill find and men leaving, and he sells his farm by June. News did not reach the East until August 1848 (Wikipedia, California gold rush). The story also says a tossed ball is kept 'in orbit' by gravity; a tossed ball falls back down."}
+{"prompt_hash": "6947bab155012594def921e7ff36ea2e2b6bedd92a05a62897bcf6f2b65decc5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f2884f228c6020cfcaedfe9b620063e3851dd5cae1b2920e235c20fa92df3c3", "verdict": "adds_false_claim", "reason": "Bentley concludes the advertised $70 'must be compound' interest, and the story leaves that as the last word. At 3% compounded yearly, $200 earns only about $31.85 in 5 years, not $70."}
+{"prompt_hash": "923c8f73839a13a766e42e3b8a682c8b6ff0462f8ee8865d552fc3a9c6720d6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e516e01916e4e8e338482f802ff48f76d9f0812e8b30bee4148ddc8cc72d145c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c0937b48118aed9454fcd97136a901b288841d69dfd738f553e2f547f3911a1", "verdict": "adds_false_claim", "reason": "The story endorses steam inhalation for a child under a towel over a hot tap, then the kettle. NHS common cold page: do not let children breathe steam from hot water (scald risk). Saying steam 'shrinks the swelling' is also unsupported."}
+{"prompt_hash": "f19a60296c83a62452e0cf194e9208d999efd6ca75655fea8b508b581b4d724c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7b03bd6221374a117d1c03e5e8c5cfa249160d6a424985764b5087b4732a9c1f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "861e7d6c1c7cb49dfc03505e0c9224fe288b0cf0546a0190524fa6008cb2d30e", "verdict": "consistent", "reason": ""}

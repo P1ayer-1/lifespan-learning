@@ -1,0 +1,40 @@
+{"prompt_hash": "95718c8ebd5544ebc71fe90ea954bd7ad4d7cf91239f9a6fd728887a188e921a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "becd257ba091436e1831ab04a14f7ff9089baf0af33c13dbb8c3c16acdd46ef0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ea9c37c9c34cfcb72855e1b55fef94d9757b975ac01770566c404c7de71530d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd31ea27f5937e356d46b9efc94f7bc2c489cffd7378283665ff7f0ce331d77f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0902129f4dd01333819af34d0f8e4984b40742581f7d1147b9ef9b7d12ef15eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31c857bde0ed90f2b45d3b16fd51952b2b0fb2a5b6dfcaace6fe62cb357c5c66", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba5ea7e86e94437a44afef4b8ba55f269ade768af6fb9282601f11fc15dfcf88", "verdict": "consistent", "reason": "Nelly-to-Lockwood frame, Lockwood's diary reading and nightmare, and his first view of Heathcliff as a gentleman checked: en.wikipedia.org/wiki/Wuthering_Heights and gutenberg.org/files/768. Heathcliff hanging Isabella's dog (ch. 12/14) not confirmed by a fetched page but is in the novel."}
+{"prompt_hash": "018b2102ac2dbf2f988d0d8bf3690376b6c29dfb33863bb35749f2c137ef2493", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f720d18ed8b56836cc65c5bf5a7e0c7f48a23074f77a3b4a7e58aa4c6c26aad4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90537b53d2548908702a3045cec2392876f566fb831b2bf6f40b9fec080a483a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7bd8a6f9bfa8f931785f82e5a351127268b6c026df81d0e866141743013b9785", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2a7296de3d82c0f06e1699666f6013687951122c28f0005fb35179826d71d85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6054d9d16a3636d5b8941d491318e3406371b0981aa25e0dbd4d5207adf938ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "740e7606e928fab1e2661aba816affff83ebca556a034b660e878083cd47a3ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29999d396ed63e9c00b56d6b903ead5a10c550d7340e3a20123f40d3f867d3c9", "verdict": "consistent", "reason": "The three reversing manoeuvres, including pull up on the right and reverse about two car lengths, checked: gov.uk/driving-test/what-happens-during-test"}
+{"prompt_hash": "c35966c4aa3d16f450ad76aa7a5dc5dadfe93488644d364eb18a46249974250a", "verdict": "adds_false_claim", "reason": "The story has the current Form W-4 (titled Employee's Withholding Certificate) asking about allowances. The IRS says the redesigned 2020+ W-4 no longer uses allowances (irs.gov/newsroom/faqs-on-the-2020-form-w-4)."}
+{"prompt_hash": "f8aaca18e39d89a20ebc878c182d4cd6fe8bd96fc9f570fd1e929de1d68d2a50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1fbbd303217e40fb4c133e1a7060430791fe59009f9de0626cd7f3cff1846034", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc51f57283d7229f85bde040334df38d496fb1773da4dee664c238693885bf09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f282e5ecc844fb6fefc6662137eaada1792e6683bf8d615cfc1215c97dd0ced2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2626295143c69a7839174ac511f3d41f55dfe5abc2ba8a76dd645b32a208687", "verdict": "adds_false_claim", "reason": "The story swaps the two historiographical schools: it has the Soviet-expansion (orthodox) historian call the Truman Doctrine American imperialism and the US-markets (revisionist) historian call it defensive. It is the other way round (en.wikipedia.org/wiki/Historiography_of_the_Cold_War)."}
+{"prompt_hash": "9f711346790631c1cf0be2d6cc6fda09c514e9ea52ddd0b81c9c6a1c51e14894", "verdict": "consistent", "reason": "Lady Catherine's confrontation with Elizabeth in chapter 56, and Elizabeth's refusal, checked: litcharts.com/lit/pride-and-prejudice/chapter-56"}
+{"prompt_hash": "c8f42ea4c06755ba04dfbf5beed2dbc2fa3f42b0f1e225bdbaaa794998d2ee5e", "verdict": "consistent", "reason": "The five-week deposit cap checked: legislation.gov.uk/ukpga/2019/4/schedule/1. Deposit protection scheme checked: gov.uk/deposit-protection-schemes-and-landlords."}
+{"prompt_hash": "20b7db4b7adb618a47b0c52359f5c8161ef6cf2a93a975d8db593d48ccf74d5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d0f2e0c134926cd85fbf1d523fd8db9c9499ba237b60f39bbe8cd26153085a1", "verdict": "consistent", "reason": "Dresses, the miniature portrait, and the healthy vs cut heart joined by a vein checked: en.wikipedia.org/wiki/The_Two_Fridas. German father checked: en.wikipedia.org/wiki/Frida_Kahlo."}
+{"prompt_hash": "2044f6544c4fae79ba92db997f0da65da8b89d65100d28112311b7fa15597b61", "verdict": "consistent", "reason": "The Folger sketch, the slow packets and the 1769 London printing checked: en.wikipedia.org/wiki/Gulf_Stream"}
+{"prompt_hash": "f783512002968a06cc84f522882a2421433c6cf5c69febaac0c5f03339fd5c72", "verdict": "adds_false_claim", "reason": "The test prints null and 0.0, the student adds 'this' only to the name assignment, and then both title and 9.99 print. Fixing one shadowed assignment cannot also set the price field, which would still read 0.0."}
+{"prompt_hash": "1cf8d504bb4012fbf019a7251a134467b0b41abd03e99810c4f7413bfb6359d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bbab45dfbcc4f42270390981d6e26f0059ad8ab61084a0003a92981477c36b39", "verdict": "adds_false_claim", "reason": "The story numbers the fame question as about 12 and the friendship question as 18. In Aron's list, fame is question 2 and friendship is question 20; 18 is the most terrible memory (ggia.berkeley.edu/practice/36_questions_for_increasing_closeness)."}
+{"prompt_hash": "9ccb682d57b2dbcc228f14ce4d662c84dd77fb127f98f36e00c7daf08fc14171", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2317cf46194bd23f31cd9f433ba477ae74ba96fe7ffd5866053bd846dd9f4930", "verdict": "adds_false_claim", "reason": "The narrator applies the subgroup's plus-or-minus 7 to the 9-point change and says the true decline lies between 2 and 16 points. A change between two polls has a larger margin than either poll alone, so a 2-16 range is wrong (pewresearch.org 2016 margin-of-error explainer)."}
+{"prompt_hash": "4fad6318e8abb63d879b988b3bb322ad45d993f1a57202976e6c054a0bc687df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bcbfb010bdfe1496aa7d0abcf0528289b7b47e94e254e7cbfbbb4ae859b1afb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d38a7ec1b3c45d3e45001643789c097b171d059830466f8cf1af74d93dc6e6b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "90d19a324450da8f772a3065c962888d10d92ba197af5c0c512df9131c536927", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a900728b7f01486c87e2f39551e5dd07f1e3dd270919033489e677d2239dbda", "verdict": "adds_false_claim", "reason": "The story says GGG codes for proline and leucine has eleven codons. GGG codes for glycine (CCG is proline), and leucine has 6 codons (en.wikipedia.org/wiki/DNA_and_RNA_codon_tables)."}
+{"prompt_hash": "bf78939fec152727b2124b357a35d8ce19157c886d8c5d6bb5b84614b95b16d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c289e7591c1cb5bb90b0acbafa52b1ea23e83098f25c890c514a2a72e2dd74c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6047b427a0866e60d6e5166a34774dd59efe30684a15692e879e8c34ae425018", "verdict": "consistent", "reason": "The Breton 'ribbon around a bomb' remark and Kahlo's rejection of Surrealism checked: en.wikipedia.org/wiki/Frida_Kahlo. Painting details checked: en.wikipedia.org/wiki/The_Two_Fridas."}
+{"prompt_hash": "e6c43b4d7eb3b0cf0b1533cfb3c71cfcd0e960a5a7d29ff6e62557fbaceb7ea2", "verdict": "consistent", "reason": ""}

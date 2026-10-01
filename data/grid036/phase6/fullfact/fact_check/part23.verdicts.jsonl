@@ -1,0 +1,40 @@
+{"prompt_hash": "58cd83bc5be45406c03f45e928d9745c96a6201f9e100683babba3cbec71326c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "543aa309bb2b59565f8301226d76a6214d3d6a386760afc66edce1c2f520567a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1d04589328420b9022828771ff8c9e59912c915fe5af6d524c6cea2037e8054a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2b9e82ad3e89754821c776a75b9ad39a5ac6077174598e060b69c8bc385d7765", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c360652394cc0b6a504dcc6270f5ff5533e8eb22784201ff5015e5348afc548", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a23492dfe56fb5063f8293a9a529252aa27b642190c0b8beb89ebf2cd45d7aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e403cb0ebb047413371072582756972e5d229864199cfe53989a235e64e7ec0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3900dbd8b8022912bcccef643c7720f5ca752b9f18b3cc4434802ae4d4733f88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7d8858aa1088ab0fdb5be08d84a4e9fdb9ccfe1375918ce377d94b43c9be5bf", "verdict": "adds_false_claim", "reason": "Story says London is farther north than most of Canada; most of Canada's territory (41-83 N) lies north of 51.5 N, only most of its population lies south (fetched: Wikipedia Geography of Canada)."}
+{"prompt_hash": "1a529c2d10236c3bd7469a5a19f0cf1395e36835493974d57a3b463fa7771d09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e926bda4270d2d5d179407326b8cc1cb8fff952c424e9b48b147d766bc08f818", "verdict": "adds_false_claim", "reason": "Change arithmetic is wrong: a $40 sale paid with $50 owes $10, so handing over $20 leaves the drawer $10 short, not $20."}
+{"prompt_hash": "65d0afb1f8c6eb769427ddfece2186f17edb50508f1b304319bb78635b442722", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bce600b83e336dc313ffe2ee9f6185fd8632c093b40ab2c293bb65951efcc554", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bc73ab51639f425d7c3447aad37830804678a61783bcc6bc7f579763d72df9b", "verdict": "consistent", "reason": "Dunedin cohort of about 1,000 confirmed (1,037; fetched: Wikipedia Dunedin study)."}
+{"prompt_hash": "d29992f10ba972dc2117c9298b7d45dff3b15b77cd9873127968bc3876ff6556", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8f646e104644de94d796c1d2d924e86af53bf59494a8fc2800d439fcdac3ffdf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "27e65ce47a0a7115189dc493ddacb45aa6e3fe255ad2a391d3fb8ac46df74602", "verdict": "adds_false_claim", "reason": "Mozart's K. 331 is analysed as a sonata-form movement with development and recapitulation; none of K. 331's movements is in sonata form (fetched: Wikipedia Piano Sonata No. 11)."}
+{"prompt_hash": "43ea313b4abe274f52a46a6bbc1f9e3c0a6b18d92fa50297f6c7f1e1cb75c072", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8bc479bc60f6ad292d5355d93e267e1cb6d81caa0cfccceebe0a33a4286565d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "038c534c85e27c5cc5518ded19d90a6d31fd974b8cdd4ecd3e3a5266d12bf087", "verdict": "adds_false_claim", "reason": "Story says the Sustained Investigation is worth less than half the score; it is 60% (Selected Works is 40%) (fetched: AP Central 2-D portfolio page)."}
+{"prompt_hash": "b668ad4efb60490be56f2c8b9840c2cf5dbff57cfaee98bb24ed9e084e7a6d62", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bdea659f90a393df4351c0c4ce894d11f94e345f10b9ff1c7d8efb5b0167d465", "verdict": "adds_false_claim", "reason": "Story cites a 'Day Two, evening' section of The Remains of the Day; the novel has no such section, Day Two has only Morning and Afternoon (fetched: LitCharts)."}
+{"prompt_hash": "f4beedaa8be0c1e02bfbe479994f15bb8d5ae8c36da7915e86e6e7c2a9536288", "verdict": "consistent", "reason": "uncertain: May 1 as the national reply date for all admitted students; widely known but no fetched page confirmed it."}
+{"prompt_hash": "d315b5777aaa2d14e32e8952610f0fea15e4ff2752e6ddd171ae24661aa9e005", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6ad28b310a889089f6b1906a377a3bee9e8cd947bc476207957d689a2f68e448", "verdict": "adds_false_claim", "reason": "Story says London is north of the whole US-Canada border; the Alaska-Yukon border runs to about 69.6 N (fetched: Wikipedia 141st meridian west). It also implies London is not north of Hawaii."}
+{"prompt_hash": "7ce8fea47321da16468064de8a34c156ab1b78942e1dcc659b71c6eec1ee9eee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85eae42155244bb1527ae76e1f93e2fed0ee0538a3b6e8a081aacaeae2ee2497", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71f09ae3d326ac747edd4940f5ec0bc6a44a1146f35c669347976936d33429c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f96a07bcbe18ed72902ba2388b4d71c4b8cda872253e36bb02bd97e3c649b09", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8d5bdad2481963783def8f7b24493477aefe7e9ed64e8672c0860cc6fb933c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "353f045195aaf9a13e2efd6eff4dd563e8aafcc0b8b0d1c89685697ec23ca99e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20976c95288354e15512dd353a31ed86a15392924e807156823f29235576c3f0", "verdict": "consistent", "reason": "Java field defaults confirmed (fetched: Oracle Java Tutorials, Primitive Data Types)."}
+{"prompt_hash": "5466ff7022573fac305731079c164d11a0333a1b51271deb8a85b4d6a7941a48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "392baf246c6e0a0921cb880c89a8f03aac6f0bd84281e878d97eb07564d92d29", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a532fbb347247795bcde954abb8ed6ef94afd31e345b33e775f2e6c894524ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99af87f2dab3748f91787c6add3a6c9ec2519c35efa1f601efafe3f54e39175c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "251323329174cdda6d11a6ffd1215d07324ef4eb5a72119cdddc6ef5892ae580", "verdict": "adds_false_claim", "reason": "Riemann sums of 3.45/3.32/3.33 are said to converge on 8/3 = 2.67; right sums for x^2 on [0,2] are about 3.08 (n=10) and 2.707 (n=100) (fetched: Wikipedia Riemann sum)."}
+{"prompt_hash": "6d6473fa834b31ca9edf5e4152490ff37f52723bc1cfe21fef71c5201590d3c4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2c8cea33352a1a7febc8320e794d6b762d8618542ca7c9cf803b4655f5cbd92", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1e6bd48f7eb61faacfe706801ac58d117ed5e873d110b6a86b5972c876d09b0", "verdict": "consistent", "reason": ""}

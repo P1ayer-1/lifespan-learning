@@ -1,0 +1,40 @@
+{"prompt_hash": "5dc5b8784c5311215c0f0d27af418a189d0da28e7bb5ae9adc1a112f14e9fe16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a6cc34a48fa1aba5bc5fc1afca25feb577f73f3ee9245582a265168a52ce4fd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a888901a3019e2ca7944ede592cf8c1df437dc9f8a5f28a5678920e93903c53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edf075b7f305621bbe4615273dce0b3069d8df62f6cd87301b14ec3f8e107818", "verdict": "adds_false_claim", "reason": "The sign-chart reading is wrong: the story says the derivative is positive below ten and negative above ten yet calls the best price 'before ten'; that sign pattern puts the maximum at ten itself."}
+{"prompt_hash": "f63b4b5e1bb3e5c73b02d81815f5360a734df10158c3a50eca56a54ae4870999", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5f5d60d3dc8ad0a63d2c9f8478ce2131ca41356eff6ca67a8f3920e9d693b2a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51c6b1f510b8eb50c7870f6787f26bb148bbf2b8ca3cd877b8a285b0c6043477", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c399553346a2d2912cca35f3372886dd5603adb368b8b0ab7a0e3b2c8164d43c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6cb23b1eedcc538345bbdcf5bea3c726c091297f844d5c3eae663e51760c573", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7336714c0172ed143c1241733f31ade3c528e8b089d265d6dfeb153b18fa12b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd0e9af0e02b9bf29af0f305c9d97e66ce8dbb0be2646697a84f6dc4a95bb83f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da40c6174936b135390d8ad59ebcc9e3a8a7a2339dd3ee4e319b4e48e99e80e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70dbe26df740fcd5340e5974e774a2ac40c8931a562f488ab1e3a6d2c8fa94d9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e959970d880a7373e875770a1d3d61144b27209edd8cc0b6d4a83f75bfa3eb1e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e1b037fc39d31d7cb564c5d277a2a7b3ad8c3261941a6fde898c61a8bd0d7c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56e38eaed2cba46c8eb097a8eb206785cdeffbab37ed9709434769e2cc2a5bf4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99102aeea95bffbe9829e68200c65b6e6b5024a86b49d4aaaaf854abcfcc6b11", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed2c549618c030ff8a7bf276ca958659a8cd5e2d8c96cd516f4c4cdb067e43a8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3fa887975fe460d62e862f22475ac6bd5d28d1155abac2ba0eef64ba5aab8b6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93efade5b223d719b1370513f81fef71441d41242f698bf8ba5138329c33213e", "verdict": "consistent", "reason": "uncertain: the cold current on the map's eastern edge is said to flow down from the Arctic, but the eastern-boundary cold current (Canary) branches from the North Atlantic Current (Wikipedia, Canary Current); which current the map shows is unclear."}
+{"prompt_hash": "3fcc48a2df4a242a739b4552e42cb899f37a96a483edda2f0046c5c80815f5f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ecf1bf2c6177646f0bf9e93cbb6e0de2ee89c8527ce82662be985e74f96c8e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2294a2420ac9d0501c26f75a7bfd07ddd1eaadbd530025003fdc26ee2fde272", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f9f34ffee00c0eb62f1ded7809df87e63af089c76dbac4408a8c4c63b4adcf6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8659263b7bab25dda7c16a4e3e23901acd7f7c43295fc232af23840e2687adfd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4445a79b46d88db047355a94be01a4c4cb8351c87e73a25ccf2f9c9dbe71aeac", "verdict": "adds_false_claim", "reason": "The story gives the double bass's open A string as 440 Hz and the octave above it as 880 Hz. The bass's open A is A1 at about 55 Hz, so the octave above is 110 Hz (Wikipedia, Double bass)."}
+{"prompt_hash": "f02d160ec3be81409847b00906144dfee6d4ee2ed5d818bee5356f3efe41eb33", "verdict": "adds_false_claim", "reason": "The narrator says adding oil too slowly kept the emulsion from forming. Mayonnaise breaks when oil goes in too fast or isn't whisked in; a slow trickle is the correct method (Wikipedia, Mayonnaise)."}
+{"prompt_hash": "d90137f0829cf2776b9c0ac0023bfda36abb41cc2a5f8addfc772f8aa05d624c", "verdict": "adds_false_claim", "reason": "The closing line says the Moon is minus eighteen degrees. That is Earth's no-greenhouse temperature; the Moon's mean equatorial surface temperature is about 250 K, roughly -23 C (Wikipedia, Moon)."}
+{"prompt_hash": "a616167c089f8ada1e8d4cd739e91ae9b57b8d9da66d70e9d07b0a8362499582", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09fdd5368afbb73572ef22c4bbab2d7d724db122a797cb28870f2e0d7872e433", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e346948c1ffbecd2b534b307f2c270d78eedab47a80c8f7b9c994440113b35e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "130384765c39974b7a1af40f4cdd3af02c0c64d84411c82b045625e60ffd17f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9dfbd392eadd2cc4f6a07e646bd1ced422c200c3a454a5da44dcafba0da365c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c7677b298807fe56c0ea0048304de793896c52a456b98bfbf60bb3cec285b1b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1900abd6b23cbf8e0537808aeff882e2c2af07098cf450abafc93eda54c2ab57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0bc9aae2dccf2e17abeab099ac2685ae4a975f0372ebe9dfb316767bf673b6f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d871cebb40c24b4971457d4a3f5c01121bd676c9306566270a9f83965db07be0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98ee0111592106ab8a09a80aec40bfc680bcbbab49ecfc6a3b47e5e506c26f2d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f0ee05f15863ef73ae51b4684a584f4d540091ec900e44408a18fcb6b1a8617", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51b8d1dbba2a7ea3af69c407186b83310b4dff10f59fad3eb06ba7b246debc5a", "verdict": "consistent", "reason": ""}

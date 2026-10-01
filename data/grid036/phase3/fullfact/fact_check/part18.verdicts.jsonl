@@ -1,0 +1,40 @@
+{"prompt_hash": "51b94030ba17801c9c090ae2a87d2653dcb51bfc789e22a2c1852bf275e0a76a", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Qibla"}
+{"prompt_hash": "756d016f1cd64b5af504de41ff88064e3bdc14c117f9b541c9b892aa25dc3543", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Guinea_pig"}
+{"prompt_hash": "3f27d5b6ab2bebbc31a8094ad586436d6989cd4192eac6feb762bfb57cc298b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "873a9072fb6df1a444f1b7f7b311eeaf8223151adfc2efeedaf4aa575f1ab355", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Homesickness"}
+{"prompt_hash": "a4b579cff303347623592aad14db5bae8ff82e79da1ee296704d5ba0833f7217", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Physical_change"}
+{"prompt_hash": "77e47f22af19a70411c0dc955dc7770fcfd135fe037d9abced340ba592394774", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Muscle_atrophy"}
+{"prompt_hash": "db81c9afc8aa4384e9faeede004d867119af5c3db5927fbf9a743b6fc99dc00e", "verdict": "adds_false_claim", "reason": "Story says swapping the axes made the graph of y = 2x + 1 go straight up the page. Swapping axes gives a line of slope 1/2 (flatter), not a vertical line."}
+{"prompt_hash": "8e218746785c628989b4391d68718a3ceb661663923ddd40fd57d14cf4dad8a7", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Price_elasticity_of_demand"}
+{"prompt_hash": "c53915d35efff7da3d7098edb8f7e7734c22fdb83433b7be5dfe3ca5912d48db", "verdict": "consistent", "reason": "uncertain: placement of the precept in a 'September' section not confirmed by a fetched page (en.wikipedia.org/wiki/Wonder_(Palacio_novel) confirms monthly precepts, 2012, Summer at lunch)."}
+{"prompt_hash": "5fc16c59cf744941dbd01b6b030d50c0005e8576eb8c51e9880ce6049c03edb7", "verdict": "consistent", "reason": "source: developers.google.com/search/docs/monitor-debug/search-operators/all-search-site"}
+{"prompt_hash": "7c008747ea7bbb69e91ecae78f4c5dbb5b20605e08a6452668997bd7cbb64e1d", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Fasting_in_Islam"}
+{"prompt_hash": "bb4392df2dedb61e51dbc07ed7d8fad59fb755afff3ac82078d013f5aff59da2", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Coin_flipping"}
+{"prompt_hash": "1212c150b2b9fc42a3dd8f65b0e009f8cfb9636349a490a6076cfa1c7a1a182b", "verdict": "consistent", "reason": "source: radiopaedia.org/articles/physis; en.wikipedia.org/wiki/Epiphyseal_plate"}
+{"prompt_hash": "097dede20d79d96578333daa99b2e7126d7c1f187450a8ddefb0a6901d69a6fb", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Monologue"}
+{"prompt_hash": "09cd0b358b6bbb90ef781d6da50585611e3e97b84a02ccc10147a0f0c719f569", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Nix_v._Hedden"}
+{"prompt_hash": "03126f0fefa7e7a9f03b105af41e6408d50a2f51af97bccf47730a413105496d", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Password_manager"}
+{"prompt_hash": "d3ba5f34b391d584063de8e914c3338780cc109f9fbdb27606ce1a80ab8310c3", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Sleepwalking"}
+{"prompt_hash": "7c642458a3f92cde7c61f112eb9e2d2885e48ab93a94bc11fb367cd829032c8a", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Eraser"}
+{"prompt_hash": "2189acc69c1373ca05803aa4696602e1aa5aa152c09dfb698c668717baac0010", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Beat_(music)"}
+{"prompt_hash": "8d96c448fd913cfb0b923d62394a6018d007ff4a9851081252aec481f57ca8b7", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Fossil"}
+{"prompt_hash": "f66581bcf363f81205718b3d0e8faf7589697e01b30df29d2aadf3051916f895", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Sleeping_pad"}
+{"prompt_hash": "29a6ee7f4e1829907bde5269da5a680380037488c61e1574878e2d40b7e132bb", "verdict": "adds_false_claim", "reason": "Emile concludes that being 62 inches tall proves his growth plates are still open. Current height says nothing about whether plates have closed; closed plates stop further growth, they do not undo past growth."}
+{"prompt_hash": "fb04b84fb05bda56c0f9826015f96bf39d36472f42e44739be6cad121a4ab49e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "447c8ebf7a2842b71ab92ab03d852800583bdc191696bdf3dab389e6d4c96d9d", "verdict": "consistent", "reason": "source: kidshealth.org/en/kids/puberty.html; nhs.uk/conditions/early-or-delayed-puberty"}
+{"prompt_hash": "aa09f2614aef668b9f848357c590520412eb2cdc34f8f220647a36476daeb0ab", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/American_Camp_Association"}
+{"prompt_hash": "62004e64dcb4b679c20c76647762c45814d2434df2afb77edb4201b04605d037", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Snowball"}
+{"prompt_hash": "34037425daaf6e7be6e33b252ecfbf777fce7a3caf8f55a884e8a5081b8d03aa", "verdict": "consistent", "reason": "source: edmontonsfoodbank.com/about"}
+{"prompt_hash": "5b8514df204ca76ad25ad1f6efe81dcbeb7c2402d8356936224f513229860723", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/The_Outsiders_(novel)"}
+{"prompt_hash": "3a514e1ff2a1a182dad7d403d127ebd46360d5e2cd682d014afd287ca23946ec", "verdict": "adds_false_claim", "reason": "Story says the graphed lines of linear equations formed a small plateau. A straight line y = mx + b with positive slope keeps rising; it cannot level off."}
+{"prompt_hash": "f2f50ee67aa4f3dcc5eb4f6737d299451b9d72441aa3f681e4bb8e6e85dff32a", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Crop_rotation"}
+{"prompt_hash": "bebcafd019b6d7e7b96a5782821a21aec06743dce4cba84fe5ffa410380a7f65", "verdict": "adds_false_claim", "reason": "Lauren has forty dollars, pays forty-two for the shoes, and says eight dollars are left. 40 - 42 leaves her two dollars short, not eight dollars over."}
+{"prompt_hash": "c6c9fa80578a8fed0ed3f39d2590eaedde436288a0537874e2c4cfb4a47b8ecd", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Diaspora"}
+{"prompt_hash": "77409a3a43a98db004cc6617abb919d7f5002c89f1196417e7f0dc1549d3a0ed", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Tuning_fork"}
+{"prompt_hash": "09a5294c92cca812daea09991e3d9b8abdbe66011a61bda98e3802d5a04d60f8", "verdict": "adds_false_claim", "reason": "Hazel calls Bruce's password G@m3r 'seven fancy' characters. G@m3r has five characters."}
+{"prompt_hash": "be75a8741f1d38acba68681796b7621e12e5cba4d969943d4fc544408a1ce874", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Yom_Kippur"}
+{"prompt_hash": "8ab401ec9ff2ecc1fbe8b072314c1de54ba8a37573c9bf9e8c01ae03a197e048", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Yawn"}
+{"prompt_hash": "62ab08a701c970144f972d59dd6802d206b775c92a35863b2b310fdb0543bafa", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Beat_(music)"}
+{"prompt_hash": "c40bd6dbc28a555e2683c9acf8c419374126601194c719d924424386b0892e03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca28d4d7278dec0d2e0164682125fa7cd1a77f1029785609fc5ede06fdd7c789", "verdict": "consistent", "reason": "source: en.wikipedia.org/wiki/Trumpet"}
+{"prompt_hash": "442f29dcd460ac05c4858455c8b02c49b56cbf1ff2e3ce0edd6b3253a0d53f7f", "verdict": "consistent", "reason": ""}

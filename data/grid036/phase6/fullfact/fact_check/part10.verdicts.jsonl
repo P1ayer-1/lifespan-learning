@@ -1,0 +1,40 @@
+{"prompt_hash": "74ef9f31a7ffba7c4e9b386ae29a67c4712c2188d44acccdffe8bde28c8d3303", "verdict": "adds_false_claim", "reason": "Story says a 10 m by 20 m garden is 100 square meters; it is 200. Its derivative steps are also garbled: A=40x-2x^2 gives A'=40-4x, not the doubled expression shown."}
+{"prompt_hash": "b569000d21018b7f6ec2645eefee58b2eafb9c5d1aa507a32eb7dd9888c058ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "546da6e7e2d9699e4271da32fccafb81e7ccc992194bbd40aefc5ed4107046c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "af035dfc31908228c9fae3be8f6e6cae06cd23f3e1d7beee74b67c3625ba4c85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d83ddff94e82b2565a9ef1146de03e000dc919584b484761bd7b39f15d43d66", "verdict": "consistent", "reason": "Melt about 45 C, rewarm to 31 C for dark chocolate matches ecolechocolat.com/en/chocolate-tempering.html; form V per en.wikipedia.org/wiki/Cocoa_butter."}
+{"prompt_hash": "abfd9be277e747579adc2d4f7c0075a0544037bd52ddd1c59087bc306217cb89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c6aff2be9c2c3f98dbfaa29936a6560d2d25adf286104c797f65110ed73e64f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82ca40f39e133b2f36a3c03d5fbbfb9094c161ebac220b1bb3629b2fcfb550f1", "verdict": "adds_false_claim", "reason": "Story has swapping assertEquals arguments turn a failing test green; argument order only changes the failure message, never pass/fail (junit.org Assert javadoc). Its expected/actual message reading is also inconsistent."}
+{"prompt_hash": "8d1dcd4174d96cedddaf47521ac888831860b98b65ab50bb4e5549c53f17256f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e04efa1ded9256d2f28b0d3b5f5b81d93ee2104d72f7d635936d2d4cdf7367fe", "verdict": "adds_false_claim", "reason": "Brochure figure implies about $42/year on roughly $420 kept, i.e. ~10% savings interest; FDIC national savings average is 0.37% with a 4.38% rate cap (fdic.gov national-rates)."}
+{"prompt_hash": "59b147bd402ff06d5d27205b73dca7a8a30f233633a20eef55ff1b0734e88188", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d900621dc01d81f7e8a838f9029f89850880747b3945f205cbae2561fbd2308a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cb2df736ec49a653ba7d3ef770709ad65801cbf82bf5f717f88016c0b502af0", "verdict": "consistent", "reason": "Watts/Duncan/Quan and Kidd et al. 2013 promise-reliability point match en.wikipedia.org/wiki/Stanford_marshmallow_experiment."}
+{"prompt_hash": "596c2483b080b178bb57671c545e44f20266d2700a38e67c68e402c5bc90dac2", "verdict": "adds_false_claim", "reason": "Narrator says the d in Diwali is aspirated; Hindi divali uses unaspirated dental d (en.wiktionary.org/wiki/दिवाली). Also claims fire code requires candles for an emergency exit, which is not a fire-code requirement."}
+{"prompt_hash": "ce919fcb50dc6494214149725522ccf96de99246abc1f5806794fdec2926c6ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e568ecf217a1d2c4ae21940768163d480a7f5da93b129488687303c47e2e1af0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e3466c1aadb6dae73790e7685dfff9dddbc96dd9295b7a71f9576f4e20bc527", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85f253994000945f42362ec02301ec5386fd0102cbbe01e3714fc24bf8ab879c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a02ba4d948078c4439e8ec12a61a16f2552a6768290f96d815b0e2a32d0445ca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22ab8795788b2532272a215f3285a1fb3f055b731ab1847f06e2de55ad926cdc", "verdict": "adds_false_claim", "reason": "Worked sign chart says the derivative is positive to the right of x=5, then concludes it is negative there and calls x=5 a maximum; positive on both sides would not give a maximum."}
+{"prompt_hash": "96cd6fe38ec630d19bc20b50161faeb01095b01e77b866fcbabaa1e948cf0f85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "14bc07de6248a8b1111dfa0cd05d71a1f5f18aced6087bcdbdcece2495677cb8", "verdict": "consistent", "reason": "Schenck leaflets against the draft, conviction upheld, Holmes opinion per en.wikipedia.org/wiki/Schenck_v._United_States."}
+{"prompt_hash": "bc244f5917c91860aa608cf5f6a1080ea8c9932b238043151fdbc8809fdefa6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0f36fd1196066eb66f360b47f9b9a013eb0644142ce7140e08a230a025c53d74", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b35d833527fa1c9d07f6a1604aada01f7bfa7e5e493a6d5281f0de250ac13e3", "verdict": "consistent", "reason": "Minors can consent to STI testing in all states per guttmacher.org/state-policy/explore/minors-access-sti-services; clinic confidentiality is that clinic's stated policy."}
+{"prompt_hash": "e82c06519c105c402845d32e5da357eb19e704aa6700c043d67c6e957b21ce88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8373860284e4ca89832a848bc0bb6752f50612e07b1ae58bfd376bfc956e9d17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "15722955c8a6b8ecd6e42994ae0b3ae5f6047ecf858eca81c47fc6582ea11770", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5b824baffd6eeda6e2ad588598e47baa03386a1c6e253d6aa176b59a73dc965", "verdict": "adds_false_claim", "reason": "Teacher says one wrong letter shifts the whole amino acid chain; a single substitution changes at most one codon, only indels cause frameshifts (en.wikipedia.org/wiki/Frameshift_mutation)."}
+{"prompt_hash": "bb09fc987b82034412777b884c80137d5722eba1b6d769f40ef63f763b5e7fa9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e46b338962d1891e3d7bc1fe9459d678ff5a23890f56d2dd6e4d38b5745d0823", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a3fd148369d62781d6c404e2223af86ec32df5601b4a74290120f6561c825bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f10452aaed9cc61f3d1d5a84613a2a7e1812ae2e902fb6224b0e82737709915a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e4d52989e4f8e01e07363f1d474a572dbc1c851b0f9a2577b2b6e4e54bcac3bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c038c6ac4d80976364b5a7400d0c63dd01427815e2dc41b334c385f901abd48a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2eecd2c7193e6839570d125af6ac2a95a628f51fc4e587a91c44c879d95ec663", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c11f3c83e292f169f24a58d678f5d5b98e56d814e4611ade3c1e166bf055cdc2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8674701b11c5b01e231e8f2f77f0458cfd56a3340c0cecd7ca860aba76e1a25", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a92c25671946122e0cac8b8e231805e344af96b494c6642e3e99da65057d81c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50634f1a83ede66345aed7f1de593cec8b5393efdf0d2d77ab34581c94e6a5d3", "verdict": "consistent", "reason": ""}

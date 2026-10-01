@@ -1,0 +1,17 @@
+{"prompt_hash": "e7683810f692dc31c78a956b3061ea4a3ac901de9c43d8d137126b45aa99eb36", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fcd48dc36e7e03eb058f691b8f343817e10cc79f995e91f95cd24d48ee3bf33", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0b8f0322b11758f38e59eed9ce61c6bd04114a8cbdcb61324df64b37c71570ee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "300b2298b30804f01fcc83647aab813b797d7add5d660e39dec78fc34f76cdf0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8e6a3131a3fcdb0129951e724ac9da7e5c4ee38daf1208a7985213532449df8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ba5a8c6b57268595b01cb0f73a0c728ca80c1be3272ae4c238ac62094deabe0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4984a2cd320519364fb1f69c7249151d3914d766e181e4204df374b25c070dea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c6a389751645b451faec225b5f54e3259a1132f9c20b727deb00af8494ddaffe", "verdict": "adds_false_claim", "reason": "The story's resolving insight places the spot that stays under direct light all year where the tilted axis (skewer) points, i.e. the pole. It is the equator, perpendicular to the axis, that keeps fairly direct sunlight; the poles get the most seasonal change."}
+{"prompt_hash": "400d6cb252c68c66b17b8a184805073297da344e22f4f5132887acbc72f25220", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab3e816b1d0ec793b266dab4bc8d0c50cd09bfe60bc0257fdee98b6fa8dad4ff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f92d2a607881c6c5a24967c98862d85bd326fb1fabd6cf6d3d48ffd374741ce", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0690d342b7ed4a21770253d9839837d5063d96185a8c751fbbb9725c84a6bf5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f150d0571bbba0aa120ae30bf1f735629f4d14dbf0ddbf05a61d023cb5cc2e5c", "verdict": "adds_false_claim", "reason": "The story says Fahlman's emoticon was a colon and a parenthesis, typed in two keystrokes. Per Fahlman's CMU page (cs.cmu.edu/~sef/sefSmiley.htm) it is :-), three characters: colon, hyphen, parenthesis."}
+{"prompt_hash": "762ea359f6c1ae737ce12d38d161c0cf649e5c0d4aab83afec57c4682d240ab2", "verdict": "adds_false_claim", "reason": "The plot has a center tag leave the heading on the left because browsers no longer obey it. Deprecated does not mean unsupported: the WHATWG HTML rendering section and MDN show browsers still center text inside center."}
+{"prompt_hash": "ff1b87bfef573c2b6ba499833f180208701dc3ba101aaa852de3084e103ebb71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a306712c01938aec590ee9b5763adb7f62da4a62fc2ce33b8e7733831c790ed3", "verdict": "adds_false_claim", "reason": "The plot has a center tag fail to center the heading at all. Deprecated does not mean unsupported: the WHATWG HTML rendering section and MDN show browsers still center text inside center."}
+{"prompt_hash": "111c2b8bc9bb30b05e547b0e1a1e5468bde0d601cc84c156c63fa82bf68c4748", "verdict": "consistent", "reason": ""}

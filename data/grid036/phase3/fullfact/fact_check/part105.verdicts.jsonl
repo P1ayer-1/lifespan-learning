@@ -1,0 +1,40 @@
+{"prompt_hash": "d9f863eec0db75554842fd39f3ab315adacb0a8611d348d0b7ab6f412eafa80d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6f5f3e32e602f37a7462674a6cd8403d182bcc3499a277126772897addfd3cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c15746793490fd68bdbd57a1633ca663eda020a2d5ee116dcc52b934af14bd03", "verdict": "consistent", "reason": "Af/BWh meanings checked against fetched en.wikipedia.org/wiki/Köppen_climate_classification."}
+{"prompt_hash": "b358ea316a14c8b7b1da8bc317dbeed598377b1150a82d93f4bcb376025181b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "47ffe150efbc76d3d87339e09f2ac9a3092c2ce6277773bea849d3a114ef8373", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54347d5c847f78287d362e953fa9e611458529fa8a86698dac96b5374e922453", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "92a1931ca512f791a19f0ac88057a4e210fc3c341a74d43775d46315cde30802", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37f2cda3eec38039680d92430867f9f5dbe032af1e2788385be4145d89149bc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60262a96beb1f3c53f25d97bcbb68b27c848d9926d8bb15a5bed295faf1bb63f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "548967269a867357eb21a5e81e92406a578f71d1643dd35ebba03d09b3ff657a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c6c03b2f18db37491539ad7f61555afc492f4a7b5cbb9a8ebf1f99682edc100", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03501b32f1e09a64736d33fc56054ca44f7f9891c8eff6f458450e80758a70be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77dc8112dcc9eb8514e153857609ff6402d10edcbd79e73a72750a7fdf05dc44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5403f767cc0eb69c70f273486655d46ccf49dadead81e321ad71de9abd4de667", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "755ad8ac2ead68c24e1f854248511ff54d568847a3dafd9eef710da088891f66", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bd432841794bd46a048daf4043efab9c512060caa6f0d73f423db4ed82de3835", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "946422d8f052e09203625af9963cde1ad3c3763eec4a244035a8790726decb95", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11fd4638ffdbc34b842a02ce02bc7a23f193db90d16b29acde731d9aed98bfdb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "035f17a53bfa934e19191bc10038dfb01ac716f002c5f172174bbe7e716acd43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3aee5466b06effb8c5a6f6ecfc9c58df110257c68ac9ad2f83d7dc7bf87f103c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "06cef5e28a44d6d8ed472621f8ea74903605a3cb9577a6a8c89482fa77404a1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e8e67f04078e28dcc41cc8357d48dc93f771fbab59b62976f8305e4647aab417", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d738ed58aa1216892a913ff8478f8777c159c999304cf8936be36c2e8436b30f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "612c1de7af7ab9b81a2dd76ce34c5c3bd27e895621f20adc57f63d7dfd8f726d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f1d3ef4294bf96a9eebdfd38297f999eea05fea3aa6133a892ada38d970ca3f5", "verdict": "consistent", "reason": "Vault orthogonals converging to one vanishing point checked against fetched en.wikipedia.org/wiki/Holy_Trinity_(Masaccio)."}
+{"prompt_hash": "c0b211604ba3db85e3dc9f9151e4d0c4489a11c03d833cb1ed8013642c9cfe28", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c86411001f8802b458049c27a8dce2d7e53adfbf0881f4a9b74edeff200f71d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2fdb87da413fe0515404ccb11e7fe7e19218fcd5acf2a6f2fa17d9652ddd060", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c25b421d8e438ea7483c412027e5f278a28b027ee876194e7ad30d717e651e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "edbb48b5e1e630247b3f8feb4a32c66209e73a56f13015bacaa477c3750a0a1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cdc3cc3ec3a1d2c9a0e5d3635b7b75af9089649c568a060a050e1858a8c95d86", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b0cde4c6f42313543591836a6ec097a9a47910d417feaaf1e26c07a5af0016b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2807fd6ff323fb29e8f0652a2010f9578c35ed679604ebb1a27bea26d8801a97", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "572f8aa77b45f4ad05d4dd8fa7293412a10b82c498e37c5900e37f0dde8167cd", "verdict": "adds_false_claim", "reason": "The story says two laps of a roughly 200 m perimeter make the 800 m race. Two 200 m laps total 400 m; an 800 m race needs four such laps (or two 400 m laps)."}
+{"prompt_hash": "6c442f4464b05e585fd211dc91181ab0221923aa9d5933fd4b1f87ed133e40e6", "verdict": "consistent", "reason": "Glass vial of hydrogen peroxide plus oxalate and dye checked against fetched en.wikipedia.org/wiki/Glow_stick."}
+{"prompt_hash": "28ed090321da0df6628d1a56da114b6a0edb0d9c840cb6275b7b38483b2e5759", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01d5d7a6d6ba19842fc730b1ecbf648b0ee1fd05f80256ea56cc322e873eaea3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae2bb3dfdac76ea2c8d3f1f77cce91edf8423d6c10b232fc860d95eb9c84aa19", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "da20ce10c420c39e80f8b7a091504e2afe80c7c7fc9a2b7ff86c286626bf07cc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1572fb27b896c3cdc590f8c16475b7a38634c1f6b7c38adf7084c0c6dc1b849", "verdict": "consistent", "reason": ""}

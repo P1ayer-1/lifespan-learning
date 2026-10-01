@@ -1,0 +1,40 @@
+{"prompt_hash": "aef4076d84783cf584f05b9ed21ed49a2c3a1f9f466d98465119bd7b3a33170b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a7e56f28aa3bcc34c18854a7205f96b46fd161c5ff07a5efc72fef06849d36f", "verdict": "consistent", "reason": "checked: pages.nist.gov SP 800-63B (no periodic changes; force change on evidence of compromise)."}
+{"prompt_hash": "054c727228bdada64ea570c000360c499cbd37caeb5eb015e22fc9e4871e573b", "verdict": "adds_false_claim", "reason": "The new 14-character password with capitals and numbers is described as 26 to the fourteenth possibilities. With 62 possible characters per position it is 62^14; 26^14 only covers lowercase letters."}
+{"prompt_hash": "874171d92af93d69e6039fd958c11cc04ecd19dd812bbc8a39f9ce9016c582ef", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Elements_of_Style (written 1918, 'Omit needless words')."}
+{"prompt_hash": "1d21dddb0852316d4f9af439ec3476e5a8979882b2868344fcb83a79228c16b5", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Adaptation_(eye) (rod rhodopsin regeneration, slow dark adaptation)."}
+{"prompt_hash": "51a1b91d8071859ba0b5668e8716be478ccdca890fc7e533a0d701b22f0fdfae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d031e93f3f118b817bf8938831b9ce740995902cb0e21e893c3309ff13c22741", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Moneyball_(book) (2003, 2002 Athletics, on-base percentage)."}
+{"prompt_hash": "13fe81b74e4f6743b3a29599999ecf4bf73135ae1650a51949e6db5799bc7e66", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7463729e832e489db5c14e413b46e40257e0254564f15a429c76b242d449d21d", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Cast_saw (oscillating blade, skin moves with it)."}
+{"prompt_hash": "899f8206d609ce33695d6ec67bc703955bc120214a85dc1908c93547a2f64110", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Supply_and_demand (firms supply more as price rises)."}
+{"prompt_hash": "370245a8424ce0c7be970ac5c3a847a874ed83f467dac0d00fe01ad01f344101", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Words_per_minute (reading rate exceeds comfortable speaking rate)."}
+{"prompt_hash": "92d85086a5dd38e23958534f29487ca58dfbb31bd447f9e7f344c40442182274", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a3de91ac1212b47030a4823c2872d6296bc7940e3d48ef9083b5b07b07cca10", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Emoticon (Fahlman, 19 Sep 1982, CMU board). uncertain: narrator says 1982 was almost forty years before a middle-schooler was born, which implies a setting in the early 2030s."}
+{"prompt_hash": "fe80c8775200fec751bc7a02316206f82bc32d309e06122b938df8fc0acb62b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9669085ddcea6db9d7415bb6e416f150474dae8b243d99e07c1b16713eba2b1", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Maillard_reaction (sugars and amino acids brown crusts)."}
+{"prompt_hash": "f6565a6c4e01d3a5ff3cc1dd62d14ccac27fd2e2e65adaea1b477013ebd46626", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Syn-Propanethial-S-oxide (cutting breaks cells, enzymes make tear gas)."}
+{"prompt_hash": "eb98495e7b3428f2665d27f9a0c2dee9caba01efb8df076abab0d0730d8f16e6", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Guinea_pig (cannot synthesize vitamin C, needs it from food)."}
+{"prompt_hash": "43cd3b6846d9e28d1998aa894de6a5ae78c140e0efe92cf03f8586589a1b1ed0", "verdict": "consistent", "reason": "Injected pre-verified baking fact; no external page fetched."}
+{"prompt_hash": "f3c645a0c40f6fe2f0b3bfbe9ae68544c51d96f2ded9ca4747a240a50a70a7fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f51002f0e094441951abcee977e25ba38b3fe56762c397bf06512dab7093e646", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6b001e4b87670aa592ae384caa46a8d9ec81347c51bfbe8582567b4f0c34078", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce3e181f664ce3a72663fdbf1270bbb7078ce7ef3c0de6f1b0a9d0a8a1821453", "verdict": "adds_false_claim", "reason": "Bean seeds sown around a tomato already have nodules within days and make it green up and grow by that Thursday. Per en.wikipedia.org/wiki/Root_nodule, nodulation takes about four weeks, and neighbouring plants mostly get the fixed nitrogen after the legume decomposes."}
+{"prompt_hash": "666c04c1c05743b1c39ccd7ed19d22addee9cf6fe8293fee5c343e28ae311ffd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93495b3b36540a667508d5618dbdf4d44a11beea5b0ca81e9cd2d8dc09e81b86", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Deodorant (deodorants inhibit bacteria and mask odor, do not stop sweat)."}
+{"prompt_hash": "89eab45366ed53c1997f3e75200b9658e33ed8d93927f13dd378ae72dec09619", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Fundamental_attribution_error (Lee Ross, 1977)."}
+{"prompt_hash": "f82a6344a33031f11139706e0f7dc7e33c7ccebe18b342b296951e0a9b54cd35", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Concussions_in_American_football (Lystedt Law, mandated since 2009); 'first state law' is from the pre-verified injected fact."}
+{"prompt_hash": "8d8bfdacc7c0b8fa4f7e87b1ac11ef279bffe238fd0a03435a6898628d6a9d96", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Béchamel_sauce (roux heated in milk, a French mother sauce)."}
+{"prompt_hash": "18c8c16146a83f1c7459fe745261be21db8f417e93ffe18642bc5f0b0dccf38c", "verdict": "adds_false_claim", "reason": "The cashier fixes the double-scanned $2.49 milk by giving him one more coin. A $2.49 refund cannot be paid with a single coin."}
+{"prompt_hash": "8dc23864f29c79d15cc3e593079d252e2872dfbcb9b76f1d1b27b7163cdec07b", "verdict": "consistent", "reason": "Muffin method is the pre-verified injected fact; no external page fetched."}
+{"prompt_hash": "4f570548e8588a9265f2223a61f2c4b4598e9572917b5b669961c754ccc9d5b1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "adc227e2b9d9594c68810e06407e9d6ba3081527ecc6df3072bb32c332d55a6f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Giza_pyramid_complex (workers' village and tombs, fed paid labourers, not slaves)."}
+{"prompt_hash": "84e685d7b7316e6923c8d9ba17d1ce386f722a393ccfaaf816ce014950550f8a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Alfred_Marshall (Principles of Economics 1890, scissors analogy)."}
+{"prompt_hash": "569bb17ce4ecbe470197b48d3122f8789e62a7aff35442921281b510ef22c700", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Anaphora_(rhetoric) (definition; MLK 1963 'I have a dream')."}
+{"prompt_hash": "4f8ed61a8010e45c06ef7eb2ac3fa11e85c530925110f52ddeba293891b20572", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e4c56645181243052798a79472e096cd956eb8e34804239aa9fb38caa6b87a8", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Trajan (maximum extent by his death in 117, including Mesopotamia)."}
+{"prompt_hash": "2c83e59765f889cb5ea7b6773a967a15d78355fe094eb690f45c3bd233f8c32e", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Coin_flipping (coin toss used in American football and cricket)."}
+{"prompt_hash": "7c943824a18f70294c65edfd669eae2c4360281e8ea249154e283538e20299d6", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Battle_of_Zela (47 BC, 'Veni, vidi, vici')."}
+{"prompt_hash": "e6301d1366c57a7b6af9ea49b6e1ebb02135324b8a7a39d5c52020ab6c1873cc", "verdict": "consistent", "reason": "Oven-dial inaccuracy is the pre-verified injected fact; no external page fetched."}
+{"prompt_hash": "82122b3022e045a55e2b60f70c94982e9c30e8399950ab88834b4910bea97137", "verdict": "consistent", "reason": "checked: smokeybear.com/en/prevention-how-tos/campfire-safety (drown, stir, drown, feel; too hot to touch, too hot to leave)."}
+{"prompt_hash": "1cd014c276f60e3a2796a8fd5b595b1eb3ffeb87fdbf163012a3170a892b36dc", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Blind_carbon_copy (blind carbon copy; other recipients cannot see BCC addresses)."}

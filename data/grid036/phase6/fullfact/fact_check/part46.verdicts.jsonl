@@ -1,0 +1,40 @@
+{"prompt_hash": "53b3062a6b431cfd3dd9087b3552c788fccd2b87bd8aff661953265ec5c46abd", "verdict": "adds_false_claim", "reason": "The story has the first red candle lit on the opening night of Kwanzaa (Umoja). On day one only the center black candle is lit; the red candles start on day two (checked: Wikipedia 'Kinara')."}
+{"prompt_hash": "9e1b7111fbfbac714b2dc4545ed4d11b560a6f3d211304a8b83ef13fa2e7ac66", "verdict": "consistent", "reason": "checked: 29 CFR 570.61 (Cornell LII) lists meat slicers under HO 10 for minors under 18, including retail delis."}
+{"prompt_hash": "ba97327bfcac7c53bb1b71d3de6a95bb3b110fd99b176726f9de277068f7718c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b47b7b1a6f3dde3650cbc4998809a12d16ce757ed6f8e04c3e287df16a3b9701", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a26c0a9c39ffc490b1f579e90573d54d986ed855f9cdbec043f68bdc5c9877a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ba4976bd39b6bb12cb2eb3d0921137ad019443bd1c551e5987922c9d30ba1bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9cf0858632aff26fdb5efd7f5d5663c21edeb6716a0b4c53324d46b753ba9599", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2174f50d869cd5255333212fe5b2b69d4b0ee1bb36586df75579906b2a71d298", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f84b8692af680f30558bb131eba7b485529877e60602df9cc6268f11a035cb73", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "813d63088ddcce1cc4cbc61532808fb62cf010bd9fae2cc7686e6d5da61d972a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96a9ad3774f96f5197c64cf455bc074b044770ac9080c89b0f69daeeebe3e2bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a44dca648ecb26e6c473b783314a3fae564805148b9cb50ced0f4d5d661abbdb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac726c580c17bf86f3c01e89b4ce489cad0c183ef64de8a3df86a9b052e19f4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "487a4af7d6cd86b0fbbbf2ef886ed8f4ed40ed7dc095fb6d3db4e791b9e3889f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "739f4b4b058035129d43031b5f1240876a8f0d95aeed524f36e744d814f4ffb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e295361578a0b85a3f4e794923846cebd3d6399125e6095cf028b40536e060f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4b0be6183956db9268bc807c7230886ac92143a3d9787d6e16d6e86e5183a70", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "684ecad561ca28adc632ac2bbee2c1010a5d05f1aba7025d142a45e5f86eef48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca9d41095fa46cd3b5c3913f28c0f5ba1c5b308807a5a3f925f2c6f437a36b30", "verdict": "adds_false_claim", "reason": "Nathaniel says that at 5,000 feet the water takes longer to come to a boil. Because the boiling point is lower (about 95 C), water reaches a boil sooner; it is the cooking that takes longer (checked: Wikipedia 'High-altitude cooking')."}
+{"prompt_hash": "fa6697efddab77318559efad226992e729c41138927dfef0c7c551256a1ac779", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a6cc8e0f6b251d64a5391907028bbc04c4ba28b82a40752cb1cd86932900ba8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d8ad581434d57927b18f6e7ce4d6f9800c6d09230f9243e82705f2c21173e015", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1c1665258df8374a9944a7ae533c580ce99e90fcc509e1af6903b42ff5d3d4c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae9c367ea6e82c442c1533b66519c4edf6868f64793077b8859f6c9863b1d44c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f6580ba26328dd406b605622ee72a765ceb4afa5a11634a18cd85668bfe8f02", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f7017ada2b6cd43fbdd5db6167fb17c29c56bd2c2e2fe584b0d9a1e373a836e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "702a5982c23364116e227fb243e35603cef8945475f92b0f515f63c098347771", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2567e7de14d1ba06ceda43023695eb04bbba56a68b4d34d3452dc7dfccadcd2f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5c02062657e9bbfd9443812d1fca4648ec4725cb01cab4747f1f900a8233ad5", "verdict": "consistent", "reason": "checked: Wikipedia 'Red envelope' (no fours in amounts); Wikipedia 'Chinese New Year' (clocks, white flowers, knives as taboo gifts)."}
+{"prompt_hash": "9b93c1f85da4a3f33bceb89262e965be985908a346690ae05c4cb9bbe840fae3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7ea3fe10d308049378500c7013240e8e362038c2558d2a328d126c2220390492", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba7f834e6845a1fb13e416e6ff0b5775caadde6bd25e30487013dcab96d356fc", "verdict": "adds_false_claim", "reason": "The narrator says the yearly wiggles in the CO2 curve come from the 'diurnal' breathing of forests. The wiggles are an annual, seasonal cycle, not a daily one (checked: Wikipedia 'Keeling Curve')."}
+{"prompt_hash": "0baa62d683f464313f76a65a83ba7c05a12b55ff9b9fa6feb527df2272b8a7b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00c1cf3c5d10f69a8351e34b10285ef064a5b5a43bdfc11508907ab6f2158644", "verdict": "consistent", "reason": "checked: Wikipedia 'Hans Krebs (biochemist)' (Nature rejection, Enzymologia, 1953 Nobel for the citric acid cycle)."}
+{"prompt_hash": "a1afcae8620072a36d346bf49ab9043e568731cab272716ff56833141de39cc3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "66fffdd389bc2cf87e4de70da5c8e543b760eb19ac8c80026bd3d325c7610000", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a73e18b7f26e3b5c5f7fdb6e286be4ad6d0ffe5a6ec2661b09dfd44bed46b9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d08f8a5447f2326f4357e8f10353dfbcd85b27f8f8fe33419adc897168dea6b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b5eb2bead28d7e0a00841e6c8df81da4ef85acc2b7afa9af7f727ac12d19164b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d3ca25c0e49f50d6f8425dc069cb42e6c36651ca58d17ff778698d49e069d18", "verdict": "consistent", "reason": ""}

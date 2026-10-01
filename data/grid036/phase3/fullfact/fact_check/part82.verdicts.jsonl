@@ -1,0 +1,40 @@
+{"prompt_hash": "82ce2a5af4a6743e4edc5b4dcd0526d275b5f8942dc378d9f85b8f4c95479d0c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "01193b4539eb416b20172bdabce9c7c531a0f8b9bf8e97ec7e2e83104ea5d73e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02a9f2f61c3e117a766a6a37adf9dac97fd99553cd43fb3771f34e56e9645a78", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ffd77e0b07e90d77d6f3806ceba25ec6a739ed8c9f79e767b48fd02234ee5bb9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09724ddb4b707cbc32dc109ca2146f1f22c6edb8ce3f42e1ad5d4a3ef877af05", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9aac73ec77f3fabac6a694ba5ef32e292da92c6a1550d259fd51b4d504d57cba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e1193ce3d393d9e0d757cd58531d615047757aeb38ecc0bfd9e983e4b27a06c3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb17530fe7db05d7c80040ef845b883578e7dfbaabbc857457778e096af54cf7", "verdict": "adds_false_claim", "reason": "The gym loop is said to be fourteen laps to a mile yet the 800 m is called two laps; at 14 laps per mile one lap is about 115 m, so 800 m is about 7 laps. (Rudisha splits 49.28 first lap checked: en.wikipedia.org/wiki/David_Rudisha.)"}
+{"prompt_hash": "48920c1553e0cef838a5604705492b3d235643c3213e026f88227fe5becab1f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1d519b2c9896754cec5bf96e27e79f3eb21d4dfa349a32664625c2cf4b0058c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21e732b2bc1323188ef9ef9fab8b908f124de412f4f2f6ce1e80fd0983044077", "verdict": "adds_false_claim", "reason": "The proportional count gives 3 Shark, 2 Comet, 1 Sprout, which is 6 seats on a 5-seat council; 50/30/20 percent of 5 seats is 2.5/1.5/1, so a valid result must total 5."}
+{"prompt_hash": "1ceb3eae8b90d6d4fb2e5be6ec05d65ae526a46616cfd8c83d1a3510fc6c168d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51cfcb6a04a2f86c2f051acaff6d10daf3b7adf5f5592aa5db5c55089e5f37ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e982565b3b2cf0e7703d8f72b5df823ce8158f8a636b1d5441fdfcbde7d12b39", "verdict": "adds_false_claim", "reason": "With a 2:58 total (178 s) and an 84 s first lap, the second lap was 94 s, not 74 s as the story finally states."}
+{"prompt_hash": "d695598937b7a1e3d1371780e5940b8d8adf31610fa2e81ffc6c0e12539df055", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8605838d249a8a9df2f77deb03adfa2aab02ecc99695e7e1c126af21f7edaf8b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7f33c4036d6d3a532c5312d477cca27f96bad78545bfa384168c4af1b40f484", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99669573805ce8381c1d2f9ee321df80f3df965d682a91d4373079a052ff49c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "10fb88011b932681407a47c8892218168467bc591627ad11ea68e00d649e44dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2e16ca356c6e0013edf3290443ddb580eae5f10f5cba781eead6105d254b45c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b31fb88a141797504502ed0070ee40a0f065a77c7f0410613ad3b2d637ec8d64", "verdict": "consistent", "reason": "uncertain: bowl of salt on the ofrenda not confirmed by fetched en.wikipedia.org/wiki/Ofrenda or Day_of_the_Dead (marigold path, candles, tiers, champurrado confirmed there)."}
+{"prompt_hash": "4316c062c5d3d067dcc725b33a4d40f073422423bb61c8dc4847aef19be40260", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b0ada52350fc42588602518a0ae930516aec2022046df081d20512347b567bd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a054d322bec032bbfad5563b69c5fb6022ce7f0338ab4720a90e0b37620e568", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab9a8659c379d412d23558e2dc15848cac7b48b8ec17633e078bc508ab2d2435", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f9f91460aee4d5e5a5be6e4bd4790b5661106b54a727716eb7d7839b78efdd1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05ed9d01f9529462cd10c5e9834fba64954b49a216fa96d523514d11f72aaad2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b11467cfeaa6834d83ea60ec27bb71cc0eff0e2f6fd69bc2a24d7b54cf0f2d48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c244e2541c10d0dde650ab3f32b897375197cf94c7695e5396d39b18b29ff30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "111dfc8bc1e44e816441fac8bb3b1be21cc671c1284fef64e10355e6a3806f57", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e48257de7c7ccd996edbefe1848e86724c392cc9b02312dcddffb29d3bc1cd98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9d361e040f96e18404cb7e52506ea5d8c69c9ed6b3038882f125b1b653b52e7b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54a11415439853ca15a5d14011bb705f48f32d7f97d13e4850a27dce050b5d79", "verdict": "adds_false_claim", "reason": "Soap water is given as pH 4 and turns blue litmus pink; soapy water is alkaline (about pH 9-10). Also the speed of litmus colour change does not show a tenfold acidity difference; litmus changes over pH 4.5-8.3 (en.wikipedia.org/wiki/Litmus)."}
+{"prompt_hash": "6b91d4d42be574964eafe1e8875bc97f983905f8929ccdf4ce90a20a3dfb85b8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa833e0c70aca1c4157de8ecaaf68971f0fca459621a4b28a302c182c69b550a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a533ead320665428cb6f325f843dddd851a22a526f24879018e225de7239576e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7393d711ae332c7cea567cb878541cbdd797e4a4f366ea19e2c31870cb9c4ee4", "verdict": "adds_false_claim", "reason": "The story ends endorsing that standing ten feet from the DJ speakers keeps sound huge but harmless to the ears; a fixed short distance from loud speakers does not make the exposure safe."}
+{"prompt_hash": "8c878ce604932636e12e4d83292bd6f55aa0afc205d5bfc292ad2c7dc80b3ffc", "verdict": "adds_false_claim", "reason": "The story says Doodle collapses in a field behind the house under a red night sky; in Hurst's story he dies in a rainstorm by the road home from Horsehead Landing, under a red nightshade bush (en.wikipedia.org/wiki/The_Scarlet_Ibis)."}
+{"prompt_hash": "3af8d259bcf13793b4da875291fab9673515427b4a4393ef45689bb7859108e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4ae521ba72f543456b5a99e0196d31eedc4852f02c82ef25f7e2aafc272bce0", "verdict": "consistent", "reason": ""}

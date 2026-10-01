@@ -1,0 +1,40 @@
+{"prompt_hash": "7e225f8ca639a8044804170a3ea64b433f89cea1ac92e7e59ae786c67cd8e4e5", "verdict": "adds_false_claim", "reason": "Story fixes the missed row-9 payment by changing the range to B2:B8, which still excludes row 9; the range would need to reach B9."}
+{"prompt_hash": "537d2c1bd87d59286b7d940ed8617b3bbd72f33e626f0f4e0ba8bfa8e76c164e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "168615e9f1f2cc0e089cdaa06509d8ba92658d263819de58d79e91553f166aec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "385668b3678cf38ede130c5107e5de4437117923276c691d38c6667eb0e02bb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "64bde8548e9d21a00b99919717dc71c85ee89855758ea0ae44c799cac76550da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "853fcb7b6590edd7f731e0c6c7e07a86ad783e837c5111c764c48861c540e76d", "verdict": "adds_false_claim", "reason": "Story says a solution that leaves litmus unchanged is at pH 7. Litmus only changes outside about pH 4.5-8.3 (Wikipedia, Litmus), so no change does not pin the pH at 7."}
+{"prompt_hash": "69b61f549ca27f0f5eedd488da302843cc3b53fabbea3b5a0db4fa9324306430", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f440f38598e31bf349fd45f1268f182c7e129ae4364af192ec97eecbfe78b16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "84dbda076fbfaae5a658c62379a131256ba8d7885e08eb8564275b098bdd207d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1135e301e7abc70acb0ae1729d6ef7f5b1ba652365a1c0ef7f261c9c9e17cf15", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4c245e886ece54275e3493b4f52c728a87f99bf60c747a96d51b422e3b100ced", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "affcc89abe876a2786a80a7608cdb6dbcbddec5b600ab6175caa5da1739cd7b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "885dff3980407edaf3efe5944e1bc49f4e8b8da94488ec0e16bb90fcd4d3bd5d", "verdict": "consistent", "reason": "checked: Wikipedia 'Section 15 of the Canadian Charter' (in force April 17, 1985, delayed by s.32(2) to let governments update laws)."}
+{"prompt_hash": "747a0cafa0239710fe5dfa6b08ec471756db378dca9860def8a4eb05869792e7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43411277327956554822bc640711ef7ca19c57e06aff00cd5ecab788d80c09fb", "verdict": "contradicts_fact", "reason": "Story's timeline has Annika spreading flu on Friday though her symptoms began Monday, i.e. about three days before symptoms, and presents this as fitting the one-day rule (CDC: spread begins about one day before symptoms)."}
+{"prompt_hash": "819becdd193d57ef86aafb4275642d1b5afea27dfc207af8f9724699dee5a95f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "18266cfa1ff31d64b63d7439b1686755aed208de64d3916c9ffc9f7217c08103", "verdict": "consistent", "reason": "checked: Wikipedia 'Notwithstanding clause' (time-limited override); five-year renewable term matches injected fact."}
+{"prompt_hash": "42d72bfbd3a0d7f7ddb69d96108c43ca7fbcafd52252a5b015e57ee4b6aaf732", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5fa36a1689b78af837a1cad4ae6513533dbf42223b82db5f4b88135199d01e8a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cfc4f6283709a12f12b09884f1a3b4418edd4741ad1bef11b13976b7dfe5f60", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7b3e16a836756daa17a836991c8b087274a6d0c9a90cf9556db6341c7e10d99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eb1ddb80c9b7f21ff36a7aea912bd3b4b344df3a21d6a60d11f5803867447f1c", "verdict": "adds_false_claim", "reason": "Story says typing C4 into a blank cell displays that cell's value; a reference must start with an equals sign (=C4), otherwise the text C4 is shown (Microsoft Support, Create or change a cell reference)."}
+{"prompt_hash": "77ffd9276adaad95b8ea63ff27081729d37ec3cf5bc6a6bb3279c866ca60061a", "verdict": "adds_false_claim", "reason": "Story gives lemon juice as pH 4 and less acidic than vinegar; lemon juice is about pH 2.2 (Wikipedia, pH). It also has litmus showing a deeper pink for the stronger acid, but litmus is just red below about pH 4.5 and cannot show degree."}
+{"prompt_hash": "5c9aaf5b012f29a9d3d76fc6225d4496496f86a30a78d648415b06871fa8d0d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99e048057abce2d2cf5bdd08e3b7e147db0bccc8a17003b0261311efaaf360fc", "verdict": "adds_false_claim", "reason": "Story says the SUM over B2:B10 totalled forty-one cells; that range is nine cells."}
+{"prompt_hash": "fd0dbcd67bf1e536d069ae9fe803ebde530c62553003e25c8a0b61654ff44db7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89667eca19e230d3b67cb237da98b1c22c0d2081f2c74c1f541463eccecbb132", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57c02a3748fef59c517f557a714ec53de06a176fb7f667831b50065f1353df18", "verdict": "adds_false_claim", "reason": "Story has Tet on January 29 and the family's Lunar New Year on February 17 in the same year, both new moons; Tet and Chinese New Year normally fall on the same day (Jan 29 in 2025, Feb 17 is 2026) per Wikipedia Tet/Chinese New Year. It also defines 'conserve' as carrying a plate carefully, which is wrong."}
+{"prompt_hash": "e5b7deed5a3129452b759e283ba76686d0306aac848de090e9a53e8f377af3b1", "verdict": "consistent", "reason": "checked: Wikipedia 'Diamond-water paradox' (Smith quote, 1776)."}
+{"prompt_hash": "89a20cf8d55025f9d321207fee0285f54057dbb4e489fc1d9f476f08e0eebb7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89aec6699c4e39fb9dd42048c3c6ffca2140bd0127c05da6eb2cc2c63ab106ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3be756ab35f31b067e6359a48922e2eaf303a72f38f700313b9f7ce8f4630ee", "verdict": "fact_missing", "reason": "Story shows half the string vibrating gives the same note higher, but never says the note rises by one octave (fact_missing); halving length doubles frequency, i.e. one octave (Wikipedia, Octave)."}
+{"prompt_hash": "f1acaa1d6fc99d798aaa2f2e0f27e0f7d58e040d65e6b8e7cd23fa89af753b72", "verdict": "consistent", "reason": "checked: Wikipedia 'Plasmolysis' (salt solution pulls onion cell membrane away from wall)."}
+{"prompt_hash": "c8d4a1680ff262757b72a75f649461e362646ec26b3decbd57fab0a366b28c22", "verdict": "consistent", "reason": "checked: Wikipedia 'Universal indicator' (colour/pH chart; blue for weak alkali, violet for strong alkali)."}
+{"prompt_hash": "2cedb3899fcf1d4f87412dcbce601f7bae5bd21da84c0db4e597fadaabaa3bec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cce99ddab8e7960c4df15da25b307aba2b5f6d835864041734411d9c8dcfa16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e1059f940910baec15187e1ab85ebaff93105acd4abdea6f23f22b3ee685afb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60f0a620d970b69555e4cd0a7aa8124c986cf5cd8f184104f5082e8c00f45a5a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d245101d8a633b00e9c831b17b4a46caf3fc63d194af7edc2032581aaa0cc9b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "14cd608fdd95a31812225818d24540fc1cfb42b2fa0e0f445335cc0eb5e40038", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "46d27d8cd142d4060512d2d224f3b68a2f80857a12bf7b28ff22c5e096f8c580", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c4b95554eda450f92bad331c47e6f550328292301655f89089ac5e32646f8ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e158abda08e52384379e59dde143d198aba5dafeda5c7729d85b9c9bf27574d", "verdict": "adds_false_claim", "reason": "Narrator says a plastic slide behind the fence ionized the air enough to lift her hair. A slide does not charge the air around a nearby person; static builds on the body or hair through contact and friction."}
+{"prompt_hash": "549457f9096bc21dfa739c3ecdcc6cdc4f175e96e5a71e4a780990a74e98c772", "verdict": "adds_false_claim", "reason": "Says a car loan repaid monthly would capitalize interest, and blames capitalization for a lower payment costing more. Regular payments cover the interest, so nothing capitalizes; a longer term costs more because interest runs longer. The figures also disagree: $200 x 60 months is $12,000, not $9,400."}
+{"prompt_hash": "4841c93705937da6b83a8bc7f99ab229b01b2445ece751788d30ba212a2222f0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "098f975ca75bd911fdbd12d69771c164b20c75fffef7e31d0ab7f3cc39470794", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d4e8b6cfaa7fb285eb5e9afa00eb904ec401e03022f16a6488a24b96dea3ba8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a8d7af0bd7ed2b6e2a40eb9b06695fa0262f0803e51d838b3ad107e59d16fd1d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "74e57220a9a22483949e2fde24100289b385d8ab80398b59502e26aabb2daa66", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b028425c9793d28fa95a64c3de3178f9928f17e61845c5685edb11374cc0e53", "verdict": "consistent", "reason": "Seder held at the sundown start of 15 Nisan, youngest asks the Four Questions, handwashing (Rochtzah) after the second cup: checked against fetched en.wikipedia.org/wiki/Passover_Seder."}
+{"prompt_hash": "9e8ae33a0e0bbe3bb7b7f88c14634efba3076c1d2cab198b434f33827bf1af86", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a4ee884daad60712c739f51190c249ed16be4edc035beaad032432a130f53304", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91926ac9198a98a8fa061e67abe2239caaede243685683884fd52cdca6c6c432", "verdict": "adds_false_claim", "reason": "Says 4.0 g of H2 gives 8 mol of water. 4.0 g / 2.0 g/mol = 2.0 mol H2, and the 2:2 ratio gives 2.0 mol H2O."}
+{"prompt_hash": "9dba58c5c7c8c29e4e60d48d0b53bf5029e10f380038c3003fc6a78a8cfeea24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93bbca6255c74a4f350c8be9da1e714b24b9924e4a7acb53b6a921188b71f8be", "verdict": "consistent", "reason": "Heating pink cobalt chloride solution turns it blue: checked against fetched en.wikipedia.org/wiki/Cobalt(II)_chloride."}
+{"prompt_hash": "1359c5cffe886f3474a91b5e3c16249ddf223752350f52a87250b06492934423", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "776afe4c95400afae05c5c9c58b772eba222d19c25aa53f03af8fdc29eded617", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3a56b56e2a3e680ce0579dd1b37564f6ed2efa5d2c8fb848eb89d0d197e8d526", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf9758f19e52910f85f62b86d57bfdecf65543f41d88d7b0d753279008cde6ca", "verdict": "consistent", "reason": "Six-step return to play; on symptoms, go back to the previous step: checked against fetched cdc.gov/heads-up/guidelines/returning-to-sports.html."}
+{"prompt_hash": "1b8c95da510adddbf6724e6e31c0370dbebf0f88e5551a0a8ea9761f27456ce8", "verdict": "consistent", "reason": "Pump handle removed; Snow's map described as foundational: checked against fetched en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak. A teen calls it 'basically the first' spatial analysis, a loose overstatement."}
+{"prompt_hash": "742ac868e84efc3eb3ed3fbeed6113b03a5ea22af380c49d01b7babb4c0f7e91", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "105ab82319ce3868465e0f606fcaf5e5c31d0205df324be88015c8160a780d90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03a28f47500b1144322a85f5375f2e94691b3a93ece638413ed171a526658ec3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac583577ea952c90919068e532a27e886866b8ae3394217db0d92d84f9ceea43", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09e04680c4ce8d1831e7487acee1787452299588de8d5c1933ee6e15dbf0de4e", "verdict": "consistent", "reason": "Exodus 35:3 wording matches KJV: checked against fetched biblegateway.com (Exodus 35:3 KJV)."}
+{"prompt_hash": "28bd4f681146a9a34d63fc6e398e9c5cbbe51ed5eab73113ad4449e1df962487", "verdict": "contradicts_fact", "reason": "A peer says every news story has a dateline, and nobody corrects him. The fact says many stories have one, not all."}
+{"prompt_hash": "5b1964cee4866e9a450213fa0bc8d146dc214f0fd754750229840012f5a05b4b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b38f056d00f4c86ea4f5b2b94cf24b00b0a0b189bdcce93936e4422fc495a59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc51970f80366692698230c025e28343f72a91f01ac475f5d2cd2296c057988f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "535cbc79315a921a2f88f201c56ffc3e0a5e9134b073a1ebff961849939cba9e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "756aff6a9d03a123778841af06560b83159312c0b1540d1a37ae812f00c0636c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5519f265109e3062bfe8813ba3d704db776f5a461bdb8c0e466bab7316cae42", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d25b715beac88651db9dac490702a6345638c73b8f38e0e8530066ae7834dbab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24f45fc304e3a9bc43053a21dab01b252a93577a4ba1f35ae3bb31c829799ae8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d7fb900883605522f7432252fb1a48359dffd2311b426b05489abde32d89b076", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7afa43f7de86b2183ad45f16dc68d52d5bfd25acbe673aa3d71287f1c7326578", "verdict": "consistent", "reason": "CO2 peaks in May and falls to a September minimum as Northern Hemisphere plants grow, then rises as leaves decay: checked against fetched en.wikipedia.org/wiki/Keeling_Curve."}
+{"prompt_hash": "30eaa1e2b48f2f7f5911f0417859234699de779a3fca044b7c2249fc4b1ac05c", "verdict": "adds_false_claim", "reason": "Narrator and characters describe the current W-4 (Employee's Withholding Certificate) as asking for allowances. IRS: allowances are no longer used on the redesigned 2020+ Form W-4 (fetched irs.gov/newsroom/faqs-on-the-2020-form-w-4)."}
+{"prompt_hash": "92d15b7bd65d5ee4e4598385b99352352bd3ee12256404be0a65baa6df1e648b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a55aa915948062db95d4911910ccef63630bfa676d1abbb810a12ccdccf16d4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05380a3806aaaca3f18706ae25cef4585138ede78755949335452c3a7afad017", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "0294afceff105bca5451442d6e481164dee29fbc81d480d473671cc756e32c11", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00f89221c7633f097e7874400a4e18b29843c0db9658b2c83ab6f12da3845d39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23773f73f105ce1f923931d1fd0210ff43cbe95d2ca1e26ba6f73dec98c9c40a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b2a2a6092020f5ed543cc5f0f1fde7c6fd20b032d1710d0e47858ef99d7cd4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a598ac984ce42ff1ece2357334072ee48702292e18ec2ca3f52778e8597048b5", "verdict": "consistent", "reason": "Tempering temperatures and Form V/fat-bloom claims checked against Wikipedia 'Cocoa butter' (form melting points) and 'Chocolate' (bloom safe to eat)."}
+{"prompt_hash": "fd8a7587c275a8872b3dc35ae7137035e0bae20813c3ae4cba16f530ae0aa1b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d4b04146b5b6ebb827438f037d010fa7b4418366de8e9753ffaa9cfeb4c406d", "verdict": "consistent", "reason": "Form V 33.8 C checked against Wikipedia 'Cocoa butter'."}
+{"prompt_hash": "7b134aaf6062bb25615c3444f570b3976946af74f30596b8eaf8e00639c63661", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3c1f1fbf28235a239143d451ed828b636fea91164fd19e5b9fe06ad0e5e6bcbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f53bf4ba08b65c902364cbebada2dff96f1fc266a467df7c64a80b0d06dd629c", "verdict": "consistent", "reason": "uncertain: narrator endorses ten-and-two hand position; current US guidance generally favours 9-and-3 because of airbags (could not fetch a source)."}
+{"prompt_hash": "dcbb2228fbe729bb718c871dc8e757b6ce00cca7ae64acc58d3d2e4f844ad5fa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9bf54cc197b2fd308635751f9ddd741ad9002585188431d396ec0f035bfd781", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5ca3638153c3456ead1f428293504b16921643dcace483ec5daf502e20f4f349", "verdict": "adds_false_claim", "reason": "The clerk says refusing a minor driver is 'the law' and the narrator says the voidability rule exists to protect the other party; minors' contracts are voidable, not illegal, and the rule protects the minor (Cornell LII 'infancy'). Age limits for rental drivers are company policy."}
+{"prompt_hash": "3f8f1fc3fcde3b8f9edd646e4dee1f8eeec8f202a7f7d1888a81b0d458a82683", "verdict": "consistent", "reason": "Six forms / Form V checked against Wikipedia 'Cocoa butter'."}
+{"prompt_hash": "bb0bf1dfa6b8408415c54fd6c61c6559db7ebeaba00e5bfd3f9b75cc34c1715e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a86e19a1a4572defc29ffd3f01aad8eb148663ca0027b71572ddac401f5cf31f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20be7b9ec7ae67df3f6f2c9e591c87ab9779ce3cdd9f355cb9c4d277e0ddae72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e91598f6c9666eac7e0fd143e5ff3f7cc3e0d3081419435fb5443fedd7a76245", "verdict": "consistent", "reason": "Case details (petitioner Texas, prior one-year sentence, 5-4) checked against Wikipedia 'Texas v. Johnson'."}
+{"prompt_hash": "9c2a2f72fa5e22b9517e70d0aef9d350372d91ee915b495765e1d97d7c2429e4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0137a27ef8da5b339e0a9717b2af6fc2dbfe2538321b56d337aefba0bbddb5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bd75b5f91902273e98e454b6662b26979b46149d2d13faf4e1320ea4e7e70db", "verdict": "adds_false_claim", "reason": "The protagonist reads the seasonal sawtooth as appearing before 1960 and fading for lack of stations; the seasonal cycle shows in the Mauna Loa record from 1958 on, and pre-1958 ice-core data is smooth (Wikipedia 'Keeling Curve')."}
+{"prompt_hash": "116dcc05249fcf57c614b052c2ee0f3a922e219771341c31e581c82f424bb130", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "67e7f6a6c8bb1c71c5332d0c26fc8343bff3f8ad5bdc575b96cc0941cf93500e", "verdict": "consistent", "reason": "uncertain: the instructor teaches ten-and-two hand position; current US guidance generally favours 9-and-3 because of airbags (could not fetch a source)."}
+{"prompt_hash": "7fa52563d439f852c1f1133c459c95be7c7e2b78e3416b52cfad08b4e6223e40", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ffc2668104bf53beb47c00f40e345a1a9d628734ac2da0024ef61f5c888fc889", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3b3b11e0fe5cd2bf6914bb2930cc2e5fccee5f0423fe3f1f2a32bcf727d5817", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44503ddb141a985ddb2a7b436dcd77b9cc7ce19baab8ee7e8d68a81c3eff6200", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ec07488d8cb248ced78ce63c2b11453f2d4fb573d4508a065c3fffde9b511d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c236a2f8de9c4f418eab83a20c7d6c56a8dedfda23653de6ca57b9eeca3af6f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f20b849981cc8a2cfc32dabe0684fbb01176024b003b1386334cfabf8704b10c", "verdict": "consistent", "reason": "uncertain: character's claim that restaurants poured bleach on discarded food before 1996 to avoid liability (not fetched)."}
+{"prompt_hash": "a1b34301f030a3f23885aa0fafadc7fd9654aa287ca4a793992afcfbf1bc115c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d0a50dd197f9c2b17bf567266f1a9491d8adb3fb9690d1cb1e0057769da760b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b8256ea4dea8bab54b8fb936c42103cfede9f22be5dac3aaca1ef1ba8eb4094", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ca5cdc92ecf0423236c31eeba1e8b7ade05172c4a4afaba310e05e1c1c6dff44", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1724677cf1017f16e8243e3e1c0f6424869df3df73b5104c6305be92837d573", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c031d95a4e59d105ac784c0ac17638de3c1d5caf862fe589e72a94b7540ddb3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "801eab063de848f1fbcc7f2343e70b4a7b231b1e8402012334fcebb1e5ef736b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8b299e3e6546acd4bf071f32c53dc48f575951e61cb3a73573fde40c8da69659", "verdict": "consistent", "reason": "uncertain: Flora's definition of phenotypic variation as environment-only (same seeds, different flowers) is incomplete but is a peer's past remark."}
+{"prompt_hash": "a095dcb3337d58071bff7f5974a08c3b2cc1119d5229049ffbc89e542f021672", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8bd8407b590a59e65c4b8bbc6c31513bf074d68285f5f970a7346643019cbc8d", "verdict": "consistent", "reason": ""}

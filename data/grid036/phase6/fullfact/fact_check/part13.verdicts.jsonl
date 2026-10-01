@@ -1,0 +1,40 @@
+{"prompt_hash": "e594e410343efa23b291ecddfe1bdd5c8784c46813f6d87c6c0593511ebde717", "verdict": "consistent", "reason": "checked: copyright.gov FAQ (protection automatic on fixation; registration voluntary)."}
+{"prompt_hash": "d3253043a9c954821f9dd550fd669eaf02a4f6ffbeffc7e35dc44b36d384cedd", "verdict": "consistent", "reason": "checked: Wikipedia 'Blood pressure' 2017 ACC/AHA table (normal <120/<80; elevated 120-129 and <80)."}
+{"prompt_hash": "821a6b082cd9244779fbde7e07054506a7785154a39823ca2bd77a4484ca59b0", "verdict": "consistent", "reason": "checked: Wikipedia 'Leopold von Ranke' (1824 preface, 'wie es eigentlich gewesen', declines judging past/instructing present)."}
+{"prompt_hash": "dbcdb560c638df730e7ecd0b3557fe42e45a9f3bd3ac0a7062c1dc2e23401457", "verdict": "adds_false_claim", "reason": "Story says the lone dissenter did not defend the suspension. Per Wikipedia 'Mahanoy Area School District v. B.L.', Justice Thomas's dissent argued the school could discipline her and would have ruled for the school."}
+{"prompt_hash": "e005fc5d619d7fb8f0d7d65f0e07d5c15469c5ad19ec7fa2c14d943cc79a6ba9", "verdict": "consistent", "reason": "Tinker (black armbands, Vietnam protest, students won) is standard textbook content; state-action point matches injected fact."}
+{"prompt_hash": "8f8613664917a319583d85bb76b15eb759ee5299ca606376ab92b43b8360e792", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17ae50b838aac4618704822681d3992665f6ad02d830b71f5086efd6d4efaee3", "verdict": "consistent", "reason": "Brunelleschi c.1420 per injected fact; '2025 ... six hundred years ago' is approximately right."}
+{"prompt_hash": "fed439ed244f879d40c9b2259d1f0e6942fdcec75463c0c6df41ff24b7489c72", "verdict": "consistent", "reason": "checked: Wikipedia 'Compound chocolate' (compound coatings need no tempering; real chocolate must be tempered for gloss)."}
+{"prompt_hash": "125ab0fa18d191f5e47ffe26522502d0552e96cb8df374399eedd5b658bb9701", "verdict": "consistent", "reason": "Development description matches injected fact; K. 333 first movement used only generically."}
+{"prompt_hash": "770aa1538957f3eb3e0b95495f985e555b13be4c54da6789a4679ce3f619158e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc7fcd77895436a8c5a84953bcdce7b1e58ae8455814ee71d1de71af5749bae4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4ee2e1928e3618229060228a6ded4839b44c20ae55c5f0f3ed889a49771f94e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "91fbe2cea3185a49fd084b174da8e7760f060e02854059015e6a278962629513", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25e5dacead65ed245fc9a78ae074eb450da1dd5a66e9da5c2e3e95d26b0ea690", "verdict": "consistent", "reason": "checked: Wikipedia 'Psychological safety' (Edmondson's 1990s team-learning work; belief that interpersonal risk-taking is safe)."}
+{"prompt_hash": "58cb4b4fdb254863a653ae2066b74fc17b44ade1234bcf6c0199eb24da05da5b", "verdict": "adds_false_claim", "reason": "The walk-up total is given as 678 'once he added only the internet and insurance and the smaller electric bill', but 600+60+18 is already 678, so no electric bill is counted. The corner unit's 703 also leaves out the heat and water the story says it doesn't include."}
+{"prompt_hash": "82d9bced31c91da052ca69aa161528573ae86b5a43c91d023ff532780ea66b85", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24e96ce6d6b61d65a86e93caa0a8a61ed180b89cc9f1b1592dc7036387a6a0ec", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f689a5957e5c4681937e13ca245171e6eeb03de65379e56f21d01b694b911d6", "verdict": "consistent", "reason": "checked: CDC HEADS UP 'Returning to sports' (graduated steps; if symptoms return, stop and restart at the previous step)."}
+{"prompt_hash": "924eb4922f3bdcba4816ff75893c3aaeaf196eb6eb40fbebc461c7af42f033c7", "verdict": "consistent", "reason": "checked: Wikipedia 'Danger zone (food safety)' (USDA 40-140 F, 2-hour limit); 1-hour-above-90 F rule matches the injected fact."}
+{"prompt_hash": "aa17a18cda7de6058e8e90b1d41dd1674061393c4f1af212b51e684ee4e643a2", "verdict": "consistent", "reason": "checked: Wikipedia 'Blood pressure' 2017 table (158/96 and 154/94 are stage 2: >=140 or >=90)."}
+{"prompt_hash": "d0b32b311bf78e863dbf64cd9cdbc9f3ea8a4ef7fd6e64dd48f7096a642198d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49cde106b92be0199c800eeeb08478798a3c4e0f1aec9e4384f578243da4473f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17ff482124bf4b76fde21e76515806455acdd205680c1637fbb0673f0b6b97ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "563a939234e27ebf14248277aa85934bbe0837e3a5f9b4e5e9fa3b4234f18ad8", "verdict": "consistent", "reason": "checked: Aron et al. 1997 abstract (stafforini.com PDF): more closeness after the question tasks than after small talk. The question wording quoted matches the published 36 questions."}
+{"prompt_hash": "9e6a71e724180f2a3894e8e246cc1cac718e26b7f0efb57fb8ae697a2765502d", "verdict": "adds_false_claim", "reason": "Story says 87 percent of 43 is 'thirty-seven and a half'. 0.87 x 43 = 37.41. The 87 percent 2021-22 ACGR itself is correct (checked: NCES Condition of Education)."}
+{"prompt_hash": "80647f29a6ddbd59bae9d6a4d37a5422a736e28e36a17d0057167620498f9d71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b39b4d0db1206c1e088e9d254358e0cc3d6b0eaa7164fc24e0765d03c1ac4feb", "verdict": "consistent", "reason": "checked: Wikipedia 'Homage to the Square' (over 1000 works, 1950-1976, three or four nested squares)."}
+{"prompt_hash": "442ca259f1abb0712fdc0d1ab1a1eb23cf6c517d7bc5210e96dc7cde1a801f5b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad0798670dcdbbd896cad98f2df077f8bdc7f5701ff7fc83c6dc8d07beadd2f0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1958d9240465daa997f65f34cd1a515d8149e4079b0fe1e4c512efcc8d5654ae", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81e9fc5427efde8da6f0b04d68d269e725f065c4a184fbc5c6a4dae03c5b74df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c75dd7264130cc8e011e8ebed9d9ffc78044cecd5eac2a1b2659a2648fe69cf6", "verdict": "consistent", "reason": "checked: Wikipedia 'Hot hand' (Miller and Sanjurjo found a sampling bias in GVT 1985 and significant streak-shooting evidence in the same 76ers data)."}
+{"prompt_hash": "1a79151840bba0ef0f96ba5b2a0c3bf69a505ef47fb5472adbb8f4444223b3ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76d23e79b7d0b508bff4811f6cada7ce0582317bcf08c1690bb0381f7c7da445", "verdict": "consistent", "reason": "checked: Wikipedia 'Hot hand' (GVT 1985; Miller and Sanjurjo 2018 bias and streak-shooting evidence)."}
+{"prompt_hash": "57c6b1f5db601a26dad10520671d83e3888d3b077071622aa5233544e60a1c89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00ae6a559f462de23920ad9ca678bd0fafb658175c238b9e56a1e32035e04fba", "verdict": "consistent", "reason": "checked: Wikipedia 'Video assistant referee' (2018 first World Cup with VAR; goals, penalties, direct reds, mistaken identity)."}
+{"prompt_hash": "9f73e5ea9e61f4f41bf720e6db1da4375583adfa6580293dbdd645a29726c01a", "verdict": "consistent", "reason": "checked: Wikipedia 'Metronome' (Winkel invented it in 1814; Maelzel used his ideas and patented it in 1815)."}
+{"prompt_hash": "047bf61c8ea44b49c4c3448c1d64173744c5490fac93495d3253351811968fdc", "verdict": "consistent", "reason": "checked: Wikipedia 'Instant replay' (CBS, Tony Verna, Army-Navy, December 7, 1963)."}
+{"prompt_hash": "0e1fae6665d0163464f1b074d29aa9147d9dbddaf3c0b2cee48ffb3356970b11", "verdict": "consistent", "reason": "Story conveys the lower boiling point at 5,000 ft and the longer cooking time but not the ~95 C figure. Checked: Wikipedia 'High-altitude cooking'."}
+{"prompt_hash": "4038fc977b963abf5e1e7069b08718e5729d2f2e8aa1c5e81f3eef2569047350", "verdict": "adds_false_claim", "reason": "Faith confirms E-flat major by counting 'three flats' in the key signature, and the signature is used to correct Jawad. A C minor movement has the same three-flat signature throughout, so it cannot show the modulation. E-flat second theme and C minor recap are correct (checked: Wikipedia 'Piano Sonata No. 14 (Mozart)')."}

@@ -1,0 +1,40 @@
+{"prompt_hash": "cd6fb8a81241b8379e7a5756d17c3e6c4d4809ba754c764e248a6424c51af21a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22c69f31dc470345fb01c75873c71e200becfd6a78c16f5fbae963319fc48a37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a3bb066f7949318ec5b19d5e3de4ce06e25c367e53182a9c32929f3c0cb51410", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8c80850dd5091c5c041fd4d4b61963f47b801c0c6f740b0e08cb545f7bb9c225", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d27ecdccc7f5e699574678f74a7876dcdfdccaf325cd555c3fa8cceeb7ff027", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ecbcc0c9f64ae41c930ed166fa61da849d7f6074c7484dda4b593df303b52e75", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cd75eda44afc9f880af71f78624fc718ed886ac80496a920eb4098e3947055f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a47af35831c5c4465561384062e06bf68d7e9c21e87cd214cad6155d4a422730", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ef9ab9bf04d462381e213a19b503bf3d882de222ecff9202022d2db3032f50d", "verdict": "adds_false_claim", "reason": "Riding arithmetic: gaming's per-riding counts of 6 and 5 out of 8 votes are more than half, so the claim that gaming never got half the votes in any riding is false."}
+{"prompt_hash": "96202f63990fa33630977fd96cb88dfeaea445648637a5fe9fa4e5c057035a41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "734de2a46c4e4ea14ba8729cb32b682ccacc5ba80abd566fa7834fbb0265ed13", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "20939f5b7d155bd5854d350a55eb422b1e42a92f341e00ad698e09c87ae25e71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "11a2bc017680cc711046c0e421346ebd8ff3c829f0d4c4f6f8d61c75be025fc4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c743a079c120fa203d2e8058b0bf61929f30869c7e234bf35eb8801004de80c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "75cc73e23f2168336cf22b3407f6a2eb9b8733c8f42f85483b68cd6fb09f1871", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "864e9284f80d513ff263b20ea1b15eb97666e94d1938bf5e1e06bda9bf5fa4d6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "99244efb3577bd726611d904a8097b80dbede7fbdc428b3fc8c742d3616e782b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c0bac8f0898c9724926ab6dec0c8356616a07bed4224d4b255fbf953f3f3c085", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1252901be9766c44f151388585211ed5dae820514b30ec3ab8c06c4da6319a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03950ea65e70c500a5daefbaa5db8ff3ce67a8d6a404cd74613bbfa37eda54ab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "532bd0ac274d8e7aec149c2460550e213e9050565232b7503242a64b40c2b516", "verdict": "adds_false_claim", "reason": "A trusted player says the twelve-bar form has four bars on each chord; the standard layout is I-I-I-I, IV-IV-I-I, V-IV-I-V (source: Wikipedia 'Twelve-bar blues')."}
+{"prompt_hash": "c894bcf3f96bc719047227d22774c3d7f61136239e162202a9bea8f2cbe60b34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9ec4bdff95414d06071b8ea158fea9340f04645fee7a9b49ce581138db4cbda", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2005528e89abff781a75016374d52ed1a3ea62860ac7f062e74dd34d69bf873f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a11b1e9055ad93efefcbdcd883b6f6f42980305e490414176cb6900271d4ba3", "verdict": "adds_false_claim", "reason": "A loop that tests divisors from 2 up to and including the input would label every number (7, 13, 41 too) not prime, but the story says only 2 came out wrong."}
+{"prompt_hash": "734028f450d9de93ea7c5ae420a74079a68be18ed39e57632be48df6353c6421", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a62ee163f442e382a1b88ef8d305f8c811d96cf158e844b82e7ea16c80cb2986", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "07c325a4323d0bb62d037d75270bdd80c14ee0e06de44271313e6c7b4149e340", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4b4143087f50dfd9644fdacdb21229bc637997d560e97a002105a2fc5fa1af3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df0f5202ea92ef055a8d13c44fc062df4e8807b094e609b13b1785047c6065cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9735b836b4520166ce0f2f4f6f36f605ddfdf7dc4a32f25addb7b3b5ad31a926", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7a486887fd75aac2c31a62b8ac0e1a2970d8bed98b1ec49578a4f97835ad3e39", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f4c78647ce919090b994b59c1eb4007188dc4c7d295fe9efee45d7ee42e7b53e", "verdict": "adds_false_claim", "reason": "Litmus paper only tells acid from base and cannot rank strength; the story uses litmus shades to call cups strong or weak acids/bases (source: Wikipedia 'Litmus')."}
+{"prompt_hash": "b3da720cb0369766ecb5ead8263d455811eb7893e8cf2cfd1caa5a3ac776122e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9430a185eea89828afb4ab4a2f3ce86b847d83a8236e51e79584207ad9c55862", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f03b3858d6d9990062c409738af7cf1a3d16b14c517e8925151a6b039b5e8c8d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4cb05d997527d33bb44cfe5a47d4e42b344f485df4ef919a664fabcf0a29728e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24a58591e1bd70cf467d926dbb2ae2ef310fcb2f0dd7d442244c92a4794311d1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e9ac2f31242eeab15c01d731e6a896c2dd0ab9840d0233cd6a34cb78c52edf3a", "verdict": "consistent", "reason": "uncertain: the graph is described with distance on the horizontal axis and time on the vertical; the usual convention puts time on the horizontal axis."}
+{"prompt_hash": "7cded62f1b04ddc91cc02f6479a133a4e8f7813d6013412ce104496e776614c6", "verdict": "consistent", "reason": ""}

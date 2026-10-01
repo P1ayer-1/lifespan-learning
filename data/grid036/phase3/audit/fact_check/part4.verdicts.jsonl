@@ -1,0 +1,40 @@
+{"prompt_hash": "092dd07bf207ac141c05d41fe3aa844a73dda9beeb23488eae615b9ba16bfc65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "050e55adbeba0ca84e05172647b7290bbf12dc8baba9a7e41cf108159b288791", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "800ecde9d932e16af43cfaa412538c753717e8055cca0c58d07fef0499d5ebc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3962248562cd5fb84667fe03a6f5fd7d4ac05a66ba3f4ccb29e9be259c79912", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "50a094785f12ffeb3252aaa90377dc641f610f16ebe26148b91906232b0ac4b9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df6bcad15e091750732e4038ef1cba53332f7ee48fc29b0b0fc204924be4f070", "verdict": "adds_false_claim", "reason": "\"You owe Cabin Four eleven cookies.\" The shortfalls shown (20 due vs 16, 17, 15 received) total 12, not 11, before even counting Saturday."}
+{"prompt_hash": "345f2c7ac0250c0d9c0069e934991f2977f4fd8f9f3e3b5913bc966db0cf5030", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9bdc05d044aed9d3a1c1eacaad928f3ac404bd2c582d935737a299910fc36969", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a6323261ff286553d3c23bd33c8f805dd5b6349a2db280e69c8042811b38f067", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0cc75c70faebc1feedaa01d9b2281c989758262db06e2e9ccb4ea81f14623a7a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37267fdeed81f9ca03f5ad95510c49eb46d368672b2ac6db2afda47f3763471c", "verdict": "adds_false_claim", "reason": "\"the treaty also made German civilians pay reparations, money taken from ordinary people, not just the government.\" Versailles imposed reparations on the German state, not on civilians directly (fetched https://en.wikipedia.org/wiki/World_War_I_reparations)."}
+{"prompt_hash": "622890550c73d3350ead088321a6153e5e469d0da14b642bcf94cc1dfd3826d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f608081e0ddc77767568842130fc1a80cd9c8255ab7b2e8a01ee0b398af6852", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02b7b19eb6d527e59715cb04795a07494a5a1e35dfde18d4d6b8e604747bb62e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0380d4034009eaa491561e4ccb901ddf899a95c11234cf7bd2cf4a2574af825e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b2c2eab2adb964aa2e80b280febf914196bae33a16df2b7194618dbbc0287583", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85c96c6762bdab3c7734015b2299d93577fe92d12a38f661e14ab1ffce46dfc5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aa0f39424ecba70b81a3ebf51be43f81b7d3a4222ac1569a1addb248b0fe79f0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7d09709a03751c249315a2f394dccbdda1283abcc5436290de16e34ef560c27b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29aa588ac86d2aab2f5da10c8159d7b42039ca295463c978910a2e4ab9cc2290", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ebd955f210ab88ba96f4ccb27d68edff91ed7475ada53b2f706c5939008b24f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9bb61db38e62f6df5be536021e22c30bb534b35ea09b4b0990bb425e892eb5d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcda878abd3e6a227c46ebdd04265e7ab82ed58a30b755f04a924502ac37a2a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5768f33152fdc9bbe4f3ccd725bb0f4c63d50732b0b747ff01400775e83ad289", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bc4ca1fed7ef1e756a5f28f062880e9d7520ecea36240209febabd85eb69c298", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "554e3ab9607130a465f4da4cf875f2d691ba5966afc7dd8772efce59ba38a040", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "53e77a33aca481ef1aee2193914a2a645403a0747de2ee6d15bda0c5f1b15bc0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d6242f8ed8ec0579825630d42adedc1a1ae5eec8d32bd1f3cac05a0731f93b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c07c6924383e7c15ef6c3a05975bee142b386925881b701cee83eddb3a00ca3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5df43c1855e401c4630bd7aa808532c75fb30c7332ac8ad59997f55fc7e65a37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f40761c70436ae97244ab40b1957a5f4016e5d68c3b4e53ae3cd1392ece0d1f", "verdict": "adds_false_claim", "reason": "\"both columns climbed to ninety.\" Lili-Rose's listed games (100,100,60,100,100,55,100,100,100,55) average 87, not 90; only Hana's average 90."}
+{"prompt_hash": "4b0749584792826b781f3b6a83e7a67ca9f4b7b3e73bc3a5d5ace582704c1149", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2a91f2c46f1b7fd94ff4a9bbf11b4aca9592a71ab674ce69dd04e65c5934883", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b1868941ee14acd1aae7cf16305c6c2dfdd68a23ce7a5c47b80ec6fa5200dbd9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b9a3048b0ec591c7e044d38d769ce6fcac837f32a48e85549885942b33c768b3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "724cb5663a457ff8e71937cb79a396b5a2c67828eb4eb0dccedf6916499abaa5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2f1c26e4d71c36a8dae3e81f0a3f2d683265067a8fb00b9d911bcd83710b20cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "93766ea5c1f870c3c67ab71e096a4b58306381bc3715fec1810a64e7f6fddf16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee0bcc0e6942ebf235e62a3904be617309ec8ea462d67e7b3afdda806944aff8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e248d12a634486ff61faf27498a132a1f0babaf99fb157b108444bb10049e718", "verdict": "consistent", "reason": ""}

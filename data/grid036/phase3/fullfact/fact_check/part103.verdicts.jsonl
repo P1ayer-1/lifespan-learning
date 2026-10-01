@@ -1,0 +1,40 @@
+{"prompt_hash": "3b9bbef85f3caa04e4f91970a4574c65361c15dfac3af2aec6abf9e808fb6fc7", "verdict": "adds_false_claim", "reason": "Eve's model future-tense sentence 'El año que visitaré...' drops 'viene' and is ungrammatical Spanish; it should read 'El año que viene visitaré...'."}
+{"prompt_hash": "e3991a7e2274212a50251889d2550e84a42851b6a993d3d37363c3e24075dd67", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7acd69c5b412a538666b29eafe676164ae6b008df6420b018d8bfe0a1e36dd8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc0f5c3f897b61acb5470feb10f3b7a514a8f9a1169765dfe6f6db9dbbdbf4a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21c916556ae6337bbf7d08032671e33f611ab1e450641fb285a68b86fe1ab758", "verdict": "consistent", "reason": "Honey-for-infants claims backed by CDC botulism prevention page (cdc.gov/botulism/prevention)."}
+{"prompt_hash": "a16a188f2d176049880c1e763da0b7a6959819578d9b39e0934ed15864fd3a7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f5bf5a388866bd2e2e359176c825b7c964732d68db10e1f282869816db4af37", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51962318eab715aff98d685da3f1e5e189aa872a1a8739f1d9ac580431374477", "verdict": "fact_missing", "reason": "The story never mentions adrenaline or blood being pulled away from the stomach; it only says nerves somehow speed the heart and upset the stomach."}
+{"prompt_hash": "5e388ed7987995bf6b9bebcea24c1d4d428f0079c19e1461091a704bea1a991b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf4119608a51367a71e68a77746ccc9f477ba8fdedc978828d54c7adf16e0a08", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "30a7190a06b9f8f73cc99eab840a006c3dab9d164ce6f2e6868a3ba00fd785ae", "verdict": "adds_false_claim", "reason": "The story says 'mice' has a short i, unlike 'nice'. Both have the same long i sound."}
+{"prompt_hash": "ec83d16c14cf9e65858e33374908239db5e29e88636b26444cb9d62a5ca2ad71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b08dceaaa4283b01c590fc9576a2b1c3d4c0922e25501bce322f8786f8d4c65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "034e82b7ed8c794c051f96ac12e52663bc73885bb45575102c78e86f185a839e", "verdict": "consistent", "reason": "Scripps 2019 co-champions is the injected fact; the spelling words shown are spelled correctly."}
+{"prompt_hash": "439e10c9affb1be2f86c85e318d82c6b634e3444bca8b200e2a3e5fca79d9327", "verdict": "consistent", "reason": "Sodium is Z=11, in period 3, with a 2,8,1 shell arrangement (standard textbook)."}
+{"prompt_hash": "5ce6bcc221cffd7929cd7a2c5076299fb6f8d106806cea8853a116ad104c774e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41b25096e8e3dca29609cb6c39d0fb0f2377260ca758abc52c1f218d06d07ec1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8e2c45590c8e4c4edd6464b003143e70a8c713f86b498a56e8408714cb1bce04", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3fecc144b558a1f576247b2cc827c7584150229502efaff7c33543e49122f6bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5573f5732a5d66a3a3d1a27e2393aa351a4d72368d975ed8ca58a581d3a1d09f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e58f8820d45af7099b52f0ae7d4d784264b70b426c4992e7fffe5f33a2b854a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b4fb89ce3850215a8d525d92b9d60b040a3887540e8ec72e57b9a6905720915e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e0387ff8dfb157cc21f703b94e27ad66fd0fcdadd78d0f3df0f3fde00b95578d", "verdict": "adds_false_claim", "reason": "The story reads a pH of 9 to 10 off a litmus strip by matching chart colours. Litmus only shows acid or base; a pH number needs universal indicator or a pH meter."}
+{"prompt_hash": "fb25a3b90c3b797c598025d01efebfd43478976e05984ccd5982ae529d31535f", "verdict": "adds_false_claim", "reason": "The story treats a 3-year-old searching for her own moved marble as the Sally-Anne result. The 1985 test asks a child to predict where another character (Sally) will look (Wikipedia: Sally-Anne test). The injected fact itself is stated correctly."}
+{"prompt_hash": "ade3e981412a83fe471b6863e659ab74d1d9b203bef0fe13eb27dc9a42fd50cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "16505544a5b43f719ecdc32236daa607397764a2f19733f7f18d81c6b2b4b095", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "abddb2ae63e36a44152ef8f92fdf595bda6aeeee84999a3370525c65f727f210", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "24cbe1909c8c0ccec1268ff4089cd6d6161b145e67b585c7a34eed6bb1cb4367", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7051ad1268e65e268f93702c80fd593671d618f0663c917512d3fa19c3da21c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9fda2be1baabeca6ad4cb2ccf35b53ca9e0744426a6f217d8d2169c48ad36c86", "verdict": "consistent", "reason": "Peach baskets with bottoms, and balls retrieved or poked out, backed by Wikipedia: Basketball."}
+{"prompt_hash": "d268253b0f712d33c70732394e1420cd493750ed3908621b1c46216077dbe90f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac0566e7b7949db5c833a5c5ee96788a615615b2000c3649d201a1996ad6b2aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c9ff7060a02c9bdf2e6e47fa86abcb1e68464f93314e0e77170c869ab3bfb4a5", "verdict": "contradicts_fact", "reason": "Rose softens dried, hardened paint on brushes with warm soapy water and saves them. Dried acrylic is water-resistant and does not wash out, which is why brushes must be washed before the paint dries."}
+{"prompt_hash": "673a341ecda1d2404aecef20d1a237de8206bcefd1db0d4b743967f4342096e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b6dcf1d3ab23b8e8e0c8247c4ae0d6bea73bbae1c6c4f26ddf072b60191bc016", "verdict": "adds_false_claim", "reason": "Felix says the standards date back 'two thousand and twenty-four years' and the waterfront director agrees. 1910 to 2024 is 114 years."}
+{"prompt_hash": "9b73ccc8722966f5b7050b4b992aef1871a09ad0f55f80efe65d4acfdd9caecb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "65faafff44c1851395aec7c2239d3f86e0fcc48d2c53ec196cb97ed53d28922d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ce834ab1c2b02e0e3444e3f786d699fa1cdbc971a38f7c283435ecae6e99ec79", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2329399e6d0b4a1c8f07aa8e785b4964a65719f6e9031484a11be3a2a79d66b4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e3d137d2b9c7df9cd491641c37cb4e26269545ede1f696ca54973839dadacc5d", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "359cbfebb07db2e58dfdd95392b2717e56cafbde9214bdbc689a6870f2423140", "verdict": "consistent", "reason": "FTC influencer disclosure checked: ftc.gov Disclosures 101 for Social Media Influencers."}
+{"prompt_hash": "251a879eb416878a36b7db92f9f9764e2e7dc6b0bf03abf0710e3a3cde2e158a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d62f0a66e80fc2480638e8382543efcddf737d2af31bb43a58b7a5f27ceaa3e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0aee3f2e33dfb7386260178a893ecd78bba25f0d69542c201a56bf4534dd8dc7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5e8f1ead5e9ff5802b0bc4463e58673712e594877da7f9d7c2ea7f3942951f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ea0f7c32dd607252c6f404a9860c06a069343d1e11fe6f390a837d440720f3a7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7439e91dad073da29c8acc7e2fdf3205cd0170bd3ac8644451ce42d8436c06ac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dcb5ee6c577bd4d1ea968342482c2ef09ce0cb0187a7d6e5a187473e690b2958", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "02f0de86b31211a22875fa7dbdaa008b5b50c0f83d54faf37913cf811c3cbff9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d0817807c5f233f0bd703af5490753ccaa405cf5c388d7285c293acd2951151", "verdict": "adds_false_claim", "reason": "The Kwan-family name tag is offered as proof of family-name-first order, but it puts the surname Kwan last (and the roll call treats Kwan as the surname). The example contradicts the rule it is meant to show. The Hungarian/East Asian order itself is correct (Wikipedia: Hungarian names)."}
+{"prompt_hash": "a20b92df490c73a9b73649e54250e6db31a99bf41bcc6f7fdd4fbee334b17f27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "75afb33f2fdf2f0cf9845d563e7a50eaad8d27551d4b137f374a4dee31b16341", "verdict": "adds_false_claim", "reason": "The story reads exact pH values (7, 8-9, about 10) off litmus paper using a colour chart. Litmus only shows acid vs base (neutral litmus is purple), so pH numbers need universal indicator or pH paper (Wikipedia: Litmus). The baking soda pH fact is stated correctly."}
+{"prompt_hash": "50964ace91eb92674b801c89f1589c2ba4603924d4a74934f0aa20c36cb12c9b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b91e1ac1153380de530f5e3e8c8d7860ba60cfeee21219a24ed44b2da500759f", "verdict": "consistent", "reason": "Robert Brown, Scottish, described the nucleus in 1831 (Wikipedia: Robert Brown (botanist, born 1773))."}
+{"prompt_hash": "14a2e35d73ecbaa4acf147872e6c337eac0a05284474ef9b610cb933c02a1956", "verdict": "consistent", "reason": "Diaspora means 'scattering' in Greek (Wikipedia: Diaspora)."}
+{"prompt_hash": "e852c1aaec0be00bd99d7bcca6726b34a2c701ed3b14b3b4ce9207613fab54cd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a14b646bc49a365cb0df5b15f03484575b51883d6a6d2dbe97a1c62188634041", "verdict": "adds_false_claim", "reason": "The narrator and a friend say the desert flowers bloom or open only when a bee finds them. Flowers bloom on their own schedule, and bees visit flowers that are already open. The avoidance fact is conveyed correctly."}
+{"prompt_hash": "6465c19767e9227fc3085179b26154c59c6685735badc31837de3b302bea80b1", "verdict": "consistent", "reason": "Patel et al. 2009, Current Biology: a sulphur-crested cockatoo adjusts its tempo (Europe PMC record for PMID 19409790)."}
+{"prompt_hash": "7532bfd46aef056ffce17e197e1ac0963fc405c7845329064ead26bf9d98dac7", "verdict": "adds_false_claim", "reason": "The story says an extra digit typed after 15 made the total exactly forty dollars too big. Any 150-159 entry inflates the total by 135-144, not 40."}
+{"prompt_hash": "3131e6971cd113b7f4b040283adc448b9524886fdfcd93404f2b1a97dbec6324", "verdict": "consistent", "reason": "Distal radius fractures are the most common fracture in children (Wikipedia: Distal radius fracture)."}
+{"prompt_hash": "a07a7822a1ac502c5f09572a58cfd854d9c8841e6e348d49726a273ad38a8d99", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56f87e1426548707834f20e9434cbce1cb8bc4381d2a36458733cd298eacdbca", "verdict": "consistent", "reason": "Continuing Bonds (1996, Klass, Silverman and Nickman) checked on Wikipedia: Continuing bonds."}
+{"prompt_hash": "c778ffd70c6d371d48dca67a8b42023e255cb3c84ceecec765c3a4ee1bc71827", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a11062b4aa92de7203adc8df21fc147c925d511218ddd6d464c6836780c6b97", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a119e9923f9cdbc0cc53006a16c693b9993da65948afcd166c6635b62b8f7eb", "verdict": "consistent", "reason": "Gleaning for food banks checked on Wikipedia: Gleaning."}
+{"prompt_hash": "509938fa80fed36ddec311c97881a9d94089b4b4894c459c3014809a08762290", "verdict": "consistent", "reason": "Redi's 1668 jar and gauze experiment checked on Wikipedia: Francesco Redi."}
+{"prompt_hash": "a9ab9ad543e81fdc3359b5dd5b075dad46d433d8473f3a89c6ba838640d7dd17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c555cd10cae2de90700292bdc660058b65806609b66897bf3e4b0b8faae8beb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4de3afa516a6eb9950f95a6e514a56ff04f2fec5209a9302edc5914eb4339222", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad850d39fb76c67f99e14bee6cd4cbc644c813b20ea8bd62e0febe0c5af7ef90", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8fc1e03e7071994b6889b62982b94f105a99603d1c8be3b996dc113c9d88a149", "verdict": "consistent", "reason": "Martin Cooper, Motorola, NYC, April 3, 1973 (Wikipedia: Martin Cooper (inventor))."}
+{"prompt_hash": "945b47996841cd82ae982867bd18726c0f7577d3436c0031b1166cb2677efde1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4f699534327612090d134ab6855f709c9f7ea122f2e7305f0d45b81c9ef1464", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2960a981f31f41694a7e051a6240592640a90869a7a65217875274b4830e3625", "verdict": "adds_false_claim", "reason": "The story explains the dents by saying the same cup has been handed on every spring since 1893. The Cup awarded today is a 1963 Presentation Cup replica, and the original bowl was retired in 1970 (Wikipedia: Stanley Cup). The injected fact is stated correctly."}
+{"prompt_hash": "9d11a4a30a54534b3d19d93cc36e6823e94127d4cbaf0caed79d0ba6aea97973", "verdict": "consistent", "reason": "Glow sticks: warm is brighter but shorter, cold is dimmer but longer (Wikipedia: Glow stick)."}
+{"prompt_hash": "5766f9139b105cd5b13d4ff15eb7383fc61786b75c2c81c29b23875103acde34", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a0729ee857f274c9bec1c675b333a4f5b52f0f8e2d1aa2b049c5a924987a42a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0fe773c94e4da463e3ff1a4e472f05ab927229cd7612f271a40e19af8e27844c", "verdict": "consistent", "reason": "Edmonton Gleaners Association chartered in 1981 as Canada's first food bank (edmontonsfoodbank.com history page)."}
+{"prompt_hash": "bf9fa9cf4eae787bc82ca4a5e4945af8be5133c61591fbc78a262fdde35efdb8", "verdict": "adds_false_claim", "reason": "The story says the axis starting at 135 makes Room 9's bar three times taller. With 149 and 143 the visible bars are 14 and 8 units, about 1.75 times. The truncated-axis fact itself is shown correctly."}
+{"prompt_hash": "6fdaeeb0d426ad694a54b7f3c5a451db39e9a800fe6f6f05c59abce80f783d31", "verdict": "consistent", "reason": "Shiva means seven, a seven-day mourning period after burial (Wikipedia: Shiva (Judaism))."}

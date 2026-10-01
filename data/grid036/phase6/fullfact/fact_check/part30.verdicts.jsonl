@@ -1,0 +1,40 @@
+{"prompt_hash": "e5be557c1bbe5f0e2900aa9f343a1ff6f9cb87b4704e7141ce464f8413a33cc0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c632efbc67aa04bfc5834dd677603e24a577018bf032a16d10adc673eeb63332", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "be84b2ab5bc3587aa2f8c68c1161a294ff5ee891c33f40d08fc20a73842db6ed", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution (ratified 1971 in just over three months, fastest; draft-age argument)"}
+{"prompt_hash": "e4a0ef4659149bd0ec4b8b78605708f9c29f1e95f3897044f0fa2fcce71d12d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9a02038979d6a6a9cdb6ffcaa0fe232663eedf5d30d5fa6a66918d80d7a89e65", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/The_Old_Regime_and_the_Revolution (1856; continuity of centralization)"}
+{"prompt_hash": "c85686175b5132b7bea49917559ea59a30dd636f25a063cf7f122d37de31689d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9369f09607dd2556748355a420b112394f5b90c7e31ef7c51ac8d3d60ea902ed", "verdict": "consistent", "reason": "checked: consumerfinance.gov ask-cfpb PMI pages (protects lender, required under 20% down; removal on request at 80% LTV)"}
+{"prompt_hash": "cc6dd075645a7362ada4a405c94d2e4551cfab857746fd0f107fcd32d1102b4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "71f092efcfc9e3fb9d6e3f9419b229ee3f2a902b42661bdb9cf4303351a8cc27", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cdddd6cda36744748d077dec2f52143cd1fa8448c773774fa818d80d0ef35bab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "66d81a14f5fc594e945d36db2c1d49e9005a6e8778b3444eb95fb620e6875987", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Pomp_and_Circumstance_Marches (Othello 3.3, Othello's farewell listing what he loses)"}
+{"prompt_hash": "d61eed5b2fce5bde1e2d159cd9cea3e2ab3839babfde2d71257f92fe157ff2df", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "505b1e24804004fa828a52c378e8a9760dd5a4cf487f51cc04640ceb9bda6737", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab20e30e55145cc732f3bb6b0c09e22604234671b7c25809a47aac3be0eb0091", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Telecommunications_Act_of_1996 (cap eliminated; owners fell while stations rose)"}
+{"prompt_hash": "caeb8017026d35945737a52e024aabd11173700e0b4a837ac05156633a8c0b81", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "643274604e136b2db87126da036349410f74c353b965834d02d4f19f2797492f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Tinker_v._Des_Moines_Independent_Community_School_District (7-2, 1969, two dissents by Black and Harlan)"}
+{"prompt_hash": "72bfeab4ff65676b917c595cf9d668be2e803eb18d86612f196e459c54f85e5e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8cc5a6ac781af3c10bfcfa84a0b002c4e6d47ddc80497168df3a40518837aec5", "verdict": "adds_false_claim", "reason": "The story has the recapitulation of Mozart's K.457 first movement bring the second theme back in C major. It returns in C minor (en.wikipedia.org/wiki/Piano_Sonata_No._14_(Mozart))."}
+{"prompt_hash": "4585c5e852fb5496a733479b92380c37813f396d48931ce061a9afd79768b8d0", "verdict": "adds_false_claim", "reason": "The arithmetic is wrong. 3 percent of 58 is about 1.7 points, giving roughly 56.3 to 59.7 (not 56.5 to 59.5), and that is about 1.7 times, not 'nearly three times', more precise. Also, a 400-person poll has a margin near 4.8 points, not 3 (en.wikipedia.org/wiki/Margin_of_error)."}
+{"prompt_hash": "29550d572cf1027e47509fc1c7bccf8388ba786b417d52568b756940321f0cc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dfb464de6627a73a9f18588870bb20c3771b400f1fbb0f30077cd853374206af", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Syn-Propanethial-S-oxide (cell damage releases alliinase/LFS; vapor causes tearing)"}
+{"prompt_hash": "7c9b9588b01824c17afc164c1b3e1a149cc598e9d1b3151c258479574c5162b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2c594eeee37c6619b6c5494d72763ce1ce994f7e6dfabe53e2c9c70ae2eaf60", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Mere-exposure_effect (Zajonc 1968; applies to faces/people)"}
+{"prompt_hash": "abb07022a7710e854d6444da99b238e70c84128141669f7438513d6456a89a18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "60946f9d7a7b8a54278e052cdd0f4e5d6b1f7fa1411db80f80c65757a7af5817", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5039e38fc281ee79c9da4a1d94bd0bcf137e46bf9934e0b96de9b37d1644ef7f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4a9393fdfe2ef2220b6f2cea806e858a90dc0b777404e7377933ba962d68f5de", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "44fb21d44dd1c0fd3d28f3a11946ff7f9513a272e1a5b9652cae0e0f0f52e4b7", "verdict": "adds_false_claim", "reason": "The story calls buying lemons at a cheaper market 'comparative advantage'. That is a price difference; comparative advantage is about specializing by lower opportunity cost in production (en.wikipedia.org/wiki/Comparative_advantage). The per-trip versus per-bag comparison is also muddled."}
+{"prompt_hash": "29705b17cac687b3aa82a0b314029c658e370d38f1ebfd20af86aaf1b2fca945", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2369856ac38833802dd081852b8ed0e171b3f5d66faf28cc526f95e41bd8fe4", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Keeling_Curve (400 ppm daily mean May 9, 2013; seasonal sawtooth)"}
+{"prompt_hash": "a09af1aadd0d664a9fd2dc84b67ea76efdd4c372ea8655cd2b1b6a530e93282b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Gone_Girl_(novel) (alternating Nick/Amy; fabricated diary)"}
+{"prompt_hash": "8742a275be31d9cf8e7a7202c903f1d5a06372428755012399d9fadea9beeded", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"}
+{"prompt_hash": "e1cdee72372b52fe1c8ac70a9b58466917606393421051d92290d9f6b9dd7892", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9024ffa8643f57b2890d4b7f6cca76fcaaf6eece43e80bca56d217ec34063c54", "verdict": "adds_false_claim", "reason": "The story scales A4 to A3 at 200 percent and the drawing fills the page exactly. A3 has twice the area of A4, so the linear enlargement is about 141 percent; at 200 percent the drawing would be cropped (en.wikipedia.org/wiki/Paper_size)."}
+{"prompt_hash": "bfd46e83226d4ac75052ec7dd707da87f81390ff57637d05eecadf714fe8015e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c0b846ef7716bf968f70003968e3a892a632489d0fec1d76cebcebdb9fe0885", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f2a224820c23e8dfff50fdf7b42a20001f1ee7ee5a296f48ecc56a096156edca", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29484d1ac49b56f8aa9f4a8edb54c397f306a2866527c986ebbbd4d767298685", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Primary_triad (I, IV, V; C, F, G in C major)"}
+{"prompt_hash": "7f5511d212ce0dcc90a3278e923511a2289ae6b794662766ec75036d384e69e3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "481e3cfa33c23b95895c8deae28c43009512b79407ba4536b83d3c1284cf8522", "verdict": "consistent", "reason": ""}

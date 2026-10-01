@@ -1,0 +1,40 @@
+{"prompt_hash": "7c1264bc5373f2bb1d2d7fee0a89103bbefd1ddb968f40535b2a5f95aecc90dd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1aa6573821c215b0331e599cf60ca42322d53cd5e5c365b9a93b4569d8015c05", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2352b99319125f78c97aa22501e2339145f4209ba9fee41c27612662dac0ffb2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59177e072da0ff43d6816bfb03b21f0a3f7b6a9c948ec983602f2dbc6bca9eb1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "57e14092880ecbe969fe030b390a0c7581270094129eb7eb5b70645bbc3d0ab5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "87735a473a8db11d0d6328b5f94d2f26796eab56f17a98d86ecc1e71e99d87e9", "verdict": "consistent", "reason": "uncertain: Monet is placed at a 'hotel window'; Wikipedia 'Rouen Cathedral (Monet series)' (fetched) says only that he rented spaces across the street from the cathedral."}
+{"prompt_hash": "744a3e5a4060c5f97647b6a8e662f91cf309ad33d18d1cba8c9d058248f2784c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "127abedf64e1100e494a441f8ca0be7a16503b13105244739e3ecaeb4e462c28", "verdict": "consistent", "reason": "Verse wording matches ESV/NRSVUE Deut 22:8 (BibleGateway, fetched); extension to other hazards per Mishneh Torah, Murderer 11:4 (Sefaria, fetched)."}
+{"prompt_hash": "fb95d45b553e16bb11a07cd1516d24d2526f62a5323b4b46dcf5469b69f348f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2c242faa8783cca9dfb99ab020754db53b16fe6fc7055d4d0eb9ff917e141eb4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1b7d31143b140202e82e2268f3a9bc1fa1fef08ab537fd29e3dcd136cfde8177", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2a0b89f16b0f2df98c32b8419ed37fe393f8b8022dabc330767a6eaf8893c971", "verdict": "adds_false_claim", "reason": "The story says Rochester interviews Jane before hiring her and pays her fifteen pounds a year, and calls him a magistrate. In Jane Eyre, Mrs Fairfax hires Jane through an advertisement at £30 a year (£15 was her Lowood pay), and the magistrate is Mr Eshton (Gutenberg text #1260)."}
+{"prompt_hash": "1cca36aa846f426daa5a28830dfad6e0151a2f937295ce89ab1cbfff86369082", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ccf0f80e16246717c4583195e688180c563be4ba26b6a0f419f8bba1f02d94bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5fc0d2fdcc7a92ed84eca71c5d41be8a58de0aa3c8a43529b0f8b715901f43e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "03c39b852bf50763297f06bf6cb84fcdb03e1f7db14ed4a97a5e47ded3db2cc1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2b1a8b544a188569db8ef81d0e4a5c9ebefaa99590df2de10c07b4bd16031a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77be68257f9b10b9482b41fb9d46044a405048a74e3ca7ef1512e9f2f102a057", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fc4f709378ab041f61da30ab748e66bcf580d1f899378136a3a1a1766440ca46", "verdict": "consistent", "reason": "uncertain: a peer says the 'slides came in late' line is Gordon's own example 'more or less'; it is probably an illustration, not Gordon's wording."}
+{"prompt_hash": "78a048a87347a98a95073a11e829de0b6dcb0e078d9519269b2a8ca3cea096a4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61004a0f113ca403e4791ad0743213a8ad0b7305f6d08b869c4e884e35c9b3db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "171dd257ca75971c3da0424934a6494357816cb511dc0c1ca0477bde75290d0e", "verdict": "adds_false_claim", "reason": "A trusted teacher defines an asymptote as a line a curve approaches but never touches. Graphs can cross asymptotes, for example a horizontal one (Wikipedia 'Asymptote', fetched)."}
+{"prompt_hash": "bd463fc1749695542489cf0c223ce17add48e9f6146f2a2bf1ba9775548f8fbc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a335fd45eee10a30394777ae52042a90473ec1667a9d39dc42c3b479b4ca315b", "verdict": "adds_false_claim", "reason": "The story says a 'constructor' declared with void runs and leaves the fields null/0, and deleting void fixes it. A void method named Student is not a constructor. Calling new Student(args) would then be a compile error, not null output (JLS 8.8, fetched)."}
+{"prompt_hash": "e27423d1a1ec44d4dba04e1695c2b3631565f0aa76573f72c4dc60529b484881", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "194df0c41645bbff68bd36a75cb9d7b4113e90701eae28a55b6e10e387f861ec", "verdict": "consistent", "reason": "uncertain: the narrator applies the one-hour rule because the meat read 91F while the air read 88F. CDC food-safety prevention page (fetched) ties the 90F threshold to the surrounding temperature. The food sat 4 hours, so discarding it is correct either way."}
+{"prompt_hash": "c38286d2c3f0523573e675e2a233a81f65796c4963dcb9cedc75da929ac38ca8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9516576d5cba1ff13969fca85e2d50e2a6e2003b0b5a46533ac931d3a4d5d6b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd13ee61110d90752e461ff99b18638170dfec3ff38e1e08c4ce2b6f81880efd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "047ba21af7f128d3c04bcbe7872d6a16031a55acd456ae4b5432541ee078b9db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ab927db8829ab5707b9362a4abe43473ad0f5e3f91a85b74dcc665ae3554c96", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "baf378060e8368a82a31114bd714fe09df6d55162ecb076e636bb982c0d92a48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "22a50faad27282bb4feca68ec264871d27915e9e1bece7ac949882795e38bbe8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2eb6b65a1909e4b612ee4e8992f7641c05c893f0e00378bbf2ab4c4979767488", "verdict": "consistent", "reason": "1926 twist and its controversy per Wikipedia 'The Murder of Roger Ackroyd' (fetched); chapter-1 'stirring times ahead' hint confirmed in Gutenberg text #69087."}
+{"prompt_hash": "b40531d9a2618fdd7ffa0007ce423a5fc3f862f1660d92247de657a4d8c82745", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19432ef4ef0571b5a0befe8daed28d2678173df1e297e4e7512f05c8490cf71c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f1c6fdf63712479a9751003e66239f8354748dfcf366ac84843185cf5c17d853", "verdict": "consistent", "reason": "uncertain: 'without any statute behind them'. Norway gives some collective-agreement minimums legal force through general-application law; there is still no statutory national minimum."}
+{"prompt_hash": "371dd2b5b1420bffc45fe72d2ee00a03c665fac2568d858b100200f32e96cc59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d008f929ce38c23a3c32046dff47acc208cb103800fae0c3eb74de2c990efc0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "79aa046b7f0f2fa6ac8ac564d125a5452b76495d72a98f1e84dae0083521fed5", "verdict": "consistent", "reason": ""}

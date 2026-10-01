@@ -1,0 +1,40 @@
+{"prompt_hash": "4882859e0e578e83f4493e644d6e689430fffd4c1e912b6ad8e167e4e77f4771", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1a08a140b3447c0ae1939861780ef02058f5e97062fcaca5c05821d1b91d216", "verdict": "consistent", "reason": "Newton circle with unequal sectors confirmed by en.wikipedia.org/wiki/Color_wheel (fetched)."}
+{"prompt_hash": "21af8ccdcfb97a412832c718474d2510c3d9cc754879d64f9f9380f9a54ebcc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b25f18bd5c5c5bc965ff12598492086bc7f2e3d441dc514c990bd7a8c55505c9", "verdict": "adds_false_claim", "reason": "Narration first says the white-dressed Frida holds the miniature portrait and the Tehuana Frida holds the forceps. In The Two Fridas the European (white) Frida holds the forceps and the Tehuana Frida holds the Diego portrait (en.wikipedia.org/wiki/The_Two_Fridas, fetched); the story also contradicts itself later."}
+{"prompt_hash": "460f075a9675cc348e4abf2f0d787ecf89ff69d5cc64785d44a80c312e8baf12", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4421395450b56173cfc97c3b1950228f3d84083ba8bcf7b993904e2c23858eaa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "029e2e45ef49628244f0b4203c75b061da3d2601089022f2af2921ca289f048c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2eed75bd45fa5e449954dd95d59d76bd6165948b99bb14fb395a96dbc659fae", "verdict": "consistent", "reason": "Two-ID option (one with current address) confirmed by elections.ca voter ID page (fetched)."}
+{"prompt_hash": "8fa59b120ebb6ae4d8b0ceb62b5044f1e680090f9a5263b4d8d8b3a0ad032d17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1f7e63f8e5d0370141b64998ba348b3652bced795db8bd50a8cf3cb407587eff", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f18398c439d6e69317a38d927a2e94580c2e2bd0227281cceaba07308bab2d41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c7f66188bb2f4712998832f9ed5c9658b6fb85cdc4db1f740ee48796dac2d0ad", "verdict": "consistent", "reason": "Gymnasium venue confirmed by en.wikipedia.org/wiki/Sinews_of_Peace; Gaddis misperception/bureaucratic-inertia and Truman-inexperience reading confirmed by en.wikipedia.org/wiki/Origins_of_the_Cold_War (both fetched)."}
+{"prompt_hash": "fab932f621c70fb8a5daedfb4ab1efdc69c6469b397a484f67e69bc051c5b9bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bdfc7453aeb9474a9c397e6482714f863fda6cdea9000257d9ce918aacd35151", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "498441bfaac0c8d7f9b23b0e64b5be922cd6039ff39a5ffcfcd38bfd7977c54b", "verdict": "adds_false_claim", "reason": "A friend says Palm Beach and England are at about the same latitude, and nobody corrects it. Palm Beach is about 27 N and England is about 50-55 N; the usual comparison is with Newfoundland/Labrador. (Sverdrup details confirmed by en.wikipedia.org/wiki/Sverdrup, fetched.)"}
+{"prompt_hash": "62b5d43bcb3f484f140bac66bb2727ac37e9d3fbd1e56d6c0cbc02c72a1f9c8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e38193ced41a56ec69c2b9412693fa11a9a696344aec8a6538bc0c41cfeba10c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9dd4f224e5d3a3307d77fd3894ab98de62408a8731af22e5b79fc9dacd3ab30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3a809fb8da684755ffe793a730f51b7e20656c8a3dc5a34f8f6cffcd610a873", "verdict": "consistent", "reason": "Meat-slicer ban for under-18s confirmed by law.cornell.edu/cfr/text/29/570.61 (fetched)."}
+{"prompt_hash": "42b2cfc1398d82c9355d34c1a27d0958dd471e9adc85c62d35fbd3efe1f86ec8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2bf04021c4ade22ee9758cf064ff4a0fc65b018bc42f11083467140a4fdb9fe2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6eccef4f985852a6a0f56848b9c19d25690e0370c08774adb791a89e14aa4c8f", "verdict": "adds_false_claim", "reason": "The narrator says a half note plus a quarter note should fill a 4/4 bar. They add up to only 3 beats; the story's own fix (dotted half plus quarter = 4) shows this."}
+{"prompt_hash": "b61af7f9a7aaf67c8204e181e77f7d2f2cfc94f2ac0366ab49e26014bf82f79e", "verdict": "adds_false_claim", "reason": "The narration presents as an insight that a kitchen scale weighs amount of substance. A scale measures mass; amount of substance (moles) is a different quantity (en.wikipedia.org/wiki/Mole_(unit), fetched). Also, multiplying instead of dividing by molar mass would not give an answer exactly twice as large."}
+{"prompt_hash": "f3844a1e1c4c57333142df715e56c91043273d2bcf7bdd882f6ee05223c48bdc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5824c45161074b065cf7313fa604bf2269594ea7e20b35ddbb1a83c5721bb347", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c854c0ea20b9c742df5ba3827495a79b49209f19648602ad59ff8fabdaeec50c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b074ad0e0020dd992bb69fc27280099cc4b34e459651c3408adb96ca6b459ac1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e78cdf7d37107aa440fcc92f59e7e873a36ad449845669ec135d8d75d8dde925", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3cce05144d5da2b40293bd61433ea6a2c5acc5573f55adccb459e544b3f76cee", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "83edf5bcced5576a1caf8b56c95f1c1cf12552d712dfb8cd27b57cfa8534cd7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "37f4672ebedc75bce4b247cbd272cc1c9a539b6cd1fe591103c2ec01f9358a5f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "45815e3d06038e3c16be6c96da576cb4f4e44ebc697eb7c4006fcab78a65f5ba", "verdict": "consistent", "reason": "Confirmed by law.cornell.edu/cfr/text/29/570.61 (fetched)."}
+{"prompt_hash": "7033c1cf255fb73829d39dfe3443e4d72f7fc115f00dd43f57cbdd45499053ac", "verdict": "consistent", "reason": "Anticodon pairing confirmed by en.wikipedia.org/wiki/Transfer_RNA (fetched); AAA/UUU Phe and CCG/GGC Gly pairings are correct."}
+{"prompt_hash": "e38a387ff3c8785c123566b381644deb4aea53e72267c9045edd9370956525c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49149ecea71f8f28bf3f5adcc50f2d7a8e5024b4ea083563daaa87911ae2d336", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3947c850291f9bf636b62b810984da1bc6441d0e93e4a8bee47bc16d854b1baf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae303c0f28dad9ca6b995c0ec30270295cd6caa9261a1e8565219312533d13c3", "verdict": "consistent", "reason": "95 C at 5,000 ft and longer cooking confirmed by en.wikipedia.org/wiki/High-altitude_cooking (fetched)."}
+{"prompt_hash": "d97cda6d51aa71a8e896ee02b5127761e46736e74b83def459b3498c417716a1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3f9ccdab81ecf65dfcb5030e3ad331390d9a4ffc36a52f26be81c76dbc00c8c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2af31a8bd63d5231bb15d8e8dc33e09002c28ccbe62b9f2a0cb376c54ee90bd", "verdict": "consistent", "reason": ""}

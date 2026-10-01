@@ -1,0 +1,40 @@
+{"prompt_hash": "8263963630afb497bc66cf98c8417dcc13d92b2c89a9303ec759cad30777f9a0", "verdict": "adds_false_claim", "reason": "The older Gaddis book is given an invented title ('Russia and the Sources of Soviet Conduct'); his 1972 book is The United States and the Origins of the Cold War, 1941-1947 (en.wikipedia.org/wiki/John_Lewis_Gaddis)."}
+{"prompt_hash": "745d18b881908f419d2d6e78bc5086303f271aa66caa6300048295b34af15f1d", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Josef_Albers (nested 3-4 squares, color varied)"}
+{"prompt_hash": "e4c60dfa039550c243477b12fcfe9813c9b140d18f74ec53b69a0eef3d0b82e3", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Early_decision (EA non-binding)"}
+{"prompt_hash": "5a9ab1a1bdd31887764e4e9d12163d26bf0e085bdc38a658e4e469b9890d1ebf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "208c66658417c7da95cd3c67fe76ed4533dde5df63254b68a291aaf1aef9c2db", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Square_academic_cap"}
+{"prompt_hash": "64d5ceb458d8183851e2038cad704117261c1c3478ba0fa309f481408e525a78", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Alfred_Cobban"}
+{"prompt_hash": "5d692c7cb2dfd7f3a6671134c41f2b521ca10d97bba2ed008b5bfabc1bed3a0a", "verdict": "consistent", "reason": "checked: legislation.gov.uk/ukpga/2019/4/schedule/1 (five weeks' rent cap)"}
+{"prompt_hash": "8667b227347b22211b1f9a5a419cf8aa507cc495efe5bb70c1e7a8f2303f8c5f", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Adolphe_Thiers (1823-27 history; president 1871-73)"}
+{"prompt_hash": "7b29e8ecb95e8b8ce7c559685b30a3db4622ebc0513702488e9f165eda2cd5c4", "verdict": "consistent", "reason": "checked: sos.nd.gov voting page (no registration, ID required)"}
+{"prompt_hash": "e983cbe0ab89777c488ea5cdd6d6dcf8aba2bd96264aae3230f44c9fca35f3e1", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Pencil (plumbago, 16th century)"}
+{"prompt_hash": "5df9164d6cdcae5a8e3f34a09d8717efeb25464e429e0863c160979b9445fc65", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9b0c470f0b84e8fcb203dfe1502fbcc49c15b4e9374735e5cd795c175547cc9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "76f0f5fb271583dd4811a522026699dfc2238b57ed5488a55f5ab4228df20e48", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa15ecdc604d283209a5f67e757cd48585dc34ad487ea05be2e27c46e9d3fb7c", "verdict": "adds_false_claim", "reason": "The archivist calls Sulpicia Lepidina 'a governor's wife'; her husband Flavius Cerialis was prefect of the Ninth Cohort of Batavians at Vindolanda, not a governor (en.wikipedia.org/wiki/Vindolanda_tablets)."}
+{"prompt_hash": "ef16f618f1f68a7ff744901f463306813871baae97922fb1b8f96cb955744e03", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6e43c0095eaec9c28e7b1a8a8afa8817657e30ffd7be2a2881e77cfaf55afded", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "12d45f794b248d2cc4b82e9fbee5ad56914d693acc5354cb424f7d97832cea68", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Le_Chatelier%27s_principle; en.wikipedia.org/wiki/Cobalt(II)_chloride (heat blue, cool pink)"}
+{"prompt_hash": "be64c02567bbc908ae508ce04a45d08df23da8540b8663ab71c5ac716ccb1d77", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6592a81b8c577dfdfdb41349af67c0f7e788dccfcdd47a59884f30b7ea732421", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bf5526be553208e1b10255bc208242c9908d67f90b7d85d3775beda7c79cadc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "db1e1a216a72df4e7bea4f8d1572e28f89351a1a80dbd16bb1dcda48ceafabb1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d4b655114fb36ab5737705ad5007b37eabb294576fe756562541aeca4bd71dc8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0574eedeb4c71594c83557cdf3e110e9b5d209b21c38b79248cd3e9e5eb5ef7b", "verdict": "adds_false_claim", "reason": "The grandfather says a boy rediscovers Brunelleschi's c.1420 technique 'five hundred years later'; it is about 600 years later. The claim that viewers crossed themselves is also unsupported (en.wikipedia.org/wiki/Filippo_Brunelleschi)."}
+{"prompt_hash": "1aa56677cb430297498f4e3feae5494b85f5e6051e7e893a76cd03a898e78005", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fccf73b0789a7ddc49f058a97862c43a7682300e4bfe3fd54d1505629b82dff0", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Svante_Arrhenius"}
+{"prompt_hash": "cc811e9da2c66cb6934825ca42c5dbd44f4cdfafe4ae0418b37c26481e72fc76", "verdict": "consistent", "reason": "checked: cdc.gov/contraception/about (pill 7% typical use)"}
+{"prompt_hash": "dbd591d60607c95111997573537a99cd847d692c5ba785847b7250c639ce8985", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hot_hand"}
+{"prompt_hash": "a7f47ab7d11e4a6735a3f595ece0cf7cd14ee492a573e7e612e175d8e08c1643", "verdict": "consistent", "reason": "checked: cdc.gov/contraception/about (condom 13% typical use)"}
+{"prompt_hash": "b57000e0b48f61f4492ec771a298fb505c0286d7a5f45d26f161645677925aab", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "96cfc067886cd3458b7a5e80645850516256666d83e8a7c892796d2aed923561", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "968a7cf05639f42281b679e72ff19ed907106eb566710bfe4d1a678d358981f1", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Electrical_breakdown (3 MV/m); arithmetic redone"}
+{"prompt_hash": "5f351091ac0c45703443bbd36c0871cf5052a83d81a9df772c485bd9db82a87b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "918d292736f0448039122ecbea35bee5cb6c1681c812d9fd11fd3e7f4d0440f3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0ed8873f2a5a3ec55e118f3d6c0fcd9763e2a9654f507db3f747859a1cd4d8ab", "verdict": "consistent", "reason": "checked: cdc.gov/food-safety/foods/chicken.html"}
+{"prompt_hash": "3b9ad6a617b3d5c7751b707793b7eb6817ebf6c06bad264194916e14e5b18134", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fea2993182064dd5735335c7487d5e62b857362c2ecd4fd5b5cdb2a33c89efc7", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Tagetes_erecta"}
+{"prompt_hash": "9d010b67c5d1bd8f3dbcafb1ed559970d7f501289e768d8da1e496d9819b0237", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "530cd960177fa480df8668ac2824c91aab21024fce8eae71926a4fa1b1415825", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "941c0f24f10343c8f539b318fb3c1ddc56a9b9a62791cad4c0b8a212d59c4aa5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b18a1a697d145811a7dc1840fdb9dbfcad3f402e9afb5d1e47528c66348ccd36", "verdict": "adds_false_claim", "reason": "The story says the real Tom Sawyer 'pretends to be Huck' at the Phelps farm; in the novel Tom poses as his brother Sid while Huck is taken for Tom (en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn)."}

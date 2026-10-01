@@ -1,0 +1,40 @@
+{"prompt_hash": "63a1d610e019a4ce622666e7cf6f9d483e24072c9c2f547c9f998ab03871bf9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c015e40a3b3a367bf004d03721851335b1b7135407aebafaf99dc55b7c23aeba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21485d14c1c2f6f3116c421abb167dcb9ed47904926a00eb7187e9fdf7c5a410", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "51c12c33e17de1e59dbf2ad0b6e62ffa8faf3d78c9034722e9c363b9c63273ef", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31cf1a4d563dfcad0ffdcb43b2ed3731c4ab33cfb326ba3a378f1277d4b92573", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ec106343d0db75325685afe03bf2b6fb3dcef86cf5a697aac9e252f544d799a8", "verdict": "adds_false_claim", "reason": "The story calls Isla's own carbon-tax argument valid, but a premise saying the tax is required (necessary) to lower costs does not imply that passing it lowers costs, so the conclusion does not follow; the argument is invalid (necessary vs sufficient)."}
+{"prompt_hash": "440a9630f9f47ff6b1e7acfdd339257b1a989bdfab5c266a17eea33c8974d7d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8eaf9507db5a32c677cdcf3237369f005600fd1376c824d9d09cd44f7710af50", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd05ba1f8710151fc5c74be6611ce74e78cac15cd76c3a062fc41368ca8c1046", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b8d2ea6f01e42a35819fec82c449353b17cac15b401e9c4ffd5972bd936a13db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ef6e1d2d466e9e6a5d3fb28b232375b784dab2ed4b45fe1eedd02069438a0454", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f015b247d770d4f7753cb31f181d6c37c3527a6f76f6b643b22390d92e75998f", "verdict": "adds_false_claim", "reason": "The narrator says London and Halifax sit at nearly the same latitude; London is about 51.5 N and Halifax about 44.6 N, roughly 7 degrees apart (checked: en.wikipedia.org/wiki/London, en.wikipedia.org/wiki/Halifax,_Nova_Scotia)."}
+{"prompt_hash": "6011074613f7cfe69526c65d146cbc4d47694240dbc92249e2d2f623524e3d7e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3b442c7d20a529c11959d5bb163bb4caea6b7ec1443996766167b7d46d61c03d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c478a508b2641fc0859a634062a59424fbc842f380718f3a233708566e0310be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aaea16fed2b33797f8c4d0a3447d617e288cf83dea129b2b1352f5ec74562fba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "559af93c07842b0890d1c6fb5e154ca044518e695c324b1ccda8d2b15dbbfac3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8afe006abceb857e169435f56a98fcfae003f3e74029e59100070943dcc592b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d9e553d7f64253d7a3758fd2ef7443326ee7aa85683a833da4843e2db485f044", "verdict": "adds_false_claim", "reason": "The narrator gives the Seder sixteen steps; the traditional order has fifteen. The story also has the second cup being poured when the door is opened, but the door is opened at Barech, when the fourth and Elijah's cups are poured (checked: en.wikipedia.org/wiki/Passover_Seder)."}
+{"prompt_hash": "0d9c46f27fbd5a11b81216436710d076f68a0de15e655131ae40b8b30dadfa0b", "verdict": "consistent", "reason": "AP 2-D Sustained Investigation (15 images, 60%, process documentation allowed) checked: apcentral.collegeboard.org/courses/ap-2-d-art-and-design/portfolio"}
+{"prompt_hash": "6d01ef557580013997e878c64731a49877d0d3d1fc4105cd6b345c94ca28137e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ae1633f705ed88e71dab9ffbc106085a7af83d458787fe6a629b9414779bc89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a17a91fc0e1a61d085d1fab48b377dc7633c22fddb71e5f93f000894ab038d8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5812e57c3ca671973658b74bb63f970d6f0129f98d03a8f193deabd2469d7bac", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25a6659970ff5241a50ae76f90a81f72eea9d3e628af7f2af9813b51b0119997", "verdict": "adds_false_claim", "reason": "The story says code with a void-typed 'constructor' compiled, ran and printed null/0. With no real constructor, Java supplies only a no-argument default constructor, so a call like new Student(name, age) would fail to compile instead (checked: docs.oracle.com JLS 8.8, 8.8.9)."}
+{"prompt_hash": "dec1748d31fd89cd260fce250f38f4d940e8806939314b0b7ad28c75acba1793", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d4e2ff08d1ae3e7b3b65c8419d7cf7c44c832a72c90c650c5885a7ab9f165e2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e0aecf7e9265ddce631ff3564a29edd71fd265d38c012724bcf65b97b1545f1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9e885fc105f15b9bd9089401026851335d021fba84aae986fe251e4b5a76eb89", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c85295e61701cc229377d02ee7cee82ad37b9dd86ca4b2d04718c3e8c689b93d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b197d7bc105c548256cf94ee2246796325d2357d174c628486fdfee1a7105621", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9af1e17866e5ad1d109f58621b2411fc5483255a65500509a0ae486809cd9596", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "928485a89a8960a57d04aeaa6b857d2614683050de5af7fd46c54ab21cd5f16a", "verdict": "consistent", "reason": "uncertain: FDR's wheelchair on display at the Roosevelt Library; the Hudson River setting was checked at fdrlibrary.org/museum"}
+{"prompt_hash": "362f72636fc32d135dbbce6290b40b2830fac25c92a21baeddf6a71d3539ee92", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ae4e069f2ee18cf1bc29a2839872cdab0230135bcaae04ba8da1739d90f7da46", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82f0401a40490a757a423bed4b8bc53dc87e8f10397930c1c3e2c66da9fcfc6a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a1bbf21f4666d8732916c798ba4777aaefea4ff9424eeccebb32bc7d681f476d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c2328f7563db56d3f41b424717dec273d29a12829126ef8aa283425c47de4916", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4710bf99cdee97e5ca84de06c38130c465581f642d8111f049a7b9cb69d2886c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2243f5095e7d42c0d0cbab3fb7a9f4f23e6d4279253c35f2186e07e75fb5a873", "verdict": "consistent", "reason": ""}

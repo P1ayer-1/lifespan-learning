@@ -1,0 +1,40 @@
+{"prompt_hash": "bdf0368e0c356fb093a829624c91c5bd6fc9933a2d7d19c0cfb8b41acf2137ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fd5898ddb126a42cbcf211e499705c248358b32f7972721e1bef4df3131a91da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5a591568a7b651dcbd93210d8ee7847036b451e43ae9ea5eacff2d89dba15af3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5fef94a4dec1bb6b8387492622c0a8c62718dbcdc49414ec8386ffc27ac4f61c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cc1d8652ff17b3a9897ff386533aba632b002d17d8308d3b5a53b1bb583ec035", "verdict": "adds_false_claim", "reason": "Narration says Filip 'hadn't been wrong at all' after he used okaasan for his own mother, contradicting the stated rule. In Japanese, one's own mother is 'haha' when speaking to others."}
+{"prompt_hash": "e4463d09abfb713fcd4e10d0fc0db655ad86a9c915df1624ba101e3295a30b3d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb27a8311546d22d31b05a98bdd5b23f2b42b78c192df552a655dc7fb7e49123", "verdict": "adds_false_claim", "reason": "Narrator describes the guinea pig's teeth as orange. Normal guinea pig incisors are white (guinealynx.info/teeth.html: 'The enamel is white in color')."}
+{"prompt_hash": "3d716efe7910d7ffab817f1cf9adc308ee6037540d9296228332e1fc0a256045", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "89b0ab1269907a2c007279718ca93d6fa1b6c60f0b09f03b77789766f3486033", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8510532aaea57c7668a39fb6366424d8ea47b88cdad02e1e2e088f65ce484184", "verdict": "consistent", "reason": "Pointer-star line extended about five times their separation: checked en.wikipedia.org/wiki/Big_Dipper."}
+{"prompt_hash": "51b02cdd12dfa96d7fdef1be2775f521ff532ec4cf11f1d7351a5d5a1d3d01c2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b3f0538dcf5c6540ed599ca6bed4b8d5bc1f1c856a91fa31592b308ca45f65f4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f7d6f886da28b48bf795d6f923e51879bb8d45684ac3d2546034b1fb5c7b25cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1bbc5d2f812c379677c7009ece755b4671d5527169dd974d8c87c00d6f5584bc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ee84f20c158ee4a6d0f3c9b85c4cc1fa491f1600c4a6964a72e199bd72a3b1a1", "verdict": "adds_false_claim", "reason": "Story says the chip bag was sealed 'close to sea level' in Denver and stays puffed at a sea-level beach after landing. Denver is about a mile high, and a bag puffed in a low-pressure cabin deflates again once back at higher (sea-level) pressure."}
+{"prompt_hash": "014f8dfced673c73ec29d1dbce395ff0af7c973018c9f892cc3585ee4cc9984e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c567e798af976bf30fe66e141c14c9e362ceba54f9c03c9e8d3ab27b0a320e9a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6158119d72f7619e3bf5143b3d67003e6344bd8f71f40a51d5793e16bf040475", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "601328791fe8ac2acc717fb15f95d6c98f06f4fb8b2f3a479af154c93133a310", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6fc2ceefdf55d24828d827c0511567ba5fc0612da523fd8cc836697173ff327a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7cf32b040cd187b76b7a155ff11585a52d31e4626ae18a887018c8c2e56bc403", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05bd39c7766284c0b578895d85e65071b0103e852a6238c055cd0b067222466f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f6c426c2425ab0a49c1662a4dea95623643be123386e4046bd516f1b019f84f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9ea714a4b908eb287842ca3001ac5f0f540d22843721fbba0e67387c368be800", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25158fcfd66af2e3a374cdc3607e2340472bbf67a9b9b829243a17d4bca248d7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ff328528e09872ea0111a459654a7bc8b6db8828e6481aaeddb1e381ce2eb0eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dac03f7d5e4fcf85264f1a81b1e59305c124074ee63992b61cd2520c52095815", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3ddb584852023bac68979c392f32f55ee32b5ec15fb59d9757c97f597ea95f18", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b428a933f3622991a96d8d94577a030e981a047086ba7f94927e754552dd425d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "17ba3c52f435e61860d929a881784acbca99291517198e4cc0e9710ac505c3f5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6eefcfd8823b3231a4dd4785c0ae1667d52c2ead713e4f53a62585a8a30c3e12", "verdict": "consistent", "reason": "uncertain: baking soda fizzing on leaked battery crust only fits acidic leaks; for alkaline batteries Duracell's FAQ (duracell.com/en-us/faq) recommends diluted vinegar or lemon juice. Battery type not stated."}
+{"prompt_hash": "1f21cf08f4b1521b105783dae354a1aeaaa87acb20e12dffb32a8f94ddb31f2a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88af47c350348e6a35955e97254e62294434ecefd7a2f3af8cecf5a1631a576d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e7a13f05ddb8c950a3a06e5a58ac84354a911c7147b2605ee17370f3f649425c", "verdict": "consistent", "reason": "Sun in Uruguay flag canton: checked en.wikipedia.org/wiki/Flag_of_Uruguay."}
+{"prompt_hash": "b5160e3344f1e5eae357d7111cb114d33f0764435da46816d40d1f94e78dd93a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "390511ec735a147c55086ba722f70b46a76627c7c0385d9cb0819ed3334877e1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "73052f5d305d5a8944953a9010eebf987a453a2d92ac632c93c06af13f8ad3e6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f1714528316548ea22450f75633f8750928a40916f072420113c61048d53a1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f4b2912d27813fbd7c8ca0fa70a7938ad034273c0db1ff9248bc24ed2e243d3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "433896ba6fd6910f3a1efa28de31e35d5a8baf8a8aa7ea5220d12b3aae95a3fd", "verdict": "consistent", "reason": ""}

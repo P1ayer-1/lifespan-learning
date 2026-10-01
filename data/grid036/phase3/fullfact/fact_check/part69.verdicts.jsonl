@@ -1,0 +1,40 @@
+{"prompt_hash": "b6b158664f24683298ce76591e6261867a3ed98a9b0e74be9c5e378c03a9bc24", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8ce15572cae005f8bac51ab95606740b95c969a4a1e068b479da4ed5989d4734", "verdict": "consistent", "reason": "source: Wikipedia 'Electoral reform in New Zealand' (1993 referendum, MMP first used 1996)"}
+{"prompt_hash": "bbdf9bea2307ad64198f229e6a0b83b5347755d7d6cb42e2831a1851fd41ca5f", "verdict": "adds_false_claim", "reason": "Narrator says the multimeter could not show resistance directly, yet it displays ohm readings beside voltage and current. Multimeters measure resistance directly in ohms mode and show V and A, not the omega symbol, for voltage and current."}
+{"prompt_hash": "0262f1f529a131d5f09c8ab827da43a165d8d5237aaf13d204a55c325f2e255f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "59bde601536ce9d45afb0221555495083c2c45727f8f4e65f59776274f9c3676", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9c63c44e32d937156a046ba004173be6814beca446bfa21d6759c517603fe573", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "81c6a7e865c8a6cd486335fb300f05a3dbfc1d7de3338cf702843cfe48c021dc", "verdict": "adds_false_claim", "reason": "Lap splits of 91 s and 92 s total 183 s, i.e. 3:03, but the story says the clock read 3:01."}
+{"prompt_hash": "daa9dca6c01a673a8613da3791e918c13022f25b7af36122c27bd50d0c5a4c74", "verdict": "consistent", "reason": "source: Wikipedia 'Feeding America' (more than 200 food banks)"}
+{"prompt_hash": "25d5996abc4a6f0d19457122276c8204888e1bc885f3e7e9c9b6687a14a7876e", "verdict": "consistent", "reason": "source: Wikipedia '1930 FIFA World Cup final' (Uruguay 4-2 Argentina)"}
+{"prompt_hash": "7aa4ef5450b1ae70094b2071a7174b72bdb1594445c828abe063dbb7699698f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5337079ed78e57c715f6dbedd95a4f1e6b1274e4ef9080ba5473e8de5216f906", "verdict": "consistent", "reason": "source: Wikipedia 'Delayed onset muscle soreness' (peaks 24-72 h)"}
+{"prompt_hash": "09390c2719b4d42477f9d69066dcab7d505e16dec872059a827bfef41c94399f", "verdict": "consistent", "reason": "source: Wikipedia 'Nicotine' (half-life about 2 h; dopamine release)"}
+{"prompt_hash": "f1422cc1639ad5035396066c67cbcec4a23e9d4331071eccacde6f8208d497db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "de920f4fb694f3550962025a136358cd93c99182f601f8a86a44dced9d690023", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c44b08a097492a7cc2b80c6cac2232b3cdd7b72b2cc1708992e4656c8069896a", "verdict": "adds_false_claim", "reason": "Fever began Thursday evening, so Saturday is the third day of illness, but the story counts Thursday, Friday, Saturday and calls it day two; its Monday conclusion also doesn't follow from the CDC three-day rule."}
+{"prompt_hash": "fabffc9f27a1b085aba848ab45ada21adccc7ae5389f06d8f23bec99af43ebcb", "verdict": "consistent", "reason": "source: Wikipedia 'The dress' (Feb 2015; actual dress blue and black)"}
+{"prompt_hash": "81bbc1eb8a13057c8b6bea874c8728e03a54eac42a8ab254d012b3bb0e910773", "verdict": "consistent", "reason": "source: Wikipedia 'Jackie Robinson Day' (42 retired league-wide 1997, first pro athlete so honored)"}
+{"prompt_hash": "1407649854e8a46457c82901b43e56ced30c0a689d608bc016ce8658f23f5ba6", "verdict": "adds_false_claim", "reason": "The bug is explained as the loop testing divisors up to and including the number itself, but then 7 and 11 would also be reported not prime, not just 2. The diagnosed mechanism contradicts the test results the story shows."}
+{"prompt_hash": "ed0feabfb8ab9b888dc0e3d544c770f417d7df04a8c828291fa99f45912e5f4a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48f6e19ec9701cc8aeca524a60cf651af8007e7c43bb7c8179fd7e6bd21da446", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e6b8b1ce39cd66f3a09bfdb09dc2289d211714923f57746b0337f5caa7348efd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ad18b375189534119d8967f37a1ac586607bf1150696d303939a6f4e571e57fc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23e7bf1b006620b46ad051435dd4ff8c3fdc43daa1b946d1e62bd1a85024e469", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4dd5c0b9bccfe8af85c52b4550cb50845759de980400ffa37be05cdc7a11b156", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "29d4daebc90c087639bb51e2ee5334c4cc0a61c786a1dca7884b91e9952d522d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a74e8399f520cbc39a421efd3c47bc6aff0cfbf1cc774bfa0d6d926d5f3d6e72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "eeb7b41962c33ea5a9519fe4141e20f64a5693b49893771f5d8fc0d3b35d6e6d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6aa39c3569dc704b5eb22f8a4d8e6f80fa3609c1b88b2dac4f4e5f8991f6ab4d", "verdict": "consistent", "reason": "source: Wikipedia 'Qingming Festival' (April 4-6; tomb sweeping, offerings)"}
+{"prompt_hash": "a2d5310da9f6d3a35b90492716398ddf9a293e92f871b5c821b59b3f329f63c1", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7d984149a9d660de59c0b85273d805ecf8a4a84170fcd49a7bfcfb79e85684b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9ba013dae235231cd8c6b1bce8faf2cda55be2d47dc86e2e16a6ec1b6a73903", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fa6f7a827eb17d39dad32a1fdc9518fc67239472637f061f93c09b5645615aea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d98563a0eb0cc33c1447c5ba574713426cabeaa6356fc1fd652274f1dd46fed2", "verdict": "consistent", "reason": "source: Wikipedia 'Snellen chart' (1862)"}
+{"prompt_hash": "6ff657b47f1a8b9e80d29b4a772e9d116aeb0596c0892d496a29e6e0a45f7f5b", "verdict": "consistent", "reason": "source: Wikipedia 'Institute for Propaganda Analysis' (1937, US; bandwagon, testimonial among its devices)"}
+{"prompt_hash": "288b3f311d29467e478881e435e6cc5b299643fec31bf416a718b0e4040d9223", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0e70ac8cfed16f558d6fa30fbbe746aaeed3720ccc7b12c1c4ab5de67f7ea8e8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f3591ca288178192fd8dcda8a3740afb08514a24903b35a5ed0539c0f45f7470", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8841a4cd49a9a66caa4535ff7dd8c7ae892b20511d185d7a779139f1339cb0a2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f26e6bb16d8004dae512cc5f405f8246856f06b67ff7c599a07675418ddfaef6", "verdict": "consistent", "reason": "source: Wikipedia 'The Logic of Scientific Discovery' (1934, falsifiability)"}
+{"prompt_hash": "1d6fce68188b1974a80db6ff6307761f40593dd696a8336254188e1e009b9a2f", "verdict": "consistent", "reason": ""}

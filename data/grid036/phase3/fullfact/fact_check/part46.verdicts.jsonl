@@ -1,0 +1,40 @@
+{"prompt_hash": "1d29362138b87112c70ccbf806c88201468fc4cc950b348d0dd2a002f57d8fd9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a2d3fcb56be9d6d69a733772bda29d47988e854dfbff30be7e64d73ee745db66", "verdict": "adds_false_claim", "reason": "The story has students finding 'prithee' in Helena's scene of A Midsummer Night's Dream. The play never uses 'prithee'; it has only 'I pray thee' (checked: Gutenberg text #1514). The fact about prithee is otherwise conveyed (wiktionary.org/wiki/prithee)."}
+{"prompt_hash": "ea061c9bbfec8edf7dbc9fdbcda5e128dd75a66f2d2684f727db1d78317da3d0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "728663adbc12b95b15bc29e6b367ee5e3ddf60a8190d6b53aba51dc84892a858", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e73e2cb9cac8ee2568d9601100bd51a54f61f396d4ea9d49f9c9e1b8be6eeec5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cf9f66e720ae8a11393ac460d3b8f67084fe47b5d5a785efe56a49e7d6dab36a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25cc02404a3155dcd6c4f0a30d3ad8a960fa60497034eca037eecc72ecb5d73a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7c6b50aa4fd2c58537b83e5039110839a7f5e91d1dc84a995be172aeee0113d2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b38f3e567f3bc618fa18fbe840926051b4b9b712b8f8488ae4674bd1fd44e400", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7c62424fae7c2e135166f2ba81df63f8601da29910000dd7457d59e37c9ab82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3e7e4f6d8f0c1619fb42b97120bcd219d052c58f83d9ff12c3d9206c54e69953", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a67ee1b73679cdcff72eb17936c290c80a5eb989c7ec45940d3aedbb0a19676", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c186c84b4ca74c6605b4a2d757c9ccf4c51b05e6bb67bde9e3403f39f5761f71", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "750aa7000a188e4d44a1c84a863b674215dbd996709c20ef96770b8b82ab82ae", "verdict": "adds_false_claim", "reason": "An adult reacts to 'Mi hermano está cansado' as if it said the brother is permanently exhausted. Estar marks a temporary state, so that sentence just means he is tired."}
+{"prompt_hash": "82691b509e13db1f1376701253fdda0aa237949541237fe0af5975e32b4d7b9b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7dcec90e8d2bf3ee2ad276bb89133c1bd33510cb9e3724a642b80c2fdc7b81b9", "verdict": "adds_false_claim", "reason": "The story says the yacht captain mentions the sailors' dread, and that Rainsford says the world is made of hunters and hounds. In Connell's text Whitney says the first, and Rainsford's classes are 'the hunters and the huntees' (en.wikisource.org/wiki/The_Most_Dangerous_Game)."}
+{"prompt_hash": "9243339d8adaf8e813311ac887d3108d7c30a524aca748f40ef858bc985a0b4e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d3f6318fdc8e6107c7ce13014fcdddc769ceed510ea64c2caa79b09c80f5cc72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b82b72edce242e0936501e175c7c5e974ca318cc4b8b1692be0c8d2017f22c4", "verdict": "adds_false_claim", "reason": "The story says =SUM(B2:B10) gave too big a total because B9 and B10 were empty. Empty cells add nothing, so that sum equals =SUM(B2:B8) (support.microsoft.com SUM function page)."}
+{"prompt_hash": "2c75946fd35fb5a4da1cae3c68cdf0cb709f437ba89d845dbde1391b3803bb87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "394bce41cc511f02104d014de05880f9b23128b869b1027c8f388b36e91ce691", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f5ac64f416bc6fc2f622b47ab4305e0c629061946e5c8ff04179b9921041b47e", "verdict": "contradicts_fact", "reason": "The manager calls old cans placed in front of new ones 'backwards', which reverses first in, first out. Older stock belongs in front."}
+{"prompt_hash": "5b6a12140ef68677a4d2356a903bff1940aae6e8ef09f17176ce8bd7bc4732c6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac6711618203b62e37feacd7d32e34b6bc00abc84948c307cfcfddf946c6f147", "verdict": "adds_false_claim", "reason": "During the outage the girl props the freezer lid open while she talks on the phone, and nothing in the story corrects this. Guidance is to keep freezers closed during a power outage (ready.gov/power-outages)."}
+{"prompt_hash": "b210f57c1724f4d6bef3602c48d40685e95e33819a5812cdd0aa6d0c7ec1829a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b58b60a5c72ac38fa0fe95325e36855de0f223ef72ce42d6d8bd469c46b1d667", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "85d4c2c5bbe38ac007e4bcf2349b8080bf56ea4c239e6cdb756463f54aee782e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba718ee77504cb8e7042df0846a4ebeabd50ba4df372b3bb90af9ab90170a728", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "875a9436a4e431daa6d7ad27b623458b751eb2dbf89ca96a93b392f27b9f2fe8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "b0d5fc89ca2f8ce85922c6d564c50dcba498286de357e6be2f9bcf50f588edd2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "421f8b0bea247d6bf684e6175b7faf4efdc2790c9056bb6f1a563c6838b07267", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4e3e2ff1b7c033a05298523faf27403e115253a9f79d1302d91340c84aa400fb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "164d5b42fea0a12160e8b4d7147e953f4d9934b9d995ba59ea3b7aa37966e59a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2ac3c3be3d529f713a4076cf336a331670b73df9b27c29f149d985ca09bbd664", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cab58a916065508cab7d5948d2362ab5087c4098562502d0e6edeb6e4b24f0cb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a3b7c5d7e2b04d1fecf18d18a584e46bcb15d3084ca731a7db91bcb02aa25fc", "verdict": "fact_missing", "reason": "The story shows swallowing easing ear pain on descent but never mentions the Eustachian tubes or air entering the middle ear. It only says 'opening something in there', with no explanation."}
+{"prompt_hash": "f1f11ddcf2dedd9e87384fbcdf97c31368d504d329bcf366e650f583696c9e52", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dfadba49f93202f1dbf2862acbb1889e37d06512569da9eb527996ec0a9599fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "387f9d75ddb92230cb3ae189618a3783086f86ba36c18b071f2bf282dde46ab2", "verdict": "adds_false_claim", "reason": "After the password is changed, the old password still gets past the password step and triggers a code request. A changed password rejects the old one, and the story itself says codes are sent only after a correct password."}
+{"prompt_hash": "e9474891579d40e219051525222c2516208610bb3a740d08d3299acb4e1dc5a2", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "9bc20329b8515a70920f6c18afa7390f1f3277793a0d381878c6ffcf1ffbe098", "verdict": "consistent", "reason": "checked: Wikipedia 'Day of the Dead'"}
+{"prompt_hash": "da3a18515a8f1415a69810f12639039ec39260ca901876249acd222f30cdae9c", "verdict": "consistent", "reason": "checked: Wikipedia 'Improvisational theatre'"}
+{"prompt_hash": "9845a1cc81d0f38ef2d85b9d09896be20c1a54081749b94d70cea20bf1a373da", "verdict": "consistent", "reason": "999,983 verified prime by computation"}
+{"prompt_hash": "3933987fba493bebd1146958068065b1adec628178b0542200437779264a876d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "319200772ccb9b285adc56d52a662c4db304fa8be9621c701fbb22dd39f04c0d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c965401d27a2658f564e02e94653ef64d5fae7af7c009ff72cf6fffee96e0cb7", "verdict": "consistent", "reason": "checked: Wikipedia 'VisiCalc'"}
+{"prompt_hash": "0e8799d817232412158d77a063b29e55c1df131c2b72f082f7205e9f0e2bb99d", "verdict": "consistent", "reason": "checked: Wikipedia 'Scholarly peer review'"}
+{"prompt_hash": "2ddd4183bddde7c28ce03c6e4f2500682f1d4217b8d11ba17438188fcb37927f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0776e06973db430ea68ef5f16b0eba2ea433c73a6ffe50f2cf3c062bc4d86d51", "verdict": "consistent", "reason": "checked: Wikipedia 'Adaptation (eye)'"}
+{"prompt_hash": "2e5b4e190bbc3fca093a553e65256d757a4e05045b6b4f717f7eb2a7aca9d88b", "verdict": "consistent", "reason": "checked: Wikipedia 'Section 33 of the Canadian Charter of Rights and Freedoms' (covers s.2)"}
+{"prompt_hash": "915c8f843d468fbfec59d02bb46a3e7ef3a3a4d68a40c3a200ae0057deaa1759", "verdict": "adds_false_claim", "reason": "Narrator says the night-light's glow 'refracted off the mirror'. Light bouncing off a mirror is reflection, not refraction. (CDC fall fact itself is correct, checked: CDC falls data page.)"}
+{"prompt_hash": "c2bca7b5b3bb63459690f32bf6d9cccc0fc444984eda064953c0a11ca22cb5a9", "verdict": "consistent", "reason": "checked: Wikipedia 'Hypothermia'"}
+{"prompt_hash": "20673fb3db98e6233001da0f5fc3ee2b09f3eb6e9ece886643df5100661ecabf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ed0cf0aa5f8182d0f7893b15d310f5d1e606a2c51d6a6c100a9128a615912d47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c718239d03f9d17632827415a9b024439d9062b28ba775ce03b9202a0cc3b63e", "verdict": "consistent", "reason": "checked: Wikipedia 'Cylindrical lens'"}
+{"prompt_hash": "76cabf1ad683f89b33d5c75a2927174963835b32b19310adc9d556772456453b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "267114e4f1c8818498084743822379286f0a9c90be4449badc502e0f17ab7ac5", "verdict": "consistent", "reason": "checked: Wikipedia 'Internet Archive'"}
+{"prompt_hash": "b61d35d5fbe2f89ce11f3f49c479d30213424bcec8aea95f019904884e3022da", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "481661125b8275ccdc42272e54b5953afc8f3e6c1666a511b1d97a8be99f05ec", "verdict": "adds_false_claim", "reason": "The story reads a pH of 4-5 and a 'weaker acid' from how pink the litmus strips turned. Litmus only shows acid or base and cannot give a pH value or acid strength (checked: Wikipedia 'Litmus')."}
+{"prompt_hash": "2694c4dd952061972998cfbc3c4a65bbe322779e4ead2e0222cba98c9a97ab7f", "verdict": "consistent", "reason": "checked: Wikipedia 'Optical microscope'"}
+{"prompt_hash": "42033def8176221939ec6f4038c283b97a46696c59fd8786d5abcc11a6cc9082", "verdict": "consistent", "reason": "checked: Wikipedia 'Cell nucleus', 'Robert Brown (botanist, born 1773)'"}
+{"prompt_hash": "1f59b6ec926aca343a064f5eaa78f4e6065b375e121f3c2df23c9794d82fe6ea", "verdict": "adds_false_claim", "reason": "The marble keeps speeding up across 3 m of flat tile floor after leaving the ramp, and a steeper ramp is said to make the line curvier. On a flat floor a rolling ball does not keep accelerating; a steeper ramp only gives a faster, roughly steady speed there."}
+{"prompt_hash": "afabb8f4cdc86d13f19601ce32c813fc869f26e0c2dae3c82dc8d09fefee2198", "verdict": "consistent", "reason": "checked: Wikipedia 'Pottery' (drying section)"}
+{"prompt_hash": "a6317d0c99cea8374543133da71fbe63f9a6c2da74ea00266a5b48ee00f28bc3", "verdict": "consistent", "reason": "checked: Wikipedia 'Rumen'"}
+{"prompt_hash": "e6ad54d50e735fe2e6d245f966ae4a458c503fdb4341bcbbb4e2b029dbd5ac72", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f8fbf4e1dc0c7c7fc138d7e48209321b1711d2a2ef504b3ab046e77ab4c92a59", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "989922669c1a78a930e995102c375a55c28dd6f6f4b8eb17e2570208ef9761ba", "verdict": "consistent", "reason": "checked: Wikipedia 'Amrit Sanchar'"}
+{"prompt_hash": "2306244b9b918f2987d1ee16129c12e80ed350aa4325c1032826f310ae61627d", "verdict": "adds_false_claim", "reason": "Alice's research says the Stanley Cup has been around 'longer than cars even'. Benz patented the first practical car in 1886, before the 1892 donation (checked: Wikipedia 'Car'). Also, the cup shown on TV is the 1963 Presentation Cup, not the 1892 bowl (checked: Wikipedia 'Stanley Cup')."}
+{"prompt_hash": "4e06f16645a129410644ba3bdeed8a07530caa860c05515a238ac06f416c688b", "verdict": "adds_false_claim", "reason": "Three timed runs over the same 5 m are plotted as a 'straight line' on a distance-time graph, which supposedly shows the marble kept the same speed the whole way. Those points all sit at the same distance and cannot show whether speed was steady during a run. (The speed arithmetic is correct.)"}
+{"prompt_hash": "62b718a1ba29a44cf387e1779fabcf06e9d1085293be6f6e70caa6eb29b36ce4", "verdict": "consistent", "reason": "checked: Wikipedia 'Axial tilt'"}
+{"prompt_hash": "97f5c634035b76b1841c1f26a37c7f97f0f1c4e1e38b9b38d44da81cee278358", "verdict": "consistent", "reason": "arithmetic verified: 100 x 0.05 x 5 = 25; compound 27.63"}
+{"prompt_hash": "7cde4baa0dd62ced5e1fb679725c03b1d268081eb17373fddb71cb1d8421ef62", "verdict": "consistent", "reason": "checked: Wikipedia 'Institute for Propaganda Analysis'"}
+{"prompt_hash": "b69e39db8d94e40ac5807520d39c70915107fb09ce93532ed645554ce7add2f8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4d632fdbd90777aeaaa30acda531bc578207c484906bd5b4804d40c71dab1b49", "verdict": "consistent", "reason": "checked: Wikipedia 'Day of the Dead'"}
+{"prompt_hash": "435584e7359e23cddf6dea915347227aa8131efbc40e371bcae65b11be4cd45a", "verdict": "consistent", "reason": "checked: Wikipedia 'Presbycusis'"}
+{"prompt_hash": "19b4215498ce83d7aba072fb62f4c9f6aa49746dddf19beb1538974e48846042", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "f70115b55d804c0c43ca1018c576dd9cc4a7cb444ff383b8fa11734c2715231a", "verdict": "adds_false_claim", "reason": "The story says that for 0 the loop 'checked 2, then 3' and found no divisor. 2 divides 0 evenly, so checking 2 would reject it; 0 passes only because a loop from 2 up to n never runs."}
+{"prompt_hash": "d84cf14afca9dc379fbe73601c802c0fe1bfec26d4b81ddcb219dd424e4b43a0", "verdict": "consistent", "reason": "checked: Wikipedia 'Sieve of Eratosthenes'"}
+{"prompt_hash": "9766e7221f251857ae39595624d2aea2c234eda1843654b353b98b1ef32760ef", "verdict": "consistent", "reason": "checked: Wikipedia 'Improvisational theatre'"}
+{"prompt_hash": "a01710db72b94b811b2e32a998e879a6c78a0b10fa7ebfb2163b1d803f9f8346", "verdict": "consistent", "reason": "checked: Wikipedia 'Sleep and learning'"}

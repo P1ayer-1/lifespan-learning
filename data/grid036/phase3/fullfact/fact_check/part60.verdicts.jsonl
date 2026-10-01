@@ -1,0 +1,40 @@
+{"prompt_hash": "ffdcb7c495d061520174895609c7deabbdf07589b288f3018418d3a760712554", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a6a6c3c07ad86629699bccf3e6486119420f5aadd87416fdbe3bdd98c2d4b0e", "verdict": "adds_false_claim", "reason": "The story says the screen showed 18/7 as 2.5714285714285714 (and 2.571428571428571). Python actually prints 18/7 as 2.5714285714285716 (checked by running Python locally). The modulo results are correct."}
+{"prompt_hash": "49de75a9337a7671af2ced20cb3ef8ee75761c4e3a5fea11dca9d7e9adf103c0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0d0ef58b0b792cc76f9b5cb1aa95d437793771143973091991a47fb862678e8e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1e8b0b8d04f2ddb3083849182dd29b1359d63cfc7bbf3ff27d38e18e7ec5310a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d223012fa758ecfd083f063c61f83cae15f7761d1e66f8aac1ddd378d845fb88", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "09a943d05ef32f3e64c4e420dad782e0459bcc50c35f3dff8163d26207a5bc80", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49fbd3d79a96981ac314ce06fc58feb39b3ea010a816860559e57a7541d76d17", "verdict": "adds_false_claim", "reason": "Presented as Thai table manners, the girl uses the spoon to push food onto the fork. Thai diners use the left-hand fork to push food onto the right-hand spoon (Wikipedia, Thai cuisine, fetched)."}
+{"prompt_hash": "5d0497b704cf78908e109433f9e2ce6a8690b3a27fc35912986400b189143f34", "verdict": "consistent", "reason": "Section 2 and section 8 wording checked against the Charter text on laws-lois.justice.gc.ca (fetched)."}
+{"prompt_hash": "19bdad4d10a3cd6cdc1b8c7a16a56a870897089133f2790e36d32ac4ae0e9aba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "871a0ffadb88e3e4606aacd05c9accba0d456a57e6b7538407f6ea7b71f025fe", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a5da300b02c7f76e3a8151ebd26b19cffcab97fe70e9f36e70833dda78abfc45", "verdict": "consistent", "reason": "Official name and later retroactive naming checked on Wikipedia, Super Bowl I (fetched)."}
+{"prompt_hash": "0a71879e4b31bab030f9372daf9d19324c2a49ad46d1dfab0e20b2295b4a9641", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9399fac7a2003939adb2ec9e174c765a12b63b6d273cbb5ece75305ff163e924", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fb65c9f4a394962a7d749e003f90078f5c9bf3bba1153009d047a2e0dfad4d32", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0407e0f12a9eabd64f291c9588cdb03fccd9ac95a56769e20d1f23a88e366408", "verdict": "adds_false_claim", "reason": "The narrator says Ciara got x = 40 on 8x = 32 by multiplying both sides by 8. Multiplying by 8 gives 64x = 256, not x = 40, so this explanation of the error is arithmetically wrong."}
+{"prompt_hash": "7eedeb8bcc6d05333814a7d4b6aa5e1a3dac966f551863e37bf36137d4e19884", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6d6ffcb83b868b4090441f22a99deefff242accd325d4e26bb390f939b2a5de6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7772003e321a4299cd0034dad72ef192f5ee130db5923b01ffbf1cc730291926", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3d4a20bb3f9e3f126692d1811a987bc477ec2a73812b3fddca2e8de08f60e44c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2aa31386163cdfe3322730c2791e5c90bcb131192854548dd276a323853401c9", "verdict": "consistent", "reason": "eki = station and mae = in front of, checked on Wiktionary, 駅前 (fetched)."}
+{"prompt_hash": "5a1e7cfe557b58abcf8941ae89f65c136deabb70fb8c239280a05b525466aa9f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9af7e8221ada7c459fd53449ac5312d2a577a4159ba70953cdf9771277ee421f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "696cd7228d89d869bb0fc86ddd9d5381d9476392caa57298aeeb3617ebda805f", "verdict": "consistent", "reason": "The 4H/HB/2B ordering and the clay-hardness link were checked on Wikipedia, Pencil (fetched)."}
+{"prompt_hash": "d3e8ee7e3c14e6742492be2e91ebabca2878a0823119f714e4fc82a37e116f41", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2886a66d8c091035edd84cb4f9433c3d53b27f168adbcb7935b9440579dbc095", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aef416496bb0ffe008abcddce93a41633f1258159fa7f14ddba6c02ee8236731", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c4aa3418e65c66a0503dbcc27f3df0479b78429b435769d134ee76c73210ec17", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d77c03ccb2905088870db2b76c01abe84a4ad124c2b52c3d21efa46d965c6b7c", "verdict": "consistent", "reason": "Section 1 and section 2 checked against the Charter text on laws-lois.justice.gc.ca (fetched)."}
+{"prompt_hash": "16659bbd88fdf554e855a7b2b77b41bd6908e898940270cc9a962ee97323288d", "verdict": "adds_false_claim", "reason": "The schedule puts 25-minute rice on when the 40-minute curry has 15 minutes left. That makes the rice finish 10 minutes late. It should go on with 25 minutes left."}
+{"prompt_hash": "f2433c9388180e5cb8c8576c1d4b0ecacb364d1e0814538b96c5c3c468b6cbde", "verdict": "consistent", "reason": "The quoted Romeo and Juliet lines were checked in the Project Gutenberg text #1513 (fetched)."}
+{"prompt_hash": "1fb86559abc0dc5511f70974ecfab80b4b74075c4ec5c593b5261abbd0642c33", "verdict": "contradicts_fact", "reason": "The 446 km figure comes right after the depth sentence, so it reads as the canyon being a mile deep, i.e. 446 km. 446 km is the length (277 miles), not the depth."}
+{"prompt_hash": "3e178539447aa65a611820ea518855f340f13f7521020a7b28bb0c34a472fe70", "verdict": "fact_missing", "reason": "The story never mentions Japan. It only says slurping noodles is fine in this one family's home, so the fact about Japanese custom is not conveyed."}
+{"prompt_hash": "6974ca76d361dbd7ddfab1bde6514cb93fc8099968a84da925a5d1e073e907f2", "verdict": "adds_false_claim", "reason": "The neighbour describes the US-to-Japan leg as flying east, but Japan is reached by flying west over the Pacific. Waking at 4am is also given as the eastward symptom, but early waking is typical after flying west (Wikipedia, Jet lag, fetched)."}
+{"prompt_hash": "8a8ac5360c1958b5e05c5c778dcb9fe71064a3ed2b2608e3eb88511f53e56104", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "54e6086b5350c8112a62de63e0123fb6dfd7a57d39144786bf2a24e1107eb632", "verdict": "consistent", "reason": "uncertain: the story endorses that stacking blue film over red film gives purple. Real filters usually pass almost nothing and look near-black."}
+{"prompt_hash": "72594ae1e78c9a56808520dcf089f81f75bc84f9af7bbaf1202145a749c47f16", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "810f19adc16975f7c0708ab814be0d28936b70e4d9808ec709548611858524aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "aef2032d91b98868dd63cc76162e63cc4de30acb8cb97b6d34105c0db80b6e20", "verdict": "adds_false_claim", "reason": "Working backward from 7:00, 35-minute rice should start at 6:25. The story starts it at 5:25 (also before the 5:30 moment when he reads the card) and still calls it perfectly timed."}
+{"prompt_hash": "a0bec25447e8dc445e7622e329aeba487abb6ffd9c7b7cae946d65fbb15a726c", "verdict": "consistent", "reason": ""}

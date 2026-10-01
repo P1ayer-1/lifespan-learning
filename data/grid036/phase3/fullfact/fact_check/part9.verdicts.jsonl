@@ -1,0 +1,40 @@
+{"prompt_hash": "c91b070737222396c5aeddadd7f66d2d53c2619ebedd4ad5a58387d7974d39b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "866dda779a6aa164400497099b7c066f6373747abe43aa58185881c5e9e19321", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "41dbb4aaedd63fd321faed02a524499f3284134da81f37fc76e47441a07c15bb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3f9d1d1d6c764c9f54f596b15e6136048d114da1acd59f064bd5935818bdee98", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5af4ef12b19d6004b8c0bf94ed7d37700377bad22834bb048c66c9c9681451aa", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a443449f8cde0c22ef23c0fecebde6ac9e645e765fb09371b4111040390413c", "verdict": "consistent", "reason": "Checked: Wikipedia To Kill a Mockingbird (Atticus sin line, Maudie explanation, Boo's tree gifts); LitCharts ch. 21 (mockingbirds silent during the verdict wait)."}
+{"prompt_hash": "3ad455f0299974e9ea30cbd1af4f1d8fc08da88e5c847b68d26dd89f3b6af153", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "999e41e2feb761302974374a1f48a8f6e0a7adf221c0289e9608372e968929b6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dd2d9a26debbca0436a9e1cd4c5f938490c6c41b8425ffaa3f8c768c47a1f37f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "755079cd53b08958b934782b8a755418481ee15f14ba1933909b6eef54445093", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "49fc066c782c361f0ac9ae0da5875cd5cbb1b6c7b7780377e1a4caee1c45f8e9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "df0745c98df5b4d21a44fd46e742856239e8f07d55f3957151c7a049a868cc25", "verdict": "consistent", "reason": "Checked: Wikipedia Owl (head rotation up to 270 degrees, silent flight, mostly nocturnal)."}
+{"prompt_hash": "da853ae9bb7095b501ac90a1475ee2a9bb902d7167fd77e45acd502d25837808", "verdict": "consistent", "reason": "Checked: Wikipedia Iftar (fast from dawn after suhur to sunset, traditionally broken with dates)."}
+{"prompt_hash": "4fb4501da33175108b4f7d0d687073c2c99eba68f3d39bfcb38fb42245514723", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9dc779391f15f05fccf9bd1ed923c9f34712b6fe605b62b726595a052e6fba5", "verdict": "adds_false_claim", "reason": "Narrator says plain bread he baked stayed pale however long it baked, used as proof that only sugar browns; bread crust browns via the Maillard reaction, which needs reducing sugars plus amino acids (Wikipedia: Maillard reaction)."}
+{"prompt_hash": "10790e6bffd418cb3afee742fcd767ca51740327240110cc9a69e8fc33dbee09", "verdict": "consistent", "reason": "Checked: Wikipedia Adrenal gland (above kidneys; adrenaline speeds heart rate and breathing)."}
+{"prompt_hash": "e1647fe9ff63afbf07a351d3d4cb0e4fa984f3dc9d5acfdd2cd88a851100c9be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a7fe6eb8ce7b38463cc823c33427340b0ef78d3a6fd0b1190f6a2bd50ad9b37b", "verdict": "consistent", "reason": "Checked: Wikipedia Flooding of the Nile (Ethiopian Highlands monsoon rains, dark fertile silt)."}
+{"prompt_hash": "d1485e9004f3b57e135e8113a564603bd0aca8e761f8f973464bce0e4f799ec6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1565dea0e094a459e22a25a72f7abc45deff35e1a62724869d55fdaef175b74f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "793a784fdc5b826487c3bd6b51b2acf5a6b1f6f114992127fb429f38e3c8d358", "verdict": "consistent", "reason": "Checked: Wikipedia Snellen chart (Dutch ophthalmologist, 1862, top letter can be E)."}
+{"prompt_hash": "33214cc65e2cfaf634242a10312970a2e0788d2c18efdd3473bfc255c3d38d6e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8a25e248bb21b5dcc7af2b09e7a935a177e6da236a9b8b3285df23ead228b160", "verdict": "consistent", "reason": "Checked: Wikipedia Pinhole glasses (pinhole sharpens image for myopia)."}
+{"prompt_hash": "922e336310abcd49a5afa2d27390ca42593750e343dfdf072cc326c0c3976627", "verdict": "consistent", "reason": "Checked: Wikipedia Keystone (architecture) (top central stone locks the arch)."}
+{"prompt_hash": "f4c364fa325cc126e6ed0cd7d971af55ac39792552f194eeda1167a09525e5eb", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3aa65dbb2619100506d558f18c0cb2fbd6029209bf13d0c408c95a348244213c", "verdict": "consistent", "reason": "uncertain: story says the location screen has exactly three choices; Apple support 102647 lists a fourth (Ask Next Time), though the three named exist as the fact states."}
+{"prompt_hash": "f4926966da39b5ad1e9fa40d6aa99c529f09af208fdc14b8332835c44573b383", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "705d5547d2d5871ba1622970b21c11c9cf0b83652db14f86c5f8c6edb9886a4b", "verdict": "adds_false_claim", "reason": "Treats 3/4 m minus 1/3 m = 5/12 m as the ribbon available for the bow and calls it barely enough; 5/12 m is what is left after the 1/3 m bow, so 3/4 m is plenty."}
+{"prompt_hash": "3f9f2f73fb85c9328337ce81ca78c5c12253f54b5349d2910292dd234d238615", "verdict": "consistent", "reason": "Checked: Wikipedia Genkan (shoes turned to face the door, recessed floor); Wikipedia Etiquette in Japan (gifts sometimes refused at first)."}
+{"prompt_hash": "84e290031b9f7f95049a48df7ce1100d7f07c85684194178585aee35066f19ba", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "081f31af704d3fabc59cf2a984246e2dd75a3d994b48b9a8d825c2b2c82c0aa3", "verdict": "adds_false_claim", "reason": "A character dismisses jagged map marks on the west side as cliff symbols rather than slopes to argue the east is steeper; cliffs are the steepest terrain, shown where contour lines merge (Wikipedia: Contour line)."}
+{"prompt_hash": "529a97fb25869daf6e30b97f79636c4648637c8be627fbbbcdc629b9d7644dab", "verdict": "adds_false_claim", "reason": "Says each contour line is the same height as the next; adjacent contour lines differ by a fixed contour interval, each line being one constant elevation (Wikipedia: Contour line)."}
+{"prompt_hash": "985cc03eeb0d75d349dadf31796fc1e8fbb2e25db5fc47b319a7fbd1eaaf8116", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "715b38df0751a4554b985b0e67ff49a906f432a7fa6f85d4f134dcdeef57c634", "verdict": "fact_missing", "reason": "Story gives the meaning 'ascending the stage' but never says the arangetram is a dancer's first full solo performance, and the end-of-training idea is raised only as a 'maybe' and then doubted."}
+{"prompt_hash": "18e530784a24c5dc63c1ca49e5437f5a93b3e95ac7aea54ca405e302117beeb4", "verdict": "adds_false_claim", "reason": "Recipe's half cup of cream must be doubled to 1 cup, but the resolution pours 1/2 + 1/3 = 5/6 cup of cream, adding the cream and honey amounts instead of doubling."}
+{"prompt_hash": "9daf73479364d263e4aa3c98d6a56bedc07ca8cc606fa973da313ee860e7f08f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "bcccb0bdd9328b4420e674ed266458421832a70a1ed392c0532f1b4b034e05bf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "82278a04a72935e86e0ccf1bb420766d66f24e9d59d22c59337846b8aebda16b", "verdict": "consistent", "reason": "Checked: Wikipedia Greenstick fracture (tension side breaks, other side bends; children's softer bones)."}
+{"prompt_hash": "b1c1cf39b46c5158dbac7afbb8aee2591faa91a6fea993ab6f6f2daacbb5f223", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c89ec20f9646fef4acb1b09eaa4bf1c0f754313d3f5a4cfcb34bf15f3dddaac8", "verdict": "consistent", "reason": ""}

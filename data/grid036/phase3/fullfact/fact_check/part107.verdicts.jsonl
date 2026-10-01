@@ -1,0 +1,40 @@
+{"prompt_hash": "129c161dc9781cdbcacd034b8af719f6668273cf42722140259fea14bd98ca0e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "00a4f8331c19c8b9b26a0a503582b05c3280eecdedbce3029608f7c00108936f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cab05ed1c7140a70a36510ac162bd9c2a1546e6e3388618d8062abd363cb8c7d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d1b3cabd69353e4a2812d07170561b4362e031819c790d64b54b972a56cbc3f7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "05ae57b83f38cde9eee722e61a0202a9c946747e5bde658afcef6d8cf85567a0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "e2d7ece6c3470c123042f7dc668e17e65b37e25af36f608bdbdbb8481c0d200a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "125be94a4872f28c211f33b4269989dd227282ce8c3e99593e0e09a4cba5c5cf", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "78dbff43036390f6aa41fd1d96be44f47e91822edf12256e4e421fef884e5fd4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1de62ef03558bb9c3da8f4c576276ab7e8fb4c13d3b802cbee575f8089ff5d68", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f182d978b9e8a464b37174badf1ee8a389e62994c7d4809b10d53cd88faf30a", "verdict": "adds_false_claim", "reason": "Elijah calls the sugar-water lap 'two whole seconds' and 'a pretty stable result', but the test measured a 0.4 s gap from one lap per condition; a single trial is not stable evidence, the very point the story is meant to teach."}
+{"prompt_hash": "226683b1a89c072c977ff0958a409a57c220e7c4a2fe289ea4d79716b56c7a1b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Section_33_of_the_Canadian_Charter_of_Rights_and_Freedoms (s.33 covers s.2 expression; recent provincial use)"}
+{"prompt_hash": "1a7dd722399dd02e2c69b809e9b10b23414b9b8d84e81d4bd71a20af7baeeda9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0a9443fa8c33bcb32675d74f897cc00d8a6099edaff471e506d4f3b31862d8fe", "verdict": "adds_false_claim", "reason": "The coins Edouard finds (three dollars, two quarters and a five) are totalled as ten fifty; 3 + 0.50 + 5 = 8.50."}
+{"prompt_hash": "62cd74ee5159c7dca14fd65b4cd28d25b956e27f9ec323f9c8315794e2af0976", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Section_15_of_the_Canadian_Charter_of_Rights_and_Freedoms (s.15 in force 1985)"}
+{"prompt_hash": "aaf2696c033c09f0a3258c3a4c7a0518d5d0328d5c15756355941b09b1ff26b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f7abd6c52394f23c37f6c314677d8ff9d164e742edf1a759a8687a85778ca82", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8f3f35a407cf652abd3fb035493dc118677c185a8bfbb4c1a757803169706688", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25dc9b25731a967d3745d6d926c5f9e9b531b55e2af2f1d156cef70056f3ad30", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a727dda5f44cdeb4230a604f4c80f7e18659459845f0bc234983583ec4e014a9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dda72b057729c647ff1c85028d8e38de6da547dea5d03d0fe635019fa60af451", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "25f32f9718dd7a35e74aa5f56fef4ee746faf7cb6fa3dd5bedb2b5de9cacabd7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2d1fae273904db238f528d495e07fae9e20411043a91ad25ca3e409ae73bbde0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5d4aba67f47270b2f62bfbecd0f14b5305fdc2c780f144406da15b19cbdd035e", "verdict": "adds_false_claim", "reason": "Stepping the loop by two is shown cutting a run of over four minutes to one second; skipping even divisors only halves the checks, so it roughly halves the run time."}
+{"prompt_hash": "1ecc2644aef8fdf6b7efbf0f12e2b16a8dd16918821bf6bc9b5d88ec12e79937", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Mucus (myeloperoxidase colour; not a bacterial marker)"}
+{"prompt_hash": "2d1f1a86aa8cd0be51015468cdf2436c2d815223d2a25e9630b11f1f52b77ec0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a9039e607c39ea75cd08409dc5b6d6da8797e7666ff8a776bfb15695dc6886e0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a12a6cf456e35c152fca7c155ea878e6ca2a9024d536c48ada16e1a028135be2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1cf3f998ffacf09c915e7962a892066e4a5f109417aa0d8f0fbb2abbcba5eca3", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ab2c6cf2e12ac623ab87f0b14eb5674d6482953a6e3b16cf7b1f4dbb227070e4", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/800_metres (Rudisha 1:40.91 still the record)"}
+{"prompt_hash": "b40093aa88514779f49e1802945a33962461c7777299b6d7e0622b5813946b2c", "verdict": "adds_false_claim", "reason": "The line read aloud as Jackson's text ('Bobby Martin had a pocket full of stones...') is not her wording (she wrote that he 'had already stuffed his pockets full of stones'), and it is in the second paragraph, not the first. Wording from memory; text pages could not be fetched."}
+{"prompt_hash": "7bc661606c8f45e486f811c3a1d4edf6dbb1598341d257e4ef18efdbff0dcbbd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d51816731fb6ed402bcc087aa5787855a5d920c9c7d9d165cc54863eb9ab4426", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ac6a394b9706330c9236881c2f299677baf689f1e9ec5abac5381611e5c0b051", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1045042f8a091fe16a3704dda8c1a223b70b55e7ac81a2fb2b0151d279518a11", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "183240fa52657a09e03317e5f09b31553bcaf94bc9ae8fea905e8d0ba6d2e5c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c9e37b0ba698c6736baeedf4c7dbd1f1d9a065df46b0d5086e40e87982f16ea", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "39e5c1add455bdb356de0607e4e14231cacd6a2f9a7d8e7dc571114376044a5c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a63d9406c9721d6523340cd4824509c0370e2293664a9d26d49c09fecb77fbe4", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7327910e33742f59ad1c5bb97edae0a46ec8b2826a53cb9bd99e8666522bd16f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "61bbe553284b34d3a451b680ca7cf31e67977509984af321fb351b1414f02899", "verdict": "consistent", "reason": ""}

@@ -1,0 +1,40 @@
+{"prompt_hash": "10bd52f19a2bea5446323bccf0afd157c0875b651354dafa51e71cc022c8837c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "21829ed947eb3b984b38ea387941a374922e5fc22ec1586a3456a0095f60c24a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7f58f76230ca7c9ca130c0ad0840979f5ee66311161a8fc9d413a129b9d135b2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "48535706e74674cbe47e5584646e970f709b798e99abfa54c42b7242cc19b62c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "88dde6410b97e45b06309fccc65fc8d065876eee416df4ee9741de1d88916a00", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "26b3bfd9bd0c90879c9ec5e1280fcf0307c80a9c8ce278f4b1447c8dd8cbf27b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "887b0ef51b916636e63c49dd0413a66c0e3eaa48d02336b93b702781a5d3c5f6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "3575f407699bf095fa2d42a49420647bf46127652f3266645758aaf5f5b8fdbc", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c33c32ff1e9a909a16778ae3720d56b7e6bb3dbb85b1483025d3fa11e4b03dc0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "8439a2834ff8f5a8f99034cc6a53ec8af527327a5792e61a54078b49c4bcc72a", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hot_hand (Miller-Sanjurjo 2018 reanalysed the same GVT 1985 data)"}
+{"prompt_hash": "f807a842d85ba1f1eb372d89385d9be17c7b2e01183b5494415c7b3eead10c1c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6c097cd8c7d92d9c462f07f46d9bdc1cc7d25659ece8dc6d5ec89a7b7ae73f0b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2134619b7c868719b39fba54da1a4155886fed2a30bdbb97befeb80f3d312c6c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "991705864702f6b1d4c180543c26a57cbdc0679ef835d0dfed6ff4689333ebc9", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/John_Lewis_Gaddis (The Long Peace, 1987)"}
+{"prompt_hash": "c7a2de44e3f0c9a9f8c84df68caa2af902fdb85fdf5a5f5dfc574f4744bb6fd7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9f76f45070b1aa7c54171f05a6299e6f00ceac64cf813eeb98684a8319380251", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/SAT (digital adaptive from March 2024; module 1 sets module 2 difficulty; weekend scores ~2 weeks)"}
+{"prompt_hash": "7d760f5caf2a470fcf221f6f0913bcf0f561f126391223859a762e70f7e18763", "verdict": "consistent", "reason": "checked: copyright.gov/help/faq/faq-general.html (protection on fixation; mailing to yourself is no substitute for registration)"}
+{"prompt_hash": "10d16c18a9c105406ade0bfc50eaa475c21a26122d07f8f0b52c99314bc5c0da", "verdict": "adds_false_claim", "reason": "'Zachary read aloud [from Leviticus 19] ... to do no work, ... to sons and daughters, to servants, to the stranger within the gates.' Leviticus 19 only says 'keep my sabbaths' (vv.3, 30); the no-work command listing children, servants and the stranger is Exodus 20:10/Deut 5:14 (checked: biblegateway.com Leviticus 19 KJV)."}
+{"prompt_hash": "0615e65548e77ed90832046ba7b413ce810851c019f0e7bc260f9b1c4648a2f9", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "854976b48bae527f492a31c5e7dc8649d1c919415cf46d440ecd90a77b7ecf1a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "70c55fd27b7b413c955fd6782164e76470f73d261b5b6e99818eaba5383ee299", "verdict": "consistent", "reason": "uncertain: 'pink could mean nothing' (USDA says color is not a reliable doneness indicator; FSIS page returned 403, not fetched)"}
+{"prompt_hash": "8e3d45504e26e8a223a313c10741dc57b9d1c8e7396fe9991712eafce42eaa87", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "705ab250a795ae3e13c5bb134ab2c718e720adea3ca5d43802960aa6ae7b07ad", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "4b7c5c3cd5ad797cb2376bc7eb5db11062834c7c7826338607887d072bbccc6b", "verdict": "adds_false_claim", "reason": "'The Catcher in the Rye ... opened with its narrator announcing himself a liar' / 'on roughly the first page'. The line opens chapter 3; the novel opens with 'If you really want to hear about it...' (checked: shmoop.com chapter 3 summary)."}
+{"prompt_hash": "25ff7d17b04079182665f946e6ec75cafe738485ab723e98d9da4c47b64ba15c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "78faa4cc96249807f09e3aa096739df1e544cd4cf51a4069d4f69f22cca7395b", "verdict": "adds_false_claim", "reason": "'The asymmetry ... one side bulging more than the other in the middle years, belonged to the men, not the women.' On Portugal's pyramid females outnumber males in every 35-64 age group (checked: populationpyramid.net Portugal 2024 data)."}
+{"prompt_hash": "c4cd8a7327b01652babc19d319e5001aee67ae20a5e1a63b139e1d1ebc022fa8", "verdict": "contradicts_fact", "reason": "Gray over orange 'sat warm' and over blue 'went cold', which the story attributes to simultaneous contrast. Under Chevreul's law gray beside orange shifts toward blue (cooler) and beside blue toward orange (warmer), the reverse (checked: en.wikipedia.org/wiki/Michel_Eugène_Chevreul)."}
+{"prompt_hash": "2223e9518ee9ef5c0572b2e635664b78ac7580d4808b182b3a62c3cdbe355a21", "verdict": "consistent", "reason": "checked: apcentral.collegeboard.org AP 2-D portfolio page (Sustained Investigation 15 images, 60%; Selected Works 40%)"}
+{"prompt_hash": "366ed8180b2644f3a5f799c60116dde9948021d442c7c7ed14c7d9fdbcb13716", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Early_1980s_recession_in_the_United_States (unemployment peaked at 10.8% end of 1982 after Volcker hikes)"}
+{"prompt_hash": "8fc0cdca40d0beae6ef7087c90ef80d61e1f433d51fb8e338f786cfee55ba89b", "verdict": "adds_false_claim", "reason": "'Seven hundred and fifty. Zachary had six hundred and forty and a fifty ... The numbers fit.' 640 + 50 = 690, which is $60 short of $750."}
+{"prompt_hash": "4f74ad140c13a9662ba5287e5fab13a8a08606f5e4a4477de0899f73dcc1244e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6dbc5e0321bf855573ae297f75169cc892b35fecf57974a10803fcd17b8de25f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1ca31b4a994feb9f95734b6188bc77d329553bc8d8a4e24aaefe95104015c03d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "013aa2e749bdeb66537610e380485004b56da53c546b177c788ff0d4dc0e351b", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hot_hand"}
+{"prompt_hash": "0f4ee1baf8e14e43dca3842f68a7aa413477123b97b9ccf68be8af324e4412c8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d6b87b2b0dd97f1b32ca8bda9323ce81f2d640be7a5328ddf8faac8e20025858", "verdict": "adds_false_claim", "reason": "'The chocolate on the table could survive the sun because the crystals ... melted at about 33.8 degrees'; samples held in July sun for hours. Form V melts at ~34°C, which chocolate in direct summer sun readily exceeds; tempering does not make it sun-proof (checked: en.wikipedia.org/wiki/Chocolate_tempering)."}
+{"prompt_hash": "40e218fb60a86398e5391aa53f6073a00beb64c7159d5adbc66c4857345920b0", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d2aa8e5f5eecffcf9c1c0e65c14c19beb2bc2cdb6c261ce41bbb2fdd6904222b", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1def80eb3b509b1cd6e9f3fb4e469881db5391ead29d4a4c5a2ed29b1562a6a5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6165301ecbe387f7d1649d7156748c7d03a6f040db9e31f39d39cdb7d3eed878", "verdict": "consistent", "reason": "checked: en.wikipedia.org/wiki/Hypertension (2017 ACC/AHA stage 2 is >=140 and/or >=90)"}

@@ -1,0 +1,40 @@
+{"prompt_hash": "a4c49beffc63182167655a2f4c92f82bf418ed8f6a2ee969aaed52bf52b10159", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "649b143847c481fdae767fcc36ebbafe29850d46e92641963376165631987a9c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "31c9c38054f43ab3e2f40340947e9a025b5c298f9fc6f01ede2deaaab5960cdd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "a30547d253e1d7dea9d033ff4bcfbe09ecdc12009526de671c9c5eb2b59d93db", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c3e0620687abd162660912ae14827bdadec382a046bdbe14e55d289c4b2bfbb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6a5e65a1dc924a0a0fc6a8bafa76f3ddddbdd84649bed450887b90ce780ed75e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "80c962a59169dfee9eae5b67c826d620d6202c809459ec4d5d06d99e37ae2a47", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "026b9f5528d2374db17d69d364462aa0edb14fd4efc73e2f33bb4bf99a91f4e0", "verdict": "fact_missing", "reason": "Story says only that Redi put meat in jars in 1668; it never gives his result (maggots in open jars, none in gauze-covered jars). Checked: en.wikipedia.org/wiki/Francesco_Redi."}
+{"prompt_hash": "41dfa2a3e4bba47cf2976a2d2cb72eb3886311d928bd0e4b99c6402bd2da896c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "2396c924ce682b4495ce41366dbd51b61cd246347b9a010782283179ca8cf231", "verdict": "consistent", "reason": "Control blocks are amber/orange; repeat and forever behave as described (checked: en.scratch-wiki.info/wiki/Control_Blocks)."}
+{"prompt_hash": "91a8306d6c2e3dc3c99d9af929077f6cb49a34dffb6590a5d48fb87836a7637f", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "7e0878d62421163afc6cd81bc9630fefeffc0afdf4af48dc753b291f507a3fe8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "dec7528028f904dcc56baf577c99b62dcf68c5a7b9dd3c08978a4708f88129be", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "19de58089e4001d93fd97b23ac30f1b19db9246dc14c2dc3743510ec590266b5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "c463944202ab6d02633aec1b87b9c404e567b128ac2088dbbd7ea9ff2c845665", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "43b4dda2478c73ad29fda34f110239a5e0619e4d87a98fc8cf68477e6da5fecd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5cfd173e5fe4a86fdc8670348dde4a2b41cbd40c4a157792ff48cb5e57e1ebb6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "d5c5dfd787edc16ed544b5d771eef542f7882927c9ecd5850804f6872254c32f", "verdict": "consistent", "reason": "Wine, besamim spices and braided candle after three stars on Saturday night (checked: en.wikipedia.org/wiki/Havdalah)."}
+{"prompt_hash": "ba1a462cd6040ce581becf2434ade73ebea7a8f066eee92151a8edc61bec447e", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "0c7586df281059852cf2dfa82701591bd2ed7c5130c7061720bdc0b949e55171", "verdict": "adds_false_claim", "reason": "Story places the townspeople's 'Able' reading near the end, in the last chapters. It is in Chapter XIII ('Another View of Hester') of 24, mid-novel (checked: gutenberg.org/cache/epub/25344/pg25344.txt)."}
+{"prompt_hash": "59d7dca90604783ff7e2c608c3ede9b3f48792d6c7ba517c4f06816217dba3c5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "9fb3f8dbee1f590747d9d27d49d052afa3fbdaeb85aeee3804e8f5cbcb27c351", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "fba389df8abb6af084c02d4cc4dfc0c2fbb2f484c1094f90da370759a6370846", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "5b64c7eea5c1fe9e70abd48eedab6df402a8c75a8b9f4ed16c844a031e4fec78", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "77725bfce32a17729eef746063623253f9f91f5e86436f5d1c5c08e9f60df1d5", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "23c6a805520de4347dc7bea96efaab854d07c796e822f9b27347381b4dbb3e53", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "560325c07b4b0e05782a514e42241037a57dd71ff6839d0b7741c7322312886d", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "98ee5f7c55f1df59b54716a5e3012ca79798470d758bbdb2e8af9e1e65c7a47c", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "1a42eed94c0511262f4a426e77f9c535dbb735add16fc2fc52c4774413f495be", "verdict": "adds_false_claim", "reason": "A character says the passer rating's top mark, 158.3, has three decimal places, and nobody corrects her. 158.3 has one decimal place."}
+{"prompt_hash": "8a25764d07d8e82d69d3731d19265df4087ed38a66dfb8680fad408b76941736", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "6f885e086bbc7b06a1c3f35b38cd932f8441dcee8a2cf6a9888b0ffdcf6b9dfd", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cb72da43ef37966f8ab058c2e213b30a8c27f15addac5f96eae93be4d0115a2f", "verdict": "consistent", "reason": "Bacteria breaking down sweat cause odor; glands activate at puberty (checked: en.wikipedia.org/wiki/Body_odor)."}
+{"prompt_hash": "a1f77bbeb288025f493bc661dc8f516c5d0e31b90e34b376cacc3d1fdc871bfb", "verdict": "consistent", "reason": "Pencil core is graphite and clay; graphite is harmless if swallowed (checked: en.wikipedia.org/wiki/Pencil)."}
+{"prompt_hash": "e6d481b2968cd4666e9383e6394b193c1fe3ed7943c15e46fc571fe712cc897a", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "cfe202e3746eb9d4e71dd03b1b1f39dfcd60daed058df866a1b521d22b2f8ac2", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "531cab3334ff4fcf32d7c3491444ef7d5144c78cd35d5aa6085970c97ac48be8", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "198ed50287aed20e6ce6e90d240d9b714f4caf88bbda0001c3586c2243a970a6", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "ba4dccbb0fe148f79e92a65043070ec79f954ea133d5e9f6febe8b3aca7c1995", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "56faf59e1b830cbb70c1261495246bcffa83d9fc0977360ede045db8ca0816b7", "verdict": "consistent", "reason": ""}
+{"prompt_hash": "952ba8c5c0eff532f8f9008424b5cead2053baaa9349dbcaee8e0a0135fd1976", "verdict": "consistent", "reason": ""}
