@@ -173,6 +173,11 @@ class OpenRouterProvider:
                 last_error = f"{status}: {self._error_message(body)}"
                 self._sleep(min(60, 2 ** attempt))
                 continue
+            if status == 402:
+                # Out of credit, or the credit reserved by in-flight requests:
+                # transient, so a later run (after a top-up) retries it.
+                return {"custom_id": custom_id, "outcome": "errored", "retryable": True,
+                        "error": f"{status}: {self._error_message(body)}"}
             if status != 200:
                 return {"custom_id": custom_id, "outcome": "errored", "retryable": False,
                         "error": f"{status}: {self._error_message(body)}"}
@@ -205,7 +210,11 @@ class OpenRouterProvider:
             if it.custom_id not in self._results
             or (
                 self._results[it.custom_id].get("outcome") == "errored"
-                and self._results[it.custom_id].get("retryable", False)
+                and (
+                    self._results[it.custom_id].get("retryable", False)
+                    # cached before 402 counted as retryable (2026-10-01)
+                    or str(self._results[it.custom_id].get("error", "")).startswith("402:")
+                )
             )
         ]
         if not todo:
