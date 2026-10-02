@@ -1,0 +1,10 @@
+{
+  "batch_id": null,
+  "custom_ids": [],
+  "pending_retry_hashes": [
+    "4a0b89d6945d1ee945360590de9526727fb8abc7a832054a533b6e216c175d18",
+    "b646cd3851ae2772b01f599aba8a31259cc11acbd10c38617f93df3549d8a8cc",
+    "45fa862bfae6da8d57b18b77752efb24d61563e29e185cd55aae68af045a6642"
+  ],
+  "retry_attempt": 3
+}
